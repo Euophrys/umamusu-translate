@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CJTHBQ5RJLPDZNZZRSC5BAI5O3PGLEKV",
     "type": "story",
     "storyId": "041009005",
@@ -11,6 +11,7 @@
             "jpText": "ある日の放課後。トレーニングを始めるため、\r\nダイワスカーレットを迎えに行くと――",
             "enText": "After school. \nI came to pick up Daiwa Scarlet for training, when…",
             "nextBlock": 2,
+            "origClipLength": 98,
             "pathId": -5248877235410932740,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "朝からいろいろと頼んじゃって、ごめんなさいね。\r\nでも本当に助かったわ、ありがとう。",
             "enText": "I'm really sorry for asking you to do so many things since early \nthis morning. But you've really been a huge help, so thank you.",
             "nextBlock": 3,
+            "origClipLength": 187,
             "pathId": -6097613347144088386,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "そんな、このくらい大したことじゃありません。\r\n必要な時は、いつでも仰ってくださいね！",
             "enText": "Oh no, it's no big deal. \nPlease tell me whenever you need any help!",
             "nextBlock": 4,
+            "origClipLength": 176,
             "pathId": 8207230359439221833,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "それじゃ、失礼しまーす。",
             "enText": "Now if you'll excuse me, I'll be going now!",
             "nextBlock": 5,
+            "origClipLength": 76,
             "pathId": 7674610418644032888,
             "blockIdx": 4
         },
@@ -47,6 +51,7 @@
             "jpText": "……ふぅっ。朝からいろいろ頼まれごとの多い日だったわね……。\r\nさっさとトレーニングの準備に行かないと――",
             "enText": "…Phew. People have been asking me favors all day… \nI've got to start getting ready for training-",
             "nextBlock": 6,
+            "origClipLength": 235,
             "choices": [
                 {
                     "jpText": "疲れた顔してるな",
@@ -59,6 +64,20 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 210,
+                    "pathId": 7938562487785592493
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3850068749957033074
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -8227604499014195422
+                }
+            ],
             "pathId": -3685205367282455355,
             "blockIdx": 5
         },
@@ -68,6 +87,17 @@
             "jpText": "ひゃあ！？　ト、トレーナー！？　びっくりさせないでよ！",
             "enText": "Hya!? <i>T</i>-Trainer!? Don't scare me like that!",
             "nextBlock": 7,
+            "origClipLength": 128,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 744606353436329154
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -9192353809149669928
+                }
+            ],
             "pathId": 4075702739579796805,
             "blockIdx": 6
         },
@@ -77,6 +107,17 @@
             "jpText": "……ったく、わざわざ呼びに来たわけ？\r\n余計なお世話だっての！　今から行くとこだったんだから。",
             "enText": "…Sheesh, you went out your way to pick me up? I was about to \nstart heading there anyway. Mind your own business.",
             "nextBlock": 8,
+            "origClipLength": 247,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 1368509995251602607
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2233851505967158470
+                }
+            ],
             "pathId": 6593230189491617208,
             "blockIdx": 7
         },
@@ -86,6 +127,17 @@
             "jpText": "……それと、別に疲れた顔なんてしてないから。\r\nアンタの気のせいよ、気のせい。",
             "enText": "…Also, I'm not tired at all. \nYou're just imagining things.",
             "nextBlock": 9,
+            "origClipLength": 220,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 1281900663672058627
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7771391899677248900
+                }
+            ],
             "pathId": -1791039770854729343,
             "blockIdx": 8
         },
@@ -95,6 +147,7 @@
             "jpText": "頼まれごとなんて日常茶飯事なんだから、どうってことないわ。",
             "enText": "Doing favors for people is part of my daily \nroutine so this is nothing to me.",
             "nextBlock": 10,
+            "origClipLength": 130,
             "choices": [
                 {
                     "jpText": "無理はしないようにな？",
@@ -107,6 +160,12 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 6137579597392476332
+                }
+            ],
             "pathId": 3637913153193749416,
             "blockIdx": 9
         },
@@ -116,6 +175,13 @@
             "jpText": "わかってるわよ。けどね、アタシは優等生なの。",
             "enText": "Yeah, yeah. I get it. Just so you know, I'm an honor student.",
             "nextBlock": 11,
+            "origClipLength": 142,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4483330358487244094
+                }
+            ],
             "pathId": 1627510973863928104,
             "blockIdx": 10
         },
@@ -125,6 +191,17 @@
             "jpText": "誰よりも頼りになって、誰の期待も裏切らない。\r\n生活態度も勉強も走りも、誰にも負けない1番のウマ娘。",
             "enText": "More relied on than anyone else, and never failing anyone's \nexpectations. The best horse girl in terms of lifestyle, \nacademics and racing: Number one.",
             "nextBlock": 12,
+            "origClipLength": 312,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -1307010834814640317
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -71050786040685190
+                }
+            ],
             "pathId": -7658934376520999851,
             "blockIdx": 11
         },
@@ -134,6 +211,13 @@
             "jpText": "それがダイワスカーレットなの！\r\nこのくらいのこと、自分でどうにかするわ。",
             "enText": "That's what it means to be Daiwa Scarlet! \nI can handle something as small as this myself.",
             "nextBlock": 13,
+            "origClipLength": 177,
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 1961389118388349575
+                }
+            ],
             "pathId": 5558349319266254088,
             "blockIdx": 12
         },
@@ -143,6 +227,7 @@
             "jpText": "私生活のことまで気にしてないで、\r\nアンタはトレーニングだけに集中して。",
             "enText": "Don't worry about my personal life and just focus on my training.",
             "nextBlock": 14,
+            "origClipLength": 157,
             "choices": [
                 {
                     "jpText": "でも、君を支えるって言っただろう？",
@@ -155,6 +240,12 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 6622621979963721642
+                }
+            ],
             "pathId": -1414718918377979277,
             "blockIdx": 13
         },
@@ -164,6 +255,21 @@
             "jpText": "そ、それはスカウトの時の話で……！\r\nそりゃあ、1番をとるためとは言ってたけど！",
             "enText": "That was all the way back when you scouted me…! \nWell… I did say I was going to be number one, but…!",
             "nextBlock": 15,
+            "origClipLength": 241,
+            "animData": [
+                {
+                    "origLen": 206,
+                    "pathId": 8804567653191603235
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 3137101588704911995
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -3037467495536670701
+                }
+            ],
             "pathId": -2204021834449828770,
             "blockIdx": 14
         },
@@ -173,6 +279,17 @@
             "jpText": "だからって……\r\nこんなことまでアンタが気にする必要は……。",
             "enText": "But that… doesn't mean you have to concern \nyourself with something like this…",
             "nextBlock": 16,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 9037530145735256653
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5497122039127673454
+                }
+            ],
             "pathId": 1974133707266178560,
             "blockIdx": 15
         },
@@ -182,6 +299,13 @@
             "jpText": "ダイワスカーレットさん！\r\nちょっといい？",
             "enText": "Daiwa Scarlet-san! Can I ask you something?",
             "nextBlock": 17,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 6379900678727354216
+                }
+            ],
             "pathId": 701550614090882530,
             "blockIdx": 16
         },
@@ -191,6 +315,21 @@
             "jpText": "あっ……な、なーに？　どうかしたの？",
             "enText": "Ah… Y-yes? What is it?",
             "nextBlock": 18,
+            "origClipLength": 96,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 2040521577847230463
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8596154917505194735
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -1126148730168655300
+                }
+            ],
             "pathId": 9086431338606035051,
             "blockIdx": 17
         },
@@ -200,6 +339,17 @@
             "jpText": "明日の調理実習の準備で、器具を用意しておかなきゃいけないの。\r\n悪いんだけど、手伝ってもらえないかなぁ。",
             "enText": "Actually, we need to get some appliances in place for tomorrow's \nhome-ec class… Sorry to bother you, but… I was wondering if \nyou could help us with that.",
             "nextBlock": 19,
+            "origClipLength": 214,
+            "animData": [
+                {
+                    "origLen": 163,
+                    "pathId": -1337783804678118360
+                },
+                {
+                    "origLen": 192,
+                    "pathId": -8900336881416814105
+                }
+            ],
             "pathId": -3473332934190903294,
             "blockIdx": 18
         },
@@ -209,6 +359,17 @@
             "jpText": "ええ、構わないわよ！\r\nすぐに行くから先に行っててくれる？",
             "enText": "Yeah, I don't mind! \nI'll be right there, so could you start without me?",
             "nextBlock": 20,
+            "origClipLength": 132,
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": -7169261496095394452
+                },
+                {
+                    "origLen": 149,
+                    "pathId": 3862343829398440503
+                }
+            ],
             "pathId": 108801117603054838,
             "blockIdx": 19
         },
@@ -218,6 +379,17 @@
             "jpText": "わっ、ありがと！　やっぱり頼りにしてよかった～！\r\nそれじゃ待ってるねっ。",
             "enText": "Wow, thanks! I knew I should have asked you! \nSee you at the storage room, then!",
             "nextBlock": 21,
+            "origClipLength": 156,
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": -450011669126825918
+                },
+                {
+                    "origLen": 168,
+                    "pathId": 2581887575475327743
+                }
+            ],
             "pathId": 3993073582134293904,
             "blockIdx": 20
         },
@@ -227,11 +399,22 @@
             "jpText": "……トレーナー、悪いけど先に行ってて。",
             "enText": "Trainer, sorry but you'll have to go without me.",
             "nextBlock": 22,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "手伝うよ",
                     "enText": "I'll help you.",
                     "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -1262339871929293348
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -435499396035096108
                 }
             ],
             "pathId": -1771614615201930468,
@@ -243,6 +426,21 @@
             "jpText": "いい、アタシがやる。……別にアンタがどうこうじゃなくて、\r\n頼まれたことを他人任せにしたくないの。",
             "enText": "No, I don't need any help… It's got nothing to \ndo with you, but… I just don't want to rely on \nanyone else for something I got asked to do.",
             "nextBlock": 23,
+            "origClipLength": 276,
+            "animData": [
+                {
+                    "origLen": 233,
+                    "pathId": 6635783951909450209
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4929557020222609769
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7175664411475306117
+                }
+            ],
             "pathId": 7206475676382599395,
             "blockIdx": 22
         },
@@ -252,6 +450,13 @@
             "jpText": "それよりもほら、アンタは先にトレーニングの準備をしておいて！\r\nすぐに行くから、いいわね！？",
             "enText": "You should just focus on getting stuff ready for training! \nI'll be there soon, okay?",
             "nextBlock": 24,
+            "origClipLength": 221,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 3778957244862397197
+                }
+            ],
             "pathId": -1764365731505694338,
             "blockIdx": 23
         },
@@ -261,6 +466,17 @@
             "jpText": "ダイワスカーレットに追い払われてしまった……。",
             "enText": "I got driven out by her…",
             "nextBlock": 25,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2482063145527073557
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7909094408370822332
+                }
+            ],
             "pathId": 1421486949806852887,
             "blockIdx": 24
         },
@@ -270,6 +486,13 @@
             "jpText": "それから30分後――",
             "enText": "30 minutes later.",
             "nextBlock": 26,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -2358254081017129834
+                }
+            ],
             "pathId": 2000672948872362292,
             "blockIdx": 25
         },
@@ -279,6 +502,17 @@
             "jpText": "はぁ……思ってたより時間がかかっちゃったわね。\r\nさっ、始めましょ。",
             "enText": "Phew… That sure took longer than I thought it would. \nAnyway, let's get started.",
             "nextBlock": 27,
+            "origClipLength": 216,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -1729813222691705942
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5190647522335093339
+                }
+            ],
             "pathId": 8686132550180475684,
             "blockIdx": 26
         },
@@ -288,6 +522,7 @@
             "jpText": "……って、なによ。ジーッと見つめて……もしかして怒ってるの？\r\nまあ、待たせたのは悪かったけど。",
             "enText": "…Hey, what's with you? You've been staring… are you angry at \nme? Well, sorry for making you wait.",
             "nextBlock": 28,
+            "origClipLength": 290,
             "choices": [
                 {
                     "jpText": "1人で無理しないでくれ",
@@ -300,6 +535,16 @@
                     "nextBlock": 28
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": 371124014852290564
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -5362554324104707590
+                }
+            ],
             "pathId": 3801499928174903114,
             "blockIdx": 27
         },
@@ -309,6 +554,17 @@
             "jpText": "べ、別にしてないわよ！\r\nこのくらいこなせなきゃ、1番ではいられないんだから！",
             "enText": "I can't stay number one if I can't even do something like that!",
             "nextBlock": 29,
+            "origClipLength": 177,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 3075869786893846209
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 6765786074685098630
+                }
+            ],
             "pathId": 626273241506644884,
             "blockIdx": 28
         },
@@ -318,6 +574,7 @@
             "jpText": "トレーニングだって、遅れた分は必ず取り戻して――",
             "enText": "The same goes for my training. \nI'll just have to make up for how long I've been late-",
             "nextBlock": 30,
+            "origClipLength": 108,
             "choices": [
                 {
                     "jpText": "もっと俺を頼ってくれ！",
@@ -330,6 +587,12 @@
                     "nextBlock": 30
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6117062125334055686
+                }
+            ],
             "pathId": 8308015522379914458,
             "blockIdx": 29
         },
@@ -339,6 +602,17 @@
             "jpText": "……っ。\r\nなによ……アタシが意地張ってるみたいな言い方しないで！",
             "enText": "What the heck… Don't make it sound \nlike I'm the one being stubborn!",
             "nextBlock": 31,
+            "origClipLength": 170,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -7503415428837744719
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8515173417969437639
+                }
+            ],
             "pathId": 2514589054876179961,
             "blockIdx": 30
         },
@@ -348,6 +622,17 @@
             "jpText": "それに……アンタのことは、\r\nトレーナーとしてなら……そ、それなりに……。",
             "enText": "Well… You're my trainer after all… \nIf that's the case, then…",
             "nextBlock": 32,
+            "origClipLength": 229,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": -3812484228861038736
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3858420150761068374
+                }
+            ],
             "pathId": -1666846821684447649,
             "blockIdx": 31
         },
@@ -357,6 +642,21 @@
             "jpText": "――ああっ、もう！　なんか腹立つ！\r\nいいからもうトレーニング始めるわよ！",
             "enText": "Ughh, jeez! This is pissing me off! \nLet's just get this thing started already!",
             "nextBlock": 33,
+            "origClipLength": 167,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -2136546278349002968
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3093343737445823953
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 7431591349586990669
+                }
+            ],
             "pathId": -3993862362048159368,
             "blockIdx": 32
         },
@@ -366,8 +666,16 @@
             "jpText": "1番にこだわるウマ娘、ダイワスカーレット。\r\n気難しい彼女に頼られるには、まだまだ先が長そうだ……。",
             "enText": "Daiwa Scarlet, the horse girl obsessed with being number one. It \nlooks like there's still a long way to go before she learns to \ntrust and depend on me.",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 8935086975882928918
+                }
+            ],
             "pathId": -5841941330319129331,
             "blockIdx": 33
         }
-    ]
+    ],
+    "modified": 1669933655
 }

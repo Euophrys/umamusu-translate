@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "NJM62FSQCTCN543ZLHXN4FE7RM5RHCPN",
     "type": "story",
     "storyId": "041007006",
@@ -11,6 +11,7 @@
             "jpText": "ある休日のこと。\r\n公園の前を通りかかったところ――",
             "enText": "It was a holiday. I was passing by a park.",
             "nextBlock": 2,
+            "origClipLength": 78,
             "pathId": 8791635768199771601,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "――伏せろっ！！",
             "enText": "—Get down!",
             "nextBlock": 3,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "い、いきなりなんだ！？",
@@ -32,6 +34,12 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 1332610739068266218
+                }
+            ],
             "pathId": -7157015048839609714,
             "blockIdx": 2
         },
@@ -41,6 +49,13 @@
             "jpText": "突然のゴールドシップの叫び声に、\r\n思わずたじろいでしまった。",
             "enText": "The sudden cry of Goldship made me flinch.",
             "nextBlock": 4,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4422869161005382933
+                }
+            ],
             "pathId": -5888410998863379020,
             "blockIdx": 3
         },
@@ -50,6 +65,17 @@
             "jpText": "おいオマエ、ぼんやりしてると巻き込まれっぞ！\r\nデンジャー！　デンジャー！",
             "enText": "Hey, man, you don't want to get caught in\nthe middle of all this! Danger! Danger!",
             "nextBlock": 5,
+            "origClipLength": 143,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 8970792703952221042
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -6894248174703954069
+                }
+            ],
             "pathId": 983376348708372270,
             "blockIdx": 4
         },
@@ -59,6 +85,17 @@
             "jpText": "くっ、どうやらここら一帯に安息の場はないみたいだな……！",
             "enText": "Damn, looks like there's no resting place around here…!",
             "nextBlock": 6,
+            "origClipLength": 140,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 2125036117519570993
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1268509287255001908
+                }
+            ],
             "pathId": -8435648362365282390,
             "blockIdx": 5
         },
@@ -68,6 +105,17 @@
             "jpText": "ゴルシ姉ちゃん、これ以上は進めないよ！\r\nジャングルジムの砦に帰ろう！",
             "enText": "Sister Gorci, we can't go any further!\nLet's go back to Jungle Jim's fort!",
             "nextBlock": 7,
+            "origClipLength": 162,
+            "animData": [
+                {
+                    "origLen": 187,
+                    "pathId": -1374783692877692273
+                },
+                {
+                    "origLen": 162,
+                    "pathId": -4556767156563882432
+                }
+            ],
             "pathId": 8296091908080070368,
             "blockIdx": 6
         },
@@ -77,6 +125,17 @@
             "jpText": "だけど、砦に帰るまでにはあの溶岩の砂場を渡らないと……！",
             "enText": "But we have to cross that lava sandbox\nto get back to the fort…!",
             "nextBlock": 8,
+            "origClipLength": 157,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -4543046993014209923
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6597520992783488723
+                }
+            ],
             "pathId": -6901702237190370459,
             "blockIdx": 7
         },
@@ -86,6 +145,13 @@
             "jpText": "なあに任せろ！　トレーナーもついてこい！\r\nいざとなったら、アタシのゴルゴル流拳法が大地を割るぜ……！",
             "enText": "Hey, I got this! Trainers, follow me! If it comes to it, my\nGorgon Style Kempo will break the earth…!",
             "nextBlock": 9,
+            "origClipLength": 255,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5958909884017731888
+                }
+            ],
             "pathId": -6288092293694134612,
             "blockIdx": 8
         },
@@ -95,6 +161,13 @@
             "jpText": "どうやらゴールドシップは、子どもたちと遊んでいるらしい。\r\n気付けば自分も巻き込まれる形になってしまった……。",
             "enText": "Apparently, Goldship is playing with her children. I found\nmyself getting involved in this…",
             "nextBlock": 10,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": -8839622881311406257
+                }
+            ],
             "pathId": -3686061643078786956,
             "blockIdx": 9
         },
@@ -104,11 +177,18 @@
             "jpText": "おいトレーナー！　そこは溶岩地帯だろっ！\r\nどこ見て歩いてやがんだ！",
             "enText": "Hey, trainer! You're in a lava field!\nWhat the hell are you looking at?",
             "nextBlock": 11,
+            "origClipLength": 136,
             "choices": [
                 {
                     "jpText": "ごめん、わからない……",
                     "enText": "Sorry, I don't understand…",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -5743742217182440489
                 }
             ],
             "pathId": 8312442161713449869,
@@ -120,11 +200,18 @@
             "jpText": "見ようとすんじゃねえ、感じろ！\r\nドントシンクフィール！　アタシのトレーナーだろ！？",
             "enText": "Don't try to see it. Feel it! Don't\nthink feel! You're my trainer!",
             "nextBlock": 12,
+            "origClipLength": 187,
             "choices": [
                 {
                     "jpText": "な、なるほど！？",
                     "enText": "Oh, I see!",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -2247895413328849512
                 }
             ],
             "pathId": -4128474068639687385,
@@ -136,6 +223,13 @@
             "jpText": "さあ行くぞオマエら！\r\n殿はこのゴルシちゃんが務めてやる！",
             "enText": "Let's go, you guys! I'll take care of her, Gorshin!",
             "nextBlock": 13,
+            "origClipLength": 139,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 548409372247330717
+                }
+            ],
             "pathId": 3924604696017294707,
             "blockIdx": 12
         },
@@ -145,6 +239,17 @@
             "jpText": "アタシに背中は任せやがれ……ってな！",
             "enText": "I'll take care of your back…!",
             "nextBlock": 14,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -8406177915652452545
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 8228209570987833550
+                }
+            ],
             "pathId": -8567275465729931676,
             "blockIdx": 13
         },
@@ -154,6 +259,17 @@
             "jpText": "すげー！　かっけえよゴルシ姉ちゃん！",
             "enText": "Oh, my God! You're so cool, Sister Gorci!",
             "nextBlock": 15,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 3684566834434627114
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 4907082804587030534
+                }
+            ],
             "pathId": 1539762787546458019,
             "blockIdx": 14
         },
@@ -163,6 +279,17 @@
             "jpText": "そうしてノリノリのゴールドシップと子どもたちに連れられ、\r\n砂場を渡ることになったが――",
             "enText": "And so, accompanied by a giddy Goldship and\nthe children, we crossed the sandbox.",
             "nextBlock": 16,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 162,
+                    "pathId": -3503881161887757904
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 1402956341790127814
+                }
+            ],
             "pathId": 5815388594608609571,
             "blockIdx": 15
         },
@@ -172,6 +299,13 @@
             "jpText": "ぐわあーーーーーーっ！",
             "enText": "Awwww!",
             "nextBlock": 17,
+            "origClipLength": 74,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -7284919367025438182
+                }
+            ],
             "pathId": 7199815968292238982,
             "blockIdx": 16
         },
@@ -181,6 +315,13 @@
             "jpText": "ゴ、ゴルシ姉ちゃん！？",
             "enText": "Go, Sister Gorsi!",
             "nextBlock": 18,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 2896917613507628664
+                }
+            ],
             "pathId": -3822903010037969702,
             "blockIdx": 17
         },
@@ -190,6 +331,13 @@
             "jpText": "砂場の真ん中で、突然ゴールドシップが倒れた！",
             "enText": "In the middle of the sandbox, Goldship suddenly collapsed!",
             "nextBlock": 19,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 6901374071873297775
+                }
+            ],
             "pathId": 2639778075505204312,
             "blockIdx": 18
         },
@@ -199,6 +347,13 @@
             "jpText": "ぐっ、アタシはもうダメみてえだ……。\r\nまさかこんなところで撃たれちまうなんて……。",
             "enText": "I don't think I'm going to make it…\nI never thought I'd be shot here…",
             "nextBlock": 20,
+            "origClipLength": 277,
+            "animData": [
+                {
+                    "origLen": 330,
+                    "pathId": 21755720238523921
+                }
+            ],
             "pathId": 5494254421167322528,
             "blockIdx": 19
         },
@@ -208,6 +363,13 @@
             "jpText": "オマエら、アタシがいなくても……強く生きやがれ……！\r\n――がくっ。",
             "enText": "You guys, even if I'm not here… live\nstrong…! —I can't believe it.",
             "nextBlock": 21,
+            "origClipLength": 268,
+            "animData": [
+                {
+                    "origLen": 298,
+                    "pathId": 3372761282157560354
+                }
+            ],
             "pathId": 8495723805980788786,
             "blockIdx": 20
         },
@@ -217,6 +379,13 @@
             "jpText": "そんな……目を覚ましてよ、ゴルシ姉ちゃん！",
             "enText": "Oh, no… Wake up, Sister Gorsuch!",
             "nextBlock": 22,
+            "origClipLength": 148,
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": -8274667426185308698
+                }
+            ],
             "pathId": 4693304606932728149,
             "blockIdx": 21
         },
@@ -226,6 +395,17 @@
             "jpText": "――犯行現場は密室、凶器は見つからない。\r\n容疑者全員にアリバイがある。",
             "enText": "—The crime scene is a locked room, the murder weapon was never\nfound. All suspects have alibis.",
             "nextBlock": 23,
+            "origClipLength": 183,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -1862445230767225506
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -737901313305551919
+                }
+            ],
             "pathId": 8687855231937923455,
             "blockIdx": 22
         },
@@ -235,6 +415,17 @@
             "jpText": "このままじゃこの事件は迷宮入りだ。\r\nだけど心配すんな……この名探偵ゴルシちゃんに任せやがれ！",
             "enText": "If you don't, this case will go cold. But don't worry…\nlet this great detective Gorsuch-chan handle it!",
             "nextBlock": 24,
+            "origClipLength": 276,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 305092854611459948
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -6498135672919017618
+                }
+            ],
             "pathId": 4504871219357204892,
             "blockIdx": 23
         },
@@ -244,11 +435,18 @@
             "jpText": "出たーっ！　名探偵ゴルシだーっ！",
             "enText": "There it is! It's Detective Gorce!",
             "nextBlock": 25,
+            "origClipLength": 101,
             "choices": [
                 {
                     "jpText": "（推理モノになった！？）",
                     "enText": "（It's a mystery now!)",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -785309624785432402
                 }
             ],
             "pathId": -2923579741378337819,
@@ -260,6 +458,17 @@
             "jpText": "むっ！　むむっ！　むむむっ！\r\n――IQ564万のエメラルド色の脳細胞が、ゴルッと閃いたぜ。",
             "enText": "Mwah! Mmm! Mmm! Mmm! —5,640,000 emerald brain cells with an IQ\nof 5,640,000 flashed in my mind.",
             "nextBlock": 26,
+            "origClipLength": 234,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 5246745114785214890
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -1402432090810438031
+                }
+            ],
             "pathId": -2734971461429315122,
             "blockIdx": 25
         },
@@ -269,6 +478,13 @@
             "jpText": "アタシを撃った犯人は……オマエだおいてめえこのヤローッ！",
             "enText": "The person who shot me is… you, you bastard!",
             "nextBlock": 27,
+            "origClipLength": 182,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 7661442998837384664
+                }
+            ],
             "pathId": -5120089711131571213,
             "blockIdx": 26
         },
@@ -278,6 +494,13 @@
             "jpText": "ゴールドシップがこちらを指さした！\r\nどう返事しようかと困っていると――",
             "enText": "Goldship was pointing at me! I was at a loss as to what to say.",
             "nextBlock": 28,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -8411700183094110014
+                }
+            ],
             "pathId": -8340686328669774593,
             "blockIdx": 27
         },
@@ -287,6 +510,17 @@
             "jpText": "なにか言い返さないと負けちゃうよ！",
             "enText": "If you don't say something back, you'll lose!",
             "nextBlock": 29,
+            "origClipLength": 74,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 7294173272355231844
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 4859431505843415638
+                }
+            ],
             "pathId": -5222059820651626011,
             "blockIdx": 28
         },
@@ -296,6 +530,17 @@
             "jpText": "そうだそうだ、ゴルシ姉ちゃんのトレーナーってやつなんだろ？\r\nおもしれーとこ見せてくれよ！",
             "enText": "Yeah, yeah, that's right. You're my sister Gorci's\ntrainer, right? Show me something cool!",
             "nextBlock": 30,
+            "origClipLength": 184,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -3545178357546384663
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4731498527361832719
+                }
+            ],
             "pathId": -5476375517483329535,
             "blockIdx": 29
         },
@@ -305,6 +550,7 @@
             "jpText": "なるほど……振り回されるばかりじゃなくて、この子たちのように\r\nなにも考えず全力でノってあげればいいのかも……！？",
             "enText": "I see… Instead of just being pushed around,\nmaybe we should be like these kids and give it\nour all without thinking…!",
             "nextBlock": 31,
+            "origClipLength": 119,
             "choices": [
                 {
                     "jpText": "その通りだ、ここにいる全員覚悟しろ……！",
@@ -317,6 +563,12 @@
                     "nextBlock": 31
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -8878397494422883961
+                }
+            ],
             "pathId": 5508502306029566106,
             "blockIdx": 30
         },
@@ -326,6 +578,13 @@
             "jpText": "くっ、正体を現しやがったな……！\r\n頭から30本生えてる紫色の触角がなによりの証拠だぜ！",
             "enText": "Damn, you've revealed yourself to me…! I've got 30 purple\nantennae growing out of my head as proof!",
             "nextBlock": 32,
+            "origClipLength": 197,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 1070726608255891963
+                }
+            ],
             "pathId": -3011585020527552313,
             "blockIdx": 31
         },
@@ -335,6 +594,13 @@
             "jpText": "だけど、今のアタシらじゃアイツには敵わねえ！\r\n引くぞオマエらーっ！",
             "enText": "But we're no match for her now! We're pulling out, you guys!",
             "nextBlock": 33,
+            "origClipLength": 161,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -3945748867236376403
+                }
+            ],
             "pathId": -3719274142541370193,
             "blockIdx": 32
         },
@@ -344,6 +610,17 @@
             "jpText": "はぁ……はぁ……！\r\nまさかここまで追いかけてくるとはな……！",
             "enText": "Haha… haha…! I didn't think\nyou'd follow me this far…!",
             "nextBlock": 34,
+            "origClipLength": 205,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3322633232706242074
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7083429720831156299
+                }
+            ],
             "pathId": 6937614050697089174,
             "blockIdx": 33
         },
@@ -353,6 +630,7 @@
             "jpText": "どうしよう……追い詰められちゃった……！？",
             "enText": "What should I do?… I'm trapped…!",
             "nextBlock": 35,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "年貢の納め時だ……！",
@@ -365,6 +643,12 @@
                     "nextBlock": 35
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 606718515576903405
+                }
+            ],
             "pathId": -2306461768462895511,
             "blockIdx": 34
         },
@@ -374,6 +658,17 @@
             "jpText": "いや、追い詰めたのは果たしてどっちかな――！？",
             "enText": "No, I wonder which one of us is the one who cornered her—!",
             "nextBlock": 36,
+            "origClipLength": 156,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 1241185254394110311
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4362522117337766568
+                }
+            ],
             "pathId": -2197660352293346078,
             "blockIdx": 35
         },
@@ -383,6 +678,17 @@
             "jpText": "わたしはウマ娘の神、ゴルーシア。\r\n心優しきあなたたちに、力を授けましょう。",
             "enText": "I am Golusia, the God of the Horse Girls. I\ngive you, kind-hearted people, strength.",
             "nextBlock": 37,
+            "origClipLength": 257,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -1455816372830820562
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -1061260265136134606
+                }
+            ],
             "pathId": -7608185987641052477,
             "blockIdx": 36
         },
@@ -392,6 +698,13 @@
             "jpText": "1年に100度、奇跡を起こすっていうゴルーシアだ！",
             "enText": "A hundred times a year, a miracle happens in Gorussia!",
             "nextBlock": 38,
+            "origClipLength": 136,
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": -1449779036336205890
+                }
+            ],
             "pathId": 8172416094735103405,
             "blockIdx": 37
         },
@@ -401,6 +714,17 @@
             "jpText": "よっしゃあ！　これでオマエらにも湧いてきたはずだぜ！\r\nウマ娘神パワーがよ……！",
             "enText": "Yeah! Now you're getting it too! You've\ngot the power of the gods!…!",
             "nextBlock": 39,
+            "origClipLength": 203,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 3959979103924303642
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -9200368613617489889
+                }
+            ],
             "pathId": -789937583878094215,
             "blockIdx": 38
         },
@@ -410,6 +734,7 @@
             "jpText": "ほ、ほんとだ！\r\n今なら負ける気がしない……！",
             "enText": "It's true! I don't think I can lose now…!",
             "nextBlock": 40,
+            "origClipLength": 133,
             "choices": [
                 {
                     "jpText": "まさか……ウマ娘神パワーだと！？",
@@ -422,6 +747,12 @@
                     "nextBlock": 40
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": 5387050176175117591
+                }
+            ],
             "pathId": -1998024497582068380,
             "blockIdx": 39
         },
@@ -431,6 +762,17 @@
             "jpText": "ああそうだ！\r\n今のアタシたちの戦闘能力は564万……！",
             "enText": "Oh yeah! Our current fighting capacity is 5.64 million…!",
             "nextBlock": 41,
+            "origClipLength": 209,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 1823288086938699868
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -5049006378982517951
+                }
+            ],
             "pathId": -4578282406398322659,
             "blockIdx": 40
         },
@@ -440,11 +782,18 @@
             "jpText": "オマエなんかに負けるはずがねえ！\r\n覚悟しろ！　ゴルシちゃんの仇――ッ！",
             "enText": "There's no way I'm losing to you! Prepare yourself! I'm\ngoing to avenge you, Gorshin!",
             "nextBlock": 42,
+            "origClipLength": 219,
             "choices": [
                 {
                     "jpText": "ぐわああーっ！",
                     "enText": "Geez!",
                     "nextBlock": 42
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 123982540589478634
                 }
             ],
             "pathId": 7770603210197568883,
@@ -456,6 +805,13 @@
             "jpText": "（ドサッ！）",
             "enText": "(Thud! )",
             "nextBlock": 43,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -2705534302023169330
+                }
+            ],
             "pathId": 3032643783438329321,
             "blockIdx": 42
         },
@@ -465,6 +821,17 @@
             "jpText": "正義は――勝つ！！",
             "enText": "Justice will prevail!",
             "nextBlock": 44,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 7568296818566414244
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 6968755310050756227
+                }
+            ],
             "pathId": -6334799110984285729,
             "blockIdx": 43
         },
@@ -474,6 +841,13 @@
             "jpText": "やったぁーっ！　流石ゴルシ姉ちゃんだ！",
             "enText": "Yay! That's my sister Gorci!",
             "nextBlock": 45,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -4999170270123820360
+                }
+            ],
             "pathId": 6053900135239620752,
             "blockIdx": 44
         },
@@ -483,6 +857,13 @@
             "jpText": "全くわけがわからなかったけれど……\r\nゴールドシップのノリについていくのは、案外楽しかった。",
             "enText": "I had no idea what was going on, but…\nit was fun to follow Goldship's groove.",
             "nextBlock": 46,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 5359789118071266350
+                }
+            ],
             "pathId": -9035332296125571485,
             "blockIdx": 45
         },
@@ -492,6 +873,17 @@
             "jpText": "いやあーっ！　やり遂げたやり遂げた！",
             "enText": "Oh, no! We did it! We did it!",
             "nextBlock": 47,
+            "origClipLength": 129,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 8418038139692146216
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 888353149773769899
+                }
+            ],
             "pathId": 6002433210801712768,
             "blockIdx": 46
         },
@@ -501,6 +893,13 @@
             "jpText": "公園の平和は守られたし、犯人は見つかったし、\r\nゴルシちゃんは神になったし、世界から争いはなくなったし！",
             "enText": "The peace in the park has been preserved, the\nculprit has been found, Gorsuch-chan has become\na god, and the world is free of conflict!",
             "nextBlock": 48,
+            "origClipLength": 245,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -357551173254186794
+                }
+            ],
             "pathId": -6425471232127669289,
             "blockIdx": 47
         },
@@ -510,6 +909,7 @@
             "jpText": "あとついでに花が咲いて木々は生い茂り、\r\n鳥たちもハミングを唄ったからな！　流石ゴルシ様だぜ～！",
             "enText": "Oh, and by the way, the flowers are blooming, the trees are\ngrowing, and the birds are humming! That's Master Gorci for you!",
             "nextBlock": 49,
+            "origClipLength": 237,
             "choices": [
                 {
                     "jpText": "子どもたちも喜んでたな",
@@ -522,6 +922,12 @@
                     "nextBlock": 49
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 5175937810871296535
+                }
+            ],
             "pathId": -8211006055937468038,
             "blockIdx": 48
         },
@@ -531,6 +937,13 @@
             "jpText": "当たり前だろ、アタシがコンマ1秒たりとも\r\nつまんねーことなんてするはずねえからな！",
             "enText": "Of course not, because I wouldn't do anything\nboring for even one tenth of a second!",
             "nextBlock": 50,
+            "origClipLength": 173,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 792933306185967663
+                }
+            ],
             "pathId": 104586919547317916,
             "blockIdx": 49
         },
@@ -540,6 +953,13 @@
             "jpText": "それに、今日のオマエのノリも悪くなかったぜ！",
             "enText": "Besides, you weren't bad at all today!",
             "nextBlock": 51,
+            "origClipLength": 150,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 4305908196008100449
+                }
+            ],
             "pathId": 8156140057563900486,
             "blockIdx": 50
         },
@@ -549,6 +969,13 @@
             "jpText": "今日で少しだけ、ゴールドシップについていけるように\r\nなった気がする……！",
             "enText": "Today, I feel like I can keep up with\nGoldship a little better…!",
             "nextBlock": 52,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 4205807147248769929
+                }
+            ],
             "pathId": -6188758649374281467,
             "blockIdx": 51
         },
@@ -558,6 +985,13 @@
             "jpText": "あっそうだ、昨日校庭に描いたナスカの地上絵の続き描こーっと！",
             "enText": "Oh, yes, I'm going to continue painting the Nazca terrestrial\npainting I did in the schoolyard yesterday!",
             "nextBlock": 53,
+            "origClipLength": 128,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -7425024388184434586
+                }
+            ],
             "pathId": 667456111694854347,
             "blockIdx": 52
         },
@@ -567,6 +1001,13 @@
             "jpText": "オマエもついてこいよっ！　3秒後に集合な！　じゃ！",
             "enText": "You, follow me! I'll see you in three seconds! Bye!",
             "nextBlock": 54,
+            "origClipLength": 128,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 7362093191398782717
+                }
+            ],
             "pathId": -2062485598086375096,
             "blockIdx": 53
         },
@@ -576,8 +1017,10 @@
             "jpText": "………………。\r\nやっぱり、ついていけるようになるのはもう少し先かもしれない！",
             "enText": "… After all, it may be\na little while before I can keep up!",
             "nextBlock": -1,
+            "origClipLength": 95,
             "pathId": -8805651318120953642,
             "blockIdx": 54
         }
-    ]
+    ],
+    "modified": 1669933648
 }

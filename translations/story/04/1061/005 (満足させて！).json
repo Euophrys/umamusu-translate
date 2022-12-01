@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "C3YKC5YW7OTF4YALOAG6KUF4BRNFV22M",
     "type": "story",
     "storyId": "041061005",
@@ -11,6 +11,13 @@
             "jpText": "今日はコースの整備が入るので、トレーニングの開始時間を\r\nいつもより早めたのだが……。",
             "enText": "The training course is being improved today, \nso I planned to start training earlier than usual…",
             "nextBlock": 2,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 6695610799937797978
+                }
+            ],
             "pathId": 8964264629627611045,
             "blockIdx": 1
         },
@@ -20,6 +27,13 @@
             "jpText": "ワンッ！　ツーッ！　スリーッ！",
             "enText": "One! Two! Three!",
             "nextBlock": 3,
+            "origClipLength": 139,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -8648945726184646858
+                }
+            ],
             "pathId": -7966478620252919275,
             "blockIdx": 2
         },
@@ -29,6 +43,7 @@
             "jpText": "はあ……はあ……最後のターンのキレが足りなかったかしら。\r\nそれじゃあ、もう1度……。",
             "enText": "Ha… Hmm… I wonder If that last turn wasn't sharp enough. \nWell then. one more time…",
             "nextBlock": 4,
+            "origClipLength": 269,
             "choices": [
                 {
                     "jpText": "もうすぐトレーニングの時間なんだが……",
@@ -41,6 +56,12 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 3053953624522107143
+                }
+            ],
             "pathId": -5425908281089868011,
             "blockIdx": 3
         },
@@ -50,6 +71,17 @@
             "jpText": "んもう、わかってるわ。\r\n急かすトレーナーはウマ娘から嫌われるわよ。",
             "enText": "Geez. I know already. \nHorse girls hate trainers who rush.",
             "nextBlock": 5,
+            "origClipLength": 196,
+            "animData": [
+                {
+                    "origLen": 162,
+                    "pathId": 921978153449552498
+                },
+                {
+                    "origLen": 178,
+                    "pathId": 7387552653626971177
+                }
+            ],
             "pathId": 996125531221556268,
             "blockIdx": 4
         },
@@ -59,6 +91,7 @@
             "jpText": "でも、もう少しだけ集中させて。\r\n……この前のウイニングライブ、途中で躓いちゃったでしょ。",
             "enText": "But let me focus just a little bit more. I messed up in \nthe middle of the winning live the other day. didn't I?",
             "nextBlock": 6,
+            "origClipLength": 247,
             "choices": [
                 {
                     "jpText": "そうだったか？",
@@ -71,6 +104,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 223,
+                    "pathId": -7890930673905714688
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1596784573841789610
+                }
+            ],
             "pathId": -606685588323910265,
             "blockIdx": 5
         },
@@ -80,6 +123,13 @@
             "jpText": "あら、気づかなかった？　ならリカバーは完璧だったみたいね。",
             "enText": "Oh. you didn't notice? Then it looks \nlike my recovery was perfect.",
             "nextBlock": 7,
+            "origClipLength": 157,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 5585787514412334241
+                }
+            ],
             "pathId": -420976649568973349,
             "blockIdx": 6
         },
@@ -89,6 +139,17 @@
             "jpText": "けどいかに人に気づかれなかったとしても、失敗は失敗よ。\r\nまた同じ失敗をするようじゃ、私は私が許せないわ。",
             "enText": "But even if one person didn't notice. a failure \nis a failure. If I let myself make the same mistake \ntwice, I wouldn't forgive myself.",
             "nextBlock": 8,
+            "origClipLength": 318,
+            "animData": [
+                {
+                    "origLen": 283,
+                    "pathId": 5407901068386805684
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -9151769946645585944
+                }
+            ],
             "pathId": -252010195896694501,
             "blockIdx": 7
         },
@@ -98,6 +159,13 @@
             "jpText": "――だって、私は一流のウマ娘なんだもの。",
             "enText": "…After all, I'm a first-class horse girl.",
             "nextBlock": 9,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 7491695520909134908
+                }
+            ],
             "pathId": -6276095911416633223,
             "blockIdx": 8
         },
@@ -107,6 +175,7 @@
             "jpText": "だからお願い、もう1度だけ確認させて。\r\nトレーニングの開始時間を、ちょっとズラすだけでいいのよ。",
             "enText": "So please, let me confirm it one more time \nAll you have to do is shift the training time a little.",
             "nextBlock": 10,
+            "origClipLength": 217,
             "choices": [
                 {
                     "jpText": "わかった、もう1度だな",
@@ -119,6 +188,12 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -977664069694504943
+                }
+            ],
             "pathId": 5783493780047777949,
             "blockIdx": 9
         },
@@ -128,11 +203,22 @@
             "jpText": "ええ。\r\nもう1度、私が満足できるまで練習しましょう。",
             "enText": "Yes. \nLet's practice until I'm satisfied one more time.",
             "nextBlock": 11,
+            "origClipLength": 159,
             "choices": [
                 {
                     "jpText": "……え？",
                     "enText": "… Eh?",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -5008013485284380569
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 7511973470474048963
                 }
             ],
             "pathId": -230811736875392595,
@@ -144,6 +230,13 @@
             "jpText": "あら、何か私おかしいことでも言った？\r\n言ってないわよね？",
             "enText": "My, did I say something funny? \nI didn't, did I?",
             "nextBlock": 12,
+            "origClipLength": 167,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -959546738546008276
+                }
+            ],
             "pathId": -3091298410164670097,
             "blockIdx": 11
         },
@@ -153,6 +246,13 @@
             "jpText": "おーっほっほっほ！　一流のキングが、\r\n生半可な気持ちで特訓をやめるワケないじゃない。",
             "enText": "Ohohoho! There's no way the first-class \nKing would stop practice unsatisfied!",
             "nextBlock": 13,
+            "origClipLength": 213,
+            "animData": [
+                {
+                    "origLen": 169,
+                    "pathId": 3168614515075895997
+                }
+            ],
             "pathId": 134680442141737514,
             "blockIdx": 12
         },
@@ -162,6 +262,13 @@
             "jpText": "さあ、あなたには音楽をかける権利をあげる！\r\n共にキングの踊りを最高レベルまで高めるわよ！！",
             "enText": "Now, I’ll give you the privilege of playing the music! We're \ngoing to raise King's dancing to the ultimate level together!",
             "nextBlock": 14,
+            "origClipLength": 241,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 988816968028193293
+                }
+            ],
             "pathId": -4264393855940194907,
             "blockIdx": 13
         },
@@ -171,11 +278,18 @@
             "jpText": "さ、トレーニングを開始するわよ。\r\n準備はいいかしら？",
             "enText": "Now, let's commence training. \nYou're ready, aren't you?",
             "nextBlock": 15,
+            "origClipLength": 139,
             "choices": [
                 {
                     "jpText": "でもあまり時間が……",
                     "enText": "But we don't have much time…",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 187,
+                    "pathId": -5191830190647547833
                 }
             ],
             "pathId": -5369203061966494258,
@@ -187,6 +301,13 @@
             "jpText": "何よ、まだ平気でしょ。ホント、せっかちね。",
             "enText": "What, it's still fine isn't it. You're so impatient.",
             "nextBlock": 16,
+            "origClipLength": 134,
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -7670692609594423015
+                }
+            ],
             "pathId": -5213169351278196741,
             "blockIdx": 15
         },
@@ -196,6 +317,17 @@
             "jpText": "……そもそも、この私が使うコースに\r\n利用時間があること自体が間違いなのよ。",
             "enText": "…In the first place, for the course \nthat I use to have a usage time is a mistake.",
             "nextBlock": 17,
+            "origClipLength": 193,
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": 7129453719228234543
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 202529129860709335
+                }
+            ],
             "pathId": 5542010425413923466,
             "blockIdx": 16
         },
@@ -205,6 +337,17 @@
             "jpText": "とにかく、無駄口はそこまで！\r\n黙ってトレーニングの準備をなさい！",
             "enText": "In any case. that's enough chit-chat. \nShut up and get ready for training!",
             "nextBlock": 18,
+            "origClipLength": 179,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 9123064294949785349
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2326682230712404843
+                }
+            ],
             "pathId": 4412342338569037132,
             "blockIdx": 17
         },
@@ -214,6 +357,17 @@
             "jpText": "……何事も全力で諦めずに。それがキングの信条なんだから。\r\nダンスだって、トレーニングだって完璧にこなして――",
             "enText": "…Do everything at full power without giving up. That's King's \ncreed. Master both dancing and training perfectly the-",
             "nextBlock": 19,
+            "origClipLength": 272,
+            "animData": [
+                {
+                    "origLen": 248,
+                    "pathId": -7838077693581387947
+                },
+                {
+                    "origLen": 203,
+                    "pathId": -8683367012800518049
+                }
+            ],
             "pathId": 5213233250053178589,
             "blockIdx": 18
         },
@@ -223,6 +377,17 @@
             "jpText": "(キンコーン、カンコーン……)",
             "enText": "(Ding-dong, ding-dong…)",
             "nextBlock": 20,
+            "origClipLength": 130,
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": -4243036559906958309
+                },
+                {
+                    "origLen": 147,
+                    "pathId": -3329183889021992739
+                }
+            ],
             "pathId": 3058338680633312857,
             "blockIdx": 19
         },
@@ -232,6 +397,17 @@
             "jpText": "トレーニング終了の時間です。本日はコースの整備が行われるため、\r\n生徒の皆さんは速やかに帰宅の準備を進めてください。",
             "enText": "It is time to end training. The course will be maintained \ntoday so all students are encouraged to prepare \nto return home as soon as possible.",
             "nextBlock": 21,
+            "origClipLength": 306,
+            "animData": [
+                {
+                    "origLen": 324,
+                    "pathId": -205625503750623662
+                },
+                {
+                    "origLen": 329,
+                    "pathId": -2491660730130436149
+                }
+            ],
             "pathId": -2924671113693442552,
             "blockIdx": 20
         },
@@ -241,6 +417,7 @@
             "jpText": "……はっ。",
             "enText": "…Ah.",
             "nextBlock": 22,
+            "origClipLength": 30,
             "choices": [
                 {
                     "jpText": "もしかして整備のこと忘れてたのか？",
@@ -253,6 +430,16 @@
                     "nextBlock": 22
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 3881001319461925958
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2086773481336645906
+                }
+            ],
             "pathId": 3745655195696702013,
             "blockIdx": 21
         },
@@ -262,6 +449,13 @@
             "jpText": "うぐっ……わ、私が忘れるはずないでしょっ。\r\n別に学園でなくとも走れるんだし、問題ないわ。",
             "enText": "Th… there's no way I'd forget! Even if it's \nnot at school, I can still run. It's no problem.",
             "nextBlock": 23,
+            "origClipLength": 298,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -8246829106462589854
+                }
+            ],
             "pathId": -1382420049852403842,
             "blockIdx": 22
         },
@@ -271,6 +465,17 @@
             "jpText": "ふんっ、トレーナーは先に帰って結構よ。\r\n外で自主トレをするぐらい、私1人でもできるもの！",
             "enText": "Hmph. I don't mind if you leave first. \nI can at least do normal outdoors exercise by myself.",
             "nextBlock": 24,
+            "origClipLength": 238,
+            "animData": [
+                {
+                    "origLen": 215,
+                    "pathId": 1261228040450063503
+                },
+                {
+                    "origLen": 254,
+                    "pathId": -1339198140367534256
+                }
+            ],
             "pathId": -7219450194736131650,
             "blockIdx": 23
         },
@@ -280,11 +485,22 @@
             "jpText": "ほら、さっさと――",
             "enText": "C'mon, hurry u-",
             "nextBlock": 25,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "付き合うよ",
                     "enText": "I'll stay.",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -9058439611606209793
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 5378184620412321246
                 }
             ],
             "pathId": -6121072345326421369,
@@ -296,6 +512,13 @@
             "jpText": "えっ。",
             "enText": "Eh?",
             "nextBlock": 26,
+            "origClipLength": 36,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 4040121228837916007
+                }
+            ],
             "pathId": 1651350734690095966,
             "blockIdx": 25
         },
@@ -305,6 +528,7 @@
             "jpText": "でも、予定がズレたのだし、あなたも自分の仕事があるでしょ？\r\n別に私に付き合う必要なんて――",
             "enText": "But, the plan is ruined and you have your own job don't you? \nThere's no real reason for you to accompany m-",
             "nextBlock": 27,
+            "origClipLength": 232,
             "choices": [
                 {
                     "jpText": "君のトレーナーだから",
@@ -317,6 +541,12 @@
                     "nextBlock": 27
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 206,
+                    "pathId": 4125716845482571674
+                }
+            ],
             "pathId": 639184989629962322,
             "blockIdx": 26
         },
@@ -326,6 +556,21 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 28,
+            "origClipLength": 140,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -4973482104469414978
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -7920620131294103517
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 6959577916144014219
+                }
+            ],
             "pathId": -1663996255411069991,
             "blockIdx": 27
         },
@@ -335,6 +580,7 @@
             "jpText": "なっ、なら最後まで付き合いなさいよね！\r\n私が満足するまで、帰したりしないんだからっ！",
             "enText": "Th-then accompany me till the end! \nCause I'm not letting you leave till I'm satisfied!",
             "nextBlock": 29,
+            "origClipLength": 216,
             "choices": [
                 {
                     "jpText": "望むところだ！",
@@ -347,6 +593,16 @@
                     "nextBlock": 29
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 1517162008030759194
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 8648442059868682705
+                }
+            ],
             "pathId": -7991372090343893598,
             "blockIdx": 28
         },
@@ -356,6 +612,13 @@
             "jpText": "おーっほっほっほ！　いい返事だわ。\r\n今日はとことん、最後まであなたのことを活用してあげる！",
             "enText": "Ohhohoho! Good answer! \nI'll be sure to utilize you as much as I like today!",
             "nextBlock": 30,
+            "origClipLength": 257,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -158044693684527788
+                }
+            ],
             "pathId": -5649835562955469194,
             "blockIdx": 29
         },
@@ -365,8 +628,16 @@
             "jpText": "そしてその日はキングヘイローが満足いくまで、\r\n彼女のトレーニングに付き合うことになったのだった。",
             "enText": "And so, that day I ended up accompanying \nKing Halo's training until she was happy.",
             "nextBlock": -1,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1441141147893273671
+                }
+            ],
             "pathId": -5563904958849762661,
             "blockIdx": 30
         }
-    ]
+    ],
+    "modified": 1669933755
 }

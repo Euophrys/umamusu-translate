@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "UTHWXRIE5VUOH3PKWE5XASIAQSMKQZCO",
     "type": "story",
     "storyId": "041007001",
@@ -11,6 +11,7 @@
             "jpText": "――トレセン学園でトレーナーになってからの日々。",
             "enText": "—My days as a trainer at the Trespasser Academy.",
             "nextBlock": 2,
+            "origClipLength": 76,
             "pathId": 1437056769554593809,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ウマ娘たちのトレーニングを見守りながら、\r\nまだ見ぬ輝かしい未来に思いを馳せる時間は穏やかなもので……。",
             "enText": "It's a peaceful time to watch the Uma Musume training and think\nabout the bright future that is yet to come…",
             "nextBlock": 3,
+            "origClipLength": 112,
             "pathId": -4545649010337772414,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "いずれは自分も誰かの担当になって、\r\nその成長を後押ししたい――と思っていたのだが……。",
             "enText": "I was hoping that I would eventually be in charge\nof someone else and help them grow…",
             "nextBlock": 4,
+            "origClipLength": 102,
             "pathId": 7051606271689437928,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "うおりゃああああああああーーーーーーっ！！\r\nどけどけどけええええーーーーーーーっ！！",
             "enText": "ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!\nMove out of the way, move out of the way, move out of the way, move out of\nthe way, move out of the way, move out of the way, move out of the way!",
             "nextBlock": 5,
+            "origClipLength": 136,
             "pathId": -203221041778135988,
             "blockIdx": 4
         },
@@ -47,6 +51,17 @@
             "jpText": "はぁっ……はぁっ……。\r\nクソッ……どこだ！？",
             "enText": "Huh… Huh… Damn… where are you!",
             "nextBlock": 6,
+            "origClipLength": 162,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -5634783040662056608
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -5436293681470345526
+                }
+            ],
             "pathId": -1056284957745077816,
             "blockIdx": 5
         },
@@ -56,6 +71,17 @@
             "jpText": "チクショウ、見つからねえ！　ゴルシちゃんレーダーが\r\n示してるのは、間違いなくここのはずなのに――",
             "enText": "Damn it, I can't find it! Gorshin-chan's radar\nshows that we're definitely here, but…",
             "nextBlock": 7,
+            "origClipLength": 208,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -5680680627254064943
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -2268710162396730207
+                }
+            ],
             "pathId": 365473365997626909,
             "blockIdx": 6
         },
@@ -65,6 +91,17 @@
             "jpText": "――ハッ！！",
             "enText": "—Ha!",
             "nextBlock": 8,
+            "origClipLength": 28,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -2907471253862095065
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7959424494469178326
+                }
+            ],
             "pathId": -7062743785337133887,
             "blockIdx": 7
         },
@@ -74,6 +111,21 @@
             "jpText": "『……レーダー受信。レーダー受信。\r\n周囲ニ、トレーナー反応アリ』",
             "enText": "\"… radar reception. Radar received.\nThere's a trainer in the vicinity.",
             "nextBlock": 9,
+            "origClipLength": 154,
+            "animData": [
+                {
+                    "origLen": 178,
+                    "pathId": 6654476187206242661
+                },
+                {
+                    "origLen": 165,
+                    "pathId": -1937574936885740132
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 5689070971185958689
+                }
+            ],
             "pathId": 1392079649297773105,
             "blockIdx": 8
         },
@@ -83,6 +135,17 @@
             "jpText": "レーダーが反応してるなら間違いねえ！！\r\nこの辺りにトレーナーがいるはずだ！！",
             "enText": "If the radar's responding, there's no doubt about it! There's\ngotta be a trainer around here somewhere!",
             "nextBlock": 10,
+            "origClipLength": 151,
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": 2642920001511679937
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -4413822556435359349
+                }
+            ],
             "pathId": -8485068896913791050,
             "blockIdx": 9
         },
@@ -92,6 +155,17 @@
             "jpText": "けど……どこだ？　トレーナーってのは確か、\r\n緑色の皮膚で、牙が剥き出しの生き物だったはず――",
             "enText": "But… where is it? I'm pretty sure a trainer is a\ngreen-skinned creature with bared fangs—",
             "nextBlock": 11,
+            "origClipLength": 230,
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -7223401161991473404
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4337038582584236794
+                }
+            ],
             "pathId": 4702099760076812914,
             "blockIdx": 10
         },
@@ -101,6 +175,13 @@
             "jpText": "――おっ！！",
             "enText": "—Oh!",
             "nextBlock": 12,
+            "origClipLength": 24,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 7103989540693583901
+                }
+            ],
             "pathId": 7084577444067921554,
             "blockIdx": 11
         },
@@ -110,6 +191,13 @@
             "jpText": "目の前にいる風変わりなウマ娘と目が合ってしまった。\r\n……なんだか嫌な予感がする。",
             "enText": "I've been eyeing the quirky horse girl in front\nof me… I have a bad feeling about this.",
             "nextBlock": 13,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 3413225591117277575
+                }
+            ],
             "pathId": 2233247587917410672,
             "blockIdx": 12
         },
@@ -119,11 +207,22 @@
             "jpText": "もしかしてオマエ、トレーナーじゃね！？",
             "enText": "You're a trainer, aren't you?",
             "nextBlock": 14,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "緑色の皮膚で牙が剥き出しじゃないです！",
                     "enText": "It's got green skin and bared fangs!",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8885606061254147026
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -7573977100534788848
                 }
             ],
             "pathId": -2272517751199699871,
@@ -135,6 +234,17 @@
             "jpText": "あ？　なに言ってんだ？\r\nトレーナーバッジ付けてるヤツはトレーナーだろ？",
             "enText": "Oh? What are you talking about? The guy with\nthe trainer badge is a trainer, right?",
             "nextBlock": 15,
+            "origClipLength": 151,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -7099599215068596452
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -7049872713903754561
+                }
+            ],
             "pathId": -5353979579862115725,
             "blockIdx": 14
         },
@@ -144,6 +254,17 @@
             "jpText": "ったく、意味わかんねえこと言ってんなよな！\r\nそんなんじゃスカウト目当てのウマ娘にとっ掴まっちまうぞ？",
             "enText": "What the hell are you talking about? You'll be\ngrabbed by scouting horse girls like that.",
             "nextBlock": 16,
+            "origClipLength": 196,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -3058602295013968586
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -1988826264816479834
+                }
+            ],
             "pathId": -4430045401988062063,
             "blockIdx": 15
         },
@@ -153,6 +274,17 @@
             "jpText": "たとえば……このゴールドシップ様みたいなヤツになあ！！",
             "enText": "For example… to a guy like this Goldship!",
             "nextBlock": 17,
+            "origClipLength": 165,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 2330448688468202740
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 5944085227587424715
+                }
+            ],
             "pathId": -1161724987687173273,
             "blockIdx": 16
         },
@@ -162,6 +294,17 @@
             "jpText": "ここで会ったが100年目！\r\n野良トレーナー捕獲すんぞ、オラァァァアアアアアッ！！",
             "enText": "We've been meeting here for a hundred years! I'm\ngonna capture a stray trainer, orlaaaaaa!",
             "nextBlock": 18,
+            "origClipLength": 198,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 1957857300509850576
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 4558166514937385363
+                }
+            ],
             "pathId": 1632060469730811779,
             "blockIdx": 17
         },
@@ -171,6 +314,25 @@
             "jpText": "ゴールドシップと名乗ったウマ娘がどんどん近づいてくる！\r\nこのままだとまずい気がする……！！",
             "enText": "A horse girl named Goldship is getting closer and closer! I have\na feeling this is not going to end well…!",
             "nextBlock": 19,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -8463839141153796776
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -7236197433709707321
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 304792349472854592
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -5105931063696541468
+                }
+            ],
             "pathId": -7452243527878596384,
             "blockIdx": 18
         },
@@ -180,6 +342,21 @@
             "jpText": "身の危険を察知し、急いでその場から逃げることにした――！",
             "enText": "She sensed danger and hurriedly decided to flee the scene—!",
             "nextBlock": 20,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 4958485792450597901
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -5279614272570021394
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -8967504807722554573
+                }
+            ],
             "pathId": -973856190719577462,
             "blockIdx": 19
         },
@@ -189,6 +366,25 @@
             "jpText": "あっ……！！　テメー、待ちやがれー！！",
             "enText": "Oh…! You, wait for me!",
             "nextBlock": 21,
+            "origClipLength": 113,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 7263150264272203817
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -6931201529937338926
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 4775132787671333157
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 8978140328685167619
+                }
+            ],
             "pathId": -8604656016947888519,
             "blockIdx": 20
         },
@@ -198,6 +394,17 @@
             "jpText": "なんとか校舎裏まで逃れた時、\r\nようやくゴールドシップと名乗るウマ娘の姿が見えなくなった。",
             "enText": "When I managed to escape to the back of the\nschool building, I finally lost sight of the\nhorse girl who called herself Goldship.",
             "nextBlock": 22,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -4403894645785466564
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7945349307402650753
+                }
+            ],
             "pathId": 7206107995006761844,
             "blockIdx": 21
         },
@@ -207,6 +414,7 @@
             "jpText": "しかし、今のは一体なんだったのだろう……。",
             "enText": "But what the heck was that…?",
             "nextBlock": 23,
+            "origClipLength": 72,
             "pathId": 8412906051002623596,
             "blockIdx": 22
         },
@@ -216,6 +424,17 @@
             "jpText": "そこの貴方……大丈夫ですか？",
             "enText": "You there… are you okay?",
             "nextBlock": 24,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -4337268475732785461
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 2669159503891884521
+                }
+            ],
             "pathId": 7270605621383824236,
             "blockIdx": 23
         },
@@ -225,11 +444,22 @@
             "jpText": "随分と息切れしているようですが、\r\nなにかあったのでしょうか。",
             "enText": "You seem to be out of breath. What happened?",
             "nextBlock": 25,
+            "origClipLength": 148,
             "choices": [
                 {
                     "jpText": "ゴールドシップに追いかけられて……",
                     "enText": "Chased by Goldship…",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 160,
+                    "pathId": 4970424104982414590
+                },
+                {
+                    "origLen": 213,
+                    "pathId": 5130240431999813254
                 }
             ],
             "pathId": 3664971403329809411,
@@ -241,6 +471,17 @@
             "jpText": "まあ、ゴールドシップさんに！？\r\nそれは、なんというか……ご愁傷様でしたわ。",
             "enText": "Well, to Ms. Goldship! What a… pity that was.",
             "nextBlock": 26,
+            "origClipLength": 254,
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": -1158436007543689851
+                },
+                {
+                    "origLen": 168,
+                    "pathId": 8118748181182015344
+                }
+            ],
             "pathId": 3736799738870375856,
             "blockIdx": 25
         },
@@ -250,6 +491,7 @@
             "jpText": "けれど、どうして貴方が\r\n追いかけられることになったのでしょう？",
             "enText": "But how did you end up being chased?",
             "nextBlock": 27,
+            "origClipLength": 131,
             "choices": [
                 {
                     "jpText": "トレーナーを探していたみたいだが……",
@@ -262,6 +504,16 @@
                     "nextBlock": 27
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 2133490566689109055
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1558149527488087469
+                }
+            ],
             "pathId": -6596011537429413333,
             "blockIdx": 26
         },
@@ -271,6 +523,17 @@
             "jpText": "なるほど……あの方、レースに出たいという情熱は\r\nしっかりと持っていますものね。",
             "enText": "I see… She has a strong passion for racing, doesn't she?",
             "nextBlock": 28,
+            "origClipLength": 233,
+            "animData": [
+                {
+                    "origLen": 245,
+                    "pathId": 6798219375632063120
+                },
+                {
+                    "origLen": 222,
+                    "pathId": -5023230608061685718
+                }
+            ],
             "pathId": 6906079328084651467,
             "blockIdx": 27
         },
@@ -280,6 +543,17 @@
             "jpText": "ウマ娘が正式なレースに出るには、\r\nトレーナーの存在が必要不可欠。",
             "enText": "In order for Uma Musume to compete in\nofficial races, she needs a trainer.",
             "nextBlock": 29,
+            "origClipLength": 177,
+            "animData": [
+                {
+                    "origLen": 210,
+                    "pathId": 265436914652169249
+                },
+                {
+                    "origLen": 222,
+                    "pathId": 6270007027318770454
+                }
+            ],
             "pathId": -3344195958728454790,
             "blockIdx": 28
         },
@@ -289,6 +563,17 @@
             "jpText": "けれどゴールドシップさんは、掴みどころがないと言いますか、\r\n掴みきれないと言いますか、なんと言いますか……。",
             "enText": "But Goldship is elusive, ungraspable, or\nwhatever you want to call it…",
             "nextBlock": 30,
+            "origClipLength": 315,
+            "animData": [
+                {
+                    "origLen": 283,
+                    "pathId": 6219134011278541785
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -1356410556713497760
+                }
+            ],
             "pathId": 369052171201749430,
             "blockIdx": 29
         },
@@ -298,6 +583,17 @@
             "jpText": "とにかく、なかなかトレーナーが付かず\r\n無理やり捕まえようとしたのでしょうね……。",
             "enText": "Anyway, I guess she couldn't get a trainer easily\nand tried to force me to catch her…",
             "nextBlock": 31,
+            "origClipLength": 169,
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": 7782851397891503748
+                },
+                {
+                    "origLen": 199,
+                    "pathId": -8009969945562049097
+                }
+            ],
             "pathId": -5675888688567090854,
             "blockIdx": 30
         },
@@ -307,6 +603,17 @@
             "jpText": "どうやらあのゴールドシップというウマ娘は、\r\nなかなかの問題児のようだ。",
             "enText": "It seems that this Goldship girl is quite a problem child.",
             "nextBlock": 32,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -2420986682670351068
+                },
+                {
+                    "origLen": 191,
+                    "pathId": -2348129840355860312
+                }
+            ],
             "pathId": -6586102132282884559,
             "blockIdx": 31
         },
@@ -316,6 +623,17 @@
             "jpText": "レースに出たいという情熱は素晴らしいが、\r\n正直ついていけるかどうか……。",
             "enText": "It's great that you have such a passion for racing, but I\nhonestly don't know if I can keep up with you…",
             "nextBlock": 33,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": 2561311400809011945
+                },
+                {
+                    "origLen": 173,
+                    "pathId": -5938768840685469050
+                }
+            ],
             "pathId": -5231539581463716746,
             "blockIdx": 32
         },
@@ -325,6 +643,17 @@
             "jpText": "うおらあああああああ！！\r\nどこだ野良トレーナーァァァァ！！",
             "enText": "Whoa, whoa, whoa, whoa! Where are the stray trainers?",
             "nextBlock": 34,
+            "origClipLength": 153,
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -6450370813329189329
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 358318601007309973
+                }
+            ],
             "pathId": -2230115402701043882,
             "blockIdx": 33
         },
@@ -334,6 +663,17 @@
             "jpText": "まあっ……こちらに来たようですわ！",
             "enText": "Oh… they're here!",
             "nextBlock": 35,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2437173900003385077
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 6014700175247575206
+                }
+            ],
             "pathId": 7590660912506779554,
             "blockIdx": 34
         },
@@ -343,6 +683,17 @@
             "jpText": "絡まれると厄介ですので、私はここで失礼いたします。\r\n貴方もどうかお気をつけて……！",
             "enText": "I'm sorry, but I'm going to have to leave now.\nPlease take care of yourself too…!",
             "nextBlock": 36,
+            "origClipLength": 203,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -1851259340697898146
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -1722192460294726249
+                }
+            ],
             "pathId": -2599537193893424148,
             "blockIdx": 35
         },
@@ -352,6 +703,7 @@
             "jpText": "オラオラオラオラオラァァァァァァァァァァァ！！\r\nどこだァァァァァァーーーーーッ！！",
             "enText": "Ooh, ooh, ooh, ooh, ooh! Where are you?",
             "nextBlock": 37,
+            "origClipLength": 118,
             "pathId": -5433202481696540668,
             "blockIdx": 36
         },
@@ -361,6 +713,7 @@
             "jpText": "まずい、また逃げなければ！！\r\nしかしそう思った時にはすでに遅く――",
             "enText": "Oh no, I have to run away again! But by the time\nI thought that, it was already too late.",
             "nextBlock": 38,
+            "origClipLength": 89,
             "pathId": 5755631325775996064,
             "blockIdx": 37
         },
@@ -370,6 +723,7 @@
             "jpText": "おっ！　野良トレーナー、はっけーーん♪",
             "enText": "Whoa! Stray trainer, here I come!",
             "nextBlock": 39,
+            "origClipLength": 153,
             "pathId": 6338345193515790543,
             "blockIdx": 38
         },
@@ -379,6 +733,7 @@
             "jpText": "よいしょっ――",
             "enText": "Here we go.",
             "nextBlock": 40,
+            "origClipLength": 44,
             "pathId": 2588760702049449217,
             "blockIdx": 39
         },
@@ -388,6 +743,7 @@
             "jpText": "（バサッ！！）",
             "enText": "(Bassa!)",
             "nextBlock": 41,
+            "origClipLength": 54,
             "pathId": -3134332462688042853,
             "blockIdx": 40
         },
@@ -397,6 +753,7 @@
             "jpText": "ぅおらっしゃあああっ！！　捕獲完了っ！！",
             "enText": "Aaaaah! Capture complete!",
             "nextBlock": 42,
+            "origClipLength": 142,
             "choices": [
                 {
                     "jpText": "た、助けて……！！",
@@ -413,6 +770,7 @@
             "jpText": "おいおい、んな怯えんなって。\r\n別に獲って食ったりしねーからさぁ。",
             "enText": "Come on, don't be scared. I'm not\ngoing to catch you and eat you.",
             "nextBlock": 43,
+            "origClipLength": 140,
             "pathId": 619456503870778782,
             "blockIdx": 42
         },
@@ -422,6 +780,7 @@
             "jpText": "オマエには、ちょーーっとばかし大冒険に付き合ってほしいんだよ。\r\nつーわけで、出発進行ーッ！！",
             "enText": "I want you to accompany me on a little\nbit of a big adventure. So, let's go!",
             "nextBlock": 44,
+            "origClipLength": 249,
             "pathId": -4122138659712448446,
             "blockIdx": 43
         },
@@ -431,6 +790,7 @@
             "jpText": "袋に入れられたまま担がれ、\r\nどこかへと連れて行かれた……。",
             "enText": "She was carried in a bag and taken somewhere…",
             "nextBlock": 45,
+            "origClipLength": 84,
             "pathId": -3094057298983486807,
             "blockIdx": 44
         },
@@ -440,6 +800,7 @@
             "jpText": "そして、数時間後――",
             "enText": "And a few hours later—",
             "nextBlock": 46,
+            "origClipLength": 58,
             "pathId": -4099746987456568575,
             "blockIdx": 45
         },
@@ -449,6 +810,25 @@
             "jpText": "ピーカン！　花丸！　カンカン照り！\r\nお宝探しにピッタリの陽気だぜ！",
             "enText": "Pecan! Hanamaru! It's sunny! It's the\nperfect day for a treasure hunt!",
             "nextBlock": 47,
+            "origClipLength": 186,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 8516272874596161698
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1682494896840327627
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 8638516289365089384
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 4438204591293619789
+                }
+            ],
             "pathId": 8316123405393633411,
             "blockIdx": 46
         },
@@ -458,6 +838,17 @@
             "jpText": "んじゃ、ゴルシちゃんとのワクワク☆ドキドキ！？\r\nお宝探しツアー開催だぃーっ！！",
             "enText": "Now, let's go on an exciting treasure hunting tour with\nGorsi-chan! Let's go on a treasure hunt tour!",
             "nextBlock": 48,
+            "origClipLength": 234,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -8512715586903784201
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 9117445232939159393
+                }
+            ],
             "pathId": -8069416897985082317,
             "blockIdx": 47
         },
@@ -467,6 +858,13 @@
             "jpText": "……………………。",
             "enText": "…",
             "nextBlock": 49,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 4546084336720350089
+                }
+            ],
             "pathId": -5375857751117784873,
             "blockIdx": 48
         },
@@ -476,8 +874,16 @@
             "jpText": "ここは…………一体どこだ！？（続く）",
             "enText": "Where the hell is…? (continued)",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 279202971280984229
+                }
+            ],
             "pathId": 8947428244811266964,
             "blockIdx": 49
         }
-    ]
+    ],
+    "modified": 1669933646
 }

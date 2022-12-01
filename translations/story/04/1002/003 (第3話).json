@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DYUU7XMXNYC7BR7KIUKHQJUTV7GDYRM3",
     "type": "story",
     "storyId": "041002003",
@@ -11,6 +11,7 @@
             "jpText": "ふと立ち寄ったトレーニングコースで、\r\n今日も今日とてサイレンススズカが走っているのを見かけた。",
             "enText": "When stopping by the Training Course today, \nI happened to spot Silence Suzuka running.",
             "nextBlock": 2,
+            "origClipLength": 107,
             "pathId": 3417756305098444354,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "トレーナーもいないようだし、自主的に走っているのだろうか。\r\nそう思い、なんとなく眺めていたのだけれど――",
             "enText": "Since her trainer isn't here, is she doing her training \nindependently? Thinking that, I ended up watching over her.",
             "nextBlock": 3,
+            "origClipLength": 131,
             "pathId": 569974185589984145,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "はぁっ……はぁ。……あっ！？",
             "enText": "Haaa… haa…Ah?!",
             "nextBlock": 4,
+            "origClipLength": 163,
             "choices": [
                 {
                     "jpText": "大丈夫か！？",
@@ -41,6 +44,20 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 3820823927454438719
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 7648122515074082985
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 8858770598387940807
+                }
+            ],
             "pathId": -6442547640365784293,
             "blockIdx": 3
         },
@@ -50,6 +67,21 @@
             "jpText": "しゃがみこんでしまったサイレンススズカに、\r\n慌てて駆け寄った。まさかケガでもしたのだろうか……！",
             "enText": "When Silence Suzuka stumbled, I panicked and rushed \nto her. Don't tell me she's injured…!",
             "nextBlock": 5,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": -4361769159244133124
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -5228588744114553239
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -5156826756445422554
+                }
+            ],
             "pathId": -4309132972261094774,
             "blockIdx": 4
         },
@@ -59,6 +91,7 @@
             "jpText": "あ……す、すみません。なんでもないです、大丈夫です……。\r\nただ……ちょっと、脚が重いだけで……。",
             "enText": "Ah… S-sorry. It's nothing, I'm fine. It's \njust… my feet feel a little heavy…",
             "nextBlock": 6,
+            "origClipLength": 378,
             "choices": [
                 {
                     "jpText": "調子でも悪いのか……？",
@@ -71,6 +104,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 253,
+                    "pathId": 247061498935973736
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -5342357950865620357
+                }
+            ],
             "pathId": 771653331751636348,
             "blockIdx": 5
         },
@@ -80,6 +123,17 @@
             "jpText": "調子……そう、なんでしょうか。",
             "enText": "Out of sorts… could that be it?",
             "nextBlock": 7,
+            "origClipLength": 160,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": 908653528865877072
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -4095374432876115949
+                }
+            ],
             "pathId": 4030903447312252583,
             "blockIdx": 6
         },
@@ -89,6 +143,17 @@
             "jpText": "……変なんです、私。\r\n模擬レースの後から。",
             "enText": "…something's wrong with me. Ever since that mock race.",
             "nextBlock": 8,
+            "origClipLength": 162,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -2906636707225948942
+                },
+                {
+                    "origLen": 166,
+                    "pathId": -8846377457496470363
+                }
+            ],
             "pathId": 8832789992253812850,
             "blockIdx": 7
         },
@@ -98,6 +163,7 @@
             "jpText": "鎖がついてるみたいに、脚が重たくて。\r\nそれでも走り続けると、そのうち目の前が暗くなって……。",
             "enText": "My legs feel heavy, as if they've been chained. As I keep \nrunning, eventually my vision starts to darken…",
             "nextBlock": 9,
+            "origClipLength": 315,
             "choices": [
                 {
                     "jpText": "無理しない方がいいんじゃないか……？",
@@ -110,6 +176,16 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 326,
+                    "pathId": -2459624473989207667
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 829213985877388685
+                }
+            ],
             "pathId": 1433757428301729266,
             "blockIdx": 8
         },
@@ -119,6 +195,13 @@
             "jpText": "無理……？　無理なんかしていません。\r\nいつもだったら、もっと走れるんです。",
             "enText": "Pushing myself…? I'm not doing that. \nNormally, I could keep on running.",
             "nextBlock": 10,
+            "origClipLength": 261,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 1467759719862236065
+                }
+            ],
             "pathId": 5982299823653466485,
             "blockIdx": 9
         },
@@ -128,6 +211,17 @@
             "jpText": "……ずっと、走ってきたんです。ずっと。\r\n走ることは、私にとってすべてだったから。",
             "enText": "…I've always been running. Always. Running is everything to me.",
             "nextBlock": 11,
+            "origClipLength": 315,
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": 7300826578175761980
+                },
+                {
+                    "origLen": 323,
+                    "pathId": 6946752838522097608
+                }
+            ],
             "pathId": -8770574162300988316,
             "blockIdx": 10
         },
@@ -137,6 +231,17 @@
             "jpText": "なのに、今は……っ。\r\nどうしよう、こんなの、初めてなんです。",
             "enText": "However, now… what should I do? This is \nthe first time I've ever felt like this.",
             "nextBlock": 12,
+            "origClipLength": 314,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 8429965932981797762
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 6983003085349674623
+                }
+            ],
             "pathId": 6567869914932114488,
             "blockIdx": 11
         },
@@ -146,11 +251,22 @@
             "jpText": "もう走りたくないって、思うなんて。\r\nこんなの……初めて……。",
             "enText": "I feel like 'I don't want to run anymore'… \nThis is… the first time…",
             "nextBlock": 13,
+            "origClipLength": 281,
             "choices": [
                 {
                     "jpText": "スズカ……",
                     "enText": "Suzuka…",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 293,
+                    "pathId": 2711771468083075305
+                },
+                {
+                    "origLen": 286,
+                    "pathId": -6784196087799461362
                 }
             ],
             "pathId": -4936801800380258798,
@@ -162,6 +278,17 @@
             "jpText": "彼女は本当に苦しそうだ。\r\n何か自分にしてあげられることはないだろうか……。",
             "enText": "It seems like she's really suffering. Is \nthere anything I can do for her…?",
             "nextBlock": 14,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 293,
+                    "pathId": -2132901611030467214
+                },
+                {
+                    "origLen": 292,
+                    "pathId": -6486663538487190634
+                }
+            ],
             "pathId": 4801673619363971146,
             "blockIdx": 13
         },
@@ -171,6 +298,17 @@
             "jpText": "走ることの楽しさを見失いかけている彼女に、何か――",
             "enText": "For this girl that's lost sight of the excitement \nof running, is there anything?",
             "nextBlock": 15,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 4876100384474952477
+                },
+                {
+                    "origLen": 292,
+                    "pathId": 4301345151576309720
+                }
+            ],
             "pathId": 7374173643019288425,
             "blockIdx": 14
         },
@@ -180,6 +318,17 @@
             "jpText": "ふぅっ……！！\r\nうん……夜に走ると、静かでいいわね……。",
             "enText": "Huuu… Yeah… running at night is great, it's nice and quiet",
             "nextBlock": 16,
+            "origClipLength": 239,
+            "animData": [
+                {
+                    "origLen": 272,
+                    "pathId": 1300081643359530959
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -83631442687875339
+                }
+            ],
             "pathId": 7294436035941598385,
             "blockIdx": 15
         },
@@ -189,6 +338,17 @@
             "jpText": "そういえば、今日はちょっとだけ星が明るいかしら……？",
             "enText": "Now that I think about it, doesn't it seem \nlike the stars are brighter tonight?",
             "nextBlock": 17,
+            "origClipLength": 147,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3689390073539370918
+                },
+                {
+                    "origLen": 152,
+                    "pathId": 1427845930322830344
+                }
+            ],
             "pathId": -2523371292202295501,
             "blockIdx": 16
         },
@@ -198,6 +358,17 @@
             "jpText": "……ふふっ。この景色全部、ひとり占めね。",
             "enText": "…hehe. This scenery, I have it all to myself",
             "nextBlock": 18,
+            "origClipLength": 167,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7462018135647400424
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -8429868664192645332
+                }
+            ],
             "pathId": 718080489545700700,
             "blockIdx": 17
         },
@@ -207,6 +378,17 @@
             "jpText": "そういえば、あの時……とても楽しそうに走っていた頃の\r\nサイレンススズカは、周囲の景色を楽しんでいるようだった。",
             "enText": "That reminds me, at that time… when Silence Suzuka was happily \nrunning, she was also enjoying the scenery around her.",
             "nextBlock": 19,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": 7400626214790787827
+                },
+                {
+                    "origLen": 149,
+                    "pathId": 1638543949453333215
+                }
+            ],
             "pathId": 243882716851303196,
             "blockIdx": 18
         },
@@ -216,6 +398,7 @@
             "jpText": "それなら――",
             "enText": "If that's the case…",
             "nextBlock": 20,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "気分を変えて、違う場所で走ってみるか？",
@@ -228,6 +411,16 @@
                     "nextBlock": 20
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 293,
+                    "pathId": 59461884887620179
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 6434801946794145314
+                }
+            ],
             "pathId": -3455419019860602027,
             "blockIdx": 19
         },
@@ -237,11 +430,22 @@
             "jpText": "違う場所、ですか……？",
             "enText": "A different location…?",
             "nextBlock": 21,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "そう、景色が綺麗な場所とか",
                     "enText": "Yeah, like a place with beautiful scenery",
                     "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": 1189786547338636833
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8743896307191596033
                 }
             ],
             "pathId": 8047696623101869005,
@@ -253,6 +457,13 @@
             "jpText": "景色……。",
             "enText": "Scenery…",
             "nextBlock": 22,
+            "origClipLength": 41,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -8058799011510354535
+                }
+            ],
             "pathId": -3979684857563925216,
             "blockIdx": 21
         },
@@ -262,6 +473,7 @@
             "jpText": "でも、学園の近くのそういう場所は、\r\nだいたいランニングで通い慣れてしまって……。",
             "enText": "But, there isn't a place like that near school. \nI've visited most of the area on my runs…",
             "nextBlock": 23,
+            "origClipLength": 203,
             "choices": [
                 {
                     "jpText": "それなら、俺がどこか案内するよ",
@@ -274,6 +486,12 @@
                     "nextBlock": 23
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 191,
+                    "pathId": 1700512698271216486
+                }
+            ],
             "pathId": -7082064264880740122,
             "blockIdx": 22
         },
@@ -283,6 +501,17 @@
             "jpText": "……いいんですか？",
             "enText": "…is that okay?",
             "nextBlock": 24,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 5087918622368905977
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3831220880987201215
+                }
+            ],
             "pathId": -9178272971806365922,
             "blockIdx": 23
         },
@@ -292,6 +521,17 @@
             "jpText": "サイレンススズカを、景色が綺麗で\r\n思いっきり走れそうな場所まで連れて行くことにした。",
             "enText": "I led Silence Suzuka to a place with beautiful scenery where she \ncould run to her heart's content.",
             "nextBlock": 25,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 7238362914192969204
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 4802278186011856699
+                }
+            ],
             "pathId": 4889828925660734921,
             "blockIdx": 24
         },
@@ -301,6 +541,13 @@
             "jpText": "わぁっ……。",
             "enText": "Wow…",
             "nextBlock": 26,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 5228385612681698941
+                }
+            ],
             "pathId": 6740740910220551523,
             "blockIdx": 25
         },
@@ -310,6 +557,17 @@
             "jpText": "電車に乗ってるうちに……空、晴れてたんですね。\r\n緑がいっぱい陽を浴びて……綺麗……。",
             "enText": "While we were on the train, the sky seems to have cleared up. \nIt's all green and bathed in sunlight… beautiful…",
             "nextBlock": 27,
+            "origClipLength": 347,
+            "animData": [
+                {
+                    "origLen": 360,
+                    "pathId": -7590390390306270579
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -37176521123159226
+                }
+            ],
             "pathId": 777561370439694242,
             "blockIdx": 26
         },
@@ -319,6 +577,7 @@
             "jpText": "それに、この道……どこへ続いているのかしら……？",
             "enText": "That aside, this path… where does it lead…?",
             "nextBlock": 28,
+            "origClipLength": 177,
             "choices": [
                 {
                     "jpText": "走って、確かめてきたらどうだ？",
@@ -331,6 +590,16 @@
                     "nextBlock": 28
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 9041827226283047506
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -3947311993220959510
+                }
+            ],
             "pathId": -7583750212029267579,
             "blockIdx": 27
         },
@@ -340,6 +609,17 @@
             "jpText": "あ……。",
             "enText": "Ah…",
             "nextBlock": 29,
+            "origClipLength": 27,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 6388818049193700450
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 3163869517249534960
+                }
+            ],
             "pathId": -6497758830522344487,
             "blockIdx": 28
         },
@@ -349,6 +629,17 @@
             "jpText": "……そうですね。行ってきます！",
             "enText": "…That's right. I'll go and see.",
             "nextBlock": 30,
+            "origClipLength": 217,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 2813716165539341831
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -3244928643147978634
+                }
+            ],
             "pathId": -460555599136707002,
             "blockIdx": 29
         },
@@ -358,6 +649,17 @@
             "jpText": "はっ、はっ、はっ……ふぅ。",
             "enText": "Haa, haa, haa… Fuuu.",
             "nextBlock": 31,
+            "origClipLength": 191,
+            "animData": [
+                {
+                    "origLen": 183,
+                    "pathId": 5062923143533685397
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3453280658306277737
+                }
+            ],
             "pathId": 1074318319102496277,
             "blockIdx": 30
         },
@@ -367,6 +669,13 @@
             "jpText": "（まだ、ちょっと脚が重い……でも……）",
             "enText": "(My feet still feel a little heavy… but…)",
             "nextBlock": 32,
+            "origClipLength": 156,
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -6409034492121202882
+                }
+            ],
             "pathId": -6560297757067715093,
             "blockIdx": 31
         },
@@ -376,6 +685,21 @@
             "jpText": "…………いい風。\r\nひんやりする……。",
             "enText": "…A nice breeze. It feels cool…",
             "nextBlock": 33,
+            "origClipLength": 211,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 6242931519292401250
+                },
+                {
+                    "origLen": 225,
+                    "pathId": 6794676557016312750
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3841473611025344807
+                }
+            ],
             "pathId": -763729889270387577,
             "blockIdx": 32
         },
@@ -385,6 +709,17 @@
             "jpText": "……うん。もう少し、走ろう。",
             "enText": "…Yeah. Let's run a little more.",
             "nextBlock": 34,
+            "origClipLength": 130,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -5550589172728266108
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 958895694865805632
+                }
+            ],
             "pathId": -5148843141348666123,
             "blockIdx": 33
         },
@@ -394,6 +729,13 @@
             "jpText": "はっ、はっ、はっ……。",
             "enText": "Haa, haa, haa…",
             "nextBlock": 35,
+            "origClipLength": 178,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 3320278110833690334
+                }
+            ],
             "pathId": 6861479056756997131,
             "blockIdx": 34
         },
@@ -403,6 +745,7 @@
             "jpText": "（両足が地面を蹴る感覚……体が熱くて、風は冷たい……）",
             "enText": "(The feeling of both feet kicking the ground… \nmy body is hot, the breeze is cool…)",
             "nextBlock": 36,
+            "origClipLength": 230,
             "pathId": 5219625917335363219,
             "blockIdx": 35
         },
@@ -412,6 +755,7 @@
             "jpText": "（そうだ。こうやって走って、走っていたら、そのうち――）",
             "enText": "(That's right. If I run like this, if I keep \nrunning like this, then eventually-)",
             "nextBlock": 37,
+            "origClipLength": 196,
             "pathId": -5061180633047286355,
             "blockIdx": 36
         },
@@ -421,6 +765,7 @@
             "jpText": "はっ、はぁっ……！！",
             "enText": "Haa, haaa…!",
             "nextBlock": 38,
+            "origClipLength": 141,
             "pathId": 5561651390928185894,
             "blockIdx": 37
         },
@@ -430,6 +775,7 @@
             "jpText": "（――静かな景色に、辿り着けるの）",
             "enText": "(-I'll finally reach that quiet scenery)",
             "nextBlock": 39,
+            "origClipLength": 116,
             "pathId": 2190515931368630870,
             "blockIdx": 38
         },
@@ -439,6 +785,7 @@
             "jpText": "（聞こえるのは、風の音と心臓の鼓動だけ。\r\n他に誰もいない、まっさらな……私だけの世界……！）",
             "enText": "(With only the sound of the wind and my beating heart. With \nnobody around, a whole new… world just for me…!)",
             "nextBlock": 40,
+            "origClipLength": 362,
             "pathId": -3762430988100802006,
             "blockIdx": 39
         },
@@ -448,6 +795,7 @@
             "jpText": "そうだ、私……！！",
             "enText": "That's right, I…!",
             "nextBlock": 41,
+            "origClipLength": 116,
             "pathId": -3725071383876417713,
             "blockIdx": 40
         },
@@ -457,6 +805,7 @@
             "jpText": "はっ、はっ……はぁーーーーっ。\r\n…………ふぅっ。",
             "enText": "Haa, haa… haaaaaaauu…Fuuu.",
             "nextBlock": 42,
+            "origClipLength": 234,
             "choices": [
                 {
                     "jpText": "スッキリした顔してるな",
@@ -469,6 +818,16 @@
                     "nextBlock": 42
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 6478048888725991377
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 3377305577951507067
+                }
+            ],
             "pathId": 5173618602367445475,
             "blockIdx": 41
         },
@@ -478,6 +837,17 @@
             "jpText": "……はい、スッキリしました。\r\n頭が空っぽになるまで、思いっきり走ったから。",
             "enText": "…Yes, I am. I ran my heart out, until it emptied my mind.",
             "nextBlock": 43,
+            "origClipLength": 302,
+            "animData": [
+                {
+                    "origLen": 314,
+                    "pathId": 2642823973744231563
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 6277574102283779902
+                }
+            ],
             "pathId": -7720020670988855466,
             "blockIdx": 42
         },
@@ -487,11 +857,22 @@
             "jpText": "おかげで……思い出せました。",
             "enText": "Because of that…I remembered.",
             "nextBlock": 44,
+            "origClipLength": 104,
             "choices": [
                 {
                     "jpText": "思い出せた？",
                     "enText": "You remembered?",
                     "nextBlock": 44
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -9167907440257493061
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 7666041852730564658
                 }
             ],
             "pathId": -3769428983731572475,
@@ -503,6 +884,17 @@
             "jpText": "小さな頃から走ってばかりいた私に、\r\nある日、両親がレースへの出走を勧めてくれたんです。",
             "enText": "When I was little and just ran and ran, one day, \nmy parents recommended I enter a race.",
             "nextBlock": 45,
+            "origClipLength": 263,
+            "animData": [
+                {
+                    "origLen": 274,
+                    "pathId": 587279003745039015
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -3126129350767307241
+                }
+            ],
             "pathId": -2423861742900978682,
             "blockIdx": 44
         },
@@ -512,6 +904,17 @@
             "jpText": "走れるのならいいかな、と思って出てみたレースは、\r\n最初……すごく苦しいものに感じられました。",
             "enText": "I entered the race thinking 'As long as I get \nto run'. At first… it was very stressful",
             "nextBlock": 46,
+            "origClipLength": 281,
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": -7177803576903025984
+                },
+                {
+                    "origLen": 161,
+                    "pathId": 7971132492718795626
+                }
+            ],
             "pathId": 4611204712818988508,
             "blockIdx": 45
         },
@@ -521,6 +924,17 @@
             "jpText": "たくさんの子たちに囲まれてしまったので……\r\n騒がしくって、窮屈で。",
             "enText": "Being surrounded by so many… it was noisy, and uncomfortable.",
             "nextBlock": 47,
+            "origClipLength": 223,
+            "animData": [
+                {
+                    "origLen": 246,
+                    "pathId": -8303277469211265581
+                },
+                {
+                    "origLen": 231,
+                    "pathId": 8845718907482274777
+                }
+            ],
             "pathId": 6287564672385892971,
             "blockIdx": 46
         },
@@ -530,6 +944,7 @@
             "jpText": "だから……誰もいない場所まで行こうと思って、先頭に出たんです。",
             "enText": "That's why… I thought I should go to a place \nwhere nobody was, and went out in front.",
             "nextBlock": 48,
+            "origClipLength": 199,
             "choices": [
                 {
                     "jpText": "“大逃げ”したのか",
@@ -542,6 +957,16 @@
                     "nextBlock": 48
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 210,
+                    "pathId": 7760236049228511222
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -7292848062689139867
+                }
+            ],
             "pathId": -4576215068326025512,
             "blockIdx": 47
         },
@@ -551,6 +976,17 @@
             "jpText": "はい。誰もいない、絶対に追いつけない場所まで行こうって、\r\n思いっきり走ったら……目の前がぱっと開けて。",
             "enText": "Yes. I thought 'I have to get to a place that nobody can follow'. \nWhen I ran my hardest, suddenly my eyes were opened.",
             "nextBlock": 49,
+            "origClipLength": 307,
+            "animData": [
+                {
+                    "origLen": 272,
+                    "pathId": -5593661614985866675
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -4632806961941443664
+                }
+            ],
             "pathId": -4123482926009012540,
             "blockIdx": 48
         },
@@ -560,6 +996,17 @@
             "jpText": "静かな……誰もいない景色に、辿り着けたんです。",
             "enText": "It became quiet… I reached that scenery with nobody around.",
             "nextBlock": 50,
+            "origClipLength": 179,
+            "animData": [
+                {
+                    "origLen": 190,
+                    "pathId": -3652565953362813327
+                },
+                {
+                    "origLen": 194,
+                    "pathId": -4085982368715635839
+                }
+            ],
             "pathId": -697151804320838497,
             "blockIdx": 49
         },
@@ -569,6 +1016,17 @@
             "jpText": "……私、先頭を走りたい。",
             "enText": "…I want to run out in front.",
             "nextBlock": 51,
+            "origClipLength": 122,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 752219595287210194
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6480519274294518300
+                }
+            ],
             "pathId": 8190181477605359431,
             "blockIdx": 50
         },
@@ -578,6 +1036,13 @@
             "jpText": "もう1度、何度でもあそこに辿り着きたい。\r\nこの気持ちだけは……譲れない……！",
             "enText": "Once more, I want to reach that place again and again. These \nfeelings alone…I won't concede…!",
             "nextBlock": 52,
+            "origClipLength": 229,
+            "animData": [
+                {
+                    "origLen": 167,
+                    "pathId": 8319276991994484726
+                }
+            ],
             "pathId": -5515857675235134416,
             "blockIdx": 51
         },
@@ -587,6 +1052,13 @@
             "jpText": "私、担当トレーナーさんにお話ししようと思います。\r\n『逃げない走り方はできません』って。",
             "enText": "I think I want to speak with my trainer now. \nTo say \"I can't run without Escaping\".",
             "nextBlock": 53,
+            "origClipLength": 269,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 364023756183942123
+                }
+            ],
             "pathId": -9158376722230590933,
             "blockIdx": 52
         },
@@ -596,6 +1068,7 @@
             "jpText": "あの、それで……その。",
             "enText": "Um, and so… um.",
             "nextBlock": 54,
+            "origClipLength": 133,
             "choices": [
                 {
                     "jpText": "どうした？",
@@ -608,6 +1081,12 @@
                     "nextBlock": 54
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5003698631059887849
+                }
+            ],
             "pathId": -233213318638178765,
             "blockIdx": 53
         },
@@ -617,6 +1096,13 @@
             "jpText": "……あなたも一緒に、来て頂けないでしょうか。\r\n私、話をするのがあまり得意な方ではないので……。",
             "enText": "…do you think you can come with me? Speaking \nisn't one of my strong points…",
             "nextBlock": 55,
+            "origClipLength": 331,
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 9117494220937710671
+                }
+            ],
             "pathId": 7731324551342331376,
             "blockIdx": 54
         },
@@ -626,11 +1112,22 @@
             "jpText": "い、いけませんか……？",
             "enText": "W-would that be okay…?",
             "nextBlock": 56,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "いいよ",
                     "enText": "Yeah",
                     "nextBlock": 56
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 2911106280380859391
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -4434978895379311357
                 }
             ],
             "pathId": -4254766258297812653,
@@ -642,8 +1139,20 @@
             "jpText": "学園に戻って、サイレンススズカのトレーナーと話をしよう……！",
             "enText": "Let's return to school, and talk to Silence Suzuka's trainer…!",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -6306286161656317469
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 2969262683500112294
+                }
+            ],
             "pathId": 887761690183195804,
             "blockIdx": 56
         }
-    ]
+    ],
+    "modified": 1669933628
 }

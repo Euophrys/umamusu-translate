@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "55CDTIJW5PCT4HX5N5FBOXDOGDUOAE2I",
     "type": "story",
     "storyId": "041010003",
@@ -11,6 +11,7 @@
             "jpText": "ヘーーーールプ！！\r\nヘルプミーーー！！",
             "enText": "Heeeeeeeeeeeelp!! \nHelp Meeeeeeeeee!!",
             "nextBlock": 2,
+            "origClipLength": 128,
             "choices": [
                 {
                     "jpText": "！？",
@@ -27,6 +28,13 @@
             "jpText": "オーマイトレーナーさん！！\r\nヘルプミー！！　助けてくだサーイ！！",
             "enText": "Oh my Trainer-san!! \nHelp Me!! Please save me!!",
             "nextBlock": 3,
+            "origClipLength": 166,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -4385610940536519813
+                }
+            ],
             "pathId": -5732516406922063354,
             "blockIdx": 2
         },
@@ -36,11 +44,22 @@
             "jpText": "ワタシ、実は今……追われているのデース！！",
             "enText": "The truth is, I'm… being chased!!",
             "nextBlock": 4,
+            "origClipLength": 174,
             "choices": [
                 {
                     "jpText": "追われてる！？誰に！？",
                     "enText": "Chased?! By who?!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8305698834434094701
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 754286892100410263
                 }
             ],
             "pathId": 6269826788216095647,
@@ -52,6 +71,21 @@
             "jpText": "はい、それはそれはソー・スケアリーな\r\nウマ娘……ノー！　ウマアネゴに……！！",
             "enText": "Yeah, by an Uma Musume that's so scary… \nNo! By an Uma Anego…!!",
             "nextBlock": 5,
+            "origClipLength": 214,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 3134972663718633353
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -8779118273970941143
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 5047045317605287784
+                }
+            ],
             "pathId": 2760967806150042071,
             "blockIdx": 4
         },
@@ -61,6 +95,21 @@
             "jpText": "こらぁあああー！！\r\nここにいやがったかタイキ！！",
             "enText": "Stop right there!! \nSo this is where you were, Taiki!!",
             "nextBlock": 6,
+            "origClipLength": 100,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -2432240474790922384
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -4680318752376721683
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6692825779469567983
+                }
+            ],
             "pathId": 7783112131646865616,
             "blockIdx": 5
         },
@@ -70,6 +119,25 @@
             "jpText": "ノォーーーーー！！\r\nウマアネゴ、脚が速いデーーース！！",
             "enText": "Nooooooooooo!! \nUma Anego, is super faaaaaaast!!",
             "nextBlock": 7,
+            "origClipLength": 150,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -9052604985792028074
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6984059822682318366
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -8099387072655800372
+                },
+                {
+                    "origLen": 176,
+                    "pathId": 1138019644491497784
+                }
+            ],
             "pathId": 3650904405321784340,
             "blockIdx": 6
         },
@@ -79,6 +147,25 @@
             "jpText": "誰が『ウマアネゴ』だいっ！！",
             "enText": "Who are you calling [Uma Anego], huh?!",
             "nextBlock": 8,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": -7923493311260430683
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 8440240020131423269
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -8612080308848081009
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 9153223385675173754
+                }
+            ],
             "pathId": -3030023660795886008,
             "blockIdx": 7
         },
@@ -88,6 +175,25 @@
             "jpText": "ヘルプ！！\r\nトレーナーさん、ヘルプミ～～～！！",
             "enText": "Help!! Trainer-san, \nHelp meeeeeee~~~!!",
             "nextBlock": 9,
+            "origClipLength": 128,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 3213874233059893867
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -2973599961209022055
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 8691551991879503688
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5754653772465670858
+                }
+            ],
             "pathId": -2639551403707440221,
             "blockIdx": 8
         },
@@ -97,6 +203,13 @@
             "jpText": "……タイキシャトルが背中に隠れた。",
             "enText": "…Taiki Shuttle hid behind me.",
             "nextBlock": 10,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -8989835451250164142
+                }
+            ],
             "pathId": 5708508932685572541,
             "blockIdx": 9
         },
@@ -106,6 +219,17 @@
             "jpText": "……アンタ、タイキのトレーナーかい？\r\n悪いがそいつのことは引き渡してもらうよ。",
             "enText": "…are you, Taiki's trainer? \nSorry, but I'm gonna need you to hand her over.",
             "nextBlock": 11,
+            "origClipLength": 190,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -2852897329600736907
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 4513209314145925787
+                }
+            ],
             "pathId": -8082478318714906654,
             "blockIdx": 10
         },
@@ -115,6 +239,21 @@
             "jpText": "そこのタイキは、門限も過ぎてるってぇのに寮を\r\n抜け出そうとしたんだ。美浦の寮長としちゃ、見過ごせないんでね！",
             "enText": "That Taiki, she knows it's past curfew but is trying to leave the \ndorms. As the Mihono Dorm Leader, I can't let that slide.",
             "nextBlock": 12,
+            "origClipLength": 261,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -1902024832544048916
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 3287751867105551866
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -7165258293638451230
+                }
+            ],
             "pathId": -5600836797194292046,
             "blockIdx": 11
         },
@@ -124,6 +263,13 @@
             "jpText": "さ、そいつをこっちに渡しなッ！",
             "enText": "So, hand her over!",
             "nextBlock": 13,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 2124449091580644714
+                }
+            ],
             "pathId": -8692978279236276529,
             "blockIdx": 12
         },
@@ -133,6 +279,7 @@
             "jpText": "ノー！　ノー！　ノォォォウ！\r\n渡さないでプリィーーーズ！！",
             "enText": "No! No! Nooooooo! \nPleeeeeeeeease don't hand me over!!",
             "nextBlock": 14,
+            "origClipLength": 174,
             "choices": [
                 {
                     "jpText": "……規則は守ろうな！",
@@ -145,6 +292,12 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 186,
+                    "pathId": 4123299293639115027
+                }
+            ],
             "pathId": 6785835623567226986,
             "blockIdx": 13
         },
@@ -154,6 +307,13 @@
             "jpText": "背中に隠れたタイキシャトルを差し出した。",
             "enText": "I pulled Taiki Shuttle out from behind me, and handed her over.",
             "nextBlock": 15,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 7152888205202651170
+                }
+            ],
             "pathId": 7225958898267915588,
             "blockIdx": 14
         },
@@ -163,6 +323,25 @@
             "jpText": "ワット！？　トレーナーさんっ！？",
             "enText": "What?! Trainer-san?!",
             "nextBlock": 16,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 5297925895643810808
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 7437622014571850271
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -1459918160540010305
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2207183911092065986
+                }
+            ],
             "pathId": -4307742116296988243,
             "blockIdx": 15
         },
@@ -172,6 +351,25 @@
             "jpText": "アッハッハッハッハ！　タイキ、アンタ随分と\r\n立派で話のわかるトレーナーがついたんだな！",
             "enText": "Aha ha ha ha! Taiki, looks like you've got \na really outstanding and understanding trainer, don't you?!",
             "nextBlock": 17,
+            "origClipLength": 202,
+            "animData": [
+                {
+                    "origLen": 183,
+                    "pathId": -7111980829780462616
+                },
+                {
+                    "origLen": 167,
+                    "pathId": -4239513011166270647
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -4455743667415140829
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 8607145029970971837
+                }
+            ],
             "pathId": 7488053364526906059,
             "blockIdx": 16
         },
@@ -181,6 +379,21 @@
             "jpText": "さぁ行くよッ！！\r\nみっっっっちりお説教だから覚悟しろ！！",
             "enText": "Alright, let's go!! \nI hope you're prepared for a striiiiiiict lecture!!",
             "nextBlock": 18,
+            "origClipLength": 148,
+            "animData": [
+                {
+                    "origLen": 160,
+                    "pathId": 632657537170630297
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 5099921796425722930
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -1797259174311971188
+                }
+            ],
             "pathId": -1715261609575333661,
             "blockIdx": 17
         },
@@ -190,6 +403,21 @@
             "jpText": "ノォォーーーーーウ！！",
             "enText": "Noooooooooooooo!!",
             "nextBlock": 19,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 614222911908333986
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -6094104129913619317
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 5671126077967873638
+                }
+            ],
             "pathId": 4787076844087016287,
             "blockIdx": 18
         },
@@ -199,6 +427,7 @@
             "jpText": "こうして、タイキシャトルの悲鳴が\r\n虚空にこだました……。",
             "enText": "And so, Taiki Shuttle's scream echoed in to the empty night…",
             "nextBlock": 20,
+            "origClipLength": 82,
             "pathId": -7788387551995408530,
             "blockIdx": 19
         },
@@ -208,6 +437,7 @@
             "jpText": "……その数分後のこと。",
             "enText": "…A few minutes later.",
             "nextBlock": 21,
+            "origClipLength": 59,
             "pathId": -5988325179410707719,
             "blockIdx": 20
         },
@@ -217,6 +447,7 @@
             "jpText": "うぅーん、\r\n2人とも見つかりませんデース……！",
             "enText": "Hmmmmm, \nWe can't seem to find both of them…!",
             "nextBlock": 22,
+            "origClipLength": 125,
             "pathId": 8362692909337276520,
             "blockIdx": 21
         },
@@ -226,6 +457,13 @@
             "jpText": "困りましたね～……。",
             "enText": "That's a bit troubling~…",
             "nextBlock": 23,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -2053072084603538031
+                }
+            ],
             "pathId": -4596378371980545104,
             "blockIdx": 22
         },
@@ -235,6 +473,7 @@
             "jpText": "あっ！！　すみませーん、そこの方ー！！\r\nこのへんでヒシアマ先輩とタイキ先輩を見ませんでしたかっ！？",
             "enText": "Ah!! Sorry, you over there!! Have you seen \nHishi Ama-senpai and Taiki-senpai around here?!",
             "nextBlock": 24,
+            "origClipLength": 223,
             "choices": [
                 {
                     "jpText": "タイキならさっきお説教に連れて行かれたぞ",
@@ -247,6 +486,16 @@
                     "nextBlock": 24
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -1018113265654535395
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 23267604195105917
+                }
+            ],
             "pathId": 991963118233007923,
             "blockIdx": 23
         },
@@ -256,6 +505,25 @@
             "jpText": "ああああーっ！　コンドル失態……！\r\n間に合いませんでしたか……！",
             "enText": "Ahhhhhhh! Condor's failure…! \nSo, we didn't make it in time…!",
             "nextBlock": 25,
+            "origClipLength": 177,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 1205779067798348082
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 8997828824271884602
+                },
+                {
+                    "origLen": 193,
+                    "pathId": 8422108225765069919
+                },
+                {
+                    "origLen": 160,
+                    "pathId": 6758374717037014638
+                }
+            ],
             "pathId": -571499034071728043,
             "blockIdx": 24
         },
@@ -265,11 +533,30 @@
             "jpText": "タイキ先輩のこと、\r\nヒシアマ先輩に誤解させちゃいましたね……。",
             "enText": "Looks like Hishi Ama-senpai has a \nmisunderstanding about Taiki-senpai, doesn't she…?",
             "nextBlock": 26,
+            "origClipLength": 168,
             "choices": [
                 {
                     "jpText": "誤解って……？",
                     "enText": "A misunderstanding…?",
                     "nextBlock": 26
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -5669930396612254867
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -4798665407705670858
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 2298616961380732646
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 2535930875223405137
                 }
             ],
             "pathId": -1285842969773033484,
@@ -281,6 +568,25 @@
             "jpText": "確かにタイキ先輩は、門限時間外に\r\n寮を抜け出しましたけど……それ、私たちのためなんです。",
             "enText": "While it's true that Taiki-senpai was breaking curfew by leaving \nthe dorm… she was doing it for our sakes.",
             "nextBlock": 27,
+            "origClipLength": 267,
+            "animData": [
+                {
+                    "origLen": 279,
+                    "pathId": -2700971894097143525
+                },
+                {
+                    "origLen": 279,
+                    "pathId": 2161856074989289105
+                },
+                {
+                    "origLen": 262,
+                    "pathId": -8700769991091571428
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 7334740872467023127
+                }
+            ],
             "pathId": 7845972333222629848,
             "blockIdx": 26
         },
@@ -290,6 +596,25 @@
             "jpText": "アタシもグラスも、\r\n両親が遠い国にいるのデスが……。",
             "enText": "For both Grass and me, \nboth of our parents are in a far away country…",
             "nextBlock": 28,
+            "origClipLength": 136,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 8350214599762058776
+                },
+                {
+                    "origLen": 149,
+                    "pathId": 9160943874813569980
+                },
+                {
+                    "origLen": 262,
+                    "pathId": 7743980095514196371
+                },
+                {
+                    "origLen": 149,
+                    "pathId": 2258528025386215100
+                }
+            ],
             "pathId": -5224216077250434325,
             "blockIdx": 27
         },
@@ -299,6 +624,25 @@
             "jpText": "同じ境遇のタイキ先輩が寂しくないようにって、\r\nアタシたちのためにパーティーを開いてくれたんデース！",
             "enText": "Since we're in a similar circumstance to Taiki-senpai, \nshe wanted to hold a party for us so we wouldn't be lonely!",
             "nextBlock": 29,
+            "origClipLength": 239,
+            "animData": [
+                {
+                    "origLen": 226,
+                    "pathId": 8023139989827567116
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -4019531905384677716
+                },
+                {
+                    "origLen": 262,
+                    "pathId": -5147789223999041718
+                },
+                {
+                    "origLen": 251,
+                    "pathId": 648579172263480082
+                }
+            ],
             "pathId": -8664204738343649245,
             "blockIdx": 28
         },
@@ -308,6 +652,21 @@
             "jpText": "とっても賑やかに、楽しませていただいたのですが……\r\n途中で料理が足りなくなってしまって。",
             "enText": "It was very lively, and we were having fun but… part way \nthrough, we realized we were running out of food.",
             "nextBlock": 30,
+            "origClipLength": 215,
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": 4335562900859671887
+                },
+                {
+                    "origLen": 227,
+                    "pathId": -8663240002354856213
+                },
+                {
+                    "origLen": 227,
+                    "pathId": 625342085544840807
+                }
+            ],
             "pathId": -8490351527890266872,
             "blockIdx": 29
         },
@@ -317,6 +676,7 @@
             "jpText": "そうしたらタイキ先輩、\r\n『こっそり抜け出して買ってくる』と仰って……。",
             "enText": "Seeing that, Taiki-senpai \nsaid [I'll secretly sneak out and buy some!]…",
             "nextBlock": 31,
+            "origClipLength": 170,
             "choices": [
                 {
                     "jpText": "そんな事情があったのか……",
@@ -329,6 +689,20 @@
                     "nextBlock": 31
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 227,
+                    "pathId": 4633113601776380859
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 4117058568728495456
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 8504184450384409887
+                }
+            ],
             "pathId": 7726123009703180211,
             "blockIdx": 30
         },
@@ -338,6 +712,21 @@
             "jpText": "集中を欠いていた選抜レースの後、レース中具合が悪そうだった\r\nウマ娘の事情に気づき、助けていた彼女の事が脳裏を過る。",
             "enText": "That time at the Selection Race comes to mind, where her \nconcentration was broken because she realized that other Uma \nMusume was in bad shape and needed help.",
             "nextBlock": 32,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 227,
+                    "pathId": 2186627462370737569
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -4528046666226428391
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -2372269702506202014
+                }
+            ],
             "pathId": -1774156824381119102,
             "blockIdx": 31
         },
@@ -347,11 +736,26 @@
             "jpText": "ちょっと勢いがあり過ぎる部分はあれど、周囲の人々のことに\r\nよく気づき、常に全力で関わっていく、仲間思いな子なのだろう。",
             "enText": "There's a part of her that's a bit too spirited but, she's very \naware of the people around her, and always using her full \nstrength to help them. She must really care about her friends.",
             "nextBlock": 33,
+            "origClipLength": 123,
             "choices": [
                 {
                     "jpText": "（……タイキたちの所へ行こう！）",
                     "enText": "(…I need to go to where Taiki is!)",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 227,
+                    "pathId": 6660493539896316415
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 7251918508132196977
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -1106862274098406915
                 }
             ],
             "pathId": 7199394787342460717,
@@ -363,6 +767,29 @@
             "jpText": "エルコンドルパサーたちには、自分が話してくるからと伝え、\r\nタイキシャトルが引っ張られていった方へと向かった。",
             "enText": "Since El Condor Pasa and Grass Wonder explained the situation to \nme, I headed in the direction that Taiki Shuttle was taken.",
             "nextBlock": 34,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -8839120856955448052
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 733538190583985389
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 2950149291578975939
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -572424708424313930
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -574761015169340127
+                }
+            ],
             "pathId": 7320941871323292094,
             "blockIdx": 33
         },
@@ -372,6 +799,7 @@
             "jpText": "うぅ、もうしまセーン……。\r\nって、あれ……？",
             "enText": "Uuu, I won't do it again… \nWait, huh…?",
             "nextBlock": 35,
+            "origClipLength": 172,
             "choices": [
                 {
                     "jpText": "ヒシアマゾン！ちょっと話があるんだが",
@@ -384,6 +812,20 @@
                     "nextBlock": 35
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -4764806498426971157
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -7733487576998808577
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -5965900034883344923
+                }
+            ],
             "pathId": -8933814140965623009,
             "blockIdx": 34
         },
@@ -393,6 +835,25 @@
             "jpText": "トレーナーさんっ！？",
             "enText": "Trainer-san?!",
             "nextBlock": 36,
+            "origClipLength": 42,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -1991380164941855490
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 4549073305037634574
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7838646303468850327
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 1491833217987661927
+                }
+            ],
             "pathId": 8081114404685813357,
             "blockIdx": 35
         },
@@ -402,6 +863,25 @@
             "jpText": "アンタ、さっきの……。",
             "enText": "You're, the one from before…",
             "nextBlock": 37,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 320629246004775528
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7268816814043654012
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -6145212850601037208
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 654071851624587307
+                }
+            ],
             "pathId": 5472665604613428289,
             "blockIdx": 36
         },
@@ -411,6 +891,21 @@
             "jpText": "……なんだい、話ってぇのは？",
             "enText": "…What is it that you have to say?",
             "nextBlock": 38,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -7134348362117074687
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 1238849165316480157
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2101162309958550862
+                }
+            ],
             "pathId": -2746006199837978926,
             "blockIdx": 37
         },
@@ -420,6 +915,17 @@
             "jpText": "ヒシアマゾンに、さっきエルコンドルパサーたちから\r\n聞いた事情を伝えた。",
             "enText": "I tell Hishi Amazon about the situation that I heard \nfrom El Condor Pasa and Grass Wonder.",
             "nextBlock": 39,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5355217266135777428
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 1139041792887326801
+                }
+            ],
             "pathId": -3620405112970895558,
             "blockIdx": 38
         },
@@ -429,6 +935,21 @@
             "jpText": "……はーん。そういうことかい。道理で理由を訊いても\r\n口を割らないワケだ。後輩のせいにはしたくないってか。",
             "enText": "…Hmmmm? So that's what's going on here. \nSo that's why you wouldn't spill the beans no matter what. \nYou didn't want anything to happen to your kouhai, huh?",
             "nextBlock": 40,
+            "origClipLength": 287,
+            "animData": [
+                {
+                    "origLen": 299,
+                    "pathId": -6973686994937974508
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 6051158170155306852
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -8426653696725399510
+                }
+            ],
             "pathId": 7323238125079810823,
             "blockIdx": 39
         },
@@ -438,6 +959,21 @@
             "jpText": "そ、それは……。",
             "enText": "W-well that's…",
             "nextBlock": 41,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 8024908752258981826
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -4383063499945496338
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 2062193682203692326
+                }
+            ],
             "pathId": -6844583332465242722,
             "blockIdx": 40
         },
@@ -447,6 +983,7 @@
             "jpText": "ま、実際のとこ何度か『パーティーが……』\r\nとか口走ってやがったから、なんかあるとは思ってたけどねぇ。",
             "enText": "Well, part way through you started going on about [The party…], \nso I figured there was something going on there.",
             "nextBlock": 42,
+            "origClipLength": 240,
             "choices": [
                 {
                     "jpText": "あまり叱らないであげてくれないか……？",
@@ -459,6 +996,20 @@
                     "nextBlock": 42
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 252,
+                    "pathId": -8311760562889650284
+                },
+                {
+                    "origLen": 207,
+                    "pathId": 8459582882855368843
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 221265773081123412
+                }
+            ],
             "pathId": -3066300040474166174,
             "blockIdx": 41
         },
@@ -468,6 +1019,21 @@
             "jpText": "……いーや。ヒシアマ姐さんは甘かぁないんだ。\r\nきっっっちりバツを受けてもらうぜッ！",
             "enText": "…No way. Hishi Ama-neesan isn't that sweet. \nI'm gonna have to give out some seeeeeerious punishment!",
             "nextBlock": 43,
+            "origClipLength": 194,
+            "animData": [
+                {
+                    "origLen": 206,
+                    "pathId": -6882754109349418977
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 7843807059095099004
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 1520996768831797174
+                }
+            ],
             "pathId": 8706798338133678225,
             "blockIdx": 42
         },
@@ -477,6 +1043,21 @@
             "jpText": "ヒィッ！？",
             "enText": "Hiiii?!",
             "nextBlock": 44,
+            "origClipLength": 29,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 6526182521185435838
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -1334345732693986067
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -9009772138888513143
+                }
+            ],
             "pathId": 5434061052002204861,
             "blockIdx": 43
         },
@@ -486,6 +1067,25 @@
             "jpText": "寮のキッチンの棚に、お菓子だのなんだのが詰まってる箱がある。\r\n言っとくけど、重た～い箱だからね？",
             "enText": "On the shelf in the dorm's kitchen, there's a box filled with \nsnacks and stuff. Just so you know, it's reeeeeally heavy, okay?",
             "nextBlock": 45,
+            "origClipLength": 257,
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": -4195388219476880583
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7444188091952484377
+                },
+                {
+                    "origLen": 207,
+                    "pathId": -2082438614346393118
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 6373031489624442686
+                }
+            ],
             "pathId": 4847577352127648549,
             "blockIdx": 44
         },
@@ -495,6 +1095,21 @@
             "jpText": "ソイツをアタシの部屋に運んで、\r\nそれからエルとグラスも連れて来な！",
             "enText": "Bring that to my room, \nand bring El and Grass along with you!",
             "nextBlock": 46,
+            "origClipLength": 156,
+            "animData": [
+                {
+                    "origLen": 179,
+                    "pathId": -1434027994028032827
+                },
+                {
+                    "origLen": 207,
+                    "pathId": -3841789597770568679
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8076299666362414715
+                }
+            ],
             "pathId": -3864543375128241145,
             "blockIdx": 45
         },
@@ -504,6 +1119,21 @@
             "jpText": "……えっ？\r\nそれってもしかして……。",
             "enText": "…Eh? \nIs that, possibly…",
             "nextBlock": 47,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3879179448115562572
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -5144072598146779239
+                },
+                {
+                    "origLen": 207,
+                    "pathId": -3204568038662566597
+                }
+            ],
             "pathId": 3656210574924531718,
             "blockIdx": 46
         },
@@ -513,6 +1143,25 @@
             "jpText": "アタシの部屋で、励ましパーティーの続きだ！　ったくアンタらの\r\n話聞いてたら、柄にもなく故郷のことを思い出しちまったよ。",
             "enText": "We're gonna continue that encouragement party in my room! Geez, \nlistening to your situation made me remember my hometown too.",
             "nextBlock": 48,
+            "origClipLength": 296,
+            "animData": [
+                {
+                    "origLen": 308,
+                    "pathId": -639973903578097241
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -5823217882112586496
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7241861258997569136
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -8176045916643268746
+                }
+            ],
             "pathId": 7691090367857087809,
             "blockIdx": 47
         },
@@ -522,6 +1171,25 @@
             "jpText": "アメリカ生まれ同士で集まって、\r\n今夜はいっちょパーッとやろうじゃないか！",
             "enText": "With all the American-born girls gathered up, \nwe're gonna party through the night!",
             "nextBlock": 49,
+            "origClipLength": 165,
+            "animData": [
+                {
+                    "origLen": 209,
+                    "pathId": 3562599108397811261
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 7470177523170074472
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1036206975392098947
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -7200912827453284397
+                }
+            ],
             "pathId": -392501747337789137,
             "blockIdx": 48
         },
@@ -531,6 +1199,21 @@
             "jpText": "…………！！　ヒシアマさぁーーーーんっ！！\r\nセンキュゥゥゥゥ～～～！！",
             "enText": "…!! Hishi Ama-saaaaaaaaaaaaaaan!! \nThank youuuuuuuuu~~~!!",
             "nextBlock": 50,
+            "origClipLength": 203,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3104995609022452503
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -5717767567479946867
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -8873121230833880488
+                }
+            ],
             "pathId": 4265461897084246333,
             "blockIdx": 49
         },
@@ -540,6 +1223,29 @@
             "jpText": "エヘヘ……トレーナーさんもセンキュー！\r\n来てくれてとっても、とってもハッピーです！",
             "enText": "Ehehe… thank you too Trainer-san! \nSeeing you come here, made me really really happy!",
             "nextBlock": 51,
+            "origClipLength": 249,
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": -7135594154862115390
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 2496203782427549741
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -7706275721285716658
+                },
+                {
+                    "origLen": 261,
+                    "pathId": -8622774209991649990
+                },
+                {
+                    "origLen": 176,
+                    "pathId": 2570066408793165734
+                }
+            ],
             "pathId": -3415211117044397029,
             "blockIdx": 50
         },
@@ -549,6 +1255,25 @@
             "jpText": "あっ、そうデース！！　トレーナーさんも一緒にパーティー\r\nしまセンカ！？　しまショー！　きっと楽しいデース！！",
             "enText": "Ah, that's right!! Why don't you come to the party too?! \nC'mon! It'll be fun, for sure!!",
             "nextBlock": 52,
+            "origClipLength": 249,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -6617659571577586085
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -3819498448719170380
+                },
+                {
+                    "origLen": 261,
+                    "pathId": 3505712068192519095
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -554566415464444815
+                }
+            ],
             "pathId": -410543320889417461,
             "blockIdx": 51
         },
@@ -558,6 +1283,21 @@
             "jpText": "……いや、トレーナーは基本\r\n寮には立入禁止だから、ダメだよ？",
             "enText": "…No, trainers are normally restricted from entering the dorms, \nso that's not gonna happen, okay?",
             "nextBlock": 53,
+            "origClipLength": 134,
+            "animData": [
+                {
+                    "origLen": 203,
+                    "pathId": -5189856883578201867
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -7624063892298301741
+                },
+                {
+                    "origLen": 261,
+                    "pathId": -8970910140506273202
+                }
+            ],
             "pathId": -3756925478695128363,
             "blockIdx": 52
         },
@@ -567,6 +1307,7 @@
             "jpText": "ノーっ！？　そんな、トレーナーさん……！",
             "enText": "Nooo! How unfair, Trainer-san…!",
             "nextBlock": 54,
+            "origClipLength": 116,
             "choices": [
                 {
                     "jpText": "……規則は守るよ",
@@ -579,6 +1320,24 @@
                     "nextBlock": 54
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 5923392462455863058
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6596322872708074429
+                },
+                {
+                    "origLen": 261,
+                    "pathId": 1591417347206586934
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 3455604995371477024
+                }
+            ],
             "pathId": -1538108647781784437,
             "blockIdx": 53
         },
@@ -588,6 +1347,17 @@
             "jpText": "1人さびしく、帰路を辿ったのだった……。",
             "enText": "All by my lonesome self, I made my way back home…",
             "nextBlock": 55,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 6933239007579242234
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 1286627700632299647
+                }
+            ],
             "pathId": 2446497310230915147,
             "blockIdx": 54
         },
@@ -597,8 +1367,10 @@
             "jpText": "ノォォォーーーーーウ！！\r\nトレーーーナーーさぁ～～ん！",
             "enText": "Noooooooooooo!! \nTraaaaaaainer-saaaaaan!",
             "nextBlock": -1,
+            "origClipLength": 196,
             "pathId": -1981653611685509214,
             "blockIdx": 55
         }
-    ]
+    ],
+    "modified": 1669933657
 }

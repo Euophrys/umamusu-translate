@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MXP4LANVR5MORJF27DH4ZFGYHASHKFQA",
     "type": "story",
     "storyId": "041008003",
@@ -11,6 +11,7 @@
             "jpText": "『種目別競技大会』本番まで、あと少し――",
             "enText": "Shortly before the semiannual race competition…",
             "nextBlock": 2,
+            "origClipLength": 71,
             "pathId": -8385018905499328582,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "聞いた？　芝2000mの第10グループ、ブライアン先輩が\r\nいるからって色んな子たちが辞退しまくったみたいでさ……。",
             "enText": "Did you hear? A lot of the contestants in Group \n10 for the 2000m turf race have been dropping out \nbecause Narita Brian will be there too…",
             "nextBlock": 3,
+            "origClipLength": 251,
+            "animData": [
+                {
+                    "origLen": 293,
+                    "pathId": 2199858202017133976
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 2568417666213896411
+                }
+            ],
             "pathId": 7632450357498772897,
             "blockIdx": 2
         },
@@ -29,6 +41,13 @@
             "jpText": "聞いた聞いた！　あのグループだけGⅠクラスの子たちばっかりの\r\nレースになっちゃったんだよね。辞退しててよかった～……。",
             "enText": "Yeah, I did! That group has become completely filled with \nG1-class competitors. I'm so glad I dropped out of there~",
             "nextBlock": 4,
+            "origClipLength": 228,
+            "animData": [
+                {
+                    "origLen": 258,
+                    "pathId": -2239604810770972850
+                }
+            ],
             "pathId": 1624859035508303076,
             "blockIdx": 3
         },
@@ -38,6 +57,7 @@
             "jpText": "……ふーん、そんなことになっちまってんのか。",
             "enText": "…So that's what's happening, huh.",
             "nextBlock": 5,
+            "origClipLength": 131,
             "choices": [
                 {
                     "jpText": "……大丈夫か？",
@@ -50,6 +70,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -976565782855392926
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6038141095062412245
+                }
+            ],
             "pathId": 8239848405941458500,
             "blockIdx": 4
         },
@@ -59,6 +89,17 @@
             "jpText": "はぁ？　何がだよ。",
             "enText": "Wha? What are you trying to say?",
             "nextBlock": 6,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -5535127730837047214
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 1868507946322575529
+                }
+            ],
             "pathId": 3001195468597322690,
             "blockIdx": 5
         },
@@ -68,6 +109,13 @@
             "jpText": "……まさか俺に『辞退しとけ』なんて言うんじゃねーだろうな？",
             "enText": "…You're not going to tell me to drop out too, are you?",
             "nextBlock": 7,
+            "origClipLength": 142,
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": -594576545742537600
+                }
+            ],
             "pathId": -985976511988745418,
             "blockIdx": 6
         },
@@ -77,6 +125,13 @@
             "jpText": "他の連中がどうしてようが関係ねぇ！　俺は出るぜ。",
             "enText": "I don't care what the others are saying! \nI'm going to enter that race.",
             "nextBlock": 8,
+            "origClipLength": 141,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -7958666144976005754
+                }
+            ],
             "pathId": 7949423702039067674,
             "blockIdx": 7
         },
@@ -86,6 +141,17 @@
             "jpText": "確かに、ブライアン先輩はヤベー相手だよ。\r\n“GⅠクラス”、なんて評価でさえ足りねぇぐらいの実力者だ。",
             "enText": "Sure, Brian is a tough opponent to compete against. She's so \nstrong that \"G1-class\" doesn't begin to describe it.",
             "nextBlock": 9,
+            "origClipLength": 284,
+            "animData": [
+                {
+                    "origLen": 250,
+                    "pathId": -6176455111447563258
+                },
+                {
+                    "origLen": 163,
+                    "pathId": 5616244821715412325
+                }
+            ],
             "pathId": 5829592309479089850,
             "blockIdx": 8
         },
@@ -95,6 +161,21 @@
             "jpText": "行事のレースでも、先生とかトレーナーたちはしっかり見てっから、\r\n負けて評価下げるくらいなら別のに出るって連中の言い分もわかる。",
             "enText": "And I get that they don't want to risk damaging their reputation \nby losing in a race with all the teachers and trainers watching.",
             "nextBlock": 10,
+            "origClipLength": 286,
+            "animData": [
+                {
+                    "origLen": 314,
+                    "pathId": -7732902964946739689
+                },
+                {
+                    "origLen": 317,
+                    "pathId": -3133258268855265913
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 7118187306773083702
+                }
+            ],
             "pathId": -8391154469509542666,
             "blockIdx": 9
         },
@@ -104,11 +185,22 @@
             "jpText": "けど、俺は辞退なんかしねぇっ。",
             "enText": "But i'm not going to drop out anyway.",
             "nextBlock": 11,
+            "origClipLength": 100,
             "choices": [
                 {
                     "jpText": "辞退するなんて『ダサい』から？",
                     "enText": "Because doing that would be \"lame\"?",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 8840548619791865876
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -4799442067870240503
                 }
             ],
             "pathId": -2890828062291452610,
@@ -120,6 +212,13 @@
             "jpText": "へっ、そーだよ。わかってんじゃん。",
             "enText": "Heh, that's right. So you do get it.",
             "nextBlock": 12,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 525602391266383438
+                }
+            ],
             "pathId": 3114569936109571699,
             "blockIdx": 11
         },
@@ -129,6 +228,13 @@
             "jpText": "……なるんだよ、カッコいいウマ娘に。\r\nだったら、こんなとこでビビってられっか！",
             "enText": "I will become a cool horsegirl. \nThat's why I can't back down here!",
             "nextBlock": 13,
+            "origClipLength": 240,
+            "animData": [
+                {
+                    "origLen": 204,
+                    "pathId": -2639242274436775516
+                }
+            ],
             "pathId": -7741088640749158987,
             "blockIdx": 12
         },
@@ -138,6 +244,17 @@
             "jpText": "さ、行くぜトレーナー！\r\n本番も近いんだ、バッチリ鍛えておかねぇとな！！",
             "enText": "Alright then, let's go, Trainer! \nThe race is soon, so I want to be in top form for it.",
             "nextBlock": 14,
+            "origClipLength": 208,
+            "animData": [
+                {
+                    "origLen": 175,
+                    "pathId": -3025995613644142152
+                },
+                {
+                    "origLen": 171,
+                    "pathId": -8303377652691494315
+                }
+            ],
             "pathId": -1628101198844394875,
             "blockIdx": 13
         },
@@ -147,6 +264,17 @@
             "jpText": "こうして、トレーニングに打ち込むウオッカを見守り数日が過ぎ――",
             "enText": "And like that, the days of me watching \nover Vodka train passed by.",
             "nextBlock": 15,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -4784506341578575727
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -3211256654571863361
+                }
+            ],
             "pathId": -2288054732262686443,
             "blockIdx": 14
         },
@@ -156,6 +284,7 @@
             "jpText": "いよいよ、種目別競技大会の本番がやって来た。",
             "enText": "Finally, the day of the semiannual race competition arrived.",
             "nextBlock": 16,
+            "origClipLength": 73,
             "pathId": 3154638645677799966,
             "blockIdx": 15
         },
@@ -165,6 +294,17 @@
             "jpText": "（ワァアアアアアー！！）",
             "enText": "(Oooooooo-!!)",
             "nextBlock": 17,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -675012815199524968
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 7044591301749193589
+                }
+            ],
             "pathId": -4023845941671253014,
             "blockIdx": 16
         },
@@ -174,6 +314,17 @@
             "jpText": "お聞きください、この歓声！　GⅠレース並の盛り上がりを見せる\r\n芝2000m、第10レースのスターは――やはりこのウマ娘！",
             "enText": "Just listen to these cheers! And of course, the \nstar of this G1-like 2000m turf race in Group \n10 is none other than this horsegirl!",
             "nextBlock": 18,
+            "origClipLength": 352,
+            "animData": [
+                {
+                    "origLen": 371,
+                    "pathId": -3566903420966483535
+                },
+                {
+                    "origLen": 383,
+                    "pathId": 7525266955604588121
+                }
+            ],
             "pathId": -5501834670864993610,
             "blockIdx": 17
         },
@@ -183,6 +334,17 @@
             "jpText": "恐るべき“怪物”、ナリタブライアンですっっっ！！",
             "enText": "The fearsome \"Monster\", Narita Brian!!",
             "nextBlock": 19,
+            "origClipLength": 132,
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": -2323828733070136308
+                },
+                {
+                    "origLen": 162,
+                    "pathId": 7842868358762010952
+                }
+            ],
             "pathId": 5838159016923342133,
             "blockIdx": 18
         },
@@ -192,6 +354,17 @@
             "jpText": "（ワァアアアアアッ！！）",
             "enText": "(Oooooooo-!!)",
             "nextBlock": 20,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 2167880940136641537
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 6082563807241889239
+                }
+            ],
             "pathId": -3503174870004989914,
             "blockIdx": 19
         },
@@ -201,6 +374,25 @@
             "jpText": "……騒がしいな。",
             "enText": "…How noisy.",
             "nextBlock": 21,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 4530724361236352445
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2983929243521872074
+                },
+                {
+                    "origLen": 9,
+                    "pathId": 434452166929845414
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 4403716712656737030
+                }
+            ],
             "pathId": 592663875394769013,
             "blockIdx": 20
         },
@@ -210,6 +402,25 @@
             "jpText": "ブライアン先輩……さすがにスゲェ圧放ってんな。",
             "enText": "Brian… her aura really is incredible.",
             "nextBlock": 22,
+            "origClipLength": 158,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 3294626240080161664
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -6321832631829954285
+                },
+                {
+                    "origLen": 182,
+                    "pathId": -2664739935266746583
+                },
+                {
+                    "origLen": 186,
+                    "pathId": 2263082532281125216
+                }
+            ],
             "pathId": -5695730031048429637,
             "blockIdx": 21
         },
@@ -219,6 +430,25 @@
             "jpText": "あら、今からでも辞退したくなっちゃった？\r\nアタシが実行委員会に掛け合ってきてあげましょうか。",
             "enText": "Oh my, are you feeling like dropping out now? I don't mind \ninforming the organizers for you, you know.",
             "nextBlock": 23,
+            "origClipLength": 227,
+            "animData": [
+                {
+                    "origLen": 204,
+                    "pathId": -3272358253404146458
+                },
+                {
+                    "origLen": 231,
+                    "pathId": 7576826130848568020
+                },
+                {
+                    "origLen": 278,
+                    "pathId": -5625999614689810246
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 6413022507008993451
+                }
+            ],
             "pathId": 4919434146933305076,
             "blockIdx": 22
         },
@@ -228,6 +458,25 @@
             "jpText": "ばっ、んなわけねぇだろ！　余計なことすんじゃねぇっ。",
             "enText": "What?! As if! Speak for yourself!",
             "nextBlock": 24,
+            "origClipLength": 134,
+            "animData": [
+                {
+                    "origLen": 204,
+                    "pathId": -1762549905072622411
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 4657476258968514033
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -5023517421851493857
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 812268222589119230
+                }
+            ],
             "pathId": -8460856088191522012,
             "blockIdx": 23
         },
@@ -237,6 +486,21 @@
             "jpText": "……勝ってきてやるさ。見とけ！！",
             "enText": "…Just watch, I'm going to win!",
             "nextBlock": 25,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 3900716118506500124
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 6955484241787044571
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4108401362722198163
+                }
+            ],
             "pathId": 7071866924899514954,
             "blockIdx": 24
         },
@@ -246,6 +510,17 @@
             "jpText": "はいはい、見ててあげるわよ。……ったく。",
             "enText": "Yeah yeah, I'll watch… jeez.",
             "nextBlock": 26,
+            "origClipLength": 128,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -6940712476771576575
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 472303561313406303
+                }
+            ],
             "pathId": -4498207080892468588,
             "blockIdx": 25
         },
@@ -255,6 +530,13 @@
             "jpText": "『勝って来る』って、高らかに宣言してたが……\r\nまさかウオッカ、ナリタブライアンに勝つ気でいるのか？",
             "enText": "\"I'm going to win\" she says… \nis she seriously trying to win against that Narita Brian?",
             "nextBlock": 27,
+            "origClipLength": 229,
+            "animData": [
+                {
+                    "origLen": 272,
+                    "pathId": 4603192021224779985
+                }
+            ],
             "pathId": 4824970654809898924,
             "blockIdx": 26
         },
@@ -264,6 +546,17 @@
             "jpText": "ウオッカも素質はあるんだが……しかし、それはちょっとなぁ……。",
             "enText": "Vodka certainly is talented too, but that's just silly…",
             "nextBlock": 28,
+            "origClipLength": 197,
+            "animData": [
+                {
+                    "origLen": 224,
+                    "pathId": 3019461945456220640
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -2481113816134486382
+                }
+            ],
             "pathId": -3760382710861493985,
             "blockIdx": 27
         },
@@ -273,6 +566,17 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 29,
+            "origClipLength": 38,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 5020776639516691176
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 3531913497786055389
+                }
+            ],
             "pathId": -7693960615366332202,
             "blockIdx": 28
         },
@@ -282,6 +586,17 @@
             "jpText": "そして、とうとうウオッカたちのレースが始まった。",
             "enText": "And then at last, Vodka's race began.",
             "nextBlock": 30,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 701967766088549113
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -2805056581052691506
+                }
+            ],
             "pathId": -4099435586871383776,
             "blockIdx": 29
         },
@@ -291,6 +606,7 @@
             "jpText": "（――ガコン！！）",
             "enText": "（—Thud!!）",
             "nextBlock": 31,
+            "origClipLength": 56,
             "pathId": -2921053682396922011,
             "blockIdx": 30
         },
@@ -300,6 +616,13 @@
             "jpText": "はっ、はっ、はっ……！！",
             "enText": "Huff, huff, huff…!!",
             "nextBlock": 32,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": 8730819958398913127
+                }
+            ],
             "pathId": 4927592836714038011,
             "blockIdx": 31
         },
@@ -309,6 +632,13 @@
             "jpText": "（やってやるさ、俺だって……！\r\nここで先輩に勝ちゃあ……カッコいいなんてもんじゃねぇだろ！）",
             "enText": "(I'll show you! Winning against everyone \nhere would be more than just cool!)",
             "nextBlock": 33,
+            "origClipLength": 223,
+            "animData": [
+                {
+                    "origLen": 234,
+                    "pathId": 500168000089839075
+                }
+            ],
             "pathId": 8432248899199164565,
             "blockIdx": 32
         },
@@ -318,6 +648,13 @@
             "jpText": "よぉしっ……！！",
             "enText": "Alright!",
             "nextBlock": 34,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -2941989263876132037
+                }
+            ],
             "pathId": -188056451196303674,
             "blockIdx": 33
         },
@@ -327,6 +664,17 @@
             "jpText": "ここでウオッカが前に出ましたっ！\r\nしなやかな加速で集団をかわしていきます！！",
             "enText": "And Vodka breaks out to the front! \nShe's accelerating and gracefully dodging the group!",
             "nextBlock": 35,
+            "origClipLength": 165,
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": 7026451199620009339
+                },
+                {
+                    "origLen": 176,
+                    "pathId": -2348966118221145351
+                }
+            ],
             "pathId": 8604808041024105312,
             "blockIdx": 34
         },
@@ -336,6 +684,17 @@
             "jpText": "実力者揃いのレースなだけあり序盤から速いペースだったが、\r\nウオッカは懸命について行っていた。",
             "enText": "Even in this immediately high-paced race full of \ntalented girls, Vodka did her best to keep up.",
             "nextBlock": 36,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -8013985158453135671
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 1003534616273901565
+                }
+            ],
             "pathId": -6906594742496005982,
             "blockIdx": 35
         },
@@ -345,6 +704,17 @@
             "jpText": "だが、レースも終盤になると――",
             "enText": "But then, once the last leg approached-",
             "nextBlock": 37,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -4886787651266833264
+                },
+                {
+                    "origLen": 19,
+                    "pathId": -9078603082042657779
+                }
+            ],
             "pathId": -5548111532978873437,
             "blockIdx": 36
         },
@@ -354,6 +724,21 @@
             "jpText": "はぁっ、はぁっ……はぁ……。",
             "enText": "Huff, huff… huff…",
             "nextBlock": 38,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 6343403908540473822
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 8194547340914182294
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -7646521786443053069
+                }
+            ],
             "pathId": -1344014167128286368,
             "blockIdx": 37
         },
@@ -363,6 +748,21 @@
             "jpText": "（ヤベ……視界、曇ってきやがった……！）",
             "enText": "(Crap… my vision is blurring…!)",
             "nextBlock": 39,
+            "origClipLength": 148,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": 8512846934447327911
+                },
+                {
+                    "origLen": 188,
+                    "pathId": 5811907211010669957
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8859974677233527141
+                }
+            ],
             "pathId": 8370402882768388838,
             "blockIdx": 38
         },
@@ -372,6 +772,17 @@
             "jpText": "くそぉ、っ……！！",
             "enText": "Damn it!",
             "nextBlock": 40,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -2765175619313924212
+                },
+                {
+                    "origLen": 188,
+                    "pathId": 3547058477936231271
+                }
+            ],
             "pathId": 9131438236712396705,
             "blockIdx": 39
         },
@@ -381,6 +792,17 @@
             "jpText": "……決めるっ！",
             "enText": "…Time to end this!",
             "nextBlock": 41,
+            "origClipLength": 29,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": 9060086660631055021
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 8862003000185163908
+                }
+            ],
             "pathId": -5224409715231005245,
             "blockIdx": 40
         },
@@ -390,6 +812,13 @@
             "jpText": "来ました、ナリタブライアン！　ここでスパートっ！！\r\n強豪ウマ娘たちをやすやすと追い抜き、先頭に立ちましたっ！！",
             "enText": "And here comes Narita Brian! Starting her sprint, she easily \npassed all the other girls and is now in the lead!!",
             "nextBlock": 42,
+            "origClipLength": 237,
+            "animData": [
+                {
+                    "origLen": 295,
+                    "pathId": 8939625742793288990
+                }
+            ],
             "pathId": -1754169856340670991,
             "blockIdx": 41
         },
@@ -399,6 +828,13 @@
             "jpText": "くっ……そぉおおおおおおお！！",
             "enText": "Damn… damn it all!!",
             "nextBlock": 43,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -111283291635299325
+                }
+            ],
             "pathId": -3026683378393239855,
             "blockIdx": 42
         },
@@ -408,6 +844,13 @@
             "jpText": "ウオッカもスピードを上げます！　しかしこの差は厳しいか！？\r\n先頭はナリタブライアン、2番手との差は5バ身から6バ身！",
             "enText": "Vodka is also raising her speed! But can she make \nup the ground?! Narita Brian is in the lead, with \nsecond place five to six lengths behind!",
             "nextBlock": 44,
+            "origClipLength": 240,
+            "animData": [
+                {
+                    "origLen": 316,
+                    "pathId": -967478775294019754
+                }
+            ],
             "pathId": -5309292385478369096,
             "blockIdx": 43
         },
@@ -417,6 +860,13 @@
             "jpText": "（ダメだ……強すぎるっ……！！）",
             "enText": "(I can't… she's too strong!)",
             "nextBlock": 45,
+            "origClipLength": 100,
+            "animData": [
+                {
+                    "origLen": 316,
+                    "pathId": -8738068362839579301
+                }
+            ],
             "pathId": -3487255558095223853,
             "blockIdx": 44
         },
@@ -426,6 +876,13 @@
             "jpText": "無理だ……もう、追いつけねぇ……。",
             "enText": "It's no use… I… can't catch up anymore…",
             "nextBlock": 46,
+            "origClipLength": 128,
+            "animData": [
+                {
+                    "origLen": 316,
+                    "pathId": 4993685895333718792
+                }
+            ],
             "pathId": 8412775330126998946,
             "blockIdx": 45
         },
@@ -435,6 +892,7 @@
             "jpText": "ナリタブライアン、ゴォオオオオル！！\r\n圧倒的と言うに相応しい、見事な走りを見せてくれましたっ！！",
             "enText": "And Narita Brian crosses the goal! The magnificent running she \nhas shown us today is fit to be called overwhelming!",
             "nextBlock": 47,
+            "origClipLength": 259,
             "pathId": -7861915766863106116,
             "blockIdx": 46
         },
@@ -444,6 +902,7 @@
             "jpText": "……ウオッカは、残念ながら5着に終わってしまったのだった。",
             "enText": "…Unfortunately, Vodka ended up finishing in 6th place.",
             "nextBlock": 48,
+            "origClipLength": 82,
             "pathId": 4101588597900541512,
             "blockIdx": 47
         },
@@ -453,6 +912,7 @@
             "jpText": "健闘はしていたが……\r\nさすがに無謀なチャレンジだったな、ウオッカ。",
             "enText": "Vodka did her best, but as expected, \nthis was a reckless challenge.",
             "nextBlock": 49,
+            "origClipLength": 168,
             "pathId": 6418248998490043601,
             "blockIdx": 48
         },
@@ -462,6 +922,7 @@
             "jpText": "ああ。適切な舞台を選んでさえいれば、スターは彼女だったろうに。",
             "enText": "Yeah. If she had just chosen a suitable \nstage, the star would have been her.",
             "nextBlock": 50,
+            "origClipLength": 202,
             "choices": [
                 {
                     "jpText": "おい、いい加減彼女を侮辱するのは――",
@@ -474,6 +935,12 @@
                     "nextBlock": 50
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -8888429423556485133
+                }
+            ],
             "pathId": 7153524746906539368,
             "blockIdx": 49
         },
@@ -483,11 +950,22 @@
             "jpText": "おいおい、なに怖い顔してんだ、トレーナー？",
             "enText": "Whoa, what are you making that scary face for, Trainer?",
             "nextBlock": 51,
+            "origClipLength": 121,
             "choices": [
                 {
                     "jpText": "ウオッカ……",
                     "enText": "Vodka…",
                     "nextBlock": 51
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": -2357215635350351414
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 3970475690996780969
                 }
             ],
             "pathId": 6279281179389859359,
@@ -499,6 +977,17 @@
             "jpText": "いいんだよ。\r\nっていうか……しかたねぇよ。",
             "enText": "It's fine. \nMore like… this was obvious.",
             "nextBlock": 52,
+            "origClipLength": 159,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": 4066905450952855618
+                },
+                {
+                    "origLen": 163,
+                    "pathId": 1784468921982330700
+                }
+            ],
             "pathId": 8998719174615929023,
             "blockIdx": 51
         },
@@ -508,6 +997,17 @@
             "jpText": "今の俺……マジで、ダセェからさ……。",
             "enText": "Considering how seriously lame I am right now…",
             "nextBlock": 53,
+            "origClipLength": 165,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 3482583032585665690
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -2063853607578425705
+                }
+            ],
             "pathId": 2846843585756766967,
             "blockIdx": 52
         },
@@ -517,8 +1017,10 @@
             "jpText": "『そんなことはない』……そう伝えようとしたのだが、\r\nウオッカはその場を立ち去ってしまった。",
             "enText": "Before I could tell her \"That's not true,\" \nVodka had already left.",
             "nextBlock": -1,
+            "origClipLength": 105,
             "pathId": 4036340099228481505,
             "blockIdx": 53
         }
-    ]
+    ],
+    "modified": 1669933650
 }

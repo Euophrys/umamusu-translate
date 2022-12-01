@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "UGURYX56RBQMRQQTEFGBBFJURHG6WRMM",
     "type": "story",
     "storyId": "041032007",
@@ -11,6 +11,7 @@
             "jpText": "今日から夏合宿だ。ウマ娘たちの能力向上のため、\r\n海辺の合宿所でトレーニングを行う……。",
             "enText": "It was time for the summer training camp, when \nall the Uma Musume go to the academy's seaside \nlodge for a period of intense training.",
             "nextBlock": 2,
+            "origClipLength": 102,
             "pathId": 5971551353913441629,
             "blockIdx": 1
         },
@@ -20,6 +21,13 @@
             "jpText": "――はず、だったのだが。",
             "enText": "Or that's the idea, anyway…",
             "nextBlock": 3,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 7908250171272999541
+                }
+            ],
             "pathId": -5784330338739838432,
             "blockIdx": 2
         },
@@ -29,6 +37,13 @@
             "jpText": "ここしばらく寝ずに組み立てていた理論を証明したくてね。\r\nさっそく実験を行いたいのだが……。",
             "enText": "The time has come! Time to test all these theories, these many \nhypotheses composed over many sleepless nights…",
             "nextBlock": 4,
+            "origClipLength": 211,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 9166900230845482375
+                }
+            ],
             "pathId": 8171161254773517740,
             "blockIdx": 3
         },
@@ -38,6 +53,17 @@
             "jpText": "トレーナー君、今の気分はどうだい！？\r\n体温は計ったかな？　睡眠時間は？　食事は何を？",
             "enText": "Trainer-kun! How are you feeling, did you take your temperature, \nwhat did you have for breakfast, how long did you sleep?",
             "nextBlock": 5,
+            "origClipLength": 189,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -7749362731637790962
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -4239396618567366395
+                }
+            ],
             "pathId": -8103847878372943987,
             "blockIdx": 4
         },
@@ -47,11 +73,22 @@
             "jpText": "体調による変化は大きいからねっ。\r\n実験前のデータとして詳細に残しておかなくては！",
             "enText": "All could have a bearing on the outcome of our experiment! We \nmust take care to note down every detail before we proceed!",
             "nextBlock": 6,
+            "origClipLength": 179,
             "choices": [
                 {
                     "jpText": "今日はトレーニングの予定じゃ……",
                     "enText": "So… were you planning on doing some training today, or…",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 162,
+                    "pathId": -5175097767350978632
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1497176913458227286
                 }
             ],
             "pathId": 7199501925742624948,
@@ -63,6 +100,21 @@
             "jpText": "ククッ……この理論は走力増強を目的としたものだ。\r\nトレーニングと言い換えても、間違いではないだろう！",
             "enText": "The theory we will be verifying pertains to running \nperformance, so yes! You might say it's a SORT of \ntraining that we will be conducting…!",
             "nextBlock": 7,
+            "origClipLength": 271,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 2665301188272902886
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -275406902299207713
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 4063546136940431759
+                }
+            ],
             "pathId": -8516571718196757484,
             "blockIdx": 6
         },
@@ -72,11 +124,22 @@
             "jpText": "ま、やるのは君なんだけどさ。",
             "enText": "Although by \"we\", I of course mean \"you\".",
             "nextBlock": 8,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "えええ……",
                     "enText": "Uuuugh…",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 3152544943979877149
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -5627652675266829197
                 }
             ],
             "pathId": 2178498557247919367,
@@ -88,6 +151,21 @@
             "jpText": "ハッハッハッハッハッ！　なーに、意識を失うようなことは\r\nさせないから安心したまえよ。",
             "enText": "Oh, come now, relax! I'll be sure to \nstop before you lose consciousness!",
             "nextBlock": 9,
+            "origClipLength": 234,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -7081078919839440111
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4770102677169232826
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 6040126461210797244
+                }
+            ],
             "pathId": 1407388688284708712,
             "blockIdx": 8
         },
@@ -97,6 +175,17 @@
             "jpText": "よし、まずは緊張及び過負荷状態で臓器別のエネルギー消費量を\r\n測定しよう。そして段階的に分けながら――",
             "enText": "We shall begin by measuring your organs' energy \nconsumption under extreme stress and cardiac \nload. Then we will proceed to a phased…",
             "nextBlock": 10,
+            "origClipLength": 249,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 8421168541877610669
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 4581960777557264345
+                }
+            ],
             "pathId": 7930055443321848642,
             "blockIdx": 9
         },
@@ -106,6 +195,13 @@
             "jpText": "アグネスタキオンは1人話し続けている……。\r\nどうやら普通のトレーニングをするつもりはないようだ。",
             "enText": "Agnes Tachyon continued to reel off her test plan. \nIt seemed she had no intention of doing any kind \nof conventional training herself today.",
             "nextBlock": 11,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 368789138209556029
+                }
+            ],
             "pathId": -2768833578325449397,
             "blockIdx": 10
         },
@@ -115,6 +211,17 @@
             "jpText": "……であるから、君も夏合宿に来たらビーチを走ることが\r\n鉄則だなんて独創性に乏しい思考に囚われず、脳は柔軟に使え。",
             "enText": "…and that is why, rather than being bound by convention and \nspending these precious few days aimlessly running about in the \nsand, we must open our minds!",
             "nextBlock": 12,
+            "origClipLength": 280,
+            "animData": [
+                {
+                    "origLen": 209,
+                    "pathId": -2713828807904207557
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3206853891991049716
+                }
+            ],
             "pathId": -4070500833923162776,
             "blockIdx": 11
         },
@@ -124,6 +231,17 @@
             "jpText": "可能性を追い続ける限り、私たちに立ち止まっている暇はないぞ。\r\nさぁ、実験を始めようじゃないか！",
             "enText": "As long as we pursue the limits of the possible… we have not a \nmoment to waste! So! Let the experimentation begin!!",
             "nextBlock": 13,
+            "origClipLength": 259,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 2196759960048133159
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5660104086963538984
+                }
+            ],
             "pathId": 3036033260897574079,
             "blockIdx": 12
         },
@@ -133,6 +251,17 @@
             "jpText": "まずは道の傾斜を利用して、心肺機能を活性化するぞ！",
             "enText": "First, we will use this incline here to give your \ncardiopulmonary functions a little nudge.",
             "nextBlock": 14,
+            "origClipLength": 138,
+            "animData": [
+                {
+                    "origLen": 169,
+                    "pathId": 353909775453614613
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1294160649747975605
+                }
+            ],
             "pathId": -8444461372754580409,
             "blockIdx": 13
         },
@@ -142,6 +271,17 @@
             "jpText": "データを取るためには、ここからビーチまで\r\n少なくとも3往復は必要だろう。",
             "enText": "To gather the data we need, I think three laps from \nhere to the beach and back should suffice.",
             "nextBlock": 15,
+            "origClipLength": 162,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -8378174210907462665
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 8399588564179240788
+                }
+            ],
             "pathId": 8021533848451966738,
             "blockIdx": 14
         },
@@ -151,6 +291,17 @@
             "jpText": "測定器の準備はいいかい？\r\n1周ごとに酸素濃度を記録するから、忘れずに頼むよ。",
             "enText": "Is the pulse oximeter securely in place? Remember, \nI need a solid reading at the end of each lap!",
             "nextBlock": 16,
+            "origClipLength": 196,
+            "animData": [
+                {
+                    "origLen": 9,
+                    "pathId": 5688190042847003909
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6376684775294929608
+                }
+            ],
             "pathId": 6287998433762079312,
             "blockIdx": 15
         },
@@ -160,11 +311,18 @@
             "jpText": "それと、苦しくなっても休まずに走り続けてくれ。\r\n限界ギリギリのデータが好ましいのでね。",
             "enText": "And no matter how much it hurts, I need you to keep going! Data \nfrom your absolute physiological limit is best.",
             "nextBlock": 17,
+            "origClipLength": 229,
             "choices": [
                 {
                     "jpText": "そんな無茶苦茶な……",
                     "enText": "Is this really necessary!?",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -3653448384045044275
                 }
             ],
             "pathId": 5886511976138892614,
@@ -176,6 +334,17 @@
             "jpText": "なーに、無心で滑車を回すハムスターのように、\r\n手足を動かせばいいだけさ！",
             "enText": "What? All you need to do is move your arms and \nlegs for me. Like a hamster in a wheel!",
             "nextBlock": 18,
+            "origClipLength": 195,
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 2613678771923668343
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4890259373241562618
+                }
+            ],
             "pathId": 7212467727113841292,
             "blockIdx": 17
         },
@@ -185,6 +354,17 @@
             "jpText": "まぁ君はあくまでモルモットで、\r\nハムスターほどの運動能力は期待できないだろうが。",
             "enText": "That said, you are only a guinea pig. I suppose it's not \nrealistic to expect a hamster's level of physical conditioning.",
             "nextBlock": 19,
+            "origClipLength": 185,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": 308730922498366278
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 3301958485412791544
+                }
+            ],
             "pathId": 521945854226105478,
             "blockIdx": 18
         },
@@ -194,6 +374,17 @@
             "jpText": "案ずるな、私も同行する。\r\n君がコースから外れないよう、見守る必要があるからね。",
             "enText": "But worry not! I will be close at hand. Someone has \nto stop you staggering off course after all.",
             "nextBlock": 20,
+            "origClipLength": 238,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -6392412383139941973
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5602079045486737862
+                }
+            ],
             "pathId": -2144900511793958652,
             "blockIdx": 19
         },
@@ -203,6 +394,13 @@
             "jpText": "……どうやら逃げ場はないようだ。",
             "enText": "It didn't look like I was going to get out of this one.",
             "nextBlock": 21,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -8998839283925043302
+                }
+            ],
             "pathId": -7026305213990239556,
             "blockIdx": 20
         },
@@ -212,6 +410,13 @@
             "jpText": "もっと、もっとだ、トレーナー君！\r\n太ももを高く上げ続けろ！　そう、一定の速さを保って！",
             "enText": "More! More, trainer-kun…! \nGet those knees up!! Don't let your speed drop, now!",
             "nextBlock": 22,
+            "origClipLength": 256,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -2474604903026554385
+                }
+            ],
             "pathId": 2956121235997071661,
             "blockIdx": 21
         },
@@ -221,6 +426,7 @@
             "jpText": "呼吸のリズムを崩すな！　余計に苦しくなるぞっ。",
             "enText": "Steady, regular breaths! If you break the \nrhythm it's only going to hurt more!",
             "nextBlock": 23,
+            "origClipLength": 115,
             "choices": [
                 {
                     "jpText": "とはいっても息が……",
@@ -237,6 +443,7 @@
             "jpText": "ハハハッ！　いいぞ、限界が近いか！\r\nこのまま2往復！　さぁ、もう少しだ！",
             "enText": "Excellent, excellent! I see you're close to your \nlimit, keep it up! Just two more laps to go!!",
             "nextBlock": 24,
+            "origClipLength": 242,
             "pathId": 5149416326294899044,
             "blockIdx": 23
         },
@@ -246,6 +453,13 @@
             "jpText": "ふぅン……思ったよりも筋肉疲労が大きいようだね。\r\n痙攣とまではいかないが、立っているのが精一杯か。",
             "enText": "Hmm. It seems the onset of muscle fatigue was somewhat faster \nthan expected. I wouldn't call it \"cramp\" exactly, but I think \njust standing up is hard enough for you at the moment,",
             "nextBlock": 25,
+            "origClipLength": 292,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 7968882168909657470
+                }
+            ],
             "pathId": 6279470692394949788,
             "blockIdx": 24
         },
@@ -255,6 +469,17 @@
             "jpText": "よしよし、このまま次の実験に移ろう。\r\nこの状態で坂道を走った際の呼吸器官のデータが欲しい。",
             "enText": "Never mind. We shall proceed to the next test. I need you to run \nup that incline again in your current state so that I can collect \ndata on your respiratory function.",
             "nextBlock": 26,
+            "origClipLength": 244,
+            "animData": [
+                {
+                    "origLen": 182,
+                    "pathId": 3080615144483160462
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -9037120841493578065
+                }
+            ],
             "pathId": -3421495687355855255,
             "blockIdx": 25
         },
@@ -264,6 +489,7 @@
             "jpText": "ククッ、これはきっと重要なデータになるぞ！\r\n我々の目指すべき可能性の扉が開く、きっかけとなるかも知れない！",
             "enText": "This is very important data. It could, in fact, be the very key \nwe seek, that unlocks the doors of untold possibility!",
             "nextBlock": 27,
+            "origClipLength": 307,
             "choices": [
                 {
                     "jpText": "が、頑張るよ……",
@@ -276,6 +502,16 @@
                     "nextBlock": 27
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -7771648935514296662
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -5050484623100867502
+                }
+            ],
             "pathId": 7983620532568335677,
             "blockIdx": 26
         },
@@ -285,6 +521,17 @@
             "jpText": "……と、思ったのだが。\r\nその顔色を見るに、限界ギリギリというよりも、もう限界だな。",
             "enText": "However… looking at the color of you, I'd say we are not so much \n\"close\" to your physiological limit as were are… over it.",
             "nextBlock": 28,
+            "origClipLength": 259,
+            "animData": [
+                {
+                    "origLen": 206,
+                    "pathId": 50878646569445923
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 3108701890777722602
+                }
+            ],
             "pathId": -8262941977243447039,
             "blockIdx": 27
         },
@@ -294,6 +541,7 @@
             "jpText": "仕方あるまいね、調整を間違えた。\r\nこれでは欲しいデータは取れないし、また次回にしよう。",
             "enText": "Can't be helped I suppose. I must reexamine the test procedure. I \ncan't get the data I need from you in this condition, so let's \nsave that for another time.",
             "nextBlock": 29,
+            "origClipLength": 252,
             "choices": [
                 {
                     "jpText": "いいのか？",
@@ -306,6 +554,16 @@
                     "nextBlock": 29
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 211,
+                    "pathId": 6183165471847802036
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2228120664541242090
+                }
+            ],
             "pathId": 3396745772257347118,
             "blockIdx": 28
         },
@@ -315,6 +573,17 @@
             "jpText": "続けたいと言うなら私は構わないがね。\r\nだが不要なデータを取るよりも、もっと有益な実験をしたい。",
             "enText": "If you wish to suffer further, I won't stop you. \nBut rather than collecting useless data, we should \nperhaps direct our efforts elsewhere…",
             "nextBlock": 30,
+            "origClipLength": 280,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -2100702168149922483
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 567232043586595138
+                }
+            ],
             "pathId": 5868020682339835528,
             "blockIdx": 29
         },
@@ -324,11 +593,22 @@
             "jpText": "……とはいえ、何が出来るだろうな。\r\nこの場で使えるような実験器具もないし……う～ん。",
             "enText": "But what can we do instead…? I didn't bring \nthe necessary equipment for anything else.",
             "nextBlock": 31,
+            "origClipLength": 285,
             "choices": [
                 {
                     "jpText": "海水を使って何か出来ないかな",
                     "enText": "The sea's right there. Can't we use that somehow?",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 219,
+                    "pathId": 6768731789062196506
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 2157980682466677610
                 }
             ],
             "pathId": 8240981913013799527,
@@ -340,6 +620,17 @@
             "jpText": "……海水か。何も泳ぐだけが海ではないが、\r\nだからと言って器具もなく海水をどう使うって言うんだい。",
             "enText": "The sea, eh. I could have you swim in it, but without any of my \nequipment I'm not sure what that would accomplish.",
             "nextBlock": 32,
+            "origClipLength": 272,
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": 6569483608524111758
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6256437880024197153
+                }
+            ],
             "pathId": -7714426024525452252,
             "blockIdx": 31
         },
@@ -349,11 +640,22 @@
             "jpText": "まさか飲んでみるだとか言わないだろうね。",
             "enText": "You're not offering to drink it or something, are you?",
             "nextBlock": 33,
+            "origClipLength": 109,
             "choices": [
                 {
                     "jpText": "例えばアイシングとか？",
                     "enText": "How about… muscle icing?",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -4116336335833262488
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -7359409501765997842
                 }
             ],
             "pathId": 4097211687711597230,
@@ -365,6 +667,17 @@
             "jpText": "アイシング……今日の気温から考えて、海は25度以上。\r\n水温としては不適合だが……。",
             "enText": "Icing, you say? Sunny day like this, I'd say \nthe water temperature's probably around 25 celsius… \nhardly the ideal temperature, but…",
             "nextBlock": 34,
+            "origClipLength": 278,
+            "animData": [
+                {
+                    "origLen": 289,
+                    "pathId": 7748603016175398978
+                },
+                {
+                    "origLen": 155,
+                    "pathId": 8551043608209285613
+                }
+            ],
             "pathId": -7013915889928523285,
             "blockIdx": 33
         },
@@ -374,6 +687,17 @@
             "jpText": "ふむ、発想は凡庸だが悪くない。実際、私は気づかなかったし。",
             "enText": "It's not going to win you any prizes, but it is an idea, at \nleast. And, admittedly, it had not occurred to me.",
             "nextBlock": 35,
+            "origClipLength": 216,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 3416368388544231246
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6937398354838200814
+                }
+            ],
             "pathId": 3776765790483503147,
             "blockIdx": 34
         },
@@ -383,6 +707,17 @@
             "jpText": "筋収縮に焦点を当てて新たなデータを……\r\nいや、むしろ保温効果で……ふむ。",
             "enText": "We could focus our attention on muscle contraction…? Or better \nyet, the insulating effect of the warm water… hmm……",
             "nextBlock": 36,
+            "origClipLength": 245,
+            "animData": [
+                {
+                    "origLen": 218,
+                    "pathId": -6357222427140980539
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3918136153710323979
+                }
+            ],
             "pathId": 7533355124511421311,
             "blockIdx": 35
         },
@@ -392,6 +727,17 @@
             "jpText": "よし！　海特有の塩分濃度、浮力、波による摩擦力。\r\nこれらが君の体にどのように作用するか検証してみよう！",
             "enText": "I've got it! We will investigate the combined effect of buoyancy, \nsalinity and the mechanical action of the waves on your body.",
             "nextBlock": 37,
+            "origClipLength": 322,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -4328308610251974800
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1261153008677139224
+                }
+            ],
             "pathId": 1280527478936285925,
             "blockIdx": 36
         },
@@ -401,6 +747,17 @@
             "jpText": "なるほどなるほど、興味深いデータが取れたぞ。\r\n私の理論を証明するまでには至らなかったが……。",
             "enText": "Interesting, very interesting. I gathered some fascinating data. \nNot quite enough to prove or disprove my hypothesis, but…",
             "nextBlock": 38,
+            "origClipLength": 256,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 8520022404774922653
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -3506669380097806084
+                }
+            ],
             "pathId": 7464998406168135214,
             "blockIdx": 37
         },
@@ -410,6 +767,13 @@
             "jpText": "だがこれをもとに更にもっと深く追求していけば、\r\n新たな可能性の扉が開くはず……！",
             "enText": "But with some further work, this too might be the \nkey that opens the doors of untold possibility!",
             "nextBlock": 39,
+            "origClipLength": 228,
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": -761784322671571427
+                }
+            ],
             "pathId": 7389570248453628009,
             "blockIdx": 38
         },
@@ -419,6 +783,17 @@
             "jpText": "クククッ……いける、いけるぞ！\r\nトレーナー君、データをまとめよう！　手伝ってくれたまえ！",
             "enText": "Yes… yes…!! Trainer-kun, come with me! \nWe must record these findings!",
             "nextBlock": 40,
+            "origClipLength": 266,
+            "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": 7255649579942913456
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -1951083547418973220
+                }
+            ],
             "pathId": 8069841734821759493,
             "blockIdx": 39
         },
@@ -428,6 +803,13 @@
             "jpText": "合宿所に戻り今日のデータをまとめながら、\r\n徹夜で研究の手伝いをした……。",
             "enText": "We went back to the lodge. While I wrote up the day's results, I \nhelped Agnes Tachyon with her work until long after lights-out.",
             "nextBlock": 41,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 8450026742564008054
+                }
+            ],
             "pathId": 4061453925589346774,
             "blockIdx": 40
         },
@@ -437,6 +819,7 @@
             "jpText": "そして、翌日――",
             "enText": "Then, the next morning…",
             "nextBlock": 42,
+            "origClipLength": 55,
             "pathId": -537703819139163491,
             "blockIdx": 41
         },
@@ -446,6 +829,17 @@
             "jpText": "ふぁ～あ……いい朝だね、トレーナー君！",
             "enText": "Beautiful morning, don't you think, trainer-kun?",
             "nextBlock": 43,
+            "origClipLength": 172,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 3301920568948436129
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1053119998265074873
+                }
+            ],
             "pathId": 3689676591343932261,
             "blockIdx": 42
         },
@@ -455,6 +849,13 @@
             "jpText": "いやぁ、協力感謝するよ。\r\nおかげで、理論に基づいた新薬の開発が出来た。",
             "enText": "Thank you again for your help yesterday. Thanks to you I was able \nto formulate a new serum based on my theory.",
             "nextBlock": 44,
+            "origClipLength": 231,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 8520440773828171489
+                }
+            ],
             "pathId": -3671212192760004085,
             "blockIdx": 43
         },
@@ -464,6 +865,17 @@
             "jpText": "あくまでノートの上で、だけどね。\r\n合宿所には実験器具がないから、製作は戻ってからだ。",
             "enText": "On paper, at any rate. Without my equipment here, we shall have \nto wait until we return to the academy to prototype it.",
             "nextBlock": 45,
+            "origClipLength": 238,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 5921092231954483876
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5207189390732457986
+                }
+            ],
             "pathId": 8518420547729195956,
             "blockIdx": 44
         },
@@ -473,11 +885,22 @@
             "jpText": "その前に君の意見も色々と参考にしたいのだけれど、\r\n今朝までの研究で、何か気づいたことはあったかい？",
             "enText": "Before that, though, I'd like to pick your brains a little more. \nAny insights based on our work so far?",
             "nextBlock": 46,
+            "origClipLength": 238,
             "choices": [
                 {
                     "jpText": "え？",
                     "enText": "Huh?",
                     "nextBlock": 46
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": 4003496986241630492
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5253570206740776951
                 }
             ],
             "pathId": -2831058996532990184,
@@ -489,6 +912,17 @@
             "jpText": "特に筋肉の収縮時における酸素供給の効率化は大きな課題だ。\r\n様々な意見が欲しい。",
             "enText": "I want to target increased oxygen uptake efficiency \nduring muscle contraction, and I'd like any opinions \nyou may have on the subject.",
             "nextBlock": 47,
+            "origClipLength": 229,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 4511723413298668038
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1129826698866835688
+                }
+            ],
             "pathId": -8208115494775054237,
             "blockIdx": 46
         },
@@ -498,6 +932,17 @@
             "jpText": "それに、凡庸であることの価値というのかな。\r\n君の発言はなかなか新鮮で、小さな疑問にも興味を持たせてくれる。",
             "enText": "You have a fresh perspective. As a layperson, I \nfind you sometimes pick up on things that I do \nnot. You have an eye for the small details.",
             "nextBlock": 48,
+            "origClipLength": 301,
+            "animData": [
+                {
+                    "origLen": 254,
+                    "pathId": -1514935144344708850
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7962390131407018454
+                }
+            ],
             "pathId": 4384123815859113464,
             "blockIdx": 47
         },
@@ -507,11 +952,22 @@
             "jpText": "何より素直に実験に付き合ってくれるのは、君しかいないしねっ。\r\n“モルモット兼助手”としての活躍を期待しているよ！",
             "enText": "And most of all, you're the only one willing to assist me in my \nexperiments like this every day. You might say you're my \n\"guinea-pig-slash-assistant\"!",
             "nextBlock": 49,
+            "origClipLength": 291,
             "choices": [
                 {
                     "jpText": "助手！？",
                     "enText": "Did you say \"assistant\"!?",
                     "nextBlock": 49
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -6459254395922057682
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5159607109716624191
                 }
             ],
             "pathId": -8692458934949893392,
@@ -523,6 +979,13 @@
             "jpText": "君は被検体としての素養が高く、かつ視点も悪くない。\r\n総合的に考えれば、“助手”と呼ぶのも間違いではないだろ？",
             "enText": "Not only are you a valuable test subject, your viewpoint is \nvaluable too. Taken together, I don't think it's too much of a \nstretch to call you my \"assistant\".",
             "nextBlock": 50,
+            "origClipLength": 286,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -5958949958481591217
+                }
+            ],
             "pathId": -7733338182861614045,
             "blockIdx": 49
         },
@@ -532,6 +995,7 @@
             "jpText": "どちらも研究において掛け替えのないものだ。\r\n気づいたことがあれば遠慮せずに言ってみたまえ！　さぁさぁ！",
             "enText": "Both of those things are indispensable requirements for my \nresearch. So! Don't be shy! What do you have for me?",
             "nextBlock": 51,
+            "origClipLength": 259,
             "choices": [
                 {
                     "jpText": "意見を聞いてくれるようになったなぁ",
@@ -544,6 +1008,12 @@
                     "nextBlock": 51
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3638509649557713112
+                }
+            ],
             "pathId": -2739919426515409123,
             "blockIdx": 50
         },
@@ -553,6 +1023,17 @@
             "jpText": "おや、そうだったかい？\r\nふむ、であればこれもまた、可能性への進展と言えるな。",
             "enText": "Is that so? Well, in that sense, perhaps we really have pushed \nback the boundaries of possibility!",
             "nextBlock": 52,
+            "origClipLength": 264,
+            "animData": [
+                {
+                    "origLen": 230,
+                    "pathId": -46993651035944711
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 7382121165881864611
+                }
+            ],
             "pathId": 263080999193546596,
             "blockIdx": 51
         },
@@ -562,6 +1043,17 @@
             "jpText": "喜びたまえ、トレーナー君！\r\nこの一歩は、いつか大きな道へと繋がるはずだ。",
             "enText": "Rejoice, trainer-kun! Because this could be \nthe first step on a grand journey for you!",
             "nextBlock": 53,
+            "origClipLength": 219,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -7530841523073531217
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 5447691265339052906
+                }
+            ],
             "pathId": -4722452051999292544,
             "blockIdx": 52
         },
@@ -571,6 +1063,17 @@
             "jpText": "よし、そうと決まれば実験の続きをしよう！\r\n時間は有限だからねっ。",
             "enText": "Right then! With that out of the way, we should proceed to \ntoday's experiment. Time, after all, is a finite resource!",
             "nextBlock": 54,
+            "origClipLength": 198,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -4030646422362068503
+                },
+                {
+                    "origLen": 163,
+                    "pathId": 6364011232983867146
+                }
+            ],
             "pathId": 4294366916588240255,
             "blockIdx": 53
         },
@@ -580,6 +1083,17 @@
             "jpText": "昨日は調整をミスったが、今日こそは限界ギリギリの体力を狙って\r\n体を酷使だ！　行くぞ、トレーナー君！",
             "enText": "I misjudged the intensity ramp-up yesterday, but I'm sure that \nthis time we will observe your body at its absolute physiological \nlimit! Let us away, trainer-kun!!",
             "nextBlock": 55,
+            "origClipLength": 265,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -588694226237222989
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1352415380350952286
+                }
+            ],
             "pathId": 4968155875255365332,
             "blockIdx": 54
         },
@@ -589,8 +1103,16 @@
             "jpText": "……徹夜のまま走らされ、\r\n限界は一瞬にしてやってきたのだった……。",
             "enText": "I ended up running until night fell, and became \nall too familiar with my physiological limit…",
             "nextBlock": -1,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -1690388549989390374
+                }
+            ],
             "pathId": 8122102616034678276,
             "blockIdx": 55
         }
-    ]
+    ],
+    "modified": 1669933715
 }

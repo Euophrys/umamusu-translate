@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "KNW7MYJ66COO6KW2IDBTDCEZM45ENNYX",
     "type": "story",
     "storyId": "041008006",
@@ -11,6 +11,7 @@
             "jpText": "休日。\r\n学生寮の前を歩いていると――",
             "enText": "I was passing by the front of \nthe student dorm on a day off.",
             "nextBlock": 2,
+            "origClipLength": 69,
             "pathId": -2047827544714769909,
             "blockIdx": 1
         },
@@ -20,11 +21,22 @@
             "jpText": "よぉトレーナー、何してんだ？",
             "enText": "Hey Trainer, what's up?",
             "nextBlock": 3,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "散歩だよ。ウオッカは？",
                     "enText": "Just taking a walk. And you?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 2630563205155153187
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3677138135629369490
                 }
             ],
             "pathId": -7307421032092859155,
@@ -36,6 +48,17 @@
             "jpText": "俺は……ブラブラしてるに決まってんだろ。\r\n休みって、わりとヒマだよな。",
             "enText": "I'm… just strolling around, of course. \nI don't really have much to do on days off.",
             "nextBlock": 4,
+            "origClipLength": 217,
+            "animData": [
+                {
+                    "origLen": 213,
+                    "pathId": -850122047602891991
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2203193943410635820
+                }
+            ],
             "pathId": -188734029080117462,
             "blockIdx": 3
         },
@@ -45,11 +68,22 @@
             "jpText": "そうだ！　こういう時は、テンション上げに行くに限るっ。\r\nバイクだバイク！",
             "enText": "Oh, right! The perfect thing to \ndo at times like these is biking!",
             "nextBlock": 5,
+            "origClipLength": 207,
             "choices": [
                 {
                     "jpText": "ツーリング？",
                     "enText": "You mean touring?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7753306893457358768
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7942808741410500301
                 }
             ],
             "pathId": -1925272097065062538,
@@ -61,6 +95,13 @@
             "jpText": "もちっ！　……って言いたいところだけど、\r\n俺持ってねえんだよ、バイク。エアライダーっつーかさ……。",
             "enText": "Yeah! …Or so I'd like to say, but I don't actually own one. \nThe most I can do is pretend to ride a bike…",
             "nextBlock": 6,
+            "origClipLength": 286,
+            "animData": [
+                {
+                    "origLen": 252,
+                    "pathId": 5107456041114563083
+                }
+            ],
             "pathId": 4292299360125541631,
             "blockIdx": 5
         },
@@ -70,6 +111,13 @@
             "jpText": "ってわけでバイク屋行こうぜ、バイク屋！\r\nバリバリの新型、2人で拝みにさ！",
             "enText": "So let's go to a bike shop and \ncheck out their new models together!",
             "nextBlock": 7,
+            "origClipLength": 204,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -2285830481392148292
+                }
+            ],
             "pathId": -4696186511731680771,
             "blockIdx": 6
         },
@@ -79,6 +127,17 @@
             "jpText": "おおお……トレーナー、見ろ！\r\nあれがUMAHAのZX750だ。",
             "enText": "Woooah… Trainer, look! \nThat's the UMAHA ZX750.",
             "nextBlock": 8,
+            "origClipLength": 205,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 502968570765158504
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3877987745850523152
+                }
+            ],
             "pathId": -1016510590750180211,
             "blockIdx": 7
         },
@@ -88,6 +147,13 @@
             "jpText": "バカデケぇタンク。そして精鋭的な流線型のフォルム……！\r\n跨ってエンジンに火を点れた瞬間、俺は――疾風になる！",
             "enText": "That huge fuel tank and the aerodynamic frame…! \nFiring up its engine and riding through the wind must be amazing!",
             "nextBlock": 9,
+            "origClipLength": 339,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -3988859207892624410
+                }
+            ],
             "pathId": -2512098287892080536,
             "blockIdx": 8
         },
@@ -97,11 +163,18 @@
             "jpText": "うおおおっ、スゲぇぇぇ、ヤッベェ～～～！",
             "enText": "Woah, that's so cooooool~~~!",
             "nextBlock": 10,
+            "origClipLength": 145,
             "choices": [
                 {
                     "jpText": "…………",
                     "enText": "…",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -3519260247140402503
                 }
             ],
             "pathId": 4746758802182975759,
@@ -113,6 +186,13 @@
             "jpText": "な、なんだよ？　んな目で見んなよぉ！\r\nバイクは俺の憧れなんだからよ。",
             "enText": "Wh-what? Don't look at me like that! \nI really admire bikes, you know.",
             "nextBlock": 11,
+            "origClipLength": 204,
+            "animData": [
+                {
+                    "origLen": 181,
+                    "pathId": -8957624680288691755
+                }
+            ],
             "pathId": -942838987893391386,
             "blockIdx": 10
         },
@@ -122,6 +202,17 @@
             "jpText": "父ちゃんが大のバイク好きで、よく後ろに乗せてもらってたんだ。",
             "enText": "My dad really likes big bikes, so I often \nused to ride on the back of his.",
             "nextBlock": 12,
+            "origClipLength": 142,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -1863908930896763185
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 1220628267097271131
+                }
+            ],
             "pathId": 1681275854012143814,
             "blockIdx": 11
         },
@@ -131,11 +222,22 @@
             "jpText": "ま、買えやしねぇんだけどな。ダービー制覇と同じく、\r\nなかなか手の届くもんじゃ……。",
             "enText": "It's not like I can buy one, though. Just like winning the Derby, \nthis isn't something easily done…",
             "nextBlock": 13,
+            "origClipLength": 233,
             "choices": [
                 {
                     "jpText": "制覇記念に買おう",
                     "enText": "Let's buy one to celebrate you winning then.",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 177,
+                    "pathId": -4594263881889190000
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -5738951201679936014
                 }
             ],
             "pathId": 2589433253400609637,
@@ -147,6 +249,17 @@
             "jpText": "制覇記念！？　って俺がダービー勝ったらか！？",
             "enText": "To celebrate!? Wait, you mean if I win the Derby?!",
             "nextBlock": 14,
+            "origClipLength": 145,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 1835655502877793572
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4407583210454351805
+                }
+            ],
             "pathId": 1437705567519533451,
             "blockIdx": 13
         },
@@ -156,6 +269,13 @@
             "jpText": "おいおいおい、夢をかなえて憧れまでゲットなんて\r\nそんなの浪漫すぎんだろっ！",
             "enText": "Woah woah woah! Reaching both my dream and admiration \nat the same time? That's just too good to be true!",
             "nextBlock": 15,
+            "origClipLength": 202,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5080259417690075462
+                }
+            ],
             "pathId": 5669047420810094584,
             "blockIdx": 14
         },
@@ -165,6 +285,17 @@
             "jpText": "よし、約束だかんな、俺とアンタの！\r\nそう、俺たちが組めば、できないことは何もねえ！",
             "enText": "Alright, it's a promise between you and me, Trainer! \nYeah… if we work together, nothing is impossible!",
             "nextBlock": 16,
+            "origClipLength": 278,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -5886855281049123475
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 3870108550841230412
+                }
+            ],
             "pathId": -3547754081878409683,
             "blockIdx": 15
         },
@@ -174,6 +305,17 @@
             "jpText": "うおおおおっ、熱くなってきやがった！！\r\n体がウズウズして……！　こうなったら――",
             "enText": "Ahhhhh, now I'm really fired up!! \nMy body's tingling too…! This means—",
             "nextBlock": 17,
+            "origClipLength": 247,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -5889697515385689736
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 3632639830427202988
+                }
+            ],
             "pathId": 2018785211677055867,
             "blockIdx": 16
         },
@@ -183,6 +325,17 @@
             "jpText": "浜辺までひとっ走りだ！\r\nバイク……はねえから、この脚で！",
             "enText": "Time to race to the beach! \nI… don't have a bike, so I'll just have to run!",
             "nextBlock": 18,
+            "origClipLength": 201,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6082428919063148456
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2735747108602879955
+                }
+            ],
             "pathId": 5346513633398445106,
             "blockIdx": 17
         },
@@ -192,6 +345,7 @@
             "jpText": "うおりゃああああああ！",
             "enText": "Haaaaaaaaaah!",
             "nextBlock": 19,
+            "origClipLength": 87,
             "choices": [
                 {
                     "jpText": "あ、おい！",
@@ -204,6 +358,12 @@
                     "nextBlock": 19
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -949787993653445416
+                }
+            ],
             "pathId": 6845273250183935462,
             "blockIdx": 18
         },
@@ -213,6 +373,13 @@
             "jpText": "全速で駆け出すウオッカ。\r\nその背を必死に追いかけた。……タクシーで。",
             "enText": "Vodka ran off at full speed, and I \ndesperately chased after her… by taxi.",
             "nextBlock": 20,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -1793269062944185841
+                }
+            ],
             "pathId": 8648559421284480148,
             "blockIdx": 19
         },
@@ -222,6 +389,17 @@
             "jpText": "はぁ、はぁ、気持ちいいもんだな。\r\nたまにはターフじゃなくてロードを駆けるのも。",
             "enText": "Huff, huff, that felt good. \nSometimes running on roads as opposed to turf is nice too.",
             "nextBlock": 21,
+            "origClipLength": 304,
+            "animData": [
+                {
+                    "origLen": 185,
+                    "pathId": -6154035586559401329
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 4493246375402698926
+                }
+            ],
             "pathId": -4561517548742367865,
             "blockIdx": 20
         },
@@ -231,6 +409,17 @@
             "jpText": "汗ばんだ肌に潮風……たまんねぇぜ。\r\nカッコいいってのは、まさにこういう……。",
             "enText": "I just can't get enough of feeling the salty sea breeze on sweaty \nskin. This is exactly what I'm talking about when I say cool…",
             "nextBlock": 22,
+            "origClipLength": 269,
+            "animData": [
+                {
+                    "origLen": 249,
+                    "pathId": -6879639361790792233
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 9049582075111882278
+                }
+            ],
             "pathId": -5827815542394163687,
             "blockIdx": 21
         },
@@ -240,6 +429,7 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 23,
+            "origClipLength": 31,
             "choices": [
                 {
                     "jpText": "どうした？",
@@ -252,6 +442,16 @@
                     "nextBlock": 23
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 249,
+                    "pathId": 3500973741481696794
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2985339358252368245
+                }
+            ],
             "pathId": -7850973334167763116,
             "blockIdx": 22
         },
@@ -261,6 +461,17 @@
             "jpText": "なあ、トレーナー。ヘンなこと聞くけど……\r\n“カッコいい”と“強い”って違うのかな？",
             "enText": "Hey, Trainer. This is a weird question, but… \nDo you think that being \"cool\" and being \"strong\" is different?",
             "nextBlock": 24,
+            "origClipLength": 251,
+            "animData": [
+                {
+                    "origLen": 213,
+                    "pathId": 7059678906943126407
+                },
+                {
+                    "origLen": 203,
+                    "pathId": 5483749473412355557
+                }
+            ],
             "pathId": 2108587407641420002,
             "blockIdx": 23
         },
@@ -270,6 +481,17 @@
             "jpText": "俺、強いヤツよりカッコいいヤツを目指してんだよな。\r\n強いは……まあカッコいいの一部っていうか。",
             "enText": "I'm trying to become cool rather than strong. \nBeing strong feels more like… a part of being cool.",
             "nextBlock": 25,
+            "origClipLength": 325,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -7968256961296625910
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -8402134827722297192
+                }
+            ],
             "pathId": -187840491334740139,
             "blockIdx": 24
         },
@@ -279,6 +501,17 @@
             "jpText": "ほら、この間、負けたのに見栄を張ったら、\r\n鼻で笑われちまっただろ？　それが気になっててさ。",
             "enText": "Do you remember how I tried to act tough after \nlosing recently? It's been bugging my ever since.",
             "nextBlock": 26,
+            "origClipLength": 264,
+            "animData": [
+                {
+                    "origLen": 249,
+                    "pathId": -2423563420499072773
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4452356299165957266
+                }
+            ],
             "pathId": -7338678122861569049,
             "blockIdx": 25
         },
@@ -288,6 +521,13 @@
             "jpText": "……俺にとって“カッコいい”のは父ちゃんで\r\n“強い”のは母ちゃんなんだよな。",
             "enText": "To me, my dad is my role model for being \"cool\", \nand my mom is my role model for being \"strong\".",
             "nextBlock": 27,
+            "origClipLength": 194,
+            "animData": [
+                {
+                    "origLen": 192,
+                    "pathId": -3748391699404307989
+                }
+            ],
             "pathId": 1909734378395367257,
             "blockIdx": 26
         },
@@ -297,6 +537,13 @@
             "jpText": "気になって、ウオッカの両親のことを聞いてみた。",
             "enText": "I got curious, so I asked Vodka about her parents.",
             "nextBlock": 28,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": 2222377403511306558
+                }
+            ],
             "pathId": -3862400574459904002,
             "blockIdx": 27
         },
@@ -306,6 +553,13 @@
             "jpText": "父ちゃんはバイク乗りでさ。いやレーサーとかじゃないんだけど、\r\nいつも俺を乗せて、あちこち連れて行ってくれたんだ。",
             "enText": "My dad's a biker. Ah, he's not a racer though. \nHe'd always drive me around to places on the back of his bike.",
             "nextBlock": 29,
+            "origClipLength": 293,
+            "animData": [
+                {
+                    "origLen": 271,
+                    "pathId": 539886994770843497
+                }
+            ],
             "pathId": 787230930766403678,
             "blockIdx": 28
         },
@@ -315,6 +569,17 @@
             "jpText": "で、よく言っててさ。『いつだってギリギリで生きろ』とか\r\n『涙は疾風に流しちまえ』とか。父ちゃんはいつだってキマってた。",
             "enText": "And I always thought he's really cool, saying things like \n\"Live at the limit\" or \"Let the wind wipe away your tears\".",
             "nextBlock": 30,
+            "origClipLength": 346,
+            "animData": [
+                {
+                    "origLen": 254,
+                    "pathId": -3494817895462037641
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -329807465482061528
+                }
+            ],
             "pathId": 4374268372246293480,
             "blockIdx": 29
         },
@@ -324,6 +589,17 @@
             "jpText": "でも母ちゃんは全然違うタイプでさ！　いつも父ちゃんの尻を\r\nピシピシ叩いて、家を切りまわして、おまけに――",
             "enText": "My mom's completely different though! Always slapping my \ndad's butt and staying on top of things at home, not to mention",
             "nextBlock": 31,
+            "origClipLength": 282,
+            "animData": [
+                {
+                    "origLen": 166,
+                    "pathId": -7699261054885391697
+                },
+                {
+                    "origLen": 199,
+                    "pathId": 3597216865509705643
+                }
+            ],
             "pathId": -5591842773947483360,
             "blockIdx": 30
         },
@@ -333,6 +609,7 @@
             "jpText": "自分の脚で走っても、バイク並みに速かった！　オンロードでも\r\nオフロードでも。なんつったってウマ娘だからな。",
             "enText": "she can keep up with the speed of a bike when running! \nBoth on and off-road. She is a horsegirl too, after all.",
             "nextBlock": 32,
+            "origClipLength": 265,
             "choices": [
                 {
                     "jpText": "それはすごいな",
@@ -345,6 +622,16 @@
                     "nextBlock": 32
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 161,
+                    "pathId": -2370012639985020454
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7742019565547200633
+                }
+            ],
             "pathId": 8450517501027989471,
             "blockIdx": 31
         },
@@ -354,6 +641,13 @@
             "jpText": "……そうなんだよ。でも俺が追いかけてるのは、父ちゃんの\r\n背中の方でさ。このまま追いかけても、仕方ねえのかな？",
             "enText": "Yeah, it is. But the one whose back I'm chasing is my dad. \nIs that really what I should be doing?",
             "nextBlock": 33,
+            "origClipLength": 339,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -9075129275503638210
+                }
+            ],
             "pathId": -1837304326976986266,
             "blockIdx": 32
         },
@@ -363,6 +657,13 @@
             "jpText": "かといって強い母ちゃんのマネすんのが理想かっつーと\r\nそうも割り切れなくて……。",
             "enText": "Then again, becoming strong like like my strong mom would be nice \ntoo, but… I couldn't really be satisfied with that.",
             "nextBlock": 34,
+            "origClipLength": 192,
+            "animData": [
+                {
+                    "origLen": 199,
+                    "pathId": -896289605815221404
+                }
+            ],
             "pathId": 3039828461148223738,
             "blockIdx": 33
         },
@@ -372,11 +673,22 @@
             "jpText": "なあ、俺の生き方、間違ってんのか？\r\n『カッコよさを1番に目指す』っての、おかしいのかな？",
             "enText": "Hey, do you think I've been living my life wrong? \nIs it weird to have being cool as your highest priority?",
             "nextBlock": 35,
+            "origClipLength": 268,
             "choices": [
                 {
                     "jpText": "おかしくはないよ",
                     "enText": "It's not weird at all.",
                     "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 259,
+                    "pathId": 2618072649205095337
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 5605271226026604486
                 }
             ],
             "pathId": 5879790025059884574,
@@ -388,6 +700,17 @@
             "jpText": "……そっか。トレーナーがそう言うんなら、\r\nま、大きくズレちゃいないのかもな。",
             "enText": "…I see. If you say so, then I can't be that wrong, Trainer.",
             "nextBlock": 36,
+            "origClipLength": 222,
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": -785925862223736198
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -1294396649709944904
+                }
+            ],
             "pathId": 7816748752439981069,
             "blockIdx": 35
         },
@@ -397,6 +720,17 @@
             "jpText": "前なら考えなかったことがたまに浮かんで、モヤっちまってさ。\r\n……そろそろ帰ろっか。",
             "enText": "Thinking about these things that I never considered before \nsometimes gets me down, you know. But let's start heading back.",
             "nextBlock": 37,
+            "origClipLength": 231,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6705297461714386109
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5012686144016926850
+                }
+            ],
             "pathId": -2000941128901289027,
             "blockIdx": 36
         },
@@ -406,6 +740,17 @@
             "jpText": "――その帰り道。",
             "enText": "On the way home…",
             "nextBlock": 38,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -1846952111509840517
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 2101528134183086369
+                }
+            ],
             "pathId": 4858887942644765915,
             "blockIdx": 37
         },
@@ -415,6 +760,17 @@
             "jpText": "こういう道を、よく父ちゃんのバイクで走ったんだ。\r\n行く先は仕事場の工場とか、下町の定食屋とか。",
             "enText": "I often used to ride on my dad's bike on roads \nlike this. Going to places like the factory he \nworks at, or to some restaurant downtown.",
             "nextBlock": 39,
+            "origClipLength": 278,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 6018689581331418139
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5624551732088818371
+                }
+            ],
             "pathId": -7120136023828431798,
             "blockIdx": 38
         },
@@ -424,6 +780,17 @@
             "jpText": "遊びに連れてってくれたわけじゃねえんだよ。\r\nけど……。",
             "enText": "It's not like he just took me around for fun.",
             "nextBlock": 40,
+            "origClipLength": 117,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -2636827402606890294
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 4274324827929287587
+                }
+            ],
             "pathId": -2198030034515846411,
             "blockIdx": 39
         },
@@ -433,6 +800,7 @@
             "jpText": "どんな場所でも、絶対にいつも連れてってくれたんだ。\r\n俺が『行きたい』って言った時はいつも。",
             "enText": "But no matter where to, he'd always take me \nalong if I said that I wanted to go too.",
             "nextBlock": 41,
+            "origClipLength": 220,
             "choices": [
                 {
                     "jpText": "愛されてるんだな",
@@ -445,6 +813,12 @@
                     "nextBlock": 41
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 237,
+                    "pathId": -4287763256139479850
+                }
+            ],
             "pathId": -1803602458086505228,
             "blockIdx": 40
         },
@@ -454,6 +828,17 @@
             "jpText": "バッ！　よせよ！　んなの、恥ずかしい！\r\nでも……そ、そうだな。",
             "enText": "S-Stop it! That's embarassing! \nBut… yeah. You're right.",
             "nextBlock": 42,
+            "origClipLength": 223,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -6571957265966666740
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7116287728896283136
+                }
+            ],
             "pathId": 6403117659496347362,
             "blockIdx": 41
         },
@@ -463,6 +848,17 @@
             "jpText": "父ちゃんが構ってくれたから、今の俺がいる。\r\nあんな父ちゃんだったから、俺は――",
             "enText": "Him caring so much for me turned me into who I am today. \nBecause he was like that, I-",
             "nextBlock": 43,
+            "origClipLength": 222,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 6463545228958748387
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -2467990772680020939
+                }
+            ],
             "pathId": -9148722481948277429,
             "blockIdx": 42
         },
@@ -472,6 +868,17 @@
             "jpText": "（今も聞こえる。父ちゃんの乗ってた250のエグゾーストノート。\r\nそして感じるんだ。回した腕の……温かみ）",
             "enText": "(I can still hear it… the exhaust of my dad's \n250. And I can still feel it… the warmth of \nmy hands wrapped around his waist.)",
             "nextBlock": 44,
+            "origClipLength": 367,
+            "animData": [
+                {
+                    "origLen": 379,
+                    "pathId": -7798359930255424465
+                },
+                {
+                    "origLen": 383,
+                    "pathId": 2511012483427293704
+                }
+            ],
             "pathId": 4898523771646076406,
             "blockIdx": 43
         },
@@ -481,6 +888,17 @@
             "jpText": "やっぱ俺は、この道を行くしかねぇよな。\r\nだって――",
             "enText": "This really is the right way of life for me after all. \nBecause…",
             "nextBlock": 45,
+            "origClipLength": 172,
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": 8261945036020763240
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -6831906904826046775
+                }
+            ],
             "pathId": 1978582448676831556,
             "blockIdx": 44
         },
@@ -490,8 +908,16 @@
             "jpText": "俺の道の先にしか――目指す俺はいないから！",
             "enText": "I can't become who I want to be otherwise!",
             "nextBlock": -1,
+            "origClipLength": 140,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 146376802444223283
+                }
+            ],
             "pathId": 2924559755039496368,
             "blockIdx": 45
         }
-    ]
+    ],
+    "modified": 1669933652
 }

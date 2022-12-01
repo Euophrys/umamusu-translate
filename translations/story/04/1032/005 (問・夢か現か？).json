@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "KNPXEFQPF4VPCAHTMUHUAUNWYXNF6XLQ",
     "type": "story",
     "storyId": "041032005",
@@ -11,6 +11,13 @@
             "jpText": "……――？\r\n水から上がったような気怠さが、全身を包み込んでいる。",
             "enText": "My body felt leaden… like I'd been dragged out \nof a swimming pool with my clothes on…",
             "nextBlock": 2,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -312392425873387425
+                }
+            ],
             "pathId": -972769010257139779,
             "blockIdx": 1
         },
@@ -20,6 +27,13 @@
             "jpText": "ゆっくりと瞼を開けると、静まり返った夜の教室と一緒に\r\nアグネスタキオンの姿が映り込んできた。",
             "enText": "Slowly I opened my eyes. I could make out the familiar \nshapes of a classroom in the darkness… and the figure \nof Agnes Tachyon standing before me…",
             "nextBlock": 3,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -3759548185524024911
+                }
+            ],
             "pathId": 1208151703115481143,
             "blockIdx": 2
         },
@@ -29,11 +43,22 @@
             "jpText": "発汗しているね。\r\n体温も……ふむ、見た感じ上昇しているようだ。",
             "enText": "Subject is sweating profusely. Body \ntemperature… appears to be rising.",
             "nextBlock": 4,
+            "origClipLength": 264,
             "choices": [
                 {
                     "jpText": "え……え！？",
                     "enText": "Eh… eh…!?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": -2613704769218351523
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6991875376552858856
                 }
             ],
             "pathId": 8796941963322613832,
@@ -45,6 +70,17 @@
             "jpText": "モルモットと言えど、熱放散反応はやはり人か。\r\nまぁ、そうでなくては困るんだが。",
             "enText": "Guinea pig you may be, but your body's febrile response is \nunquestionably human. Which is fine for our purposes, of course…",
             "nextBlock": 5,
+            "origClipLength": 247,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -5880693164758141216
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3289242130559339639
+                }
+            ],
             "pathId": -6215817845876120522,
             "blockIdx": 4
         },
@@ -54,6 +90,13 @@
             "jpText": "自分の体を確認すると……\r\n見たこともないような実験器具に縛り付けられている！",
             "enText": "I looked down. My body was entangled with all manner of \nunfamiliar devices and strange instruments…",
             "nextBlock": 6,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 4918945120760777252
+                }
+            ],
             "pathId": -2761256186923746697,
             "blockIdx": 5
         },
@@ -63,6 +106,7 @@
             "jpText": "出会った時を思い出すねぇ。だが、あの時とは違う。\r\nここは私の、私だけの実験室。誰にも邪魔はされない！",
             "enText": "Ah, this is just like the day we first met…! Only \nthis time we have the laboratory all to ourselves. \nNobody will interfere with my experiment!",
             "nextBlock": 7,
+            "origClipLength": 424,
             "choices": [
                 {
                     "jpText": "実験室って……普通の教室だぞ！？",
@@ -75,6 +119,20 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 190,
+                    "pathId": 491000372535182783
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1018416671182801155
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 4737888714231772635
+                }
+            ],
             "pathId": 2957729586543371033,
             "blockIdx": 6
         },
@@ -84,6 +142,17 @@
             "jpText": "いいや！　君が実験を望んだから私はここにいる！",
             "enText": "Ahh, not so! I am only here because you agreed \nto take part in this experiment.",
             "nextBlock": 8,
+            "origClipLength": 158,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 7905337529506874537
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -5215817088129777211
+                }
+            ],
             "pathId": -108678370699331179,
             "blockIdx": 7
         },
@@ -93,11 +162,18 @@
             "jpText": "この空間は君が用意してくれたものだ。\r\nであれば、実験室と呼ぶのが相応しいだろう？",
             "enText": "And this space is entirely of YOUR creation… \nso in that sense, it's quite accurate to call \nthis our \"laboratory\", don't you agree?",
             "nextBlock": 9,
+            "origClipLength": 253,
             "choices": [
                 {
                     "jpText": "意味がわからない……！",
                     "enText": "I don't understand…!",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3094142253678818037
                 }
             ],
             "pathId": -4030392998187909315,
@@ -109,6 +185,21 @@
             "jpText": "アッハッハッハッ！　ならば理解するといい。\r\nいかなる事象も実験として受け入れるのがモルモットだと。",
             "enText": "A-hahahaa! Then understand this. A guinea pig's job is to be \nsubjected to whatever conditions the test requires.",
             "nextBlock": 10,
+            "origClipLength": 327,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -8501486815731974825
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 3501150596598799301
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 4892797547918359651
+                }
+            ],
             "pathId": 7733278815087777960,
             "blockIdx": 9
         },
@@ -118,6 +209,17 @@
             "jpText": "君は自らモルモットに志願した。\r\n今更、実験前に都度コンセンサスを取れだなんて言うまい？",
             "enText": "And you volunteered to be my guinea pig, did you \nnot? If you wish to renegotiate the terms of your \nemployment, perhaps now is not the best time.",
             "nextBlock": 11,
+            "origClipLength": 240,
+            "animData": [
+                {
+                    "origLen": 200,
+                    "pathId": 4568553866457775611
+                },
+                {
+                    "origLen": 141,
+                    "pathId": 2812209854544160331
+                }
+            ],
             "pathId": 5160809955927463611,
             "blockIdx": 10
         },
@@ -127,6 +229,21 @@
             "jpText": "限界を超え、ウマ娘の脚に秘められた可能性を導くには、\r\nたゆまぬ努力と研究……実験が必要なのだよ！",
             "enText": "To probe beyond the limits… to reveal the true potential of the \nUma Musume… this requires tireless effort and research, of which \ntesting is an indispensable part!",
             "nextBlock": 12,
+            "origClipLength": 328,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -5123751473461974764
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5189275837465437118
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 4828662017011397619
+                }
+            ],
             "pathId": -4482546014574763242,
             "blockIdx": 11
         },
@@ -136,6 +253,13 @@
             "jpText": "さて、出来たばかりの楽しいお薬を飲ませてあげよう。\r\n青く発光しているから、目でも楽しめるぞ。",
             "enText": "Now! Perhaps it's time I let you try a rather enjoyable new serum \nI have created. It has an intense blue glow which I think you \nwill find quite pleasing!",
             "nextBlock": 13,
+            "origClipLength": 302,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 3417621635909080523
+                }
+            ],
             "pathId": -3147046487660016952,
             "blockIdx": 12
         },
@@ -145,11 +269,26 @@
             "jpText": "クククッ……これで君の筋力は何倍にも増強され、\r\nどんな怪物をも凌駕する最高の肉体を手に入れることだろう！",
             "enText": "Heeheehee… and with this your muscular strength will increase \nseveral fold… Your body will be blessed with unimaginable \nstrength, strength surpassing the most fearsome monster…!",
             "nextBlock": 14,
+            "origClipLength": 397,
             "choices": [
                 {
                     "jpText": "！？",
                     "enText": "!?",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -6864888262965448619
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -7897992733912404818
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7596151385525704939
                 }
             ],
             "pathId": 55955850043294857,
@@ -161,6 +300,17 @@
             "jpText": "さぁ、口を開けたまえ。",
             "enText": "Now… open wide…",
             "nextBlock": 15,
+            "origClipLength": 104,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 7711349489253246507
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5698956229694913619
+                }
+            ],
             "pathId": -7151807323467484326,
             "blockIdx": 14
         },
@@ -170,6 +320,17 @@
             "jpText": "こうなった彼女を止める術はない。\r\nそもそも、モルモットでいいと告げたのは自分だ。",
             "enText": "There was nothing I could do to stop her. She was right, after \nall. I was the one who volunteered to be her guinea pig.",
             "nextBlock": 16,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 5566011792657021666
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 7571856583024008709
+                }
+            ],
             "pathId": 5021938513482204201,
             "blockIdx": 15
         },
@@ -179,6 +340,17 @@
             "jpText": "覚悟を決めて、恐る恐る口を開けた――",
             "enText": "I gathered my resolve, closed my eyes… and opened my mouth…",
             "nextBlock": 17,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": -8496820379452998858
+                },
+                {
+                    "origLen": 129,
+                    "pathId": -3991859364380345405
+                }
+            ],
             "pathId": 5477202920739485716,
             "blockIdx": 16
         },
@@ -188,6 +360,21 @@
             "jpText": "――おや、おはようモルモット君。",
             "enText": "Well, well. Good morning my little guinea pig.",
             "nextBlock": 18,
+            "origClipLength": 117,
+            "animData": [
+                {
+                    "origLen": 196,
+                    "pathId": 3498384589484125485
+                },
+                {
+                    "origLen": 196,
+                    "pathId": 1057500058692377110
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 7954274017390756849
+                }
+            ],
             "pathId": 7549247036796375924,
             "blockIdx": 17
         },
@@ -197,11 +384,22 @@
             "jpText": "痛いくらいの光が目に飛び込んできた。\r\n……もしや、さっきまでの出来事は。",
             "enText": "The sunlight burned as it flooded my eyes. But \nthat must mean everything up to now had been…",
             "nextBlock": 19,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "あ、あれ……！？夢！？",
                     "enText": "H…… huh!? A dream…!?",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 8612164779985892445
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -5355664144951453332
                 }
             ],
             "pathId": -2697884726512357005,
@@ -213,6 +411,17 @@
             "jpText": "んん？　随分と怯えているね？　もしや悪夢でも見たのかい？",
             "enText": "Hmm? You seem troubled. Some kind of… nightmare, perhaps?",
             "nextBlock": 20,
+            "origClipLength": 199,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -8188371135008234064
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3038056438669743946
+                }
+            ],
             "pathId": -2096808300149621367,
             "blockIdx": 19
         },
@@ -222,6 +431,17 @@
             "jpText": "光の量に変化はないはずだが、僅かに瞳孔が震えている。\r\nクククッ……興味が出たぞ。話してみるといい。",
             "enText": "Curious… the light level in here hasn't changed, but there is a \npronounced dilation in your pupils… Intriguing… most intriguing. \nWhy don't you tell me what you saw.",
             "nextBlock": 21,
+            "origClipLength": 340,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 3356130297561274728
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -7763478520686691092
+                }
+            ],
             "pathId": -3978726908861435035,
             "blockIdx": 20
         },
@@ -231,6 +451,17 @@
             "jpText": "夢のメカニズムは、いまだ謎の多い部分ではある。\r\nが、これを深層心理として考えると――",
             "enText": "There is still much we do not understand neurologically about the \ndreaming brain… But if we apply the principles of depth \npsychology to your experience…",
             "nextBlock": 22,
+            "origClipLength": 261,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 2751881476309641181
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1070194173740891996
+                }
+            ],
             "pathId": -7805886863436623062,
             "blockIdx": 21
         },
@@ -240,6 +471,17 @@
             "jpText": "君の潜在意識にいる私は\r\n『人の話を聞かず勝手に実験をするウマ娘』、ということになるな。",
             "enText": "It seems as though you see me as an Uma Musume who \nmight at any moment subject you to horrifying experimentation, \nwithout warning or consent…!",
             "nextBlock": 23,
+            "origClipLength": 275,
+            "animData": [
+                {
+                    "origLen": 213,
+                    "pathId": -3252454612273774818
+                },
+                {
+                    "origLen": 189,
+                    "pathId": 6654937451622014267
+                }
+            ],
             "pathId": -4152473569679005223,
             "blockIdx": 22
         },
@@ -249,6 +491,7 @@
             "jpText": "それにしても……そうか。夢の中の私がそんなことをねぇ。",
             "enText": "I see… that is the Agnes Tachyon that resides in your psyche.",
             "nextBlock": 24,
+            "origClipLength": 244,
             "choices": [
                 {
                     "jpText": "ごめん、悪気はなくて……",
@@ -261,6 +504,16 @@
                     "nextBlock": 24
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -5310487903718647102
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -766777341398214651
+                }
+            ],
             "pathId": 6797388582048949691,
             "blockIdx": 23
         },
@@ -270,6 +523,17 @@
             "jpText": "ククッ……わざわざ『口を開けろ』、とは。\r\n夢の中の私は、随分と面倒なことをするな。",
             "enText": "Hahaha…! To think that I would go to the trouble of ASKING you to \nopen your mouth! The Agnes Tachyon of your dreams clearly has \nmore time to waste than I do…",
             "nextBlock": 25,
+            "origClipLength": 308,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 2439259827392649312
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 2500459759544831021
+                }
+            ],
             "pathId": 3384418409912845986,
             "blockIdx": 24
         },
@@ -279,11 +543,26 @@
             "jpText": "モルモットに実験可否の返事も意見も聞く必要はないだろうに！",
             "enText": "One does not ask the guinea pig's PERMISSION to \ncommence the experiment, good gracious no!",
             "nextBlock": 26,
+            "origClipLength": 176,
             "choices": [
                 {
                     "jpText": "えっ",
                     "enText": "Um.",
                     "nextBlock": 26
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 7872833321381730915
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1893914891023848736
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 3447455448641741484
                 }
             ],
             "pathId": 9020941135863293437,
@@ -295,6 +574,21 @@
             "jpText": "ハッハッハッ！　何をポカンとしているんだい。\r\n自身が被験体であることを忘れていたのかい？",
             "enText": "Hahahaha! Oh, what are you gawping at now? Did you forget that \nyou willingly donated your body to my research?",
             "nextBlock": 27,
+            "origClipLength": 265,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 5167615284378992518
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 8243028635492212351
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2300792555566846012
+                }
+            ],
             "pathId": -9082790388293693049,
             "blockIdx": 26
         },
@@ -304,11 +598,22 @@
             "jpText": "いやしかし先程は実に惜しかった。あともう少しで\r\n安らか～に眠る君の口に薬品βを流し込めたのに。",
             "enText": "And I was so close, too. Why, a few moments longer and you would \nhave been sleeping like a baby… and I could have slipped serum \nbeta down your throat without you even noticing!",
             "nextBlock": 28,
+            "origClipLength": 327,
             "choices": [
                 {
                     "jpText": "えっ！？",
                     "enText": "Huh…!?",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 245,
+                    "pathId": 6775084452235760961
+                },
+                {
+                    "origLen": 166,
+                    "pathId": 4256933915574695555
                 }
             ],
             "pathId": 8149968490793078843,
@@ -320,6 +625,17 @@
             "jpText": "あぁこれは、言っておくけれど私なりの慈悲というやつだよ？\r\n薬品βは効果こそ望めるものの味が最悪でね。",
             "enText": "Ah, yes, this. For what it's worth, on this occasion I was \nactually trying to do you a service. I have high hopes for serum \nbeta's effectiveness, you see, but it tastes quite revolting…",
             "nextBlock": 29,
+            "origClipLength": 341,
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": 7337661284351157372
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4929872376131678219
+                }
+            ],
             "pathId": -1921452719300023946,
             "blockIdx": 28
         },
@@ -329,6 +645,17 @@
             "jpText": "けれど零すだのなんだの気にしながら120ミリリットルを\r\n流し込むより、人類に文明をもたらしたその両の手を使ってくれ。",
             "enText": "Oh well, now that you're awake I won't need to worry about \nspilling these 120ml… Because you can use those precious \nopposable digits of yours to do the job yourself!",
             "nextBlock": 30,
+            "origClipLength": 304,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6297773067920710628
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1412067826725482687
+                }
+            ],
             "pathId": -9143802424942040634,
             "blockIdx": 29
         },
@@ -338,11 +665,18 @@
             "jpText": "無論、当然、その方が私は楽だからね！！",
             "enText": "It certainly makes MY life easier… and that's what counts.",
             "nextBlock": 31,
+            "origClipLength": 134,
             "choices": [
                 {
                     "jpText": "いや、あの――",
                     "enText": "Wait, I… um…",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -934981949688379564
                 }
             ],
             "pathId": -5627466655549488662,
@@ -354,6 +688,17 @@
             "jpText": "どうしたモルモット君？　君が行うべきは\r\n『①薬を受け取る』『②飲み干す』、それのみだが？",
             "enText": "Is there a problem, guinea pig? Your tasks are as follows. One: \nreceive the serum. Two: Drink the serum. Did I miss anything?",
             "nextBlock": 32,
+            "origClipLength": 283,
+            "animData": [
+                {
+                    "origLen": 246,
+                    "pathId": -8971340803355103112
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8144712924331201400
+                }
+            ],
             "pathId": 3544352854816234079,
             "blockIdx": 31
         },
@@ -363,6 +708,13 @@
             "jpText": "ざわざわ……。",
             "enText": "*chattering*",
             "nextBlock": 33,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -4676458864868975309
+                }
+            ],
             "pathId": 215137540046564534,
             "blockIdx": 32
         },
@@ -372,8 +724,10 @@
             "jpText": "その後、薬品βの副作用で青白く発光する大腿部を\r\n遠巻きに見られながら、しばらく生活する羽目になったのだった。",
             "enText": "For some time after, I went about my business… trying my best to \nignore the stares as my thighs glowed blue through my trousers.",
             "nextBlock": -1,
+            "origClipLength": 116,
             "pathId": 1108360623081022331,
             "blockIdx": 33
         }
-    ]
+    ],
+    "modified": 1669933714
 }

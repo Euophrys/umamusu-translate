@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "R47A4O26EO6RASZ2ZYG3FEAVE2JP2DCH",
     "type": "story",
     "storyId": "041002005",
@@ -11,6 +11,7 @@
             "jpText": "昼休みの時間、校内の廊下を歩いていると\nとある教室の中に見知った顔を発見した。",
             "enText": "During lunch break, I was walking in the school hallways when I \nspotted a familiar face in one of the classrooms.",
             "nextBlock": 2,
+            "origClipLength": 62,
             "pathId": 8656465759645417177,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ハートの7は、たしかこの右の方の……。",
             "enText": "The 7 of hearts, if I remember was to the right of this…",
             "nextBlock": 3,
+            "origClipLength": 139,
             "choices": [
                 {
                     "jpText": "何してるんだ？",
@@ -32,6 +34,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 183,
+                    "pathId": -5598891504718111511
+                },
+                {
+                    "origLen": 181,
+                    "pathId": -4454824125665206125
+                }
+            ],
             "pathId": -1286972509541774011,
             "blockIdx": 2
         },
@@ -41,6 +53,17 @@
             "jpText": "あ、トレーナーさん。\n今、神経衰弱をしていたんです。",
             "enText": "Ah, Trainer-san. I'm playing Memory.",
             "nextBlock": 4,
+            "origClipLength": 152,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -1439580825484765199
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -1114733127971406174
+                }
+            ],
             "pathId": 8728903945171550280,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "ここまで順調に進んでて、このままいけばすべてのトランプを……\nあれ……？",
             "enText": "So far, I've been doing well and if this keeps \nup I'll get all the cards… huh…?",
             "nextBlock": 5,
+            "origClipLength": 215,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 3954620196160821913
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 2949456337063428112
+                }
+            ],
             "pathId": 8446800022841917710,
             "blockIdx": 4
         },
@@ -59,6 +93,7 @@
             "jpText": "ああっ、どこに何があったのか忘れちゃった……。",
             "enText": "Aaaah! I forgot where everything was…",
             "nextBlock": 6,
+            "origClipLength": 137,
             "choices": [
                 {
                     "jpText": "邪魔してごめんな……",
@@ -71,6 +106,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -301674050449541249
+                },
+                {
+                    "origLen": 148,
+                    "pathId": -1991982480943666409
+                }
+            ],
             "pathId": 7660167755077547738,
             "blockIdx": 5
         },
@@ -80,6 +125,17 @@
             "jpText": "……いえ、気にしないでください。\r\nやり直すだけなので。",
             "enText": "…No, don't worry. I'll just have to start over.",
             "nextBlock": 7,
+            "origClipLength": 153,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 8649388618602455341
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -1600510453857264873
+                }
+            ],
             "pathId": -205692938417659521,
             "blockIdx": 6
         },
@@ -89,6 +145,17 @@
             "jpText": "そういうと、サイレンススズカは1人で黙々と\nトランプを並べなおし――",
             "enText": "Saying that, Silence Suzuka quietly \nrearranged the cards by herself.",
             "nextBlock": 8,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7695623241108241409
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -2597159019703502779
+                }
+            ],
             "pathId": -7634476282806579868,
             "blockIdx": 7
         },
@@ -98,6 +165,7 @@
             "jpText": "……よし、今度こそ。",
             "enText": "…Alright. This time, for sure.",
             "nextBlock": 9,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "もしかして1人で遊んでるのか？",
@@ -110,6 +178,16 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -4288942568723897313
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -5231779532847004877
+                }
+            ],
             "pathId": 8913201411396161509,
             "blockIdx": 8
         },
@@ -119,6 +197,17 @@
             "jpText": "えっ？　ええ、そうですけど……。\r\n楽しいですよ、1人神経衰弱。",
             "enText": "Eh? Yeah, that's right… It's fun, \nyou know? Playing Memory solo.",
             "nextBlock": 10,
+            "origClipLength": 216,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 8403482603560954629
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -826600202339913538
+                }
+            ],
             "pathId": -6289740209386489003,
             "blockIdx": 9
         },
@@ -128,6 +217,13 @@
             "jpText": "ミスの回数に制限をつけているので、\r\n程よい緊張感も持てますし。",
             "enText": "I limit the number of times I can fail so \nit has just the right amount of tension.",
             "nextBlock": 11,
+            "origClipLength": 159,
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -820295199681768363
+                }
+            ],
             "pathId": -416603092254075678,
             "blockIdx": 10
         },
@@ -137,6 +233,17 @@
             "jpText": "自らにルールを課して遊ぶストイックさが、\r\nいかにもサイレンススズカらしい。",
             "enText": "Imposing her own rules and stoicly playing, \nis very Silence Suzuka-like.",
             "nextBlock": 12,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 7536667456236115971
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 6915399400738772287
+                }
+            ],
             "pathId": -5096791560829636734,
             "blockIdx": 11
         },
@@ -146,11 +253,22 @@
             "jpText": "しかし、せっかく2人いるので――",
             "enText": "But, since there's two of us…",
             "nextBlock": 13,
+            "origClipLength": 32,
             "choices": [
                 {
                     "jpText": "勝負してみようか",
                     "enText": "How about a match?",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -6399963082249863245
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -1269964429755884972
                 }
             ],
             "pathId": -1281710982466665736,
@@ -162,6 +280,17 @@
             "jpText": "勝負……ですか？　それは……えぇと……。",
             "enText": "A match… is it? That's… um…",
             "nextBlock": 14,
+            "origClipLength": 174,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 8198867636114245796
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -8683531752010906746
+                }
+            ],
             "pathId": -8679939579452098757,
             "blockIdx": 13
         },
@@ -171,6 +300,17 @@
             "jpText": "あ……すみません。\r\nちょっと……戸惑ってしまったというか……。",
             "enText": "Ah… sorry. I was… just a little confused…",
             "nextBlock": 15,
+            "origClipLength": 163,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 8014836879808790937
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -9133732773270425177
+                }
+            ],
             "pathId": 6071465209037453699,
             "blockIdx": 14
         },
@@ -180,6 +320,17 @@
             "jpText": "えっと、わかりました。とりあえず……やってみましょうか。\r\nよろしくお願いします。",
             "enText": "Um, understood. For now… let's give \nit a shot. Please go easy on me.",
             "nextBlock": 16,
+            "origClipLength": 302,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -1686676007188157366
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1517497977285435285
+                }
+            ],
             "pathId": -1751693661914396368,
             "blockIdx": 15
         },
@@ -189,6 +340,17 @@
             "jpText": "こうして、サイレンススズカと神経衰弱での勝負が\n始まったのだが――",
             "enText": "And that's how I started a game of \nMemory with Silence Suzuka. But-",
             "nextBlock": 17,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 8963900308001142976
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -7564816828790591625
+                }
+            ],
             "pathId": -3621468906663516070,
             "blockIdx": 16
         },
@@ -198,6 +360,17 @@
             "jpText": "あ……ここじゃなかった。\nはい、トレーナーさんの番です。",
             "enText": "Ah… it wasn't here. Okay, it's your turn, Trainer-san.",
             "nextBlock": 18,
+            "origClipLength": 203,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 4993634037810781785
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -2428407770340746828
+                }
+            ],
             "pathId": 1678617228615691374,
             "blockIdx": 17
         },
@@ -207,6 +380,17 @@
             "jpText": "残されたカードはあとわずか。\n記憶をたどって次々と開いてゆく。",
             "enText": "Only a few cards remained. Using my memory, \none by one, I flipped them.",
             "nextBlock": 19,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -2318180266100921678
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -5771311473793772397
+                }
+            ],
             "pathId": 4395042866900795810,
             "blockIdx": 18
         },
@@ -216,6 +400,17 @@
             "jpText": "ああ……！？",
             "enText": "Ah…!?",
             "nextBlock": 20,
+            "origClipLength": 26,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5170234911552787479
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -76486694042160652
+                }
+            ],
             "pathId": 6387733967375076147,
             "blockIdx": 19
         },
@@ -225,6 +420,17 @@
             "jpText": "えぇ……そこも……！？　いやっ……！\r\nああっ、そこまで……っ！？",
             "enText": "Eh… there too…?! No…! Aaah, even that one…?!",
             "nextBlock": 21,
+            "origClipLength": 184,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -3476093718647553875
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 3030897657565300171
+                }
+            ],
             "pathId": -6086281580426603014,
             "blockIdx": 20
         },
@@ -234,6 +440,13 @@
             "jpText": "カードを揃えるたびに反応を示すサイレンススズカを\r\n尻目に、残りのカードを一気にめくっていった。",
             "enText": "Out of the corner of my eye, I watched Silence Suzuka's every \nreaction as I flipped card after card in one go.",
             "nextBlock": 22,
+            "origClipLength": 74,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 5997658133016284835
+                }
+            ],
             "pathId": -1685071271936127880,
             "blockIdx": 21
         },
@@ -243,6 +456,13 @@
             "jpText": "ああ……狙っていたカードを次々と……。",
             "enText": "Aaah… one after another, the cards I wanted…",
             "nextBlock": 23,
+            "origClipLength": 159,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 956919443064852518
+                }
+            ],
             "pathId": 7455895430869902102,
             "blockIdx": 22
         },
@@ -252,11 +472,18 @@
             "jpText": "ゲームの終盤、記憶したカードを誰にも邪魔されず、\r\n一気にめくっていくのが気持ちいいのに……。",
             "enText": "Deducing the cards at the end of the game and taking them all in \none go is the most satisfying part though…",
             "nextBlock": 24,
+            "origClipLength": 226,
             "choices": [
                 {
                     "jpText": "それがやりたくて1人で遊んでたの？",
                     "enText": "Is that why you were playing alone?",
                     "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -4705002043966662215
                 }
             ],
             "pathId": 3998093705028534437,
@@ -268,6 +495,13 @@
             "jpText": "……はい。",
             "enText": "…Yes.",
             "nextBlock": 25,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -4072639625147361726
+                }
+            ],
             "pathId": -4648142833344491390,
             "blockIdx": 24
         },
@@ -277,6 +511,17 @@
             "jpText": "あ、でも気にしないでください。\r\nトレーナーさんの誘いに乗ったのは私ですから。",
             "enText": "Ah, please don't worry. I was the one that accepted \nTrainer-san's invitation, after all.",
             "nextBlock": 26,
+            "origClipLength": 192,
+            "animData": [
+                {
+                    "origLen": 205,
+                    "pathId": -5646893686373155308
+                },
+                {
+                    "origLen": 197,
+                    "pathId": 518800448381663793
+                }
+            ],
             "pathId": 5850341194056059798,
             "blockIdx": 25
         },
@@ -286,11 +531,22 @@
             "jpText": "どうやら、サイレンススズカの楽しみを\r\n邪魔してしまったらしい……。",
             "enText": "Oops. Looks like I've ruined her fun…",
             "nextBlock": 27,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "（ここはもう立ち去るべきかな……）",
                     "enText": "(Maybe I should leave…)",
                     "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 7924007642176127742
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 4681962709653012938
                 }
             ],
             "pathId": -2020492406359869669,
@@ -302,6 +558,7 @@
             "jpText": "トレーナーさん、どうかなさったんですか？\r\n次のカード、並べちゃいますよ。",
             "enText": "Is something the matter, Trainer-san? \nI'm going to set them up again.",
             "nextBlock": 28,
+            "origClipLength": 202,
             "choices": [
                 {
                     "jpText": "えっ、まだ勝負してくれるのか？",
@@ -314,6 +571,16 @@
                     "nextBlock": 28
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 171,
+                    "pathId": 1924369813648160918
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -7224765573796149683
+                }
+            ],
             "pathId": -711199024083804360,
             "blockIdx": 27
         },
@@ -323,6 +590,13 @@
             "jpText": "ええ。……次は絶対に邪魔させませんから。",
             "enText": "Yeah…Next time I'll win.",
             "nextBlock": 29,
+            "origClipLength": 129,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 8395936112712052674
+                }
+            ],
             "pathId": -2431240154531755681,
             "blockIdx": 28
         },
@@ -332,8 +606,16 @@
             "jpText": "その後、サイレンススズカが満足する勝利を飾るまで、\r\n神経衰弱は続いたのだった。",
             "enText": "After that, we continued playing Memory until Silence \nSuzuka was satisfied with her victories.",
             "nextBlock": -1,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -5338560959854036151
+                }
+            ],
             "pathId": -7741433943260387658,
             "blockIdx": 29
         }
-    ]
+    ],
+    "modified": 1669933629
 }

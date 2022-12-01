@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "NMXZGF4POAX7NOYBNNZZFTRH27YRNP37",
     "type": "story",
     "storyId": "041002007",
@@ -11,6 +11,17 @@
             "jpText": "ウマ娘たちの更なる実力アップのために行われる夏合宿。\nサイレンススズカも実力向上を目指しトレーニングに励んでいた。",
             "enText": "Summer training camp is held for the sake of improving the \nabilities of Uma Musume. Silence Suzuka is also working hard \nwith the same goal in mind.",
             "nextBlock": 2,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -1549384635688448455
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 1630401557931679199
+                }
+            ],
             "pathId": 4991409761782245094,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "合宿も残すところあと数日……。",
             "enText": "There's only a few days left of training camp…",
             "nextBlock": 3,
+            "origClipLength": 87,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 2514407590296567134
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -7418946234001243444
+                }
+            ],
             "pathId": 2666127081753837157,
             "blockIdx": 2
         },
@@ -29,11 +51,30 @@
             "jpText": "トレーニングに集中できる環境なだけに、\n終わってしまうのが名残惜しいです。",
             "enText": "It's unfortunate that we'll be leaving such \na great place to focus on training.",
             "nextBlock": 4,
+            "origClipLength": 176,
             "choices": [
                 {
                     "jpText": "残りの日も悔いなく過ごそう",
                     "enText": "Let's spend the remaining days with no regrets",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 187,
+                    "pathId": -3058281727981302743
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 6163003508979399567
+                },
+                {
+                    "origLen": 187,
+                    "pathId": 2548468013077722270
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3189113575675054022
                 }
             ],
             "pathId": 6734131666644532288,
@@ -45,6 +86,33 @@
             "jpText": "ふふっ、そうですね。",
             "enText": "Fufuu, of course.",
             "nextBlock": 5,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -3727359887708876807
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7547468855677314508
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8984338150914807257
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 3281435154745245015
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -921383310568688376
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4275369951514267328
+                }
+            ],
             "pathId": 4701388034558526188,
             "blockIdx": 4
         },
@@ -54,6 +122,17 @@
             "jpText": "あ……そういえば、トレーナーさん。\r\nトライアスロン大会のことなのですが……。",
             "enText": "Ah… speaking of which, Trainer-san. \nAbout the triathalon competition…",
             "nextBlock": 6,
+            "origClipLength": 199,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 6067752690916197669
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1335806131262348352
+                }
+            ],
             "pathId": -4056821674282140531,
             "blockIdx": 5
         },
@@ -63,6 +142,17 @@
             "jpText": "サイレンススズカが口にしたのは、\r\n夏合宿イベントとして行われるトライアスロン大会のことだった。",
             "enText": "Silence Suzuka is talking about a Triathalon that \nis held as part of the summer training camp.",
             "nextBlock": 7,
+            "origClipLength": 74,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6543151263225885346
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3827683035747794530
+                }
+            ],
             "pathId": 5552847023585447401,
             "blockIdx": 6
         },
@@ -72,6 +162,7 @@
             "jpText": "トライアスロンというだけに、水泳に自転車レース、\r\n最後は長距離走と、かなりスタミナを要する内容になっている。",
             "enText": "A triathalon consists of swimming, bicycling and \na long-distance run at the end. It's something \nthat requires quite a bit of stamina.",
             "nextBlock": 8,
+            "origClipLength": 83,
             "choices": [
                 {
                     "jpText": "確か、スズカは不参加だったよな？",
@@ -84,6 +175,16 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -8991685314409778806
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 3251046608233948892
+                }
+            ],
             "pathId": -3867023642419793018,
             "blockIdx": 7
         },
@@ -93,6 +194,25 @@
             "jpText": "ええ……私は、得意なのも中距離ですし、\r\n“逃げ”しかできませんから、不向きな競技だと思って……。",
             "enText": "Yes… my specialty is medium distance, and the only thing I can \ndo is \"escape\" so I didn't think I was suited for it…",
             "nextBlock": 9,
+            "origClipLength": 251,
+            "animData": [
+                {
+                    "origLen": 262,
+                    "pathId": -5227877053185782391
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 4895515522682623988
+                },
+                {
+                    "origLen": 262,
+                    "pathId": 6299058673952081187
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 7078308495777488152
+                }
+            ],
             "pathId": 4618770098906030685,
             "blockIdx": 8
         },
@@ -102,6 +222,25 @@
             "jpText": "でも……。",
             "enText": "But…",
             "nextBlock": 10,
+            "origClipLength": 34,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -1282649124891471299
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -5446244010296653214
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 1781391679605537108
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -1995923670043173271
+                }
+            ],
             "pathId": -2914014234762987056,
             "blockIdx": 9
         },
@@ -111,6 +250,25 @@
             "jpText": "あの、トレーナーさん。\r\n私、やっぱり出てみてもいいですか？",
             "enText": "Um, Trainer-san. Would it be fine for me to enter?",
             "nextBlock": 11,
+            "origClipLength": 188,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -211184297971244145
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 8149398544343444814
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1586328955304378219
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -92966423177100360
+                }
+            ],
             "pathId": 3470829300257221050,
             "blockIdx": 10
         },
@@ -120,6 +278,7 @@
             "jpText": "“悔いなく過ごす”ために……\r\n試してみたいことがあるんです。",
             "enText": "For the sake of having no regrets… I'd like to give it a try.",
             "nextBlock": 12,
+            "origClipLength": 143,
             "choices": [
                 {
                     "jpText": "なら、精いっぱいサポートするよ",
@@ -132,6 +291,24 @@
                     "nextBlock": 12
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 7909261115059586788
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -257153338115843987
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 2201690232353318546
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -5320227998809842327
+                }
+            ],
             "pathId": 7470957537524835651,
             "blockIdx": 11
         },
@@ -141,6 +318,25 @@
             "jpText": "はい、お願いします。\n私も精いっぱい走りますね。",
             "enText": "Yes, please. I'll also run to the best of my abilities.",
             "nextBlock": 13,
+            "origClipLength": 169,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 7043685542772833810
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6136826481382292679
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -5334593758860004563
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5808888702710792765
+                }
+            ],
             "pathId": -8228310128428638129,
             "blockIdx": 12
         },
@@ -150,6 +346,17 @@
             "jpText": "こうしてサイレンススズカは\nトライアスロン大会への参加を決め、当日――",
             "enText": "And so, Silence Suzuka's participation in the Triathalon was \ndecided. Then, the day of the race-",
             "nextBlock": 14,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 5715158903381014982
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 9053019119017038887
+                }
+            ],
             "pathId": -2881939272053285222,
             "blockIdx": 13
         },
@@ -159,6 +366,17 @@
             "jpText": "参加者、結構いますね……。\r\nトレーニングの一環として出ている子が多いのかしら……。",
             "enText": "There are quite a few participants… I wonder if a lot of them \nare doing this as part of training…",
             "nextBlock": 15,
+            "origClipLength": 243,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 4476741119274087042
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -4940779871433381254
+                }
+            ],
             "pathId": -9192082622486597883,
             "blockIdx": 14
         },
@@ -168,6 +386,7 @@
             "jpText": "……でも、私も同じですから。\r\n終始自分のペースで走るだけです。",
             "enText": "…but, I'm the same. From start to finish, \nI'll just run at my own pace.",
             "nextBlock": 16,
+            "origClipLength": 195,
             "choices": [
                 {
                     "jpText": "大逃げ以外を試してみるのか？",
@@ -180,6 +399,16 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 4313049674293367802
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 5766437890386650577
+                }
+            ],
             "pathId": 8924965676449957165,
             "blockIdx": 15
         },
@@ -189,6 +418,17 @@
             "jpText": "いえ、私は私の走りしかできませんから。",
             "enText": "No, I will run in the only way I can.",
             "nextBlock": 17,
+            "origClipLength": 139,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -425899933268940663
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 2051993457563990976
+                }
+            ],
             "pathId": -5996509781050338579,
             "blockIdx": 16
         },
@@ -198,11 +438,22 @@
             "jpText": "あの、トレーナーさん。\r\n……お願い、聞いてもらえませんか？",
             "enText": "Um, Trainer-san. …will you listen to a request?",
             "nextBlock": 18,
+            "origClipLength": 210,
             "choices": [
                 {
                     "jpText": "お願い？",
                     "enText": "A request?",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 178,
+                    "pathId": 2951594291684259269
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -5728736569275608755
                 }
             ],
             "pathId": 147343833044574940,
@@ -214,6 +465,17 @@
             "jpText": "――ご褒美。用意して、待っていてほしいんです。",
             "enText": "-A reward. I'd like you to prepare one and wait for me.",
             "nextBlock": 19,
+            "origClipLength": 130,
+            "animData": [
+                {
+                    "origLen": 178,
+                    "pathId": 1396518011071517818
+                },
+                {
+                    "origLen": 144,
+                    "pathId": 180820574832970169
+                }
+            ],
             "pathId": 7072618394976535859,
             "blockIdx": 18
         },
@@ -223,11 +485,22 @@
             "jpText": "えっと、そうですね……今夜は、夏祭りだそうですから。\r\n連れて行ってくれる、とか……？",
             "enText": "Um, that's right… Since there's going to be a Summer Festival \ntonight, how about accompanying me…?",
             "nextBlock": 20,
+            "origClipLength": 290,
             "choices": [
                 {
                     "jpText": "屋台でごちそうするよ",
                     "enText": "I'll treat you at a food stall",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 211,
+                    "pathId": -7023066728930839068
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -5846850662707648020
                 }
             ],
             "pathId": -1244906022692816264,
@@ -239,6 +512,17 @@
             "jpText": "ありがとうございます。\r\nでは……行ってきます。",
             "enText": "Thank you very much. Then… I'll be off.",
             "nextBlock": 21,
+            "origClipLength": 148,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 170568223332759735
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 7067083449496803311
+                }
+            ],
             "pathId": 4476375919504247519,
             "blockIdx": 20
         },
@@ -248,6 +532,13 @@
             "jpText": "そしてついに、トライアスロンのスタートが切られた。",
             "enText": "And so, at last, the Triathalon started.",
             "nextBlock": 22,
+            "origClipLength": 44,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6448977509970565730
+                }
+            ],
             "pathId": 440052335499685378,
             "blockIdx": 21
         },
@@ -257,6 +548,7 @@
             "jpText": "さあ、まずは大海原での水泳です！\n穏やかとは言え、波に逆らって泳ぐのは至難の業！",
             "enText": "First up, it's swimming in the open ocean! It may look calm, but \nswimming against the waves is a daunting endeavor!",
             "nextBlock": 23,
+            "origClipLength": 251,
             "pathId": -6058484191747151080,
             "blockIdx": 22
         },
@@ -266,6 +558,7 @@
             "jpText": "おっと、ここで抜け出したのはサイレンススズカさん！\n芝の上だろうが、海の中だろうが先頭を譲りませんっ！",
             "enText": "Oh, the one that pulls ahead here is Silence Suzuka-san! Whether \nit's on the turf, or in the ocean, she won't give up the lead!",
             "nextBlock": 24,
+            "origClipLength": 281,
             "pathId": -1601280807286294317,
             "blockIdx": 23
         },
@@ -275,6 +568,7 @@
             "jpText": "スズカ先輩、すごいっ！",
             "enText": "Suzuka-senpai is awesome!",
             "nextBlock": 25,
+            "origClipLength": 70,
             "pathId": -2092152936305066056,
             "blockIdx": 24
         },
@@ -284,6 +578,7 @@
             "jpText": "でもこれトライアスロンだよ？\n最初からあんなに飛ばしたら、最後までもたないよ。",
             "enText": "But this is a Triathalon though. If she takes off like that at \nthe start, she won't last until the end.",
             "nextBlock": 26,
+            "origClipLength": 169,
             "pathId": -3454294849618488056,
             "blockIdx": 25
         },
@@ -293,6 +588,7 @@
             "jpText": "そんな心配をよそにサイレンススズカは\n水泳と自転車レースで2位以下をぐんぐん引き離していく。",
             "enText": "Despite those concerns, during the swimming and cycling portions \nof the race, Silence Suzuka pulled farther ahead.",
             "nextBlock": 27,
+            "origClipLength": 72,
             "pathId": 6043379847809047025,
             "blockIdx": 26
         },
@@ -302,6 +598,7 @@
             "jpText": "しかし、最後の長距離走――",
             "enText": "However, the long distance run at the end-",
             "nextBlock": 28,
+            "origClipLength": 28,
             "pathId": 5147010809975566633,
             "blockIdx": 27
         },
@@ -311,6 +608,13 @@
             "jpText": "いよいよトライアスロンも大詰め！\n先頭は依然としてサイレンススズカさん！",
             "enText": "We're finally at the Triathalon's finale! \nSilence Suzuka-san is still in the lead!",
             "nextBlock": 29,
+            "origClipLength": 197,
+            "animData": [
+                {
+                    "origLen": 246,
+                    "pathId": 783742662460333660
+                }
+            ],
             "pathId": 7932510305159564071,
             "blockIdx": 28
         },
@@ -320,6 +624,7 @@
             "jpText": "だがしかしっ！　飛ばしに飛ばしてきたことで\n大きくペースダウン！　後続はすぐ後ろまできているぅ～！",
             "enText": "However! Since she's been running full speed until now, she's \ngreatly slowed down! The followers are catching up!",
             "nextBlock": 30,
+            "origClipLength": 295,
             "pathId": -2010593485932725194,
             "blockIdx": 29
         },
@@ -329,6 +634,7 @@
             "jpText": "……はあっ……はあっ……くっ……！",
             "enText": "…Haa… haa… ku…!",
             "nextBlock": 31,
+            "origClipLength": 88,
             "pathId": -3788185655368736410,
             "blockIdx": 30
         },
@@ -338,6 +644,7 @@
             "jpText": "サイレンススズカの姿は、ゴールのあるここからでも\r\n確認できる場所まで来ているのだが――",
             "enText": "From the goal, I can see Silence Suzuka's form approaching, but-",
             "nextBlock": 32,
+            "origClipLength": 69,
             "pathId": -3865505157699067905,
             "blockIdx": 31
         },
@@ -347,6 +654,7 @@
             "jpText": "やっぱりもう体力が残ってないみたい……。",
             "enText": "As I thought, she must not have enough stamina left…",
             "nextBlock": 33,
+            "origClipLength": 98,
             "pathId": -6721395915454839418,
             "blockIdx": 32
         },
@@ -356,6 +664,7 @@
             "jpText": "ねえ、声が届くかもしれないし、応援しよう！\nがんばれスズカせんぱーいっ！",
             "enText": "Hey, our voices might reach her from here, let's \ncheer her on! You can do it, Suzuka-senpai!",
             "nextBlock": 34,
+            "origClipLength": 209,
             "pathId": -6824548761361946611,
             "blockIdx": 33
         },
@@ -365,6 +674,7 @@
             "jpText": "このトライアスロンはトレーニングの一環であり、\n半ばイベントのようなもの――それでもやっぱり……。",
             "enText": "This Triathalon is just a part of training, \nan unimportant event- but still…",
             "nextBlock": 35,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "スズカ、頑張れーっ！！！！",
@@ -381,6 +691,7 @@
             "jpText": "声が届くかはわからないが、\r\n思い切り声をあげて応援した。",
             "enText": "I didn't know if my voice would reach her, \nbut I still cheered as loud as I could.",
             "nextBlock": 36,
+            "origClipLength": 49,
             "pathId": 8527910011182652871,
             "blockIdx": 35
         },
@@ -390,6 +701,7 @@
             "jpText": "……っ！！",
             "enText": "…!!",
             "nextBlock": 37,
+            "origClipLength": 31,
             "pathId": 8132317336320208648,
             "blockIdx": 36
         },
@@ -399,6 +711,7 @@
             "jpText": "この景色……誰にも譲らないっ！",
             "enText": "This scenery…I won't yield it to anyone!",
             "nextBlock": 38,
+            "origClipLength": 113,
             "pathId": 3151295762921316177,
             "blockIdx": 37
         },
@@ -408,6 +721,7 @@
             "jpText": "おおっと！　ここでサイレンススズカさんが\n再びスピードを上げるっ！",
             "enText": "Oh! Silence Suzuka-san once again increases her speed!",
             "nextBlock": 39,
+            "origClipLength": 190,
             "pathId": -2931723003200643762,
             "blockIdx": 38
         },
@@ -417,6 +731,7 @@
             "jpText": "後続もスパートをかけるが追いつけないっ！\r\nまさに逃げて差す走りっぷり！",
             "enText": "The others can't catch up! She's completely running away!",
             "nextBlock": 40,
+            "origClipLength": 207,
             "pathId": 6417584207790688248,
             "blockIdx": 39
         },
@@ -426,6 +741,17 @@
             "jpText": "そのまま先頭を守り抜いて、今――ゴールっ！\nトライアスロン大会の勝者はサイレンススズカさんです！",
             "enText": "And just like that she keeps her lead, now - GOAL! The \nTriathalon's winner is Silence Suzuka-san!",
             "nextBlock": 41,
+            "origClipLength": 343,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 7475967896727277201
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1757079865131143872
+                }
+            ],
             "pathId": -3568886639825956927,
             "blockIdx": 40
         },
@@ -435,6 +761,17 @@
             "jpText": "（ワアアアアア～～～～ッ！！）",
             "enText": "(WHOOOOOOOOOA!!!)",
             "nextBlock": 42,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -8219140731125200714
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -8023649347440614113
+                }
+            ],
             "pathId": 3887004160869971425,
             "blockIdx": 41
         },
@@ -444,6 +781,7 @@
             "jpText": "かき氷、ごちそうさまでした。\r\n思い切り体を動かした後だけあって格別ですね。",
             "enText": "The shaved ice was delicious. It tastes so much \nbetter after moving my body to the fullest.",
             "nextBlock": 43,
+            "origClipLength": 240,
             "choices": [
                 {
                     "jpText": "1着だったから、なおさらな",
@@ -456,6 +794,24 @@
                     "nextBlock": 43
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 3955519377830254031
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -3875091830673069604
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -8996750364716915665
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 1352025552059124974
+                }
+            ],
             "pathId": 2096377469479672506,
             "blockIdx": 42
         },
@@ -465,6 +821,17 @@
             "jpText": "たとえトライアスロンであっても、先頭の景色は譲りたくない……。\r\nでもそれは困難なことだから、出場するつもりはなかったんです。",
             "enText": "Even if it was a Triathalon, I still didn't want to give the lead \nto anyone… But since that's such a difficult thing to do, I \nwasn't planning on entering.",
             "nextBlock": 44,
+            "origClipLength": 368,
+            "animData": [
+                {
+                    "origLen": 346,
+                    "pathId": 98301165700455809
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -1144704402295139252
+                }
+            ],
             "pathId": -1092825486248692568,
             "blockIdx": 43
         },
@@ -474,6 +841,17 @@
             "jpText": "だけど、前の交流イベントのように難しく考えず、シンプルに、\r\n私の走りをすればいいんじゃないかって……そんなふうに思えて。",
             "enText": "But, just like the Meetup event, instead of thinking \ntoo hard about it, why not just simply run the way \nI want… that's what I was thinking.",
             "nextBlock": 45,
+            "origClipLength": 383,
+            "animData": [
+                {
+                    "origLen": 321,
+                    "pathId": -4142455122605379367
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8897221553050107996
+                }
+            ],
             "pathId": -5465983255792616905,
             "blockIdx": 44
         },
@@ -483,6 +861,7 @@
             "jpText": "トレーナーさんのおかげで、\r\nこうした考え方もできるようになったんだと思います。",
             "enText": "The reason I'm able to think like this, \nis because of you, Trainer-san.",
             "nextBlock": 46,
+            "origClipLength": 166,
             "choices": [
                 {
                     "jpText": "出場してみて正解だったな",
@@ -495,6 +874,16 @@
                     "nextBlock": 46
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -7125235974249022437
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 6850130052303072406
+                }
+            ],
             "pathId": 2744624247809716235,
             "blockIdx": 45
         },
@@ -504,6 +893,21 @@
             "jpText": "はい。\r\n……それと、もう1つ見つけたことがあるんです。",
             "enText": "Yes…Also, I've figured one more thing out.",
             "nextBlock": 47,
+            "origClipLength": 190,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 6713385817803068485
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3355777587103793546
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3529257836693013584
+                }
+            ],
             "pathId": -1493397456807981491,
             "blockIdx": 46
         },
@@ -513,6 +917,21 @@
             "jpText": "私は、静かで風の音と心臓の鼓動だけが聞こえる\r\n私1人だけの世界……それが何よりも大切な景色でした。",
             "enText": "A place so quiet that I could only hear the wind \nand my beating heart, a world just for me… that \nwas the most important scenery to me.",
             "nextBlock": 48,
+            "origClipLength": 390,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 2588920471250920457
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 4455696080953287729
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6855443637591042947
+                }
+            ],
             "pathId": -8304290196800982355,
             "blockIdx": 47
         },
@@ -522,6 +941,17 @@
             "jpText": "……でも、それが少しだけ変わったんです。",
             "enText": "…however, that's changed just a little bit.",
             "nextBlock": 49,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 3419354600954447172
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -723552160482021543
+                }
+            ],
             "pathId": -2428275434551680671,
             "blockIdx": 48
         },
@@ -531,6 +961,17 @@
             "jpText": "周りには誰もいない、\r\n開けた視界の先にトレーナーさんがいる――",
             "enText": "With nobody else around, the only thing \nI see infront of me is Trainer-san",
             "nextBlock": 50,
+            "origClipLength": 162,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -8135824154951319120
+                },
+                {
+                    "origLen": 168,
+                    "pathId": 1350939692993592825
+                }
+            ],
             "pathId": -1090576539552775456,
             "blockIdx": 49
         },
@@ -540,6 +981,7 @@
             "jpText": "その景色が、私に最後の力を出させてくれたんです。",
             "enText": "At the end, that was the scenery that pulled me forward.",
             "nextBlock": 51,
+            "origClipLength": 145,
             "choices": [
                 {
                     "jpText": "これからもゴールで待ってるぞ",
@@ -552,6 +994,16 @@
                     "nextBlock": 51
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": 4166816445265954547
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2270446740550207249
+                }
+            ],
             "pathId": -5489385012882349374,
             "blockIdx": 50
         },
@@ -561,6 +1013,17 @@
             "jpText": "ふふっ、ありがとうございます。",
             "enText": "Fufuu, Thank you very much.",
             "nextBlock": 52,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -1434844406178753637
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -7771595893401541079
+                }
+            ],
             "pathId": -6349297987132662173,
             "blockIdx": 51
         },
@@ -570,6 +1033,17 @@
             "jpText": "どんなレースでも、\n必ず先頭でトレーナーさんの元に帰ってきますから。",
             "enText": "No matter the race, I will definitely lead \nand return to Trainer-san's side.",
             "nextBlock": 53,
+            "origClipLength": 193,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -1442595510763941175
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5066863657675146133
+                }
+            ],
             "pathId": -8875297051739769856,
             "blockIdx": 52
         },
@@ -579,8 +1053,20 @@
             "jpText": "この合宿を通じて、実力向上にとどまらず\n気持ちの面でも成長することのできたサイレンススズカだった。",
             "enText": "Throughout this training camp, Silence Suzuka \nhad not only improved her abilities, but had also \ngrown enough to express her feelings.",
             "nextBlock": -1,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 8464265781469806469
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 8395352857083022497
+                }
+            ],
             "pathId": -9167919855811266010,
             "blockIdx": 53
         }
-    ]
+    ],
+    "modified": 1669933630
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "Z27LGGLGKIPL5U2C4WBGSUBRFWJJ4AUK",
     "type": "story",
     "storyId": "041026007",
@@ -11,6 +11,13 @@
             "jpText": "今夜、花火大会に行きませんか？",
             "enText": "Would you like to go to the \nfireworks display tonight?",
             "nextBlock": 2,
+            "origClipLength": 87,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -9146551419531601529
+                }
+            ],
             "pathId": 1743900900668141901,
             "blockIdx": 1
         },
@@ -20,11 +27,18 @@
             "jpText": "夏合宿も半ばに差し掛かった、ある日の昼下がり。\r\nやや緊張した面持ちで、ミホノブルボンにそう誘われた。",
             "enText": "It was late afternoon one day, halfway through \nthe summer training camp. A somewhat nervous looking \nMihono Bourbon asked me to join her.",
             "nextBlock": 3,
+            "origClipLength": 111,
             "choices": [
                 {
                     "jpText": "も、もちろん！",
                     "enText": "Of course!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 3787422850336200431
                 }
             ],
             "pathId": 8392492924632112466,
@@ -36,6 +50,17 @@
             "jpText": "自発的になにか提案することは滅多にない。\r\n二つ返事で誘いに応じ、その日の夜、花火大会へと足を運んだ。",
             "enText": "It is not often that she voluntarily proposes something. I \naccepted the invitation without a second thought, and that \nnight, I made my way to the fireworks display.",
             "nextBlock": 4,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -1493223919582706615
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -8475441986334428755
+                }
+            ],
             "pathId": -3480184003465911375,
             "blockIdx": 3
         },
@@ -45,6 +70,21 @@
             "jpText": "事前情報によると、来場客は平均7万人、露店数は約90店舗。\r\nうち、遊戯の種類は9パターンです。",
             "enText": "According to preliminary information, the average number of \nvisitors is 70,000 and the number of stalls is about 90. Among \nthem, there are 9 patterns of games.",
             "nextBlock": 5,
+            "origClipLength": 298,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 546217713595019739
+                },
+                {
+                    "origLen": 393,
+                    "pathId": 8536876608611237048
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8282864075252617862
+                }
+            ],
             "pathId": 2247406671872859033,
             "blockIdx": 4
         },
@@ -54,6 +94,17 @@
             "jpText": "射的、かたぬき、金魚すくい、ヨーヨー釣り、輪投げ、くじ引き、\r\n千本つり、パンチボックス、すいか割り、どれにしますか？",
             "enText": "Target shooting, katanuki, goldfish scooping, yo-yo fishing, \nring toss, raffle, senbon-zuri, punch box, watermelon splitting, \nwhich one do you want?",
             "nextBlock": 6,
+            "origClipLength": 351,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -4467115914633147789
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -8975459318124031028
+                }
+            ],
             "pathId": -2880247710655290901,
             "blockIdx": 5
         },
@@ -63,6 +114,7 @@
             "jpText": "誘ってきたことといい、事前の下調べといい、今の提案といい……\r\n受け身のミホノブルボンにしては驚くほどやる気に満ち溢れている。",
             "enText": "The invitation, the preliminary research, and \nnow the proposal… are all surprisingly \nmotivating for the passive Michonobourbon.",
             "nextBlock": 7,
+            "origClipLength": 127,
             "choices": [
                 {
                     "jpText": "お祭り、好きなんだな",
@@ -75,6 +127,12 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": -3738932533582299914
+                }
+            ],
             "pathId": 949127172850324230,
             "blockIdx": 6
         },
@@ -84,11 +142,22 @@
             "jpText": "いえ、『好き』ではありません。\r\n『嫌い』でもありませんが、あえて言うなら『普通』です。",
             "enText": "No, I don't \"like\" it. No, I don't \n\"like\" it, I don't \"hate\" it, but \nI dare say it's \"normal\".",
             "nextBlock": 8,
+            "origClipLength": 212,
             "choices": [
                 {
                     "jpText": "じゃあ、今日はどうして？",
                     "enText": "Then why today?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -7264097414789294315
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 8424193311641678069
                 }
             ],
             "pathId": -1017676011739671723,
@@ -100,11 +169,22 @@
             "jpText": "…………。\r\n『マスターと一緒に楽しい時間を過ごし、交流を深めるため』です。",
             "enText": "… The purpose is to have \na good time with the Master and to \ndeepen our relationship.",
             "nextBlock": 9,
+            "origClipLength": 266,
             "choices": [
                 {
                     "jpText": "……？",
                     "enText": "…?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 185,
+                    "pathId": -3148883966761219927
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 219461942474160104
                 }
             ],
             "pathId": 3958797410076985969,
@@ -116,6 +196,17 @@
             "jpText": "その…………、\r\n私は今まで大抵の交流を『無意味』と認識していました。",
             "enText": "Its… and I've always perceived \nmost interactions as 'pointless'.",
             "nextBlock": 10,
+            "origClipLength": 207,
+            "animData": [
+                {
+                    "origLen": 218,
+                    "pathId": -6383407398040427741
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -9158309157643953822
+                }
+            ],
             "pathId": -8874690265385128689,
             "blockIdx": 9
         },
@@ -125,6 +216,17 @@
             "jpText": "しかし……その認識は誤り、かもしれません。",
             "enText": "However… may be wrong \nin its perception.",
             "nextBlock": 11,
+            "origClipLength": 152,
+            "animData": [
+                {
+                    "origLen": 187,
+                    "pathId": 3982430088417481453
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -7944245728352600098
+                }
+            ],
             "pathId": 653989455860105011,
             "blockIdx": 10
         },
@@ -134,11 +236,22 @@
             "jpText": "珍しく、どこかフワフワした物言いで話すミホノブルボン。\r\nおもむろに、ポケットに入った小さな人形の頭をちらっと見せた。",
             "enText": "Mihono Bourbon spoke in a rare, somewhat \nfluffy manner. She glanced at the small doll's \nhead in her pocket.",
             "nextBlock": 12,
+            "origClipLength": 121,
             "choices": [
                 {
                     "jpText": "それって……",
                     "enText": "That's…",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 5154209933887098572
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 6143987448251892635
                 }
             ],
             "pathId": 5533108431935841226,
@@ -150,6 +263,7 @@
             "jpText": "先日、ゲームセンターで獲得したうさぎの人形だった。",
             "enText": "It was a rabbit doll that I won at \na game center the other day.",
             "nextBlock": 13,
+            "origClipLength": 77,
             "pathId": 3227082360422211633,
             "blockIdx": 12
         },
@@ -159,6 +273,17 @@
             "jpText": "『楽しい』――これはその感覚を想起させます。",
             "enText": "Fun\" - that's what it reminds me of.",
             "nextBlock": 14,
+            "origClipLength": 139,
+            "animData": [
+                {
+                    "origLen": 163,
+                    "pathId": 4654823861655804120
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 5303708893951588641
+                }
+            ],
             "pathId": -1898621882791614602,
             "blockIdx": 13
         },
@@ -168,6 +293,17 @@
             "jpText": "トレーニング中、勉学中、意欲が上昇しました。\r\n思わぬ効果がこの人形にはあり――",
             "enText": "Motivation increased during training \nand study. There are unexpected \neffects of this doll—",
             "nextBlock": 15,
+            "origClipLength": 255,
+            "animData": [
+                {
+                    "origLen": 225,
+                    "pathId": -7447757880102486228
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8773055030874523863
+                }
+            ],
             "pathId": -7800829320359089907,
             "blockIdx": 14
         },
@@ -177,11 +313,22 @@
             "jpText": "――ですから交流を経て生まれた『楽しい』には\r\n確かに『意味』が……あるのかと。",
             "enText": "— so I thought that the \"fun\" that came \nabout through the interaction would certainly \nhave a \"meaning\"…",
             "nextBlock": 16,
+            "origClipLength": 215,
             "choices": [
                 {
                     "jpText": "……！",
                     "enText": "…!",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": 7792040886074281350
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -3810674805929169546
                 }
             ],
             "pathId": -3393789134506831998,
@@ -193,6 +340,17 @@
             "jpText": "……つまり、両親が私にオーダーしたことは――",
             "enText": "… So, what my parents \nordered me to do was—",
             "nextBlock": 17,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -4744785276004385894
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 1420351781253368627
+                }
+            ],
             "pathId": 2970792380735887082,
             "blockIdx": 16
         },
@@ -202,6 +360,17 @@
             "jpText": "『社会性の向上』ではなく、恐らくもう少し、\r\n……その……柔らかなもの、なのです。",
             "enText": "It's not \"socialization,\" but perhaps \nsomething a little more… soft.",
             "nextBlock": 18,
+            "origClipLength": 312,
+            "animData": [
+                {
+                    "origLen": 190,
+                    "pathId": -68769268876748186
+                },
+                {
+                    "origLen": 143,
+                    "pathId": 2658350530423322315
+                }
+            ],
             "pathId": -9201200524928489881,
             "blockIdx": 17
         },
@@ -211,11 +380,22 @@
             "jpText": "たどたどしくはあるが、経験をパズルのように組み立て、\r\n自力で理解してみせた。圧巻の成長ぶりに言葉が詰まる。",
             "enText": "Although she was not very good at it, she was able to put the \nexperience together like a puzzle and understand it on her own. \nI am at a loss for words to describe her amazing growth.",
             "nextBlock": 19,
+            "origClipLength": 115,
             "choices": [
                 {
                     "jpText": "……今日は、たくさん遊ぼう！",
                     "enText": "… Let's have lots of fun today!",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1014190656436451557
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 445412243832346065
                 }
             ],
             "pathId": 1938264810530362946,
@@ -227,6 +407,13 @@
             "jpText": "今の自分にできることをひねり出し、\r\n戸惑うミホノブルボンを連れて、賑わう大通りへと向かった。",
             "enText": "I thought of what I could do, and with a \nbewildered Mihono Bourbon in tow, I headed \nfor the busy main street.",
             "nextBlock": 20,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -1304086831430118170
+                }
+            ],
             "pathId": 6302641872690916662,
             "blockIdx": 19
         },
@@ -236,6 +423,17 @@
             "jpText": "銃口、5度下へ下げてください。\r\n通り過ぎました、もう少し上――そこです。",
             "enText": "Muzzle down five degrees. I'm past \nit, just a little higher— there.",
             "nextBlock": 21,
+            "origClipLength": 233,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -7915669221464450912
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -672826863275529267
+                }
+            ],
             "pathId": -856243035419495718,
             "blockIdx": 20
         },
@@ -245,6 +443,13 @@
             "jpText": "（パンッ）",
             "enText": "(PANTING)",
             "nextBlock": 22,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -4372584261173352418
+                }
+            ],
             "pathId": -3977371288420625447,
             "blockIdx": 21
         },
@@ -254,11 +459,19 @@
             "jpText": "おお～、大当たり！\r\n上手いねぇ、お兄さん！",
             "enText": "Oh, you hit the jackpot! You're \ngood, big brother!",
             "nextBlock": 23,
+            "origClipLength": 145,
             "choices": [
                 {
                     "jpText": "指示が的確なんです",
                     "enText": "Her instructions are precise.",
                     "nextBlock": 24
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 183,
+                    "pathId": 3794160231870091587
                 }
             ],
             "pathId": -5694497313936591168,
@@ -270,11 +483,19 @@
             "jpText": "おお～、大当たり！\r\n上手いねぇ、お姉さん！",
             "enText": "Oh, you hit the jackpot! You're good, sister!",
             "nextBlock": 24,
+            "origClipLength": 151,
             "choices": [
                 {
                     "jpText": "指示が的確なんです",
                     "enText": "Her instructions are precise.",
                     "nextBlock": 24
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 162,
+                    "pathId": -2177712979988431117
                 }
             ],
             "pathId": 5022530538646734956,
@@ -286,6 +507,17 @@
             "jpText": "はっはっはっは！　そうかい！　いいコンビじゃないか！\r\nほら、ウマ娘のお姉ちゃん景品だ、持って帰りな！",
             "enText": "Ha-ha-ha-ha! Yeah! You guys make \na great team! Here's your sister's \nprize, take it home!",
             "nextBlock": 25,
+            "origClipLength": 285,
+            "animData": [
+                {
+                    "origLen": 341,
+                    "pathId": 8222563920803757504
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4371298218642144746
+                }
+            ],
             "pathId": 1950027943213718287,
             "blockIdx": 24
         },
@@ -295,6 +527,17 @@
             "jpText": "……。\r\nありがとうございます。",
             "enText": "… Thank you.",
             "nextBlock": 26,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 8238367445318727667
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -2155172940348223474
+                }
+            ],
             "pathId": -6863443130318409487,
             "blockIdx": 25
         },
@@ -304,6 +547,13 @@
             "jpText": "夜は短い。かたぬき、輪投げ、くじ引きと、存分に祭りを\r\n楽むうち、あっという間に夜は更け――",
             "enText": "The night was short. As I enjoyed the festival to \nthe fullest, with katakanauki, ring toss, and raffle, \nthe night passed in the blink of an eye.",
             "nextBlock": 27,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -1489985375714586023
+                }
+            ],
             "pathId": 2736268421280171802,
             "blockIdx": 26
         },
@@ -313,6 +563,17 @@
             "jpText": "そろそろ花火大会が始まります。\r\n花火の見える位置へ移動するべきかと。",
             "enText": "The fireworks display is about to start. I \nthought we should move to a position where we \ncan see the fireworks.",
             "nextBlock": 28,
+            "origClipLength": 168,
+            "animData": [
+                {
+                    "origLen": 279,
+                    "pathId": -4487383062243549260
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 7325041208163622992
+                }
+            ],
             "pathId": -2899965329042637356,
             "blockIdx": 27
         },
@@ -322,6 +583,17 @@
             "jpText": "あれ、ブルボンさん！？",
             "enText": "Oh, hey, Ms. Bourbon!",
             "nextBlock": 29,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -4119656688758876333
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3649094122582981199
+                }
+            ],
             "pathId": 3174863887996542494,
             "blockIdx": 28
         },
@@ -331,6 +603,13 @@
             "jpText": "以前、グラウンドでミホノブルボンに話しかけていた\r\nウマ娘と鉢合わせた。",
             "enText": "I ran into Uma Musume, who had been talking \nto Mihonobourbon on the ground earlier.",
             "nextBlock": 30,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4651068827816707311
+                }
+            ],
             "pathId": -3830550897832987360,
             "blockIdx": 29
         },
@@ -340,6 +619,21 @@
             "jpText": "トレーニングの休憩中に、そのような声かけをしたということは、\r\nなにか意味があるのではと推測します。",
             "enText": "The fact that she called out to her during a \nbreak in training suggests that she meant \nsomething by it.",
             "nextBlock": 31,
+            "origClipLength": 210,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -6914820230641476402
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 8256346153005294952
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -5121378334422261612
+                }
+            ],
             "pathId": -8294592393068589914,
             "blockIdx": 30
         },
@@ -349,6 +643,13 @@
             "jpText": "ごめん、大した意味なんかなくて、ただ話してみたくて……！\r\nせっかくの休憩中にお邪魔しちゃってごめんね！　それじゃ！",
             "enText": "Sorry, I didn't mean much, I just wanted to \ntalk to you…! Sorry to bother you \nduring your break! Bye!",
             "nextBlock": 32,
+            "origClipLength": 303,
+            "animData": [
+                {
+                    "origLen": 322,
+                    "pathId": -7075498119356014176
+                }
+            ],
             "pathId": -4322616121485581154,
             "blockIdx": 31
         },
@@ -358,6 +659,17 @@
             "jpText": "わあ、ブルボンさんもお祭りとか来るんだ……じゃなくて！\r\nリリ、リフレッシュ中に、ごめんなさい！　びっくりしちゃって。",
             "enText": "Wow, Ms. Bourbon comes to festivals and stuff \ntoo, not…! Lili, I'm sorry to bother you while \nyou were freshening up! You startled me.",
             "nextBlock": 33,
+            "origClipLength": 269,
+            "animData": [
+                {
+                    "origLen": 325,
+                    "pathId": 5441374317368549956
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 6963374619428078435
+                }
+            ],
             "pathId": 4165796758532264234,
             "blockIdx": 32
         },
@@ -367,6 +679,17 @@
             "jpText": "いえ、問題ありません。\r\n……あなたも、花火を見に来たんですか？",
             "enText": "No, no problem… Are you here \nto see the fireworks, too?",
             "nextBlock": 34,
+            "origClipLength": 192,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 2514862593434121288
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -9093642999396242885
+                }
+            ],
             "pathId": -5816262175580585248,
             "blockIdx": 33
         },
@@ -376,6 +699,17 @@
             "jpText": "この花火大会は、三尺玉が目玉の花火になっています。\r\n私は、それを『楽しみ』にしています。",
             "enText": "This fireworks display features a three-foot \ndrop as the main feature of the fireworks. \nI'm looking forward to it.",
             "nextBlock": 35,
+            "origClipLength": 235,
+            "animData": [
+                {
+                    "origLen": 184,
+                    "pathId": -159964650823767633
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1607473074764183523
+                }
+            ],
             "pathId": -9047060465800049975,
             "blockIdx": 34
         },
@@ -385,6 +719,13 @@
             "jpText": "えっと、それってどういう……意味……？",
             "enText": "Well, what does that… mean…?",
             "nextBlock": 36,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -5813853483993810935
+                }
+            ],
             "pathId": -6937034149024145434,
             "blockIdx": 35
         },
@@ -394,6 +735,17 @@
             "jpText": "……意味は、特にありません。",
             "enText": "There is no specific… meaning.",
             "nextBlock": 37,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -8525983327806618374
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -3845556227420020386
+                }
+            ],
             "pathId": -5956345886330782607,
             "blockIdx": 36
         },
@@ -403,6 +755,13 @@
             "jpText": "――へ？",
             "enText": "—to?",
             "nextBlock": 38,
+            "origClipLength": 26,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 5388069644934524811
+                }
+            ],
             "pathId": 6500352877454356704,
             "blockIdx": 37
         },
@@ -412,6 +771,13 @@
             "jpText": "突然飛び出たミホノブルボンの言葉に、\r\n彼女は目を白黒させた。よほど意外だったのだろう。",
             "enText": "The sudden outburst of Mihono Bourbon's words \ncaused her eyes to go black. It must have \nbeen quite a surprise.",
             "nextBlock": 39,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -5321079660562331475
+                }
+            ],
             "pathId": -3496069988935881270,
             "blockIdx": 38
         },
@@ -421,11 +787,18 @@
             "jpText": "とはいえ以前と比べて、ミホノブルボンは確かに成長している。\r\n他者と『楽しい』時間を過ごそうとしている。それならば――",
             "enText": "However, compared to before, Mihono Bourbon is \ncertainly growing up. She's trying to have a 'good' \ntime with others. If that's the case—",
             "nextBlock": 40,
+            "origClipLength": 121,
             "choices": [
                 {
                     "jpText": "一緒に遊んでおいで",
                     "enText": "Come play with me.",
                     "nextBlock": 40
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -1928934550850553698
                 }
             ],
             "pathId": 6914151960133438457,
@@ -437,11 +810,18 @@
             "jpText": "……しかし――",
             "enText": "… but—",
             "nextBlock": 41,
+            "origClipLength": 36,
             "choices": [
                 {
                     "jpText": "きっと『楽しい』から",
                     "enText": "Because it's fun.",
                     "nextBlock": 41
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -2878780267105221091
                 }
             ],
             "pathId": -6620340808500809471,
@@ -453,6 +833,17 @@
             "jpText": "……命令を受理しました。",
             "enText": "… order has been accepted.",
             "nextBlock": 42,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 5192090549045373891
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 5060805022727915472
+                }
+            ],
             "pathId": -4849360696200775386,
             "blockIdx": 41
         },
@@ -462,6 +853,17 @@
             "jpText": "ミホノブルボンは、まっすぐに彼女を見た。",
             "enText": "Mihono Bourbon looked straight at her.",
             "nextBlock": 43,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -6215207467548743151
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7022194981684273517
+                }
+            ],
             "pathId": -3981396040110055425,
             "blockIdx": 42
         },
@@ -471,6 +873,17 @@
             "jpText": "もしよろしければ……私と一緒に花火を見ませんか？",
             "enText": "If you'd like to join me… you can \nwatch the fireworks with me.",
             "nextBlock": 44,
+            "origClipLength": 149,
+            "animData": [
+                {
+                    "origLen": 203,
+                    "pathId": 4884290616612919351
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1303034753076058112
+                }
+            ],
             "pathId": -5185071335651342519,
             "blockIdx": 43
         },
@@ -480,6 +893,13 @@
             "jpText": "（ヒュルル……ドーン）",
             "enText": "(hurrah… dawn)",
             "nextBlock": 45,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -2188864352113118396
+                }
+            ],
             "pathId": 8397271179793330432,
             "blockIdx": 44
         },
@@ -489,6 +909,17 @@
             "jpText": "はぁ～！　やっぱり花火って、すごいなぁ～！\r\n1人でも、勇気出して見に来てよかったなぁ。",
             "enText": "Huh! Fireworks are amazing after all! I'm \nglad I had the courage to come and see them, \neven if I was alone.",
             "nextBlock": 46,
+            "origClipLength": 218,
+            "animData": [
+                {
+                    "origLen": 317,
+                    "pathId": 8892679883762282817
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 8094608572773562947
+                }
+            ],
             "pathId": 2202834340525452061,
             "blockIdx": 45
         },
@@ -498,6 +929,17 @@
             "jpText": "ブルボンさんにも会えちゃったし、一緒に花火も――\r\nってごめん、またどうでもいい事ばっかり。えーっと～……。",
             "enText": "I got to meet Bourbon, and we got to watch \nfireworks together… sorry, more unimportant \nstuff. Let's see…",
             "nextBlock": 47,
+            "origClipLength": 274,
+            "animData": [
+                {
+                    "origLen": 211,
+                    "pathId": 4412247653377177085
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5165255667059131154
+                }
+            ],
             "pathId": -5971056417311892133,
             "blockIdx": 46
         },
@@ -507,6 +949,17 @@
             "jpText": "……あなたは、花火が、好きなんですか？",
             "enText": "… Do you like fireworks?",
             "nextBlock": 48,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 211,
+                    "pathId": 4008629591620572763
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -8860553193488162080
+                }
+            ],
             "pathId": -5380306920861260903,
             "blockIdx": 47
         },
@@ -516,6 +969,13 @@
             "jpText": "うん、好き！　大きくて、キラキラしてて、勇気をくれるから！\r\n花火でも何でも、自分にないものを持ってるのはみんな大好き！",
             "enText": "Yeah, I like it! Because they're big, they sparkle, and they \ngive me courage! I love everyone who has something that I don't, \nbe it fireworks or whatever!",
             "nextBlock": 49,
+            "origClipLength": 311,
+            "animData": [
+                {
+                    "origLen": 406,
+                    "pathId": 374756249476451457
+                }
+            ],
             "pathId": 4223683864855118820,
             "blockIdx": 48
         },
@@ -525,6 +985,13 @@
             "jpText": "……だから、って言ったら言い訳だけど、時々距離感を間違えて\r\n突撃しちゃったりするの。……ごめんね、ブルボンさん。",
             "enText": "I know it's an excuse to say that I'm a… but sometimes I get \nthe distance wrong and charge in. I'm… sorry, Bourbon.",
             "nextBlock": 50,
+            "origClipLength": 292,
+            "animData": [
+                {
+                    "origLen": 275,
+                    "pathId": -6518772909570090609
+                }
+            ],
             "pathId": 2566950610588250616,
             "blockIdx": 49
         },
@@ -534,6 +1001,13 @@
             "jpText": "なるほど、理解しました。\r\n距離感の把握が苦手ということですね？　私は得意です。",
             "enText": "I see. I understand. So you're not good at \nunderstanding distance? I'm good at it.",
             "nextBlock": 51,
+            "origClipLength": 230,
+            "animData": [
+                {
+                    "origLen": 180,
+                    "pathId": -6225260372582108650
+                }
+            ],
             "pathId": -3316340968937546506,
             "blockIdx": 50
         },
@@ -543,6 +1017,17 @@
             "jpText": "例を挙げると、あなたと私の間には34cmの距離があります。\r\n後方4時の方角にあるかき氷屋からは、8m24cm離れています。",
             "enText": "To give you an example, there is a distance \nof 34 cm between you and me. The shaved ice \nshop at 4 o'clock behind you is 8m 24cm away.",
             "nextBlock": 52,
+            "origClipLength": 343,
+            "animData": [
+                {
+                    "origLen": 294,
+                    "pathId": 6276886471001016384
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1585428794647444614
+                }
+            ],
             "pathId": 2183607759400150059,
             "blockIdx": 51
         },
@@ -552,6 +1037,13 @@
             "jpText": "……もしかして、ブルボンさんって天然なの？",
             "enText": "… Could it be that Ms. \nBourbon is a natural?",
             "nextBlock": 53,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 272,
+                    "pathId": 663284724377794170
+                }
+            ],
             "pathId": 6032486489359253252,
             "blockIdx": 52
         },
@@ -561,6 +1053,17 @@
             "jpText": "体にメカニックな要素はなく、全て自然由来ですが。",
             "enText": "There are no mechanical elements in the body, \nthough, and everything is of natural origin.",
             "nextBlock": 54,
+            "origClipLength": 128,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 5132641971622913789
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 2601852343284515007
+                }
+            ],
             "pathId": 1408034774874081145,
             "blockIdx": 53
         },
@@ -570,6 +1073,13 @@
             "jpText": "わあ～！　天然だ～！",
             "enText": "Wow! You're a natural!",
             "nextBlock": 55,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 6995621145969677669
+                }
+            ],
             "pathId": 2407511753114649514,
             "blockIdx": 54
         },
@@ -579,6 +1089,13 @@
             "jpText": "――花火の下でのおしゃべりは、しばらく止まることはなかった。",
             "enText": "—The chatter under the fireworks \ndidn't stop for a while.",
             "nextBlock": 56,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -8784934940325559920
+                }
+            ],
             "pathId": -7845657766577302643,
             "blockIdx": 55
         },
@@ -588,6 +1105,21 @@
             "jpText": "――翌日。",
             "enText": "—The next day.",
             "nextBlock": 57,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7599346658257557807
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -660813011243665822
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 941929298058989360
+                }
+            ],
             "pathId": 864891670930271386,
             "blockIdx": 56
         },
@@ -597,6 +1129,17 @@
             "jpText": "もしもし、お父さんですか？　ミホノブルボンです。\r\n今日はオーダー完了の報告のため、電話を――",
             "enText": "Hello. Is this your father? This is Mihono \nBourbon. I'm calling to report an order \ncompleted today—",
             "nextBlock": 58,
+            "origClipLength": 241,
+            "animData": [
+                {
+                    "origLen": 252,
+                    "pathId": -3469432684641360381
+                },
+                {
+                    "origLen": 252,
+                    "pathId": -5173686742564726426
+                }
+            ],
             "pathId": 6829756049796562811,
             "blockIdx": 57
         },
@@ -606,6 +1149,17 @@
             "jpText": "いえ、間違えました。これは近況報告です。",
             "enText": "No, I made a mistake. This \nis a status report.",
             "nextBlock": 59,
+            "origClipLength": 161,
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": -3487901863607920834
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 386642556287968790
+                }
+            ],
             "pathId": 6942524991850244035,
             "blockIdx": 58
         },
@@ -615,8 +1169,20 @@
             "jpText": "……私に、友人が出来ました。",
             "enText": "… I have made a friend.",
             "nextBlock": -1,
+            "origClipLength": 135,
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -6621409221696404411
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 2629149799614360727
+                }
+            ],
             "pathId": -1222494978675720204,
             "blockIdx": 59
         }
-    ]
+    ],
+    "modified": 1669933704
 }

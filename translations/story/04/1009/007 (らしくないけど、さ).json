@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7F64LINAQTHTSG6QIAKD3FNXZY3E2JJD",
     "type": "story",
     "storyId": "041009007",
@@ -11,6 +11,7 @@
             "jpText": "今日から夏合宿。早速、海辺でのトレーニングを始めた\r\nダイワスカーレットだが――",
             "enText": "Summer training camp. Daiwa Scarlet wasted no time and went \nstraight into training by the beach…",
             "nextBlock": 2,
+            "origClipLength": 97,
             "pathId": -7932884856234973284,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "はっ、はっ、はっ、はっ……\r\nはぁっ、はぁーっ……暑くて汗が……。",
             "enText": "<i>Pant… pant… pant… \nphew…</i> I'm sweating so hard from the heat…",
             "nextBlock": 3,
+            "origClipLength": 309,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7986885205838378830
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 8219440906713096574
+                }
+            ],
             "pathId": 1617374371802504646,
             "blockIdx": 2
         },
@@ -29,6 +41,7 @@
             "jpText": "ちょっと休憩……！\r\nふぅー……砂浜ってほんと疲れる……。",
             "enText": "I'm taking a short break… \n<i>sigh…</i> Training on sand is really tiring…",
             "nextBlock": 4,
+            "origClipLength": 211,
             "choices": [
                 {
                     "jpText": "その分、鍛えられるぞ",
@@ -41,6 +54,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 181,
+                    "pathId": -3919161841391085109
+                },
+                {
+                    "origLen": 193,
+                    "pathId": -8312534788801540353
+                }
+            ],
             "pathId": -1471963575512322352,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "そうでなきゃ怒るわよ。\r\n体力だけ奪われるなんて、無意味なことしたくないもの。",
             "enText": "I'd be mad if it wasn't. \nI wouldn't agree to doing it if all it did was drain my energy.",
             "nextBlock": 5,
+            "origClipLength": 196,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 8420721719437558077
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3722400169157129864
+                }
+            ],
             "pathId": -8300673376822773465,
             "blockIdx": 4
         },
@@ -59,6 +93,17 @@
             "jpText": "まあ、困難自体は歓迎するけどね。\r\nこれを乗り越えて、今よりもっと1番にふさわしくなるんだから。",
             "enText": "Well, I don't mind the challenge. If I can get through this, I'll \nbe even more worthy of being number one.",
             "nextBlock": 6,
+            "origClipLength": 266,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 5041863597186295821
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6385577322441812719
+                }
+            ],
             "pathId": -273005999147351152,
             "blockIdx": 5
         },
@@ -68,6 +113,13 @@
             "jpText": "さあ、休憩は終わり！　トレーニング再開よ。",
             "enText": "Now then, break time's over. Let's resume my training.",
             "nextBlock": 7,
+            "origClipLength": 134,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 9170630961762419442
+                }
+            ],
             "pathId": 4366316400573836375,
             "blockIdx": 6
         },
@@ -77,11 +129,18 @@
             "jpText": "息は整ったようだが、ややふらついているようにも見える。\r\n暑さに加え、疲労が脚に溜まってきているようだ。",
             "enText": "She might have regained a bit of her breath after taking a break, \nbut I could tell that she was starting to get a bit dizzy from \nthe heat and the exhaustion in her legs.",
             "nextBlock": 8,
+            "origClipLength": 112,
             "choices": [
                 {
                     "jpText": "今日はここまでにしよう",
                     "enText": "Let's call it a day for now.",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -964422369752296226
                 }
             ],
             "pathId": 6796620747127955869,
@@ -93,6 +152,13 @@
             "jpText": "はぁ？　アンタ、アタシの話を聞いてた？",
             "enText": "Huh? Were you even listening to what I was saying?",
             "nextBlock": 9,
+            "origClipLength": 109,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 5104140085350946662
+                }
+            ],
             "pathId": 8834598978060034421,
             "blockIdx": 8
         },
@@ -102,6 +168,13 @@
             "jpText": "困難は歓迎だって言ってるの！　夏合宿なんだし、\r\nいつもよりハードにトレーニングするのが普通でしょ？",
             "enText": "I said I don't mind the challenge! What's the point of doing \na training camp if we don't train harder than we usually do?",
             "nextBlock": 10,
+            "origClipLength": 239,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -5746464368082422650
+                }
+            ],
             "pathId": 7241061879659464262,
             "blockIdx": 9
         },
@@ -111,6 +184,7 @@
             "jpText": "これくらいで音を上げていたら、1番なんてとれっこないわ！",
             "enText": "If I'm already throwing in the towel over something like this, \nthere's no way I'll be number one!",
             "nextBlock": 11,
+            "origClipLength": 117,
             "choices": [
                 {
                     "jpText": "でも、無理はよくないぞ",
@@ -123,6 +197,16 @@
                     "nextBlock": 11
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 1180773536049426604
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 7734727084905909875
+                }
+            ],
             "pathId": -6276025284372770140,
             "blockIdx": 10
         },
@@ -132,6 +216,17 @@
             "jpText": "そんなこと言われなくても――……きゃっ！？",
             "enText": "You don't have to tell me. I know that much… <i>kya!?</i>",
             "nextBlock": 12,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": -94842309864480087
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 8633526462654974423
+                }
+            ],
             "pathId": -4484500776987391633,
             "blockIdx": 11
         },
@@ -141,6 +236,13 @@
             "jpText": "1歩踏み出した瞬間、ダイワスカーレットは脚をふらつかせた。",
             "enText": "One step, and Daiwa Scarlet had lost her balance.",
             "nextBlock": 13,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": -5403347516550636146
+                }
+            ],
             "pathId": 3511724442236646111,
             "blockIdx": 12
         },
@@ -150,6 +252,7 @@
             "jpText": "くっ……このくらいでバテてたら、1番じゃいられないのにっ。\r\nアタシはもっと――",
             "enText": "Tch… I can't be number one if I get exhausted \nfrom something like this. I've got to keep-",
             "nextBlock": 14,
+            "origClipLength": 206,
             "choices": [
                 {
                     "jpText": "休むこともトレーニングには必要だ",
@@ -162,6 +265,16 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4987848162263208776
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -1063387279058699864
+                }
+            ],
             "pathId": -5653165758969988694,
             "blockIdx": 13
         },
@@ -171,6 +284,17 @@
             "jpText": "……っ。",
             "enText": "…",
             "nextBlock": 15,
+            "origClipLength": 36,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2636533632595127191
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -9134299806685091348
+                }
+            ],
             "pathId": -9017423612184425355,
             "blockIdx": 14
         },
@@ -180,6 +304,7 @@
             "jpText": "……――はぁ。わかったわよ。\r\nだったらもう少し休憩して、それから……。",
             "enText": "<i>…sigh.</i> Fine. \nIn that case, I'll take another break and then I'll…",
             "nextBlock": 16,
+            "origClipLength": 195,
             "choices": [
                 {
                     "jpText": "合宿は明日もあるんだぞ？",
@@ -192,6 +317,16 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": -5384520849228943206
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4993651265358910264
+                }
+            ],
             "pathId": 7353137305172155485,
             "blockIdx": 15
         },
@@ -201,6 +336,17 @@
             "jpText": "……しょうがないわね、今回はアンタに従ってあげる。",
             "enText": "Alright then, I'll follow you this time.",
             "nextBlock": 17,
+            "origClipLength": 134,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -4597542481648665311
+                },
+                {
+                    "origLen": 170,
+                    "pathId": 9190581549503600768
+                }
+            ],
             "pathId": 5339569974752683603,
             "blockIdx": 16
         },
@@ -210,6 +356,17 @@
             "jpText": "一応、アタシのトレーナーだし。\r\n心配そうな顔されるの、うっとうしいし。",
             "enText": "You <i>are</i> my trainer, after all. It'd be annoying with you \ngiving me that worried look the entire time.",
             "nextBlock": 18,
+            "origClipLength": 175,
+            "animData": [
+                {
+                    "origLen": 221,
+                    "pathId": 1466087246238571588
+                },
+                {
+                    "origLen": 219,
+                    "pathId": -673955516239799668
+                }
+            ],
             "pathId": -2079254697887257166,
             "blockIdx": 17
         },
@@ -219,6 +376,7 @@
             "jpText": "ったく。\r\nいつもの調子に戻ったら、すぐに取り返してやるんだから。",
             "enText": "Ah well. Once I get back to regular condition, \nI swear I'll make up for lost time.",
             "nextBlock": 19,
+            "origClipLength": 165,
             "choices": [
                 {
                     "jpText": "こっそり走ったりしないようにな？",
@@ -231,6 +389,16 @@
                     "nextBlock": 19
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": -6253745375534848499
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3084233800803535705
+                }
+            ],
             "pathId": 5837157495259894418,
             "blockIdx": 18
         },
@@ -240,6 +408,13 @@
             "jpText": "あのね。子どもじゃあるまいし、念を押すのやめてくれない？",
             "enText": "Trainer. Just so you know, I'm not a kid anymore \nso could you stop patronizing me?",
             "nextBlock": 20,
+            "origClipLength": 152,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -4253278048205180954
+                }
+            ],
             "pathId": 7478769808320333820,
             "blockIdx": 19
         },
@@ -249,6 +424,13 @@
             "jpText": "……トレーニングが終わりなら、今日はもう自由行動ね。\r\nそれじゃ。",
             "enText": "Training's over, so I'm free to do whatever I want, right? \nWell then, see you later.",
             "nextBlock": 21,
+            "origClipLength": 158,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -8356355156963681267
+                }
+            ],
             "pathId": 4613359989367103721,
             "blockIdx": 20
         },
@@ -258,6 +440,13 @@
             "jpText": "ダイワスカーレットは、少しだけフラフラとしながら\r\n寮へと帰って行った。",
             "enText": "Daiwa Scarlet went back to the dorm, \nstill unsteady from training.",
             "nextBlock": 22,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 4062450360472968513
+                }
+            ],
             "pathId": -3154470447565957134,
             "blockIdx": 21
         },
@@ -267,6 +456,7 @@
             "jpText": "その日の夜、ダイワスカーレットの様子を見ようと合宿所の廊下を\r\n歩いていると、見知らぬウマ娘から声をかけられた。",
             "enText": "That night, as I was walking on the hallway on my way to check up \non Daiwa Scarlet, I got approached by an unfamiliar horse girl…",
             "nextBlock": 23,
+            "origClipLength": 118,
             "pathId": -2323318351721049036,
             "blockIdx": 22
         },
@@ -276,6 +466,7 @@
             "jpText": "あ、スカーレットのトレーナーさんだ。\r\nもしかして、あの子を探してるんですか？",
             "enText": "Oh, Scarlet's trainer. \nWere you looking for her?",
             "nextBlock": 24,
+            "origClipLength": 192,
             "pathId": 3987969809462958887,
             "blockIdx": 23
         },
@@ -285,6 +476,7 @@
             "jpText": "部屋にはいないと思いますよ。\r\nついさっき、玄関の方に行くのを見かけましたから。",
             "enText": "I don't think she's in her room anymore. \nI saw her heading towards the front door just a while ago.",
             "nextBlock": 25,
+            "origClipLength": 191,
             "pathId": 3757662921135706509,
             "blockIdx": 24
         },
@@ -294,6 +486,13 @@
             "jpText": "昼間のトレーニングで疲れているはずなのだが……\r\n1人で出歩くなんて、大丈夫だろうか。",
             "enText": "She should still be exhausted from training just this afternoon \nand yet she's walking out by herself… I wonder if she's okay.",
             "nextBlock": 26,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 1817163306584560359
+                }
+            ],
             "pathId": -1264327951478578845,
             "blockIdx": 25
         },
@@ -303,6 +502,17 @@
             "jpText": "あら、トレーナーじゃない。どうしたのよ、血相変えて。",
             "enText": "Oh, it's you, Trainer. What's wrong? You don't look too good.",
             "nextBlock": 27,
+            "origClipLength": 151,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -2287839614017044728
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8490741953794180818
+                }
+            ],
             "pathId": -3008133353373308651,
             "blockIdx": 26
         },
@@ -312,6 +522,7 @@
             "jpText": "アタシはこれから、散歩ついでに――",
             "enText": "I was just about to go for a walk-",
             "nextBlock": 28,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "俺も行く！",
@@ -324,6 +535,12 @@
                     "nextBlock": 28
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 7560296303886733919
+                }
+            ],
             "pathId": 3524552899405256308,
             "blockIdx": 27
         },
@@ -333,6 +550,13 @@
             "jpText": "べ、別に構わないけど……なにを必死になってるわけ？",
             "enText": "I-I don't mind, but… what are you getting so worked up over?",
             "nextBlock": 29,
+            "origClipLength": 139,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -376843401728601441
+                }
+            ],
             "pathId": -8150710678656570032,
             "blockIdx": 28
         },
@@ -342,11 +566,18 @@
             "jpText": "……まさかアンタ、\r\nアタシが勝手にトレーニングしないか疑って……。",
             "enText": "Don't tell me. \nYou still think I'm going to go train in secret?",
             "nextBlock": 30,
+            "origClipLength": 159,
             "choices": [
                 {
                     "jpText": "昼間、フラフラしてたから心配で",
                     "enText": "I got worried because you were stumbling.",
                     "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 3662685207473884775
                 }
             ],
             "pathId": 1714459854554723544,
@@ -358,6 +589,13 @@
             "jpText": "ああ、そういうこと。大丈夫よ。\r\nお風呂でのんびりして、仮眠もしたから。",
             "enText": "Oh, that. I'm fine. Really. \nI got to relax in the bath and even took a nap.",
             "nextBlock": 31,
+            "origClipLength": 180,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 2380025208004855542
+                }
+            ],
             "pathId": -5572263476745680080,
             "blockIdx": 30
         },
@@ -367,6 +605,17 @@
             "jpText": "トレーニングは明日もあるんだもの。\r\n疲れを残すようなことはしないわ。",
             "enText": "I won't do anything to tire myself out.",
             "nextBlock": 32,
+            "origClipLength": 141,
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": 6552492090405595761
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -2048724164536757631
+                }
+            ],
             "pathId": 1752630045604569276,
             "blockIdx": 31
         },
@@ -376,6 +625,13 @@
             "jpText": "にしても……アンタって、ようするに心配性なのね。\r\n最初の頃は『アタシのこと信じてないのか』とも思ったけど……。",
             "enText": "That said, you sure are a worrywart. I kept thinking to myself, \n\"Does he even trust me?\" at first, but…",
             "nextBlock": 33,
+            "origClipLength": 359,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -9159690786097982003
+                }
+            ],
             "pathId": 1492890139229037089,
             "blockIdx": 32
         },
@@ -385,6 +641,13 @@
             "jpText": "……いいわ。\r\nアタシが元気だってとこ、しっかりと見せてあげる！",
             "enText": "…That does it. \nI'll make sure to show you that I'm doing fine now!",
             "nextBlock": 34,
+            "origClipLength": 153,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 5989812107953180828
+                }
+            ],
             "pathId": -8959091279886690288,
             "blockIdx": 33
         },
@@ -394,6 +657,17 @@
             "jpText": "ダイワスカーレットについてくるように言われついて行くと、\r\nにぎやかな祭囃子が聞こえ――",
             "enText": "As I followed her around, we heard the \nsound of a festival happening nearby-",
             "nextBlock": 35,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7169876759578803636
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 7897419950935267601
+                }
+            ],
             "pathId": -7570159223226286564,
             "blockIdx": 34
         },
@@ -403,6 +677,7 @@
             "jpText": "近くでお祭りをやってるって聞いて、ちょうど行くところだったの。\r\nね、お腹の空くいい香りがすると思わない？",
             "enText": "I heard they were doing a festival around here and \nI was just about to go before I saw you. Hey, is the \nfestival smell making you feel hungry too?",
             "nextBlock": 36,
+            "origClipLength": 243,
             "choices": [
                 {
                     "jpText": "食欲も問題なさそうだな",
@@ -415,6 +690,16 @@
                     "nextBlock": 36
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6378741984575922606
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -255030672817995671
+                }
+            ],
             "pathId": 6130797677061399849,
             "blockIdx": 35
         },
@@ -424,6 +709,13 @@
             "jpText": "当然！　栄養をとってこその元気でしょ。",
             "enText": "Of course it is! \nI'm fine <i>because</i> I've been eating properly, right?",
             "nextBlock": 37,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 7452062982525308985
+                }
+            ],
             "pathId": 7229938334682023792,
             "blockIdx": 36
         },
@@ -433,6 +725,13 @@
             "jpText": "ほら、屋台で買い込むわよ！\r\nあ、でもその前に……思いっきり遊んでからね！",
             "enText": "Well then, we better stock up on the festival food! \nAh, but before that… let's play and have as much fun as we can!",
             "nextBlock": 38,
+            "origClipLength": 198,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -152838693927807963
+                }
+            ],
             "pathId": -9062627535822810899,
             "blockIdx": 37
         },
@@ -442,6 +741,13 @@
             "jpText": "祭りを楽しんだ後、屋台で食べ物を買い込み海へと移動した。\r\n焼きそば、たこ焼き、かき氷、綿あめ……次々となくなり――",
             "enText": "After we had our fun in the festival, we stocked up on food and \nwent back to the beach. Yakisoba, takoyaki, shaved ice, cotton \ncandy… gone one after another…",
             "nextBlock": 39,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 2532172978330060874
+                }
+            ],
             "pathId": 2903493831166086108,
             "blockIdx": 38
         },
@@ -451,11 +757,18 @@
             "jpText": "あー美味しかったー！　満足、満足♪",
             "enText": "Ahh, that was so good! No complaints here.",
             "nextBlock": 40,
+            "origClipLength": 154,
             "choices": [
                 {
                     "jpText": "元気そうでよかった",
                     "enText": "I'm glad you're doing fine.",
                     "nextBlock": 40
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -1514714472930749884
                 }
             ],
             "pathId": -2168313823418162521,
@@ -467,6 +780,17 @@
             "jpText": "だからそう言ったじゃない。\r\n心配性なのも、ほどほどにしなさいよね。",
             "enText": "I told you so. \nDon't worry about me so much.",
             "nextBlock": 41,
+            "origClipLength": 153,
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": 2457514680629457474
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 4357145840753182501
+                }
+            ],
             "pathId": -1211505412903367500,
             "blockIdx": 40
         },
@@ -476,6 +800,17 @@
             "jpText": "そりゃあ、前は1人で無茶したりもしたけど、\r\n今は1人じゃないし……。",
             "enText": "Well, to be fair, I did do some pretty dumb things by myself back \nthen, but… Now I'm not alone anymore.",
             "nextBlock": 42,
+            "origClipLength": 201,
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 2113050830452332367
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7732602386735835042
+                }
+            ],
             "pathId": 8916189664636251934,
             "blockIdx": 41
         },
@@ -485,11 +820,18 @@
             "jpText": "と、とにかくそういうことだから、今はもう平気なの！\r\nわかった！？",
             "enText": "Anyway, there you have it, so, I'm fine now! \nGot it!?",
             "nextBlock": 43,
+            "origClipLength": 168,
             "choices": [
                 {
                     "jpText": "頼ってくれて嬉しいよ",
                     "enText": "I'm glad you're relying on me more.",
                     "nextBlock": 43
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -2223465389756782082
                 }
             ],
             "pathId": 8792018561288813867,
@@ -501,6 +843,13 @@
             "jpText": "別にアンタのこととは言ってませんけど！？",
             "enText": "H-hey, I didn't say I was talking about you, though!",
             "nextBlock": 44,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 2682462984359636729
+                }
+            ],
             "pathId": 9042228330406688821,
             "blockIdx": 43
         },
@@ -510,6 +859,17 @@
             "jpText": "ただまあ、アンタも一応プロのトレーナーだし……\r\nトレーニングに関しては任せてもいいかなって思っただけ。",
             "enText": "It's just… you <i>are</i> a professional trainer, \nafter all… I just thought it makes sense for me \nto trust you when it comes to training.",
             "nextBlock": 45,
+            "origClipLength": 297,
+            "animData": [
+                {
+                    "origLen": 229,
+                    "pathId": -4293373238781597518
+                },
+                {
+                    "origLen": 163,
+                    "pathId": -7656182383430693639
+                }
+            ],
             "pathId": 1344921019216397697,
             "blockIdx": 44
         },
@@ -519,6 +879,7 @@
             "jpText": "よ、ようするに、自分の発言には責任をとりなさいってこと！\r\n前に『一緒に1番を目指す』って言ったのはアンタなんだからっ。",
             "enText": "I-I'm just saying, you need to take responsibility \nfor what you said before! You're the one who said \"let's \naim for number one together,\" you know!?",
             "nextBlock": 46,
+            "origClipLength": 324,
             "choices": [
                 {
                     "jpText": "任せとけ！",
@@ -531,6 +892,16 @@
                     "nextBlock": 46
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -3830718616884009516
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 7443037880360499813
+                }
+            ],
             "pathId": -3464095558652928254,
             "blockIdx": 45
         },
@@ -540,6 +911,13 @@
             "jpText": "……嬉しそうな顔しちゃって。",
             "enText": "…Look at you, you're so happy.",
             "nextBlock": 47,
+            "origClipLength": 100,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -6182400849339880958
+                }
+            ],
             "pathId": 7093623440092300939,
             "blockIdx": 46
         },
@@ -549,6 +927,13 @@
             "jpText": "明日は今日以上にトレーニングに力を入れるから、\r\nアンタも覚悟しときなさい。",
             "enText": "I'm going to put way more effort into training tomorrow than I \ndid today, so you better get ready too.",
             "nextBlock": 48,
+            "origClipLength": 155,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 5788884466791515152
+                }
+            ],
             "pathId": 8955580826671828058,
             "blockIdx": 47
         },
@@ -558,6 +943,13 @@
             "jpText": "1番をとるためには、アタシ1人の覚悟じゃ足りないの。",
             "enText": "It takes two to be number one.",
             "nextBlock": 49,
+            "origClipLength": 135,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -4794863878264676940
+                }
+            ],
             "pathId": -3110870654443467096,
             "blockIdx": 48
         },
@@ -567,6 +959,17 @@
             "jpText": "だから……アンタも1番のトレーナーになって、\r\nしっかりついてきなさい！",
             "enText": "So… you should become the \"number \none\" trainer and follow after me!",
             "nextBlock": 50,
+            "origClipLength": 189,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -4001159394630076330
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -968634337608492257
+                }
+            ],
             "pathId": -6896570956784463488,
             "blockIdx": 49
         },
@@ -576,8 +979,16 @@
             "jpText": "――翌日。昨日よりも力強く走る\r\nダイワスカーレットの姿が太陽の下に輝いていた。",
             "enText": "The following day. Running with more power than before, Daiwa \nScarlet shined brightly under the radiant sun.",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 835482873764237202
+                }
+            ],
             "pathId": 1731692122095756380,
             "blockIdx": 50
         }
-    ]
+    ],
+    "modified": 1669933656
 }

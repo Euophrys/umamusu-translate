@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ENFOVUCXAXMPXMRQY2IWG6E2JNNSBQB2",
     "type": "story",
     "storyId": "041010006",
@@ -11,6 +11,13 @@
             "jpText": "むむぅ～……むむむぅ～～……。",
             "enText": "Mumuu~…mumumuu~…",
             "nextBlock": 2,
+            "origClipLength": 160,
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": -8512317289911997823
+                }
+            ],
             "pathId": -5908182317951105489,
             "blockIdx": 1
         },
@@ -20,11 +27,18 @@
             "jpText": "買い物に行く途中、\r\n道にうずくまるタイキシャトルを見つけた……！",
             "enText": "While I was in the middle of shopping, \nI found Taiki Shuttle crouched in the middle of the road…!",
             "nextBlock": 3,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "大丈夫！？",
                     "enText": "Are you okay?!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 1272171363453546741
                 }
             ],
             "pathId": 7099586549436435970,
@@ -36,6 +50,17 @@
             "jpText": "オゥ！　トレーナーさん、ハウディ♪\r\nダイジョーブダイジョーブ、ばっちり撮れマシタ。",
             "enText": "Oh! Trainer-san, howdy~! \nI'm fine, I'm fine, I got a good picture!",
             "nextBlock": 4,
+            "origClipLength": 239,
+            "animData": [
+                {
+                    "origLen": 160,
+                    "pathId": 8136675221644921340
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 7517511846144567142
+                }
+            ],
             "pathId": -6450942607506628068,
             "blockIdx": 3
         },
@@ -45,6 +70,7 @@
             "jpText": "マンホールのベストショット！\r\nフォトは角度が大切デスネ。",
             "enText": "The best shot of this manhole! \nThe angle is important in photos, isn't it?",
             "nextBlock": 5,
+            "origClipLength": 180,
             "choices": [
                 {
                     "jpText": "写真撮ってたのか",
@@ -57,6 +83,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 6239911722593548128
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -5931355316931386379
+                }
+            ],
             "pathId": -8148822701760570042,
             "blockIdx": 4
         },
@@ -66,6 +102,13 @@
             "jpText": "イエス！　ニホンのマンホールはユニークな柄がいっぱいデス。\r\nシェアしたらきっとファミリー大喜びデース！",
             "enText": "Yes! Japan's manhole covers have a bunch of unique designs. \nIf I share them, my family will probably be happy!",
             "nextBlock": 6,
+            "origClipLength": 311,
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 7290339047469500183
+                }
+            ],
             "pathId": -8047999066723935566,
             "blockIdx": 5
         },
@@ -75,6 +118,17 @@
             "jpText": "フフ♪　実は昨日、ファミリーに言われたんデス。\r\n『ワタシの住むシティが見てみたい』って。",
             "enText": "Fufu~! The truth is, yesterday I was talking with my family \nand they said [We want to see the city you live in].",
             "nextBlock": 7,
+            "origClipLength": 255,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -1226439418323161930
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -29886709890858093
+                }
+            ],
             "pathId": -6411180493258964900,
             "blockIdx": 6
         },
@@ -84,6 +138,17 @@
             "jpText": "だからワタシ、ナイスなフォトスポット探してマス！\r\nというわけで～……。",
             "enText": "That's why I'm looking for some nice photo spots! \nThat said~…",
             "nextBlock": 8,
+            "origClipLength": 217,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -3613187305144876500
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -4148178793763090491
+                }
+            ],
             "pathId": -6575613823231395796,
             "blockIdx": 7
         },
@@ -93,11 +158,22 @@
             "jpText": "トレーナーさんも一緒に探しまショウ！",
             "enText": "Trainer-san, let's go look together!",
             "nextBlock": 9,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "実は今から買い物に……",
                     "enText": "I was going to go shopping though…",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -3188237822262466437
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -923801913566965256
                 }
             ],
             "pathId": 684254882381496344,
@@ -109,6 +185,13 @@
             "jpText": "オゥ……せっかく会えたのに、さみしいデス……。",
             "enText": "Oh… even though we just met by coincidence, \nthat makes me a little lonely…",
             "nextBlock": 10,
+            "origClipLength": 161,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 482958220890090894
+                }
+            ],
             "pathId": 5855199121198223327,
             "blockIdx": 9
         },
@@ -118,11 +201,26 @@
             "jpText": "買い物は……またにしませんカ？\r\nそれがいいデス！　ねっ、そうしまショウ！",
             "enText": "Shopping… can't we just do that some other time? \nThat's fine! C'mon, let's do that!",
             "nextBlock": 11,
+            "origClipLength": 243,
             "choices": [
                 {
                     "jpText": "わかった、わかった",
                     "enText": "Okay, okay",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 4381787741089462611
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 9095177517296525949
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -72181723686520115
                 }
             ],
             "pathId": -858746654397400181,
@@ -134,6 +232,17 @@
             "jpText": "イエース！　ワタシ、とってもうれしいデス！",
             "enText": "Yes! That makes me really happy!",
             "nextBlock": 12,
+            "origClipLength": 139,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -9138777660754485943
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -1115379668978275221
+                }
+            ],
             "pathId": 6605670620972383898,
             "blockIdx": 11
         },
@@ -143,6 +252,17 @@
             "jpText": "たくさん撮れたら、ファミリーもきっと喜びマス。\r\nニホンのナイススポットへ、ヒアウィーゴー！",
             "enText": "If we get a lot, my family will definitely be happy. \nTo Japan's nice spots, here we go!",
             "nextBlock": 13,
+            "origClipLength": 291,
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": -8596728267718717936
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -878590742564945824
+                }
+            ],
             "pathId": -3888416252472491560,
             "blockIdx": 12
         },
@@ -152,6 +272,13 @@
             "jpText": "ご機嫌のタイキシャトルに連れられ、\r\nナイススポット探しをすることになった……。",
             "enText": "And so it was decided, \nI would be accompanying the high-spirited Taiki Shuttle…",
             "nextBlock": 14,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -4477020262992044096
+                }
+            ],
             "pathId": -6946039867549474917,
             "blockIdx": 13
         },
@@ -161,6 +288,17 @@
             "jpText": "（パシャッ！　パシャッ！）",
             "enText": "(pashaa! pashaa!)",
             "nextBlock": 15,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 1712214023566704785
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 507325195861703894
+                }
+            ],
             "pathId": 2154507481676958941,
             "blockIdx": 14
         },
@@ -170,6 +308,17 @@
             "jpText": "グレイト！　ニホンの自販機はホントにすごいデース。\r\nジュースだけじゃなく、食べ物までありますカラ。",
             "enText": "Great! Japan's vending machines are really incredible. \nNot just drinks, there's even food.",
             "nextBlock": 16,
+            "origClipLength": 288,
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -5710064779664794816
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2002154422064212845
+                }
+            ],
             "pathId": -1080905076214015602,
             "blockIdx": 15
         },
@@ -179,6 +328,17 @@
             "jpText": "オデン、うどん、ラーメン……たくさんデス！",
             "enText": "Oden, udon, ramen… there's alot!",
             "nextBlock": 17,
+            "origClipLength": 156,
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": 1483109964941844569
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8432303409830995338
+                }
+            ],
             "pathId": 1741231638446209236,
             "blockIdx": 16
         },
@@ -188,6 +348,17 @@
             "jpText": "……オゥ、でもスシは見たことないデスネ。\r\nトップ・オブ・ザ・ソウルフードなのに。",
             "enText": "…Oh, but I haven't seen any sushi. \nEven though it's the top soul food.",
             "nextBlock": 18,
+            "origClipLength": 225,
+            "animData": [
+                {
+                    "origLen": 167,
+                    "pathId": -6371879273865150952
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 9205025810136138633
+                }
+            ],
             "pathId": 3467443524837730013,
             "blockIdx": 17
         },
@@ -197,6 +368,17 @@
             "jpText": "見つけてないダケ？\r\nトレーナーさん、見つけたら教えてくださいネ！",
             "enText": "Have we just not found one yet? \nTrainer-san, if you find one, let me know!",
             "nextBlock": 19,
+            "origClipLength": 217,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -5250076307922455496
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1132696971191779107
+                }
+            ],
             "pathId": 4501459624920919531,
             "blockIdx": 18
         },
@@ -206,6 +388,21 @@
             "jpText": "オゥ！　あれに見えるは、プリントシール！\r\nこれぞニホンのポップカルチャー！",
             "enText": "Oh! Those look like photo booths! \nTHIS is Japanese pop culture!",
             "nextBlock": 20,
+            "origClipLength": 234,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 1059913763002673208
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6098515152393125103
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -5572104927521105415
+                }
+            ],
             "pathId": -7083644660448621725,
             "blockIdx": 19
         },
@@ -215,6 +412,21 @@
             "jpText": "ワクワクですネ！　トレーナーさん、入りまショウ！",
             "enText": "It's exciting, isn't it?! Trainer-san, let's go in!",
             "nextBlock": 21,
+            "origClipLength": 150,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3800524780371339255
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 5448121753197389929
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -8417703632757007138
+                }
+            ],
             "pathId": 8520889924020043192,
             "blockIdx": 20
         },
@@ -224,6 +436,17 @@
             "jpText": "カウントダウンに合わせていきマスヨ！\r\nスリー、ツー……ワ――",
             "enText": "Let's match up with the countdown! \nThree, two-… one-",
             "nextBlock": 22,
+            "origClipLength": 170,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -8879862278669054632
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -7928733537336517713
+                }
+            ],
             "pathId": 7063309538040457573,
             "blockIdx": 21
         },
@@ -233,6 +456,17 @@
             "jpText": "（パシャッ！）",
             "enText": "(pashaa!)",
             "nextBlock": 23,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 4088458591902294263
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7491125119035298247
+                }
+            ],
             "pathId": 6360817114049831382,
             "blockIdx": 22
         },
@@ -242,6 +476,17 @@
             "jpText": "取り出し口から、写真を撮ろうとするタイキシャトルの\r\nどアップシールが出てきた。",
             "enText": "From the dispenser, Taiki Shuttle's photo came out. \nIt was filled with filters and seals that she had chosen.",
             "nextBlock": 24,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 163,
+                    "pathId": 5385898380989935435
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 4617874461514160970
+                }
+            ],
             "pathId": 8878741024072652285,
             "blockIdx": 23
         },
@@ -251,6 +496,17 @@
             "jpText": "アハハハハッ！　トレーナーさん、ワタシで隠れちゃいマシタ！",
             "enText": "Ahahahahahaa! Trainer-san, you were hiding behind me!",
             "nextBlock": 25,
+            "origClipLength": 169,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -6893015177091989558
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4092901602608380318
+                }
+            ],
             "pathId": 8962864597139459094,
             "blockIdx": 24
         },
@@ -260,6 +516,13 @@
             "jpText": "でもやっぱりクール！\r\nこのシールも、ファミリーにシェアしないとデスネ！",
             "enText": "But it's still cool! \nThese seals, I need to share them with my family!",
             "nextBlock": 26,
+            "origClipLength": 209,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 9168968571892185903
+                }
+            ],
             "pathId": -1884313627907772066,
             "blockIdx": 25
         },
@@ -269,6 +532,13 @@
             "jpText": "ン～♪　たいやきの屋台を発見できるなんて、\r\nとてもラッキーです。",
             "enText": "Mmmmm~! It was really lucky \nthat we found a taiyaki stall!",
             "nextBlock": 27,
+            "origClipLength": 223,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 736636772780716935
+                }
+            ],
             "pathId": 8262287055655370911,
             "blockIdx": 26
         },
@@ -278,6 +548,17 @@
             "jpText": "トレーナーさん！　そのたいやき、しっかり持っててくださいネ。\r\n今からパシャッと撮りますカラ！",
             "enText": "Trainer-san! Make sure you hold on to that taiyaki for me. \nI need to get a picture of it!",
             "nextBlock": 28,
+            "origClipLength": 241,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 1383628466933346308
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 6478160874533072801
+                }
+            ],
             "pathId": -8096348899485074735,
             "blockIdx": 27
         },
@@ -287,6 +568,17 @@
             "jpText": "くんくんっ。\r\n……はぁ～～、本当においしそうデス。",
             "enText": "Sniff sniff. \n…Haa~~, it seems like it'll be really delicious.",
             "nextBlock": 29,
+            "origClipLength": 209,
+            "animData": [
+                {
+                    "origLen": 199,
+                    "pathId": -3829371292898340813
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 1170713299558984001
+                }
+            ],
             "pathId": 5370486132802326988,
             "blockIdx": 28
         },
@@ -296,6 +588,17 @@
             "jpText": "できたてホカホカ……アーンド、カリカリのしっぽ。\r\n今すぐにでも食べたいくらいで……。",
             "enText": "Hot and fresh… and, that crunchy-looking tail. \nI want to eat it as soon as I can…",
             "nextBlock": 30,
+            "origClipLength": 374,
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -1526699600064882860
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -3194601872481755323
+                }
+            ],
             "pathId": -4124986177502787762,
             "blockIdx": 29
         },
@@ -305,6 +608,17 @@
             "jpText": "うう……ちゃ、ちゃんと写真撮らないとデス！\r\nガマン……ガマ、ン……。",
             "enText": "Uuu, I-I need to properly get a photo of it! \nWait for it… just wait…",
             "nextBlock": 31,
+            "origClipLength": 238,
+            "animData": [
+                {
+                    "origLen": 250,
+                    "pathId": 8052349861159932482
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 8050608082814922131
+                }
+            ],
             "pathId": 976003936563892296,
             "blockIdx": 30
         },
@@ -314,6 +628,17 @@
             "jpText": "……じゅるり。",
             "enText": "…drool.",
             "nextBlock": 32,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": -2570252920747889523
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8064118963266804554
+                }
+            ],
             "pathId": 3052233920271154928,
             "blockIdx": 31
         },
@@ -323,6 +648,21 @@
             "jpText": "ううぅ～～！　トレーナーさん！\r\nもっと離れたところに立ってくだサーイ！",
             "enText": "Uuuuu~~! Trainer-san! \nCan you stand a little further away please?!",
             "nextBlock": 33,
+            "origClipLength": 186,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 8048456774029222182
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 3350416819118895622
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 3794523606281997180
+                }
+            ],
             "pathId": -375425378053859705,
             "blockIdx": 32
         },
@@ -332,6 +672,13 @@
             "jpText": "その後もノンストップで、\r\nタイキシャトルと色々な場所へ行き――",
             "enText": "After that, Taiki Shuttle and I went \nnon-stop to several different places-",
             "nextBlock": 34,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 4994047922642227444
+                }
+            ],
             "pathId": 3044352829504534361,
             "blockIdx": 33
         },
@@ -341,6 +688,21 @@
             "jpText": "グッド！　これぞニホンのワビサビワサビ！",
             "enText": "Good! THIS is the Japanese aethestic - like wasabi!",
             "nextBlock": 35,
+            "origClipLength": 130,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -2237840412498275999
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 4950773865321136952
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -4700147967575732432
+                }
+            ],
             "pathId": 8482976659388925107,
             "blockIdx": 34
         },
@@ -350,6 +712,7 @@
             "jpText": "サムライもいるといいんデスが……オゥ、イエス！\r\n次はサムライを撮りに行きまショーカ！",
             "enText": "It'd be nice if there was a samurai… Oh, yes! \nNext, let's get a picture of a samurai!",
             "nextBlock": 36,
+            "origClipLength": 254,
             "choices": [
                 {
                     "jpText": "そろそろ日が落ちるぞ？",
@@ -362,6 +725,20 @@
                     "nextBlock": 36
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -304904730711923352
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -732866041754653457
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 7908943081901079992
+                }
+            ],
             "pathId": -2432291717702959623,
             "blockIdx": 35
         },
@@ -371,6 +748,17 @@
             "jpText": "オゥ、もうこんな時間……仕方ありまセン。\r\n今日はこれでスタコラサッサと帰りまショー！",
             "enText": "Oh, it's already this late… I guess it can't be helped. \nLet's make our way back, lickety split!",
             "nextBlock": 37,
+            "origClipLength": 263,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 5541795555400483569
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2098809640588474877
+                }
+            ],
             "pathId": 4298785103895652746,
             "blockIdx": 36
         },
@@ -380,6 +768,21 @@
             "jpText": "フフ♪　たっくさん素敵なショットが撮れまシタ。\r\nこれだけあれば、きっと……アッ！",
             "enText": "Fufu! I got a lot of wonderful shots. \nWith this much, it should be… Ah!",
             "nextBlock": 38,
+            "origClipLength": 263,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -7821166732118126850
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 5198687581436551511
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -7878532283605201535
+                }
+            ],
             "pathId": -2418973886559034023,
             "blockIdx": 37
         },
@@ -389,6 +792,7 @@
             "jpText": "スト～～～～～～ップ！！",
             "enText": "Stooooooooop!!",
             "nextBlock": 39,
+            "origClipLength": 62,
             "choices": [
                 {
                     "jpText": "ど、どうした！？",
@@ -401,6 +805,20 @@
                     "nextBlock": 39
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 9207061636630485996
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2231047930342523307
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -5139404532902031511
+                }
+            ],
             "pathId": -4548006903412149506,
             "blockIdx": 38
         },
@@ -410,11 +828,22 @@
             "jpText": "ワタシ、大切なショットを忘れていマシタ！\r\nトレーナーさん、プリーズ！",
             "enText": "I forgot a really important shot! \nTrainer-san, please!",
             "nextBlock": 40,
+            "origClipLength": 203,
             "choices": [
                 {
                     "jpText": "え？　え？",
                     "enText": "Eh? Eh?",
                     "nextBlock": 40
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3557880263833320834
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 7454245653621327922
                 }
             ],
             "pathId": -297655377419695131,
@@ -426,6 +855,13 @@
             "jpText": "早く早く、もっとこっちデス。",
             "enText": "C'mon, c'mon, over here.",
             "nextBlock": 41,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 6440397550558934000
+                }
+            ],
             "pathId": -1803625156226391843,
             "blockIdx": 40
         },
@@ -435,6 +871,13 @@
             "jpText": "いきマスヨ～～っ！",
             "enText": "I'm taking it~!",
             "nextBlock": 42,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -6917827297581777425
+                }
+            ],
             "pathId": 51846665932356479,
             "blockIdx": 41
         },
@@ -444,6 +887,7 @@
             "jpText": "（パシャッ！）",
             "enText": "(pashaa!)",
             "nextBlock": 43,
+            "origClipLength": 54,
             "pathId": 1590862632962994653,
             "blockIdx": 42
         },
@@ -453,6 +897,17 @@
             "jpText": "イッェース！　ナイスな2ショットが撮れマシタ！",
             "enText": "Yes! I got a nice 2-shot!",
             "nextBlock": 44,
+            "origClipLength": 143,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 8753014103287811486
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 7839615812881256828
+                }
+            ],
             "pathId": 1557424036408684566,
             "blockIdx": 43
         },
@@ -462,6 +917,13 @@
             "jpText": "……フフッ。ワタシ、ずっとずっと思ってたんデス。\r\nトレーナーさんを、ファミリーに紹介したいって。",
             "enText": "…Fufuu. I've been thinking this for a while now. \nTrainer-san, I should introduce you to my family.",
             "nextBlock": 45,
+            "origClipLength": 308,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 6487555910313367114
+                }
+            ],
             "pathId": 6567718865905861368,
             "blockIdx": 44
         },
@@ -471,11 +933,18 @@
             "jpText": "どんな時でも傍で応援してくれる……\r\nトレーナーさんは、ワタシの大切な人ですカラ。",
             "enText": "You're always there by my side cheering me on… \nTrainer-san is an important person to me.",
             "nextBlock": 46,
+            "origClipLength": 263,
             "choices": [
                 {
                     "jpText": "そう思ってもらえてうれしいよ",
                     "enText": "I'm happy you feel that way",
                     "nextBlock": 46
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -1297836078093057918
                 }
             ],
             "pathId": -2945903242403995004,
@@ -487,6 +956,17 @@
             "jpText": "オゥ！　え、えへへ。\r\nワタシこそ……とってもうれしいデスっ！",
             "enText": "Oh! E-ehehe. \nMe too… I'm very happy!",
             "nextBlock": 47,
+            "origClipLength": 245,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 4336399609917886374
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -3219229402390654089
+                }
+            ],
             "pathId": 9124430328004365139,
             "blockIdx": 46
         },
@@ -496,6 +976,17 @@
             "jpText": "どれもナイスショットですけど、\r\nこのショットが1番お気に入りになりマシタ。",
             "enText": "They're all nice shots but, \nthis one is the one I like the most.",
             "nextBlock": 48,
+            "origClipLength": 209,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 4357008448845817575
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 4148664959616948110
+                }
+            ],
             "pathId": -6581509673256360758,
             "blockIdx": 47
         },
@@ -505,6 +996,17 @@
             "jpText": "トレーナーさん、今日は本当にセンキューでした。\r\nまたニホンのナイススポット、探しまショウネ！",
             "enText": "Trainer-san, thank you very much for today. \nLet's go look for more nice spots in Japan again sometime!",
             "nextBlock": 49,
+            "origClipLength": 269,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7127284494847098411
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1925139260311389189
+                }
+            ],
             "pathId": -5469148020658222343,
             "blockIdx": 48
         },
@@ -514,6 +1016,13 @@
             "jpText": "……後日『American pop culture！』\r\nというタイトルでアメリカからメールが届いた。",
             "enText": "…Several days later, I received a mail \ntitled [American pop culture!] from America.",
             "nextBlock": 50,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 5766084189127335880
+                }
+            ],
             "pathId": -2329006538688745963,
             "blockIdx": 49
         },
@@ -523,6 +1032,7 @@
             "jpText": "そこにはバーベキューを楽しむ幼いタイキシャトルの\r\n家族写真が添付されており――",
             "enText": "Attached was a photo of a fun-looking barbeque \nwith a younger Taiki Shuttle and her family-",
             "nextBlock": 51,
+            "origClipLength": 97,
             "pathId": 4144095606543353013,
             "blockIdx": 50
         },
@@ -532,8 +1042,10 @@
             "jpText": "平仮名で短く『むすめありがとうよろしく！』と書かれていた。",
             "enText": "Written in hiragana was a short message, \n[Thanks for taking care of our daughter!].",
             "nextBlock": -1,
+            "origClipLength": 82,
             "pathId": -1665493957495485513,
             "blockIdx": 51
         }
-    ]
+    ],
+    "modified": 1669933659
 }

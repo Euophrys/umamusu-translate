@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DQ3PAESPC6DBL3OJXOHETVK5CSTJRSHS",
     "type": "story",
     "storyId": "041052002",
@@ -11,6 +11,7 @@
             "jpText": "競技大会から数日後――\nトレーニングコースでなにやら盛り上がる一角を見かけた。",
             "enText": "A few days after the competition, I saw an\nexciting corner of the training course.",
             "nextBlock": 2,
+            "origClipLength": 95,
             "pathId": -1987748680464391996,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "はっ……はっ……ゴール！",
             "enText": "Haha… haha… goal!",
             "nextBlock": 3,
+            "origClipLength": 105,
             "pathId": -4323038769383978406,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "覗いてみると、ウマ娘たちがレース形式で競っているようだった。\r\n先にゴールを駆け抜けたウマ娘のはるか後方にいたのは……。",
             "enText": "When I took a peek, I saw that the Uma Musume were competing in\na race format. The first Uma Musume to cross the finish line\nwas… far behind her.",
             "nextBlock": 4,
+            "origClipLength": 123,
             "pathId": 2072845051150757398,
             "blockIdx": 3
         },
@@ -38,6 +41,17 @@
             "jpText": "ぜえ……ぜえ……んんん～ごおおお～る！",
             "enText": "Zee… zee… nnn~goooooooo!",
             "nextBlock": 5,
+            "origClipLength": 177,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 394014644801144721
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -393094033429022841
+                }
+            ],
             "pathId": 7739732530455386106,
             "blockIdx": 4
         },
@@ -47,6 +61,17 @@
             "jpText": "はあ……はあ～……負けちゃったぁ～……。",
             "enText": "Haha… haha~… I lost~…",
             "nextBlock": 6,
+            "origClipLength": 138,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 579995592945085090
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -2292447452269035152
+                }
+            ],
             "pathId": 5228980366505013286,
             "blockIdx": 5
         },
@@ -56,6 +81,17 @@
             "jpText": "ウララちゃん、お疲れさま。\n楽しかったよ！",
             "enText": "Thanks for your help, Ulala. It was fun!",
             "nextBlock": 7,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 419023445582138612
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -6059817463172442001
+                }
+            ],
             "pathId": 3911006861155544803,
             "blockIdx": 6
         },
@@ -65,6 +101,21 @@
             "jpText": "こっちもレースしてくれてありがとう！\r\n今度は負けないからね！",
             "enText": "Thanks for racing me too! I won't let you down this time!",
             "nextBlock": 8,
+            "origClipLength": 144,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -5246509656776560308
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -4340719510978058995
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -4616656718595294115
+                }
+            ],
             "pathId": -2779904842612487596,
             "blockIdx": 7
         },
@@ -74,6 +125,7 @@
             "jpText": "よーし、次は誰と走ろうかなぁ～！\r\n……って、あれ？　トレーナーだ！",
             "enText": "Alright, who should I run with next~!\n… huh? It's a trainer!",
             "nextBlock": 9,
+            "origClipLength": 185,
             "choices": [
                 {
                     "jpText": "模擬レースをしてたのか？",
@@ -86,6 +138,16 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 4567501905369093487
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 4340674961630768553
+                }
+            ],
             "pathId": 1308534909488756003,
             "blockIdx": 8
         },
@@ -95,6 +157,13 @@
             "jpText": "これは～模擬レースじゃなくて、“どーじょーやぶり”！",
             "enText": "This is not a mock race, it's a doozy!",
             "nextBlock": 10,
+            "origClipLength": 141,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -2714280688726291956
+                }
+            ],
             "pathId": -4264489797244329784,
             "blockIdx": 9
         },
@@ -104,6 +173,21 @@
             "jpText": "昨日漫画で見たんだ！　『たのもー！』って戦いを挑んで、\r\n強い人をばったばったと倒していくの！",
             "enText": "I saw it in a comic book yesterday! I saw a manga\nyesterday! And then she challenges them to a fight\nand defeats the strongest of them!",
             "nextBlock": 11,
+            "origClipLength": 237,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 3179375599937640115
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 8323050567832680792
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -8643135035349945056
+                }
+            ],
             "pathId": -775584411624103666,
             "blockIdx": 10
         },
@@ -113,11 +197,26 @@
             "jpText": "『それが強くなるための道だ』って漫画で言ってたから、\r\nわたしもやってみることにしたんだ！",
             "enText": "The manga said, \"That's the way to get stronger,\"\nso I decided to give it a try.",
             "nextBlock": 12,
+            "origClipLength": 204,
             "choices": [
                 {
                     "jpText": "逆に倒されてたような……",
                     "enText": "It's like it was knocked over backwards…",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -3908302159504820712
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 8290401647359630835
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 8502284129578522643
                 }
             ],
             "pathId": 7358988783847613272,
@@ -129,6 +228,17 @@
             "jpText": "でも次は勝てると思うよ！\r\nなんか、そんな気がするんだよね！",
             "enText": "But I think we can win next time! I have a feeling we will!",
             "nextBlock": 13,
+            "origClipLength": 147,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7906046246706282759
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 1489264905072614186
+                }
+            ],
             "pathId": 6477389820137900379,
             "blockIdx": 12
         },
@@ -138,6 +248,13 @@
             "jpText": "さてと、“どーじょーやぶり”を続けよーっと！\n次なる相手は～……。",
             "enText": "And now, let's continue with the \"dojo-burning\"!\nMy next opponent is…",
             "nextBlock": 14,
+            "origClipLength": 192,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 8853132406105100913
+                }
+            ],
             "pathId": -3993861324623203169,
             "blockIdx": 13
         },
@@ -147,6 +264,17 @@
             "jpText": "あっ！　スペちゃんだ！\r\nスーペちゃ～ん！！",
             "enText": "Ah! It's Supe! Hey, Supe!",
             "nextBlock": 15,
+            "origClipLength": 127,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -8787236327281613658
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 5195708974132607911
+                }
+            ],
             "pathId": 6367240563901867094,
             "blockIdx": 14
         },
@@ -156,6 +284,17 @@
             "jpText": "ああ、ウララちゃん！\nウララちゃんもトレーニング？",
             "enText": "Oh, Ulala! Are you training, too, Ulala?",
             "nextBlock": 16,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 3975265684183618162
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -6121628839720639188
+                }
+            ],
             "pathId": 6600305388604708312,
             "blockIdx": 15
         },
@@ -165,6 +304,25 @@
             "jpText": "うん！　新しいトレーニングを思いついたんだ～！\nスペちゃん、たのもーっ！！",
             "enText": "Yeah! I've got a new training idea! Spe-chan,\nI'm looking forward to it!",
             "nextBlock": 17,
+            "origClipLength": 211,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 9163846899830365242
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -4413376971636300296
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -1973376475966818770
+                },
+                {
+                    "origLen": 234,
+                    "pathId": -1131683540988003637
+                }
+            ],
             "pathId": -3384291639769478200,
             "blockIdx": 16
         },
@@ -174,6 +332,17 @@
             "jpText": "え？　頼もう……？",
             "enText": "What? Let's ask…?",
             "nextBlock": 18,
+            "origClipLength": 74,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 7851066474954750451
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4946745448137590187
+                }
+            ],
             "pathId": 4638417408495140319,
             "blockIdx": 17
         },
@@ -183,6 +352,17 @@
             "jpText": "レースだよ、レース！　走ろう、スペちゃん！",
             "enText": "Race you, race you! Let's race, Spee!",
             "nextBlock": 19,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -1440719531412869894
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 5777390919243565025
+                }
+            ],
             "pathId": 5795108576100244249,
             "blockIdx": 18
         },
@@ -192,6 +372,21 @@
             "jpText": "えっ、えっ？",
             "enText": "What? What?",
             "nextBlock": 20,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 183394427702641623
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 4631185288156870701
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -4442317925714180034
+                }
+            ],
             "pathId": -1821453070465338155,
             "blockIdx": 19
         },
@@ -201,6 +396,17 @@
             "jpText": "こうして再び、ハルウララの“どーじょーやぶり”が\n始まったのだが……。",
             "enText": "Thus, Haluura's \"dojo burning\" began again…",
             "nextBlock": 21,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -8477116385174333168
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 7115165840166391243
+                }
+            ],
             "pathId": 2935863015533625813,
             "blockIdx": 20
         },
@@ -210,6 +416,13 @@
             "jpText": "ふぅ……ふぅ……ゴール！",
             "enText": "Huh… Huh… Goal!",
             "nextBlock": 22,
+            "origClipLength": 122,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -6790546203705598698
+                }
+            ],
             "pathId": -1855113114546698588,
             "blockIdx": 21
         },
@@ -219,6 +432,17 @@
             "jpText": "スペシャルウィークのゴールから、しばらくして……。",
             "enText": "A short time after Special Week's goal…",
             "nextBlock": 23,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -4113683915638749302
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -559656114310255607
+                }
+            ],
             "pathId": 3512734241371298500,
             "blockIdx": 22
         },
@@ -228,6 +452,25 @@
             "jpText": "ぜえ……ぜえ……ごおるうぅ～……。",
             "enText": "Zee… zee… gooruuu~…",
             "nextBlock": 24,
+            "origClipLength": 145,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 5079574413547205170
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 539560897978580870
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 1174948151725593287
+                },
+                {
+                    "origLen": 167,
+                    "pathId": 8283338387410967328
+                }
+            ],
             "pathId": -8885072982199293825,
             "blockIdx": 23
         },
@@ -237,6 +480,25 @@
             "jpText": "も、もうダメぇ～……。",
             "enText": "I can't take it anymore…",
             "nextBlock": 25,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 9,
+                    "pathId": 2324304504869143929
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -7561960269549533389
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 5166899904512407189
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 8954955474948934846
+                }
+            ],
             "pathId": 5026906125791033085,
             "blockIdx": 24
         },
@@ -246,6 +508,25 @@
             "jpText": "ああっ！？　ウララちゃん！？",
             "enText": "Aah! Urara!",
             "nextBlock": 26,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 1545279934666772776
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -3083378593151321558
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -5844592486500664341
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -1644669770635125756
+                }
+            ],
             "pathId": 8305327519527285570,
             "blockIdx": 25
         },
@@ -255,6 +536,21 @@
             "jpText": "大差をつけられても、最後まで全力で走り切ったハルウララは、\r\nその場で崩れるように倒れ込んだ。",
             "enText": "Halulala, who had run as hard as she could to the end despite\nthe huge gap, collapsed on the spot.",
             "nextBlock": 27,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -2860188459436168743
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2433418521230655186
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -540789358393936882
+                }
+            ],
             "pathId": -6831455834019097089,
             "blockIdx": 26
         },
@@ -264,6 +560,17 @@
             "jpText": "ふう～、倒れる寸前だったよ！",
             "enText": "Whew, I almost fell over!",
             "nextBlock": 28,
+            "origClipLength": 122,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 7381484587306428711
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 2736077605067845075
+                }
+            ],
             "pathId": 3080210245062117259,
             "blockIdx": 27
         },
@@ -273,6 +580,17 @@
             "jpText": "寸前じゃなくて、倒れちゃってたけど……。",
             "enText": "I wasn't on the verge, I was falling down…",
             "nextBlock": 29,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -3074223102282501170
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 8735499285601191393
+                }
+            ],
             "pathId": -2474059658832090857,
             "blockIdx": 28
         },
@@ -282,6 +600,17 @@
             "jpText": "でももう大丈夫、たっぷり休んだから！",
             "enText": "But I'm fine now, I've had plenty of rest!",
             "nextBlock": 30,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -7940525016925167957
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -4812642546219788989
+                }
+            ],
             "pathId": 504794414127187516,
             "blockIdx": 29
         },
@@ -291,6 +620,17 @@
             "jpText": "それにしても、スペちゃんやるね～。\r\nわたしが見込んだ相手なだけあるよ！",
             "enText": "By the way, you're really good, Spe! She's\njust the kind of person I expected!",
             "nextBlock": 31,
+            "origClipLength": 172,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 7674822700102192756
+                },
+                {
+                    "origLen": 190,
+                    "pathId": -698042923676845169
+                }
+            ],
             "pathId": 8942069041297235063,
             "blockIdx": 30
         },
@@ -300,6 +640,21 @@
             "jpText": "あ、ありがとうございます……？",
             "enText": "Oh, thank you very much…?",
             "nextBlock": 32,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -1685060200475325965
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -3485344599004262532
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 6370495324875552079
+                }
+            ],
             "pathId": 5721087774556340849,
             "blockIdx": 31
         },
@@ -309,6 +664,25 @@
             "jpText": "でも、今度はきっと負けないよ！",
             "enText": "But I'm sure you won't lose this time!",
             "nextBlock": 33,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 4760296496078503012
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -4528310592242293936
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 6519864620156426592
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3131993083865217510
+                }
+            ],
             "pathId": 3581286715193739374,
             "blockIdx": 32
         },
@@ -318,6 +692,17 @@
             "jpText": "ダダダーって走るスペちゃんを見て、\r\nわたしもできる気がしたから！",
             "enText": "When I saw Spe-chan running, I felt like I could do it too!",
             "nextBlock": 34,
+            "origClipLength": 147,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 4715135781696659931
+                },
+                {
+                    "origLen": 172,
+                    "pathId": 3902627336470144357
+                }
+            ],
             "pathId": 6805323068949281216,
             "blockIdx": 33
         },
@@ -327,6 +712,21 @@
             "jpText": "はい、また走りましょう！",
             "enText": "Yes, let's run again!",
             "nextBlock": 35,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -4059789287580751232
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -3604425817165397384
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -2726631550944414328
+                }
+            ],
             "pathId": -3917382633427363921,
             "blockIdx": 34
         },
@@ -336,6 +736,17 @@
             "jpText": "えっへへ、約束ね！",
             "enText": "Hehehe, a promise!",
             "nextBlock": 36,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -3555000429139062562
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 2699316058989563236
+                }
+            ],
             "pathId": -8814584567210345661,
             "blockIdx": 35
         },
@@ -345,6 +756,25 @@
             "jpText": "よーし、次は誰と“どーじょーやぶり”しようかな～。\r\nたのもー！　たのもー！",
             "enText": "Alright, who should I play \"Dojo-yakuri\"\nwith next? I love it! I love you!",
             "nextBlock": 37,
+            "origClipLength": 240,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 1944273704117147632
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -8210671366046013979
+                },
+                {
+                    "origLen": 181,
+                    "pathId": 1252578744028248627
+                },
+                {
+                    "origLen": 210,
+                    "pathId": 6521479570533188294
+                }
+            ],
             "pathId": -3869033435291225924,
             "blockIdx": 36
         },
@@ -354,6 +784,17 @@
             "jpText": "あっ……行っちゃった……。",
             "enText": "Oh, I went to…",
             "nextBlock": 38,
+            "origClipLength": 83,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -2338268032075139097
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -3914742024765723162
+                }
+            ],
             "pathId": 2150395774093527016,
             "blockIdx": 37
         },
@@ -363,6 +804,7 @@
             "jpText": "……やっぱり、ウララちゃんはすごいなぁ。\r\nどんな時でも、元気いっぱいで明るくて。",
             "enText": "… I knew Urara was amazing. She is\nalways full of energy and cheerful.",
             "nextBlock": 39,
+            "origClipLength": 203,
             "choices": [
                 {
                     "jpText": "いつも前向きだよな",
@@ -375,6 +817,12 @@
                     "nextBlock": 39
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": 1319977558410233855
+                }
+            ],
             "pathId": -2934867435484246239,
             "blockIdx": 38
         },
@@ -384,6 +832,17 @@
             "jpText": "そうなんです！　私なんてレースで負けると、\r\nダメだな～って落ち込んじゃったりするんですけど……。",
             "enText": "That's right! When I lose a race, I get depressed because I\nfeel like I'm not good enough…",
             "nextBlock": 40,
+            "origClipLength": 216,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 1264648897775194516
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 2235456314746219575
+                }
+            ],
             "pathId": -5055401498927207668,
             "blockIdx": 39
         },
@@ -393,6 +852,21 @@
             "jpText": "前向きなウララちゃんを見てると、\r\n私もがんばらなきゃって元気が湧いてくるんです。",
             "enText": "When I see her positive attitude, it\ninspires me to do my best too.",
             "nextBlock": 41,
+            "origClipLength": 178,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 1154469699185552053
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 5691262289020546717
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2544095509352555490
+                }
+            ],
             "pathId": 573034006181508056,
             "blockIdx": 40
         },
@@ -402,6 +876,17 @@
             "jpText": "よーし、ウララちゃんを見習ってトレーニングがんばろっと！",
             "enText": "Okay, I'm going to follow Urara's example and train hard!",
             "nextBlock": 42,
+            "origClipLength": 141,
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": -4527899752626058955
+                },
+                {
+                    "origLen": 142,
+                    "pathId": 7282902992332280335
+                }
+            ],
             "pathId": -7491130012759936255,
             "blockIdx": 41
         },
@@ -411,6 +896,17 @@
             "jpText": "競技大会でも、“どーじょーやぶり”でも、\r\nたとえ負けても前向きに走り続けるハルウララ。",
             "enText": "Whether it's a competition or a \"dojo-yaburi,\" Haru'ula\ncontinues to run with a positive attitude, even when she loses.",
             "nextBlock": 43,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 4543969934666982191
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1775311291623116550
+                }
+            ],
             "pathId": -5196145019942245537,
             "blockIdx": 42
         },
@@ -420,8 +916,10 @@
             "jpText": "彼女のひたむきな姿は、周りにも影響を与えているようだった。",
             "enText": "Her dedication seemed to have an effect\non the people around her.",
             "nextBlock": -1,
+            "origClipLength": 82,
             "pathId": 5548428257750271347,
             "blockIdx": 43
         }
-    ]
+    ],
+    "modified": 1669933743
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4GUU3SDJGKE5CEI3PNLHQXM5IEAQOA5T",
     "type": "story",
     "storyId": "041032001",
@@ -11,6 +11,7 @@
             "jpText": "頭が痛い……。",
             "enText": "My head hurts...",
             "nextBlock": 2,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "（あれ……俺は一体……？）",
@@ -32,6 +33,17 @@
             "jpText": "暗闇に閉ざされていた意識が、ゆっくりと覚醒する。\r\nそして――",
             "enText": "I slowly awaken from the dark state that surrounded me when—",
             "nextBlock": 3,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 1844943880455556794
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 6132535630029508884
+                }
+            ],
             "pathId": 2478600272651904063,
             "blockIdx": 2
         },
@@ -41,11 +53,22 @@
             "jpText": "――おや。目が覚めたかい？",
             "enText": "...Oh, have you woken up?",
             "nextBlock": 4,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "アグネスタキオン……？",
                     "enText": "A-Agnes Tachyon...?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 6510612370379469000
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 6922133862957684143
                 }
             ],
             "pathId": -1965924849600829584,
@@ -57,6 +80,13 @@
             "jpText": "『凄まじい能力を秘めたウマ娘だ』と新人トレーナーの自分でさえ\r\n聞いたことのあるアグネスタキオンが、目の前に立っていた……。",
             "enText": "Agnes Tachyon is a horse girl with tremendous ability. \nEven a rookie trainer like myself has heard of her. \nBut to think that she'd actually stand before me...",
             "nextBlock": 5,
+            "origClipLength": 125,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 4815765513553649315
+                }
+            ],
             "pathId": 2858182621933071234,
             "blockIdx": 4
         },
@@ -66,6 +96,13 @@
             "jpText": "多少の混乱状態にあるようだね。\r\n意識を取り戻したばかりなんだ、あまり無理をしない方がいい。",
             "enText": "You appear to be a bit confused. You did just regain \nconsciousness, so it's best to not exert yourself.",
             "nextBlock": 6,
+            "origClipLength": 224,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 8312076927644748714
+                }
+            ],
             "pathId": -2262797889273545713,
             "blockIdx": 5
         },
@@ -75,6 +112,13 @@
             "jpText": "ほら、椅子に座って。リラックスすべきだ。",
             "enText": "Go sit on this chair. Make yourself feel at home.",
             "nextBlock": 7,
+            "origClipLength": 131,
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": -8372283731189712994
+                }
+            ],
             "pathId": 4904285455411610490,
             "blockIdx": 6
         },
@@ -84,6 +128,13 @@
             "jpText": "促されるがまま、保健室の丸椅子に腰かけた。",
             "enText": "I sat down on the chair just as she said.",
             "nextBlock": 8,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 2268119306984458257
+                }
+            ],
             "pathId": -2426540529610066914,
             "blockIdx": 7
         },
@@ -93,6 +144,17 @@
             "jpText": "さて……自分が何故ここにいるかは？　思い出せるかな？",
             "enText": "Now then, you're probably wondering how you \nended up in this situation. Remember anything?",
             "nextBlock": 9,
+            "origClipLength": 170,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 4651305635769840069
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -7206004627810743660
+                }
+            ],
             "pathId": 1003456485226930181,
             "blockIdx": 8
         },
@@ -102,11 +164,22 @@
             "jpText": "ちなみに、気を失った君をここまで運搬したのは私だよ。\r\n故に君が思い出すべきは、『何故』『いかにして』気を失ったかだ。",
             "enText": "By the way, I was the one who brought you over here. Therefore, \nwhat you need to remember is \"how\" and \"why\" you blacked out.",
             "nextBlock": 10,
+            "origClipLength": 311,
             "choices": [
                 {
                     "jpText": "えっと……",
                     "enText": "Umm...",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 220,
+                    "pathId": 6727620417555604460
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -6520961353104781868
                 }
             ],
             "pathId": -4176548300972223769,
@@ -118,6 +191,13 @@
             "jpText": "ずきずきと鈍痛がする頭をどうにか回して、考えを巡らせる。\r\n確か自分は、今日……廊下を歩いていて……。",
             "enText": "I somehow managed to wrap my throbbing head around this. \nIf I recall correctly, I was walking down the hallway when...",
             "nextBlock": 11,
+            "origClipLength": 131,
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": 6334741164481552869
+                }
+            ],
             "pathId": -5712068836543190550,
             "blockIdx": 10
         },
@@ -127,6 +207,13 @@
             "jpText": "こらこらこらぁーーーっ！！\r\nそこのタキオンさん、お待ちなさぁーーーいっ！！",
             "enText": "Hoooold it! Tachyon-san, wait right hereeeee!",
             "nextBlock": 12,
+            "origClipLength": 200,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3535028352196227347
+                }
+            ],
             "pathId": -8332613449801926867,
             "blockIdx": 11
         },
@@ -136,6 +223,21 @@
             "jpText": "おやおや、バクシンオー君！　そんなに慌ててどうしたのかな？\r\n君の愛する教室が黒焦げになったわけでもあるまいに。",
             "enText": "Oh my. Whatever is the matter, Bakushin O-kun? \nIt's not like your beloved classroom was burned to a crisp.",
             "nextBlock": 13,
+            "origClipLength": 276,
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 2726095556706009388
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6207770460084200371
+                },
+                {
+                    "origLen": 250,
+                    "pathId": -459242851414173409
+                }
+            ],
             "pathId": 4042056254843870710,
             "blockIdx": 12
         },
@@ -145,6 +247,21 @@
             "jpText": "ハイ、黒焦げにはなりませんでしたともッ！！",
             "enText": "Right! It wasn't burned to a crisp!",
             "nextBlock": 14,
+            "origClipLength": 79,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -2113891676142247418
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5475256318485191683
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 8602941358697251645
+                }
+            ],
             "pathId": -8449934687609684128,
             "blockIdx": 13
         },
@@ -154,6 +271,25 @@
             "jpText": "よし、平和平和。では私はこれで。",
             "enText": "So all is well. I shall take my leave.",
             "nextBlock": 15,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 4956187001236422971
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 5478629617913973734
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -6019736295155009933
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 5780673043434361613
+                }
+            ],
             "pathId": 2851156299175178108,
             "blockIdx": 14
         },
@@ -163,6 +299,29 @@
             "jpText": "委員長ストォーーーーップ！！\r\n全然平和じゃありませんよ！？",
             "enText": "The class prez commands you to stooooop! \nThere is nothing \"well\" about this at all!",
             "nextBlock": 16,
+            "origClipLength": 130,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -7859312606292107204
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3355923516634995999
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -8314522501133819153
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -1826453129017878946
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -57662982481410893
+                }
+            ],
             "pathId": 623971018192717164,
             "blockIdx": 15
         },
@@ -172,6 +331,21 @@
             "jpText": "確かに黒焦げにはなりませんでしたがッ！！\r\nその前段階くらいにはたどりついていましたよッ！？",
             "enText": "It may not be burned to a crisp, \nbut it was very much close to being that!",
             "nextBlock": 17,
+            "origClipLength": 177,
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": 3913678161412565280
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 4268334260471551794
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4918731964138685902
+                }
+            ],
             "pathId": 6889855051224834002,
             "blockIdx": 16
         },
@@ -181,6 +355,25 @@
             "jpText": "教室のほんの一角で、少～しばかり煙が立っただけだろう？\r\n学級委員長ほどの人物が、目くじらを立てるようなことかな。",
             "enText": "There was only a little smoke in the corner, no? \nWould a class president really be this worked up about that?",
             "nextBlock": 18,
+            "origClipLength": 345,
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -8730416300333441781
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 3309833453241438220
+                },
+                {
+                    "origLen": 293,
+                    "pathId": 154720624709970122
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4505111519652523238
+                }
+            ],
             "pathId": 5706543486563928215,
             "blockIdx": 17
         },
@@ -190,6 +383,25 @@
             "jpText": "むぅ！？　む、むむむん……そう言われてしまうと……。",
             "enText": "Huh?! Um, hmm... Now that you mention it...",
             "nextBlock": 19,
+            "origClipLength": 184,
+            "animData": [
+                {
+                    "origLen": 195,
+                    "pathId": 8192988066137983441
+                },
+                {
+                    "origLen": 195,
+                    "pathId": -4651393527830939061
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -112905312137202754
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1490630948504937059
+                }
+            ],
             "pathId": 3180075917938191502,
             "blockIdx": 18
         },
@@ -199,6 +411,21 @@
             "jpText": "教室全体をもうもうと黒煙が覆った程度、\r\n寛大な心で許すべき……？",
             "enText": "Would a benevolent class president forgive something \nso trivial like filling an entire classroom with smoke...?",
             "nextBlock": 20,
+            "origClipLength": 180,
+            "animData": [
+                {
+                    "origLen": 191,
+                    "pathId": 1054676562504420265
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7002842933858186437
+                },
+                {
+                    "origLen": 141,
+                    "pathId": 7801940247381485034
+                }
+            ],
             "pathId": 7051188043366544728,
             "blockIdx": 19
         },
@@ -208,6 +435,17 @@
             "jpText": "寛大さは美徳だよ、委員長君。\r\nそれでは、今度こそ私はこれで――",
             "enText": "Leniency is a virtue, Class President. \nIf that's all, I'll truly be leaving now—",
             "nextBlock": 21,
+            "origClipLength": 249,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5852050735151627404
+                },
+                {
+                    "origLen": 260,
+                    "pathId": 7676645461818349181
+                }
+            ],
             "pathId": -2626005246822432648,
             "blockIdx": 20
         },
@@ -217,6 +455,17 @@
             "jpText": "……ハッ、いえ！『何を言われてもとりあえず捕まえて来い』と、\r\nそういえば先生から8回ほど言いつけられていました……！！",
             "enText": "...Wait, no! Come to think of it, the teacher said \n\"bring her to me no matter what she says\" eight times!",
             "nextBlock": 22,
+            "origClipLength": 275,
+            "animData": [
+                {
+                    "origLen": 218,
+                    "pathId": -7397992891200157491
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 480508194409099139
+                }
+            ],
             "pathId": -7431864423212712574,
             "blockIdx": 21
         },
@@ -226,6 +475,17 @@
             "jpText": "というわけで逃がしませんよッ、タキオンさぁーーーん！！",
             "enText": "And because of that, I'm not letting you go so easily, \nTachyon-saaaan!",
             "nextBlock": 23,
+            "origClipLength": 141,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -7408120479279517685
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7795967728541196042
+                }
+            ],
             "pathId": 7117610975384309029,
             "blockIdx": 22
         },
@@ -235,6 +495,7 @@
             "jpText": "アッハッハッハ！　さすがに誤魔化されないか！！",
             "enText": "Ahahaha! You truly won't get fooled, huh?",
             "nextBlock": 24,
+            "origClipLength": 130,
             "pathId": 4465413760383961301,
             "blockIdx": 23
         },
@@ -244,6 +505,7 @@
             "jpText": "待て待てえぇーーーーーーーい！！\r\nバクシンバクシィィィイイイン！！",
             "enText": "I'm not going to let you get awayyyy! \nBakushin bakushiiiin!",
             "nextBlock": 25,
+            "origClipLength": 174,
             "pathId": 2403508350126516347,
             "blockIdx": 24
         },
@@ -253,6 +515,7 @@
             "jpText": "ハッ……そこのトレーナーさん！\r\nタキオンさんを通さないでくださぁーいいッ！！",
             "enText": "Ah! Trainer over there! \nDon't let Tachyon-san get awayyyy!",
             "nextBlock": 26,
+            "origClipLength": 184,
             "choices": [
                 {
                     "jpText": "（お、俺……！？）",
@@ -274,6 +537,21 @@
             "jpText": "ん……？　おっと！！",
             "enText": "Hm...? Oop!",
             "nextBlock": 27,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -6611188554014202984
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8508625188749574697
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 6449951459620355423
+                }
+            ],
             "pathId": -6254631357997912729,
             "blockIdx": 26
         },
@@ -283,6 +561,13 @@
             "jpText": "………………。",
             "enText": ".........",
             "nextBlock": 28,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -5592660999347573028
+                }
+            ],
             "pathId": -875256968756803516,
             "blockIdx": 27
         },
@@ -292,6 +577,17 @@
             "jpText": "――ふぅン、ことの経緯までどうにか思い出せたようだね。",
             "enText": "...Hmm, it seems you have recovered some of your memories.",
             "nextBlock": 29,
+            "origClipLength": 157,
+            "animData": [
+                {
+                    "origLen": 180,
+                    "pathId": -7758419681441655592
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -2388537622524721572
+                }
+            ],
             "pathId": 588360748591612356,
             "blockIdx": 28
         },
@@ -301,11 +597,22 @@
             "jpText": "思い出せはしたがその結果、目の前の彼女がどうやら教室で\r\n黒煙騒ぎを起こした張本人であるという事実も明らかになった……。",
             "enText": "After regaining memory, I realize that the girl in front of me is \nthe one responsible for filling a whole classroom with smoke...",
             "nextBlock": 30,
+            "origClipLength": 123,
             "choices": [
                 {
                     "jpText": "どうして教室で黒煙を……？",
                     "enText": "Why would you do that...?",
                     "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": 6544751955606898790
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 4388077259109560196
                 }
             ],
             "pathId": -8877376189458856680,
@@ -317,6 +624,17 @@
             "jpText": "奇妙なことを訊ねるね君は。\r\nそんなモノ、『研究の一環』以外にどんな解答が存在するんだ？",
             "enText": "What a strange question to ask. \nThere's no other answer to this than \"it's part of my research\"!",
             "nextBlock": 31,
+            "origClipLength": 274,
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": -3752016383130331878
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -18819332731931583
+                }
+            ],
             "pathId": 4693734986261731118,
             "blockIdx": 30
         },
@@ -326,11 +644,22 @@
             "jpText": "『研究』――そう言い放ったアグネスタキオンの瞳が、\r\nぎらりと妖しく光る。",
             "enText": "When Agnes Tachyon said \"research,\" \na mysterious sparkle appeared in her eyes.",
             "nextBlock": 32,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "（ちょっと不気味な感じがする……）",
                     "enText": "(I have a bad feeling about this...)",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -2411703763298410999
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 5874593713405922304
                 }
             ],
             "pathId": -1930611082348969813,
@@ -342,6 +671,17 @@
             "jpText": "あまり彼女と関わり合いにならない方がいいのかもしれない。\r\nそう思い、椅子から立ち上がろうとしたが――",
             "enText": "It's best to not get involved with her. \nI was about to stand up when I realized—",
             "nextBlock": 33,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 1653747771543981610
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8535173081726218478
+                }
+            ],
             "pathId": 2366140972819059733,
             "blockIdx": 32
         },
@@ -351,11 +691,18 @@
             "jpText": "（ギシッ……）",
             "enText": "*creak*",
             "nextBlock": 34,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "あれ！？動けない！？",
                     "enText": "Huh?! I can't move?!",
                     "nextBlock": 34
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 4345365776175274357
                 }
             ],
             "pathId": -2473404945716146073,
@@ -367,6 +714,13 @@
             "jpText": "いつの間にか椅子に縛り付けられている……！",
             "enText": "I got tied to the chair without noticing...!",
             "nextBlock": 35,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -1875324592918194702
+                }
+            ],
             "pathId": -1046490580345179109,
             "blockIdx": 34
         },
@@ -376,6 +730,17 @@
             "jpText": "君、考えごとに没頭すると、他に意識が向かなくなるタイプかい？\r\nいや私もそこに関しては同類だ、気持ちはわからなくもないがね。",
             "enText": "Are you the type of person to get so lost in thought that you \nforget your surroundings? I'm also the same, so I can't say I \ndon't know how that feels.",
             "nextBlock": 36,
+            "origClipLength": 369,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -6532334881644861452
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -1723961301915007349
+                }
+            ],
             "pathId": 7440946123654345068,
             "blockIdx": 35
         },
@@ -385,6 +750,17 @@
             "jpText": "とはいえ親切心から忠告しておくけれど、\r\n自分の状態ぐらいは、常に気を配ることをお勧めするよ。",
             "enText": "Nevertheless, I shall kindly advise you to \nkeep an eye on your surroundings at all times.",
             "nextBlock": 37,
+            "origClipLength": 274,
+            "animData": [
+                {
+                    "origLen": 200,
+                    "pathId": -7681037160882618653
+                },
+                {
+                    "origLen": 148,
+                    "pathId": -4618842696536372961
+                }
+            ],
             "pathId": -2228068224783330057,
             "blockIdx": 36
         },
@@ -394,11 +770,23 @@
             "jpText": "“健康で元気な成人男性”という被験体を求めてやまない研究者と、\r\nいつどこで巡り合ってしまうかわからないだろう？",
             "enText": "After all, you'll never know when you run into a researcher \nthat's looking for a healthy, adult male test subject.",
             "nextBlock": 38,
+            "origClipLength": 293,
             "choices": [
                 {
                     "jpText": "ひ、被験体……！？",
                     "enText": "T-Test subject...?!",
                     "nextBlock": 39
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 6527984733991140479
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 8235835971777269937
                 }
             ],
             "pathId": 1961622721041565520,
@@ -410,11 +798,23 @@
             "jpText": "“健康で元気な成人女性”という被験体を求めてやまない研究者と、\r\nいつどこで巡り合ってしまうかわからないだろう？",
             "enText": "After all, you'll never know when you run into a researcher \nthat's looking for a healthy, adult female test subject.",
             "nextBlock": 39,
+            "origClipLength": 298,
             "choices": [
                 {
                     "jpText": "ひ、被験体……！？",
                     "enText": "T-Test subject...?!",
                     "nextBlock": 39
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 3841138313727089279
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 3385853722711625323
                 }
             ],
             "pathId": -6192039877317342623,
@@ -426,6 +826,17 @@
             "jpText": "もっとも私にとっては、幸運が両足で歩いてやって来たと言うほか\r\n無いがね。たまには神様とやらにも感謝しておくとしよう。",
             "enText": "As for me, I'd say it's good luck that you came around. \nMaybe I should thank God every once in a while.",
             "nextBlock": 40,
+            "origClipLength": 325,
+            "animData": [
+                {
+                    "origLen": 282,
+                    "pathId": 8555896292615177377
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 274404752320037048
+                }
+            ],
             "pathId": 6975024593219165852,
             "blockIdx": 39
         },
@@ -435,6 +846,17 @@
             "jpText": "何しろ私の噂は、すっかり学園中に知れ渡ってしまったようでね。\r\n今となっては被験体を頼む所か、目が合うたび逃げられる始末だ。",
             "enText": "Everyone in the school knows me at this point. I can barely ask \nanyone to be my test subject before they run away from me.",
             "nextBlock": 41,
+            "origClipLength": 349,
+            "animData": [
+                {
+                    "origLen": 331,
+                    "pathId": -8573288647166874426
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -2567261267357576869
+                }
+            ],
             "pathId": -3729104021376654031,
             "blockIdx": 40
         },
@@ -444,6 +866,17 @@
             "jpText": "だというのに――ハーハッハ！\r\nまさか目の前に噂を知らぬ新人が現れるとは！　なんたる幸運！",
             "enText": "Despite all of that— Hahaha! \nA total newcomer who has never heard of the rumors about me \nmanifested right in front of my eyes! What are the chances?",
             "nextBlock": 42,
+            "origClipLength": 302,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 7977915368357242199
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -677364464698865889
+                }
+            ],
             "pathId": -8271834998591372728,
             "blockIdx": 41
         },
@@ -453,11 +886,22 @@
             "jpText": "というわけでモルモット君。\r\n――間違えた、新人トレーナー君。",
             "enText": "And so, little guinea pig—I mean, Rookie Trainer.",
             "nextBlock": 43,
+            "origClipLength": 140,
             "choices": [
                 {
                     "jpText": "今『モルモット』って言った！？",
                     "enText": "Did you just call me a guinea pig?!",
                     "nextBlock": 43
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -9193361552260307746
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -803642757278273926
                 }
             ],
             "pathId": 8511617677919074031,
@@ -469,6 +913,13 @@
             "jpText": "大の大人が些末なことを気にするな。",
             "enText": "A fully grown adult mustn't worry about such trivial matters!",
             "nextBlock": 44,
+            "origClipLength": 87,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -5577211302705458789
+                }
+            ],
             "pathId": 1333699786355493563,
             "blockIdx": 43
         },
@@ -478,11 +929,22 @@
             "jpText": "それよりも、これから1本……いや健康だしもっとイケるな、\r\n3本ほど薬を飲み干してもらうぞ。",
             "enText": "That aside, I'll be giving you a— Actually, since you're \nbig and strong, I'll be giving you three pills to take.",
             "nextBlock": 45,
+            "origClipLength": 281,
             "choices": [
                 {
                     "jpText": "何の薬……？",
                     "enText": "What are these pills for...?",
                     "nextBlock": 45
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 331550309582888167
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8947283067467573333
                 }
             ],
             "pathId": -8254444310637016809,
@@ -494,6 +956,17 @@
             "jpText": "ククククッ、それは、飲んでからのお楽しみというやつだよ。",
             "enText": "Ghehehe. Well, that is for <i>you</i> to find out.",
             "nextBlock": 46,
+            "origClipLength": 131,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 1542700100435101201
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 701133142423898525
+                }
+            ],
             "pathId": -1456296220866429659,
             "blockIdx": 45
         },
@@ -503,6 +976,17 @@
             "jpText": "あぁ大丈夫……最悪の結果になったとしても精々数時間、\r\n両脚の皮膚が黄緑色に発光するぐらいだ。可愛い副作用だろう？",
             "enText": "Don't worry about it... The worst that could happen is \nboth of your legs would start glowing green for while. \nIsn't that a cute side effect?",
             "nextBlock": 47,
+            "origClipLength": 337,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 4410965601429840659
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -53221393934230694
+                }
+            ],
             "pathId": -6154769420092666279,
             "blockIdx": 46
         },
@@ -512,6 +996,13 @@
             "jpText": "そんなことよりも重要なのは、この薬によって観測されるであろう\r\n人間の大腿四頭筋の収縮データだ。",
             "enText": "What's more important is being able to observe the effects \nof the human quadriceps contracting caused by this drug.",
             "nextBlock": 48,
+            "origClipLength": 253,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 4749920108624945679
+                }
+            ],
             "pathId": 5956393411835000383,
             "blockIdx": 47
         },
@@ -521,6 +1012,17 @@
             "jpText": "ウマ娘と人間の身体構造がほぼ同一であることはよく知られた\r\n事実だが、その両方のデータを比較することによって新たな――",
             "enText": "It is a well known fact that horse girls and humans have \nalmost identical body structures. However, by comparing \nsymptoms from both species, it's possible to develop a new—",
             "nextBlock": 49,
+            "origClipLength": 275,
+            "animData": [
+                {
+                    "origLen": 285,
+                    "pathId": -6532882091155999357
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -2280372083652502435
+                }
+            ],
             "pathId": 6134982270609781178,
             "blockIdx": 48
         },
@@ -530,6 +1032,21 @@
             "jpText": "タキオンさん……またそんなことやってるんですか……。",
             "enText": "Tachyon-san... What are you doing this time...?",
             "nextBlock": 50,
+            "origClipLength": 140,
+            "animData": [
+                {
+                    "origLen": 211,
+                    "pathId": 5489379365022665015
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2400847601348078352
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -5648007928864085055
+                }
+            ],
             "pathId": -5184206622654496351,
             "blockIdx": 49
         },
@@ -539,6 +1056,21 @@
             "jpText": "おや、カフェじゃないか！\r\nどうしたんだい、もしや実験に協力を――",
             "enText": "Why, hello, Cafe! What's the matter? \nAre you going to help me with my experi—",
             "nextBlock": 51,
+            "origClipLength": 170,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -3496661623288079723
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -369807573945035640
+                },
+                {
+                    "origLen": 182,
+                    "pathId": 6338442172555739694
+                }
+            ],
             "pathId": 7173481813642770513,
             "blockIdx": 50
         },
@@ -548,6 +1080,25 @@
             "jpText": "しません。先生が呼んでいるので、伝えに来ただけです……。\r\n次の選抜レース参加について……話が、あるそうですよ……。",
             "enText": "I am not. I'm only here because the teacher's calling you... \nIt seems they want to discuss your participation in the Selectors...",
             "nextBlock": 52,
+            "origClipLength": 363,
+            "animData": [
+                {
+                    "origLen": 374,
+                    "pathId": -2367832047890250752
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -393567518211129886
+                },
+                {
+                    "origLen": 155,
+                    "pathId": 4354200745903512759
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 3872912593634334204
+                }
+            ],
             "pathId": 1080451393886954328,
             "blockIdx": 51
         },
@@ -557,6 +1108,25 @@
             "jpText": "早く……行ってください。ほら……すぐに……。",
             "enText": "They're waiting. Hurry up and go... <i>Right now...</i>",
             "nextBlock": 53,
+            "origClipLength": 175,
+            "animData": [
+                {
+                    "origLen": 186,
+                    "pathId": -7586724064924212836
+                },
+                {
+                    "origLen": 176,
+                    "pathId": 3008909638917098813
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 2230760614031991838
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 1594227370793394614
+                }
+            ],
             "pathId": 671826086447263986,
             "blockIdx": 52
         },
@@ -566,6 +1136,25 @@
             "jpText": "おっとっと……わかったわかった、そう睨むなよ！\r\nしょうがない、実験はまた次の機会にしよう。",
             "enText": "Alright, alright. I get it. No need to make that scary face at me! \nLooks like we're out of time. I'll be conducting the tests at a later date.",
             "nextBlock": 54,
+            "origClipLength": 291,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -512259715768344997
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7632608198978697118
+                },
+                {
+                    "origLen": 302,
+                    "pathId": -6523774130560798245
+                },
+                {
+                    "origLen": 302,
+                    "pathId": -1920954215880936022
+                }
+            ],
             "pathId": -7322585906918589863,
             "blockIdx": 53
         },
@@ -575,6 +1164,21 @@
             "jpText": "新人トレーナー君、また会おう！",
             "enText": "Until we meet again, Rookie Trainer!",
             "nextBlock": 55,
+            "origClipLength": 214,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -7641604048549960080
+                },
+                {
+                    "origLen": 225,
+                    "pathId": -2542333943761207291
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 5426518383969208295
+                }
+            ],
             "pathId": -8653761988636716669,
             "blockIdx": 54
         },
@@ -584,6 +1188,13 @@
             "jpText": "……はぁ。縄……解きますね……。",
             "enText": "*sigh* I'll untie you...",
             "nextBlock": 56,
+            "origClipLength": 140,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 4935875823487511889
+                }
+            ],
             "pathId": -5204825066747705261,
             "blockIdx": 55
         },
@@ -593,8 +1204,16 @@
             "jpText": "『助かった』……心からそう安堵したのだった。",
             "enText": "I am—from the bottom of my heart—so grateful that I've been \"saved.\"",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -4400076191279416774
+                }
+            ],
             "pathId": -5528426435044854326,
             "blockIdx": 56
         }
-    ]
+    ],
+    "modified": 1669933713
 }

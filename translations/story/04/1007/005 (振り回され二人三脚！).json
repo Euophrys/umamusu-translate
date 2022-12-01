@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "KPDG3X35YRMPMTIEBDMBT35ZJ53DKIPS",
     "type": "story",
     "storyId": "041007005",
@@ -11,6 +11,7 @@
             "jpText": "――『ウマ娘とトレーナーは二人三脚の関係』、と言われている。\r\n時に支えあい、励ましあって勝利を目指す。",
             "enText": "—It is said that \"Uma Musume and her trainer have\na tripod relationship. Sometimes they support and\nencourage each other to achieve victory.",
             "nextBlock": 2,
+            "origClipLength": 112,
             "pathId": 6818957062030091213,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "トレーナーの役割は、日々のトレーニングを通して\r\nウマ娘のポテンシャルを十分に引き出すことだ。",
             "enText": "The role of the trainer is to bring out the full potential of\nUma's daughter through daily training.",
             "nextBlock": 3,
+            "origClipLength": 106,
             "pathId": -8302627592484183919,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "最高のトレーニングで、ゴールドシップに\r\n勝利を掴ませてあげられるよう頑張ろう……！",
             "enText": "Let's get the best training we can so we\ncan give Goldship the victory…!",
             "nextBlock": 4,
+            "origClipLength": 99,
             "pathId": 7596228640309042663,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "おいトレーナー！\r\n今からいっちょ海底神殿の探索に行こうぜ！",
             "enText": "Hey, trainer! Let's go explore the underwater temple now!",
             "nextBlock": 5,
+            "origClipLength": 138,
             "choices": [
                 {
                     "jpText": "いや、今日こそトレーニングに……！",
@@ -50,6 +54,12 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -108218035342992442
+                }
+            ],
             "pathId": -1303495125251330661,
             "blockIdx": 4
         },
@@ -59,6 +69,17 @@
             "jpText": "は？　オマエは海底神殿の探索が、\r\nトレーニングじゃないって言いたいのか？",
             "enText": "What? Are you saying that exploring an\nunderwater temple is not training?",
             "nextBlock": 6,
+            "origClipLength": 178,
+            "animData": [
+                {
+                    "origLen": 208,
+                    "pathId": -5693933129538904006
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 7350644990340239711
+                }
+            ],
             "pathId": 1232531763779789120,
             "blockIdx": 5
         },
@@ -68,6 +89,17 @@
             "jpText": "海に沈む、かつての栄華の象徴！\r\nその謎に迫るっつう崇高な行為が、トレーニングじゃないと！？",
             "enText": "A symbol of former glory sinking into the sea! And the noble act\nof getting to the bottom of its mystery is not training!",
             "nextBlock": 7,
+            "origClipLength": 243,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -7615055336195305329
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -8949830452414735356
+                }
+            ],
             "pathId": 4101300090174841364,
             "blockIdx": 6
         },
@@ -77,6 +109,17 @@
             "jpText": "まあ、その通りだけどな。",
             "enText": "Well, you're right, though.",
             "nextBlock": 8,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 21864028336074094
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4440468225177750819
+                }
+            ],
             "pathId": -126886768773572226,
             "blockIdx": 7
         },
@@ -86,6 +129,7 @@
             "jpText": "んで、オマエは今日こそトレーニングがしたいと。\r\n心配すんなって、その気持ち伝わってるからよ。",
             "enText": "And you want to train today. Don't worry, I know how you feel.",
             "nextBlock": 9,
+            "origClipLength": 260,
             "choices": [
                 {
                     "jpText": "ほんとか！？",
@@ -98,6 +142,12 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -315717396581726058
+                }
+            ],
             "pathId": -4280286175212643089,
             "blockIdx": 8
         },
@@ -107,6 +157,13 @@
             "jpText": "アタシが“つう”と言えば、オマエが“かあ”。\r\nアタシが“風神”なら、オマエも“風神”。",
             "enText": "If I say \"I\", you say \"I\". If I'm \"Fujin\", you're \"Fujin\".",
             "nextBlock": 10,
+            "origClipLength": 141,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -458778168271049385
+                }
+            ],
             "pathId": -8407059187235301040,
             "blockIdx": 9
         },
@@ -116,11 +173,22 @@
             "jpText": "今更アタシたちの間に余計な言葉なんていらねえじゃねえか！\r\nさあ、いくぞーっ！　ついてきやがれ！",
             "enText": "We don't need any extra words between us\nnow! Come on, let's go! Follow me!",
             "nextBlock": 11,
+            "origClipLength": 285,
             "choices": [
                 {
                     "jpText": "ゴールドシップ……！",
                     "enText": "Goldship…!",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -2193328738153530077
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4001406695830278665
                 }
             ],
             "pathId": 2128092382852028093,
@@ -132,6 +200,7 @@
             "jpText": "まさかゴールドシップと通じ合える日がくるなんて……！\r\nさあ、トレーニングコースに向かおう！",
             "enText": "I never thought I'd see the day when I could communicate with\nGoldship…! Let's head to the training course!",
             "nextBlock": 12,
+            "origClipLength": 105,
             "pathId": 8462163447617626857,
             "blockIdx": 11
         },
@@ -141,6 +210,13 @@
             "jpText": "さあ、トレーニングコース……に……？\r\n………………あれ？",
             "enText": "Come on, training course… to\n…?… Huh?",
             "nextBlock": 13,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -5493856205098414424
+                }
+            ],
             "pathId": -7676323437051975213,
             "blockIdx": 12
         },
@@ -150,6 +226,17 @@
             "jpText": "うおおおーーーーー！！　釣って釣って釣りまくれ！\r\n今日の目標は大漁、大漁、もいっちょついでに大漁だぁ！！",
             "enText": "Whoo-hoo! Catch, catch, catch! Today's goal is to catch a lot of\nfish, a lot of fish, and a lot of fish at the same time!",
             "nextBlock": 14,
+            "origClipLength": 337,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 2696709554081225037
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4003225285886460495
+                }
+            ],
             "pathId": -9171645606801867986,
             "blockIdx": 13
         },
@@ -159,6 +246,7 @@
             "jpText": "おい、なにボサっと見てんだ！\r\nオマエも手伝うんだぞ！？",
             "enText": "Hey, what are you staring at? You're going to help me!",
             "nextBlock": 15,
+            "origClipLength": 108,
             "choices": [
                 {
                     "jpText": "えっと……何をするんだ？",
@@ -171,6 +259,16 @@
                     "nextBlock": 15
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4741499934963610541
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -2835944442727511983
+                }
+            ],
             "pathId": 1242832816205087662,
             "blockIdx": 14
         },
@@ -180,6 +278,17 @@
             "jpText": "おいおい、わざわざ水辺にきて、\r\n釣り以外にすることなんかあんのかよ？",
             "enText": "Come on, what else is there to do on the waterfront but fish?",
             "nextBlock": 16,
+            "origClipLength": 159,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 6752322254253612636
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 7048075629805368214
+                }
+            ],
             "pathId": 8796916057735882220,
             "blockIdx": 15
         },
@@ -189,6 +298,17 @@
             "jpText": "村1番の漁師だったアタシの父親でも、\r\nこの川のヌシは捕らえられずに現役を退いちまった……。",
             "enText": "Even my father, who was the best fisherman in the\nvillage, could not catch any of the fish in this\nriver and retired from active service…",
             "nextBlock": 17,
+            "origClipLength": 249,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -8861893291330011705
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1044603742505069711
+                }
+            ],
             "pathId": -1987789434306444864,
             "blockIdx": 16
         },
@@ -198,6 +318,17 @@
             "jpText": "だからよぉ！　娘のアタシが！　今日こそヌシを捕まえるっ！\r\nうおおお、燃え尽きろ！　アタシの釣り人魂――ッ！",
             "enText": "That's why! I'm your daughter! I'll get her\ntoday! Ooh, burn it up! I'm a fisherman!",
             "nextBlock": 18,
+            "origClipLength": 368,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -1083283283424670070
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 3004182647262880297
+                }
+            ],
             "pathId": -601707594145484427,
             "blockIdx": 17
         },
@@ -207,6 +338,17 @@
             "jpText": "頭の整理がつかないまま、釣り糸を川に垂らして数十分――",
             "enText": "I let my fishing line drop into the river for a few minutes,\nunable to get my head around it.",
             "nextBlock": 19,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 198,
+                    "pathId": -8810762798136917350
+                },
+                {
+                    "origLen": 172,
+                    "pathId": -4986257414924559682
+                }
+            ],
             "pathId": 6635388121725130382,
             "blockIdx": 18
         },
@@ -216,6 +358,17 @@
             "jpText": "……釣れねえなー。\r\nかかったのはお約束の水草だけだぜ。",
             "enText": "… I can't catch anything. I'm not sure what to do with it.",
             "nextBlock": 20,
+            "origClipLength": 165,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 5280068396950004995
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1500941183201327270
+                }
+            ],
             "pathId": -2138818981347336519,
             "blockIdx": 19
         },
@@ -225,6 +378,13 @@
             "jpText": "……うおおおおお！！　うわあああああ！！\r\nだめだ、退屈でぶっ倒れちまう！！",
             "enText": "… Whoa! Ohhhh! No, I'm going to collapse from boredom!",
             "nextBlock": 21,
+            "origClipLength": 167,
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": -2516569700525658275
+                }
+            ],
             "pathId": 3600898106412590075,
             "blockIdx": 20
         },
@@ -234,6 +394,17 @@
             "jpText": "おい、行くぞトレーナーっ！\r\n火星の方に向かって走れ！",
             "enText": "Hey, let's go, trainer! Run towards Mars!",
             "nextBlock": 22,
+            "origClipLength": 117,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -7788717330799474223
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4501504059134721272
+                }
+            ],
             "pathId": -2764255460313625009,
             "blockIdx": 21
         },
@@ -243,6 +414,7 @@
             "jpText": "もしや、退屈にしびれを切らして\r\nついにトレーニングを始めてくれるのでは……！",
             "enText": "Maybe you'll finally get tired of being\nbored and start training…!",
             "nextBlock": 23,
+            "origClipLength": 95,
             "pathId": -4878178163836203118,
             "blockIdx": 22
         },
@@ -252,6 +424,13 @@
             "jpText": "おばちゃーん！\r\n焼き魚定食1つ、ご飯大盛りな！",
             "enText": "Obaachan! One grilled fish set meal with extra rice!",
             "nextBlock": 24,
+            "origClipLength": 142,
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": 5083302529735893868
+                }
+            ],
             "pathId": 8120361737440344139,
             "blockIdx": 23
         },
@@ -261,6 +440,13 @@
             "jpText": "ふう～、危なかったぜ～。\r\n釣りでは後れを取ったけど、こうして食えばイーブンだよな！",
             "enText": "Wow, that was a close one! I may have fallen behind in fishing,\nbut when you eat like this, it's even!",
             "nextBlock": 25,
+            "origClipLength": 187,
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": -2393635710817911575
+                }
+            ],
             "pathId": 2094188315821114986,
             "blockIdx": 24
         },
@@ -270,6 +456,13 @@
             "jpText": "そんじゃ、いっただっきまーす！",
             "enText": "Well then, I'm off!",
             "nextBlock": 26,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7609081938405829330
+                }
+            ],
             "pathId": -7603329886702147313,
             "blockIdx": 25
         },
@@ -279,6 +472,13 @@
             "jpText": "ゴールドシップは焼き魚定食を受け取ると、\r\n一瞬でぺろりとたいらげた……。",
             "enText": "Goldship received the grilled fish set meal\nand gobbled it up in an instant…",
             "nextBlock": 27,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 7429850190577152620
+                }
+            ],
             "pathId": 5478676802341831178,
             "blockIdx": 26
         },
@@ -288,11 +488,18 @@
             "jpText": "あー食った食った。\r\nすべての食べ物に感謝だぜ。",
             "enText": "I ate and ate. I'm thankful for all the food.",
             "nextBlock": 28,
+            "origClipLength": 201,
             "choices": [
                 {
                     "jpText": "あの、トレーニングは……？",
                     "enText": "Um, is your training at…?",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -2224015846696717138
                 }
             ],
             "pathId": -6853441335201480724,
@@ -304,6 +511,17 @@
             "jpText": "は？　オマエは魚を釣ったり食ったりすることが、\r\nトレーニングじゃねえって言いたいのか？",
             "enText": "What? Are you saying that catching\nand eating fish is not training?",
             "nextBlock": 29,
+            "origClipLength": 177,
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": -5515773905378996819
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 900714087435616181
+                }
+            ],
             "pathId": -4977017955900113988,
             "blockIdx": 28
         },
@@ -313,6 +531,17 @@
             "jpText": "自給自足のサバイバル生活は、\r\n常に危険と隣り合わせの極限バトル……。",
             "enText": "The self-sufficient survival life is an extreme\nbattle with constant danger…",
             "nextBlock": 30,
+            "origClipLength": 177,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6354687450489256054
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4070456134472972468
+                }
+            ],
             "pathId": 4215473424815981415,
             "blockIdx": 29
         },
@@ -322,6 +551,7 @@
             "jpText": "自然の中に身を置いて、野生の感覚を研ぎ澄ますことが\r\nどれだけレースに活かされるか、なんでわからないんだっ！！",
             "enText": "How can you not know how much being in nature and sharpening\nyour wild senses will help you in the race!",
             "nextBlock": 31,
+            "origClipLength": 223,
             "choices": [
                 {
                     "jpText": "野生の勘で走るってことか！",
@@ -334,6 +564,16 @@
                     "nextBlock": 31
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1962325079352360265
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 8888111451477935944
+                }
+            ],
             "pathId": -7733911213329027639,
             "blockIdx": 30
         },
@@ -343,6 +583,17 @@
             "jpText": "いや、特に関係ないけどな！",
             "enText": "No, not that it matters, anyway!",
             "nextBlock": 32,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -201590903650556081
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1436720213749110596
+                }
+            ],
             "pathId": 9090733328020373417,
             "blockIdx": 31
         },
@@ -352,6 +603,17 @@
             "jpText": "んじゃ、腹ごしらえも終わったし、\r\nゴルシ農園でにんじんの成長を見守りに行くか。",
             "enText": "Now that I've eaten, I'll go to the Gorsi\nfarm to watch the carrots grow.",
             "nextBlock": 33,
+            "origClipLength": 193,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -8068599035778341825
+                },
+                {
+                    "origLen": 188,
+                    "pathId": -445979403230038203
+                }
+            ],
             "pathId": -7531563823096035822,
             "blockIdx": 32
         },
@@ -361,6 +623,17 @@
             "jpText": "今度は太陽系のどこかで会おうぜ！\r\nあばよっ！",
             "enText": "I'll see you somewhere in the solar system! Goodbye!",
             "nextBlock": 34,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 8934355546678428687
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2714773189736325659
+                }
+            ],
             "pathId": -5785469135585555558,
             "blockIdx": 33
         },
@@ -370,6 +643,7 @@
             "jpText": "振り回されっぱなしで結局トレーニングはできないまま、\r\nゴールドシップは走り去ってしまった……。",
             "enText": "She was left swinging around, and in the end,\nwithout training, Goldship ran off…",
             "nextBlock": 35,
+            "origClipLength": 107,
             "pathId": 7483756882962163712,
             "blockIdx": 34
         },
@@ -379,8 +653,10 @@
             "jpText": "――『ウマ娘とトレーナーは二人三脚の関係』、と言われている。\r\n2人で力を合わせ、共に勝利を目指す……はずだ、きっと！",
             "enText": "— \"Uma Musume and her trainer have a tripod relationship,\" as\nthey say. The two of them work together to achieve victory\ntogether… I'm sure!",
             "nextBlock": -1,
+            "origClipLength": 121,
             "pathId": -3687499510593772966,
             "blockIdx": 35
         }
-    ]
+    ],
+    "modified": 1669933648
 }

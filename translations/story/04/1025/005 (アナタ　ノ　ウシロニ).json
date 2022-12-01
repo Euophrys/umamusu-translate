@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "2WL7KF76AI2SJ3BWE42HFLAH64V4LOH5",
     "type": "story",
     "storyId": "041025005",
@@ -11,6 +11,7 @@
             "jpText": "天気予報が外れ、雨の降りしきるある日。\r\nトレーナー室で、練習メニューを室内用に調整していた。",
             "enText": "The weather forecast had been wrong and it was pouring \nwith rain. I was in the office, throwing together \nan indoor training plan for the day…",
             "nextBlock": 2,
+            "origClipLength": 106,
             "choices": [
                 {
                     "jpText": "（あれ……？ボールペンがない）",
@@ -27,6 +28,7 @@
             "jpText": "このところ、なぜか失くし物が増えている。\r\n今日はボールペン。昨日は学園から配布されたプリント。",
             "enText": "It felt like I'd been losing things a lot recently. The pen \ntoday. Those papers from the academy yesterday…",
             "nextBlock": 3,
+            "origClipLength": 107,
             "pathId": -4062361807843595245,
             "blockIdx": 2
         },
@@ -36,6 +38,7 @@
             "jpText": "仕方なく立ち上がり、予備のペンを取りに行こうとすると――",
             "enText": "I got up to get another one… when…",
             "nextBlock": 4,
+            "origClipLength": 81,
             "pathId": -3401611733505231015,
             "blockIdx": 3
         },
@@ -45,6 +48,7 @@
             "jpText": "（ドンッ！！）",
             "enText": "(bonk!!)",
             "nextBlock": 5,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "うわっ！",
@@ -61,6 +65,7 @@
             "jpText": "誰もいないはずなのに、\r\nまるで“誰か”に押されたようによろめいてしまう。",
             "enText": "A sudden shove, like someone was trying to push me over… but \nthere was no one in the room but me…",
             "nextBlock": 6,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "（……疲れてるのかな？）",
@@ -77,6 +82,7 @@
             "jpText": "だがぼんやりしていては、ウマ娘を支えるトレーナーとして失格だ。\r\n気を引き締めよう、そう自分に言い聞かせるのだった……。",
             "enText": "No time to worry about that now though. A trainer \ncan't keep their Uma Musume waiting! I gave myself \na quick pep-talk, and got to work.",
             "nextBlock": 7,
+            "origClipLength": 123,
             "pathId": -4131512864068196926,
             "blockIdx": 6
         },
@@ -86,6 +92,13 @@
             "jpText": "はっ、はっ……――",
             "enText": "Haa, haa…",
             "nextBlock": 8,
+            "origClipLength": 109,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -5374307295714457023
+                }
+            ],
             "pathId": -8901446107928526,
             "blockIdx": 7
         },
@@ -95,11 +108,22 @@
             "jpText": "はぁ……。\r\n…………あの。……トレーナーさん、曲が……。",
             "enText": "Um…… trainer-san… \n…the music's stopped…",
             "nextBlock": 9,
+            "origClipLength": 200,
             "choices": [
                 {
                     "jpText": "あ、あれ……？",
                     "enText": "…… hmm? What?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 211,
+                    "pathId": -3455949710140918602
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 8653679260546596233
                 }
             ],
             "pathId": 1476119915915206302,
@@ -111,11 +135,22 @@
             "jpText": "マンハッタンカフェの指摘で気づいた。シャトルラン用の\r\n合図の音楽が、いつの間にか止まってしまっている。",
             "enText": "(I'd put on some music to help her tempo while she ran laps of \nthe gym. When had it stopped? I hadn't even noticed…)",
             "nextBlock": 10,
+            "origClipLength": 112,
             "choices": [
                 {
                     "jpText": "ごめん！ぼんやりしてて気づかなかった！",
                     "enText": "Sorry! I was miles away…",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4379768810283162917
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4550422335985683804
                 }
             ],
             "pathId": -7328636795284804494,
@@ -127,6 +162,13 @@
             "jpText": "…………。",
             "enText": "……",
             "nextBlock": 11,
+            "origClipLength": 38,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -8663411489360151284
+                }
+            ],
             "pathId": 4176105147090851130,
             "blockIdx": 10
         },
@@ -136,11 +178,18 @@
             "jpText": "あの……トレーナーさん……。",
             "enText": "Um… trainer-san…",
             "nextBlock": 12,
+            "origClipLength": 92,
             "choices": [
                 {
                     "jpText": "ごめん……",
                     "enText": "Really, I'm sorry…",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 4965020652787238338
                 }
             ],
             "pathId": 8432905107806698867,
@@ -152,6 +201,17 @@
             "jpText": "いえ……そうではなく……。",
             "enText": "No… it's fine, but…",
             "nextBlock": 13,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4073570522359521714
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 7465629210668239071
+                }
+            ],
             "pathId": -2069764561681501107,
             "blockIdx": 12
         },
@@ -161,11 +221,22 @@
             "jpText": "もしかして……最近、\r\n身の回りに、変わったことは……？",
             "enText": "Recently, have you noticed anything… unusual… happening?",
             "nextBlock": 14,
+            "origClipLength": 182,
             "choices": [
                 {
                     "jpText": "……？",
                     "enText": "…?",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 193,
+                    "pathId": 7776979103731994726
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7815397263203606115
                 }
             ],
             "pathId": -3004779288274118702,
@@ -177,6 +248,13 @@
             "jpText": "……ないなら……いいんです。",
             "enText": "If not… that's fine…",
             "nextBlock": 15,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 4353224400771886453
+                }
+            ],
             "pathId": -4758253467040981631,
             "blockIdx": 14
         },
@@ -186,6 +264,7 @@
             "jpText": "……今日は、もう終わりにしますか……？",
             "enText": "Shall we… finish for today…?",
             "nextBlock": 16,
+            "origClipLength": 137,
             "choices": [
                 {
                     "jpText": "そうだな、終わりにしよう",
@@ -198,6 +277,12 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -6052127129338023547
+                }
+            ],
             "pathId": 2164136178939406837,
             "blockIdx": 15
         },
@@ -207,11 +292,22 @@
             "jpText": "わかりました……。\r\n……私はもう少し、残りますので……。",
             "enText": "Understood. I'm going to stay here a while longer.",
             "nextBlock": 17,
+            "origClipLength": 220,
             "choices": [
                 {
                     "jpText": "自主トレするなら、付き合うよ",
                     "enText": "If you want to keep training, I'll stay too.",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 6193983708091958711
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -1726398030488450090
                 }
             ],
             "pathId": 3750443231192511112,
@@ -223,6 +319,17 @@
             "jpText": "必要……ありません……。\r\n……トレーナーさんは、帰ってください……。",
             "enText": "That… won't be necessary… \nYou… should go home…",
             "nextBlock": 18,
+            "origClipLength": 281,
+            "animData": [
+                {
+                    "origLen": 292,
+                    "pathId": 5286449545921941067
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3652070842922059302
+                }
+            ],
             "pathId": 5937797654562711700,
             "blockIdx": 17
         },
@@ -232,6 +339,13 @@
             "jpText": "まっすぐ……寄り道をしないで……。\r\nそれから――",
             "enText": "Straight home. Don't stop. \nAnd…",
             "nextBlock": 19,
+            "origClipLength": 169,
+            "animData": [
+                {
+                    "origLen": 180,
+                    "pathId": -2349570282033498900
+                }
+            ],
             "pathId": 1745039232442842501,
             "blockIdx": 18
         },
@@ -241,6 +355,17 @@
             "jpText": "しばらくは……以前のように、\r\n夜のトレーニングコースに、来たり……しないでください――",
             "enText": "For the time being… please don't come down to the track at night…",
             "nextBlock": 20,
+            "origClipLength": 263,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 4274406255942099707
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -4307117000949667354
+                }
+            ],
             "pathId": -3748504103871658372,
             "blockIdx": 19
         },
@@ -250,6 +375,13 @@
             "jpText": "夜……私に会いに来ては……いけません。",
             "enText": "You must not visit me… at night…",
             "nextBlock": 21,
+            "origClipLength": 151,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 748049243028715856
+                }
+            ],
             "pathId": -7067061373386065455,
             "blockIdx": 20
         },
@@ -259,6 +391,7 @@
             "jpText": "外に出ると雨は上がっていた。\r\n歩きながら今日のマンハッタンカフェの言葉を思い出す。",
             "enText": "When I got outside, the rain had stopped. As I walked home, I \nthought back on what Manhattan Cafe had said.",
             "nextBlock": 22,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "（会いに行ったらダメ、か……）",
@@ -275,6 +408,7 @@
             "jpText": "もしかしたら、練習中のミスで怒らせてしまったのだろうか。\r\n明日こそはしっかりしなければと考えていると――",
             "enText": "Maybe she was mad at me for messing up earlier. \"I've got to do \nbetter tomorrow\" I told myself, when…",
             "nextBlock": 23,
+            "origClipLength": 114,
             "pathId": 3989344532046169436,
             "blockIdx": 22
         },
@@ -284,6 +418,7 @@
             "jpText": "急に、ぞっとするほどの寒さを背中に覚えた。\r\n同時に、後ろに誰かからの強い視線を感じる……。",
             "enText": "Suddenly a chill run down my back… I was being watched…",
             "nextBlock": 24,
+            "origClipLength": 105,
             "choices": [
                 {
                     "jpText": "だ、誰だ――！？",
@@ -305,6 +440,7 @@
             "jpText": "振り向いても――誰もいない。\r\nそれなのに、今度はすぐ後ろから強い気配を感じた！",
             "enText": "I turned back to look, but there was nothing \nbut darkness. Darkness… and the unmistakable \nsense that someone was right behind me…!",
             "nextBlock": 25,
+            "origClipLength": 97,
             "pathId": 8460344583154893456,
             "blockIdx": 24
         },
@@ -314,6 +450,7 @@
             "jpText": "……あの…………。",
             "enText": "Um…",
             "nextBlock": 26,
+            "origClipLength": 74,
             "choices": [
                 {
                     "jpText": "うわあっ！",
@@ -330,11 +467,22 @@
             "jpText": "トレーナーさんに……言い忘れたことが……。",
             "enText": "I had one more thing to tell you…",
             "nextBlock": 27,
+            "origClipLength": 109,
             "choices": [
                 {
                     "jpText": "び、び、びっくりした……っ！",
                     "enText": "Y… y…… you frightened the life out of me!!",
                     "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -3098412697577022563
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 4691330241861209397
                 }
             ],
             "pathId": 5479456863861592466,
@@ -346,6 +494,17 @@
             "jpText": "すみません……驚かせるつもりは……。",
             "enText": "Sorry. I didn't mean to.",
             "nextBlock": 28,
+            "origClipLength": 117,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 1446905720753893342
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8118355405967787792
+                }
+            ],
             "pathId": -8216446453260698932,
             "blockIdx": 27
         },
@@ -355,6 +514,17 @@
             "jpText": "“お気をつけて”と……言いたかっただけ、なので……。",
             "enText": "I just wanted to say… take care. So…",
             "nextBlock": 29,
+            "origClipLength": 168,
+            "animData": [
+                {
+                    "origLen": 207,
+                    "pathId": -6946919211152314066
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -3413425524601154106
+                }
+            ],
             "pathId": 8132483915230226701,
             "blockIdx": 28
         },
@@ -364,6 +534,17 @@
             "jpText": "それでは……。",
             "enText": "Until tomorrow.",
             "nextBlock": 30,
+            "origClipLength": 44,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -6522240886619913319
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 2140677179621624732
+                }
+            ],
             "pathId": -3141946633985205752,
             "blockIdx": 29
         },
@@ -373,6 +554,17 @@
             "jpText": "やっぱり……私じゃなくて、トレーナーさんを……。",
             "enText": "As I thought… it's not me they want… it's trainer-san…",
             "nextBlock": 31,
+            "origClipLength": 153,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6827902265949071524
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -2192081542933881468
+                }
+            ],
             "pathId": -4217533055422871281,
             "blockIdx": 30
         },
@@ -382,8 +574,20 @@
             "jpText": "だけど……何が、気に入らないの？\r\n……それとも、もしかして…………。",
             "enText": "But why? What don't they like about him? \nOr… could it be…",
             "nextBlock": -1,
+            "origClipLength": 316,
+            "animData": [
+                {
+                    "origLen": 327,
+                    "pathId": 2907365618636798296
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7382634462852769476
+                }
+            ],
             "pathId": -2747725217392119475,
             "blockIdx": 31
         }
-    ]
+    ],
+    "modified": 1669933782
 }

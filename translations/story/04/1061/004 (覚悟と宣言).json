@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7M2LIOOOYUUV2FPNGINMJVHDF7UWE4SQ",
     "type": "story",
     "storyId": "041061004",
@@ -11,6 +11,7 @@
             "jpText": "前日から降り続いていた雨も午後には上がり、いよいよ、\r\nキングヘイローの出走する模擬レースが始まろうとしていた。",
             "enText": "The rain that had been falling yesterday stopped in the \nafternoon, and it was finally time for King Halo's mock race.",
             "nextBlock": 2,
+            "origClipLength": 118,
             "pathId": -2364913790499043968,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "おおっ、賑わってますね～！　そりゃそうか。\r\nあのグラスワンダーが出走するんですし！",
             "enText": "Ohh, it's pretty crowded! Well that-s to be expected I guess. \nThat Grass Wonder is gonna be participating!",
             "nextBlock": 3,
+            "origClipLength": 210,
             "pathId": 1850227528345189291,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "雨のせいでコースの状態はよくないが……\r\nまあ、グラスならものともしないだろうな。……おっ、来たぞ！",
             "enText": "The track condition isn't very good cause of the rain… Well, if \nit's Grass Wonder it shouldn't be a problem. Oh, here she comes!",
             "nextBlock": 4,
+            "origClipLength": 274,
+            "animData": [
+                {
+                    "origLen": 197,
+                    "pathId": -765958750748160365
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7130289545730984042
+                }
+            ],
             "pathId": -4855245612507850918,
             "blockIdx": 3
         },
@@ -38,6 +51,17 @@
             "jpText": "おはようございます～、キングちゃん。\n今日はよろしくお願いいたしますね。",
             "enText": "Good morning. King-chan～. \nGood luck out there today.",
             "nextBlock": 5,
+            "origClipLength": 161,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -9200254497830423814
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -196661663826250768
+                }
+            ],
             "pathId": 7331300891224524380,
             "blockIdx": 4
         },
@@ -47,6 +71,21 @@
             "jpText": "胸を借りる権利をあげるわ、グラスさん！\n一流の走りを見せてあげる！",
             "enText": "I'll give you the right to challenge me. Grass-san! \nI'll show you the running of a first-class!",
             "nextBlock": 6,
+            "origClipLength": 173,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 4175919250201397067
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 358548979678720498
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -1086176511955454783
+                }
+            ],
             "pathId": -833879974480827524,
             "blockIdx": 5
         },
@@ -56,6 +95,7 @@
             "jpText": "……あなた、また来たのね。",
             "enText": "…You came again, huh.",
             "nextBlock": 7,
+            "origClipLength": 92,
             "choices": [
                 {
                     "jpText": "君が走ると聞いたから",
@@ -68,6 +108,24 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -4907346887331224837
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 112559493832203939
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -3440068722358727636
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 1247380829450824209
+                }
+            ],
             "pathId": -7408992579446579523,
             "blockIdx": 6
         },
@@ -77,6 +135,21 @@
             "jpText": "ふーん……。\n思った以上に頑固だったのね、あなた。",
             "enText": "Hmm… \nYou're more rebellious than I thought.",
             "nextBlock": 8,
+            "origClipLength": 156,
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": -7263545244691881037
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4545773643540363939
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 6722914982187343799
+                }
+            ],
             "pathId": 8436920935848635365,
             "blockIdx": 7
         },
@@ -86,6 +159,17 @@
             "jpText": "……まあ、いいわ！　そんなにキングの走りが見たいなら、\r\n何度でも魅了してあげる。おーっほっほっほっほ！",
             "enText": "…Well, fine. If you want to see King run so badly I'll \nentertain you as many times as you like! Ohhohoho!",
             "nextBlock": 9,
+            "origClipLength": 277,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -7834001965094391915
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -2612219247213641795
+                }
+            ],
             "pathId": -5922947102149157752,
             "blockIdx": 8
         },
@@ -95,6 +179,7 @@
             "jpText": "いやー、お嬢様は相変わらずですね～。",
             "enText": "Well, the princess is the same as ever～.",
             "nextBlock": 10,
+            "origClipLength": 142,
             "choices": [
                 {
                     "jpText": "君もキングヘイローの応援に来たのか？",
@@ -107,6 +192,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 637059622933670456
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 7085686593795488990
+                }
+            ],
             "pathId": 3438067434651529317,
             "blockIdx": 9
         },
@@ -116,6 +211,17 @@
             "jpText": "にゃはは、そんなんじゃないよー。\r\nちょっと空き時間が出来たから、暇つぶしに来ただけー。",
             "enText": "Nyahaha, it's not like that～. \nI was just free, so I came to kill some time.",
             "nextBlock": 11,
+            "origClipLength": 231,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 1150896792720157293
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 5441365173243725517
+                }
+            ],
             "pathId": -179535544263824784,
             "blockIdx": 10
         },
@@ -125,6 +231,17 @@
             "jpText": "それより、始まるみたいだよ～。よそ見してたってバレたら\r\n拗ねられそうだし、しっかり見てあげたほうがいいんじゃない？",
             "enText": "That aside, it looks like it's starting～. We'll \nprobably get scorned if we don't pay attention. \nso wouldn't it be better to watch properly?",
             "nextBlock": 12,
+            "origClipLength": 290,
+            "animData": [
+                {
+                    "origLen": 301,
+                    "pathId": -1171841134234375887
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 102598211515888699
+                }
+            ],
             "pathId": 864483794270138070,
             "blockIdx": 11
         },
@@ -134,6 +251,17 @@
             "jpText": "道を開けなさい！　キングが通るわっ！！",
             "enText": "Clear the way! King is coming through!!",
             "nextBlock": 13,
+            "origClipLength": 87,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 814440712222933297
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 8461483418742493606
+                }
+            ],
             "pathId": -1534693210520458554,
             "blockIdx": 12
         },
@@ -143,6 +271,17 @@
             "jpText": "おっ、キングヘイロー、前に来ましたね！\n母親同様、力の要るコースは得意なのかな？",
             "enText": "Oh, King Halo came again! Is she good at \ncourses that require power like her mother?",
             "nextBlock": 14,
+            "origClipLength": 204,
+            "animData": [
+                {
+                    "origLen": 215,
+                    "pathId": 6172289452974427821
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4236897025308687438
+                }
+            ],
             "pathId": 1185331779403591171,
             "blockIdx": 13
         },
@@ -152,6 +291,17 @@
             "jpText": "さて、どうだろうな……そうと決めつけるのは早計だろう。\r\nもう少し様子を見ないとな。",
             "enText": "Well, who knows… it's too early to say right now \nWe'll have to watch a bit more-",
             "nextBlock": 15,
+            "origClipLength": 226,
+            "animData": [
+                {
+                    "origLen": 237,
+                    "pathId": 6653337418436399526
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7540124606414907485
+                }
+            ],
             "pathId": 4323709117238866000,
             "blockIdx": 14
         },
@@ -161,6 +311,17 @@
             "jpText": "はあ……はあ……！\n私は、一流として……結果を残すのっ……！",
             "enText": "Ha… Ha…! \nI, have to leave results… as a first class…!",
             "nextBlock": 16,
+            "origClipLength": 206,
+            "animData": [
+                {
+                    "origLen": 169,
+                    "pathId": -4867742180770627076
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 3452406830840864734
+                }
+            ],
             "pathId": 1040580493130281445,
             "blockIdx": 15
         },
@@ -170,6 +331,29 @@
             "jpText": "お～、キングにしては珍しい展開だね。選抜レースの時\r\n集団に埋もれちゃったのが、なんだかんだでこたえたのかな～？",
             "enText": "Oh, this is a rare development for King. During the selection \nrace she was buried in the group, I wonder what changed～?",
             "nextBlock": 17,
+            "origClipLength": 351,
+            "animData": [
+                {
+                    "origLen": 315,
+                    "pathId": 6708196288230302778
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3708821043873523010
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 5240043107339362910
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -9129948392730093394
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 6277043461571606051
+                }
+            ],
             "pathId": -4557452259224920111,
             "blockIdx": 16
         },
@@ -179,6 +363,17 @@
             "jpText": "けど、ちょ～っとフォームが崩れてるなぁ。力みすぎってやつだね。\r\nやる気がありすぎてがんじがらめなのは、いつものことだけどさ。",
             "enText": "But her form is kinda breaking. Like she's putting \ntoo much strength into it. Her being too motivated \nand hard-working isn't anything new though.",
             "nextBlock": 18,
+            "origClipLength": 362,
+            "animData": [
+                {
+                    "origLen": 205,
+                    "pathId": 317149670604902871
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3436916668719095257
+                }
+            ],
             "pathId": 5817222754188022098,
             "blockIdx": 17
         },
@@ -188,6 +383,13 @@
             "jpText": "もったいないな……。\r\n少しは自由に走ればいいのに。",
             "enText": "What a waste… \nShe should just run a little freely.",
             "nextBlock": 19,
+            "origClipLength": 159,
+            "animData": [
+                {
+                    "origLen": 216,
+                    "pathId": 7327493302940481022
+                }
+            ],
             "pathId": 6999600175016086141,
             "blockIdx": 18
         },
@@ -197,6 +399,13 @@
             "jpText": "直線……！　きたっ、グラスワンダーだ！！",
             "enText": "Straight line…! Here she comes. it's Grass Wonder!",
             "nextBlock": 20,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -5899639437835280537
+                }
+            ],
             "pathId": 1731391869291015328,
             "blockIdx": 19
         },
@@ -206,6 +415,17 @@
             "jpText": "むぅぅぅぅぅぅぅっ！",
             "enText": "Nghhhhh!",
             "nextBlock": 21,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -3352797194070652463
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -100675311028447017
+                }
+            ],
             "pathId": -4958938131504843600,
             "blockIdx": 20
         },
@@ -215,6 +435,13 @@
             "jpText": "なんて力強い……！！　足元の悪さを感じさせない走りだな！！\r\nキングとの差がどんどん開いていくぞ……！",
             "enText": "What strong power!! She's running in a way that \nstops her from putting the stress on her legs!! \nThe gap with King just keeps widening…!",
             "nextBlock": 22,
+            "origClipLength": 241,
+            "animData": [
+                {
+                    "origLen": 252,
+                    "pathId": -4973259265355996043
+                }
+            ],
             "pathId": 7254111870471559573,
             "blockIdx": 21
         },
@@ -224,6 +451,17 @@
             "jpText": "んー……。主役はグラスちゃんになっちゃったかー。",
             "enText": "Ngh. Looks like Grass-chan ended up being the star.",
             "nextBlock": 23,
+            "origClipLength": 135,
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": -8023352015438973728
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6649595097903283990
+                }
+            ],
             "pathId": -6171793326224853643,
             "blockIdx": 22
         },
@@ -233,6 +471,17 @@
             "jpText": "そして、レース終了後……。",
             "enText": "Then, after the race…",
             "nextBlock": 24,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 5057449200951583409
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -9133127161033956872
+                }
+            ],
             "pathId": -2978294693693628213,
             "blockIdx": 23
         },
@@ -242,6 +491,7 @@
             "jpText": "さすがグラスワンダーだったな。",
             "enText": "As expected of Grass Wonder.",
             "nextBlock": 25,
+            "origClipLength": 85,
             "pathId": -6974622356755505429,
             "blockIdx": 24
         },
@@ -251,6 +501,7 @@
             "jpText": "今はスカウトを受けていないらしいが……\r\n次回の選抜レース後は是非、彼女と話したいものだ。",
             "enText": "It seems she's not accepting scouts right now but… \nNext Selection Race she's absolutely someone I'd want to talk to.",
             "nextBlock": 26,
+            "origClipLength": 217,
             "pathId": 7326429213472029777,
             "blockIdx": 25
         },
@@ -260,6 +511,7 @@
             "jpText": "ですね！　キングヘイローの方は……まあ、これでそろそろ\r\n現実的な視点を持てるようになったんじゃないでしょうか。",
             "enText": "Right! As for King Halo… well, I suspect she'll \nstart taking a more realistic perspective soon.",
             "nextBlock": 27,
+            "origClipLength": 243,
             "pathId": 510095724486135435,
             "blockIdx": 26
         },
@@ -269,6 +521,17 @@
             "jpText": "はあ……はあ……。\n…………っ！",
             "enText": "Ha… Ha… \n…Ngh!",
             "nextBlock": 28,
+            "origClipLength": 194,
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": 6519111991391996975
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -432876493094259700
+                }
+            ],
             "pathId": 2747659622260570225,
             "blockIdx": 27
         },
@@ -278,6 +541,17 @@
             "jpText": "おーっほっほっほ！　次こそはトップを譲らないわ！\r\n覚悟しておきなさい、キングの走りはこの程度じゃないんだから！",
             "enText": "Ohhohoho! I won't give up first next time! \nPrepare yourself, this isn't all there is to King's running!",
             "nextBlock": 29,
+            "origClipLength": 310,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8050403217112153484
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -7174478216794185724
+                }
+            ],
             "pathId": 2439083586597287834,
             "blockIdx": 28
         },
@@ -287,6 +561,13 @@
             "jpText": "相変わらずの宣言に、トレーナーたちが呆れ顔を彼女に向ける。",
             "enText": "As usual, the trainers turn their dismayed faces towards her.",
             "nextBlock": 30,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 7168171463666149600
+                }
+            ],
             "pathId": 2855832326840015895,
             "blockIdx": 29
         },
@@ -296,6 +577,21 @@
             "jpText": "そうよ、私に注目なさい！　そして、しっかり覚えておくといいわ！\r\n私はキングヘイロー、一流のウマ娘よ！",
             "enText": "That's right! Pay attention to me and remember this well! \nI'm King Halo, the first-class horse girl!",
             "nextBlock": 31,
+            "origClipLength": 337,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 1832531550236802783
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 7239140444317409426
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2233189253847513613
+                }
+            ],
             "pathId": -1637798994200664027,
             "blockIdx": 30
         },
@@ -305,6 +601,17 @@
             "jpText": "負けても、悔しくても、呆れられても、彼女は“一流”を\r\n名乗り続ける事をやめない。それが、己に強いた覚悟だから。",
             "enText": "No matter how much she loses. how frustrated she gets, or how \ndisappointed. she continues to call herself \"first-class\". \nBecause, that's the strength of her will.",
             "nextBlock": 32,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -4518789582309704612
+                },
+                {
+                    "origLen": 150,
+                    "pathId": -2335633371970403146
+                }
+            ],
             "pathId": 8702847166751044868,
             "blockIdx": 31
         },
@@ -314,6 +621,7 @@
             "jpText": "ならば、彼女のトレーナーに相応しい覚悟は――！",
             "enText": "Then, her trainer should carry the same will!",
             "nextBlock": 33,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "そして俺こそが、一流トレーナーだ！",
@@ -326,6 +634,16 @@
                     "nextBlock": 33
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 821647921507419108
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 8641590565602525829
+                }
+            ],
             "pathId": 1800245657120581883,
             "blockIdx": 32
         },
@@ -335,6 +653,21 @@
             "jpText": "……はあ？",
             "enText": "…Ha?",
             "nextBlock": 34,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3147551440309758671
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1043535219108806375
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 5510953735014743380
+                }
+            ],
             "pathId": -3518921995105572107,
             "blockIdx": 33
         },
@@ -344,6 +677,7 @@
             "jpText": "へ？",
             "enText": "Eh?",
             "nextBlock": 35,
+            "origClipLength": 25,
             "choices": [
                 {
                     "jpText": "だから一流ウマ娘をスカウトする！",
@@ -356,6 +690,12 @@
                     "nextBlock": 35
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 8453589383605736657
+                }
+            ],
             "pathId": 5410032378751671295,
             "blockIdx": 34
         },
@@ -365,6 +705,13 @@
             "jpText": "えーっと……君、大丈夫？\nここにはグラスワンダーはいないわよ？",
             "enText": "Umm… are you okay? \nGrass Wonder isn't here y'know?",
             "nextBlock": 36,
+            "origClipLength": 208,
+            "animData": [
+                {
+                    "origLen": 220,
+                    "pathId": -6322426519854162501
+                }
+            ],
             "pathId": 6780544934279838764,
             "blockIdx": 35
         },
@@ -374,11 +721,18 @@
             "jpText": "というか、君の目の前には、\nキングヘイローしかいないんだが……？",
             "enText": "Which would mean… \nThe only one in front of your eyes is King Halo?",
             "nextBlock": 37,
+            "origClipLength": 176,
             "choices": [
                 {
                     "jpText": "大丈夫です！彼女であってます！",
                     "enText": "That's right! She is!",
                     "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 220,
+                    "pathId": -2857760446331627501
                 }
             ],
             "pathId": 3267409072101323625,
@@ -390,6 +744,13 @@
             "jpText": "（ざわざわ……）",
             "enText": "(Chattering…)",
             "nextBlock": 38,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 220,
+                    "pathId": -2888171333794083671
+                }
+            ],
             "pathId": -4931518881095050630,
             "blockIdx": 37
         },
@@ -399,6 +760,13 @@
             "jpText": "……ちょっと、あなた。",
             "enText": "…Wait, you.",
             "nextBlock": 39,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 2326055229872218074
+                }
+            ],
             "pathId": 1174366455612999253,
             "blockIdx": 38
         },
@@ -408,6 +776,17 @@
             "jpText": "あなたには、このキングが生まれ持った圧倒的な才能をより高め、\r\nこの世界に示すという固い決意はあるかしら。",
             "enText": "Do you have the iron will to prove King's overwhelming \nbirth-given talent to the world.",
             "nextBlock": 40,
+            "origClipLength": 270,
+            "animData": [
+                {
+                    "origLen": 282,
+                    "pathId": -4795879876071889033
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -8083499239492897240
+                }
+            ],
             "pathId": 6678336326762080950,
             "blockIdx": 39
         },
@@ -417,11 +796,26 @@
             "jpText": "そしてキングと共に無数の勝利を重ね、一流のウマ娘\r\n“キングヘイロー”の名を轟かせる覚悟はあるのかしら！？",
             "enText": "And do you have the determination to rack up countless \nvictories, and make the name \"King Halo\" roar!?",
             "nextBlock": 41,
+            "origClipLength": 273,
             "choices": [
                 {
                     "jpText": "ある！！",
                     "enText": "I do!!",
                     "nextBlock": 41
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 285,
+                    "pathId": -7545992560580459317
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6855357646731783177
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -4006088392967244598
                 }
             ],
             "pathId": -7273093360593754805,
@@ -433,6 +827,17 @@
             "jpText": "……なら、決まりね。\nこの場にいる全員、お聞きなさい！",
             "enText": "…Then, it's decided. \nEveryone here, listen up!",
             "nextBlock": 42,
+            "origClipLength": 212,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -3922776717999192812
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 1994790860815206930
+                }
+            ],
             "pathId": 1847295726624346102,
             "blockIdx": 41
         },
@@ -442,6 +847,17 @@
             "jpText": "今、“一流のキングヘイロー”は、\nこの“一流のトレーナー”と組むと決めたわ！",
             "enText": "Just now, the first-class King Halo has \ndecided to pair up with this first-class trainer!",
             "nextBlock": 43,
+            "origClipLength": 189,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -5941650637246481137
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3634808666891316078
+                }
+            ],
             "pathId": -629269666238358092,
             "blockIdx": 42
         },
@@ -451,6 +867,17 @@
             "jpText": "私たちはトゥインクル・シリーズに出て、あらゆるレースに\r\n勝利する。あなたたちはその栄光の旅路をぼけっと見てらっしゃい！",
             "enText": "We'll enter the Twinkle Series, bringing victory to \nevery race. And you'll all watch that glorious journey in awe!",
             "nextBlock": 44,
+            "origClipLength": 307,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 1017255634428415570
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3135926337055210429
+                }
+            ],
             "pathId": 542666907457510797,
             "blockIdx": 43
         },
@@ -460,6 +887,17 @@
             "jpText": "……さあ、契約よ。\n来なさい、トレーナー！",
             "enText": "…Now, it's a contract. \nCome with me, trainer!",
             "nextBlock": 45,
+            "origClipLength": 188,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 8574754380874555342
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -9210004298160381250
+                }
+            ],
             "pathId": 8492185398894230605,
             "blockIdx": 44
         },
@@ -469,6 +907,17 @@
             "jpText": "……あなた、どうしてあんなことを？",
             "enText": "…You. why would you do such a thing?",
             "nextBlock": 46,
+            "origClipLength": 155,
+            "animData": [
+                {
+                    "origLen": 195,
+                    "pathId": -4555979442711804862
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1350862315137507306
+                }
+            ],
             "pathId": 3894305868759254858,
             "blockIdx": 45
         },
@@ -478,6 +927,13 @@
             "jpText": "みんなが見ている前で『一流』だなんて。\r\nそうすることで何を背負うことになるか、本当にわかってるの？",
             "enText": "To shout you're a \"first-class\" while everyone is watching. \nDo you really understand what you're taking on by doing that?",
             "nextBlock": 47,
+            "origClipLength": 233,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2723615071402013068
+                }
+            ],
             "pathId": 3769112540226758017,
             "blockIdx": 46
         },
@@ -487,6 +943,7 @@
             "jpText": "『大口をたたいたおバカ』だって、後ろ指さされて、笑われて。\r\nでも、1度口にしたことは取り消せないのよ？",
             "enText": "To be called a fool with a big mouth, pointed at behind your \nback, laughed at. But, you can't take back what you've said.",
             "nextBlock": 48,
+            "origClipLength": 299,
             "choices": [
                 {
                     "jpText": "だから、本当の一流になるしかないよな",
@@ -499,6 +956,12 @@
                     "nextBlock": 48
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 311,
+                    "pathId": 6198207520142508082
+                }
+            ],
             "pathId": -1764111332612509522,
             "blockIdx": 47
         },
@@ -508,6 +971,21 @@
             "jpText": "……ふんっ、ばっかじゃないの！　あなたってば思った以上に\r\n頑固だし、思った以上に不器用だったのね！",
             "enText": "…Hmph, aren't you stupid! You're more rebellious \nand more clumsy than I expected!",
             "nextBlock": 49,
+            "origClipLength": 263,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -4409990255152990069
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6168887292742575664
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -6529115246501928439
+                }
+            ],
             "pathId": 1506543243845289010,
             "blockIdx": 48
         },
@@ -517,6 +995,13 @@
             "jpText": "……ま、私は嫌いじゃないけど。",
             "enText": "…Well, I don't hate it though.",
             "nextBlock": 50,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7324780984072728642
+                }
+            ],
             "pathId": -414605437640798817,
             "blockIdx": 49
         },
@@ -526,6 +1011,13 @@
             "jpText": "（ヴー、ヴー）",
             "enText": "(Bzz! Bzz!)",
             "nextBlock": 51,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 1906065015008254555
+                }
+            ],
             "pathId": -4323447869033234608,
             "blockIdx": 50
         },
@@ -535,11 +1027,18 @@
             "jpText": "……また、お母さまね。\n…………………………。",
             "enText": "…It's, mother again.",
             "nextBlock": 52,
+            "origClipLength": 145,
             "choices": [
                 {
                     "jpText": "一緒に宣言しよう",
                     "enText": "Let's declare it together.",
                     "nextBlock": 52
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 210,
+                    "pathId": -6376179497964871386
                 }
             ],
             "pathId": -292388128868501972,
@@ -551,11 +1050,22 @@
             "jpText": "えっ……宣言？　なんて？",
             "enText": "Eh?…Declare? What?",
             "nextBlock": 53,
+            "origClipLength": 132,
             "choices": [
                 {
                     "jpText": "『一流の私たちを見てなさい』って",
                     "enText": "\"Watch us, we're first-class.\"",
                     "nextBlock": 53
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": 9050470114306307240
+                },
+                {
+                    "origLen": 142,
+                    "pathId": 6040556899617596386
                 }
             ],
             "pathId": 6839038806107003,
@@ -567,6 +1077,21 @@
             "jpText": "……ふふっ。\n私、そういうのも嫌いじゃないわ！",
             "enText": "…Ufufu. \nI don't hate that sort of thing either!",
             "nextBlock": 54,
+            "origClipLength": 159,
+            "animData": [
+                {
+                    "origLen": 171,
+                    "pathId": 9018847352001421261
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 6306265592697826982
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5484672434730874673
+                }
+            ],
             "pathId": 7243285542555051038,
             "blockIdx": 53
         },
@@ -576,6 +1101,17 @@
             "jpText": "じゃあ……電話、取るわよ。\r\n準備はいいわね？　せー、のっ……！",
             "enText": "Then, I'm gonna pick up now. \nYou're ready right? One, two…!",
             "nextBlock": 55,
+            "origClipLength": 214,
+            "animData": [
+                {
+                    "origLen": 186,
+                    "pathId": 1056085447491996363
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6510099475387958687
+                }
+            ],
             "pathId": -5056052026430470015,
             "blockIdx": 54
         },
@@ -585,6 +1121,13 @@
             "jpText": "こうして、キングヘイローと\n一流の証明を目指す日々が始まるのだった。",
             "enText": "And so, my days of aiming \nto prove I'm first-class with King Halo began.",
             "nextBlock": 56,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 6601994048533837715
+                }
+            ],
             "pathId": -6192345589511182483,
             "blockIdx": 55
         },
@@ -594,8 +1137,10 @@
             "jpText": "もしもしお母さま？　私、帰らないから。それより紹介して\r\nあげるわ、よく聞きなさい。この人が――私のトレーナーよ！",
             "enText": "Hello? Mother. I'm not coming home. That aside \nlet me introduce you, listen well. This person is my trainer!",
             "nextBlock": -1,
+            "origClipLength": 345,
             "pathId": 7726712989294456831,
             "blockIdx": 56
         }
-    ]
+    ],
+    "modified": 1669933755
 }

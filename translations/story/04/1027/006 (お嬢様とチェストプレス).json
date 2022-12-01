@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6DEC6D72LVDX7WR3TSGJO42BUCZKZGEH",
     "type": "story",
     "storyId": "041027006",
@@ -11,6 +11,7 @@
             "jpText": "昼下がり、トレーナー室で休憩していると、\r\n弱り切った様子のメジロライアンが訪ねてきた。",
             "enText": "In the late afternoon, while I was resting in \nthe trainer's room, a very weak-looking \nwhite-tailed rider came to visit me.",
             "nextBlock": 2,
+            "origClipLength": 102,
             "pathId": 8252653056087040008,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ト、トレーナーさぁん……。",
             "enText": "T, Ms. Trainer…",
             "nextBlock": 3,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "どうしたんだ、いったい",
@@ -32,6 +34,12 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 6493847470018261565
+                }
+            ],
             "pathId": 1422857178162634384,
             "blockIdx": 2
         },
@@ -41,6 +49,17 @@
             "jpText": "じ、実は……大ピンチなんです。\r\nもう、プロテインも喉を通らないくらいの！",
             "enText": "Ji, I'm actually in a… big \npinch. I can't even get protein \ndown my throat anymore!",
             "nextBlock": 4,
+            "origClipLength": 280,
+            "animData": [
+                {
+                    "origLen": 184,
+                    "pathId": 3328414073675634152
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 6513169711020322240
+                }
+            ],
             "pathId": -5802481566685960858,
             "blockIdx": 3
         },
@@ -50,6 +69,17 @@
             "jpText": "そう言って、メジロライアンはおずおずと\r\n1冊の雑誌を差し出した。",
             "enText": "Saying so, Mejiro Ryan begrudgingly \nheld out a magazine.",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -8881882279799018807
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -2471940945345420343
+                }
+            ],
             "pathId": -477198409144381826,
             "blockIdx": 4
         },
@@ -59,11 +89,18 @@
             "jpText": "表紙には、優雅なポーズで堂々と紅茶を飲む、\r\nメジロマックイーンが大写しで載っている。",
             "enText": "On the cover is a large image of the \nelegantly posed Mediterranean McQueen \ndrinking a cup of tea.",
             "nextBlock": 6,
+            "origClipLength": 101,
             "choices": [
                 {
                     "jpText": "さすがマックイーン",
                     "enText": "McQueen indeed.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -3638912429830332070
                 }
             ],
             "pathId": -2126979547431572406,
@@ -75,6 +112,17 @@
             "jpText": "そうなんですけど……そうじゃなくって！\r\n次っ、次のページを見てください！",
             "enText": "Yes, but… not so much! \nLook at the next page!",
             "nextBlock": 7,
+            "origClipLength": 233,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -8434733340103239415
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -2829631072043550923
+                }
+            ],
             "pathId": -6364634957157361962,
             "blockIdx": 6
         },
@@ -84,6 +132,17 @@
             "jpText": "『華麗なるメジロ家の令嬢特集　第一弾』！",
             "enText": "The Brilliant Mejiro Family's \nDaughter Special, Part I!",
             "nextBlock": 8,
+            "origClipLength": 146,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -5447965799698917065
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1353173796953327244
+                }
+            ],
             "pathId": 7246444911908328801,
             "blockIdx": 7
         },
@@ -93,11 +152,22 @@
             "jpText": "華麗なる……メジロ家の……れい……じょお……。",
             "enText": "Brilliant… mediro family's… \nexample… jyo…",
             "nextBlock": 9,
+            "origClipLength": 168,
             "choices": [
                 {
                     "jpText": "もしかして第二弾は……",
                     "enText": "Perhaps a second version \ncan be found…",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 1633628157983110948
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 5204517506392897812
                 }
             ],
             "pathId": -4018220548504524509,
@@ -109,6 +179,17 @@
             "jpText": "さっき、取材申し込みの電話が来て……。\r\nあたし……マックイーンみたいなお嬢様じゃないのに。",
             "enText": "I just got a call from… to \napply for an interview. I'm not a \n… McQueen kind of girl.",
             "nextBlock": 10,
+            "origClipLength": 243,
+            "animData": [
+                {
+                    "origLen": 243,
+                    "pathId": -5365201437065183092
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -5345622680097438961
+                }
+            ],
             "pathId": 4628245243508583350,
             "blockIdx": 9
         },
@@ -118,11 +199,22 @@
             "jpText": "ああっ！　きっと窓辺でヴァイオリンを弾いちゃう感じを\r\n期待されてしまうんです……っ！　マックイーンみたいに！",
             "enText": "Aah! I'm sure they expect me to feel \nlike I'm playing the violin in the \nwindow. …! Like McQueen!",
             "nextBlock": 11,
+            "origClipLength": 232,
             "choices": [
                 {
                     "jpText": "断っておく？",
                     "enText": "Do you want me to say no?",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 3736881521393666574
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 7815029828363545464
                 }
             ],
             "pathId": -1047919175922582321,
@@ -134,6 +226,17 @@
             "jpText": "うっ……えっと……。",
             "enText": "Ugh… eh…",
             "nextBlock": 12,
+            "origClipLength": 83,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 7025444960578839653
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 6490187278594655610
+                }
+            ],
             "pathId": -795620540037359992,
             "blockIdx": 11
         },
@@ -143,6 +246,13 @@
             "jpText": "この前、トレーナーさんの話を聞いて思ったんです。\r\n今まで苦手だと思ってたことも、やってみなきゃなって……。",
             "enText": "The other day I was listening to the trainer \nand thought. I thought I had to try things \nthat I had thought I was not good at before…",
             "nextBlock": 13,
+            "origClipLength": 288,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -3398233066734485537
+                }
+            ],
             "pathId": 4205323161387747344,
             "blockIdx": 12
         },
@@ -152,6 +262,17 @@
             "jpText": "自分の可能性を考えてみたんですけど……わからなくて。\r\nそれを見つけるために、視野を広げなきゃ！",
             "enText": "I thought about my possibilities, but I \ncouldn't figure out… I need to broaden \nmy horizons to find it!",
             "nextBlock": 14,
+            "origClipLength": 283,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -2166505406533106856
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6925443352705272047
+                }
+            ],
             "pathId": 6594061473167816395,
             "blockIdx": 13
         },
@@ -161,6 +282,17 @@
             "jpText": "だから……！\r\nそのために、トレーナーさんが必要なんです！！",
             "enText": "That's why…! That's \nwhy we need a trainer!",
             "nextBlock": 15,
+            "origClipLength": 156,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 6346317580380361613
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 7805212817545587454
+                }
+            ],
             "pathId": 5020037205330824129,
             "blockIdx": 14
         },
@@ -170,6 +302,21 @@
             "jpText": "心の準備はできましたか、トレーナーさん！\r\nここがマックイーン御用達の、禁断のモールです……。",
             "enText": "Are you ready, trainers! This \nis the McQueen-approved, no-holds-barred \nmall…",
             "nextBlock": 16,
+            "origClipLength": 274,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 6518520477444112180
+                },
+                {
+                    "origLen": 145,
+                    "pathId": 6174464361976550008
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -4574381540644436594
+                }
+            ],
             "pathId": 359459314510723549,
             "blockIdx": 15
         },
@@ -179,6 +326,7 @@
             "jpText": "『VICTORIA』『Schimmel』『grooming』\r\n……わあっ、お嬢様系なハイブランドばっかり！",
             "enText": "VICTORIA\", \"Schimmel\", \"grooming\"… Wow, \nall those ladylike high brands!",
             "nextBlock": 17,
+            "origClipLength": 272,
             "choices": [
                 {
                     "jpText": "詳しいんだな",
@@ -191,6 +339,16 @@
                     "nextBlock": 17
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -2273197199509660144
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 5063348165956941184
+                }
+            ],
             "pathId": 8869315003023352796,
             "blockIdx": 16
         },
@@ -200,6 +358,13 @@
             "jpText": "わっ、いやっ！　雑誌を穴が開くほど見てただけで！",
             "enText": "Wow, yikes! I just looked at the magazine \nuntil I had a hole in it!",
             "nextBlock": 18,
+            "origClipLength": 125,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 6071922577514694241
+                }
+            ],
             "pathId": 3084128671471342156,
             "blockIdx": 17
         },
@@ -209,11 +374,22 @@
             "jpText": "あの……ちょっとだけ見てきてもいいですか？",
             "enText": "Can I go to that… and take \na look at it for a minute?",
             "nextBlock": 19,
+            "origClipLength": 121,
             "choices": [
                 {
                     "jpText": "好きなだけ、行っておいで",
                     "enText": "Go ahead and go as long as you like.",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -8890946227286328802
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5932033523153001397
                 }
             ],
             "pathId": -8107365383507452110,
@@ -225,6 +401,13 @@
             "jpText": "…………！\r\nありがとうございます！",
             "enText": "…! Thank you!",
             "nextBlock": 20,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -4890316779878481118
+                }
+            ],
             "pathId": -8707941250123695678,
             "blockIdx": 19
         },
@@ -234,6 +417,17 @@
             "jpText": "緊張した面持ちで、店頭を眺めながら歩くメジロライアン。\r\nやがて、思い切って店内へ踏み込んでいった。",
             "enText": "With a nervous look on her face, Mejiro Ryan \nwalks around looking at the storefront. Eventually, \nshe stepped boldly into the store.",
             "nextBlock": 21,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3437021347519363565
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 7891923838941404739
+                }
+            ],
             "pathId": 6509924276243193462,
             "blockIdx": 20
         },
@@ -243,6 +437,7 @@
             "jpText": "ひゃっ！　チュールのミニスカート！　バックリボン！\r\nう、うーん……。",
             "enText": "Whew! Tulle mini skirt! Back \nribbon! Ummmmm…",
             "nextBlock": 22,
+            "origClipLength": 265,
             "pathId": -106680317170574679,
             "blockIdx": 21
         },
@@ -252,6 +447,7 @@
             "jpText": "大腿筋が大きいから、似合わない……かな。",
             "enText": "I have large thigh muscles, so I guess I \ndon't look good…",
             "nextBlock": 23,
+            "origClipLength": 143,
             "pathId": -2781242273824621063,
             "blockIdx": 22
         },
@@ -261,6 +457,7 @@
             "jpText": "ブラウスにフリルといえば、マックイーンだよね。\r\nあたしも、当ててみるだけ……。",
             "enText": "Speaking of blouses and ruffles, McQueen. Me \ntoo, just guessing…",
             "nextBlock": 24,
+            "origClipLength": 229,
             "pathId": -4566509285255975682,
             "blockIdx": 23
         },
@@ -270,6 +467,7 @@
             "jpText": "む、無理ぃ～。",
             "enText": "No, I can't!",
             "nextBlock": 25,
+            "origClipLength": 70,
             "pathId": 3162058146674910176,
             "blockIdx": 24
         },
@@ -279,6 +477,7 @@
             "jpText": "メジロライアンは、服を大切そうに手にとっては\r\n小さく歓声を上げたり、落胆したりしている。",
             "enText": "Mejiro Ryan holds the clothes in her hands as \nif they were very important to her, giving a \nsmall cheer or a discouraging one.",
             "nextBlock": 26,
+            "origClipLength": 103,
             "pathId": -7317267697483719263,
             "blockIdx": 25
         },
@@ -288,6 +487,13 @@
             "jpText": "やがて、とある店頭に飾られたニットの前で足を止めた。",
             "enText": "Eventually, I stopped in front of a knitwear \ndisplayed in one of the stores.",
             "nextBlock": 27,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 9119418375363529054
+                }
+            ],
             "pathId": 245842827019329022,
             "blockIdx": 26
         },
@@ -297,6 +503,17 @@
             "jpText": "ピンク……。\r\nお嬢様感あふれるパール調ビジュー付き……。",
             "enText": "Pink… With pearly bijoux \nfor a ladylike look…",
             "nextBlock": 28,
+            "origClipLength": 190,
+            "animData": [
+                {
+                    "origLen": 449,
+                    "pathId": 8530804873751324281
+                },
+                {
+                    "origLen": 192,
+                    "pathId": -7430601436520408444
+                }
+            ],
             "pathId": 2697644400605349364,
             "blockIdx": 27
         },
@@ -306,6 +523,17 @@
             "jpText": "いつもなら、絶対絶対選べないけど……。",
             "enText": "Normally, I would never, ever choose…",
             "nextBlock": 29,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -6653218397874214375
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -1514383949152705143
+                }
+            ],
             "pathId": 8437357298404871985,
             "blockIdx": 28
         },
@@ -315,6 +543,17 @@
             "jpText": "ううん！　こんな時こそ、チェストプレス！\r\n……試着、お願いします！",
             "enText": "No! This is the time to chest press! \n…Try it on, please!",
             "nextBlock": 30,
+            "origClipLength": 197,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -9053144698232768452
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -956794361949760787
+                }
+            ],
             "pathId": -2415570097220573827,
             "blockIdx": 29
         },
@@ -324,6 +563,17 @@
             "jpText": "買い物を終えての帰り道。\r\nメジロライアンは、どこか落ち着かない様子だった。",
             "enText": "On the way home after shopping. Mejiro Ryan \nlooked somewhat restless.",
             "nextBlock": 31,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 5833060964910811772
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 7584533760871975833
+                }
+            ],
             "pathId": -4654973870377547501,
             "blockIdx": 30
         },
@@ -333,11 +583,22 @@
             "jpText": "ピンクのニットですよ……トレーナーさん。",
             "enText": "It's a pink knit… trainer.",
             "nextBlock": 32,
+            "origClipLength": 112,
             "choices": [
                 {
                     "jpText": "うれしい？",
                     "enText": "Happy?",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -2659641913760642331
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -4920168908521790325
                 }
             ],
             "pathId": 1515665128388884571,
@@ -349,6 +610,17 @@
             "jpText": "も、もちろん！　かわいくって、これで頑張ろうって！\r\nだけど、だからこそ……。",
             "enText": "Of course! She's so cute, she's \ngoing to go for it! But that's why \nyou should go to…",
             "nextBlock": 33,
+            "origClipLength": 248,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -5243369680300320609
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -8746614535164131093
+                }
+            ],
             "pathId": 6035020560100519057,
             "blockIdx": 32
         },
@@ -358,6 +630,17 @@
             "jpText": "なんだか……。なんか、すごく緊張しちゃって。\r\n大胸筋が騒いでる感じ……！",
             "enText": "It's kind of like… I'm kind of really \nnervous. It's like my pectoral muscles are \nmaking a racket…!",
             "nextBlock": 34,
+            "origClipLength": 220,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4868982011812650777
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 6548383449659123402
+                }
+            ],
             "pathId": 3647652146419070161,
             "blockIdx": 33
         },
@@ -367,6 +650,17 @@
             "jpText": "あれ？　猫の鳴き声？\r\nいったい、どこから――",
             "enText": "Huh? A cat's meow? Where the hell did you―",
             "nextBlock": 35,
+            "origClipLength": 144,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7766146748855219188
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -2264838150302189120
+                }
+            ],
             "pathId": -5613976479721443022,
             "blockIdx": 34
         },
@@ -376,6 +670,17 @@
             "jpText": "って、わーーーっ！！",
             "enText": "I mean, wow!",
             "nextBlock": 36,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 3854077599289432575
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 5565196626970862985
+                }
+            ],
             "pathId": -7884575493992839247,
             "blockIdx": 35
         },
@@ -385,6 +690,17 @@
             "jpText": "前方に見える、背の高い街路樹。その天辺付近に子猫がいた。\r\nツメが枝に引っかかり、宙ぶらりんになっている。",
             "enText": "A tall street tree in the foreground. There was \na kitten near the top of it. Its claws were caught \non a branch and it was dangling in midair.",
             "nextBlock": 37,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -5161129985770150377
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 5975610057557340838
+                }
+            ],
             "pathId": 4792145666871027915,
             "blockIdx": 36
         },
@@ -394,6 +710,17 @@
             "jpText": "そして、またたく間に落下し始めた。\r\n街路樹まで距離にして30m。",
             "enText": "Then it began to fall again. The distance to \nthe roadside trees was 30 meters.",
             "nextBlock": 38,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 3800378752334070463
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -3109606502968908606
+                }
+            ],
             "pathId": -7294360634609999974,
             "blockIdx": 37
         },
@@ -403,6 +730,7 @@
             "jpText": "助けますっ！",
             "enText": "I'll help you!",
             "nextBlock": 39,
+            "origClipLength": 31,
             "pathId": -5921331594502477168,
             "blockIdx": 38
         },
@@ -412,6 +740,7 @@
             "jpText": "すでにメジロライアンは駆け出していた。\r\n片手に、先ほど買ったニットを握りしめて。",
             "enText": "Mejiro Ryan was already running \nout. In one hand, she clutched the \nknit she had just bought.",
             "nextBlock": 40,
+            "origClipLength": 98,
             "pathId": 4057931792793435327,
             "blockIdx": 39
         },
@@ -421,6 +750,7 @@
             "jpText": "間に合、えーーっ！",
             "enText": "Just in time, eh!",
             "nextBlock": 41,
+            "origClipLength": 84,
             "pathId": 6149077110402310025,
             "blockIdx": 40
         },
@@ -430,6 +760,7 @@
             "jpText": "子猫が地面にぶつかる寸前に、広げたニットで\r\nメジロライアンは子猫を受け止めた。",
             "enText": "Just before the kitten hit the ground, \nthe mediro Ryan caught it with an \noutstretched knit.",
             "nextBlock": 42,
+            "origClipLength": 97,
             "pathId": 636785598257069774,
             "blockIdx": 41
         },
@@ -439,6 +770,7 @@
             "jpText": "ふぅ――ほら。もう、大丈夫だよ。",
             "enText": "Whew - look. You're all right now.",
             "nextBlock": 43,
+            "origClipLength": 148,
             "pathId": -8919745343749739565,
             "blockIdx": 42
         },
@@ -448,6 +780,7 @@
             "jpText": "子猫は、どこにもケガがなかったようで\r\nメジロライアンのニットに包まれて、ぬくぬくしている。",
             "enText": "The kitten, apparently uninjured \nanywhere, is lounging in the knitwear \nof a white-tailed Ryan.",
             "nextBlock": 44,
+            "origClipLength": 105,
             "pathId": -1945589571003506266,
             "blockIdx": 43
         },
@@ -457,6 +790,7 @@
             "jpText": "メジロライアンを助け起こし、子猫を預かったが――",
             "enText": "She rescued a white-tailed Ryan, woke her up, \nand took care of her kittens.",
             "nextBlock": 45,
+            "origClipLength": 76,
             "pathId": -3205851327084460518,
             "blockIdx": 44
         },
@@ -466,6 +800,7 @@
             "jpText": "ニットは引っかかれたのか、ほつれてしまっていた……。",
             "enText": "The knit was scratched or frayed…",
             "nextBlock": 46,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "服、ダメになってしまったな",
@@ -478,6 +813,12 @@
                     "nextBlock": 46
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -2234071800250029554
+                }
+            ],
             "pathId": 376240388476309545,
             "blockIdx": 45
         },
@@ -487,6 +828,13 @@
             "jpText": "……へへっ。しょうがないですね。",
             "enText": "… hehe. I can't help it.",
             "nextBlock": 47,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 114074686056175732
+                }
+            ],
             "pathId": -346143208382346947,
             "blockIdx": 46
         },
@@ -496,11 +844,22 @@
             "jpText": "不思議なんですよ、トレーナーさん。\r\n今、あたし……なんだかスッキリしてて。",
             "enText": "It's strange, trainer. I'm feeling \n… refreshed right now.",
             "nextBlock": 48,
+            "origClipLength": 223,
             "choices": [
                 {
                     "jpText": "スッキリ……どうして？",
                     "enText": "Sukkiri… Why?",
                     "nextBlock": 48
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 1166152801134133612
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -1430003658466590964
                 }
             ],
             "pathId": 6341122041157160293,
@@ -512,6 +871,17 @@
             "jpText": "トレーナーさんとお買い物ができて、かわいい服が買えて……\r\nでも、なんだかしっくりきてなくて。",
             "enText": "I was able to shop with my trainer \nand buy some cute clothes… but \nit just didn't feel right.",
             "nextBlock": 49,
+            "origClipLength": 253,
+            "animData": [
+                {
+                    "origLen": 231,
+                    "pathId": 4594258634874976665
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -757706466562741338
+                }
+            ],
             "pathId": -5453028939126873529,
             "blockIdx": 48
         },
@@ -521,6 +891,17 @@
             "jpText": "……あたし、きっと背伸びしちゃってました。\r\nマックイーンみたいになろうとしてた。",
             "enText": "…I must have grown up too tall. I was \ntrying to be like McQueen.",
             "nextBlock": 50,
+            "origClipLength": 194,
+            "animData": [
+                {
+                    "origLen": 231,
+                    "pathId": -1181923198898040291
+                },
+                {
+                    "origLen": 214,
+                    "pathId": -3019685463622948904
+                }
+            ],
             "pathId": 537819485379967788,
             "blockIdx": 49
         },
@@ -530,6 +911,17 @@
             "jpText": "さっき、とっさに体が動いた時に気づいてしまったんです。",
             "enText": "I noticed it earlier when \nmy body moved quickly.",
             "nextBlock": 51,
+            "origClipLength": 147,
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": -4131446663373845657
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 5784952477161607887
+                }
+            ],
             "pathId": -9101744645473318603,
             "blockIdx": 50
         },
@@ -539,6 +931,17 @@
             "jpText": "あたしは“メジロライアン”で、“メジロマックイーン”じゃない。",
             "enText": "I am a \"white horse\", not \na \"white horse McQueen\".",
             "nextBlock": 52,
+            "origClipLength": 136,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -6361476582001599028
+                },
+                {
+                    "origLen": 147,
+                    "pathId": -91697119472293868
+                }
+            ],
             "pathId": 1086656576712262272,
             "blockIdx": 51
         },
@@ -548,6 +951,17 @@
             "jpText": "かわいいものに憧れるけど、あまり似合わなくて……\r\nだけど体を動かすことなら誰にも負けない。",
             "enText": "I adore cute things, but they don't suit me \nvery well… But when it comes to \nphysical exercise, I'm second to none.",
             "nextBlock": 53,
+            "origClipLength": 264,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 465542312365201813
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 8609431162299324436
+                }
+            ],
             "pathId": 3379846461461064918,
             "blockIdx": 52
         },
@@ -557,6 +971,7 @@
             "jpText": "……そういうあたしも、悪くないなって！",
             "enText": "… I'm not so bad like that!",
             "nextBlock": 54,
+            "origClipLength": 104,
             "choices": [
                 {
                     "jpText": "またひとつ、自分の可能性を見つけたんだな",
@@ -569,6 +984,16 @@
                     "nextBlock": 54
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 19424398329653583
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 1148021866071575280
+                }
+            ],
             "pathId": -1564519981786868409,
             "blockIdx": 53
         },
@@ -578,6 +1003,17 @@
             "jpText": "そうだったら、うれしいな！\r\nあたし、いつもの体操着で取材を受けますね！",
             "enText": "I'd be happy if you were! I'll be interviewed \nin my regular gym clothes!",
             "nextBlock": 55,
+            "origClipLength": 223,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 7377319781827009949
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -4312804249900251692
+                }
+            ],
             "pathId": 3888595834894595607,
             "blockIdx": 54
         },
@@ -587,8 +1023,16 @@
             "jpText": "そう答えたメジロライアンは、いつにも増して輝いてみえた。\r\n後日聞いたところ、取材は大成功だったようだ！",
             "enText": "In her reply, Mejiro Ryan looked even more \nradiant than ever. I later heard that the \ninterview was a resounding success!",
             "nextBlock": -1,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -7662221103969227282
+                }
+            ],
             "pathId": 7364290963828042306,
             "blockIdx": 55
         }
-    ]
+    ],
+    "modified": 1669933707
 }

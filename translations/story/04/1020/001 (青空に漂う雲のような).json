@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "KF72O7U67TCGKQ3JWD6ZZ3HXZR6EJO3E",
     "type": "story",
     "storyId": "041020001",
@@ -11,6 +11,7 @@
             "jpText": "ウマ娘トレーナーとしてトレセン学園に\nやって来てから、数日が経過していた。",
             "enText": "I came to Tracen Academy a few \ndays ago in order to train Uma Musume.",
             "nextBlock": 2,
+            "origClipLength": 93,
             "pathId": -5339225385417508935,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "トレーナー室も先日与えられたので、\nそこで資料に目を通していると――",
             "enText": "I also received a personal trainer's office, \nand as such I was looking over some files there…",
             "nextBlock": 3,
+            "origClipLength": 89,
             "pathId": 1384077813685400608,
             "blockIdx": 2
         },
@@ -29,6 +31,13 @@
             "jpText": "ふへ～、やっぱりここは落ち着くな～。\r\nだーれもいないし、静かだし。ふっかふかのソファまであるし！",
             "enText": "Fuee… This place is so nice… No one's here and it's quiet. \nPlus there's a soft and fluffy sofa there all for me!",
             "nextBlock": 4,
+            "origClipLength": 340,
+            "animData": [
+                {
+                    "origLen": 171,
+                    "pathId": -8571442173762493807
+                }
+            ],
             "pathId": -10899447464400450,
             "blockIdx": 3
         },
@@ -38,6 +47,13 @@
             "jpText": "ではでは、失礼して――…………。",
             "enText": "So I'll be helping myself to…",
             "nextBlock": 5,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -1044372655151372753
+                }
+            ],
             "pathId": -5054033821093121059,
             "blockIdx": 4
         },
@@ -47,6 +63,7 @@
             "jpText": "って、誰！？　なんでここに！？",
             "enText": "Wait, who are you!? \nWhy are you here!?",
             "nextBlock": 6,
+            "origClipLength": 74,
             "choices": [
                 {
                     "jpText": "君こそなんでここに！？",
@@ -59,6 +76,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 8233277160443099631
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -4213251740375784919
+                }
+            ],
             "pathId": 257859738505864909,
             "blockIdx": 5
         },
@@ -68,6 +95,13 @@
             "jpText": "いや、この空きトレーナー室は\r\nセイちゃんの大事なお昼寝スポットだし～……んん？",
             "enText": "This empty Trainer's Office is \nSei-chan's precious naptime spot. Wait…",
             "nextBlock": 7,
+            "origClipLength": 220,
+            "animData": [
+                {
+                    "origLen": 180,
+                    "pathId": 5866821841858008010
+                }
+            ],
             "pathId": 2766287269338892051,
             "blockIdx": 6
         },
@@ -77,11 +111,18 @@
             "jpText": "そのバッジ、もしかして……新人トレーナーさん？\r\nで、『ここ使っていいよー』って言われた感じ？",
             "enText": "That badge… could it be… are you a rookie trainer? \nAnd if so, did they tell you you could use this office?",
             "nextBlock": 8,
+            "origClipLength": 312,
             "choices": [
                 {
                     "jpText": "そうだけど……",
                     "enText": "That's correct, but…",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 270,
+                    "pathId": -66408482434046222
                 }
             ],
             "pathId": -7865783012796986162,
@@ -93,6 +134,17 @@
             "jpText": "はいはい、なるほどねー。\nそういう感じか、りょーかい。",
             "enText": "Ah, okay. So that's what happened, got it!",
             "nextBlock": 9,
+            "origClipLength": 169,
+            "animData": [
+                {
+                    "origLen": 180,
+                    "pathId": 5059791762912430762
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 8759657536114202314
+                }
+            ],
             "pathId": 2222324508115822532,
             "blockIdx": 8
         },
@@ -102,6 +154,17 @@
             "jpText": "じゃーとりあえず、そこのソファ借りるね？\r\n今日の授業はキツめのばっかだったからさー、私もう眠くて眠くて。",
             "enText": "Well anyways, I'll be borrowing that sofa over there. \nToday's class was real rough, and now I'm just so sleepy.",
             "nextBlock": 10,
+            "origClipLength": 349,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 2139675964563821647
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4158779797611676249
+                }
+            ],
             "pathId": 1624515016434303955,
             "blockIdx": 9
         },
@@ -111,6 +174,17 @@
             "jpText": "ということで、おやすみなさーい。",
             "enText": "So, I'll be taking a nap.",
             "nextBlock": 11,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -4219818935478314343
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 5754000570351027469
+                }
+            ],
             "pathId": -5779246419719153793,
             "blockIdx": 10
         },
@@ -120,6 +194,7 @@
             "jpText": "こちらの反応を待たず、ウマ娘の少女――セイウンスカイは、\r\nソファに横になってあっさりと寝息を立て始めてしまった。",
             "enText": "Without waiting for my response, this Uma Musume… \nSeiun Sky, lied down on the sofa and drifted off to sleep.",
             "nextBlock": 12,
+            "origClipLength": 119,
             "choices": [
                 {
                     "jpText": "（よっぽど疲れていたのか……？）",
@@ -141,6 +216,7 @@
             "jpText": "とりあえず風邪を引くといけないので、\nトレーナー室にあった毛布を掛けてあげた。",
             "enText": "At any rate, I covered her with a blanket that I \nhad in my office so she wouldn't catch a cold.",
             "nextBlock": 13,
+            "origClipLength": 95,
             "pathId": -8336384006101374454,
             "blockIdx": 12
         },
@@ -150,6 +226,17 @@
             "jpText": "ふわぁ、よく寝た～……。",
             "enText": "Fuwa… That was a great nap…",
             "nextBlock": 14,
+            "origClipLength": 176,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -6967221251167311161
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -404631042013910142
+                }
+            ],
             "pathId": -1075193147607282312,
             "blockIdx": 13
         },
@@ -159,11 +246,22 @@
             "jpText": "って、誰！？",
             "enText": "Wait, who are you!?",
             "nextBlock": 15,
+            "origClipLength": 42,
             "choices": [
                 {
                     "jpText": "トレーナーだって！",
                     "enText": "I told you I'm a trainer!",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -5727601995530016669
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -6760343955263723521
                 }
             ],
             "pathId": -6093211775644292987,
@@ -175,6 +273,17 @@
             "jpText": "あはは、冗談ですよー。\r\n毛布もありがとうね。",
             "enText": "Ahaha, I was just kidding. \nThanks for the blanket though.",
             "nextBlock": 16,
+            "origClipLength": 157,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": 4733307419273117291
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 3807893130537771310
+                }
+            ],
             "pathId": 3262215191257540164,
             "blockIdx": 15
         },
@@ -184,6 +293,13 @@
             "jpText": "にしてもさー……トレーナーさん？\r\nどうして私を起こさなかったんです？",
             "enText": "Also… Trainer-san? \nWhy didn't you try and wake me up?",
             "nextBlock": 17,
+            "origClipLength": 227,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 9074726592490120644
+                }
+            ],
             "pathId": 3878830736952229412,
             "blockIdx": 16
         },
@@ -193,6 +309,17 @@
             "jpText": "ここが空き部屋だったのをいいことに、明らかにサボりに\r\n使っていた感じの発言。しかも、目の前で堂々と寝始めちゃう。",
             "enText": "I was obviously taking advantage of this \nempty room so that I could slack off in school. \nThen, I just fell asleep in front of you.",
             "nextBlock": 18,
+            "origClipLength": 286,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -9179716997939930998
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 7532719889947718981
+                }
+            ],
             "pathId": 4925436266575799138,
             "blockIdx": 17
         },
@@ -202,6 +329,17 @@
             "jpText": "私が自分で言うのもなんだけど、『ふざけんなー』って\r\n叩き出されても、まーおかしくないと思うよ？",
             "enText": "I can't believe I'm saying this but, \nit'd be normal for you to kick me out saying \nsomething like \"stop messing around,\" don't you think?",
             "nextBlock": 19,
+            "origClipLength": 256,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 2866287131955990516
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -4854253330793339594
+                }
+            ],
             "pathId": 6647207752057485743,
             "blockIdx": 18
         },
@@ -211,11 +349,22 @@
             "jpText": "なのにどうして、毛布までかけて\nセイちゃんの安眠を守ってくれたのかなー？",
             "enText": "So then why did you bring me a blanket \nand watch over me as I slept?",
             "nextBlock": 20,
+            "origClipLength": 204,
             "choices": [
                 {
                     "jpText": "疲れているのかと思って……",
                     "enText": "I figured you were exhausted…",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 181,
+                    "pathId": 3556547805042492817
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -3457324223861146890
                 }
             ],
             "pathId": -3534733005944404846,
@@ -227,6 +376,17 @@
             "jpText": "ほうほう……なーるほどね。",
             "enText": "Ohoho… I get it now.",
             "nextBlock": 21,
+            "origClipLength": 122,
+            "animData": [
+                {
+                    "origLen": 161,
+                    "pathId": 452410589536080003
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -4805584183109437515
+                }
+            ],
             "pathId": 5082998664852847384,
             "blockIdx": 20
         },
@@ -236,6 +396,17 @@
             "jpText": "そっかそっか！\nま、今日はありがとーございました♪",
             "enText": "Yup, that's gotta be it! \nWell, thanks for today♪",
             "nextBlock": 22,
+            "origClipLength": 160,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -3810345009067202287
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -6410150593786699169
+                }
+            ],
             "pathId": -3545340869386621506,
             "blockIdx": 21
         },
@@ -245,6 +416,17 @@
             "jpText": "この恩はいつか必ず……\n思い出した時に返しに来ますね。",
             "enText": "I'll be sure to return this favor… \nif I remember it that is.",
             "nextBlock": 23,
+            "origClipLength": 163,
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": -5373592312402479714
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 8537686027499948005
+                }
+            ],
             "pathId": -1216605609784268862,
             "blockIdx": 22
         },
@@ -254,6 +436,17 @@
             "jpText": "ではでは、さよーなら。\n……『また』、会いましょ～♪",
             "enText": "So see ya later… \nand let's meet again, okay♪",
             "nextBlock": 24,
+            "origClipLength": 158,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -1491585850862261313
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5093558912151516688
+                }
+            ],
             "pathId": -971843521929595204,
             "blockIdx": 23
         },
@@ -263,6 +456,7 @@
             "jpText": "そう言って、セイウンスカイは\n部屋を去って行ったのだった。",
             "enText": "As she said this, Seiun Sky left the room.",
             "nextBlock": 25,
+            "origClipLength": 82,
             "pathId": -3307402884089295435,
             "blockIdx": 24
         },
@@ -272,6 +466,7 @@
             "jpText": "そんなことがあった数日後――",
             "enText": "And a few days after that happened…",
             "nextBlock": 26,
+            "origClipLength": 61,
             "pathId": 3660526193571589263,
             "blockIdx": 25
         },
@@ -281,6 +476,7 @@
             "jpText": "あーいたいた！　おーい、この前の新人トレーナーさんっ！\r\n大変大変、大変なんだよ～～～！",
             "enText": "Ah, there you are! Oi, you're the rookie trainer \nfrom before! This is bad, really really bad!",
             "nextBlock": 27,
+            "origClipLength": 235,
             "choices": [
                 {
                     "jpText": "そんなに慌ててどうした？",
@@ -293,6 +489,20 @@
                     "nextBlock": 27
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 8077850234965093979
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 4613071144790316152
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 709088022117251255
+                }
+            ],
             "pathId": -8477650658964273923,
             "blockIdx": 26
         },
@@ -302,6 +512,17 @@
             "jpText": "ちょっともうとにかく大変だから、\n細かいことは置いといてすぐ答えて！！",
             "enText": "Things are really bad, so I'll tell you \nthe details later, just answer me this!!",
             "nextBlock": 28,
+            "origClipLength": 164,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 7682804823362597756
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2266614362121453242
+                }
+            ],
             "pathId": 2632321127291875192,
             "blockIdx": 27
         },
@@ -311,11 +532,18 @@
             "jpText": "呼吸をするために使う、\n胸の両側にある器官ってなんだっけ！？",
             "enText": "Are the two organs on either side of your \nchest that you use to breathe called lungs!?",
             "nextBlock": 29,
+            "origClipLength": 129,
             "choices": [
                 {
                     "jpText": "……肺？",
                     "enText": "Yes…?",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -3043777728643653492
                 }
             ],
             "pathId": -5621338746052230428,
@@ -327,6 +555,13 @@
             "jpText": "声がちいさぁーーーい！　クエスチョンじゃなくって、\r\nもっとエクスクラメーションな感じで！！",
             "enText": "You're too quiet! Stop answering with a \nquestion and use your outside voice instead!!",
             "nextBlock": 30,
+            "origClipLength": 190,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -8544176594139533916
+                }
+            ],
             "pathId": -3974780559634138683,
             "blockIdx": 29
         },
@@ -336,11 +571,18 @@
             "jpText": "ほい、もう1度！",
             "enText": "Now say it one more time!",
             "nextBlock": 31,
+            "origClipLength": 47,
             "choices": [
                 {
                     "jpText": "はい！",
                     "enText": "Yes!",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 9034671844958014224
                 }
             ],
             "pathId": 9035409835734254845,
@@ -352,11 +594,18 @@
             "jpText": "いいねいいね！　もういっちょ、はい！",
             "enText": "Now that's better! \nJust one more time now!",
             "nextBlock": 32,
+            "origClipLength": 106,
             "choices": [
                 {
                     "jpText": "はい！！",
                     "enText": "Yes!!",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 5757960558019868790
                 }
             ],
             "pathId": 7549584560457836723,
@@ -368,11 +617,22 @@
             "jpText": "――ということで先生、この人がさっきお話した\r\n担当トレーナーさんです！",
             "enText": "So as I was saying Sensei, \nthis person is my trainer!",
             "nextBlock": 33,
+            "origClipLength": 177,
             "choices": [
                 {
                     "jpText": "はい！！",
                     "enText": "Yes!!!",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 3947939722556602677
+                },
+                {
+                    "origLen": 228,
+                    "pathId": 8344476300289370355
                 }
             ],
             "pathId": 3802269970092846980,
@@ -384,6 +644,17 @@
             "jpText": "急に駆け出すからなにかと思ったら……\nそうなんですね、わかりました。",
             "enText": "I was wondering why you suddenly ran off… \nbut I see, so they're your trainer.",
             "nextBlock": 34,
+            "origClipLength": 169,
+            "animData": [
+                {
+                    "origLen": 198,
+                    "pathId": 6515846479000977119
+                },
+                {
+                    "origLen": 239,
+                    "pathId": -8243083534003456688
+                }
+            ],
             "pathId": -1060884226531018723,
             "blockIdx": 33
         },
@@ -393,11 +664,22 @@
             "jpText": "では、トレーナーさん。スカイさんのこと、くれぐれも……\r\nくれぐれも！　よろしくお願いしますねっ！！",
             "enText": "So, Trainer-san. We are immensely appreciative of you \nfor choosing Sky-san… We leave her in your care!!",
             "nextBlock": 35,
+            "origClipLength": 260,
             "choices": [
                 {
                     "jpText": "……はい？",
                     "enText": "…Yes?",
                     "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 286,
+                    "pathId": -3591748117606983845
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5783146007721525342
                 }
             ],
             "pathId": -62497313902087550,
@@ -409,6 +691,17 @@
             "jpText": "それじゃあ、セイウンスカイさん。\n専属トレーナー契約、おめでとう。",
             "enText": "Now then, Seiun Sky-san. \nI would like to congratulate you on finding a trainer.",
             "nextBlock": 36,
+            "origClipLength": 172,
+            "animData": [
+                {
+                    "origLen": 183,
+                    "pathId": 4458890253660668012
+                },
+                {
+                    "origLen": 191,
+                    "pathId": -6082932914031926023
+                }
+            ],
             "pathId": -1105706129314962766,
             "blockIdx": 35
         },
@@ -418,6 +711,17 @@
             "jpText": "あはは、どうもどうもー。\nそれじゃ先生、また後で～。",
             "enText": "Ahaha, thank you, thank you. \nAlrighty then Sensei, see you later.",
             "nextBlock": 37,
+            "origClipLength": 230,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 2208835916786898847
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 640947082713585731
+                }
+            ],
             "pathId": 6098409654265090752,
             "blockIdx": 36
         },
@@ -427,6 +731,13 @@
             "jpText": "と、いうことで！",
             "enText": "And just like that!",
             "nextBlock": 38,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 1340985338748540836
+                }
+            ],
             "pathId": -5128841379372286321,
             "blockIdx": 37
         },
@@ -436,11 +747,22 @@
             "jpText": "私とあなたはめでたく、ウマ娘とその担当トレーナーになりました。\r\nはい拍手！　ぱちぱちぱちー。",
             "enText": "You and I are now trainer \nand Uma Musume. Come on, clap!",
             "nextBlock": 39,
+            "origClipLength": 272,
             "choices": [
                 {
                     "jpText": "はめられた……！？",
                     "enText": "You set me up!",
                     "nextBlock": 39
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 4157679469895155132
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 6905944557283877576
                 }
             ],
             "pathId": -333068085278301813,
@@ -452,6 +774,17 @@
             "jpText": "おやおや、人聞きの悪い。\nちょっぴり手段を選ばなかっただけですよ？",
             "enText": "Oi, how scandalous. As they say, \nsimply a means to an end, ya know?",
             "nextBlock": 40,
+            "origClipLength": 172,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 7406884940683747097
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 525610807273392456
+                }
+            ],
             "pathId": -2215926479029554546,
             "blockIdx": 39
         },
@@ -461,6 +794,7 @@
             "jpText": "それより、『ど～してもあなたと組みたい！』\r\nと思った私の熱い気持ち、汲み取ってほしいなーなんて。",
             "enText": "More importantly, I was kinda hoping you'd interpret what I did \nas me \"doing this only because I wanted to work with you no \nmatter what\" or something like that.",
             "nextBlock": 41,
+            "origClipLength": 287,
             "choices": [
                 {
                     "jpText": "なんでそこまでして俺と……？",
@@ -473,6 +807,16 @@
                     "nextBlock": 41
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 236,
+                    "pathId": 4617578343841904047
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 1263175092147756748
+                }
+            ],
             "pathId": 3134003565519142051,
             "blockIdx": 40
         },
@@ -482,6 +826,17 @@
             "jpText": "え～、言わせちゃいます？",
             "enText": "Eh? Do I really have to spell it out for you?",
             "nextBlock": 42,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 4177989445856830377
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5488451080106587755
+                }
+            ],
             "pathId": 5241230488951703088,
             "blockIdx": 41
         },
@@ -491,6 +846,17 @@
             "jpText": "『ひと目惚れ』、ですよ！　キャハッ☆",
             "enText": "It was love at first sight! Kyaha ☆",
             "nextBlock": 43,
+            "origClipLength": 121,
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": -6913142638138898986
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 6554532015843407937
+                }
+            ],
             "pathId": -2126314268565897325,
             "blockIdx": 42
         },
@@ -500,6 +866,17 @@
             "jpText": "……と、ゆーのはまあ冗談ですけど。でもこの間の\r\nトレーナー室での一件で、ビビーッときたのはホントです。",
             "enText": "I'm just messing with you… \nBut the truth is the way you acted the other \nday in the Trainer's Office really surprised me.",
             "nextBlock": 44,
+            "origClipLength": 243,
+            "animData": [
+                {
+                    "origLen": 216,
+                    "pathId": -2098060138351435089
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 4634009367037493284
+                }
+            ],
             "pathId": -4274781471530717827,
             "blockIdx": 43
         },
@@ -509,6 +886,7 @@
             "jpText": "それにー、これは新人のあなたにとっても\n悪い話じゃないと思うんですよ！",
             "enText": "Plus this isn't a half bad arrangement \nfor a rookie trainer like yourself!",
             "nextBlock": 45,
+            "origClipLength": 228,
             "choices": [
                 {
                     "jpText": "そうなのか……？",
@@ -521,6 +899,12 @@
                     "nextBlock": 45
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -2906669872722527865
+                }
+            ],
             "pathId": -8873419928028475514,
             "blockIdx": 44
         },
@@ -530,6 +914,17 @@
             "jpText": "はいっ。なにしろ……\r\n私への指導、ラクですよ～！",
             "enText": "Yup. After all… training me is super easy!",
             "nextBlock": 46,
+            "origClipLength": 179,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 8664625446322437806
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 2442800677733439296
+                }
+            ],
             "pathId": 3262678975193912205,
             "blockIdx": 45
         },
@@ -539,6 +934,17 @@
             "jpText": "私、トレーナーさんに『熱血指導！』とか『特別メニュー！』\r\nとかのめんどーなこと、ぜんっぜん求めていませんから。",
             "enText": "I'm not looking for you to be super into your \ntraining or for you to make a special training \nregime or anything annoying like that.",
             "nextBlock": 47,
+            "origClipLength": 297,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -8651495804289082137
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -9159635927065768994
+                }
+            ],
             "pathId": 4257086978666018108,
             "blockIdx": 46
         },
@@ -548,6 +954,17 @@
             "jpText": "何事も適度に、テキトーに。それが長い人生を過ごすにあたっての、\r\nセイちゃんが大事にしたい哲学なわけです。",
             "enText": "Everything should be done in moderation after all. \nThat's the philosophy Sei-chan lives her life by anyways.",
             "nextBlock": 48,
+            "origClipLength": 301,
+            "animData": [
+                {
+                    "origLen": 312,
+                    "pathId": 7624916985376990711
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 1214421190940127902
+                }
+            ],
             "pathId": -6144129956450758828,
             "blockIdx": 47
         },
@@ -557,11 +974,22 @@
             "jpText": "というわけで……肩の力を抜いて～、\r\n適切にゆるるんとがんばっていきましょー。おー！",
             "enText": "So… let's just relax and take \nthis slow and comfortably… Oh!",
             "nextBlock": 49,
+            "origClipLength": 309,
             "choices": [
                 {
                     "jpText": "お、おー……？",
                     "enText": "O-Oh…?",
                     "nextBlock": 49
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 467472902294458430
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -6173595523946462258
                 }
             ],
             "pathId": 8490136302002385974,
@@ -573,6 +1001,13 @@
             "jpText": "……完全に流されて契約してしまった！",
             "enText": "I got swept along and \nended up signing on as her trainer…!",
             "nextBlock": 50,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 7657198181972391009
+                }
+            ],
             "pathId": 2651489542927692261,
             "blockIdx": 49
         },
@@ -582,6 +1017,13 @@
             "jpText": "しかも、セイウンスカイとの\nトレーニング初日――",
             "enText": "And on the first day of training with Seiun Sky…",
             "nextBlock": 51,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -965825709843021248
+                }
+            ],
             "pathId": 4802532287857526800,
             "blockIdx": 50
         },
@@ -591,6 +1033,7 @@
             "jpText": "（ヴー、ヴー）",
             "enText": "(Bzz, bzz)",
             "nextBlock": 52,
+            "origClipLength": 54,
             "pathId": 2694568240671502612,
             "blockIdx": 51
         },
@@ -600,6 +1043,7 @@
             "jpText": "携帯に着信が入ったことに気づき、\n内容を確認すると……。",
             "enText": "I received a text, so I opened \nmy phone to see the message, but…",
             "nextBlock": 53,
+            "origClipLength": 81,
             "pathId": 5123090961558087648,
             "blockIdx": 52
         },
@@ -609,6 +1053,7 @@
             "jpText": "『トレーナーさん、ビッグニュースです！　なんと河川敷に\r\nお魚の大群現る！　この波に乗らないのは釣り名人の恥！』",
             "enText": "\"Trainer-san, I've got big news! I just saw a huge school of \nfish in the floodplains! It would be a disgrace for a master \nfisher such as myself to miss out on this!\"",
             "nextBlock": 54,
+            "origClipLength": 288,
             "pathId": 8150755285205524526,
             "blockIdx": 53
         },
@@ -618,6 +1063,7 @@
             "jpText": "『追伸：トレーニングはお休みします。\nセイウンスカイより☆』",
             "enText": "\"P.S. I won't be at today's training. \nFrom Seiun Sky ☆\"",
             "nextBlock": 55,
+            "origClipLength": 158,
             "pathId": 1107814894422770077,
             "blockIdx": 54
         },
@@ -627,8 +1073,10 @@
             "jpText": "彼女は、初日からトレーニングに\n顔を出さなかった……。",
             "enText": "She didn't even show \nup on the first day of training…",
             "nextBlock": -1,
+            "origClipLength": 80,
             "pathId": 3578669448050647324,
             "blockIdx": 55
         }
-    ]
+    ],
+    "modified": 1669933689
 }

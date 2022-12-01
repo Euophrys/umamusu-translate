@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "REQO6VJJTFBEQADGWEO6ZZIRM73MRQFP",
     "type": "story",
     "storyId": "041022007",
@@ -11,6 +11,7 @@
             "jpText": "――海だ～～～～！！",
             "enText": "It's the ocean!",
             "nextBlock": 2,
+            "origClipLength": 122,
             "pathId": -1017982587179514878,
             "blockIdx": 1
         },
@@ -20,11 +21,18 @@
             "jpText": "夏合宿にて、海にやってきたファインモーションは\r\n飛び跳ねる勢いではしゃいでいた。",
             "enText": "At Summer Training Camp, Fine Motion was energetically jumping up \nand down, excited from being at the beach.",
             "nextBlock": 3,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "もしかして、海に来るのは初めて……？",
                     "enText": "Is this your first time at the beach…?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -3636756817630468657
                 }
             ],
             "pathId": 8197579098666606215,
@@ -36,6 +44,17 @@
             "jpText": "ううん、そんなことはないけど。でも、こんなふうに\r\nみんなと一緒に来られるなんて……本当に、夢みたいだよ。",
             "enText": "No, that's not the case. But, it's the first time I've been \ntogether with everyone… really, it's like a dream come true.",
             "nextBlock": 4,
+            "origClipLength": 283,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 8907758004436432637
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -4210467020594589349
+                }
+            ],
             "pathId": -5579256618949037085,
             "blockIdx": 3
         },
@@ -45,11 +64,22 @@
             "jpText": "ふふ、こうやって裸足で砂を踏む感覚も、何もかも……\r\n感じる全てが特別、って気持ちなんだ。",
             "enText": "Fufu, but the feeling of stepping barefoot through \nthe sand like this, just about everything about \nit… makes me feel like this is special.",
             "nextBlock": 5,
+            "origClipLength": 290,
             "choices": [
                 {
                     "jpText": "思い切り羽を伸ばすといいよ",
                     "enText": "It's fine to enjoy it to the fullest.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 4921892096870639146
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3842338877338273019
                 }
             ],
             "pathId": 5719654155531218472,
@@ -61,6 +91,17 @@
             "jpText": "うんっ！　――あっ、ヤドカリさん発見！\r\n新しいおうちを探してるのかな？",
             "enText": "Yeah! -Ah! Hermit crab spotted! \nI wonder if it's looking for a new home?",
             "nextBlock": 6,
+            "origClipLength": 225,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 3125001269025528770
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7181366244200199054
+                }
+            ],
             "pathId": -7612892465227505637,
             "blockIdx": 5
         },
@@ -70,6 +111,17 @@
             "jpText": "よしよし、私も手伝っちゃおうかな♪\r\nきっと砂浜のどこかに理想の物件が――",
             "enText": "Alright! Maybe I'll lend it a hand. \nSomewhere on this beach there has to the perfect new home-",
             "nextBlock": 7,
+            "origClipLength": 231,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -2932325960835105514
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 3161742345446555272
+                }
+            ],
             "pathId": -1964336184914843662,
             "blockIdx": 6
         },
@@ -79,6 +131,7 @@
             "jpText": "よーし、じゃあアップの砂浜ランニング始めるよ～……\r\nって、あれ？　ファインどこ？",
             "enText": "Alrighty then, let's start training on the beach… \nWait, huh? Where's Fine?",
             "nextBlock": 8,
+            "origClipLength": 275,
             "pathId": 2169751395387593807,
             "blockIdx": 7
         },
@@ -88,6 +141,7 @@
             "jpText": "あっ、向こうにいる！　もう始めちゃってんじゃないの！？\r\nみんな、ファインに続け～！",
             "enText": "Ah, she's over there! Maybe she's already started?! \nEveryone, follow Fine!",
             "nextBlock": 9,
+            "origClipLength": 220,
             "pathId": 7343029865976301429,
             "blockIdx": 8
         },
@@ -97,6 +151,7 @@
             "jpText": "実に嬉しそうなファインモーションだったが、\r\n楽しい時間というものは矢のように過ぎていくもので――",
             "enText": "Fine Motion was definitely enjoying herself, however, \ntime flies when you're having fun-",
             "nextBlock": 10,
+            "origClipLength": 108,
             "pathId": -2195217164668783454,
             "blockIdx": 9
         },
@@ -106,6 +161,13 @@
             "jpText": "――合宿最終日の夜。ファインモーションと一緒に、\r\n近所で開かれていた夏祭りにやってきた。",
             "enText": "Last Night of Training Camp. I went to the Summer Festival held \nnearby together with Fine Motion.",
             "nextBlock": 11,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 194,
+                    "pathId": 1494766436605429983
+                }
+            ],
             "pathId": -1517494603569319601,
             "blockIdx": 10
         },
@@ -115,6 +177,17 @@
             "jpText": "ん～、美味しかった！　あれがCotton candy……\r\nわたあめの味なんだね。本当に口に入れた途端溶けちゃった。",
             "enText": "Mmmm, It was delicious! So that's cotton candy… that's \nwhat cotton candy tastes like. It really did melt \ninstantly when I put it in my mouth.",
             "nextBlock": 12,
+            "origClipLength": 388,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -3427330133702158891
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -725980398896471029
+                }
+            ],
             "pathId": -2550187761904704794,
             "blockIdx": 11
         },
@@ -124,6 +197,17 @@
             "jpText": "……ふふ。トレーニングして、遊んで、ご飯作って、探検して、\r\n怖い話して、最後はお祭り……素敵なこと全部載せの合宿だったね。",
             "enText": "…Fufu. Training, playing, cooking, adventures, spooky stories, \nand finally a festival… it was a training camp filled with \nwonderful events, wasn't it?",
             "nextBlock": 13,
+            "origClipLength": 425,
+            "animData": [
+                {
+                    "origLen": 206,
+                    "pathId": 7693853388633445539
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -7496863559393408485
+                }
+            ],
             "pathId": -4712727169613791870,
             "blockIdx": 12
         },
@@ -133,6 +217,17 @@
             "jpText": "――あ！　花火だ！",
             "enText": "-Oh! Fireworks!",
             "nextBlock": 14,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4119024368708029838
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -4788956892609921339
+                }
+            ],
             "pathId": 1450678121849382613,
             "blockIdx": 13
         },
@@ -142,6 +237,17 @@
             "jpText": "綺麗……だなぁ。…………。",
             "enText": "Beautiful… aren't they?…",
             "nextBlock": 15,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -6839805308487599582
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -5306747254073568038
+                }
+            ],
             "pathId": -4525744062994345520,
             "blockIdx": 14
         },
@@ -151,6 +257,7 @@
             "jpText": "……特別なこと、楽しいことって、花火に似てるね。\r\n美しい時間は、あっという間に終わってしまう。",
             "enText": "Special things, fun things, they're very much like fireworks, \nhuh? They're beautiful, but over before you know it.",
             "nextBlock": 16,
+            "origClipLength": 346,
             "pathId": 7499966868921080811,
             "blockIdx": 15
         },
@@ -160,6 +267,7 @@
             "jpText": "でも、限られているからこそ、尊くて、素敵な思い出として\r\n心に残り続ける……。そういうものなのかな――？",
             "enText": "But, it's precisely because they're so fleeting, that they remain \nas such beautiful memories in our hearts… Don't you think-?",
             "nextBlock": 17,
+            "origClipLength": 268,
             "pathId": 5083320490489102303,
             "blockIdx": 16
         },
@@ -169,6 +277,17 @@
             "jpText": "……あ、ごめん！　せっかくのお祭りなのに、\r\nなんだかしんみりしちゃったね。",
             "enText": "…Ah, sorry! It's a festival after all, and there \nI go talking about something so serious.",
             "nextBlock": 18,
+            "origClipLength": 171,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": 162913151756394191
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 8710158715651256070
+                }
+            ],
             "pathId": 2379736093698068599,
             "blockIdx": 17
         },
@@ -178,6 +297,17 @@
             "jpText": "さ、一緒にお店回ろ？\r\nさっき、向こうに『超ジャンボたこ焼き』って看板見つけてね――",
             "enText": "Alright, how about we go check out the stalls? I found a sign \nover there for \"Super Jumbo Takoyaki\"-",
             "nextBlock": 19,
+            "origClipLength": 215,
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": -1990822109553638633
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7588831428893164896
+                }
+            ],
             "pathId": -1235379594609132142,
             "blockIdx": 18
         },
@@ -187,6 +317,13 @@
             "jpText": "そして、しばしファインモーションとお祭りを回り……\r\n今年の夏合宿は、無事終了となったのだった。",
             "enText": "And so, I accompanied Fine Motion at the festival for a while… \nThus, this year's summer training camp ended without incident.",
             "nextBlock": 20,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 160,
+                    "pathId": 8230086118090172889
+                }
+            ],
             "pathId": -6533752338443754187,
             "blockIdx": 19
         },
@@ -196,6 +333,7 @@
             "jpText": "――ふぅっ！　今日のトレーニングもこれで終わりだね。\r\n久々に戻ってくると、学校のコースもなんだか新鮮だな～。",
             "enText": "-Fuuu! Today's training is over. After being away for a while, \nthe school's course somehow has a fresh feeling to it.",
             "nextBlock": 21,
+            "origClipLength": 331,
             "choices": [
                 {
                     "jpText": "すっかり日常に戻ってきたって感じだな",
@@ -208,6 +346,20 @@
                     "nextBlock": 21
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 6361645594838447478
+                },
+                {
+                    "origLen": 210,
+                    "pathId": -4455963241800732895
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8544637999383684894
+                }
+            ],
             "pathId": -1109396453015690628,
             "blockIdx": 20
         },
@@ -217,11 +369,22 @@
             "jpText": "うん。……でも、また突然サプライズが\r\nやってくるってこともあるかもよ？",
             "enText": "Yeah… but you never know when another \nsudden surprise might happen, you know?",
             "nextBlock": 22,
+            "origClipLength": 205,
             "choices": [
                 {
                     "jpText": "まさかまたドラゴンが……",
                     "enText": "Don't tell me, another dragon…",
                     "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -5407082432497187969
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -6274496136547246774
                 }
             ],
             "pathId": 4205589402553624778,
@@ -233,6 +396,17 @@
             "jpText": "あははっ、さすがにそれはないよ。……でも、本当に\r\n特別なことが待っていたら嬉しいね。また、迷子さんとか。",
             "enText": "Ahaha, no way that's happening…But, it'd \nbe nice if there really was something special \nwaiting for us. Like another lost cat.",
             "nextBlock": 23,
+            "origClipLength": 317,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 5266787277990785677
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3680664299526282873
+                }
+            ],
             "pathId": 3821431062468155664,
             "blockIdx": 22
         },
@@ -242,6 +416,17 @@
             "jpText": "――って、何もないか。\r\nそう何回も迷子さんが来ちゃったら大変だよね。あはは。",
             "enText": "-Aw, nothing happened. Though I guess it would be troublesome if \nwe kept finding lost cats. Ahaha.",
             "nextBlock": 24,
+            "origClipLength": 248,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1616956703275834332
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 9029737642921684544
+                }
+            ],
             "pathId": 4560876413272811888,
             "blockIdx": 23
         },
@@ -251,6 +436,17 @@
             "jpText": "……あれっ？　ここにあるのは……インスタントラーメン？\r\nこの間まではなかったよね？",
             "enText": "…Huh? This is… instant ramen? \nIt wasn't here before, was it?",
             "nextBlock": 25,
+            "origClipLength": 297,
+            "animData": [
+                {
+                    "origLen": 224,
+                    "pathId": -4030843727711142930
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -8559719894556808953
+                }
+            ],
             "pathId": -1038358564988829477,
             "blockIdx": 24
         },
@@ -260,6 +456,17 @@
             "jpText": "そういえば……この間の一件で部屋を片づけ、整理した際、\r\n非常食、もとい間食のラーメンも場所を移していたのだった。",
             "enText": "Now that I think about it… after the previous incident I tidied \nup, and must have left this ramen out. It was originally meant as \nemergency rations or a snack.",
             "nextBlock": 26,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 189,
+                    "pathId": -1545980135592191566
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -949991706167677074
+                }
+            ],
             "pathId": 7447004486737222973,
             "blockIdx": 25
         },
@@ -269,6 +476,7 @@
             "jpText": "おお～、『麺修羅三代目』……！\r\nまだ食べたことない製品だ……！",
             "enText": "Oooh! \"Asura Noodles the Third\"…! \nIt's a brand I haven't tried yet…!",
             "nextBlock": 27,
+            "origClipLength": 210,
             "choices": [
                 {
                     "jpText": "食べてもいいぞ",
@@ -281,6 +489,16 @@
                     "nextBlock": 27
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4786336631047693076
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 2866304700632013745
+                }
+            ],
             "pathId": -1399264233873464231,
             "blockIdx": 26
         },
@@ -290,6 +508,7 @@
             "jpText": "いいの！？　ありがとうトレーナー！\r\nじゃあ早速一緒に――",
             "enText": "Really?! Thank you, Trainer! \nThen let's promptly-",
             "nextBlock": 28,
+            "origClipLength": 168,
             "choices": [
                 {
                     "jpText": "具になりそうなものはないけどな",
@@ -302,6 +521,20 @@
                     "nextBlock": 28
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -3601096252482253523
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -8955408860566934253
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 3355842447680130958
+                }
+            ],
             "pathId": -2759764792876033907,
             "blockIdx": 27
         },
@@ -311,11 +544,22 @@
             "jpText": "……はて？　インスタントラーメンって、\r\n具がないのが普通ではなくて？",
             "enText": "…huh? Don't you usually eat instant ramen \nwithout adding any extra ingredients?",
             "nextBlock": 29,
+            "origClipLength": 242,
             "choices": [
                 {
                     "jpText": "冷蔵庫の中のものを足したり……",
                     "enText": "Maybe something from the fridge…",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 379442310517762440
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4314479797322434872
                 }
             ],
             "pathId": -2213845515225669075,
@@ -327,6 +571,17 @@
             "jpText": "自分で、足す……？　冷蔵庫の中のものを……！？\r\nそれってつまり、なんでもありってこと……！？",
             "enText": "You just add something…? From the fridge…?! \nDoes that mean, anything will work…?!",
             "nextBlock": 30,
+            "origClipLength": 243,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -5250533838267447863
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8395918181528184508
+                }
+            ],
             "pathId": 6055074754462891135,
             "blockIdx": 29
         },
@@ -336,6 +591,17 @@
             "jpText": "……うわあ～！　なんだかすごくワクワクしてきちゃった！\r\nラーメンインスピレーションが止まらないよ！",
             "enText": "…Uwaaah! For some reason, I'm really excited! \nThe ramen inspirations just won't stop!",
             "nextBlock": 31,
+            "origClipLength": 270,
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": 6892863848537476523
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8454703512246532389
+                }
+            ],
             "pathId": -5098301812263883446,
             "blockIdx": 30
         },
@@ -345,6 +611,13 @@
             "jpText": "トレーナー！　せっかくだし今から具、買ってこようよ！\r\n一緒にオリジナルラーメン作っちゃおう！",
             "enText": "Trainer! Since we have the chance, let's buy some ingredients! \nLet's make an original ramen!",
             "nextBlock": 32,
+            "origClipLength": 208,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 2315707089202284881
+                }
+            ],
             "pathId": -7300922622879180634,
             "blockIdx": 31
         },
@@ -354,6 +627,13 @@
             "jpText": "そんなわけで、ファインモーションと一緒に\r\n商店街のスーパーまで買い出しに行くことになり――",
             "enText": "With that, together with Fine Motion, we headed \nto a supermarket in the shopping district-",
             "nextBlock": 33,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 7230395763155810118
+                }
+            ],
             "pathId": 986902194810414102,
             "blockIdx": 32
         },
@@ -363,6 +643,21 @@
             "jpText": "ふんふふんふふふーん♪\r\nもやし、キャベツ、まいたけ、ひきにく、生たまご～♪",
             "enText": "La lala, lalala-n. \nBean sprouts, cabbage, maitake, minced meat, eggs~",
             "nextBlock": 34,
+            "origClipLength": 185,
+            "animData": [
+                {
+                    "origLen": 346,
+                    "pathId": 3022116812451669897
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -7699094951307443512
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -2864255858943067925
+                }
+            ],
             "pathId": 7930763306808457228,
             "blockIdx": 33
         },
@@ -372,6 +667,13 @@
             "jpText": "あっ、ファインじゃん！　何やってんの？",
             "enText": "Ah, Fine! What are you up to?",
             "nextBlock": 35,
+            "origClipLength": 109,
+            "animData": [
+                {
+                    "origLen": 263,
+                    "pathId": 890369556059793058
+                }
+            ],
             "pathId": 9102581563068953118,
             "blockIdx": 34
         },
@@ -381,6 +683,21 @@
             "jpText": "ふふふ。今ね、インスタントラーメンのトッピングの\r\n可能性を追求しようと思って、具の買い出しに来てたの。",
             "enText": "Fufufu, we were going to investigate the possibiltiles of instant \nramen toppings, so we're out shopping for ingredients.",
             "nextBlock": 36,
+            "origClipLength": 270,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 7252463099383547514
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -4812082576963142194
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 1932411089030374947
+                }
+            ],
             "pathId": 8992754770679134791,
             "blockIdx": 35
         },
@@ -390,6 +707,17 @@
             "jpText": "あ～なるほど。肉とかキャベツとか足すやつでしょ？\r\n実家でたまにあったなあ、そういうの。",
             "enText": "Ah, I see. Like adding meat or cabbage? \nWe used to do that back home every now and then.",
             "nextBlock": 37,
+            "origClipLength": 222,
+            "animData": [
+                {
+                    "origLen": 174,
+                    "pathId": 2237078595532307090
+                },
+                {
+                    "origLen": 298,
+                    "pathId": 4861590014632265142
+                }
+            ],
             "pathId": 2772779907377681051,
             "blockIdx": 36
         },
@@ -399,6 +727,17 @@
             "jpText": "うちのお父さんなんか、お酒のつまみそのまま入れてたからね。\r\nなんかサラミ入れて特製チャーシューだとか世迷言を……。",
             "enText": "My dad used to put the snacks she would eat while \ndrinking sake in. Things like salami or special \nroast pork, weird things like that…",
             "nextBlock": 38,
+            "origClipLength": 321,
+            "animData": [
+                {
+                    "origLen": 346,
+                    "pathId": -9019109234059665662
+                },
+                {
+                    "origLen": 399,
+                    "pathId": 2711457917767074457
+                }
+            ],
             "pathId": -8145201663674271936,
             "blockIdx": 37
         },
@@ -408,6 +747,21 @@
             "jpText": "おおっ体験談が！　じゃあじゃあ2人も知恵を貸してくださらない？\r\nみんなで、最強の具だくさんラーメンを作ってみようよ！",
             "enText": "Oh, speaking from experience! Then, do you think you could lend \nus your wisdom? Let's work together, and make the best \ningredient-filled ramen!",
             "nextBlock": 39,
+            "origClipLength": 317,
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": -8381411689157457755
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -9039888614099389954
+                },
+                {
+                    "origLen": 354,
+                    "pathId": 716635339611088181
+                }
+            ],
             "pathId": 8313306194146452041,
             "blockIdx": 38
         },
@@ -417,6 +771,17 @@
             "jpText": "美味しいのができれば、あわよくば王家御用達か……\r\nそいつぁ熱い話だね。",
             "enText": "If we make something good, there's the possibility of becoming a \nRoyal Family Chef… That kind of fires me up!",
             "nextBlock": 40,
+            "origClipLength": 258,
+            "animData": [
+                {
+                    "origLen": 213,
+                    "pathId": 5405728485701679713
+                },
+                {
+                    "origLen": 298,
+                    "pathId": 4912337496802767051
+                }
+            ],
             "pathId": -4650404343024236928,
             "blockIdx": 39
         },
@@ -426,6 +791,17 @@
             "jpText": "そして、ファインモーションの友人たちも加わって、\r\n具材探しは続き――",
             "enText": "And so, Fine Motion's friends joined us \nas we continued our ingredient search-",
             "nextBlock": 41,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 305,
+                    "pathId": 8425968891650583839
+                },
+                {
+                    "origLen": 298,
+                    "pathId": -4348494246763074703
+                }
+            ],
             "pathId": -3512935151948722964,
             "blockIdx": 40
         },
@@ -435,6 +811,21 @@
             "jpText": "いただきまーす！",
             "enText": "Let's Eat!",
             "nextBlock": 42,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 8535216535421826589
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 8743028818030653754
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -4708418656778880155
+                }
+            ],
             "pathId": -7158920843543154526,
             "blockIdx": 41
         },
@@ -444,6 +835,17 @@
             "jpText": "……ふ～ん、サラミもそんなに悪くないねこれ。\r\nカップ麺のかやくチャーシューの強くなった版みたいな。",
             "enText": "…Hmmm, Salami isn't as bad as I thought. \nIt's kind of like a strongly seasoned pork version of cup ramen.",
             "nextBlock": 43,
+            "origClipLength": 354,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 608245803409938876
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7400060272102976031
+                }
+            ],
             "pathId": -3772574038423237024,
             "blockIdx": 42
         },
@@ -453,6 +855,7 @@
             "jpText": "ウチが入れたカニカマもなかなかいい仕事してるね～。\r\n奥深い、この……素材の、しっかりした味わいが――",
             "enText": "The imitation crab I put in is doing some work too! \nIt leaves a proper… deep flavor-",
             "nextBlock": 44,
+            "origClipLength": 255,
             "pathId": 2117908595401493410,
             "blockIdx": 43
         },
@@ -462,6 +865,7 @@
             "jpText": "……お前、食レポっぽいこと言えばいいと思ってるだろ。",
             "enText": "…You probably think it sounds cool saying \nsomething like a food reviewer.",
             "nextBlock": 45,
+            "origClipLength": 167,
             "pathId": 3803416739678748473,
             "blockIdx": 44
         },
@@ -471,6 +875,17 @@
             "jpText": "あははっ！　でも本当に美味しいよ、これ。\r\n帰ったらお父さまとお母さまにも勧めてみようかな。",
             "enText": "Ahaha! But this is really delicious. When I return home, maybe I \nshould recommend it to my father and mother.",
             "nextBlock": 46,
+            "origClipLength": 254,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -213459082640378724
+                },
+                {
+                    "origLen": 150,
+                    "pathId": -2242884943179925211
+                }
+            ],
             "pathId": -7282841718779629822,
             "blockIdx": 45
         },
@@ -480,6 +895,17 @@
             "jpText": "ああ勧めて勧めて。ワンチャン王家御用達になったら\r\nウチがもらうので。こう、ロイヤリティ的なものを。",
             "enText": "Yeah, recommend it! It's my one chance to become a Royal Family \nChef, and I'll take it! Something Royalty-like! ",
             "nextBlock": 47,
+            "origClipLength": 255,
+            "animData": [
+                {
+                    "origLen": 319,
+                    "pathId": 3291886536412358387
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2782230203086916649
+                }
+            ],
             "pathId": -3800992372338556417,
             "blockIdx": 46
         },
@@ -489,6 +915,13 @@
             "jpText": "当然のように独占するの前提なのがさすがだね……。\r\nいいから食えよ。",
             "enText": "As expected of you, suddenly hogging all the glory… \nForget it, just eat.",
             "nextBlock": 48,
+            "origClipLength": 192,
+            "animData": [
+                {
+                    "origLen": 266,
+                    "pathId": -4231547239326084581
+                }
+            ],
             "pathId": -82729980259497962,
             "blockIdx": 47
         },
@@ -498,6 +931,17 @@
             "jpText": "うんうん、伸びないうちに召しあがれ！\r\nラーメンは熱いうちが勝負だよ～。",
             "enText": "Yeah, eat it before the noodle get soggy! \nFinishing it while it's still hot is half the battle.",
             "nextBlock": 49,
+            "origClipLength": 189,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5450348748813635907
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7857321728821509806
+                }
+            ],
             "pathId": 4599349993520557670,
             "blockIdx": 48
         },
@@ -507,11 +951,22 @@
             "jpText": "……うん。やっぱり――そうなんだなぁ。",
             "enText": "…Yep. Definitely-it's just like that.",
             "nextBlock": 50,
+            "origClipLength": 153,
             "choices": [
                 {
                     "jpText": "やっぱりって？",
                     "enText": "What is?",
                     "nextBlock": 50
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": 6383934009593190331
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 3084089581319648234
                 }
             ],
             "pathId": 7693325922221863153,
@@ -523,6 +978,17 @@
             "jpText": "ふふ……大切なことに、少しだけど気づけたの。\r\nキミと、みんなのおかげで。",
             "enText": "Fufu…I think I just realized something important. \nThanks to all of you.",
             "nextBlock": 51,
+            "origClipLength": 274,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 1428127360901308780
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6278222532210204795
+                }
+            ],
             "pathId": 3397941313221538236,
             "blockIdx": 50
         },
@@ -532,6 +998,13 @@
             "jpText": "特別なことが起きたら、それはもちろん素敵――\r\nだけど、もしなくっても、私は大丈夫。",
             "enText": "If something special happens, of course it's wonderful- \nBut, even if it doesn't, that's fine too.",
             "nextBlock": 52,
+            "origClipLength": 273,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 8962649178535181934
+                }
+            ],
             "pathId": 4074844704469474857,
             "blockIdx": 51
         },
@@ -541,6 +1014,7 @@
             "jpText": "だってこんなふうに、みんなと当たり前みたいに“いつもの”\r\n時間を過ごせることが……私にとっては、何より“特別”だから。",
             "enText": "Because just like this, spending our time together \"as \nusual\"…to me, there's nothing more \"special\" than that.",
             "nextBlock": 53,
+            "origClipLength": 344,
             "choices": [
                 {
                     "jpText": "……そうだな",
@@ -553,6 +1027,16 @@
                     "nextBlock": 53
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -81304555784276081
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -3762556101201019906
+                }
+            ],
             "pathId": -4066032138245322485,
             "blockIdx": 52
         },
@@ -562,6 +1046,17 @@
             "jpText": "……ふふ。では、一緒に味わいましょうか。",
             "enText": "…Fufu. Then, let's enjoy it together.",
             "nextBlock": 54,
+            "origClipLength": 157,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1864468200350850711
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8396544027876850354
+                }
+            ],
             "pathId": 4516392638700544479,
             "blockIdx": 53
         },
@@ -571,8 +1066,20 @@
             "jpText": "限られていて、だけどかけがえのない時間を、\r\nこれからも……ね。",
             "enText": "This limited, but irreplaceable time. \nFrom now on… okay?",
             "nextBlock": -1,
+            "origClipLength": 225,
+            "animData": [
+                {
+                    "origLen": 181,
+                    "pathId": -4164385409484861159
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3897968461904935319
+                }
+            ],
             "pathId": 934670959188813954,
             "blockIdx": 54
         }
-    ]
+    ],
+    "modified": 1669933795
 }

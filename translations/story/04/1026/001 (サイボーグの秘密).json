@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CHKFEUAOFQWXFHJCMSWMHBQY3W4NSQ3A",
     "type": "story",
     "storyId": "041026001",
@@ -11,6 +11,7 @@
             "jpText": "ウマ娘のトレーナーとして\r\nトレセン学園での生活を始めてから、早数日。",
             "enText": "It's been a few days since I started \nmy life at Tracen Academy as a \ntrainer for Uma Musume.",
             "nextBlock": 2,
+            "origClipLength": 90,
             "pathId": -3183674846948780726,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "エラー発生。目的の座標にて、該当物件なし。",
             "enText": "Error occurred. No applicable property \nat the desired coordinates.",
             "nextBlock": 3,
+            "origClipLength": 135,
+            "animData": [
+                {
+                    "origLen": 330,
+                    "pathId": -2295783648532431969
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 4563843716566874130
+                }
+            ],
             "pathId": -110588895963452470,
             "blockIdx": 2
         },
@@ -29,6 +41,17 @@
             "jpText": "商店街を歩いていると――\r\n1人のウマ娘が立ち尽くしている姿を見かけた。",
             "enText": "As I was walking along the shopping street, I \nsaw a horse girl standing there.",
             "nextBlock": 4,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 330,
+                    "pathId": -807288645814511721
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -9067715177620820257
+                }
+            ],
             "pathId": 1570390305001737597,
             "blockIdx": 3
         },
@@ -38,6 +61,7 @@
             "jpText": "端末のGPS機能にも、エラー発生。\r\nバッドステータス、『万事休す』であると判断。",
             "enText": "There was an error in the GPS function of the \ndevice. Decided that it was a bad status, \n\"All is not well\".",
             "nextBlock": 5,
+            "origClipLength": 209,
             "choices": [
                 {
                     "jpText": "……どうしたんだ？",
@@ -50,6 +74,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 330,
+                    "pathId": 7460570367973115475
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3769778949937849052
+                }
+            ],
             "pathId": 8131533415232983079,
             "blockIdx": 4
         },
@@ -59,6 +93,17 @@
             "jpText": "……バッジからトレセン学園のトレーナーであることを確認。\r\n初めまして、私の名前はミホノブルボンです。",
             "enText": "…I've confirmed from the badge that you're \na trainer from Trecen Academy. Nice to meet \nyou. My name is Mihono Bourbon.",
             "nextBlock": 6,
+            "origClipLength": 257,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 1675078247127108063
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4387800678032031619
+                }
+            ],
             "pathId": 2018057287337414201,
             "blockIdx": 5
         },
@@ -68,6 +113,17 @@
             "jpText": "現在、バッドステータス『万事休す』が発生中。\r\nこの近辺に新しくできたトレーニング用品店が見当たりません。",
             "enText": "The Bad Status is currently active. I don't \nsee any new training equipment stores nearby.",
             "nextBlock": 7,
+            "origClipLength": 260,
+            "animData": [
+                {
+                    "origLen": 243,
+                    "pathId": -1124576682413756028
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -5433972261036439219
+                }
+            ],
             "pathId": 1958785806600039231,
             "blockIdx": 6
         },
@@ -77,6 +133,17 @@
             "jpText": "商店街の方から、『この通りをだいたい100ｍ』と伺ったので\r\n歩いてきたのですが、それらしき店舗が周辺に見つかりません。",
             "enText": "I was told by a person in the shopping district that it was \nabout 100 meters along this street, so I walked there, but I \ncouldn't find any stores that looked like it.",
             "nextBlock": 8,
+            "origClipLength": 272,
+            "animData": [
+                {
+                    "origLen": 210,
+                    "pathId": -2971269553201748208
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4266970848701335577
+                }
+            ],
             "pathId": -1912633058097791492,
             "blockIdx": 7
         },
@@ -86,6 +153,17 @@
             "jpText": "また、端末も急なエラーが発生し、地図アプリの展開が困難です。",
             "enText": "The device is also experiencing sudden \nerrors, making it difficult to deploy \nthe map application.",
             "nextBlock": 9,
+            "origClipLength": 163,
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": -463000282951861363
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 8590936205269687472
+                }
+            ],
             "pathId": -7055502045278439621,
             "blockIdx": 8
         },
@@ -95,11 +173,22 @@
             "jpText": "店の場所はわからなかったが、\r\n代わりにアプリで調べることならできそうだ。",
             "enText": "I didn't know where the store was, but I \ncould look it up on the app instead.",
             "nextBlock": 10,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "調べようか",
                     "enText": "Let's find out.",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7274215803126568030
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8558014316898009081
                 }
             ],
             "pathId": 6878417689571923824,
@@ -111,6 +200,17 @@
             "jpText": "恐れ入ります。",
             "enText": "Thank you very much.",
             "nextBlock": 11,
+            "origClipLength": 38,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -7418645937898951248
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 4284298384892355574
+                }
+            ],
             "pathId": -4825990850853831541,
             "blockIdx": 10
         },
@@ -120,6 +220,7 @@
             "jpText": "店の場所はすぐわかった。あと42ｍほど歩いたところにある\r\nようだ。目を凝らしてみると、たしかにそのような店がある。",
             "enText": "I knew where the store was right away. It seemed \nto be about 42 meters away. When I looked closely, \nI saw that there was indeed such a store.",
             "nextBlock": 12,
+            "origClipLength": 120,
             "choices": [
                 {
                     "jpText": "ここから、もう少し歩いたところにある",
@@ -132,6 +233,12 @@
                     "nextBlock": 12
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 166,
+                    "pathId": 2693431562406896654
+                }
+            ],
             "pathId": 2502774223282921970,
             "blockIdx": 11
         },
@@ -141,11 +248,22 @@
             "jpText": "……すみません、『もう少し』とは？",
             "enText": "… Sorry, what do you \nmean 'a short'?",
             "nextBlock": 13,
+            "origClipLength": 111,
             "choices": [
                 {
                     "jpText": "え？",
                     "enText": "Huh?",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 5060690269741968234
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 2037656337255372058
                 }
             ],
             "pathId": 3003126617008527819,
@@ -157,11 +275,22 @@
             "jpText": "つまり『もう少し』とは、数値化するとどれほどの距離でしょうか。",
             "enText": "In other words, how far is 'a short'?",
             "nextBlock": 14,
+            "origClipLength": 164,
             "choices": [
                 {
                     "jpText": "40ちょっとかな？",
                     "enText": "A little over 40?",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2064444693823313443
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -5921916046043058919
                 }
             ],
             "pathId": 6113721316504791475,
@@ -173,11 +302,22 @@
             "jpText": "……『40ちょっと』……？",
             "enText": "… \"A little over 40\"…?",
             "nextBlock": 15,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "……42m先です",
                     "enText": "…42m ahead.",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6088010699575412868
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -1021010009192393094
                 }
             ],
             "pathId": -2842036794904298347,
@@ -189,6 +329,17 @@
             "jpText": "認識完了。ありがとうございます。ここから42m先、ですね。\r\n先ほどインプットした情報に42mの誤差があったと判明。",
             "enText": "Confirmed. Thank you very much. It's 42 \nmeters away from here. It turns out there was \nan error of 42 meters in the information I \ninput earlier.",
             "nextBlock": 16,
+            "origClipLength": 342,
+            "animData": [
+                {
+                    "origLen": 262,
+                    "pathId": -8977133311024824860
+                },
+                {
+                    "origLen": 171,
+                    "pathId": 1867587194543250272
+                }
+            ],
             "pathId": -4071105900480212778,
             "blockIdx": 15
         },
@@ -198,6 +349,17 @@
             "jpText": "想定外でしたが、そもそもこれは私のリサーチ不足。\r\nエラーログに記録し、再発防止に努めます。",
             "enText": "I wasn't expecting this, but this is my lack \nof research in the first place. I'll record \nit in the error log to prevent it from \nreoccurring.",
             "nextBlock": 17,
+            "origClipLength": 232,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -588938436750899928
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1771667454641419355
+                }
+            ],
             "pathId": -2035923442729394254,
             "blockIdx": 16
         },
@@ -207,6 +369,13 @@
             "jpText": "それでは、ありがとうございました。\r\n大変、助かりました。",
             "enText": "Thank you very much. You've \nbeen a great help.",
             "nextBlock": 18,
+            "origClipLength": 142,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -8607323859195976011
+                }
+            ],
             "pathId": 2586670384710024208,
             "blockIdx": 17
         },
@@ -216,11 +385,18 @@
             "jpText": "42m前進。オペレーション開始。",
             "enText": "42 meters forward. Operation initiated.",
             "nextBlock": 19,
+            "origClipLength": 124,
             "choices": [
                 {
                     "jpText": "（不思議な子だなぁ……）",
                     "enText": "(What a strange girl…)",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 5146777551760589552
                 }
             ],
             "pathId": -7479275183650361671,
@@ -232,6 +408,7 @@
             "jpText": "……念のため見守っていると、今度はきちんと目的地であろう\r\n店の前で足を止め、無事入店していった。",
             "enText": "… As I watched to make sure, this time she stopped \nin front of the store that was supposed to be \nher destination and entered safely.",
             "nextBlock": 20,
+            "origClipLength": 108,
             "pathId": 3507438442849697590,
             "blockIdx": 19
         },
@@ -241,6 +418,7 @@
             "jpText": "そんな一風変わったウマ娘と出会った翌日のこと。\r\nスカウトしたいウマ娘を探すべく、模擬レースを観に来ていた。",
             "enText": "It was the day after I had met such an \neccentric horse girl. I had come to watch \nthe mock race in order to find the horse girl \nshe wanted to recruit.",
             "nextBlock": 21,
+            "origClipLength": 115,
             "pathId": -8287288985063701993,
             "blockIdx": 20
         },
@@ -250,6 +428,7 @@
             "jpText": "このレース、ミホノブルボンがいるんすね。\r\n入学前のレースでも結構いい成績残してませんでした？",
             "enText": "You have Mihono Bourbon in this race, don't \nyou? Didn't she do pretty well in the race \nbefore she enrolled?",
             "nextBlock": 22,
+            "origClipLength": 197,
             "pathId": -5562102169179410348,
             "blockIdx": 21
         },
@@ -259,6 +438,7 @@
             "jpText": "サイボーグみたいな子よね？\r\nグラウンドで見たことがあるわ。でも、たしかもう――",
             "enText": "She's like a cyborg, isn't she? I've \nseen her on the field before. But \nI think she's already…",
             "nextBlock": 23,
+            "origClipLength": 210,
             "pathId": 4263348161975641800,
             "blockIdx": 22
         },
@@ -268,6 +448,7 @@
             "jpText": "観客席は、同じようにスカウト目的で見学に来たトレーナーで\r\n賑わっており、誰もが有望株を引き抜こうと目を凝らしていた。",
             "enText": "The spectator seats were filled with trainers \nwho had come to observe for scouting in the \nsame way, and everyone strained their eyes to \npull out their promising stock.",
             "nextBlock": 24,
+            "origClipLength": 121,
             "pathId": 5363147630467091618,
             "blockIdx": 23
         },
@@ -277,6 +458,7 @@
             "jpText": "（ガコンッ）",
             "enText": "(Bang)",
             "nextBlock": 25,
+            "origClipLength": 52,
             "pathId": -7146205236400005031,
             "blockIdx": 24
         },
@@ -286,6 +468,7 @@
             "jpText": "ゲートが開く音が響く。\r\nジャージに身を包んだウマ娘たちが、一斉に飛び出した。",
             "enText": "The sound of the gate opening resounds. \nThe horse girls in their jerseys \ntook off in unison.",
             "nextBlock": 26,
+            "origClipLength": 95,
             "pathId": -2236343124135897878,
             "blockIdx": 25
         },
@@ -295,6 +478,17 @@
             "jpText": "先頭、随分飛ばしてますね！",
             "enText": "You're flying pretty far ahead!",
             "nextBlock": 27,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -7185204761867207288
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 7697743056461226013
+                }
+            ],
             "pathId": 5075469339116393419,
             "blockIdx": 26
         },
@@ -304,6 +498,17 @@
             "jpText": "先頭のウマ娘――ミホノブルボンは、早々に抜け出し\r\n先行集団からあっという間に距離を開いてみせた。",
             "enText": "The horsegirl in the lead, Mihono \nBourbon, got out early and quickly opened up \na distance from the leading pack.",
             "nextBlock": 28,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": 1822438146928280581
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2328479902927023587
+                }
+            ],
             "pathId": 5432854181793903029,
             "blockIdx": 27
         },
@@ -313,6 +518,13 @@
             "jpText": "はっ、はっ、はっ、はっ！",
             "enText": "*pant pant*!",
             "nextBlock": 29,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -60751218408767778
+                }
+            ],
             "pathId": 5681211253256653989,
             "blockIdx": 28
         },
@@ -322,6 +534,13 @@
             "jpText": "噂通り、魅力的なスピードだわ。\r\n短距離路線はとんでもない大型新人が現れたわね……！",
             "enText": "As they say, it's fascinating speed. \nThere's one hell of a big newcomer \non the short track…!",
             "nextBlock": 30,
+            "origClipLength": 259,
+            "animData": [
+                {
+                    "origLen": 274,
+                    "pathId": 2425361834770691501
+                }
+            ],
             "pathId": 8886349171418670700,
             "blockIdx": 29
         },
@@ -331,6 +550,13 @@
             "jpText": "誰もが圧倒される中、ミホノブルボンは\r\n独走状態で最終直線を駆け抜け――",
             "enText": "While everyone else was overwhelmed, \nMihono Bourbon was running solo down \nthe final straightaway.",
             "nextBlock": 31,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -7612407943126616036
+                }
+            ],
             "pathId": -5497749331307927264,
             "blockIdx": 30
         },
@@ -340,6 +566,17 @@
             "jpText": "はぁっ、はぁっ、はぁっ――！！",
             "enText": "*pant pant*!!",
             "nextBlock": 32,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 2217999061501159830
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1438897705895385457
+                }
+            ],
             "pathId": 2922795302645145689,
             "blockIdx": 31
         },
@@ -349,6 +586,7 @@
             "jpText": "1度も影を踏ませず、悠々と1着をもぎ取ってみせた。",
             "enText": "She didn't let her step on her shadow even \nonce and took the first place with ease.",
             "nextBlock": 33,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "（なんて才能だ……！）",
@@ -361,6 +599,12 @@
                     "nextBlock": 33
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 3433173437465006591
+                }
+            ],
             "pathId": -8315745922908376635,
             "blockIdx": 32
         },
@@ -370,6 +614,7 @@
             "jpText": "先日街中で出会った彼女からは、想像もつかない力強いスピード。\r\n才能あふれる走りに、完全に心を奪われてしまった。",
             "enText": "I met her on the street the other day, and I couldn't \nimagine her powerful speed. I was completely taken \naback by her talented running.",
             "nextBlock": 34,
+            "origClipLength": 118,
             "pathId": -5844390878438721362,
             "blockIdx": 33
         },
@@ -379,6 +624,7 @@
             "jpText": "すごい有望株っすね……！\r\n他にとられる前にスカウトしなきゃ――",
             "enText": "That's a great prospect…! I've got to \nscout her out before someone else does.",
             "nextBlock": 35,
+            "origClipLength": 155,
             "choices": [
                 {
                     "jpText": "（そうだ、俺も急いで――）",
@@ -400,6 +646,7 @@
             "jpText": "あー、ダメよ。\r\nもうあの子、トレーナーついちゃってるの……。",
             "enText": "Oh, no. She's already got a trainer…",
             "nextBlock": 36,
+            "origClipLength": 156,
             "choices": [
                 {
                     "jpText": "えーっ！？",
@@ -416,11 +663,22 @@
             "jpText": "ミホノブルボンに目をやると、確かに1人のトレーナーと\r\n話をしている様子が見えた。",
             "enText": "I glanced at Mihono Bourbon and saw that she \nwas indeed talking to a single trainer.",
             "nextBlock": 37,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "（お、遅かった……！）",
                     "enText": "(I-I was too late!)",
                     "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 6132070998503007307
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -8265818529548570617
                 }
             ],
             "pathId": 8396448819848893829,
@@ -432,6 +690,13 @@
             "jpText": "あの人、やり手のベテラントレーナーじゃないすか。\r\nあーあ、先越されちゃったなー。",
             "enText": "She's a seasoned trainer, isn't \nshe? Man, she beat me to it.",
             "nextBlock": 38,
+            "origClipLength": 192,
+            "animData": [
+                {
+                    "origLen": 217,
+                    "pathId": 3853026543489350081
+                }
+            ],
             "pathId": 9163781016131698720,
             "blockIdx": 37
         },
@@ -441,6 +706,13 @@
             "jpText": "バリバリの短距離路線で考えてるって、\r\nあのトレーナーさん、張り切ってたわよ。",
             "enText": "The trainer was very enthusiastic, saying she \nwas thinking of going for the short distance.",
             "nextBlock": 39,
+            "origClipLength": 174,
+            "animData": [
+                {
+                    "origLen": 204,
+                    "pathId": 5719626245867638576
+                }
+            ],
             "pathId": -3423378473899198508,
             "blockIdx": 38
         },
@@ -450,6 +722,13 @@
             "jpText": "すでにトレーナーがいるのなら諦めるほかない。\r\n今後の活躍を陰ながら応援しようと心に決めた……。",
             "enText": "I had no choice but to give up if the trainer \nwas already here. I decided to secretly \nsupport her from now on…",
             "nextBlock": 40,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": -5880146944320039900
+                }
+            ],
             "pathId": 274001593929473918,
             "blockIdx": 39
         },
@@ -459,6 +738,13 @@
             "jpText": "その日の夜。\r\n帰宅がてら、ぶらぶらと校内を散歩していると――",
             "enText": "That night, while I was walking around the \nschool on my way home――",
             "nextBlock": 41,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -620101943192337904
+                }
+            ],
             "pathId": -5118680158689698928,
             "blockIdx": 40
         },
@@ -468,11 +754,18 @@
             "jpText": "はぁっ、はぁっ、はぁっ、はぁっ！",
             "enText": "*pant pant*!",
             "nextBlock": 42,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "（ミホノブルボン……！）",
                     "enText": "(Mihono Bourbon!)",
                     "nextBlock": 42
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 5585884901647721727
                 }
             ],
             "pathId": 3729727786194879331,
@@ -484,6 +777,13 @@
             "jpText": "自主トレーニング中らしきミホノブルボンを見かけた。",
             "enText": "I saw Mihono Bourbon, who seemed \nto be in voluntary training.",
             "nextBlock": 43,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 496658659161192354
+                }
+            ],
             "pathId": -447116203379110508,
             "blockIdx": 42
         },
@@ -493,6 +793,17 @@
             "jpText": "はぁっ、はぁっ、1800m通過、残り1200m。\r\nタイム2分04秒っ……。目標速度より大幅に低下……！",
             "enText": "Hah, hah, 1800m passed, 1200m to \ngo. Time 2:04… Much slower \nthan target speed…!",
             "nextBlock": 44,
+            "origClipLength": 266,
+            "animData": [
+                {
+                    "origLen": 278,
+                    "pathId": 2085447521259258976
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2493694129684389838
+                }
+            ],
             "pathId": 7130393128977985556,
             "blockIdx": 43
         },
@@ -502,11 +813,18 @@
             "jpText": "タイムを計っているのだろうか。\r\nそれにしても――",
             "enText": "I wonder if she's counting \nthe time. But still―",
             "nextBlock": 45,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "（……3000m！？）",
                     "enText": "(3,000 meters?!)",
                     "nextBlock": 45
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -2029244925161063366
                 }
             ],
             "pathId": 6212953200371727878,
@@ -518,6 +836,17 @@
             "jpText": "通常、体が出来上がっていないデビュー前のウマ娘に、\r\nここまで長い距離のトレーニングをさせることはない。",
             "enText": "Normally, a horse girl who is not yet ready \nto make her debut would not be required to \ntrain for such a long distance.",
             "nextBlock": 46,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 1026974736642628529
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4853879487150763043
+                }
+            ],
             "pathId": -599748735688382723,
             "blockIdx": 45
         },
@@ -527,6 +856,13 @@
             "jpText": "……っ！",
             "enText": "…!",
             "nextBlock": 47,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -1643625203767980989
+                }
+            ],
             "pathId": -3555763644314727133,
             "blockIdx": 46
         },
@@ -536,6 +872,13 @@
             "jpText": "はぁ、はぁ、はぁ……。",
             "enText": "*pant pant*…",
             "nextBlock": 48,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 5153669973515960218
+                }
+            ],
             "pathId": -5091012673985860751,
             "blockIdx": 47
         },
@@ -545,11 +888,18 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 49,
+            "origClipLength": 44,
             "choices": [
                 {
                     "jpText": "！！",
                     "enText": "!!",
                     "nextBlock": 49
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -3407516727413775399
                 }
             ],
             "pathId": -8033148355162018836,
@@ -561,8 +911,16 @@
             "jpText": "突如倒れこんだミホノブルボンに、慌てて駆け寄った――",
             "enText": "I rushed over to Mihono Bourbon, \nwho suddenly collapsed.",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -1949145631692192263
+                }
+            ],
             "pathId": 7642043380533049783,
             "blockIdx": 49
         }
-    ]
+    ],
+    "modified": 1669933700
 }

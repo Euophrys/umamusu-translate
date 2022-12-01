@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BIKJD4NGXSEJH2D5AZSRY3CD73BU7DKW",
     "type": "story",
     "storyId": "041007004",
@@ -11,6 +11,7 @@
             "jpText": "無事、ゴールドシップと共に学園へ帰ってくることができた\r\nその翌日――",
             "enText": "The next day, I was able to return to\nthe academy with the Gold Ship.",
             "nextBlock": 2,
+            "origClipLength": 90,
             "pathId": 6059972840416250570,
             "blockIdx": 1
         },
@@ -20,6 +21,13 @@
             "jpText": "（ワイワイ……ガヤガヤ……）",
             "enText": "(Wai Wai… Gaya Gaya…)",
             "nextBlock": 3,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 651059599693245045
+                }
+            ],
             "pathId": -2209379887260347098,
             "blockIdx": 2
         },
@@ -29,6 +37,17 @@
             "jpText": "えー、こちらレースコース。\r\n中継はお馴染み、ゴルシちゃんでお送りします。",
             "enText": "Well, this is the race course. This is the race course, and\nwe'll be joined by the familiar Gorshin-chan.",
             "nextBlock": 4,
+            "origClipLength": 149,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -347584495025337693
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6685245689281231186
+                }
+            ],
             "pathId": -2629989165222134438,
             "blockIdx": 3
         },
@@ -38,6 +57,7 @@
             "jpText": "まずは、新人トレーナーさんに突撃インタビュー☆\r\n今日のレースに向けて意気込みをお聞かせください。",
             "enText": "First of all, let's have a quick interview with the new trainer☆\nPlease tell us about your enthusiasm for today's race.",
             "nextBlock": 5,
+            "origClipLength": 208,
             "choices": [
                 {
                     "jpText": "本当に今日がレースだったのか……",
@@ -50,6 +70,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -2708764520299385695
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 2579020252308609117
+                }
+            ],
             "pathId": -3257600303797055708,
             "blockIdx": 4
         },
@@ -59,6 +89,17 @@
             "jpText": "おいおい、設定ブチ壊しマンかテメーは。\r\n『そうだ』って何回も言ってんじゃねーか。",
             "enText": "Oh, come on, you're the one who's going to destroy the setting.\nYou've already said \"yes\" many times.",
             "nextBlock": 6,
+            "origClipLength": 156,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -6841013849435882589
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5329407211146543864
+                }
+            ],
             "pathId": 3175589896121150550,
             "blockIdx": 5
         },
@@ -68,6 +109,13 @@
             "jpText": "今日はオマエの力が必要なんだから、しっかりしろよ。\r\nほら、トゥインクル・シリーズに出るにはトレーナーが必要だろ？",
             "enText": "I'm going to need your help today, so get a grip. See, you need\na trainer to get into the Twinkle Series, right?",
             "nextBlock": 7,
+            "origClipLength": 216,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 4241081933710571801
+                }
+            ],
             "pathId": 5969647705608312940,
             "blockIdx": 6
         },
@@ -77,11 +125,22 @@
             "jpText": "レースの申し込みまではトレーナー無しでなんとか騙せてきたけど、\r\nさすがに今日ばっかりは無理っぽくってさ。",
             "enText": "I've managed to fool myself without a trainer up until I signed\nup for the race, but I'm not sure I can do it today.",
             "nextBlock": 8,
+            "origClipLength": 215,
             "choices": [
                 {
                     "jpText": "つまりトレーナーなら誰でもよかった……？",
                     "enText": "I mean, any trainer could have been…?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -9049888055020295077
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -265752318900529715
                 }
             ],
             "pathId": 6872277449305724673,
@@ -93,6 +152,17 @@
             "jpText": "はあ！？　……なんでオマエをトレーナーに選んだか、\r\nまだ気づかないのか？",
             "enText": "Huh? You still haven't figured out why I\npicked you to be my trainer…?",
             "nextBlock": 9,
+            "origClipLength": 216,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -172821291463041678
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1430349044910954297
+                }
+            ],
             "pathId": 9092334274664579898,
             "blockIdx": 8
         },
@@ -102,6 +172,13 @@
             "jpText": "オマエさ、いつもトレーニングコースの隅から\r\nアタシたちウマ娘の走るとこを見続けてただろ？",
             "enText": "You've been watching us run from the corner\nof the training course, haven't you?",
             "nextBlock": 10,
+            "origClipLength": 208,
+            "animData": [
+                {
+                    "origLen": 220,
+                    "pathId": -6292449957653891818
+                }
+            ],
             "pathId": 7851917825232420696,
             "blockIdx": 9
         },
@@ -111,6 +188,17 @@
             "jpText": "雨の日も、風の日も、強い信念を持った瞳で、毎日毎日……。\r\nそれを見て、アタシは感じたんだ――",
             "enText": "Rain or shine, wind or shine, with eyes of strong conviction,\nday in and day out… When I saw that, I felt—",
             "nextBlock": 11,
+            "origClipLength": 300,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -7169811218259508012
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -7272693749087707762
+                }
+            ],
             "pathId": -1303772802842063509,
             "blockIdx": 10
         },
@@ -120,11 +208,22 @@
             "jpText": "ああ、こいつヒマなんだな……ってさ。",
             "enText": "Oh, she's not busy, is she?…",
             "nextBlock": 12,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "ひどい……",
                     "enText": "Terrible…",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 5700543158185449477
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 3971455877857107114
                 }
             ],
             "pathId": -1605882772880295861,
@@ -136,6 +235,17 @@
             "jpText": "まあまあ、リアクションも悪くねーしノリもまずまずだし、\r\nアタシはわりと気に入ってるぜ！",
             "enText": "Well, your reaction isn't bad, and you're\nin a good mood, so I like you a lot!",
             "nextBlock": 13,
+            "origClipLength": 156,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -1263151233973442750
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8226525886394528469
+                }
+            ],
             "pathId": -3751214524116561771,
             "blockIdx": 12
         },
@@ -145,6 +255,17 @@
             "jpText": "――っと、そろそろ時間だな。",
             "enText": "—Well, I guess it's time to go.",
             "nextBlock": 14,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -9119692160290963764
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 4579158444095125927
+                }
+            ],
             "pathId": -2607311046487108222,
             "blockIdx": 13
         },
@@ -154,6 +275,17 @@
             "jpText": "んじゃ、フラストレーションを豪快にぶちまけてくるわ！\r\nしっかり眼球に焼き付けとけよなーーっ！",
             "enText": "Then, I'm going to vent my frustration in a big\nway! Make sure you burn it into your eyeballs!",
             "nextBlock": 15,
+            "origClipLength": 205,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 4676225339416201467
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 7865436785583026610
+                }
+            ],
             "pathId": 716044545151773804,
             "blockIdx": 14
         },
@@ -163,6 +295,13 @@
             "jpText": "さんざん振り回されつつも、去っていくゴールドシップの姿を見て、\r\n彼女はどんな走りをするのだろうかと思いを馳せていた。",
             "enText": "As she watched Goldship leave, she wondered how she would run.",
             "nextBlock": 16,
+            "origClipLength": 121,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -532176020424455092
+                }
+            ],
             "pathId": 1233165109727465818,
             "blockIdx": 15
         },
@@ -172,6 +311,7 @@
             "jpText": "そして、ゴールドシップのデビュー戦のゲートが開いた！",
             "enText": "And the gate opened for Goldship's debut race!",
             "nextBlock": 17,
+            "origClipLength": 78,
             "pathId": -1390616407110639609,
             "blockIdx": 16
         },
@@ -181,6 +321,13 @@
             "jpText": "スタートはまずまず、位置取りも悪くないままレースは進み――",
             "enText": "She got off to a good start, and her position\nwas not bad, and the race went on.",
             "nextBlock": 18,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": 5654088757777346487
+                }
+            ],
             "pathId": -8079083841743310525,
             "blockIdx": 17
         },
@@ -190,6 +337,17 @@
             "jpText": "さあ、最終コーナーを回って最後の直線っ！\r\n先頭逃げるっ！　これは決まったか！？",
             "enText": "We're coming around the last corner and into the final stretch!\nShe's in the lead! Is this the one?",
             "nextBlock": 19,
+            "origClipLength": 186,
+            "animData": [
+                {
+                    "origLen": 215,
+                    "pathId": 1779969639532882218
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5668350877173024687
+                }
+            ],
             "pathId": -5745456856626691822,
             "blockIdx": 18
         },
@@ -199,6 +357,13 @@
             "jpText": "うおおおおおおおおおぉぉぉーーーーっ！！",
             "enText": "Whoa, whoa, whoa, whoa, whoa, whoa!",
             "nextBlock": 20,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 8799023856590322447
+                }
+            ],
             "pathId": 347711221589560388,
             "blockIdx": 19
         },
@@ -208,6 +373,17 @@
             "jpText": "ここでゴールドシップがものすごい速さで上がってきた！\r\n先頭に並ぶまで3バ身！　1バ身！",
             "enText": "Here comes Goldship, coming up very fast!\nThree lengths to the lead! One length!",
             "nextBlock": 21,
+            "origClipLength": 220,
+            "animData": [
+                {
+                    "origLen": 185,
+                    "pathId": -4615739681408801354
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5853295518868506035
+                }
+            ],
             "pathId": 1800560212480636344,
             "blockIdx": 20
         },
@@ -217,6 +393,7 @@
             "jpText": "抜いたところでゴールっ！！！！\r\nゴールドシップ、みごとデビュー戦を勝利で飾りましたー！",
             "enText": "The goal was scored when I passed her. ！！！！Goldship\nwon her debut race in style!",
             "nextBlock": 22,
+            "origClipLength": 238,
             "pathId": 3985224697277325718,
             "blockIdx": 21
         },
@@ -226,6 +403,7 @@
             "jpText": "なんという豪快なレースだろう……！\r\nその走りにすっかり魅了されてしまった。",
             "enText": "What a dynamic race…! I was completely\nmesmerized by that run.",
             "nextBlock": 23,
+            "origClipLength": 94,
             "pathId": 3900590297703880992,
             "blockIdx": 22
         },
@@ -235,6 +413,13 @@
             "jpText": "うっしゃあああぁぁーーーー！\r\nヴィクトリーっ！！",
             "enText": "Aaahhhh! Victory!",
             "nextBlock": 24,
+            "origClipLength": 104,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1167417198775287620
+                }
+            ],
             "pathId": 4037842330299121716,
             "blockIdx": 23
         },
@@ -244,11 +429,18 @@
             "jpText": "どうだ、アタシの実力！\r\nこれがゴルシちゃんの走りだってなもんよ～！！",
             "enText": "What do you think, my ability? This\nis how you run, Gorshin-chan!",
             "nextBlock": 25,
+            "origClipLength": 183,
             "choices": [
                 {
                     "jpText": "すごかった……！！",
                     "enText": "That was awesome…!!!",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -14201843722602905
                 }
             ],
             "pathId": -7049176161679859299,
@@ -260,6 +452,13 @@
             "jpText": "だろだろ？　誰より速く！　誰より目立って勝つ！\r\nそれがアタシの神髄だからな！",
             "enText": "I know, right? Faster than anyone! Stand\nout and win! That's what I'm all about!",
             "nextBlock": 26,
+            "origClipLength": 189,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 7175616538142997801
+                }
+            ],
             "pathId": 3705235959544658215,
             "blockIdx": 25
         },
@@ -269,6 +468,13 @@
             "jpText": "オマエの顔を見る限り、バッチリ楽しめたようだな！\r\n今までで1番いい顔してるぜ！",
             "enText": "From the look on your face, I'd say you had a great time! You've\ngot the best face I've ever seen!",
             "nextBlock": 27,
+            "origClipLength": 199,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 2430655880626770684
+                }
+            ],
             "pathId": -5080918378869752745,
             "blockIdx": 26
         },
@@ -278,6 +484,13 @@
             "jpText": "んじゃ、これからもトレーナー続行ってことでいいよな！",
             "enText": "So I guess I'll be your trainer from now on, huh?",
             "nextBlock": 28,
+            "origClipLength": 135,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 1070620702969441684
+                }
+            ],
             "pathId": 566153683060332967,
             "blockIdx": 27
         },
@@ -287,11 +500,18 @@
             "jpText": "なにか上手いこと騙された気もするが……\r\nゴールドシップの走りに興奮したことは嘘ではないので――",
             "enText": "I feel like I've been deceived in some way, but I'm not lying\nwhen I say that I was excited by Goldship's performance.",
             "nextBlock": 29,
+            "origClipLength": 107,
             "choices": [
                 {
                     "jpText": "よろしく！",
                     "enText": "Nice to meet you!",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 2676803071748884580
                 }
             ],
             "pathId": -8067583581546581752,
@@ -303,6 +523,13 @@
             "jpText": "ああ、ともに人々の平和を守ろうっ！！",
             "enText": "Oh, together we can keep the people's peace!",
             "nextBlock": 30,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 5599111118274453791
+                }
+            ],
             "pathId": 7263681089720628315,
             "blockIdx": 29
         },
@@ -312,6 +539,13 @@
             "jpText": "こうしてデビュー戦は無事に終わり、\r\n正式にゴールドシップのトレーナーになったのだが――",
             "enText": "His debut race went off without a hitch, and\nshe was now officially Goldship's trainer.",
             "nextBlock": 31,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -4700172201627565309
+                }
+            ],
             "pathId": 2642856386491108946,
             "blockIdx": 30
         },
@@ -321,6 +555,13 @@
             "jpText": "うおおおぉおおぉぉぉおぉぉーーーーーっ！！\r\nフラストレーションが足りねえぇぇぇーっ！！",
             "enText": "Oooohhhhhhhh! Not enough frustration!!!!",
             "nextBlock": 32,
+            "origClipLength": 134,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 7863159277261639778
+                }
+            ],
             "pathId": -2761597217845009637,
             "blockIdx": 31
         },
@@ -330,6 +571,13 @@
             "jpText": "次のレースまであと何日だ！？\r\n3日か！？　2日か！？",
             "enText": "How many days until the next race! Three days? Two days?",
             "nextBlock": 33,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 7585592792509270028
+                }
+            ],
             "pathId": -1638131394172808163,
             "blockIdx": 32
         },
@@ -339,6 +587,13 @@
             "jpText": "こ、このままじゃアタシ、バーニングスピリッツが足りなくて\r\nうまく走れねえかもしれねえ……！",
             "enText": "If I don't, I might not be able to run well because\nI don't have enough burning spirit…!",
             "nextBlock": 34,
+            "origClipLength": 191,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7196150345470309127
+                }
+            ],
             "pathId": -7041181938760534146,
             "blockIdx": 33
         },
@@ -348,6 +603,13 @@
             "jpText": "つーわけで宝探しだ、宝探し！！\r\nフラストレーションの素を探す旅に出るぞーーー！！",
             "enText": "So, treasure hunt, treasure hunt! Let's go on\na journey to find the source of frustration!",
             "nextBlock": 35,
+            "origClipLength": 219,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 4825754837761020822
+                }
+            ],
             "pathId": -3831479330492224316,
             "blockIdx": 34
         },
@@ -357,6 +619,17 @@
             "jpText": "次の行き先は宇宙だぁぁぁ！！\r\nうおりゃあああああああーーーーーーっ！！",
             "enText": "My next destination is space ah!\nooooooooooooooooooooooooooooooooooooooo!",
             "nextBlock": 36,
+            "origClipLength": 207,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 5069901687707408940
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1142803283158582310
+                }
+            ],
             "pathId": -1197020277586496114,
             "blockIdx": 35
         },
@@ -366,6 +639,7 @@
             "jpText": "宇宙へ飛び立とうとするゴールドシップを\r\n必死で止める羽目になった……。",
             "enText": "… is desperately trying to stop the\nGold Ship from taking off into space.",
             "nextBlock": 37,
+            "origClipLength": 91,
             "pathId": -4541855698412516986,
             "blockIdx": 36
         },
@@ -375,6 +649,7 @@
             "jpText": "誰よりも豪快なウマ娘ゴールドシップ。\r\n彼女のトレーナーでいるには、まだまだ多くの苦労がありそうだ。",
             "enText": "Goldship is the most dynamic horse girl of all. It seems that\nbeing her trainer is still a lot of work.",
             "nextBlock": 38,
+            "origClipLength": 110,
             "pathId": -1164769561151159825,
             "blockIdx": 37
         },
@@ -384,8 +659,10 @@
             "jpText": "　　～　ゴールドシップ地球編　完　～",
             "enText": "～ Goldship Earth Chapter Complete.",
             "nextBlock": -1,
+            "origClipLength": 68,
             "pathId": -5041651092647151950,
             "blockIdx": 38
         }
-    ]
+    ],
+    "modified": 1669933647
 }

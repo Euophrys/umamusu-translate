@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "Y6SSWKN2BDMXJ3XUC32YOCU5UYROJEFC",
     "type": "story",
     "storyId": "041011004",
@@ -11,6 +11,7 @@
             "jpText": "闘争心の欠如を理由に、スカウトを全て\n断っていると思われていたグラスワンダー。",
             "enText": "Glass Wonder was thought to have turned down all\nscouts because of her lack of fighting spirit.",
             "nextBlock": 2,
+            "origClipLength": 95,
             "pathId": 1716352256161495033,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "しかし、先日のトレーニング中に見かけた\r\n彼女は、とても穏やかなだけの少女には見えなかった。",
             "enText": "But she didn't look like just a very calm girl\nI'd seen during training the other day.",
             "nextBlock": 3,
+            "origClipLength": 103,
             "pathId": 4560521348684250673,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "――本当の彼女に、会いに行こう。",
             "enText": "—Let's go see her, the real her.",
             "nextBlock": 4,
+            "origClipLength": 115,
             "pathId": -632059507538254986,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "あら……こんばんは。\nこんな時間に、どうなさいましたか～？",
             "enText": "Good evening… What are you doing here at this hour?",
             "nextBlock": 5,
+            "origClipLength": 146,
             "choices": [
                 {
                     "jpText": "君こそ、こんな時間までどうした？",
@@ -50,6 +54,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -7726304697609948720
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7853228112299245325
+                }
+            ],
             "pathId": 6417924349644705846,
             "blockIdx": 4
         },
@@ -59,6 +73,13 @@
             "jpText": "えっ？",
             "enText": "What?",
             "nextBlock": 6,
+            "origClipLength": 20,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 4590810754961842961
+                }
+            ],
             "pathId": 7666230509778386630,
             "blockIdx": 5
         },
@@ -68,6 +89,17 @@
             "jpText": "私は……そう、夜空を見ていたら、\r\nついのんびりしてしまって～。ふふふ、いけませんね。",
             "enText": "I was looking at… the night sky,\nand I just got lazy. I can't help it.",
             "nextBlock": 7,
+            "origClipLength": 325,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -6032070529174581024
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 4777510636097875422
+                }
+            ],
             "pathId": 6529816980047180057,
             "blockIdx": 6
         },
@@ -77,6 +109,7 @@
             "jpText": "でも、もうそろそろ寮へ戻ります。\r\n……特にご用はありませんでしたか？　では、私はこれで――",
             "enText": "But I'm going back to the dormitory soon…\nIs there anything in particular you wanted\nto see me about? Well, I'll be—",
             "nextBlock": 8,
+            "origClipLength": 312,
             "choices": [
                 {
                     "jpText": "やっぱりスカウトを受ける気はないか？",
@@ -89,6 +122,16 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 282,
+                    "pathId": -6606898992192431418
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 5079312563809234070
+                }
+            ],
             "pathId": 5549021595101241053,
             "blockIdx": 7
         },
@@ -98,6 +141,17 @@
             "jpText": "あら、まあ……そのお話は、\n以前お断りしたかと思うのですが……。",
             "enText": "Oh, well… I think I refused\nto talk about that before…",
             "nextBlock": 9,
+            "origClipLength": 213,
+            "animData": [
+                {
+                    "origLen": 177,
+                    "pathId": 8934157996810197569
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4934365685628850501
+                }
+            ],
             "pathId": -5254515271483667227,
             "blockIdx": 8
         },
@@ -107,11 +161,22 @@
             "jpText": "残念ながら、今も気持ちは変わっていません。\nごめんなさい。",
             "enText": "Unfortunately, I haven't changed my mind. I'm sorry.",
             "nextBlock": 10,
+            "origClipLength": 171,
             "choices": [
                 {
                     "jpText": "それはどうして？",
                     "enText": "Why is that?",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 1527079383202210703
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5269413355124026594
                 }
             ],
             "pathId": 6440796480220031140,
@@ -123,6 +188,17 @@
             "jpText": "うぅ～ん……すみませんが、\n私個人の問題です……としか。",
             "enText": "Ummm… sorry, but it's just my personal problem…",
             "nextBlock": 11,
+            "origClipLength": 291,
+            "animData": [
+                {
+                    "origLen": 250,
+                    "pathId": -1646155970242998376
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 2898605954386122920
+                }
+            ],
             "pathId": 4998447818979596878,
             "blockIdx": 10
         },
@@ -132,6 +208,13 @@
             "jpText": "本人の口から教えてはもらえなかったけれど、\r\n推察をすることは可能だ。",
             "enText": "She didn't tell me, but I can guess.",
             "nextBlock": 12,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 293,
+                    "pathId": -2684623423748896208
+                }
+            ],
             "pathId": 4332560848249434480,
             "blockIdx": 11
         },
@@ -141,6 +224,7 @@
             "jpText": "先日トレーニングコースで見た、あの瞳。\r\n青く燃えていた瞳に隠された、グラスワンダーの本当の気持ちは――",
             "enText": "I saw those eyes the other day at the training\ncourse. What were Glass Wonder's true feelings\nhidden in those burning blue eyes?",
             "nextBlock": 13,
+            "origClipLength": 112,
             "choices": [
                 {
                     "jpText": "選抜レース、2着だったのが不満なのか？",
@@ -153,6 +237,12 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 293,
+                    "pathId": 2300220903234748819
+                }
+            ],
             "pathId": -3485981341834985103,
             "blockIdx": 12
         },
@@ -162,6 +252,13 @@
             "jpText": "……まあ。",
             "enText": "… Well.",
             "nextBlock": 14,
+            "origClipLength": 31,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -6216469585139599907
+                }
+            ],
             "pathId": -6523339039671712489,
             "blockIdx": 13
         },
@@ -171,6 +268,7 @@
             "jpText": "なぜ、そう思われたのでしょう？",
             "enText": "What made you think that?",
             "nextBlock": 15,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "君の目に闘志が燃えていたから",
@@ -183,6 +281,12 @@
                     "nextBlock": 15
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -4807667427351804039
+                }
+            ],
             "pathId": 3939654550029622998,
             "blockIdx": 14
         },
@@ -192,6 +296,13 @@
             "jpText": "目……？",
             "enText": "What is the purpose of…?",
             "nextBlock": 16,
+            "origClipLength": 23,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -6185200310495331120
+                }
+            ],
             "pathId": 115514891070694262,
             "blockIdx": 15
         },
@@ -201,6 +312,13 @@
             "jpText": "目……だけで、わかってしまうんですね。",
             "enText": "Just look at… and you'll get it.",
             "nextBlock": 17,
+            "origClipLength": 140,
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": 222470905545548853
+                }
+            ],
             "pathId": 7636339077156797108,
             "blockIdx": 16
         },
@@ -210,6 +328,17 @@
             "jpText": "………………。",
             "enText": "…",
             "nextBlock": 18,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 3588034098371978197
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3621413341370374695
+                }
+            ],
             "pathId": 5911296895722404145,
             "blockIdx": 17
         },
@@ -219,6 +348,21 @@
             "jpText": "……大和撫子たるもの、常に奥ゆかしく。\r\n表情は柔らかに、態度は穏やかに。いかなる時も動じず、粛々と。",
             "enText": "… As a Yamato Nadeshiko, you should always be modest. The\nexpression is soft and the attitude is gentle. No matter what\ntime of day it is, remain calm and solemn.",
             "nextBlock": 19,
+            "origClipLength": 393,
+            "animData": [
+                {
+                    "origLen": 404,
+                    "pathId": 7703065059754034482
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -580643860970199178
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -6758393866589582133
+                }
+            ],
             "pathId": 3684367666289261942,
             "blockIdx": 18
         },
@@ -228,6 +372,13 @@
             "jpText": "そう、心に決めてはいますが――",
             "enText": "Well, I've made up my mind, but—",
             "nextBlock": 20,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 845719431261101641
+                }
+            ],
             "pathId": 7401859916981613683,
             "blockIdx": 19
         },
@@ -237,6 +388,17 @@
             "jpText": "『我、未だ木鶏たり得ず』。\r\n不甲斐ない自分に対する怒りを、打ち消すことなどできません。",
             "enText": "I have yet to become a chicken. There is no way to get rid of\nthe anger I feel at my inadequacy.",
             "nextBlock": 21,
+            "origClipLength": 264,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 3515059720917647867
+                },
+                {
+                    "origLen": 162,
+                    "pathId": 6844220374698284224
+                }
+            ],
             "pathId": 6468220603613310597,
             "blockIdx": 20
         },
@@ -246,6 +408,17 @@
             "jpText": "私は自らの意志で、走ることを決めました。私が歩み極める道は、\r\nターフの上であると。頂点に至るまで、足を止めず走り続けると。",
             "enText": "I decided, of my own volition, to run. I decided\nthat my path to the top would be on the turf. I\nwould keep running until I reached the top.",
             "nextBlock": 22,
+            "origClipLength": 479,
+            "animData": [
+                {
+                    "origLen": 401,
+                    "pathId": -6549282028543700395
+                },
+                {
+                    "origLen": 166,
+                    "pathId": 5935709271845945129
+                }
+            ],
             "pathId": 4559974137489866255,
             "blockIdx": 21
         },
@@ -255,6 +428,17 @@
             "jpText": "それならば……いついかなる時も、\r\n勝利を譲ってはならなかった。……いつ、いかなる事が起きようと。",
             "enText": "If that is the case… you should not have conceded the\nvictory at any time… no matter when or what may happen.",
             "nextBlock": 23,
+            "origClipLength": 393,
+            "animData": [
+                {
+                    "origLen": 375,
+                    "pathId": -569242310913664770
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -7985891009580058506
+                }
+            ],
             "pathId": 2795330275262422759,
             "blockIdx": 22
         },
@@ -264,11 +448,22 @@
             "jpText": "なのに……！",
             "enText": "And yet…!",
             "nextBlock": 24,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "負けてしまった自分がどうしても許せない？",
                     "enText": "Can't forgive yourself for losing?",
                     "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 395,
+                    "pathId": 3013152919850437969
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -4782922648344009957
                 }
             ],
             "pathId": -4931542275726288508,
@@ -280,6 +475,17 @@
             "jpText": "……ええ。",
             "enText": "… yeah.",
             "nextBlock": 25,
+            "origClipLength": 31,
+            "animData": [
+                {
+                    "origLen": 395,
+                    "pathId": 5747513291412220042
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -1878098421952799507
+                }
+            ],
             "pathId": 8751325817918927728,
             "blockIdx": 24
         },
@@ -289,6 +495,17 @@
             "jpText": "妥協した瞬間に、頂点への道は潰えるもの。このように\r\n中途半端な状態で、スカウトを受けるわけには参りません。",
             "enText": "The moment you compromise, your path to the top will be\ndestroyed. Thus, you can't accept a scout half-heartedly.",
             "nextBlock": 26,
+            "origClipLength": 337,
+            "animData": [
+                {
+                    "origLen": 299,
+                    "pathId": -3360775837659185248
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3177321234866610236
+                }
+            ],
             "pathId": -8335748538177665429,
             "blockIdx": 25
         },
@@ -298,6 +515,13 @@
             "jpText": "……つまりは、私のわがままです。\n個人的なこだわりです。",
             "enText": "… In other words, it's selfish\nof me. It's my personal obsession.",
             "nextBlock": 27,
+            "origClipLength": 263,
+            "animData": [
+                {
+                    "origLen": 198,
+                    "pathId": 5080132989059304687
+                }
+            ],
             "pathId": -2882092966138693458,
             "blockIdx": 26
         },
@@ -307,6 +531,7 @@
             "jpText": "申し訳ございませんが、お引取りを――",
             "enText": "I'm sorry, sir, but you're gonna have to—",
             "nextBlock": 28,
+            "origClipLength": 119,
             "choices": [
                 {
                     "jpText": "なら、1着を取った後また声をかけに行くよ",
@@ -319,6 +544,12 @@
                     "nextBlock": 28
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 338,
+                    "pathId": 8598750086168969213
+                }
+            ],
             "pathId": -5620129349278480975,
             "blockIdx": 27
         },
@@ -328,6 +559,13 @@
             "jpText": "……えっ？",
             "enText": "… What?",
             "nextBlock": 29,
+            "origClipLength": 20,
+            "animData": [
+                {
+                    "origLen": 338,
+                    "pathId": 5188697969326604030
+                }
+            ],
             "pathId": -4755723587952797846,
             "blockIdx": 28
         },
@@ -337,6 +575,13 @@
             "jpText": "また、とは……あの、もしかして、\r\nまたスカウトにいらしてくださるおつもりですか？",
             "enText": "What do you mean, \"again\"?… Um, are\nyou planning on coming back to scout?",
             "nextBlock": 30,
+            "origClipLength": 300,
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": -4448763583103959138
+                }
+            ],
             "pathId": 7267446113241112924,
             "blockIdx": 29
         },
@@ -346,11 +591,18 @@
             "jpText": "何ヶ月も先の選抜レースに、\r\n私が出走するのを待って……？",
             "enText": "Waiting for me to run in the selection\nrace, which is months away…?",
             "nextBlock": 31,
+            "origClipLength": 191,
             "choices": [
                 {
                     "jpText": "もちろん！",
                     "enText": "Of course!",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": -7122731422703512544
                 }
             ],
             "pathId": 6190783761218442507,
@@ -362,6 +614,13 @@
             "jpText": "えっと……その。",
             "enText": "Let's see…",
             "nextBlock": 32,
+            "origClipLength": 145,
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": -286569903451090556
+                }
+            ],
             "pathId": 1563784809855454242,
             "blockIdx": 31
         },
@@ -371,6 +630,17 @@
             "jpText": "なんと申しますか……私、それほど\n扱いやすいウマ娘では、ありませんよ？",
             "enText": "I'm not sure what to say… I'm not the\neasiest horse girl to deal with, you know?",
             "nextBlock": 33,
+            "origClipLength": 264,
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -7053745005679953022
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3702892129981678714
+                }
+            ],
             "pathId": -3047560656938481081,
             "blockIdx": 32
         },
@@ -380,6 +650,17 @@
             "jpText": "譲れない部分は、譲りません。\n1度決めたことは、変えません。",
             "enText": "We will not compromise on the non-negotiable parts. Once we\nhave made a decision, we will not change it.",
             "nextBlock": 34,
+            "origClipLength": 202,
+            "animData": [
+                {
+                    "origLen": 213,
+                    "pathId": 4920301445332576853
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -4868997255564331792
+                }
+            ],
             "pathId": -8005867041995796730,
             "blockIdx": 33
         },
@@ -389,6 +670,13 @@
             "jpText": "結果が不満だったから、というだけの理由で\r\nスカウトを全部断って、再び選抜レースに出ようとさえします。",
             "enText": "She even turned down all the scouts because she was unhappy with\nthe results, and tried to enter the selection race again.",
             "nextBlock": 35,
+            "origClipLength": 269,
+            "animData": [
+                {
+                    "origLen": 281,
+                    "pathId": 240947902140564187
+                }
+            ],
             "pathId": 6147286522306982388,
             "blockIdx": 34
         },
@@ -398,6 +686,7 @@
             "jpText": "……それをわかって、仰っているんですか？\n『私を待つ』、と？",
             "enText": "… Do you know that, and are you saying it? \"Wait for me\"?",
             "nextBlock": 36,
+            "origClipLength": 200,
             "choices": [
                 {
                     "jpText": "妥協せず、頂点を目指す君を支えたいんだ",
@@ -410,6 +699,12 @@
                     "nextBlock": 36
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 171,
+                    "pathId": -2426749220243795152
+                }
+            ],
             "pathId": 4448235432531238909,
             "blockIdx": 35
         },
@@ -419,6 +714,17 @@
             "jpText": "トレーナーさん……。",
             "enText": "Trainer…",
             "nextBlock": 37,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 6415470066146331767
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 1508182471428365615
+                }
+            ],
             "pathId": -5519551944952324126,
             "blockIdx": 36
         },
@@ -428,6 +734,7 @@
             "jpText": "……ふふ。いいんですか？　私が選抜レースで1着を取らない限り、\r\n担当がつかないことになってしまいますよ？",
             "enText": "… Hmm. Are you sure? As long as I don't get first place in\nthe selection race, I won't be in charge, okay?",
             "nextBlock": 38,
+            "origClipLength": 299,
             "choices": [
                 {
                     "jpText": "君は次で必ず1着を取るだろ？",
@@ -440,6 +747,16 @@
                     "nextBlock": 38
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 311,
+                    "pathId": -542798152525971292
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3346241652148468606
+                }
+            ],
             "pathId": -2787152479062839718,
             "blockIdx": 37
         },
@@ -449,6 +766,21 @@
             "jpText": "あらあら、まあ～。\nそんなふうに言われてしまうと……ふふふっ。",
             "enText": "Oh dear, well~. When you say it like that… hmmm.",
             "nextBlock": 39,
+            "origClipLength": 269,
+            "animData": [
+                {
+                    "origLen": 219,
+                    "pathId": 4341395523904916019
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 2977358859419194059
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 2773318141294579833
+                }
+            ],
             "pathId": -5210835574874495306,
             "blockIdx": 38
         },
@@ -458,6 +790,13 @@
             "jpText": "……トレーナーさんは、\n私を乗せるのがお上手ですね？",
             "enText": "… Your trainer is very good at\ngetting me on board, isn't she?",
             "nextBlock": 40,
+            "origClipLength": 141,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 7156953220241630161
+                }
+            ],
             "pathId": 8156998792791674797,
             "blockIdx": 39
         },
@@ -467,6 +806,17 @@
             "jpText": "そして、数ヶ月ののち――",
             "enText": "And after a few months…",
             "nextBlock": 41,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 7256606787754235490
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 5570065173031514503
+                }
+            ],
             "pathId": 8214445601488952779,
             "blockIdx": 40
         },
@@ -476,6 +826,13 @@
             "jpText": "――上がってきました、グラスワンダー！\r\n先頭を悠々と抜き去り、1番手へと躍り出ます！",
             "enText": "—She's coming up, Glass Wonder! She's overtaking the leaders\nwith ease and moving into first place!",
             "nextBlock": 42,
+            "origClipLength": 181,
+            "animData": [
+                {
+                    "origLen": 224,
+                    "pathId": -7256069731215634816
+                }
+            ],
             "pathId": -5158678375987031613,
             "blockIdx": 41
         },
@@ -485,6 +842,13 @@
             "jpText": "離した！　離した！　驚異的な末脚！\r\n後続を突き離し――グラスワンダー、1着でゴーーーールインッ！！",
             "enText": "I'm off! She's getting away! Amazing final\nleg! Glass Wonder is in first place!",
             "nextBlock": 43,
+            "origClipLength": 286,
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": -7062618208286614014
+                }
+            ],
             "pathId": -5535143480695735557,
             "blockIdx": 42
         },
@@ -494,6 +858,7 @@
             "jpText": "グラスワンダーは見事、意志を貫き通した。",
             "enText": "Glass Wonder did a great job of carrying out her will.",
             "nextBlock": 44,
+            "origClipLength": 71,
             "pathId": 8143224063882855708,
             "blockIdx": 43
         },
@@ -503,6 +868,13 @@
             "jpText": "そして――",
             "enText": "And—",
             "nextBlock": 45,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 5281711391199983328
+                }
+            ],
             "pathId": -4173510270780454583,
             "blockIdx": 44
         },
@@ -512,6 +884,21 @@
             "jpText": "1着でしたね、グラスぅぅぅーッ！",
             "enText": "You came in first, Glass!",
             "nextBlock": 46,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -1689763403494683190
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 7180408850203885553
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -5375549004264090072
+                }
+            ],
             "pathId": 6654638082341225134,
             "blockIdx": 45
         },
@@ -521,6 +908,21 @@
             "jpText": "わあ、びっくりしました～。",
             "enText": "Wow, I was surprised!",
             "nextBlock": 47,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 4897130278868614648
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 5333410158052080317
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3222229568505944726
+                }
+            ],
             "pathId": 8559103056714853510,
             "blockIdx": 46
         },
@@ -530,6 +932,25 @@
             "jpText": "大嘘っ！　でもめげない！　エルめげない！",
             "enText": "It's a lie! But I will not be discouraged! Elle,\ndon't be discouraged!",
             "nextBlock": 48,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 4223302526926869704
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -7971367731733794362
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 1594535942590787838
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 5032480777912941648
+                }
+            ],
             "pathId": 4609606630951564235,
             "blockIdx": 47
         },
@@ -539,6 +960,25 @@
             "jpText": "ともあれ、これで心置きなくデビューですね？　これでレースが\r\n面白くなりますっ！　焦熱！　白熱！　燃えてきましたデェェス！！",
             "enText": "Anyway, now you can make your debut without any\nworries, right? It's going to make the race more\ninteresting! Hot! White hot! I'm on fire!",
             "nextBlock": 49,
+            "origClipLength": 334,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -3297270598420971665
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 880215652688841641
+                },
+                {
+                    "origLen": 346,
+                    "pathId": 6966405554465740776
+                },
+                {
+                    "origLen": 276,
+                    "pathId": 7738113348078016804
+                }
+            ],
             "pathId": 6418088097592284497,
             "blockIdx": 48
         },
@@ -548,6 +988,21 @@
             "jpText": "グラスちゃん、おめでとう……！\n同じレースで競える日、楽しみにしてるね！",
             "enText": "Congratulations, Glass, on…! I look forward\nto the day we can compete in the same race!",
             "nextBlock": 50,
+            "origClipLength": 170,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 8762141077104646311
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -3453390984941237154
+                },
+                {
+                    "origLen": 205,
+                    "pathId": -2762864304133087239
+                }
+            ],
             "pathId": 6015457019153292787,
             "blockIdx": 49
         },
@@ -557,6 +1012,21 @@
             "jpText": "はい、こちらこそ～。\nふふふっ。",
             "enText": "Yes, it's my pleasure~. Hmmm…",
             "nextBlock": 51,
+            "origClipLength": 109,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 1973251176915210953
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 872013496695489758
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 6033779669370762980
+                }
+            ],
             "pathId": 9158283514319127689,
             "blockIdx": 50
         },
@@ -566,6 +1036,29 @@
             "jpText": "微笑みだけをライバルたちに返した\r\nグラスワンダーは、それから1人でこちらへ歩いてきてくれた。",
             "enText": "Glass Wonder returned only a smile to her rivals\nand then walked over to us by herself.",
             "nextBlock": 52,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 5871752718909772146
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -5297871377372143924
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -3820647021876278505
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -5433388378514329307
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -8208727440102552781
+                }
+            ],
             "pathId": 1486780002023105787,
             "blockIdx": 51
         },
@@ -575,6 +1068,7 @@
             "jpText": "来てくださってありがとうございます、\nトレーナーさん。",
             "enText": "Thank you for coming, Trainer.",
             "nextBlock": 53,
+            "origClipLength": 125,
             "choices": [
                 {
                     "jpText": "改めて、声をかけに来たよ",
@@ -587,6 +1081,16 @@
                     "nextBlock": 53
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 3190115241764791698
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 9069956075516173363
+                }
+            ],
             "pathId": -7993718222682780043,
             "blockIdx": 52
         },
@@ -596,6 +1100,13 @@
             "jpText": "ふふ……はい。\nお待ちしておりました。",
             "enText": "Huh… Yes. We've been waiting for you.",
             "nextBlock": 54,
+            "origClipLength": 164,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 6000288131785232049
+                }
+            ],
             "pathId": -9155517769483860767,
             "blockIdx": 53
         },
@@ -605,6 +1116,13 @@
             "jpText": "改めまして……グラスワンダーと申します。\nご指導ご鞭撻、よろしくお願いいたします。",
             "enText": "Once again, my name is… Glass Wonder. I would appreciate\nyour guidance and encouragement.",
             "nextBlock": 55,
+            "origClipLength": 297,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 5288620451522397573
+                }
+            ],
             "pathId": -4700029816985190334,
             "blockIdx": 54
         },
@@ -614,6 +1132,17 @@
             "jpText": "この道の果て、頂点まで、\nどうかお付き合いくださいませ。",
             "enText": "Please follow me to the end of this road, to the top.",
             "nextBlock": 56,
+            "origClipLength": 185,
+            "animData": [
+                {
+                    "origLen": 197,
+                    "pathId": 7049417726944218312
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3421084140715889430
+                }
+            ],
             "pathId": 4132914531957030473,
             "blockIdx": 55
         },
@@ -623,8 +1152,16 @@
             "jpText": "こうして、不撓不屈のウマ娘、\nグラスワンダーとの日々が始まりを告げた！",
             "enText": "And so began my days with the indefatigable\nhorse girl, Glass Wonder!",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 867066149748780120
+                }
+            ],
             "pathId": 7297604159674053542,
             "blockIdx": 56
         }
-    ]
+    ],
+    "modified": 1669933662
 }

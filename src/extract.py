@@ -188,6 +188,13 @@ def extractText(assetType, obj):
                     'jpText': c['Text'],
                     'enText': ""
                 })
+
+        if tree['DifferenceFlag'] > 0:
+            if tree['DifferenceFlag'] == 2:
+                o['trainerGender'] = "m"
+            else:
+                o['trainerGender'] = 'f'
+                
     return o if o['jpText'] else None
 
 

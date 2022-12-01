@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "VWTYWO3AOB43Y5ZO26K46YPH2Z7FEIAR",
     "type": "story",
     "storyId": "041026003",
@@ -11,6 +11,7 @@
             "jpText": "ミホノブルボンとの、秘密の特訓が始まって数週間が経った。",
             "enText": "It's been a few weeks since I started my \nsecret training with Mihono Bourbon.",
             "nextBlock": 2,
+            "origClipLength": 81,
             "pathId": -8696819820456880974,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "はっ、はっ、はっ、はっ！",
             "enText": "Ha, ha, ha, ha!",
             "nextBlock": 3,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "踏ん張れ！あと少しだ！",
@@ -41,6 +43,7 @@
             "jpText": "……っ！",
             "enText": "…!",
             "nextBlock": 4,
+            "origClipLength": 46,
             "pathId": 1167931170662864705,
             "blockIdx": 3
         },
@@ -50,6 +53,7 @@
             "jpText": "は……は……は……！\r\n自己ベスト、更新……！",
             "enText": "is… is… is… is…! \nPersonal best, updated…!",
             "nextBlock": 5,
+            "origClipLength": 187,
             "choices": [
                 {
                     "jpText": "よく頑張った！",
@@ -62,6 +66,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2169800901024725473
+                },
+                {
+                    "origLen": 243,
+                    "pathId": 5340276788110962452
+                }
+            ],
             "pathId": 5181488405692155025,
             "blockIdx": 4
         },
@@ -71,11 +85,22 @@
             "jpText": "ご声援、感謝します。体力回復次第……\r\n耐乳酸能力上昇フローへ移行……坂路へ移動します。",
             "enText": "Thank you for your support. As soon as you recover \nyour strength, you will be moved to … Lactate \nResistance Increasing Flow … Slope.",
             "nextBlock": 6,
+            "origClipLength": 282,
             "choices": [
                 {
                     "jpText": "今日から、1本追加して走ろう",
                     "enText": "Starting today, we'll add one \nmore bottle to the run.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 267,
+                    "pathId": -6145169788119507827
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -3892286808549810382
                 }
             ],
             "pathId": 6858412260935068927,
@@ -87,6 +112,17 @@
             "jpText": "アドバイスを承認、インプット完了。\r\n予定変更、坂路ダッシュ1本追加。",
             "enText": "Accepted advice, input complete. Changed \nschedule, added one more dash on the hill.",
             "nextBlock": 7,
+            "origClipLength": 208,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -3653376351861964452
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6899824554113517140
+                }
+            ],
             "pathId": 6355777506122235645,
             "blockIdx": 6
         },
@@ -96,6 +132,17 @@
             "jpText": "――体力回復。坂路ダッシュへ移行します。",
             "enText": "—Stamina recovery. Transition to slope dash.",
             "nextBlock": 8,
+            "origClipLength": 140,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 5973856714614748407
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7785383953173967168
+                }
+            ],
             "pathId": 6540224109540483577,
             "blockIdx": 7
         },
@@ -105,11 +152,18 @@
             "jpText": "ミホノブルボンは、ハードなトレーニングを、\r\n1度も弱音を吐かず淡々とこなしていく。",
             "enText": "Mihono Bourbon trained hard \nand never once wimped out.",
             "nextBlock": 9,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "（短距離にすべきだと思っていた。けど）",
                     "enText": "(I knew it should be a short \ndistance. But…)",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 1249574937987116862
                 }
             ],
             "pathId": 7549919951955848005,
@@ -121,11 +175,18 @@
             "jpText": "その懸命な様子に、いつしか心を動かされていた。",
             "enText": "I was always moved by her efforts.",
             "nextBlock": 10,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "（頑張れ、ミホノブルボン……！）",
                     "enText": "（Good luck, Michonobourbon…!)",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 241359779206179290
                 }
             ],
             "pathId": -119558769672554522,
@@ -137,6 +198,13 @@
             "jpText": "はっ、はっ、はっ、はっ、はっ――！！",
             "enText": "Ha, ha, ha, ha, ha—!",
             "nextBlock": 11,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 6925028235864754446
+                }
+            ],
             "pathId": 908316684339015491,
             "blockIdx": 10
         },
@@ -146,6 +214,17 @@
             "jpText": "時間はかかるだろうが、中・長距離レースに出られるくらいの\r\n力はきっとつく。そう思っていた矢先――",
             "enText": "It will take time, but I'm sure I'll be strong \nenough to compete in medium and long distance \nraces. Just when I was thinking that…",
             "nextBlock": 12,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": 8330879534413329320
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6722358018039610645
+                }
+            ],
             "pathId": -45778115136332010,
             "blockIdx": 11
         },
@@ -155,6 +234,21 @@
             "jpText": "君が、ミホノブルボンに\r\n勝手に長距離の練習をつけていたトレーナーか。",
             "enText": "You're the trainer who's been training Mihono \nBourbon for the long haul.",
             "nextBlock": 13,
+            "origClipLength": 163,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -1572114337427266228
+                },
+                {
+                    "origLen": 265,
+                    "pathId": -1747172798122705906
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6610130430109483364
+                }
+            ],
             "pathId": -6384641144185521207,
             "blockIdx": 12
         },
@@ -164,6 +258,13 @@
             "jpText": "トレーニング中のミホノブルボンの様子をきっかけに、\r\n事態を把握した担当トレーナーから呼び出された。",
             "enText": "I was called by the trainer in charge \nof Mihonobourbon's training when \nshe saw what was going on.",
             "nextBlock": 14,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -5669605398245245695
+                }
+            ],
             "pathId": -7080893092440987182,
             "blockIdx": 13
         },
@@ -173,6 +274,17 @@
             "jpText": "マスター、夜間の自主トレーニングは自己判断で開始したもの。\r\nつまりこの方は、関係ありません。",
             "enText": "Master, the voluntary training at night was \ninitiated at your own discretion. In other \nwords, this person has nothing to do with it.",
             "nextBlock": 15,
+            "origClipLength": 230,
+            "animData": [
+                {
+                    "origLen": 217,
+                    "pathId": -42644080563483678
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7357623837554320066
+                }
+            ],
             "pathId": 6075100538178037756,
             "blockIdx": 14
         },
@@ -182,11 +294,22 @@
             "jpText": "毎夜居合わせていて、関係がないわけあるか。\r\nおおかた、彼女に同情してトレーニングを見ていたんだろう。",
             "enText": "How could there not be a relationship when she \nwas there every night? Most likely, she was \nwatching her training out of pity for her.",
             "nextBlock": 16,
+            "origClipLength": 280,
             "choices": [
                 {
                     "jpText": "同情のつもりでは……",
                     "enText": "Out of pity…",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 334,
+                    "pathId": 3475007421579572650
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 4591741040321774231
                 }
             ],
             "pathId": -8153304806850715286,
@@ -198,6 +321,17 @@
             "jpText": "三冠の話は私も何度も話を聞いた。だが、リスクがあることは\r\nさせられない。トレーナーの君なら理解できるはずだ。",
             "enText": "I've heard about the Triple Crown many times myself. \nBut I can't let you do anything risky. You, as a trainer, \nshould be able to understand that.",
             "nextBlock": 17,
+            "origClipLength": 332,
+            "animData": [
+                {
+                    "origLen": 334,
+                    "pathId": -5830941545807227261
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7842578809407646718
+                }
+            ],
             "pathId": -8960060689164299312,
             "blockIdx": 16
         },
@@ -207,6 +341,17 @@
             "jpText": "しかし、私の学園の入学目的は三冠達成のみ。\r\n目標変更は受け付けることが出来ません。",
             "enText": "However, the only purpose for entering my \nschool is to achieve the Triple Crown. I \ncannot accept any change of goal.",
             "nextBlock": 18,
+            "origClipLength": 240,
+            "animData": [
+                {
+                    "origLen": 161,
+                    "pathId": 2151717470504432623
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5224646260415936074
+                }
+            ],
             "pathId": 6203983062170701570,
             "blockIdx": 17
         },
@@ -216,6 +361,13 @@
             "jpText": "ミホノブルボンの訴えに、\r\n彼女の担当トレーナーは深いため息をついた。",
             "enText": "Her trainer sighed deeply at \nMihono Bourbon's complaint.",
             "nextBlock": 19,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 161,
+                    "pathId": -188083888781240744
+                }
+            ],
             "pathId": -2873239583245709606,
             "blockIdx": 18
         },
@@ -225,11 +377,18 @@
             "jpText": "……そこまで言うのなら、もう1度だけ適性を見よう。\r\n『菊花賞』の3000m、今すぐ走ってみなさい。",
             "enText": "… If you're so sure, let's take one more \nlook at your aptitude. I'm not sure if it's a \ngood idea, but it's a good idea.",
             "nextBlock": 20,
+            "origClipLength": 359,
             "choices": [
                 {
                     "jpText": "（そんな、無茶な）",
                     "enText": "（No, no, no, no.)",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 416,
+                    "pathId": 8361992112394156621
                 }
             ],
             "pathId": 5322916993514856594,
@@ -241,11 +400,18 @@
             "jpText": "了解しました。",
             "enText": "Copy that.",
             "nextBlock": 21,
+            "origClipLength": 44,
             "choices": [
                 {
                     "jpText": "！？",
                     "enText": "What?",
                     "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 416,
+                    "pathId": 7249019152599838594
                 }
             ],
             "pathId": -4289869108403333502,
@@ -257,6 +423,13 @@
             "jpText": "あなたを、納得させてみせます。",
             "enText": "I'll try to convince you.",
             "nextBlock": 22,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 1520208027767669074
+                }
+            ],
             "pathId": -7931610868079041030,
             "blockIdx": 21
         },
@@ -266,11 +439,22 @@
             "jpText": "急遽コースへ移動し、3000mを走ることになった。\r\nしかし正直、今の彼女のスタミナでは走り切れるかさえ怪しい。",
             "enText": "She was hurriedly moved to the course and decided to run 3000m. \nBut to be honest, with her current stamina, it was doubtful that \nshe could even finish the race.",
             "nextBlock": 23,
+            "origClipLength": 118,
             "choices": [
                 {
                     "jpText": "（大丈夫かな……）",
                     "enText": "(Is everything okay?…)",
                     "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -8095951853496999117
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -9066598931563840325
                 }
             ],
             "pathId": 6138361366919691168,
@@ -282,6 +466,13 @@
             "jpText": "はぁっ、はぁっ、はぁっ……！",
             "enText": "Huh, huh, huh…!",
             "nextBlock": 24,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 191,
+                    "pathId": 1636448030434869441
+                }
+            ],
             "pathId": -6471139341947680893,
             "blockIdx": 23
         },
@@ -291,6 +482,17 @@
             "jpText": "（1600m通過、ラップタイム正常。残り1400m――\r\n呼吸の乱れを確認、ペース低下、リズムの保持が困難――）",
             "enText": "(Passing 1600m, lap time normal. (Passing 1600m, lap time \nnormal. 1400m to go— respiratory disturbance observed, pace \nslowing, difficulty maintaining rhythm—)",
             "nextBlock": 25,
+            "origClipLength": 313,
+            "animData": [
+                {
+                    "origLen": 352,
+                    "pathId": -6069836510736482302
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8451294797278612660
+                }
+            ],
             "pathId": 4224285147004652230,
             "blockIdx": 24
         },
@@ -300,6 +502,17 @@
             "jpText": "……くっ……！",
             "enText": "Stick to…!",
             "nextBlock": 26,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -3291384079949248342
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 3323271552346155965
+                }
+            ],
             "pathId": 8616981951468004904,
             "blockIdx": 25
         },
@@ -309,6 +522,17 @@
             "jpText": "不安は的中した。2000mを越えたあたりからペースは落ち込み、\r\n歩くのがやっとの状態でゴールインしたのだった。",
             "enText": "My fears were right on target, as my pace \nslowed down after 2000m, and I crossed the \nfinish line barely able to walk.",
             "nextBlock": 27,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 193,
+                    "pathId": -4195406649265209651
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 5530574276714834688
+                }
+            ],
             "pathId": 2713372896523014772,
             "blockIdx": 26
         },
@@ -318,6 +542,17 @@
             "jpText": "はぁ……っ、はぁ……っ、はぁ……っ！",
             "enText": "Haha… haha… haha…!",
             "nextBlock": 28,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 193,
+                    "pathId": -6414263600528638542
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -1102264705647923165
+                }
+            ],
             "pathId": -8055845433899759672,
             "blockIdx": 27
         },
@@ -327,11 +562,22 @@
             "jpText": "もう諦めてくれ。出来ないことをしようとするな。\r\n君に、長い距離は向いていないんだ。",
             "enText": "Just give up. Don't try to do what you can't \ndo. You're not cut out for the long haul.",
             "nextBlock": 29,
+            "origClipLength": 240,
             "choices": [
                 {
                     "jpText": "（たしかに、向いてはいない。でも――）",
                     "enText": "（You're right, it's not for me. But…)",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 267,
+                    "pathId": -780676095571953537
+                },
+                {
+                    "origLen": 259,
+                    "pathId": -5049324954290267635
                 }
             ],
             "pathId": 5933340013529666679,
@@ -343,11 +589,22 @@
             "jpText": "特訓に付き合っていたからこそ知っている。彼女が\r\nクラシック三冠にかける想いは、生半可なものではない。",
             "enText": "I know this because I've been following her \ntraining. Her desire to win the Classic \nTriple Crown is not half-baked.",
             "nextBlock": 30,
+            "origClipLength": 111,
             "choices": [
                 {
                     "jpText": "彼女の夢を尊重しませんか",
                     "enText": "Why don't we honor her dream?",
                     "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 1566621836511338059
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7881415617437756132
                 }
             ],
             "pathId": 7340864714076835537,
@@ -359,11 +616,22 @@
             "jpText": "不向きなものに挑戦して、苦しむのは彼女自身だ。\r\nなぜそれがわからない。",
             "enText": "She is the one who suffers by trying \nsomething unsuitable. Why can't she \nunderstand that?",
             "nextBlock": 31,
+            "origClipLength": 183,
             "choices": [
                 {
                     "jpText": "でも――",
                     "enText": "But—",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 205,
+                    "pathId": -3056947593084478619
+                },
+                {
+                    "origLen": 204,
+                    "pathId": -2738689426122767790
                 }
             ],
             "pathId": 8630338058811726518,
@@ -375,6 +643,17 @@
             "jpText": "いや、君と言い合いをしたってらちが明かないな。\r\nブルボン、君の気持ちはどうなんだ。走ってみて、身に沁みたろう？",
             "enText": "No, I don't see the point in arguing with you. How \ndo you feel, Bourbon? You've been running for a while, \nand it's really starting to sink in.",
             "nextBlock": 32,
+            "origClipLength": 343,
+            "animData": [
+                {
+                    "origLen": 239,
+                    "pathId": 8417525970733348449
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7898986281275474410
+                }
+            ],
             "pathId": 7048423149596272517,
             "blockIdx": 31
         },
@@ -384,6 +663,17 @@
             "jpText": "『私の気持ち』……。",
             "enText": "My Feelings,\"…",
             "nextBlock": 33,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -2719097920590871204
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -3268381267314364010
+                }
+            ],
             "pathId": 4006809250807159937,
             "blockIdx": 32
         },
@@ -393,6 +683,17 @@
             "jpText": "ミホノブルボンは戸惑いながらも、口を開いた。",
             "enText": "Mihono Bourbon opened her mouth in confusion.",
             "nextBlock": 34,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -3116911432239027655
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 4500583418135947676
+                }
+            ],
             "pathId": -6622269234145636687,
             "blockIdx": 33
         },
@@ -402,6 +703,17 @@
             "jpText": "……三冠達成だけは、変更不可能です。\r\n……申し訳ありません。",
             "enText": "Only the… Triple Crown achievement is \nunchangeable. Sorry…",
             "nextBlock": 35,
+            "origClipLength": 199,
+            "animData": [
+                {
+                    "origLen": 194,
+                    "pathId": -7227485479017021080
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 644764626778317836
+                }
+            ],
             "pathId": 5832342864045141522,
             "blockIdx": 34
         },
@@ -411,6 +723,17 @@
             "jpText": "……お願いします、マスター。",
             "enText": "… please, Master.",
             "nextBlock": 36,
+            "origClipLength": 79,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -6158684707163696899
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -5202537275063654426
+                }
+            ],
             "pathId": 9052687645936511661,
             "blockIdx": 35
         },
@@ -420,6 +743,17 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 37,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 4448473670865845168
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -5357969023434841859
+                }
+            ],
             "pathId": 2192919277249073869,
             "blockIdx": 36
         },
@@ -429,6 +763,17 @@
             "jpText": "……そこまで決意が固いのなら、好きにしなさい。\r\nその代わり、私との契約は今日限りで終了だ。",
             "enText": "… If you're that determined, \ndo what you want. In return, your \ncontract with me ends today.",
             "nextBlock": 38,
+            "origClipLength": 307,
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 3596272446989704765
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -7338397011074163654
+                }
+            ],
             "pathId": 3371366853541936486,
             "blockIdx": 37
         },
@@ -438,6 +783,17 @@
             "jpText": "…………。\r\n……承知しました。",
             "enText": "… Yes, sir.",
             "nextBlock": 39,
+            "origClipLength": 145,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 6490450912416385352
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 2897273478214562447
+                }
+            ],
             "pathId": 3964345557408002668,
             "blockIdx": 38
         },
@@ -447,6 +803,13 @@
             "jpText": "……君がそんなに愚かだったとは。失望したよ、ブルボン。",
             "enText": "… I didn't know you were so stupid. I'm \ndisappointed in you, Bourbon.",
             "nextBlock": 40,
+            "origClipLength": 193,
+            "animData": [
+                {
+                    "origLen": 214,
+                    "pathId": -7946783497704100824
+                }
+            ],
             "pathId": 6739150508649875609,
             "blockIdx": 39
         },
@@ -456,6 +819,17 @@
             "jpText": "そう呟くと、ミホノブルボンのトレーナーは\r\n静かにその場を後にした。",
             "enText": "After muttering this, Mihono Bourbon's \ntrainer quietly left the scene.",
             "nextBlock": 41,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 1040016777381748391
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -4981658492165278132
+                }
+            ],
             "pathId": 3888446195881135571,
             "blockIdx": 40
         },
@@ -465,11 +839,22 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 42,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "……大丈夫？",
                     "enText": "… great husband?",
                     "nextBlock": 42
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -1855148916077231388
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -5003706174088152510
                 }
             ],
             "pathId": -2255768322458281144,
@@ -481,6 +866,17 @@
             "jpText": "……マスターの喪失により、『戸惑い』が発生中。",
             "enText": "The loss of the… master is \ncausing a lot of 'confusion'.",
             "nextBlock": 43,
+            "origClipLength": 128,
+            "animData": [
+                {
+                    "origLen": 180,
+                    "pathId": -5703173849542554998
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1597581182287962870
+                }
+            ],
             "pathId": 4338069617769482829,
             "blockIdx": 42
         },
@@ -490,6 +886,17 @@
             "jpText": "事実として、私は夜間トレーニングを重ねてなお、\r\nまともに3000mを走り切ることができませんでした。",
             "enText": "As a matter of fact, I couldn't run the 3000m \nproperly even after a lot of night training.",
             "nextBlock": 44,
+            "origClipLength": 254,
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -3255080039027312792
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4243617759331368183
+                }
+            ],
             "pathId": -4186412338731851701,
             "blockIdx": 43
         },
@@ -499,11 +906,22 @@
             "jpText": "三冠達成は譲れません。\r\nしかし私の選択は本当に正しいのでしょうか。",
             "enText": "Achieving the Triple Crown is non-negotiable. \nBut is my choice really the right one?",
             "nextBlock": 45,
+            "origClipLength": 237,
             "choices": [
                 {
                     "jpText": "正しいに決まってる",
                     "enText": "Of course you're right.",
                     "nextBlock": 45
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -7281883754320752054
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7596278812748950427
                 }
             ],
             "pathId": 8405030013044219543,
@@ -515,6 +933,17 @@
             "jpText": "ハードトレーニングを弱音も吐かずにこなせているのは、\r\n性格もあるだろうが、何より気持ちが強いからだ。",
             "enText": "The fact that she is able to train so hard without complaining \nmay be due to her personality, but more than anything, it is \nbecause she has a strong heart.",
             "nextBlock": 46,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1532069780063024020
+                },
+                {
+                    "origLen": 160,
+                    "pathId": -1311341759747440784
+                }
+            ],
             "pathId": 4301686972006757830,
             "blockIdx": 45
         },
@@ -524,6 +953,7 @@
             "jpText": "『必ず、三冠達成を成し遂げたい』という気持ちが。",
             "enText": "I want to win the Triple Crown,\" she said.",
             "nextBlock": 47,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "誰が何と言おうと俺はブルボンを応援する",
@@ -536,6 +966,16 @@
                     "nextBlock": 47
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 133,
+                    "pathId": -9167755796306156437
+                },
+                {
+                    "origLen": 160,
+                    "pathId": -3787368223417113462
+                }
+            ],
             "pathId": 2370373251314706140,
             "blockIdx": 46
         },
@@ -545,6 +985,7 @@
             "jpText": "…………！",
             "enText": "…!",
             "nextBlock": 48,
+            "origClipLength": 48,
             "choices": [
                 {
                     "jpText": "だから……今度は俺と一緒に夢を叶えよう",
@@ -557,6 +998,16 @@
                     "nextBlock": 48
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 635972581234176292
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -3750241855447519333
+                }
+            ],
             "pathId": 154188881539639772,
             "blockIdx": 47
         },
@@ -566,6 +1017,13 @@
             "jpText": "ミホノブルボンの瞳がかすかに揺れた。",
             "enText": "Mihono Bourbon's eyes wavered faintly.",
             "nextBlock": 49,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6773730965661543748
+                }
+            ],
             "pathId": -3050277861744912364,
             "blockIdx": 48
         },
@@ -575,6 +1033,7 @@
             "jpText": "一緒に……。",
             "enText": "Please visit… together.",
             "nextBlock": 50,
+            "origClipLength": 46,
             "choices": [
                 {
                     "jpText": "絶対に諦めさせたくないんだ",
@@ -587,6 +1046,16 @@
                     "nextBlock": 50
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -1146881836652573068
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 4861284089543119558
+                }
+            ],
             "pathId": -7406069915383586548,
             "blockIdx": 49
         },
@@ -596,6 +1065,17 @@
             "jpText": "（……この眼差し……どこか懐かしい）",
             "enText": "(… these eyes… \nare somewhat nostalgic)",
             "nextBlock": 51,
+            "origClipLength": 121,
+            "animData": [
+                {
+                    "origLen": 181,
+                    "pathId": 630556263204375064
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1894695116097551570
+                }
+            ],
             "pathId": -7016296054297142101,
             "blockIdx": 50
         },
@@ -605,6 +1085,13 @@
             "jpText": "はぁ……はぁ…………ぐす……。\r\nお父さん、また、ダメでした……。私……。",
             "enText": "Hah… hah… gusu… Dad, \nit didn't work again… I…",
             "nextBlock": 52,
+            "origClipLength": 404,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -2747848655841156783
+                }
+            ],
             "pathId": -46381638481920755,
             "blockIdx": 51
         },
@@ -614,6 +1101,7 @@
             "jpText": "……お前には確かにスタミナがない。でも、頑張り屋だ。\r\nだから、絶対に大丈夫。",
             "enText": "… You certainly have no stamina. \nBut you are a hard worker. So you'll \ndefinitely be fine.",
             "nextBlock": 53,
+            "origClipLength": 239,
             "pathId": 2091793432935946741,
             "blockIdx": 52
         },
@@ -623,6 +1111,7 @@
             "jpText": "大切な夢を、一緒に叶えよう。",
             "enText": "Let's make our precious dreams \ncome true together.",
             "nextBlock": 54,
+            "origClipLength": 96,
             "pathId": 7755471138672399376,
             "blockIdx": 53
         },
@@ -632,6 +1121,13 @@
             "jpText": "（――この人は、お父さんと似ている）",
             "enText": "（She's just like her father.)",
             "nextBlock": 55,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 283,
+                    "pathId": 6983933795390171106
+                }
+            ],
             "pathId": 3559216093804886097,
             "blockIdx": 54
         },
@@ -641,11 +1137,18 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 56,
+            "origClipLength": 43,
             "choices": [
                 {
                     "jpText": "……ミホノブルボン？",
                     "enText": "… Mihono Bourbon?",
                     "nextBlock": 56
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 181,
+                    "pathId": 4627890436179932654
                 }
             ],
             "pathId": 3872892411280483639,
@@ -657,6 +1160,13 @@
             "jpText": "沈黙に耐え切れず、声をかける。\r\nミホノブルボンは静かにこちらを見た。",
             "enText": "Unable to bear the silence, I called out to \nher. Mihono Bourbon looked at me quietly.",
             "nextBlock": 57,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -5824332274130148455
+                }
+            ],
             "pathId": -891485661169955966,
             "blockIdx": 56
         },
@@ -666,6 +1176,13 @@
             "jpText": "――ラップタイム走法を私にカスタマイズしたのはあなたであり、\r\n1600mの記録の伸びは、あなたの手腕によるもの。",
             "enText": "—You customized the lap time running method \nfor me, and the growth in the 1600m record is \ndue to your skill.",
             "nextBlock": 58,
+            "origClipLength": 248,
+            "animData": [
+                {
+                    "origLen": 283,
+                    "pathId": -647543951139055312
+                }
+            ],
             "pathId": 1124181198417723948,
             "blockIdx": 57
         },
@@ -675,6 +1192,17 @@
             "jpText": "私は今たしかに、あなたとならあるいはと感じています。",
             "enText": "I certainly feel that I can \ndo that with you now.",
             "nextBlock": 59,
+            "origClipLength": 134,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4461006577907156780
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2423545655022488348
+                }
+            ],
             "pathId": 1507464961096440086,
             "blockIdx": 58
         },
@@ -684,6 +1212,17 @@
             "jpText": "つまり、これからどうぞよろしくお願いします。\r\n……マスター。",
             "enText": "In other words, thank you for your continued \nsupport… master.",
             "nextBlock": 60,
+            "origClipLength": 180,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 2760060347623014573
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -490469125892322518
+                }
+            ],
             "pathId": -7488081996894087321,
             "blockIdx": 59
         },
@@ -693,8 +1232,20 @@
             "jpText": "『サイボーグ』と称されるミホノブルボンの右手は\r\n力強く、そして暖かかった。",
             "enText": "The right hand of Mihono Bourbon, the \n\"cyborg,\" was strong and warm.",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -1225032205352619759
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -8505797612202803640
+                }
+            ],
             "pathId": -3825510327235898187,
             "blockIdx": 60
         }
-    ]
+    ],
+    "modified": 1669933702
 }

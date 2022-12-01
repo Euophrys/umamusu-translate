@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "HWGMZGCUKEDSWAXBAUMKLRJN62ETTUTD",
     "type": "story",
     "storyId": "041021007",
@@ -11,11 +11,22 @@
             "jpText": "はぁっ、はぁっ、はっ……10本、終わったで。",
             "enText": "Haaa, haaa, haa… Finished all ten.",
             "nextBlock": 2,
+            "origClipLength": 165,
             "choices": [
                 {
                     "jpText": "午前中のメニューは終了、お疲れ様",
                     "enText": "Good work finishing the morning training menu",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 9100939648810308118
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6555410100277430132
                 }
             ],
             "pathId": 7684827995162457973,
@@ -27,11 +38,22 @@
             "jpText": "……ぬるいぬるい、まだいけんで。\r\n追加でもう10本行ってくるわ。",
             "enText": "…too easy, I can keep goin'. I'm gonna go do 10 more.",
             "nextBlock": 3,
+            "origClipLength": 245,
             "choices": [
                 {
                     "jpText": "でも、午後もあるし……",
                     "enText": "But, there's still the afternoon…",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 2158184672297236759
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -4208110388706655156
                 }
             ],
             "pathId": 7342326801532911510,
@@ -43,6 +65,13 @@
             "jpText": "夏合宿も佳境に入り、そろそろ疲れがたまってくる頃だ。\r\n炎天下の砂浜という環境はただでさえ消耗が激しい。",
             "enText": "We're entering the high point of the summer training camp, so \nshe's probably building up some fatigue. The blazing sun on the \nbeach should be compounding that.",
             "nextBlock": 4,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": 6537564599409555476
+                }
+            ],
             "pathId": 2808626779143148803,
             "blockIdx": 3
         },
@@ -52,6 +81,17 @@
             "jpText": "ほなら、なおさら限界まで追い込んどかな。\r\n力出し切った後の粘りを鍛える絶好の機会やろ。",
             "enText": "All th' more reason ta push myself ta th' limit! \nIsn't this th' best chance ta train my endurance?",
             "nextBlock": 5,
+            "origClipLength": 245,
+            "animData": [
+                {
+                    "origLen": 160,
+                    "pathId": -8315012940325950113
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 1943442141364168804
+                }
+            ],
             "pathId": 6061148424063602691,
             "blockIdx": 4
         },
@@ -61,6 +101,7 @@
             "jpText": "今日は徹底的にやりたいんや……！",
             "enText": "I wanna be thorough today…!",
             "nextBlock": 6,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "1本ずつ増やしていく形ならいいぞ",
@@ -73,6 +114,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -3867116093244660093
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -519035746194943191
+                }
+            ],
             "pathId": -171078297478660840,
             "blockIdx": 5
         },
@@ -82,6 +133,17 @@
             "jpText": "ああ、それでええ！　よっしゃ、行くで！",
             "enText": "Okay, tha's fine! Alright, here I go!",
             "nextBlock": 7,
+            "origClipLength": 128,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -510950184083548680
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 7528478220704202366
+                }
+            ],
             "pathId": -2152884441198322459,
             "blockIdx": 6
         },
@@ -91,6 +153,7 @@
             "jpText": "タマモクロスはやけに気合いが入っていた。午後も予定にない\r\nメニューを追加し、ハードなトレーニングをこなしたのだった。",
             "enText": "Tamamo Cross was really motivated. Though it was \nunplanned, I added more to her afternoon training \nmenu since she wanted to train harder.",
             "nextBlock": 8,
+            "origClipLength": 121,
             "pathId": 6351008995511171441,
             "blockIdx": 7
         },
@@ -100,6 +163,17 @@
             "jpText": "あ、おったおった。トレーナー！",
             "enText": "Ah, there she is. Trainer!",
             "nextBlock": 9,
+            "origClipLength": 96,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3409816791445912936
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2197974733351393247
+                }
+            ],
             "pathId": -2709404839408196668,
             "blockIdx": 8
         },
@@ -109,11 +183,22 @@
             "jpText": "なあ、ウチと近くでやっとる夏祭り行けへん？　どうせヒマやろ。",
             "enText": "Hey, wanna go ta the nearby summer festival? \nNot like ya got anything better ta do, right?",
             "nextBlock": 10,
+            "origClipLength": 193,
             "choices": [
                 {
                     "jpText": "いいよ",
                     "enText": "Sure",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4410393112245876347
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3851486223138391561
                 }
             ],
             "pathId": -787158790124138442,
@@ -125,6 +210,17 @@
             "jpText": "実はな、ウチも自分へのご褒美っちゅーんを\r\nやってみよかと思ってんねんけど……。",
             "enText": "Ya see, I was thinkin' 'bout tryin' \nout this rewardin' yerself thing…",
             "nextBlock": 11,
+            "origClipLength": 239,
+            "animData": [
+                {
+                    "origLen": 211,
+                    "pathId": 6434361214405154672
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 9156932413371984467
+                }
+            ],
             "pathId": -3632048913582061112,
             "blockIdx": 10
         },
@@ -134,6 +230,7 @@
             "jpText": "ほら、今日のトレーニング、ウチめっちゃ頑張ったやろ？\r\n2日分くらいのメニューこなしたやん。せやから……。",
             "enText": "'Cuz I worked really hard on today's trainin', right? \nIt was two days worth of trainin'. So…",
             "nextBlock": 12,
+            "origClipLength": 325,
             "choices": [
                 {
                     "jpText": "ご褒美をあげるべきだな！",
@@ -146,6 +243,16 @@
                     "nextBlock": 12
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": 3377839697740261047
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -8691924707159859424
+                }
+            ],
             "pathId": -644181095230583026,
             "blockIdx": 11
         },
@@ -155,6 +262,7 @@
             "jpText": "そ、そうか……！　トレーナーが言うんやから、\r\nウチにご褒美あげてみるわ！！",
             "enText": "R-right…! Since Trainer says so, \nI'll try givin' myself a reward!!",
             "nextBlock": 13,
+            "origClipLength": 226,
             "choices": [
                 {
                     "jpText": "どんなご褒美にするんだ？",
@@ -167,6 +275,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 4899514566305631336
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6213865748527971009
+                }
+            ],
             "pathId": -6385859441411596912,
             "blockIdx": 12
         },
@@ -176,6 +294,21 @@
             "jpText": "屋台の食べ歩きや。ガキの頃憧れとってな。\r\n今夜は贅沢に屋台をはしごすんで！",
             "enText": "Walkin' 'round and tryin' all th' food stalls! I've wanted ta do \nsomethin' like this since I was a kid. Tonight I'm gonna splurge \nan' hit all the' stalls!",
             "nextBlock": 14,
+            "origClipLength": 259,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3590872562495640562
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4481555672032440269
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 8911823496008019432
+                }
+            ],
             "pathId": -3375469372024772646,
             "blockIdx": 13
         },
@@ -185,6 +318,21 @@
             "jpText": "なに食べよかな～！　目移りしてまうな！",
             "enText": "What should I eat first~!? It's so hard ta decide!",
             "nextBlock": 15,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -3321700985351837899
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3956183407168980672
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 2924037321102457962
+                }
+            ],
             "pathId": -4463866392446190832,
             "blockIdx": 14
         },
@@ -194,6 +342,17 @@
             "jpText": "さあ、らっしゃい！　チョコバナナだよ！\r\n今夜は大サービス、じゃんけんに勝ったらおまけでもう1本だ！",
             "enText": "C'mon, welcome! Choco-bananas! Tonight as a special service, if \nyou beat me in Rock-Paper-Scissors, you'll get one more free!",
             "nextBlock": 16,
+            "origClipLength": 225,
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": 7370053188145270021
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 557002274906536320
+                }
+            ],
             "pathId": 6687168731518796436,
             "blockIdx": 15
         },
@@ -203,6 +362,7 @@
             "jpText": "チョコバナナか～！\r\nおいしそうやけど、腹持ち考えると今回は見送りかな……。",
             "enText": "Choco-bananas~! They look good but, thinkin' 'bout how fillin' \nthey might be, maybe I should pass fer now…",
             "nextBlock": 17,
+            "origClipLength": 238,
             "choices": [
                 {
                     "jpText": "食べ歩きするんじゃなかったのか？",
@@ -215,6 +375,16 @@
                     "nextBlock": 17
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6916155806500008952
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2119754498097472762
+                }
+            ],
             "pathId": -7634340023275320698,
             "blockIdx": 16
         },
@@ -224,6 +394,7 @@
             "jpText": "あ……せやったな。……けど……\r\nチョコバナナ……買うてええもんやろか……？",
             "enText": "Ah… tha's true… But… Choco-banana… \nare those a good thing ta buy fer that…?",
             "nextBlock": 18,
+            "origClipLength": 244,
             "choices": [
                 {
                     "jpText": "1本買ってきてもらっていいか？",
@@ -236,6 +407,16 @@
                     "nextBlock": 18
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 147,
+                    "pathId": 2026658489114843900
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -7257626684707165360
+                }
+            ],
             "pathId": 1571856483116583524,
             "blockIdx": 17
         },
@@ -245,6 +426,17 @@
             "jpText": "ん？　あ、トレーナー、じゃんけん弱いんやろ～。\r\nええで、買うてきたる！",
             "enText": "Hm? Ah, Trainer, yer bad at Rock-Paper-Scissors, ain't ya~? \nGot it, I'll get one for ya!",
             "nextBlock": 19,
+            "origClipLength": 206,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -8350419799108352450
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -3258318141914483570
+                }
+            ],
             "pathId": 804322255750519787,
             "blockIdx": 18
         },
@@ -254,6 +446,13 @@
             "jpText": "おっちゃん、チョコバナナ1本や！",
             "enText": "Old man, one choco-banana!",
             "nextBlock": 20,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -6015095677257919850
+                }
+            ],
             "pathId": -1643095135747076558,
             "blockIdx": 19
         },
@@ -263,6 +462,13 @@
             "jpText": "はいよ！　それじゃ、おまけのじゃんけんだ！　せーの！",
             "enText": "Here ya go! Alright, bonus time! Rock-Paper-Scissors!",
             "nextBlock": 21,
+            "origClipLength": 138,
+            "animData": [
+                {
+                    "origLen": 239,
+                    "pathId": -872148919593593962
+                }
+            ],
             "pathId": -6816655232244187362,
             "blockIdx": 20
         },
@@ -272,6 +478,13 @@
             "jpText": "じゃーんけーん、ほいっ！",
             "enText": "Rock-Paper-Scissors!",
             "nextBlock": 22,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3613626834061154209
+                }
+            ],
             "pathId": 7926518734957444472,
             "blockIdx": 21
         },
@@ -281,6 +494,7 @@
             "jpText": "よっしゃ勝った！！\r\nトレーナー、2本ゲットしたで！",
             "enText": "Alright, I won!! \nTrainer, I got two of 'em!",
             "nextBlock": 23,
+            "origClipLength": 138,
             "choices": [
                 {
                     "jpText": "君が勝ったんだから1本あげるよ",
@@ -293,6 +507,16 @@
                     "nextBlock": 23
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -3078960307387496945
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -8632846006795841593
+                }
+            ],
             "pathId": 9192124628583764669,
             "blockIdx": 22
         },
@@ -302,6 +526,13 @@
             "jpText": "へっ？　……あー……ほな……1本もらうわ。\r\n……おおきに。",
             "enText": "Huh?…Ah-…okay… \nI'll take one… thanks.",
             "nextBlock": 24,
+            "origClipLength": 274,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -3566916197035041015
+                }
+            ],
             "pathId": -8249908880438072161,
             "blockIdx": 23
         },
@@ -311,6 +542,21 @@
             "jpText": "お……？　おおっ！　トレーナー！\r\nここの牛すじ、どて焼きやで！",
             "enText": "Oh…? Oooooh! Trainer! \nThe beef tendon here, it's cooked in miso and mirin!",
             "nextBlock": 25,
+            "origClipLength": 181,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 6097786009429279379
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 6118672991401633820
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 8895463331319705686
+                }
+            ],
             "pathId": -6261441669490726594,
             "blockIdx": 24
         },
@@ -320,6 +566,17 @@
             "jpText": "白味噌や！！　こっちは醤油か合わせ味噌が多いのに……\r\nこら食べるべきやんなあ！？",
             "enText": "It's white miso!! And this one has alot 'a miso tha' goes well \nwith soy sauce! Got no choice but ta try it, huh?!",
             "nextBlock": 26,
+            "origClipLength": 223,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7424130984083367827
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 5125286309466771308
+                }
+            ],
             "pathId": -6155969840628822367,
             "blockIdx": 25
         },
@@ -329,6 +586,17 @@
             "jpText": "嬢ちゃんツウやなぁ！　せやねん、ウチとこはどて焼きやねん！\r\n小学生やのに、おつまみよう食べるん？",
             "enText": "Lil' lady, ya know a lot! Tha's right, we sell \nDoteyaki! Even though yer an elementary schooler, \ndo ya eat alot of these kinds of snacks?",
             "nextBlock": 27,
+            "origClipLength": 244,
+            "animData": [
+                {
+                    "origLen": 210,
+                    "pathId": 4513847634952170564
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7356201973534992421
+                }
+            ],
             "pathId": -7627962334115588098,
             "blockIdx": 26
         },
@@ -338,6 +606,13 @@
             "jpText": "えへへ、お父ちゃんがよう食べとって……\r\nって、誰が小学生やねん！！",
             "enText": "Ehehe, Dad eats alot of these kinds of… \n-wait, who are ya callin' an elementary schooler?!",
             "nextBlock": 28,
+            "origClipLength": 145,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 3570558173095086541
+                }
+            ],
             "pathId": -8364842796161606438,
             "blockIdx": 27
         },
@@ -347,6 +622,13 @@
             "jpText": "ありゃ、小学生ちゃうんか。そら失礼したな。\r\nおわびに1本奢ったるわ！",
             "enText": "Oh my, yer not in elementary? Pardon me. \nAs an apology, how 'bout I treat ya ta one!",
             "nextBlock": 29,
+            "origClipLength": 165,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 6577789255069952301
+                }
+            ],
             "pathId": 1858593899990602368,
             "blockIdx": 28
         },
@@ -356,6 +638,13 @@
             "jpText": "えっ！？　ええんか？\r\nあ、ほなら半額出すから2本にしてもらってええか？",
             "enText": "Eh?! Really? Ah, in tha' case, \nI'll pay so it's like it's half-price instead, can I get two?",
             "nextBlock": 30,
+            "origClipLength": 185,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 8460109676489089596
+                }
+            ],
             "pathId": 3958612460054981905,
             "blockIdx": 29
         },
@@ -365,6 +654,13 @@
             "jpText": "ん～～、トロットロの牛すじから染み出る\r\n白味噌のほのかな甘み……たまらんわ～～。",
             "enText": "Nnn~, from th' gooey beef tendon a faint sweetness \nfrom th' white miso seeps through… irresistable~.",
             "nextBlock": 31,
+            "origClipLength": 315,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -7387965540923232305
+                }
+            ],
             "pathId": 5315177252462981325,
             "blockIdx": 30
         },
@@ -374,11 +670,26 @@
             "jpText": "こら買いで間違いあれへんかったで！\r\nいや～、2本もなんて、贅沢してもうたな！",
             "enText": "It wasn't a mistake ta buy this! \nOn top of that, gettin' two of 'em. How extravagant!",
             "nextBlock": 32,
+            "origClipLength": 216,
             "choices": [
                 {
                     "jpText": "……すみません、牛すじ1皿",
                     "enText": "…Excuse me, one more order",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5403653489061071312
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6700847358350451127
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 4533916011674913566
                 }
             ],
             "pathId": -8582115590979759357,
@@ -390,6 +701,17 @@
             "jpText": "はははっ、ええ選択や！\r\n本場もんの味やから、食べんと損やで！",
             "enText": "Hahahaa, just the' right amount of luxury! It's got an authentic \nflavor ta it, so it'd be a waste not ta eat it!",
             "nextBlock": 33,
+            "origClipLength": 189,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7254559027734390343
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 7845611584949592548
+                }
+            ],
             "pathId": 4057834228123519284,
             "blockIdx": 32
         },
@@ -399,11 +721,22 @@
             "jpText": "次は……うん、やっぱたこ焼きやな。\r\nトレーナーも食べるか？",
             "enText": "Next up… yeah, gotta be some takoyaki. \nTrainer, want some too?",
             "nextBlock": 34,
+            "origClipLength": 182,
             "choices": [
                 {
                     "jpText": "1パックは食べきれなさそう……",
                     "enText": "I don't think I can finish one order…",
                     "nextBlock": 34
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 538278674071444220
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -7722480642865801218
                 }
             ],
             "pathId": -4398628338587726163,
@@ -415,6 +748,17 @@
             "jpText": "なら、ウチと半分こしよか。",
             "enText": "Wanna split one with me then?",
             "nextBlock": 35,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -8206691109482457016
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 8610673778574541944
+                }
+            ],
             "pathId": -4237593470750458237,
             "blockIdx": 34
         },
@@ -424,6 +768,17 @@
             "jpText": "たこ焼きを1パック買い、タマモクロスと2人でつつき合う。",
             "enText": "I bought an order of Takoyaki, and split it with Tamamo Cross.",
             "nextBlock": 36,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4157570519990165558
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8085147801641277489
+                }
+            ],
             "pathId": 3077594504132944726,
             "blockIdx": 35
         },
@@ -433,6 +788,7 @@
             "jpText": "……生地多めやなぁ。たこ、入っとるか……？",
             "enText": "…There's alot 'a dough. Is there even any octopus…?",
             "nextBlock": 37,
+            "origClipLength": 177,
             "choices": [
                 {
                     "jpText": "お祭りのたこ焼きって感じだな",
@@ -454,6 +810,17 @@
             "jpText": "あ、やっぱトレーナーも味には期待してへんかったんやな。",
             "enText": "Ah, sounds like Trainer didn't have high \nexpectations for its flavor either.",
             "nextBlock": 38,
+            "origClipLength": 148,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -2657636957692388203
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2583135280844317985
+                }
+            ],
             "pathId": 1984028463035558051,
             "blockIdx": 37
         },
@@ -463,6 +830,17 @@
             "jpText": "……ウチな、前から気になっとってん。\r\nなんでみんなお祭りで専門店でもないたこ焼き買うんかなって。",
             "enText": "…I've always wondered about tha'. Why do people buy takoyaki at \na festival, even if it ain't from a specialty shop?",
             "nextBlock": 39,
+            "origClipLength": 319,
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": 7117383709412799710
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5707284374496198444
+                }
+            ],
             "pathId": -265423123415003953,
             "blockIdx": 38
         },
@@ -472,11 +850,22 @@
             "jpText": "こら……あれやな。雰囲気補正。\r\nお祭りの雰囲気込みでおいしい気がするんや。",
             "enText": "It's… probably that. Th' mood in th' air. \nTh' festival atmosphere makes it tastier.",
             "nextBlock": 40,
+            "origClipLength": 246,
             "choices": [
                 {
                     "jpText": "そうかも……",
                     "enText": "Maybe…",
                     "nextBlock": 40
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -1276685693103196686
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1857115543672354509
                 }
             ],
             "pathId": 4809418304060683209,
@@ -488,6 +877,17 @@
             "jpText": "せやろ。けど、食べんままやったら、\r\nなんで買うんか一生理解できへんかったやろな……。",
             "enText": "Right? But, without tryin' it once, ya'd never \nunderstand why anyone would buy somethin' like that…",
             "nextBlock": 41,
+            "origClipLength": 253,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -7463670888545387653
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 685685574367745973
+                }
+            ],
             "pathId": -1857955348405171352,
             "blockIdx": 40
         },
@@ -497,6 +897,17 @@
             "jpText": "……自分へのご褒美もな。",
             "enText": "…same with rewardin' yerself.",
             "nextBlock": 42,
+            "origClipLength": 155,
+            "animData": [
+                {
+                    "origLen": 200,
+                    "pathId": -5145676243138189021
+                },
+                {
+                    "origLen": 186,
+                    "pathId": -8184636426910000041
+                }
+            ],
             "pathId": 3574685168782077385,
             "blockIdx": 41
         },
@@ -506,6 +917,17 @@
             "jpText": "ようやくわかったで。\r\nご褒美を奮発するんは……上を見るためでもあったんやな。",
             "enText": "I finally get it. Why ya'd want to splurge on a reward… \npartly so ya have something ta look forward ta.",
             "nextBlock": 43,
+            "origClipLength": 216,
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -4820768761493409642
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -278460123277867776
+                }
+            ],
             "pathId": 8601762549982001989,
             "blockIdx": 42
         },
@@ -515,6 +937,17 @@
             "jpText": "夜空を見上げ、タマモクロスが思い返すように呟く。",
             "enText": "While looking at the night sky, Tamamo Cross \nspoke softly as if recalling something.",
             "nextBlock": 44,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -8223327908588976151
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 4182115864695491450
+                }
+            ],
             "pathId": 8374481690246256451,
             "blockIdx": 43
         },
@@ -524,6 +957,7 @@
             "jpText": "……こないだ、ウチはパンケーキ食べて、また食べたいと思った。",
             "enText": "…A while back, those pancakes I ate, \nI've wanted ta eat 'em again.",
             "nextBlock": 45,
+            "origClipLength": 182,
             "pathId": -2594680798202979690,
             "blockIdx": 44
         },
@@ -533,6 +967,7 @@
             "jpText": "今まではホットケーキミックスでよかったんが、\r\nカフェのパンケーキ目指そうっていう気になった。",
             "enText": "Up until now, just regular hotcake mix has been fine but, \nthat cafe's pancakes are my goal now.",
             "nextBlock": 46,
+            "origClipLength": 220,
             "pathId": 8090898189565803493,
             "blockIdx": 45
         },
@@ -542,6 +977,7 @@
             "jpText": "目標が高なったんや！\r\n自分へのご褒美は、前より上を目指す原動力でもあったんやな！",
             "enText": "My goals have gotten higher! Rewardin' myself, \nit's raisin' my motivation to aim even higher!",
             "nextBlock": 47,
+            "origClipLength": 293,
             "choices": [
                 {
                     "jpText": "そ、そうだな……",
@@ -554,6 +990,16 @@
                     "nextBlock": 47
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 249,
+                    "pathId": -8139106050463279852
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3541865299882129415
+                }
+            ],
             "pathId": 2105815812331820138,
             "blockIdx": 46
         },
@@ -563,6 +1009,13 @@
             "jpText": "ご褒美は単純に自分を甘やかしてほしかっただけなのだが……\r\nより高みを目指す力と解釈してしまうのが、なんとも彼女らしい。",
             "enText": "I simply wanted her to spoil herself a little more but… to turn \nthat into a reason to aim higher, it's very much like her.",
             "nextBlock": 48,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -6200235799576040766
+                }
+            ],
             "pathId": 4972823875346001750,
             "blockIdx": 47
         },
@@ -572,6 +1025,17 @@
             "jpText": "それに、おいしいもんやええもんも知らんと！\r\n家族に教えてあげられへんやろ！",
             "enText": "'sides, if I don't know what's tasty or good, \nhow can I know what ta get fer my family?!",
             "nextBlock": 49,
+            "origClipLength": 181,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -3653000742171583727
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 1397959944667991133
+                }
+            ],
             "pathId": 4280580363451394805,
             "blockIdx": 48
         },
@@ -581,6 +1045,17 @@
             "jpText": "……結婚記念日のプレゼント、\r\n結局トレーナーに選んでもろたしな……。",
             "enText": "…tha' weddin' anniversary present, \nI ended up havin' Trainer choose it fer me, after all…",
             "nextBlock": 50,
+            "origClipLength": 201,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7040986044560671076
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8832317273609210062
+                }
+            ],
             "pathId": 2750620812167729749,
             "blockIdx": 49
         },
@@ -590,6 +1065,7 @@
             "jpText": "そう、結局彼女はデパ地下の雰囲気にのまれ撤退を余儀なくされた。\r\n自分でお菓子を決めることができなかったのだ。",
             "enText": "Right, in the end she was overwhelmed by the the \natmosphere in the store and forced to retreat. \nShe couldn't decide on the sweets herself.",
             "nextBlock": 51,
+            "origClipLength": 116,
             "choices": [
                 {
                     "jpText": "経験を積むのはいいことだ！",
@@ -602,6 +1078,12 @@
                     "nextBlock": 51
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 155,
+                    "pathId": -8783891533957365418
+                }
+            ],
             "pathId": 4628321035722085616,
             "blockIdx": 50
         },
@@ -611,6 +1093,21 @@
             "jpText": "せやな！　今後も“自分へのご褒美”やってみるわ！\r\nいろいろ教えてな、トレーナー！",
             "enText": "Right! After this, I'll give \"Rewardin' myself\" a try! \nMake sure ya teach me a lot, Trainer!",
             "nextBlock": 52,
+            "origClipLength": 254,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -1141307943562712850
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -5775061685666372698
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 3745575023978260483
+                }
+            ],
             "pathId": -3052487885497681570,
             "blockIdx": 51
         },
@@ -620,6 +1117,7 @@
             "jpText": "あ、けど……いきなし高いチョコは無理やで。\r\nウチには今日みたいな食べ歩きがちょうどええ贅沢や。",
             "enText": "Ah, but… I'll pass on that super expensive choco. \nSomething like today, just walkin' and eatin', is jus' right.",
             "nextBlock": 53,
+            "origClipLength": 271,
             "choices": [
                 {
                     "jpText": "でも、かなりお得に済ませてたよな？",
@@ -632,6 +1130,16 @@
                     "nextBlock": 53
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": -653761962095780146
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 8648281481092142558
+                }
+            ],
             "pathId": -4895806179311013273,
             "blockIdx": 52
         },
@@ -641,11 +1149,26 @@
             "jpText": "当たり前や！　言い値で買うなんざ浪速魂が許さへん！\r\n基本節約は変わらんで！！",
             "enText": "Of course! My Osakan soul won't let me pay full price fer \nanythin'! I won't change my penny-pinchin' ways!",
             "nextBlock": 54,
+            "origClipLength": 230,
             "choices": [
                 {
                     "jpText": "よっ！浪速のド根性！！",
                     "enText": "Yo! Osaka soul!!",
                     "nextBlock": 54
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -1987181219694981339
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 5413244799972199355
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 1013570684435848906
                 }
             ],
             "pathId": 8915720179154820718,
@@ -657,8 +1180,20 @@
             "jpText": "せや！　タマモクロスは\r\n贅沢に味しめて、さらなる高みへ飛躍すんで！！",
             "enText": "Got tha' right! Tamamo Cross, having tasted luxury, \nwill take even further strides forward!",
             "nextBlock": -1,
+            "origClipLength": 256,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 8693344840787560263
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2723847786171011377
+                }
+            ],
             "pathId": -8349596246760668676,
             "blockIdx": 54
         }
-    ]
+    ],
+    "modified": 1669933799
 }

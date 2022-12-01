@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "YOEMIYTIONP44GAKUXTAA7VYWGYY4GIW",
     "type": "story",
     "storyId": "041011001",
@@ -11,6 +11,7 @@
             "jpText": "ある日の昼下がり――",
             "enText": "One day in the afternoon—",
             "nextBlock": 2,
+            "origClipLength": 59,
             "pathId": -1222876144399619046,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "ふと思い立ち、いつもは行かない遠い場所へ買い出しに出たら、\r\n道に迷ってしまった。どうしたものかと困り果てていると……。",
             "enText": "When I went out to buy groceries at a distant place\nI don't usually go, I got lost. When I was at a\nloss as to what to do, I found…",
             "nextBlock": 3,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 3439981765420497735
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -886208116455982357
+                }
+            ],
             "pathId": 6001785778565522301,
             "blockIdx": 2
         },
@@ -29,6 +41,21 @@
             "jpText": "あの～、すみません。",
             "enText": "Um, I'm sorry.",
             "nextBlock": 4,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -4549606224030195531
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6121948569298261411
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -1987851716559133463
+                }
+            ],
             "pathId": -5773315777389992497,
             "blockIdx": 3
         },
@@ -38,11 +65,18 @@
             "jpText": "もしかして、学園所属の\nトレーナーさんではありませんか？",
             "enText": "Are you by any chance a trainer at the academy?",
             "nextBlock": 5,
+            "origClipLength": 167,
             "choices": [
                 {
                     "jpText": "そうですが……",
                     "enText": "Yes, but…",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": -8688373469286305503
                 }
             ],
             "pathId": 4154232495184550227,
@@ -54,6 +88,21 @@
             "jpText": "あっ、やっぱり～。学園内で何度か\nお見かけした顔だなーと思ったんです。",
             "enText": "Oh, I knew it! I thought I'd seen your\nface a few times in the school.",
             "nextBlock": 6,
+            "origClipLength": 230,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 1026888479857714511
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -6856203623172757308
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3254494635353061859
+                }
+            ],
             "pathId": 1255263126923919421,
             "blockIdx": 5
         },
@@ -63,6 +112,13 @@
             "jpText": "ところで、何かお困りのように見えましたが、\nどうなさったのですか？",
             "enText": "By the way, you seem to be having some trouble. What's wrong?",
             "nextBlock": 7,
+            "origClipLength": 193,
+            "animData": [
+                {
+                    "origLen": 204,
+                    "pathId": 9146623111572420397
+                }
+            ],
             "pathId": 6749588542197450801,
             "blockIdx": 6
         },
@@ -72,6 +128,13 @@
             "jpText": "親切に訊ねてくれたグラスワンダーに、初めてこの辺りまで\r\n足を伸ばしてみたら迷ってしまったことを正直に話した……。",
             "enText": "I told Glass Wonder, who was kind enough to ask me, that I had\ngotten lost on my first trip to the area…",
             "nextBlock": 8,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": 3800639055388766659
+                }
+            ],
             "pathId": -7451932355365472791,
             "blockIdx": 7
         },
@@ -81,6 +144,13 @@
             "jpText": "まあまあ、それは大変！",
             "enText": "Well, well, well, that's tough!",
             "nextBlock": 9,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -6188171672106936560
+                }
+            ],
             "pathId": -4737377903585242859,
             "blockIdx": 8
         },
@@ -90,6 +160,7 @@
             "jpText": "私でよければ、学園までご案内しますよ。",
             "enText": "If it's all right with you, I can take you to the school.",
             "nextBlock": 10,
+            "origClipLength": 125,
             "choices": [
                 {
                     "jpText": "いいのか？",
@@ -102,6 +173,12 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -6921364429346606492
+                }
+            ],
             "pathId": -3696758862911746683,
             "blockIdx": 9
         },
@@ -111,6 +188,21 @@
             "jpText": "ええ、私もちょうど帰るところですから。\n『旅は道連れ、世は情け』です♪",
             "enText": "Yeah, I'm just on my way back. \"The journey\nis a journey, the world is a journey.",
             "nextBlock": 11,
+            "origClipLength": 239,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 3323977335834181132
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 4067701012554403386
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 815828457132721430
+                }
+            ],
             "pathId": 3371279622554997013,
             "blockIdx": 10
         },
@@ -120,6 +212,21 @@
             "jpText": "この辺りには趣味のものをよく買いに\r\n来るので、一応地理にも詳しいんですよ。ど～んとお任せください。",
             "enText": "I often come to this area to buy things for my hobby, so I'm\nfamiliar with the geography. Please leave it to me.",
             "nextBlock": 12,
+            "origClipLength": 317,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 6475207090918651511
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 6805531206584445188
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -4537739076573403045
+                }
+            ],
             "pathId": -5192594811985265833,
             "blockIdx": 11
         },
@@ -129,6 +236,17 @@
             "jpText": "では、参りましょうか。",
             "enText": "Let's go.",
             "nextBlock": 13,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -6926540472978245994
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -5735537456742377840
+                }
+            ],
             "pathId": 5460956756344221570,
             "blockIdx": 12
         },
@@ -138,6 +256,13 @@
             "jpText": "親切なウマ娘、グラスワンダーと一緒に\nゆっくりゆっくり学園を目指して歩いた……。",
             "enText": "I walked slowly, slowly to the school with\nmy kind horse girl, Glass Wonder…",
             "nextBlock": 14,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -4693618362312493680
+                }
+            ],
             "pathId": -3228482959121267157,
             "blockIdx": 13
         },
@@ -147,6 +272,17 @@
             "jpText": "ふ～。ここまで来れば、学園までは\nあともう少しですよ。",
             "enText": "I can't believe it. If we've come this\nfar, we're almost at the school.",
             "nextBlock": 15,
+            "origClipLength": 230,
+            "animData": [
+                {
+                    "origLen": 285,
+                    "pathId": -7796039241526496335
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -812736324128427125
+                }
+            ],
             "pathId": -8986102146735752711,
             "blockIdx": 14
         },
@@ -156,11 +292,26 @@
             "jpText": "すっかり日が暮れてしまいましたね～。\r\n私、ついついのんびり歩いてしまって……すみません。",
             "enText": "The sun has completely set! I'm sorry\nfor walking so leisurely…",
             "nextBlock": 16,
+            "origClipLength": 293,
             "choices": [
                 {
                     "jpText": "景色を楽しみながら歩くのも楽しかったよ",
                     "enText": "It was fun to walk around and enjoy the scenery.",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 254,
+                    "pathId": 4239521691393019987
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -1982202317169357314
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 1231257750062362747
                 }
             ],
             "pathId": -1377750499562597441,
@@ -172,6 +323,21 @@
             "jpText": "あら、まあ。トレーナーさんは、\r\n『もののあはれ』を楽しめる方なのですね。",
             "enText": "Oh, my. Your trainer is a person who enjoys \"Mono no Ahare\".",
             "nextBlock": 17,
+            "origClipLength": 221,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -6739750501679287467
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -7315211193990584713
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3902404380970120121
+                }
+            ],
             "pathId": 2869906745344020249,
             "blockIdx": 16
         },
@@ -181,6 +347,21 @@
             "jpText": "……『夕されば』、ですね。\r\n茜色に染まった空は、いつ見ても異なる彩りで、とても美しいです。",
             "enText": "It's… \"Evening,\" isn't it? The Akane-tinted\nsky is always different and beautiful.",
             "nextBlock": 18,
+            "origClipLength": 352,
+            "animData": [
+                {
+                    "origLen": 195,
+                    "pathId": -4328148407015401412
+                },
+                {
+                    "origLen": 234,
+                    "pathId": -4437199867059293322
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -8048243862687622339
+                }
+            ],
             "pathId": 4189125802525986450,
             "blockIdx": 17
         },
@@ -190,6 +371,21 @@
             "jpText": "いつまでも見入っていられそう……。\r\nだから、ついつい足取りもゆっくりになってしまいます。",
             "enText": "I could look at it forever…\nSo I tend to slow down my steps.",
             "nextBlock": 19,
+            "origClipLength": 272,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 2648177832461206309
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -9222252532029503398
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6721337934343283551
+                }
+            ],
             "pathId": 5071075324053810391,
             "blockIdx": 18
         },
@@ -199,6 +395,13 @@
             "jpText": "そんなことを語らいながら、\r\nグラスワンダーと一緒に足を止め空を見上げていると――",
             "enText": "As I stopped and looked up at the sky with\nGlass Wonder, we were talking about this.",
             "nextBlock": 20,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -7618459888368374908
+                }
+            ],
             "pathId": 6924611174592089820,
             "blockIdx": 19
         },
@@ -208,6 +411,7 @@
             "jpText": "（ぐぅぅぅぅ）",
             "enText": "(Grunting)",
             "nextBlock": 21,
+            "origClipLength": 54,
             "pathId": -1174669763563575137,
             "blockIdx": 20
         },
@@ -217,6 +421,7 @@
             "jpText": "……あら、まあ～。",
             "enText": "… Oh, dear~.",
             "nextBlock": 22,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "雰囲気ぶち壊しですまん……",
@@ -229,6 +434,12 @@
                     "nextBlock": 22
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 3674636101885325852
+                }
+            ],
             "pathId": -5714827587318728058,
             "blockIdx": 21
         },
@@ -238,6 +449,21 @@
             "jpText": "ふふふっ、いえいえ。歩き通しでしたし、\nお腹、空いちゃいますよね～。",
             "enText": "No, no, no, no, no. We've been walking\nall day, and I'm sure you're hungry!",
             "nextBlock": 23,
+            "origClipLength": 237,
+            "animData": [
+                {
+                    "origLen": 178,
+                    "pathId": 4223424985844195901
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6197480382317024679
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -5912972252677600170
+                }
+            ],
             "pathId": 4055433797036488486,
             "blockIdx": 22
         },
@@ -247,6 +473,21 @@
             "jpText": "そうだ、ちょうどいいものがあるんです。\r\nトレーナーさん、もう少しだけお時間をいただいても構いませんか？",
             "enText": "Yes, I have just the thing. Trainer, do you mind\nif I take a few more minutes of your time?",
             "nextBlock": 24,
+            "origClipLength": 319,
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": -3720515453276545785
+                },
+                {
+                    "origLen": 193,
+                    "pathId": 6262161793189553783
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2980064070908450681
+                }
+            ],
             "pathId": -3593557273310706092,
             "blockIdx": 23
         },
@@ -256,11 +497,22 @@
             "jpText": "もしよろしければ、トレーナーさんを\n『野点』でおもてなしさせてください。",
             "enText": "If you'd like, I'd be happy to entertain\nyour trainer with \"Nodate\".",
             "nextBlock": 25,
+            "origClipLength": 189,
             "choices": [
                 {
                     "jpText": "『野点』？",
                     "enText": "\"Nodate\"?",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -8549081874958738228
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -967327053887082667
                 }
             ],
             "pathId": -7446847480640165028,
@@ -272,6 +524,21 @@
             "jpText": "はい、野外で楽しむお茶会です。お外で、日射しや空気の匂いを\r\n感じながらお茶をいただく、風流な文化ですよ～。",
             "enText": "Yes, it is a tea ceremony held outdoors. Enjoying\ntea outside, feeling the sunshine and smelling\nthe air, is a very elegant culture!",
             "nextBlock": 26,
+            "origClipLength": 398,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -3301234345087822334
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -1251729847207495604
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8445403559704034371
+                }
+            ],
             "pathId": -8497911408985363756,
             "blockIdx": 25
         },
@@ -281,6 +548,21 @@
             "jpText": "私、茶道が趣味なので。今日遠出をしていたのも\r\nお気に入りのお店で、お抹茶やお菓子を注文するためだったんです。",
             "enText": "I'm a tea ceremony hobbyist. That's why I went on a long trip\ntoday, to order matcha and sweets at my favorite store.",
             "nextBlock": 27,
+            "origClipLength": 343,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": 8080201933388780644
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 3613955990083924727
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 7941877662855226640
+                }
+            ],
             "pathId": 8197825835188772882,
             "blockIdx": 26
         },
@@ -290,11 +572,18 @@
             "jpText": "ちょうど道具も持ち歩いていましたから……\nいかがですか？",
             "enText": "I was just carrying my tools around\nwith me… What do you think?",
             "nextBlock": 28,
+            "origClipLength": 169,
             "choices": [
                 {
                     "jpText": "ぜひ！",
                     "enText": "Come on!",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7417666957112894661
                 }
             ],
             "pathId": -675776925967561190,
@@ -306,6 +595,17 @@
             "jpText": "よかったです～♪\r\nでは、さっそく準備しますね。",
             "enText": "I'm glad… ♪ I'll get ready as soon as I can.",
             "nextBlock": 29,
+            "origClipLength": 136,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 6278932832484657570
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2562515869563130148
+                }
+            ],
             "pathId": -4893564240001528295,
             "blockIdx": 28
         },
@@ -315,6 +615,13 @@
             "jpText": "それから、グラスワンダーが点ててくれた\r\nお茶と、上品な和菓子を楽しんだ……。",
             "enText": "Then we enjoyed a cup of tea prepared by Glass Wonder\nand some elegant Japanese sweets…",
             "nextBlock": 30,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -1583299056026882208
+                }
+            ],
             "pathId": -592457304020595423,
             "blockIdx": 29
         },
@@ -324,11 +631,18 @@
             "jpText": "いかがでしたか、トレーナーさん？",
             "enText": "How was it, trainer?",
             "nextBlock": 31,
+            "origClipLength": 87,
             "choices": [
                 {
                     "jpText": "大変美味しゅうございました",
                     "enText": "That was very nice.",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 384143797993918821
                 }
             ],
             "pathId": 8864904816412133714,
@@ -340,6 +654,17 @@
             "jpText": "ふふっ、それは何よりでございます♪",
             "enText": "Phew, that's great to hear.",
             "nextBlock": 32,
+            "origClipLength": 129,
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": -848883195592563556
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4427599949157601807
+                }
+            ],
             "pathId": -1525149201073569233,
             "blockIdx": 31
         },
@@ -349,6 +674,7 @@
             "jpText": "お腹も心も満たしてくれるのが、\r\nお茶のいいところですよね。",
             "enText": "The best thing about tea is that it fills\nboth your stomach and your heart.",
             "nextBlock": 33,
+            "origClipLength": 165,
             "choices": [
                 {
                     "jpText": "茶道は昔から習っていたのか？",
@@ -361,6 +687,12 @@
                     "nextBlock": 33
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 177,
+                    "pathId": 4123129353192565821
+                }
+            ],
             "pathId": 1601942800231902453,
             "blockIdx": 32
         },
@@ -370,6 +702,13 @@
             "jpText": "ええ、小さい頃から。",
             "enText": "Yeah, since I was little.",
             "nextBlock": 34,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 8184669151035792242
+                }
+            ],
             "pathId": -5272868593637566603,
             "blockIdx": 33
         },
@@ -379,6 +718,7 @@
             "jpText": "茶道、華道、書道、日本舞踊……\nあと、薙刀なんかもひと通り。",
             "enText": "Tea ceremony, flower arrangement, calligraphy,\nJapanese dance… Also, naginata.",
             "nextBlock": 35,
+            "origClipLength": 274,
             "choices": [
                 {
                     "jpText": "すごいな！？",
@@ -391,6 +731,20 @@
                     "nextBlock": 35
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 285,
+                    "pathId": -4937016909180382565
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -8984868561032187178
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3937710163510193881
+                }
+            ],
             "pathId": 1739615165283459491,
             "blockIdx": 34
         },
@@ -400,6 +754,21 @@
             "jpText": "いえいえ、それほどでも～。\n好きが高じてのことですよ。",
             "enText": "No, not really. It's just that I like it so much.",
             "nextBlock": 36,
+            "origClipLength": 162,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 276302491043425130
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6225201964163788154
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -4310688569916929275
+                }
+            ],
             "pathId": 6904198275712589726,
             "blockIdx": 35
         },
@@ -409,6 +778,21 @@
             "jpText": "私、生まれは一応アメリカなのですが、\n両親がどちらも根っからの日本好きでして。",
             "enText": "I was born in the U.S., but both of my\nparents are Japanophiles at heart.",
             "nextBlock": 37,
+            "origClipLength": 254,
+            "animData": [
+                {
+                    "origLen": 231,
+                    "pathId": -474969285508601949
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 8272825338459046993
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1263376821786715320
+                }
+            ],
             "pathId": 7989472778844286389,
             "blockIdx": 36
         },
@@ -418,6 +802,21 @@
             "jpText": "折に触れ、日本文化の素晴らしさを\r\n説いてくれたので……自然と、興味が湧いてきたんです。",
             "enText": "Every now and then, she would tell me how wonderful Japanese\nculture was, so I naturally became interested in…",
             "nextBlock": 38,
+            "origClipLength": 248,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -7462322154669486119
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -246259540561778815
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -4266266876207366945
+                }
+            ],
             "pathId": -729824712436623721,
             "blockIdx": 37
         },
@@ -427,6 +826,7 @@
             "jpText": "それで、向こうにも稽古の先生はいらっしゃいましたから、\r\n両親に頼んで、いろいろと習わせてもらったんですよ～。",
             "enText": "So I asked my parents to let me learn from them,\nsince they had a teacher over there too.",
             "nextBlock": 39,
+            "origClipLength": 283,
             "choices": [
                 {
                     "jpText": "本当に日本文化が好きなんだな",
@@ -439,6 +839,12 @@
                     "nextBlock": 39
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 251,
+                    "pathId": 8220029945142134879
+                }
+            ],
             "pathId": 7217144338747560778,
             "blockIdx": 38
         },
@@ -448,6 +854,17 @@
             "jpText": "ええ、それはもう！",
             "enText": "Yeah, that's it!",
             "nextBlock": 40,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 6469143641230793461
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1107073929875959339
+                }
+            ],
             "pathId": 9119122694301178668,
             "blockIdx": 39
         },
@@ -457,6 +874,17 @@
             "jpText": "お陰様で、礼節、真心、他者への思いやり、\nなどなど……大切なことを数多く学べました。",
             "enText": "Thanks to your help, I learned many important\nthings about… such as civility, sincerity,\nand consideration for others.",
             "nextBlock": 41,
+            "origClipLength": 317,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -6854414171772359018
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -7168037190456064952
+                }
+            ],
             "pathId": -5972594177806388169,
             "blockIdx": 40
         },
@@ -466,6 +894,13 @@
             "jpText": "といっても、まだまだ\n至らぬところばかりですけどね。",
             "enText": "However, I still have a lot of work to do.",
             "nextBlock": 42,
+            "origClipLength": 151,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -3831390000615981327
+                }
+            ],
             "pathId": -1582147623562224508,
             "blockIdx": 41
         },
@@ -475,6 +910,21 @@
             "jpText": "いずれは、礼儀正しく教養に溢れる、\r\n凛とした佇まいの大和撫子になれたら……と、日々修行中です。",
             "enText": "In the future, I hope to become a dignified Yamato Nadeshiko\nwith a polite and cultured appearance…",
             "nextBlock": 43,
+            "origClipLength": 332,
+            "animData": [
+                {
+                    "origLen": 343,
+                    "pathId": -6858574813379106009
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 9087269063954593320
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 2163501131551921024
+                }
+            ],
             "pathId": -7642435788039885306,
             "blockIdx": 42
         },
@@ -484,6 +934,17 @@
             "jpText": "っと……すみません、\nすっかり話し込んでしまいましたね。",
             "enText": "I'm sorry… but we've been talking too much.",
             "nextBlock": 44,
+            "origClipLength": 199,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 9134133830489825842
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 6816459489274727480
+                }
+            ],
             "pathId": -4750331212039607473,
             "blockIdx": 43
         },
@@ -493,6 +954,17 @@
             "jpText": "今度こそ、学園へ戻りましょうか♪",
             "enText": "♪ Let's go back to the school this time ♪",
             "nextBlock": 45,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -2784085174425212690
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -8600799462720295100
+                }
+            ],
             "pathId": 6939605832532203145,
             "blockIdx": 44
         },
@@ -502,6 +974,17 @@
             "jpText": "こうして、グラスワンダーとは別れ、\nトレーナー宿舎まで戻ってきた……。",
             "enText": "Thus, I left Glass Wonder and returned\nto the trainer's quarters…",
             "nextBlock": 46,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 7005133806560682321
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -42437453956258985
+                }
+            ],
             "pathId": -216386248381768411,
             "blockIdx": 45
         },
@@ -511,6 +994,13 @@
             "jpText": "大和撫子然としたウマ娘、グラスワンダー。和やかに笑みながら\r\nお茶を点てていた彼女は果たしてどんな走りをするのだろう――",
             "enText": "Glass Wonder, a horse girl with the appearance of a caressing\nlady. What will she do as she smiles and makes tea?",
             "nextBlock": 47,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 4163882820805355443
+                }
+            ],
             "pathId": -8567007566266268060,
             "blockIdx": 46
         },
@@ -520,6 +1010,13 @@
             "jpText": "その疑問には、案外早く答えが出そうだった。",
             "enText": "That question was going to be answered sooner than expected.",
             "nextBlock": 48,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -7313246584559885478
+                }
+            ],
             "pathId": 941985107590876217,
             "blockIdx": 47
         },
@@ -529,6 +1026,13 @@
             "jpText": "『トレーナー向けのお知らせ。\n選抜レース開催に際してのご連絡』",
             "enText": "Notice for trainers. Notice for trainers\non the occasion of the selection race.",
             "nextBlock": 49,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -2023419897299668101
+                }
+            ],
             "pathId": 6914171336175212089,
             "blockIdx": 48
         },
@@ -538,8 +1042,10 @@
             "jpText": "そう書かれたメールの出走登録表には――\r\n『グラスワンダー』の名が記されていた。",
             "enText": "On the registration list of the race, the\nname of \"Glass Wonder\" was written.",
             "nextBlock": -1,
+            "origClipLength": 97,
             "pathId": -127304284475569364,
             "blockIdx": 49
         }
-    ]
+    ],
+    "modified": 1669933660
 }

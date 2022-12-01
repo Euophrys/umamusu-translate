@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "5EDWRUBS3YI3YUSED636P6UMQR6RWOTQ",
     "type": "story",
     "storyId": "041052006",
@@ -11,6 +11,7 @@
             "jpText": "休日、駅前へ出かけると、\n聞き馴染みのある声が聞こえてきた。",
             "enText": "When I went out in front of the station on\nmy day off, I heard a familiar voice.",
             "nextBlock": 2,
+            "origClipLength": 84,
             "pathId": -1984148227709953384,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ウララの秘密の大作戦、はっじめーるぞーっ！",
             "enText": "Ulala's secret mission is about to begin!",
             "nextBlock": 3,
+            "origClipLength": 130,
             "choices": [
                 {
                     "jpText": "何を始めるんだ？",
@@ -32,6 +34,12 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -2184383291794876060
+                }
+            ],
             "pathId": 3369124276043611271,
             "blockIdx": 2
         },
@@ -41,11 +49,22 @@
             "jpText": "それはね～……って、トレーナー！？\r\nどうしてここに？",
             "enText": "That's the thing -… is a trainer! What brings you here?",
             "nextBlock": 4,
+            "origClipLength": 127,
             "choices": [
                 {
                     "jpText": "買い物に来たんだ",
                     "enText": "I'm here to shop.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -3956890388487494620
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -6790465665683425251
                 }
             ],
             "pathId": -3831574463332400999,
@@ -57,6 +76,13 @@
             "jpText": "そうなんだ！　わたしもだよ！\r\nでも何を買うかは、秘密の大作戦だから秘密なんだよ！",
             "enText": "Oh, yeah! Me too! But what I'm going to buy is\na secret because it's a big secret operation!",
             "nextBlock": 5,
+            "origClipLength": 201,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 3684225030318363842
+                }
+            ],
             "pathId": 222154518410609959,
             "blockIdx": 4
         },
@@ -66,6 +92,13 @@
             "jpText": "よーしっ、さっそくしゅっぱーつ！\nそれじゃーね！",
             "enText": "All right, let's get started! See you later!",
             "nextBlock": 6,
+            "origClipLength": 162,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -5117175200538074820
+                }
+            ],
             "pathId": -13396490244256095,
             "blockIdx": 5
         },
@@ -75,6 +108,7 @@
             "jpText": "ハルウララはあっという間に走り去っていく。\r\nその様子が気になり、後を追いかけた。",
             "enText": "Hal'ullala was running off in a flash. I was curious\nabout her condition and followed her.",
             "nextBlock": 7,
+            "origClipLength": 98,
             "pathId": 2453697005653141419,
             "blockIdx": 6
         },
@@ -84,6 +118,13 @@
             "jpText": "えーっと、確か雑誌にはこの辺にあるって……。",
             "enText": "Let's see, I believe the magazine\nsays it's around here…",
             "nextBlock": 8,
+            "origClipLength": 163,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -373787312630397434
+                }
+            ],
             "pathId": -6893524662803316302,
             "blockIdx": 7
         },
@@ -93,6 +134,13 @@
             "jpText": "何かを探している様子のハルウララに、\r\n露天商の男が声をかける……。",
             "enText": "A street vendor approached Halulala, who seemed\nto be looking for something…",
             "nextBlock": 9,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 7206010680616537661
+                }
+            ],
             "pathId": 197581110441273692,
             "blockIdx": 8
         },
@@ -102,6 +150,17 @@
             "jpText": "やあ、お嬢ちゃん。何かお探しかな？",
             "enText": "Hello, little girl. Can I help you find something?",
             "nextBlock": 10,
+            "origClipLength": 131,
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": 1477611053160128321
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 7069841009140992052
+                }
+            ],
             "pathId": -8314053899579694473,
             "blockIdx": 9
         },
@@ -111,6 +170,17 @@
             "jpText": "うん！　わたし、靴屋さんを探してるんだ！\nおじさん知ってる？",
             "enText": "Yes! I'm looking for a shoe store! Do you know my uncle?",
             "nextBlock": 11,
+            "origClipLength": 140,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -6994738458932269566
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -2473780156999459868
+                }
+            ],
             "pathId": 7607880982444904951,
             "blockIdx": 10
         },
@@ -120,6 +190,17 @@
             "jpText": "それはちょうどいい！\r\nウマ娘のお嬢ちゃんにぴったりの靴があるよ。ほーら。",
             "enText": "That's just perfect! I've got the perfect shoes\nfor you, little Uma Musume. There you go.",
             "nextBlock": 12,
+            "origClipLength": 233,
+            "animData": [
+                {
+                    "origLen": 245,
+                    "pathId": -9115308263918856937
+                },
+                {
+                    "origLen": 252,
+                    "pathId": 2219482061317574636
+                }
+            ],
             "pathId": -678829042984021025,
             "blockIdx": 11
         },
@@ -129,6 +210,17 @@
             "jpText": "えー？　普通の靴はいらないよ～！\r\nわたしが探してるのは、すっごく速く走れる靴！",
             "enText": "Huh? I don't want ordinary shoes! What I'm looking\nfor are shoes that can run really fast!",
             "nextBlock": 13,
+            "origClipLength": 219,
+            "animData": [
+                {
+                    "origLen": 9,
+                    "pathId": 9074366572792395638
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -1176596158371841156
+                }
+            ],
             "pathId": 2235543994750924171,
             "blockIdx": 12
         },
@@ -138,6 +230,13 @@
             "jpText": "これがまさに“すっごく速く走れる靴”さ！\r\n今なら安くしておくよ？",
             "enText": "These are the very shoes that make you run so\nfast! I'll give you a discount right now.",
             "nextBlock": 14,
+            "origClipLength": 267,
+            "animData": [
+                {
+                    "origLen": 279,
+                    "pathId": 6978901547929153142
+                }
+            ],
             "pathId": -8123579090815922220,
             "blockIdx": 13
         },
@@ -147,6 +246,17 @@
             "jpText": "う～……ギリギリ買える……！\r\nホントのホントに速くなれる？",
             "enText": "Ummm… just in time to buy…!\nCan you get really, really fast?",
             "nextBlock": 15,
+            "origClipLength": 169,
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": 3438266178846121188
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -7880204282999043575
+                }
+            ],
             "pathId": 6097743016176648180,
             "blockIdx": 14
         },
@@ -156,6 +266,17 @@
             "jpText": "もちろん！　これさえあれば1着間違いなしだ！",
             "enText": "Of course! You can't go wrong with one of these!",
             "nextBlock": 16,
+            "origClipLength": 175,
+            "animData": [
+                {
+                    "origLen": 187,
+                    "pathId": 5588411149195930142
+                },
+                {
+                    "origLen": 194,
+                    "pathId": -6755858464827323479
+                }
+            ],
             "pathId": -354716688997080247,
             "blockIdx": 15
         },
@@ -165,11 +286,26 @@
             "jpText": "ホントのホントのホント！？\nうーん、高いけど……でも、よーしっ！",
             "enText": "Really, really, really, really, really! Hmm,\nit's expensive, but… but alright!",
             "nextBlock": 17,
+            "origClipLength": 210,
             "choices": [
                 {
                     "jpText": "ストップ！！！",
                     "enText": "Stop, stop, stop!",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -1740107743586799419
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 747985132501592356
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 5445065413655374253
                 }
             ],
             "pathId": -3040152518987097076,
@@ -181,6 +317,17 @@
             "jpText": "あれ？　トレーナー！",
             "enText": "Huh? Trainer!",
             "nextBlock": 18,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -6344535905389142045
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4189067041022107800
+                }
+            ],
             "pathId": 3412723542744810206,
             "blockIdx": 17
         },
@@ -190,11 +337,22 @@
             "jpText": "えーっ！？　あの速く走れる靴ってウソなの！？\r\n『1着間違いなし』って言ってたのに～！",
             "enText": "What? Those fast running shoes are a lie!\nYou said they'd be my first choice!",
             "nextBlock": 19,
+            "origClipLength": 214,
             "choices": [
                 {
                     "jpText": "見ててよかった……",
                     "enText": "Good to see…",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 6477928515100037094
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 7347764035098000092
                 }
             ],
             "pathId": 4058661258975437591,
@@ -206,11 +364,22 @@
             "jpText": "秘密の大作戦、失敗だよ～！\r\n今日で一気に速く走れるようになろうと思ってたのに！",
             "enText": "My secret mission, it's a failure~! I was going\nto be able to run faster all at once today!",
             "nextBlock": 20,
+            "origClipLength": 210,
             "choices": [
                 {
                     "jpText": "どうやって？",
                     "enText": "How?",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 183,
+                    "pathId": 8449276936597671616
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -5543867627566208017
                 }
             ],
             "pathId": 4380385160189480540,
@@ -222,6 +391,7 @@
             "jpText": "速く走れる靴とか、そういうので！",
             "enText": "Shoes that make you run faster, that kind of thing!",
             "nextBlock": 21,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "地道な練習以外に方法はないぞ",
@@ -234,6 +404,16 @@
                     "nextBlock": 21
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -9016427597272454257
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 306720764890240551
+                }
+            ],
             "pathId": -2877960679128004897,
             "blockIdx": 20
         },
@@ -243,11 +423,22 @@
             "jpText": "うー。もちろん練習もいっぱいするよ？\nでも、すぐに速くなりたかったの！",
             "enText": "Woo. Of course I'd practice a lot, right?\nBut I just wanted to get fast!",
             "nextBlock": 22,
+            "origClipLength": 195,
             "choices": [
                 {
                     "jpText": "理由を聞いてもいい？",
                     "enText": "Can I ask why?",
                     "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 8335494062855145602
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -6026790598367052627
                 }
             ],
             "pathId": -8124523813410056324,
@@ -259,6 +450,21 @@
             "jpText": "この前、トレーナーが記者の人にほめられたでしょ？\r\nなんかね、すっごくうれしかったんだ！",
             "enText": "The other day, my trainer was complimented by\na reporter, right? It made me really happy!",
             "nextBlock": 23,
+            "origClipLength": 199,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 5623124344734664069
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -4795719553178360051
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 3586604329670870879
+                }
+            ],
             "pathId": 6084928558030067630,
             "blockIdx": 22
         },
@@ -268,6 +474,17 @@
             "jpText": "わたしがいーっぱい元気に走れるようになってほめられてたから、\r\nわたしが1着をとったら、もっとほめてもらえるよね！",
             "enText": "They praised me for being able to run so vigorously, so they'll\npraise me even more if I win first place!",
             "nextBlock": 24,
+            "origClipLength": 246,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -1427986228255174472
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 219856285228908775
+                }
+            ],
             "pathId": -4145379570041052963,
             "blockIdx": 23
         },
@@ -277,6 +494,17 @@
             "jpText": "だから、なるべくすぐに1着になれるように、\r\nがんばって、びっくりさせようって思ったの！",
             "enText": "So I thought I'd try my best to surprise her so that I could be\nin first place as soon as possible!",
             "nextBlock": 25,
+            "origClipLength": 186,
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": -8962015257492694245
+                },
+                {
+                    "origLen": 184,
+                    "pathId": -2961492495368267570
+                }
+            ],
             "pathId": -901773182911420949,
             "blockIdx": 24
         },
@@ -286,6 +514,17 @@
             "jpText": "わたしは1着をとれたらうれしい！\r\nトレーナーもほめてもらえて、もっとうれしいもん！",
             "enText": "I'll be happy if I win first place! I'd be even\nhappier if my trainer complimented me!",
             "nextBlock": 26,
+            "origClipLength": 188,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 7873277284553768365
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6482122872876601445
+                }
+            ],
             "pathId": -3091006771795031828,
             "blockIdx": 25
         },
@@ -295,11 +534,18 @@
             "jpText": "明後日の努力をしてはいるが、ハルウララは真剣だ。\nトレーナーとして、その姿勢には胸を打たれる。",
             "enText": "Halulala is serious, though she is making an effort for the day\nafter tomorrow. As a trainer, I was struck by her attitude.",
             "nextBlock": 27,
+            "origClipLength": 106,
             "choices": [
                 {
                     "jpText": "やる気があるのはエライ！",
                     "enText": "It's great that you're motivated!",
                     "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": -9020994577880651930
                 }
             ],
             "pathId": -8649136073815067752,
@@ -311,11 +557,26 @@
             "jpText": "ホント！？　えっへへ♪　ほめられちゃった！\nじゃあ、来週こそは速くなれる靴を……。",
             "enText": "Really? Hehehe… I got a compliment! So, next week, I'm going\nto get shoes that will make me faster…",
             "nextBlock": 28,
+            "origClipLength": 191,
             "choices": [
                 {
                     "jpText": "でも、一緒に頑張りたいんだ",
                     "enText": "But I want us to stick together.",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 4417201881168367559
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1867733628130431631
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -564938799404658841
                 }
             ],
             "pathId": -683032333853936983,
@@ -327,11 +588,18 @@
             "jpText": "一緒に？",
             "enText": "Together?",
             "nextBlock": 29,
+            "origClipLength": 34,
             "choices": [
                 {
                     "jpText": "一緒に、1着になれる方法を考えよう",
                     "enText": "Together, we'll figure out a way to get you into one.",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 5634772070869450394
                 }
             ],
             "pathId": -8895273145574638162,
@@ -343,6 +611,17 @@
             "jpText": "……そっか。うん、そうだよね！\n最初からトレーナーに相談すればよかったんだ！",
             "enText": "… I see. Yeah, you're right! I should have\njust talked to my trainer from the start!",
             "nextBlock": 30,
+            "origClipLength": 183,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -4974050059176873439
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -2184772805274361205
+                }
+            ],
             "pathId": 6529759053357901626,
             "blockIdx": 29
         },
@@ -352,6 +631,21 @@
             "jpText": "よーしっ！　明日からまたトレーナーと一緒に、\nいっぱいトレーニングするぞーっ！",
             "enText": "All right! I'm going to work out\nwith my trainer again tomorrow!",
             "nextBlock": 31,
+            "origClipLength": 202,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 2295963088075565122
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -659701068777538265
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2138880495134485112
+                }
+            ],
             "pathId": -163968851754378367,
             "blockIdx": 30
         },
@@ -361,8 +655,10 @@
             "jpText": "意気揚々とトレセン学園へと走り出すハルウララ。\r\n彼女の想いを受け、1着への決意を新たにする1日となった。",
             "enText": "Halulala runs off to the Tracen Academy in high\nspirits. It was a day to take in her thoughts and\nrenew her determination to finish first.",
             "nextBlock": -1,
+            "origClipLength": 114,
             "pathId": -1471032320571143348,
             "blockIdx": 31
         }
-    ]
+    ],
+    "modified": 1669933745
 }

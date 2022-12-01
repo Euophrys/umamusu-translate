@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "47P3BXWBPLQHH5MJUJPJS73UPRFYU637",
     "type": "story",
     "storyId": "041021004",
@@ -11,6 +11,7 @@
             "jpText": "選抜レースが間近に迫ったある日のトレーニング後。\r\n話があると言ってタマモクロスを呼んだ……。",
             "enText": "After training on a day with the Selection Race \nlooming. I called out to Tamamo Cross since I \nwanted to talk to her about something…",
             "nextBlock": 2,
+            "origClipLength": 106,
             "pathId": 9115510740780687832,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "クールダウン、終わったで。\r\nほんで……話ってなんや？",
             "enText": "I'm done with my cooldown now. \nAnd… what did ya wanna talk about?",
             "nextBlock": 3,
+            "origClipLength": 136,
             "choices": [
                 {
                     "jpText": "選抜レースに向けて最後のアドバイスだ",
@@ -32,6 +34,12 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6033036751287107273
+                }
+            ],
             "pathId": 1510828702180257807,
             "blockIdx": 2
         },
@@ -41,6 +49,13 @@
             "jpText": "最後って……なんやそれ。どういう意味や？\r\nまさかアンタ、ウチがもう勝たれへんって――",
             "enText": "Last bit of… advice? Whadaya mean by that? \nDon't tell me, ya started ta think I can't win-",
             "nextBlock": 4,
+            "origClipLength": 310,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7451557544344670009
+                }
+            ],
             "pathId": 8456665462171560777,
             "blockIdx": 3
         },
@@ -50,11 +65,18 @@
             "jpText": "首を横に振り、それを否定する。自分の考えは真逆だ。\r\nタマモクロスなら勝てると信じて、最後だと言ったのだ。",
             "enText": "I shook my head, denying her words. It's the exact \nopposite. If it's Tamamo Cross, I believe she \ncan win, so in that way, it's the last.",
             "nextBlock": 5,
+            "origClipLength": 114,
             "choices": [
                 {
                     "jpText": "当日はレースを楽しもう",
                     "enText": "On the day of the race, make sure to have fun",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 402,
+                    "pathId": 564624651783007936
                 }
             ],
             "pathId": -615832446301815360,
@@ -66,11 +88,26 @@
             "jpText": "なっ……なに抜かしとんねん！　真剣勝負やぞ！\r\n楽しんで走る余裕なんて、あるわけないやろ！！",
             "enText": "W-… what the heck are ya sayin'?! It's a serious competition! \nThere's no way I've got th' leeway ta just have fun!!",
             "nextBlock": 6,
+            "origClipLength": 240,
             "choices": [
                 {
                     "jpText": "そんなことはない！",
                     "enText": "That's not true!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8115520187614771768
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 5951269149065745906
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 8251399015783783459
                 }
             ],
             "pathId": 5085656309717750845,
@@ -82,6 +119,13 @@
             "jpText": "んなっ――",
             "enText": "Wha-",
             "nextBlock": 7,
+            "origClipLength": 28,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -9182298029902051510
+                }
+            ],
             "pathId": -4006974643355037004,
             "blockIdx": 6
         },
@@ -91,6 +135,13 @@
             "jpText": "タマモクロスが何故、レースで本来の力を発揮できないのか。\r\nこれまでの彼女を思い返して気づいたことを、話した……。",
             "enText": "The reason that Tamamo Cross can't exert her full power, \nI explained to her my thoughts on why that might be…",
             "nextBlock": 8,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 3609524138185781362
+                }
+            ],
             "pathId": -5195320900218722598,
             "blockIdx": 7
         },
@@ -100,6 +151,17 @@
             "jpText": "はぁっ……はぁっ……はぁっ……！！\r\n勝つんや……！　絶対に、絶対に勝たな……！",
             "enText": "Haaa… haaa… haaa…!! \nGonna win…! For sure, gotta win…!",
             "nextBlock": 9,
+            "origClipLength": 187,
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": -7959794118951235303
+                },
+                {
+                    "origLen": 248,
+                    "pathId": 3777654455220673359
+                }
+            ],
             "pathId": 1060370003741129308,
             "blockIdx": 8
         },
@@ -109,6 +171,21 @@
             "jpText": "トレセン学園に通わしてくれた家族のためにも、\r\nウチは負けられへん！　勝たなあかんねん！　せやのに――",
             "enText": "'Cuz they helped me get ta Tracen Academy, I can't go on losin'! \nIt ain't good if I can't win! But even then-",
             "nextBlock": 10,
+            "origClipLength": 295,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3130449145752017186
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 3573834936510502236
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5002880486727293757
+                }
+            ],
             "pathId": -3076545145412584807,
             "blockIdx": 9
         },
@@ -118,6 +195,21 @@
             "jpText": "タマモクロスには、家族のために勝たなければならないという\r\n強い……強すぎる想いがある。",
             "enText": "Tamamo Cross' feelings, of wanting to win for the sake of her \nfamily are strong… maybe too strong.",
             "nextBlock": 11,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 193,
+                    "pathId": -7704143393362179650
+                },
+                {
+                    "origLen": 11,
+                    "pathId": -5076590137645925928
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -8617011925302044282
+                }
+            ],
             "pathId": 2788012363790505825,
             "blockIdx": 10
         },
@@ -127,6 +219,17 @@
             "jpText": "それが彼女の強固なモチベーションになっている一方で、\r\n本番の彼女の走りを強張らせ、視野を狭くしているのではないか。",
             "enText": "That's the main reason her motivation is so strong. Maybe that \ndesire to grow stronger has narrowed her field of view.",
             "nextBlock": 12,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 8195585937524792984
+                },
+                {
+                    "origLen": 178,
+                    "pathId": -6101887974505862000
+                }
+            ],
             "pathId": 8347156281721117277,
             "blockIdx": 11
         },
@@ -136,6 +239,7 @@
             "jpText": "だがその想いは、何よりも大事にしなければならない尊いものだ。\r\n故に自分は、彼女にこう伝える。その想いを抱きつつ――",
             "enText": "But those feelings are an irreplaceable, precious thing. \nTherefore, I told her this. Embrace those feelings and-",
             "nextBlock": 13,
+            "origClipLength": 120,
             "choices": [
                 {
                     "jpText": "レースで“白い稲妻”になるんだ",
@@ -148,6 +252,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 193,
+                    "pathId": 9013519954521705211
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 2001187914711837833
+                }
+            ],
             "pathId": 8793575571662190035,
             "blockIdx": 12
         },
@@ -157,6 +271,13 @@
             "jpText": "……！",
             "enText": "…!",
             "nextBlock": 14,
+            "origClipLength": 36,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 4178644067712840236
+                }
+            ],
             "pathId": -8243384251720120368,
             "blockIdx": 13
         },
@@ -166,6 +287,13 @@
             "jpText": "家族への想いと、走ることの楽しさ。その2つが合わされば、\r\nきっとタマモクロスは勝てる。それが自分の出した答えだった。",
             "enText": "The feelings towards her family, and the joy of \nrunning. With both of those, Tamamo Cross will \ndefinitely win. That's the answer I came to.",
             "nextBlock": 15,
+            "origClipLength": 121,
+            "animData": [
+                {
+                    "origLen": 193,
+                    "pathId": 5800045125803643830
+                }
+            ],
             "pathId": 2017057116992690510,
             "blockIdx": 14
         },
@@ -175,6 +303,7 @@
             "jpText": "……確かに言った。誰よりも楽しく速く走る白い稲妻、って……。\r\nせやけど……楽しんで走って……ホンマに勝てるんか……？",
             "enText": "…I did say that. Faster an' havin' more fun \nthan anyone, White Lightning… but… havin' \nfun while runnin'… can I really win…?",
             "nextBlock": 16,
+            "origClipLength": 550,
             "choices": [
                 {
                     "jpText": "勝てないだなんて、誰が決めたんだ？",
@@ -187,6 +316,16 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 505,
+                    "pathId": 5984034861816333832
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 6472926750112484604
+                }
+            ],
             "pathId": 2926173832035887471,
             "blockIdx": 15
         },
@@ -196,6 +335,17 @@
             "jpText": "――――",
             "enText": "—",
             "nextBlock": 17,
+            "origClipLength": 45,
+            "animData": [
+                {
+                    "origLen": 616,
+                    "pathId": 6822999304256590624
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -6919535220599612542
+                }
+            ],
             "pathId": 4993581734806539744,
             "blockIdx": 16
         },
@@ -205,6 +355,17 @@
             "jpText": "……ははっ。ホンマしょうもないな、ウチは。\r\nアンタに言われて、今、よ～～やく気づいたわ……。",
             "enText": "…Hahaa. I've been a real blockhead, haven't I? \nI jus' now, fiiinally realized it after ya said that…",
             "nextBlock": 18,
+            "origClipLength": 429,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 4475510061819961120
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -5331555672331482134
+                }
+            ],
             "pathId": 5169133701743013635,
             "blockIdx": 17
         },
@@ -214,6 +375,17 @@
             "jpText": "ウチの限界を決めつけてるんは……ウチ自身やったんやな。\r\n楽しんでる場合とちゃう、勝つことだけ考えなあかんと思って……。",
             "enText": "The one holdin' me back… was me, this whole \ntime. Thinkin' this wasn't a place ta be havin' \nfun, thinkin' only 'bout winnin'…",
             "nextBlock": 19,
+            "origClipLength": 328,
+            "animData": [
+                {
+                    "origLen": 232,
+                    "pathId": 9111903488533877495
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 6786577534211510532
+                }
+            ],
             "pathId": -8361633858499928824,
             "blockIdx": 18
         },
@@ -223,6 +395,17 @@
             "jpText": "けどホンマのウチは違う。\r\nホンマの“白い稲妻”は――",
             "enText": "But that ain't me. \nTh' real \"White Lightning\"-",
             "nextBlock": 20,
+            "origClipLength": 184,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -8090024776005494953
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7314817995316745818
+                }
+            ],
             "pathId": -4335629406003762086,
             "blockIdx": 19
         },
@@ -232,6 +415,25 @@
             "jpText": "うぉおおおおおおっ！！\r\nどやっ！！　ウチの走りはっ！！",
             "enText": "Uoooooooooooooo!! \nMy runnin'! Howzzat?!",
             "nextBlock": 21,
+            "origClipLength": 171,
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": 7173864226390156042
+                },
+                {
+                    "origLen": 11,
+                    "pathId": -9199292573797555446
+                },
+                {
+                    "origLen": 298,
+                    "pathId": -8792475791251103566
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 283985510240889797
+                }
+            ],
             "pathId": -5608747235242990884,
             "blockIdx": 20
         },
@@ -241,6 +443,13 @@
             "jpText": "ねぇね、かっこい～！",
             "enText": "Neene, you're so cool~!",
             "nextBlock": 22,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 298,
+                    "pathId": -8548024104114879020
+                }
+            ],
             "pathId": 5792385887556651982,
             "blockIdx": 21
         },
@@ -250,6 +459,13 @@
             "jpText": "タマはほんまに、めっっっちゃ楽しそうに走るなぁ！\r\n――よっ、“白い稲妻”！　日本一！",
             "enText": "Tama, yer really making it look like yer havin' fun! \n-Yo, \"White Lightning\"! Japan's best!",
             "nextBlock": 23,
+            "origClipLength": 228,
+            "animData": [
+                {
+                    "origLen": 298,
+                    "pathId": 8629879341691519781
+                }
+            ],
             "pathId": -6108427156317349887,
             "blockIdx": 22
         },
@@ -259,6 +475,7 @@
             "jpText": "……最後のアドバイス、しかと受け取ったで。\r\n選抜レース、楽しみにしててや。ウチも……楽しみにするわ！",
             "enText": "…That last bit 'a advice, I got it. Ya better be lookin' \nforward ta th' Selection Race. Me too… I'll be havin' a blast!",
             "nextBlock": 24,
+            "origClipLength": 381,
             "choices": [
                 {
                     "jpText": "ああ！",
@@ -271,6 +488,24 @@
                     "nextBlock": 24
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 8054285434650756269
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 6920337972996049218
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2518301827104436901
+                },
+                {
+                    "origLen": 11,
+                    "pathId": -5643878188598524134
+                }
+            ],
             "pathId": -3204647642338733869,
             "blockIdx": 23
         },
@@ -280,6 +515,13 @@
             "jpText": "そして迎えた、選抜レース当日――",
             "enText": "And so, the day of the Selection Race arrived-",
             "nextBlock": 25,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -4520230837077005833
+                }
+            ],
             "pathId": -7708447498824287657,
             "blockIdx": 24
         },
@@ -289,6 +531,7 @@
             "jpText": "――最終コーナーに差し掛かるも依然縦に伸びた展開っ！\r\n後ろの娘たちはここから間に合うのか！？",
             "enText": "-We're approaching the final corner and there \nhasn't been a change to the situation! Will \nthe girls in the back make it in time?!",
             "nextBlock": 26,
+            "origClipLength": 173,
             "pathId": -1163577193515537749,
             "blockIdx": 25
         },
@@ -298,6 +541,17 @@
             "jpText": "（――風の音。地面の感触。心臓の鼓動。\r\n全部がわかるこの感じ、なんか久々や）",
             "enText": "(-Th' sound 'a th' wind. Th' feel 'a th' ground. Th' beatin' 'a \nmy heart. It's a familiar feelin', an' it's been a while)",
             "nextBlock": 27,
+            "origClipLength": 291,
+            "animData": [
+                {
+                    "origLen": 346,
+                    "pathId": 8520154920086668161
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4157152783730329993
+                }
+            ],
             "pathId": 4867049877555125485,
             "blockIdx": 26
         },
@@ -307,6 +561,13 @@
             "jpText": "（勝つことばっか考えとったからやな――\r\n走るのが気持ちええってこと、忘れとったわ……！）",
             "enText": "(I spent all that time thinkin' 'bout nothin' but winnin'- \nI'd forgotten how good it feels ta just run…!)",
             "nextBlock": 28,
+            "origClipLength": 216,
+            "animData": [
+                {
+                    "origLen": 282,
+                    "pathId": -7271765776048793637
+                }
+            ],
             "pathId": -3815721808351500627,
             "blockIdx": 27
         },
@@ -316,6 +577,17 @@
             "jpText": "（ウズウズが止まれへん！　脚もまだ余裕がある……！\r\n全員見とれや……！　ここから一気にぶち抜いたるッ！）",
             "enText": "(This feelin' jus' won't stop! I still got plenty ta spare…! \nJus' watch me…! From here on, I'll show ya what I can do!)",
             "nextBlock": 29,
+            "origClipLength": 315,
+            "animData": [
+                {
+                    "origLen": 334,
+                    "pathId": 2740711206625306541
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8049243818997795384
+                }
+            ],
             "pathId": -5547901205930585623,
             "blockIdx": 28
         },
@@ -325,6 +597,13 @@
             "jpText": "――うぉおおおおおおおおッ！！！！",
             "enText": "-Uooooooooooo!!!!",
             "nextBlock": 30,
+            "origClipLength": 113,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 6123529135944322929
+                }
+            ],
             "pathId": -3409425045811352158,
             "blockIdx": 29
         },
@@ -334,6 +613,13 @@
             "jpText": "タマモクロス上がってきた！　後ろからタマモクロスっ！\r\nタマモクロスが一気に抜け出したーーッ！！",
             "enText": "Tamamo Cross is catching up! Coming up from behind it's Tamamo \nCross! In one big surge Tamamo Cross pulls ahead!!",
             "nextBlock": 31,
+            "origClipLength": 171,
+            "animData": [
+                {
+                    "origLen": 212,
+                    "pathId": 475657757118392250
+                }
+            ],
             "pathId": 7745665612035975376,
             "blockIdx": 30
         },
@@ -343,6 +629,13 @@
             "jpText": "先頭はタマモクロス！　タマモクロスですっ！\r\n凄まじい追い上げで、見事勝利を掴みましたーーっ！！",
             "enText": "Tamamo Cross is out in front! Tamamo Cross! After putting on such \ntremendous pressure, she magnificently grasps victory!!",
             "nextBlock": 32,
+            "origClipLength": 220,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -1398505007590133081
+                }
+            ],
             "pathId": -7423502505630462119,
             "blockIdx": 31
         },
@@ -352,6 +645,7 @@
             "jpText": "っしゃァっ！！　これが、ウチや！！\r\n“白い稲妻”、タマモクロスや！！",
             "enText": "Hell ya!! This is th' real me!! \nThe \"White Lightning\", Tamamo Cross!!",
             "nextBlock": 33,
+            "origClipLength": 235,
             "pathId": -2277877119022851530,
             "blockIdx": 32
         },
@@ -361,6 +655,7 @@
             "jpText": "……以前よりも随分と余裕のある走りだったわね。\r\nポテンシャルを見誤ったかしら。",
             "enText": "…looks like she had much more to spare this time around. \nI seem to have misjudged her potential.",
             "nextBlock": 34,
+            "origClipLength": 264,
             "pathId": 5302316772105119429,
             "blockIdx": 33
         },
@@ -370,6 +665,7 @@
             "jpText": "終盤のあの豪脚……\r\n小柄でパワー不足かと思っていたが、あなどれんな……。",
             "enText": "That powerful drive at the end… I thought she \nwouldn't have enough power in that small body, \nbut she's not to be taken lightly…",
             "nextBlock": 35,
+            "origClipLength": 245,
             "pathId": 4842827278129651973,
             "blockIdx": 34
         },
@@ -379,11 +675,26 @@
             "jpText": "――やったでやったでやったでぇ～～ッ！！\r\n見とったか、ウチの走り！",
             "enText": "-I did it, I did it I diiiiiid it! \nDid ya see tha' run?!",
             "nextBlock": 36,
+            "origClipLength": 164,
             "choices": [
                 {
                     "jpText": "よっ、“白い稲妻”！",
                     "enText": "Yo, \"White Lightning\"!",
                     "nextBlock": 36
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7587315445523254939
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -1018826488347515425
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 2999401796226914191
                 }
             ],
             "pathId": 6236327534425138103,
@@ -395,6 +706,7 @@
             "jpText": "おうよ！　これもアンタのおかげや！\r\nホンマに……ホンマに、ありがとうな！",
             "enText": "Got tha' right! 'sall thanks ta you! \nReally… really, thank ya! ",
             "nextBlock": 37,
+            "origClipLength": 254,
             "choices": [
                 {
                     "jpText": "君が頑張ったからだよ",
@@ -407,6 +719,16 @@
                     "nextBlock": 37
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": 8998321154359334500
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -2188693566582259046
+                }
+            ],
             "pathId": -7020957631480355277,
             "blockIdx": 36
         },
@@ -416,6 +738,13 @@
             "jpText": "へへっ――",
             "enText": "Hehe-",
             "nextBlock": 38,
+            "origClipLength": 47,
+            "animData": [
+                {
+                    "origLen": 447,
+                    "pathId": -8110646167044302526
+                }
+            ],
             "pathId": 9086587624100837816,
             "blockIdx": 37
         },
@@ -425,6 +754,13 @@
             "jpText": "……ウチな。選抜レース終わって、仮契約もなくなって、\r\nこれでまたフリーになったわけなんやけど……。",
             "enText": "…well, ya see. Now tha' th' Selection Race \nis over, our provisional contract is done, so \nI guess tha' makes me a free agent…",
             "nextBlock": 39,
+            "origClipLength": 354,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -2591825686750741881
+                }
+            ],
             "pathId": -4831452973567801152,
             "blockIdx": 38
         },
@@ -434,6 +770,7 @@
             "jpText": "……その。\r\nどうしても、ウチのことスカウトしてほしい人が――",
             "enText": "…so. If someone \nreally wanted ta scout me, I'd-",
             "nextBlock": 40,
+            "origClipLength": 246,
             "choices": [
                 {
                     "jpText": "改めて君をスカウトさせてほしい！",
@@ -446,6 +783,16 @@
                     "nextBlock": 40
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": -8658274401345679259
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -121874739938352966
+                }
+            ],
             "pathId": -5226947628960420911,
             "blockIdx": 39
         },
@@ -455,11 +802,26 @@
             "jpText": "――おんねん、ってコラァ！？　今ウチが話しとったやろが！\r\n順番ってもんがあるやろ！？　なんでそない食い気味やねん！",
             "enText": "-probably -Hey, C'mon!! I was still talkin' here! \nShouldn't ya wait yer turn?! Why th' heck are ya so eager?!",
             "nextBlock": 41,
+            "origClipLength": 269,
             "choices": [
                 {
                     "jpText": "正式契約したくて、つい！",
                     "enText": "I just really wanted a real contract!",
                     "nextBlock": 41
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 5396898665060674544
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 4645912865801219611
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -6301333373309234149
                 }
             ],
             "pathId": -5841997084315603557,
@@ -471,6 +833,13 @@
             "jpText": "素直かっ！！！！！",
             "enText": "Frank, ain't ya!!!!?",
             "nextBlock": 42,
+            "origClipLength": 46,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2224489212190764743
+                }
+            ],
             "pathId": 3300934899073572494,
             "blockIdx": 41
         },
@@ -480,6 +849,17 @@
             "jpText": "……っぷ。ふふっ、ははははっ！\r\nだーーーーっはっはっは！！",
             "enText": "…pu. Fufuu, hahahahaa! \nDAAAAA HAA HAA HAA!!",
             "nextBlock": 43,
+            "origClipLength": 186,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -6319608209349214722
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -917637296506554103
+                }
+            ],
             "pathId": -8487047504972218611,
             "blockIdx": 42
         },
@@ -489,6 +869,17 @@
             "jpText": "なんやもう、アホらしぃわ！\r\n緊張したウチがアホみたいやないか！　ったく――",
             "enText": "What th' heck, this is so dumb! \nI look like an idiot gettin' so nervous like tha'! Geez-",
             "nextBlock": 44,
+            "origClipLength": 210,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 2705493049632558776
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 6354249501926290790
+                }
+            ],
             "pathId": 5302997997466795648,
             "blockIdx": 43
         },
@@ -498,6 +889,13 @@
             "jpText": "改めて……これからもよろしゅうな。\r\n――――トレーナー！",
             "enText": "Once more… I'll be relyin' on ya again from now on. \n—Trainer!",
             "nextBlock": 45,
+            "origClipLength": 168,
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": 4968387286243398079
+                }
+            ],
             "pathId": -2340309462086906088,
             "blockIdx": 44
         },
@@ -507,8 +905,10 @@
             "jpText": "差し出された彼女の手を取り、固く握手を交わす。\r\nタマモクロスとの日々が、ここから始まる――！！",
             "enText": "I grasped the hand she held out and we shook firmly. \nThe days spent with Tamamo Cross, start now-!",
             "nextBlock": -1,
+            "origClipLength": 107,
             "pathId": 7575342634502954963,
             "blockIdx": 45
         }
-    ]
+    ],
+    "modified": 1669933798
 }
