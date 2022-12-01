@@ -98,6 +98,7 @@ subtransfer | Imports ASS, SRT or TXT subtitle files into *Translation Files*. A
 edit_story | GUI for editing *Translation Files* by [KevinVG207](https://github.com/KevinVG207).
 manage | Small tool to manage localify's data for translating static strings. Requires use of [umamusume-localify][].
 common/helpers | Not scripts. Hold shared functions and data for other scripts.
+story-to-prose | Converts the *Translation Files* to .txt files for reading purposes
 
 
 # Contribute
