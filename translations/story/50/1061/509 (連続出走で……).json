@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "3ZYRKOSTDKAZS4YH6CPFNHBIDXEOMEP4",
     "type": "story",
     "storyId": "501061509",
@@ -11,6 +11,7 @@
             "jpText": "トレーニングの最中、キングヘイローの\r\n動きがどうも良くなかった。",
             "enText": "During training, King Halo's movements \nwere not very good.",
             "nextBlock": 2,
+            "origClipLength": 66,
             "pathId": -4951817044310940485,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "はあ……はあ……っ！",
             "enText": "Haha… haha…!",
             "nextBlock": 3,
+            "origClipLength": 126,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 2750023183323319376
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 5451622371958690804
+                }
+            ],
             "pathId": -5007090240233500489,
             "blockIdx": 2
         },
@@ -29,6 +41,17 @@
             "jpText": "く……っ！\r\nどうして……途中で息が……っ！",
             "enText": "I can't…! Why did… I lose my \nbreath in the middle of…!",
             "nextBlock": 4,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 5810982094934599968
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -2819562334556736975
+                }
+            ],
             "pathId": 1921910977744515594,
             "blockIdx": 3
         },
@@ -38,11 +61,22 @@
             "jpText": "こんな軟弱な走り……\r\nキングの名にふさわしくないのに……！",
             "enText": "Such a soft run… when you're \nnot worthy of the name King!",
             "nextBlock": 5,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "大丈夫？",
                     "enText": "Great man?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 6645805644634000595
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 6904730386145163231
                 }
             ],
             "pathId": -3463088988227384756,
@@ -54,6 +88,17 @@
             "jpText": "……え、えぇ、平気よ。\r\n別に……問題ないわ。",
             "enText": "… Yeah, yeah, I'm fine. There's \nnothing wrong with…",
             "nextBlock": 6,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -2628340539275005227
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6809093217442438234
+                }
+            ],
             "pathId": -8951128911684308943,
             "blockIdx": 5
         },
@@ -63,6 +108,17 @@
             "jpText": "一流がこの程度でへばるなんて、\r\nきっと何かの間違いに決まってるもの……。",
             "enText": "It must be a mistake for a first-class person \nto be so weak at this level…",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -6341747216128410276
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -1050591060259326452
+                }
+            ],
             "pathId": 6500091774785313690,
             "blockIdx": 6
         },
@@ -72,6 +128,17 @@
             "jpText": "今度こそ、力強い走りを見せてあげる――！",
             "enText": "This time, I'll show you a powerful run—!",
             "nextBlock": 8,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 3777112087209950925
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -9143833721995265436
+                }
+            ],
             "pathId": 2793383096313018665,
             "blockIdx": 7
         },
@@ -81,6 +148,17 @@
             "jpText": "――しかし、その後もキングヘイローは\r\n精彩を欠いたままだった。",
             "enText": "—However, King Halo remained \nlackluster after that.",
             "nextBlock": 9,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 1371043132534239794
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -3330107222618190808
+                }
+            ],
             "pathId": 5954865716136022227,
             "blockIdx": 8
         },
@@ -90,8 +168,20 @@
             "jpText": "度重なるレースで疲労が溜まっているの\r\nかもしれない。今後のスケジュールを\n見直す必要がありそうだ……。",
             "enText": "She may be fatigued from repeated \nraces. I think I need to review my \nschedule from now on…",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4541310947374689954
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -289393636406830450
+                }
+            ],
             "pathId": -1685934290374991094,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945933
 }

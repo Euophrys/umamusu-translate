@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ZFMAESUFVFVMBLMJ56NEXXOE4EINGDHF",
     "type": "story",
     "storyId": "801024002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、買い物にやって来ると……。",
             "enText": "One day, when you come to do your \nshopping, you will find…",
             "nextBlock": 2,
+            "origClipLength": 70,
             "pathId": 6093290620783374480,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "え～カワイイ～♪　こっちは大人っぽすぎ？\r\nでも逆にギャップでカワイイ？",
             "enText": "Is this one too mature? But on the other \nhand, is it cute because of the gap?",
             "nextBlock": 3,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -3942198929095673058
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -4566036088990530138
+                }
+            ],
             "pathId": -7773374353059676549,
             "blockIdx": 2
         },
@@ -29,6 +41,7 @@
             "jpText": "こんな時は～……キミっ！\r\nマヤと一緒に悩んで悩んで～！",
             "enText": "In times like these -… Kimi! With \nMaya, you're in trouble!",
             "nextBlock": 4,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "お、俺？",
@@ -41,6 +54,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 255943701752483707
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -7409553995147034465
+                }
+            ],
             "pathId": -8511006734114612905,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "うんっ！　今ね、セール中なの♪\r\nカワイイ服、いっぱい買うんだ～♪",
             "enText": "Yes! We're having a sale right now… We're \ngoing to buy lots of cute clothes…",
             "nextBlock": 5,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -2354099526922353363
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 1767481994833036749
+                }
+            ],
             "pathId": 9119065542090696533,
             "blockIdx": 4
         },
@@ -59,6 +93,17 @@
             "jpText": "でねでね、迷ってるんだよ～！\r\n今月お小遣い、キツキツだしっ！",
             "enText": "But, but, I'm not sure! I'm on a bit of a \ntight budget this month!",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -7589878354307246565
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7364658717152067867
+                }
+            ],
             "pathId": -7195987428203162353,
             "blockIdx": 5
         },
@@ -68,6 +113,17 @@
             "jpText": "こっちは最新アイテムをワンポイントで\r\n使ってて、まさにワザアリコーデっ！",
             "enText": "And this one is all about using the latest \nitems in a very clever way!",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 3312474945949807276
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 34102400750220879
+                }
+            ],
             "pathId": 4607498572344334981,
             "blockIdx": 6
         },
@@ -77,6 +133,17 @@
             "jpText": "こっちはカワイイのにすっごく動きやすくて、\r\nキノービエグいってショップのお姉さんが！",
             "enText": "This one is cute, but very mobile, and the \nlady in the shop says it's kinobie-egg!",
             "nextBlock": 8,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -8212927157986292376
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 4792172440552008639
+                }
+            ],
             "pathId": -4482087309723956236,
             "blockIdx": 7
         },
@@ -86,6 +153,7 @@
             "jpText": "どっちがマヤに似合うかな～？",
             "enText": "Which one will suit Maya better?",
             "nextBlock": 9,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "最新の技有りコーデ！",
@@ -98,6 +166,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 5940092095994821448
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -5234366795829739018
+                }
+            ],
             "pathId": -8777201164037622710,
             "blockIdx": 8
         },
@@ -107,6 +185,17 @@
             "jpText": "だよね～！　マヤもそう思ってた！\r\n流行は前の方にいないとねっ♪",
             "enText": "I know, right! Maya thought so too! You have \nto be at the front to be in fashion.",
             "nextBlock": 10,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 7946260329821534237
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 6845766491081696689
+                }
+            ],
             "pathId": -6441463322809699989,
             "blockIdx": 9
         },
@@ -116,6 +205,17 @@
             "jpText": "ありがとっ♪",
             "enText": "Thank you",
             "nextBlock": 11,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -2696259337988402551
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 8268138899072748201
+                }
+            ],
             "pathId": -91191818635975647,
             "blockIdx": 10
         },
@@ -125,6 +225,17 @@
             "jpText": "店員さーん、すみませーん！",
             "enText": "Excuse me, waitress!",
             "nextBlock": 12,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -338673570414387046
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -8924110330515981069
+                }
+            ],
             "pathId": -4978023613385805070,
             "blockIdx": 11
         },
@@ -134,6 +245,7 @@
             "jpText": "常に前を狙うマヤノトップガンの姿勢には、\r\n学ぶべきところもあるように思えた。",
             "enText": "Mayanotopegan's determination \nto stay in front of the pack was \nsomething to learn from.",
             "nextBlock": -1,
+            "origClipLength": 70,
             "pathId": -5538131627473398407,
             "blockIdx": 12
         },
@@ -143,6 +255,21 @@
             "jpText": "わかる～！　動きやすい方が疲れないから\r\n遊びとか、いっぱい楽しめるもん♪",
             "enText": "I know what you mean! The more mobile \nyou are, the less tired you are and \nthe more fun you can have.",
             "nextBlock": 14,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -3390195117607789310
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 2858235685684561239
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 572371341602668806
+                }
+            ],
             "pathId": 3959171964540731413,
             "blockIdx": 13
         },
@@ -152,6 +279,17 @@
             "jpText": "こっちに決ーめた！\r\nよーし、買って来ようっと♪",
             "enText": "I've decided! All right, \nlet's go and get some.",
             "nextBlock": 15,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 3041864904598565848
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -6061090020610342410
+                }
+            ],
             "pathId": 1762592143733838699,
             "blockIdx": 14
         },
@@ -161,8 +299,20 @@
             "jpText": "店員さぁーん、お願いしまーっす！",
             "enText": "Shop assistant, please!",
             "nextBlock": -1,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -743554077865814126
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 181947903251025779
+                }
+            ],
             "pathId": -5081961916389546632,
             "blockIdx": 15
         }
-    ]
+    ],
+    "modified": 1669945954
 }

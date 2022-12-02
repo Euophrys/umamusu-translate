@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "I6ZBQO6NPYFQEUCF67MGDTHHKPMN3ISO",
     "type": "story",
     "storyId": "501004415",
@@ -11,6 +11,17 @@
             "jpText": "グラスワンダーと競い合う、\r\n『安田記念』の当日がやってきた。",
             "enText": "The day of the \"Yasuda Kinen,\" the race\nagainst Glass Wonder, has arrived.",
             "nextBlock": 2,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -7144770632999363751
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6936735088961981562
+                }
+            ],
             "pathId": 9156862141014603331,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "立派に成長した後輩との、待望のレース。\r\nマルゼンスキーは意気込んで\n彼女との勝負に向かっていった。",
             "enText": "It was a long-awaited race with a junior\nwho had grown up to be a great competitor.\nMaruzensky went into the race against her\nwith great enthusiasm.",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -7128486568861689550
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 5240642783154182716
+                }
+            ],
             "pathId": 1092833245304339320,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944910
 }

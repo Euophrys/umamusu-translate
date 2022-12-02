@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "3WSW5EAYQ6ERGXTCYOPKAB7I2AENHVE4",
     "type": "story",
     "storyId": "501041428",
@@ -11,6 +11,17 @@
             "jpText": "3600m走破に向けて\r\nサクラバクシンオーは完璧な\nスタートダッシュを決めた。",
             "enText": "Sakura Bakushin O made a perfect\nstart to the 3600m race.",
             "nextBlock": 2,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 2156641518935808898
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 8167223040858932037
+                }
+            ],
             "pathId": -3508254490579232696,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "残す距離は2400m！",
             "enText": "Only 2400 meters left!",
             "nextBlock": 3,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -2412826388789536708
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -5152889350181518113
+                }
+            ],
             "pathId": 2772239816683358317,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "厳しい戦いは続くが、\r\nそれでも負けられないと……次のレース、\n『CBC賞』へ向けてバクシンする！",
             "enText": "It's going to be a tough fight, but we're\nnot going to let that stop us from going to\nthe next race at… the CBC Awards!",
             "nextBlock": -1,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -766926089728760841
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -6856781410699780117
+                }
+            ],
             "pathId": 8428720841071226254,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945712
 }

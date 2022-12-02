@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "HGKXF653NHANRF4XW3GIN2G7UEW3TLM4",
     "type": "story",
     "storyId": "801001002",
@@ -11,6 +11,13 @@
             "jpText": "ある日のトレーニング前……。",
             "enText": "One day before training…",
             "nextBlock": 2,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 7047479126297021960
+                }
+            ],
             "pathId": 1810353455663508818,
             "blockIdx": 1
         },
@@ -20,11 +27,22 @@
             "jpText": "どちらにしようかな♪\r\nなのなのなすびの……。",
             "enText": "Which one shall it be…",
             "nextBlock": 3,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "なのなの？",
                     "enText": "What is it?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 1186842317829015675
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -9180005831764934401
                 }
             ],
             "pathId": -5528046333235703809,
@@ -36,6 +54,17 @@
             "jpText": "あわわっ！？　な、なんでもないです！",
             "enText": "Aww! Oh, it's nothing!",
             "nextBlock": 4,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -6124737656560161394
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 4984756358096508931
+                }
+            ],
             "pathId": 6053569246301674685,
             "blockIdx": 3
         },
@@ -45,6 +74,17 @@
             "jpText": "……その、今日はお休みなんで、\r\nなにしようかなーって考えてたんです。",
             "enText": "… Well, I've got the day off today, so I was \nwondering what I should do.",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -8283902810361082603
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7594364649460025610
+                }
+            ],
             "pathId": 4931760326655452745,
             "blockIdx": 4
         },
@@ -54,6 +94,17 @@
             "jpText": "そしたら、やりたいことを\r\nどんどん思いついちゃって～。",
             "enText": "Then I started to think of all \nthe things I wanted to do.",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -465587243077238360
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3530224423040059379
+                }
+            ],
             "pathId": -5816395488345148637,
             "blockIdx": 5
         },
@@ -63,6 +114,17 @@
             "jpText": "美味しいものを食べに行こうかなーとか、\r\nやっぱり走った方がいいかなーとか……。",
             "enText": "I'm thinking of going out for a nice meal, \nor maybe I should just go for a run…",
             "nextBlock": 7,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -4405370348333663868
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 217221593544106224
+                }
+            ],
             "pathId": 2076563761034700538,
             "blockIdx": 6
         },
@@ -72,6 +134,17 @@
             "jpText": "北海道じゃ、お休みの日に行ける場所なんて、\r\n近くの牧場くらいだったので……えへへ。",
             "enText": "In Hokkaido, the only place I could go on a \nday off was a nearby farm… Ehehe.",
             "nextBlock": 8,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 4868194057458037202
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -710156312797145912
+                }
+            ],
             "pathId": -3753732536038152604,
             "blockIdx": 7
         },
@@ -81,6 +154,7 @@
             "jpText": "そうだ、よかったらアドバイスを\r\nもらえませんか？",
             "enText": "Yes, I could do with some advice \nif you don't mind.",
             "nextBlock": 9,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "美味しいものを食べるべきだ",
@@ -96,6 +170,17 @@
                     "jpText": "思いついたところ全部に行こう！",
                     "enText": "Let's go to all the places we can think of!",
                     "nextBlock": 13
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -1591868894927217500
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4741209488411471447
                 }
             ],
             "pathId": 5516330083536304794,
@@ -107,6 +192,7 @@
             "jpText": "そうだ、よかったらアドバイスを\r\nもらえませんか？",
             "enText": "Yes, I could do with some advice \nif you don't mind.",
             "nextBlock": 10,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "美味しいものを食べるべきだ",
@@ -124,6 +210,17 @@
                     "nextBlock": 13
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 9055761197810955019
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 1469288496193374427
+                }
+            ],
             "pathId": -3547363846529212776,
             "blockIdx": 9
         },
@@ -133,6 +230,17 @@
             "jpText": "ですよね！　よーし、街に行って、\r\nいっぱい食べるぞー！",
             "enText": "That's right! All right, let's \ngo to town and eat a lot!",
             "nextBlock": 11,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 1067338200027001723
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -125462259734614226
+                }
+            ],
             "pathId": -4051296650110553013,
             "blockIdx": 10
         },
@@ -142,6 +250,17 @@
             "jpText": "アドバイスありがとうございました！\r\nうふふ、なにから食べようかなぁ……。",
             "enText": "Thanks for the advice! Mmmm, \nwhat should I eat first…?",
             "nextBlock": 12,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -8251743858343210483
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4345516321745176742
+                }
+            ],
             "pathId": 1721708760035619070,
             "blockIdx": 11
         },
@@ -151,6 +270,17 @@
             "jpText": "ハンバーグかラーメンか、\r\nどちらにしようかな、なのなのなすびの――",
             "enText": "Hamburger steak or ramen, \nwhich should I choose?",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 6327292388669727150
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 4698951487043724716
+                }
+            ],
             "pathId": 2000191197276102670,
             "blockIdx": 12
         },
@@ -160,6 +290,17 @@
             "jpText": "おお、なるほどです！　そっかー、\r\n都会だとそんな事も出来ちゃうんですね！",
             "enText": "Oh, I see! Well, you can \ndo that in the city!",
             "nextBlock": 14,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 6782032976561456109
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7256605158925645250
+                }
+            ],
             "pathId": -8930697556670231884,
             "blockIdx": 13
         },
@@ -169,6 +310,17 @@
             "jpText": "あっちだと、遊ぶ場所と場所が\r\nすっごく離れてたので……あははっ！",
             "enText": "Over there, the places to play were so far \naway from each other… Haha!",
             "nextBlock": 15,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -2007846922511613358
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 6747290813867069382
+                }
+            ],
             "pathId": 141592041042706557,
             "blockIdx": 14
         },
@@ -178,6 +330,17 @@
             "jpText": "おっと！　迷ってる場合じゃないですよね。\r\n時間がもったいないですからっ！",
             "enText": "Oops! This is not the time to be lost, is \nit? It's a waste of time!",
             "nextBlock": 16,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 3858995393017102420
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7457846422638701645
+                }
+            ],
             "pathId": 4421481012187931684,
             "blockIdx": 15
         },
@@ -187,6 +350,17 @@
             "jpText": "よーし、がんばって全部回るぞー！\r\nアドバイスありがとうございましたー！",
             "enText": "Alright, I'll do my best to get around! \nThank you for your advice!",
             "nextBlock": 17,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -1557380104989258983
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -5060608923240193173
+                }
+            ],
             "pathId": -263928278099711125,
             "blockIdx": 16
         },
@@ -196,8 +370,20 @@
             "jpText": "そう言ってスペシャルウィークは、\r\n元気に走り去って行った。",
             "enText": "With that, Special Week rode \naway in high spirits.",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 3778628025880285863
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 3320798217506610289
+                }
+            ],
             "pathId": 6158055522122871039,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669945945
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DFR3IDWCDBB7ZXEEGF4WSUU2KVYL3TRS",
     "type": "story",
     "storyId": "501050421",
@@ -11,6 +11,17 @@
             "jpText": "激戦の末、見事『日本ダービー』を制した\nナリタタイシンだったが、その消耗は激しく、\nレース後に倒れてしまう。",
             "enText": "After a fierce battle, Narita Taishin won the \n\"Japan Derby,\" but she was so exhausted that \nshe collapsed after the race.",
             "nextBlock": 2,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 167,
+                    "pathId": 6689649183840892490
+                },
+                {
+                    "origLen": 205,
+                    "pathId": -7147584209060928740
+                }
+            ],
             "pathId": -4803657496208483313,
             "blockIdx": 1
         },
@@ -20,6 +31,37 @@
             "jpText": "その後、見舞いに訪れたウイニングチケット、\nビワハヤヒデは彼女の無事に安堵し――",
             "enText": "Later, Winning Chickets and Biwa Hayahide, \nwho came to visit her, were relieved to see \nher safe and sound.",
             "nextBlock": 3,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 5197514896652539792
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 8548752672251541392
+                },
+                {
+                    "origLen": 168,
+                    "pathId": -8863876221876552344
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 447827330463333991
+                },
+                {
+                    "origLen": 202,
+                    "pathId": 7355430736852228634
+                },
+                {
+                    "origLen": 199,
+                    "pathId": -742662726231973398
+                },
+                {
+                    "origLen": 174,
+                    "pathId": 4881913694643065449
+                }
+            ],
             "pathId": 8099455482838744925,
             "blockIdx": 2
         },
@@ -29,10 +71,33 @@
             "jpText": "次の舞台――三冠路線の最終戦\n『菊花賞』こそは自分が勝つと宣言し、\n去っていく。",
             "enText": "She leaves, declaring that she will win the \nnext and final race of the Triple Crown, the \nChrysanthemum Sho (Chrysanthemum Sho).",
             "nextBlock": 4,
+            "origClipLength": 97,
             "coloredText": [
                 {
                     "jpText": "菊花賞",
                     "enText": "Chrysanthemum Festival (the 9th day \nof the 9th lunar month) (one of the \nfive annual festivals)"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": 511869072659641892
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -2101143260490981322
+                },
+                {
+                    "origLen": 202,
+                    "pathId": 3959544001004157109
+                },
+                {
+                    "origLen": 199,
+                    "pathId": -5032828562372508051
+                },
+                {
+                    "origLen": 174,
+                    "pathId": -9175305864407664775
                 }
             ],
             "pathId": 3867440087893480388,
@@ -44,8 +109,32 @@
             "jpText": "2人が見せた真っ直ぐな背中は\nナリタタイシンにとって\n非常に眩しく映ったのだった。",
             "enText": "The straight backs of these two \nmen dazzled Narita Taishin.",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -8703000486229595096
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -2182143770551694276
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -7906084701345696731
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -1043729673974680138
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 3043756705567424112
+                }
+            ],
             "pathId": 3537627586556058336,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945807
 }

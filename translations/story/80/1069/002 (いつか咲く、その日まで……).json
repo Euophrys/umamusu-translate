@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OKO2IFZBDXTACOGJKNVQKSFD74DW4OGG",
     "type": "story",
     "storyId": "801069002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、河川敷を歩いていると――",
             "enText": "One day, I was walking along the riverbed.",
             "nextBlock": 2,
+            "origClipLength": 65,
             "pathId": -8888867857733567402,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ふぅ……！\r\n少し休憩したら、もうひと走りしないと！",
             "enText": "Phew…! I need to take a short break \nand then go for another run!",
             "nextBlock": 3,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "練習熱心だな",
@@ -32,6 +34,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -2788522125400917724
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6166196243893418679
+                }
+            ],
             "pathId": -4396993672261616802,
             "blockIdx": 2
         },
@@ -41,6 +53,17 @@
             "jpText": "あ、こんにちは。\r\nたしか学園のトレーナーさんでしたよね。",
             "enText": "Oh, hello. You are the trainer \nof the school, aren't you?",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 2600656376146461004
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 6212763444776055039
+                }
+            ],
             "pathId": -37381326589390545,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "お褒めに預かり光栄です！\r\nですが、このくらいまだまだです……。",
             "enText": "I'm flattered by your praise! But that's \nabout as good as it gets…",
             "nextBlock": 5,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 3374888607228384861
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5819702072422256352
+                }
+            ],
             "pathId": -1870786025968513797,
             "blockIdx": 4
         },
@@ -59,11 +93,22 @@
             "jpText": "憧れの人に追いつくためには、\r\nもっと頑張らないといけませんので！",
             "enText": "If I want to catch up with the people I \nadmire, I'll have to work even harder!",
             "nextBlock": 6,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "憧れの人？",
                     "enText": "An admirer?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -1632435053117059949
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 2712302655429656801
                 }
             ],
             "pathId": 3341249750551455352,
@@ -75,6 +120,21 @@
             "jpText": "マルゼンさん……マルゼンスキーさんです！",
             "enText": "It's Marzen-san… Marzensky-san!",
             "nextBlock": 7,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 8324347732756717140
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 6883095396501648891
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -3549960380848792562
+                }
+            ],
             "pathId": 2779040284140902064,
             "blockIdx": 6
         },
@@ -84,6 +144,17 @@
             "jpText": "とっても速くて、オシャレでカッコよくて\r\n車の運転もお上手で、それでいて優しくて。",
             "enText": "She is very fast, stylish, good-looking, a \ngood driver, but also kind.",
             "nextBlock": 8,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -7754158321124735747
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 234285515977889150
+                }
+            ],
             "pathId": 1626362900166008151,
             "blockIdx": 7
         },
@@ -93,11 +164,22 @@
             "jpText": "まさにイケイケの撫子！\r\n私の憧れの存在ですっ！",
             "enText": "She's a real stroker! She's my dream girl!",
             "nextBlock": 9,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "（イケイケの撫子……！？）",
                     "enText": "(Icky Stroker…!)",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -504790752925829347
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 47042944085249547
                 }
             ],
             "pathId": -7076010532195928929,
@@ -109,6 +191,17 @@
             "jpText": "とにかくもう――\r\nすっっっごい方なんです、マルゼンさんは！",
             "enText": "Anyway, she's an amazing man, Ms. Marzen!",
             "nextBlock": 10,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -867887417616240048
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 2311443439402189020
+                }
+            ],
             "pathId": -3058192328340326749,
             "blockIdx": 9
         },
@@ -118,6 +211,7 @@
             "jpText": "あぁ……私もいつかあんな素敵な\r\nウマ娘になれたらなぁ……。",
             "enText": "Oh… I hope one day I can be such \na wonderful UmaMusume…",
             "nextBlock": 11,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "自分らしさも大事かと",
@@ -130,6 +224,16 @@
                     "nextBlock": 18
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 1686759673824229131
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -2246201964223228212
+                }
+            ],
             "pathId": 4931015215269625646,
             "blockIdx": 10
         },
@@ -139,6 +243,17 @@
             "jpText": "はぅ、そうですね……。",
             "enText": "Huh, yes…",
             "nextBlock": 12,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -883797967367563879
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -8935601313695578137
+                }
+            ],
             "pathId": -1925551873706723441,
             "blockIdx": 11
         },
@@ -148,6 +263,21 @@
             "jpText": "どんなに頑張っても、私は、\r\nマルゼンさんにはなれません。",
             "enText": "No matter how hard I try, I'll \nnever be Marzen-san.",
             "nextBlock": 13,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 5880259942819910114
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3794040700328126699
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 2749648648031367433
+                }
+            ],
             "pathId": -8905540114217656603,
             "blockIdx": 12
         },
@@ -157,6 +287,17 @@
             "jpText": "いつの世も、淡き想いは、\r\n夢と現実の狭間で、揺れ吹雪くもの……。",
             "enText": "In every generation, the faintest thoughts \nare blown between dreams and reality…",
             "nextBlock": 14,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 1078215989633182543
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 2953721651861719042
+                }
+            ],
             "pathId": -4050731185952668906,
             "blockIdx": 13
         },
@@ -166,6 +307,17 @@
             "jpText": "でも、同じ舞台の上に立つことなら、\r\nきっと……叶うと思うんです。",
             "enText": "But if we are on the same stage, \nI'm sure … will come true.",
             "nextBlock": 15,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 6155845941669534402
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -105548241552265028
+                }
+            ],
             "pathId": -2410602298417169188,
             "blockIdx": 14
         },
@@ -175,11 +327,22 @@
             "jpText": "自分らしく、無理しすぎないくらいに\r\nコツコツ頑張って、芽吹きたいと思います。",
             "enText": "I want to be my own person, not \nto push myself too hard, but \nto work hard and sprout.",
             "nextBlock": 16,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "応援してる！",
                     "enText": "We're behind you!",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -3060223975622655614
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 6433817401326396000
                 }
             ],
             "pathId": -3309092827335749982,
@@ -191,6 +354,17 @@
             "jpText": "えへへ、ありがとうございます。\r\nなんだか勇気が湧いてきました！",
             "enText": "Ehehe, thank you very much. You've \ngiven me some courage!",
             "nextBlock": 17,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -3582852279822580826
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 9019214116088230149
+                }
+            ],
             "pathId": 7961567711265922077,
             "blockIdx": 16
         },
@@ -200,6 +374,17 @@
             "jpText": "よし、休憩終わり。\r\nもうひと走りしてきますね！",
             "enText": "OK, break's over. I think \nI'll go for another run!",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -9087251614323072163
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 1870019309585696546
+                }
+            ],
             "pathId": -6117024198367554531,
             "blockIdx": 17
         },
@@ -209,6 +394,17 @@
             "jpText": "ありがとうございます。そう仰って\r\n頂けますと、勇気が湧いてきます！",
             "enText": "Thank you very much. That's \nvery encouraging!",
             "nextBlock": 19,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 3631582190446809422
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 7008245082464815047
+                }
+            ],
             "pathId": -1148126273029895834,
             "blockIdx": 18
         },
@@ -218,6 +414,17 @@
             "jpText": "ですが、マルゼンさんは遠い彼方の存在。\r\n容易には追いつけないでしょう……。",
             "enText": "But Marzen is a long way off. It's not going \nto be easy to catch up with her…",
             "nextBlock": 20,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 9121941098421915996
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -3205421183586776601
+                }
+            ],
             "pathId": 2814543525116593621,
             "blockIdx": 19
         },
@@ -227,6 +434,21 @@
             "jpText": "けど、同じ舞台の上になら一緒に\r\n立つことができると、そう信じております。",
             "enText": "But we believe that we can stand \ntogether on the same stage.",
             "nextBlock": 21,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -6181595920538047840
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -3874033777022702098
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 3801029724820755422
+                }
+            ],
             "pathId": -2406095530260874335,
             "blockIdx": 20
         },
@@ -236,6 +458,17 @@
             "jpText": "今はまだ小さな蕾かもしれませんが、\r\n毎日コツコツと励んで……。",
             "enText": "It may only be a tiny bud at the \nmoment, but we're working hard every \nday to make it happen…",
             "nextBlock": 22,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 244,
+                    "pathId": -376565180398219467
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6072634581725152539
+                }
+            ],
             "pathId": -6481901531110176911,
             "blockIdx": 21
         },
@@ -245,6 +478,17 @@
             "jpText": "春に咲く桜のように、いつかこの想いも\r\n花開かせてみせますから！",
             "enText": "Like the cherry blossoms in spring, one day \nI will make this love bloom!",
             "nextBlock": 23,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 7033905810103133952
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5670898703549945566
+                }
+            ],
             "pathId": -3694412077388981255,
             "blockIdx": 22
         },
@@ -254,8 +498,20 @@
             "jpText": "よし、休憩終わり。\r\nもうひと走りしてきますね！",
             "enText": "OK, break's over. I think \nI'll go for another run!",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2747872022066166549
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 6881912599665670936
+                }
+            ],
             "pathId": -5131209496245759407,
             "blockIdx": 23
         }
-    ]
+    ],
+    "modified": 1669945974
 }

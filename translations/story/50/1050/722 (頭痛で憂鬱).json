@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "AYVA5XEKKHLJT3IPKYSIL35UMTFRDCET",
     "type": "story",
     "storyId": "501050722",
@@ -11,6 +11,17 @@
             "jpText": "偶然、ナリタタイシンの姿を見かけたので\r\n声をかけようと思ったら――",
             "enText": "I happened to see Narita Taishin and \nthought I'd call out to her.",
             "nextBlock": 2,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -2850548557193034654
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 4955049009796638855
+                }
+            ],
             "pathId": 7422779571256030526,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "……っ！\r\nそれ以上、近づかないで！",
             "enText": "…! Don't come any closer!",
             "nextBlock": 3,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "えっ！？",
                     "enText": "What?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 8970422375200418645
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3776018989151021594
                 }
             ],
             "pathId": 4671765407696362476,
@@ -36,6 +58,17 @@
             "jpText": "今はチケットやアンタみたいな\r\n騒がしいヤツの相手する余裕ないの。",
             "enText": "I don't have time to deal with tickets and \nnoisy people like you right now.",
             "nextBlock": 4,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 1610989105453213547
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -104847578441392016
+                }
+            ],
             "pathId": 9151621820983686444,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "いつもの調子でわーわー喋られると、\r\n頭が割れそうになる……！",
             "enText": "When you waffle on in your usual tone, I feel \nlike I'm going to crack my head open…!",
             "nextBlock": 5,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 6064053000746392438
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 4110279143699938974
+                }
+            ],
             "pathId": 6419724980952613052,
             "blockIdx": 4
         },
@@ -54,6 +98,7 @@
             "jpText": "……近づいたら、\r\n本気で蹴っ飛ばすから。",
             "enText": "If you approach… I'll kick your ass.",
             "nextBlock": 6,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "今日のトレーニング、中止するか？",
@@ -66,6 +111,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -8770679949349959047
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3929203857092045189
+                }
+            ],
             "pathId": 3756431181691647871,
             "blockIdx": 5
         },
@@ -75,6 +130,17 @@
             "jpText": "まさか！\r\nちょっと休めば治るし――",
             "enText": "No way! I just need to rest a little \nbit and then I'll be fine.",
             "nextBlock": 7,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -1634765633610792630
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -3508820893436989753
+                }
+            ],
             "pathId": -6246483228028639840,
             "blockIdx": 6
         },
@@ -84,6 +150,7 @@
             "jpText": "ううっ！",
             "enText": "Ugh!",
             "nextBlock": 8,
+            "origClipLength": 62,
             "choices": [
                 {
                     "jpText": "やっぱり安静にしていた方がいい",
@@ -96,6 +163,16 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -3104706663729748103
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 4386705462956879736
+                }
+            ],
             "pathId": -5995487488385006657,
             "blockIdx": 7
         },
@@ -105,6 +182,17 @@
             "jpText": "ああ、もう……！\r\n保健室行ってくる！　それでいいでしょ！",
             "enText": "Oh my god…! I'm going to \nthe infirmary! That's it!",
             "nextBlock": 9,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -2060948242319837676
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -5622638321587204342
+                }
+            ],
             "pathId": -4529587181713784774,
             "blockIdx": 8
         },
@@ -114,8 +202,20 @@
             "jpText": "手負いの獣のようにこちらを警戒しながら、\r\nナリタタイシンは去っていったのだった。",
             "enText": "Wary of us like a wounded beast, \nNarita Taishin left.",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -7045243857884210699
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -7548902685178292463
+                }
+            ],
             "pathId": -1009913762441833737,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945823
 }

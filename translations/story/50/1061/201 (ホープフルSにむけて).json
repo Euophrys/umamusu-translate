@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QHJ25RMWFDXU56UMMCQ357GIEYGJPH2G",
     "type": "story",
     "storyId": "501061201",
@@ -11,6 +11,17 @@
             "jpText": "『ホープフルステークス』\r\nジュニア級チャンピオンを\n決める舞台の1つだわ。",
             "enText": "The Hopeful Stakes is one of the stages to \ndecide the junior class champion.",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -391452630765350588
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -458396633679200902
+                }
+            ],
             "pathId": 7497126726756924359,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "――そして私はこのＧＩを経て、\r\nさらなる高みへと昇るのよ。",
             "enText": "—and I will ascend to greater \nheights through this GI.",
             "nextBlock": 3,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 7697088550833413965
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4437122466323429941
+                }
+            ],
             "pathId": -6693759000371714517,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "その意味はわかっているわよね、\r\nトレーナー？",
             "enText": "You know what that means, don't you, Trainer?",
             "nextBlock": 4,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "これは通過点の1つ",
                     "enText": "This is just a passing phase.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 7188522724794984069
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -1131687825095392442
                 }
             ],
             "pathId": 8141829919207961170,
@@ -45,6 +78,17 @@
             "jpText": "そうよ。だからこそキングは\r\n華麗に美しく最高の走りを見せるの。",
             "enText": "That's right. That's why King runs so \nbeautifully, so beautifully.",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -5661832502520139088
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -222385165189138826
+                }
+            ],
             "pathId": -7403961715287615228,
             "blockIdx": 4
         },
@@ -54,8 +98,20 @@
             "jpText": "――さあ、行くわよ！",
             "enText": "—Come on, let's go!",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 2746810837320962385
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 5564328106104731339
+                }
+            ],
             "pathId": -1180069310159307962,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945920
 }

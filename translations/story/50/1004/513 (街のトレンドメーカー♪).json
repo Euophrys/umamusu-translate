@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MSVQIKXIKBQB23RGHEJX3NFBUWJUI7TE",
     "type": "story",
     "storyId": "501004513",
@@ -11,6 +11,7 @@
             "jpText": "トレーナー君っ。相談したいことが\nあるんだけど、いいかしら？",
             "enText": "Trainer. I need to talk to you about\nsomething, if that's okay.",
             "nextBlock": 2,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "どうした？",
@@ -21,6 +22,21 @@
                     "jpText": "どうしたの？",
                     "enText": "What's going on?",
                     "nextBlock": 3
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -8657125058996988542
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -2704114717220336627
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -3131558769998196786
                 }
             ],
             "pathId": -819590994634798684,
@@ -32,6 +48,7 @@
             "jpText": "トレーナーちゃんっ。相談したいことが\nあるんだけど、いいかしら？",
             "enText": "Trainer-chan. I need to talk to\nyou about something, okay?",
             "nextBlock": 3,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "どうした？",
@@ -44,6 +61,21 @@
                     "nextBlock": 3
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 426891257233084975
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -7901645542218336270
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -1191631491397869712
+                }
+            ],
             "pathId": 565970960184052855,
             "blockIdx": 2
         },
@@ -53,6 +85,21 @@
             "jpText": "その、後輩の子たちに誘われて、\n今度お出かけすることになったの。",
             "enText": "I was invited by some of the younger girls\nto go out with them next time.",
             "nextBlock": 4,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5897202813047373059
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -5425356421260527877
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2772989412514581126
+                }
+            ],
             "pathId": 4895242483000540961,
             "blockIdx": 3
         },
@@ -62,6 +109,17 @@
             "jpText": "オシャレな街でお買い物ですって。\nトレンドの最先端って感じ、するわよね！",
             "enText": "She's going shopping in a trendy town. I\nfeel like I'm on the cutting edge of\ntrends, don't you?",
             "nextBlock": 5,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -3852712483379798422
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 4562432096590583984
+                }
+            ],
             "pathId": -2903856403910713068,
             "blockIdx": 4
         },
@@ -71,6 +129,17 @@
             "jpText": "でも、ちょ～っとだけ不安なことが\nあるのよ……。",
             "enText": "But there's something I'm a\nlittle bit worried about…",
             "nextBlock": 6,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -5063029538209671815
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -4616612100478588298
+                }
+            ],
             "pathId": 582083279475715047,
             "blockIdx": 5
         },
@@ -80,6 +149,17 @@
             "jpText": "ほら、最近は流行の移り変わりが\nすごい早いじゃない？",
             "enText": "You see, these days, fashions come\nand go very quickly, don't they?",
             "nextBlock": 7,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 2503795320439659280
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -6386261755974917224
+                }
+            ],
             "pathId": -7715247953459506278,
             "blockIdx": 6
         },
@@ -89,6 +169,17 @@
             "jpText": "あたしも頑張って勉強してるんだけど、\nみんなと話してると――",
             "enText": "I'm trying my best to study, but\nwhen I talk to everyone…",
             "nextBlock": 8,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -2875373087808630668
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -5029260292830616313
+                }
+            ],
             "pathId": -9123586737239489557,
             "blockIdx": 7
         },
@@ -98,11 +189,23 @@
             "jpText": "あれ、これ通じてない？　ってたまに思うの。\nそういうの、トレーナー君もあるでしょ。",
             "enText": "Sometimes I think, \"Isn't this getting\nthrough? Sometimes I wonder if I'm getting\nit right. It happens to you too, doesn't\nit, trainer?",
             "nextBlock": 9,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "（あるかな……？）",
                     "enText": "(Is there …?)",
                     "nextBlock": 10
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 9072364647208572942
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 6050253858122806253
                 }
             ],
             "pathId": -6359345328533093259,
@@ -114,11 +217,23 @@
             "jpText": "あれ、これ通じてない？　ってたまに思うの。\nそういうの、トレーナーちゃんもあるでしょ。",
             "enText": "Sometimes I think, \"Isn't this getting\nthrough? Sometimes I wonder if I'm getting\nthrough. It happens to you too, doesn't\nit, trainer?",
             "nextBlock": 10,
+            "origClipLength": 102,
             "choices": [
                 {
                     "jpText": "（あるかな……？）",
                     "enText": "(Is there …?)",
                     "nextBlock": 10
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 8088089751385846612
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 8580911686876329375
                 }
             ],
             "pathId": -1641088645253712335,
@@ -130,6 +245,17 @@
             "jpText": "で、せっかくのお出かけなのに、\n微妙な空気になったら大変じゃない？",
             "enText": "And wouldn't it be awful if things got\na little dicey on our way out?",
             "nextBlock": 11,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -812089441022143999
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -2316805097086451836
+                }
+            ],
             "pathId": -6440302355332980945,
             "blockIdx": 10
         },
@@ -139,6 +265,7 @@
             "jpText": "みんなをがっかりさせないためにも、\nなにかいいアイディアをちょうだいっ！",
             "enText": "I don't want to disappoint you\nguys, so give me some ideas!",
             "nextBlock": 12,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "センスを磨く特訓をしよう",
@@ -151,6 +278,16 @@
                     "nextBlock": 38
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -2052358670480047200
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -454791533956622292
+                }
+            ],
             "pathId": 2590010536854623400,
             "blockIdx": 11
         },
@@ -160,6 +297,18 @@
             "jpText": "なるほどね。トレーナー君と一緒に、\n最新の流行をチェックするってことかしら？",
             "enText": "I see. So you and your trainer are going\nto keep up with the latest trends?",
             "nextBlock": 13,
+            "origClipLength": 95,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 5766988506889302628
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -4423844702551630886
+                }
+            ],
             "pathId": 6064249661764244329,
             "blockIdx": 12
         },
@@ -169,6 +318,18 @@
             "jpText": "なるほどね。トレーナーちゃんと一緒に\n最新の流行をチェックするってことかしら？",
             "enText": "I see. You mean you and your trainer are\ngoing to check out the latest trends?",
             "nextBlock": 14,
+            "origClipLength": 97,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -1797341628147919869
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 1646198672174978495
+                }
+            ],
             "pathId": -8274176754214647023,
             "blockIdx": 13
         },
@@ -178,6 +339,17 @@
             "jpText": "わかったわ。\nよろしく頼むわねっ。",
             "enText": "I understand. I'll be counting on you.",
             "nextBlock": 15,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -1617778022309695166
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -7370717482836948635
+                }
+            ],
             "pathId": 2751412568607574151,
             "blockIdx": 14
         },
@@ -187,6 +359,17 @@
             "jpText": "マルゼンスキーと一緒に、\n街へやってきた……。",
             "enText": "I came to the city with Maruzensky…",
             "nextBlock": 16,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -7054162233515782863
+                },
+                {
+                    "origLen": 129,
+                    "pathId": -1751201828284824030
+                }
+            ],
             "pathId": 9152100493308177417,
             "blockIdx": 15
         },
@@ -196,6 +379,18 @@
             "jpText": "さあトレーナー君、\nさっそくこの街のトレンドをチェックよ！",
             "enText": "Come on, trainers, let's see what's\ntrending in this city!",
             "nextBlock": 17,
+            "origClipLength": 84,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7016418403088362868
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 3052174748371020034
+                }
+            ],
             "pathId": -6371781229274147605,
             "blockIdx": 16
         },
@@ -205,6 +400,18 @@
             "jpText": "さあトレーナーちゃん、\nさっそくこの街のトレンドをチェックよ！",
             "enText": "Come on, trainer, let's see what's\ntrending in this city!",
             "nextBlock": 18,
+            "origClipLength": 86,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -59768823810528722
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -8133827755122569245
+                }
+            ],
             "pathId": 8448476759573476811,
             "blockIdx": 17
         },
@@ -214,6 +421,21 @@
             "jpText": "あら、あそこにCD屋さんがあるわ。\n流行りの歌も聴けるかしら？",
             "enText": "Oh, there's a CD store over there. I\nwonder if you can listen to some of the\npopular songs?",
             "nextBlock": 19,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 886452677691271689
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2082203576778129674
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5596101589510669981
+                }
+            ],
             "pathId": 3167765489273530421,
             "blockIdx": 18
         },
@@ -223,11 +445,26 @@
             "jpText": "マルゼンスキーが示す先には、\n古いレコードショップがあった。",
             "enText": "Maruzensky pointed me to\nan old record store.",
             "nextBlock": 20,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "流行を追うにはちょっと……",
                     "enText": "A bit of a fad to follow: …",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -2370314370193446455
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2325952953798644868
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -6910595243944504960
                 }
             ],
             "pathId": 6365489060740141776,
@@ -239,6 +476,21 @@
             "jpText": "え、そうなの？　そっか、最新の曲を\n扱ってるわけじゃないのね……。",
             "enText": "Oh, really? Well, I guess they don't\nhave the latest songs on …",
             "nextBlock": 21,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 8606433181782674665
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 4604692459242347871
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 4220939747475970046
+                }
+            ],
             "pathId": -2180661776765123675,
             "blockIdx": 20
         },
@@ -248,6 +500,21 @@
             "jpText": "あっ、あそこのブティック！\nオシャレな空気を感じるわ！",
             "enText": "Oh, that boutique over there!\nI can feel the trendy air!",
             "nextBlock": 22,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -6172376554230456350
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 6637561562677558780
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 3564355043578833574
+                }
+            ],
             "pathId": 2653015898148310682,
             "blockIdx": 21
         },
@@ -257,11 +524,26 @@
             "jpText": "マルゼンスキーが示す先には、\n時代を感じる佇まいの洋服店があった。",
             "enText": "Maruzensky pointed me to a clothing\nstore with a timeless appearance.",
             "nextBlock": 23,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "今のトレンドではないかも……",
                     "enText": "Maybe that's not the current trend…",
                     "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 5599575112477406150
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 6369345039023726979
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3302438732630867035
                 }
             ],
             "pathId": -3125109326598406733,
@@ -273,6 +555,21 @@
             "jpText": "えっ、本当に？\nそれなら次は――",
             "enText": "Oh, really? Then next time――",
             "nextBlock": 24,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -2084413157566973392
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 1184180421340310094
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 2531965888539803444
+                }
+            ],
             "pathId": -2049618295063668702,
             "blockIdx": 23
         },
@@ -282,6 +579,17 @@
             "jpText": "う～ん……最新の流行って難しいわね。\nいまいちピンとこないわ……。",
             "enText": "Hmmm… It's hard to know what the latest\nfad is. I don't really get it…",
             "nextBlock": 25,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 8296232709553757123
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -7736743794517962664
+                }
+            ],
             "pathId": 4071319241400883301,
             "blockIdx": 24
         },
@@ -291,11 +599,22 @@
             "jpText": "お母さんも、こういうのを押さえておけば\nバッチリって言ってたんだけどなぁ……。",
             "enText": "My mom said it would be perfect if I\nkept these things in mind…",
             "nextBlock": 26,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "お母さん？",
                     "enText": "Mom?",
                     "nextBlock": 26
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -7406528900376646206
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 2087761616957446361
                 }
             ],
             "pathId": 4575681013790453449,
@@ -307,6 +626,17 @@
             "jpText": "そう、あたしのお母さん。元気で明るくて、\n一緒にいると楽しくなる素敵な人よ！",
             "enText": "Yes, my mother. She's energetic, cheerful,\nfun to be around, and a wonderful person!",
             "nextBlock": 27,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -9020809615974099488
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 6042339009839301891
+                }
+            ],
             "pathId": 7510211258105393776,
             "blockIdx": 26
         },
@@ -316,6 +646,17 @@
             "jpText": "それにすごくオシャレで、あたしにとっては\n子どもの頃からの憧れでもあるのよね～。",
             "enText": "It's also very stylish, and I've\nadmired it since I was a child.",
             "nextBlock": 28,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -4164969333122297211
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 4065091458321961117
+                }
+            ],
             "pathId": 2093220422214192575,
             "blockIdx": 27
         },
@@ -325,11 +666,22 @@
             "jpText": "母親について話すマルゼンスキーは、\nとても楽しそうだ。",
             "enText": "Maruzensky seems very happy when\nshe talks about her mother.",
             "nextBlock": 29,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "お母さんに教わったことを話してみたら？",
                     "enText": "Why don't you tell her what your mother taught you?",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -3210140355892253047
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -4568926253010488458
                 }
             ],
             "pathId": -4438833042715734623,
@@ -341,6 +693,17 @@
             "jpText": "後輩の子たちに？\nなるほど……確かにそれもアリだわ。",
             "enText": "For the younger kids? I see…\nThat's certainly possible.",
             "nextBlock": 30,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -6559358754397629964
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -1026514990445889697
+                }
+            ],
             "pathId": -1041780346742909442,
             "blockIdx": 29
         },
@@ -350,6 +713,17 @@
             "jpText": "つまり、あたしが教わった最新のトレンドを、\nみんなに教えてあげればいいのよね。",
             "enText": "In other words, I should teach everyone\nthe latest trends I've learned.",
             "nextBlock": 31,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 2041354399151560137
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -1293932372993869282
+                }
+            ],
             "pathId": 4561444763354652008,
             "blockIdx": 30
         },
@@ -359,6 +733,17 @@
             "jpText": "流行を追うより、自分から発信する方が\nきっと楽しいし。わかったわ、やってみる！",
             "enText": "I'm sure it's more fun to send\nout messages than to follow trends.\nAll right, I'll try!",
             "nextBlock": 32,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 3356998216841200399
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -2654950097980607581
+                }
+            ],
             "pathId": 5430519743888633974,
             "blockIdx": 31
         },
@@ -368,6 +753,18 @@
             "jpText": "トレーナー君、聞いて～！",
             "enText": "Trainer, listen to me!",
             "nextBlock": 33,
+            "origClipLength": 60,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 4450209917365525937
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 3935896936333706191
+                }
+            ],
             "pathId": 852490609239937302,
             "blockIdx": 32
         },
@@ -377,6 +774,18 @@
             "jpText": "トレーナーちゃん、聞いて～！",
             "enText": "Trainer, listen to me! ",
             "nextBlock": 34,
+            "origClipLength": 63,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 1011990997499394671
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -3755349550749597340
+                }
+            ],
             "pathId": -3094402531276126003,
             "blockIdx": 33
         },
@@ -386,6 +795,17 @@
             "jpText": "昨日の、後輩ちゃんたちとお出かけしてね、\nいい感じに盛り上がったの！",
             "enText": "Yesterday, I went out with the juniors,\nand we had a good time!",
             "nextBlock": 35,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -3127950197880447602
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 7219422818124419078
+                }
+            ],
             "pathId": 1134446426047312148,
             "blockIdx": 34
         },
@@ -395,6 +815,17 @@
             "jpText": "あたしがオススメのお店とか紹介できたし、\nみんなにとっても新鮮だったみたいよ♪",
             "enText": "I was able to show them some of the places\nI recommend, and it seemed like a new\nexperience for everyone.",
             "nextBlock": 36,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -8196694683001219334
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5507839277093671026
+                }
+            ],
             "pathId": 2933991220147224205,
             "blockIdx": 35
         },
@@ -404,6 +835,17 @@
             "jpText": "また今度お出かけしようって、約束もしてね。\nふふっ、次はどこに行こうかしら～♪",
             "enText": "We also promised to go out again next\ntime. I wonder where we'll go next…",
             "nextBlock": 37,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -7825171414943533620
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -4700656560012751650
+                }
+            ],
             "pathId": 7667892207285694883,
             "blockIdx": 36
         },
@@ -413,6 +855,17 @@
             "jpText": "いい思い出が作れたことを、\nマルゼンスキーの笑顔が物語っていた……。",
             "enText": "The smile on Maruzensky's face told me\nthat she had made some good memories…",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -7808325964687667775
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -6045250999905290870
+                }
+            ],
             "pathId": -758031596330386315,
             "blockIdx": 37
         },
@@ -422,6 +875,17 @@
             "jpText": "自分のセンスに自信を持つってこと……？",
             "enText": "Does that mean you have confidence in\nyour own sense of style: …?",
             "nextBlock": 39,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -2317412281066488750
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -85563754783744322
+                }
+            ],
             "pathId": 2441947907057295442,
             "blockIdx": 38
         },
@@ -431,6 +895,17 @@
             "jpText": "確かにあたし、ちょっと弱気に\nなってたのかもしれないわね。",
             "enText": "It's true that I may have\nbeen a little weak.",
             "nextBlock": 40,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -4126127049542924237
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5824958363628150522
+                }
+            ],
             "pathId": 986762568702438409,
             "blockIdx": 39
         },
@@ -440,6 +915,21 @@
             "jpText": "不安な気持ちで足踏みするなんて、\r\nあたしらしくない気がするし……。",
             "enText": "I don't think it's like me to\nstand still with anxiety…",
             "nextBlock": 41,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -6801637979572438436
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 6521892471903596028
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -3340709453144073653
+                }
+            ],
             "pathId": 6982972213315661207,
             "blockIdx": 40
         },
@@ -449,11 +939,26 @@
             "jpText": "ちゃんと自分を信じないと！\nいつだって、トレンドの先頭を走ってるって！",
             "enText": "You have to believe in yourself!\nYou have to believe that you're\nalways ahead of the trend!",
             "nextBlock": 42,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "それに、みんなももうわかってるはず",
                     "enText": "And I think you all already know that.",
                     "nextBlock": 42
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -8821260801487376161
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6406625668921889465
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1756204680010924619
                 }
             ],
             "pathId": -3943961078271107769,
@@ -465,6 +970,17 @@
             "jpText": "そうよね。あたしのセンスについては、\nみんなももう知ってるはず……！",
             "enText": "That's right. I'm sure you\nall know about my taste…!",
             "nextBlock": 43,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 7536151245919918696
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 857700319472422165
+                }
+            ],
             "pathId": 692216462083263837,
             "blockIdx": 42
         },
@@ -474,6 +990,17 @@
             "jpText": "あたしは誰よりもトレンディーなウマ娘、\n流行語だって完璧パーペキだもの！",
             "enText": "I'm the trendiest horse girl in the world,\nand I'm perfect for all the popular words!",
             "nextBlock": 44,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 729008917267968470
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -2527023109623339941
+                }
+            ],
             "pathId": -4998179240418107368,
             "blockIdx": 43
         },
@@ -483,6 +1010,17 @@
             "jpText": "よーし、お姉さん張り切っちゃう！\n後輩ちゃんとのお出かけ、満喫してくるわ♪",
             "enText": "All right, sister, I'm going to\nwork hard! I'm going to enjoy\nmy outing with my junior.",
             "nextBlock": 45,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 8824336213801726304
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 636335291223526331
+                }
+            ],
             "pathId": -1108360205582133046,
             "blockIdx": 44
         },
@@ -492,6 +1030,17 @@
             "jpText": "後日、お出かけの結果について\nマルゼンスキーに聞いてみた。",
             "enText": "Later, I asked Maruzensky about\nthe outcome of our outing.",
             "nextBlock": 46,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 7278491354386273494
+                },
+                {
+                    "origLen": 137,
+                    "pathId": 1391323895433745281
+                }
+            ],
             "pathId": 2361961944889792094,
             "blockIdx": 45
         },
@@ -501,6 +1050,17 @@
             "jpText": "ふふっ、アドバイスを聞いて正解だったわ。\nみんなともっと仲良くなれたもの。",
             "enText": "Phew, I was right to take your advice.\nI've gotten to know everyone better.",
             "nextBlock": 47,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -3056515947899404757
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -8978525328246148952
+                }
+            ],
             "pathId": 122829843169054845,
             "blockIdx": 46
         },
@@ -510,6 +1070,17 @@
             "jpText": "一緒に買い物して、ご飯食べて、\nそれからカラオケにも行ったのよ！",
             "enText": "We shopped together, ate dinner together,\nand even went to karaoke!",
             "nextBlock": 48,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 5213906208910250925
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 7776979858393730934
+                }
+            ],
             "pathId": -868879655519349746,
             "blockIdx": 47
         },
@@ -519,11 +1090,22 @@
             "jpText": "お母さんに教わったヒットソングとか、\nたくさん歌っちゃった♪",
             "enText": "I sang a lot of hit songs\nthat my mom taught me.",
             "nextBlock": 49,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "みんなはなんて言ってた？",
                     "enText": "What did people say?",
                     "nextBlock": 49
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -2142088005642110465
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7062647721145003591
                 }
             ],
             "pathId": -6568341296293909195,
@@ -535,6 +1117,17 @@
             "jpText": "あまり知らない曲をたくさん聴かせて\nもらえて、楽しかったって。",
             "enText": "She said she enjoyed listening to a lot\nof songs she didn't know very well.",
             "nextBlock": 50,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 7089065549778179566
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -3462737630670537127
+                }
+            ],
             "pathId": 2125588497485272263,
             "blockIdx": 49
         },
@@ -544,6 +1137,17 @@
             "jpText": "あたしもみんなから、いろんな流行りを\n教わったし。いい経験になったわ～。",
             "enText": "I also learned about various trends from\neveryone. It was a good experience for me.",
             "nextBlock": 51,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 2932328485577912882
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -8442974731011575228
+                }
+            ],
             "pathId": 4967440931418766117,
             "blockIdx": 50
         },
@@ -553,6 +1157,17 @@
             "jpText": "ますますトレンディーなあたしのこと、\nもっとみんなにアピールしちゃいましょ♪",
             "enText": "I'm getting more and more trendy, so let's\nshow everyone what I'm all about.",
             "nextBlock": 52,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8271712361854993750
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 2487729239756134135
+                }
+            ],
             "pathId": -207136387915307042,
             "blockIdx": 51
         },
@@ -562,8 +1177,20 @@
             "jpText": "独特なセンスも含めて魅力的なお姉さん、\nそれがマルゼンスキーなのだった……。",
             "enText": "She has a unique sense of style and charm,\nand that is what makes her Maruzensky…",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -3059119440855924233
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -7921743783988551078
+                }
+            ],
             "pathId": -682261244488264765,
             "blockIdx": 52
         }
-    ]
+    ],
+    "modified": 1669944913
 }

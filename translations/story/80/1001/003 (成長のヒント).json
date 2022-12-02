@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "75GA7HR3RCJYV35FGVDTG6WC3O7OEKQC",
     "type": "story",
     "storyId": "801001003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nスペシャルウィークが話していた。",
             "enText": "After training, <chrname> and \nSpecial Week were talking.",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4036963610060679877
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6486169426955877857
+                }
+            ],
             "pathId": 8053343714784240105,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946277
 }

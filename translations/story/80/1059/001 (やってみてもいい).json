@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "Q62CG3V4LK77FKCGRJRWKZ4VNJ2QCP44",
     "type": "story",
     "storyId": "801059001",
@@ -11,6 +11,7 @@
             "jpText": "トレーナーとして校内新聞の取材を受けた。\r\nその後――",
             "enText": "As a trainer, I was interviewed for the \nschool newspaper. Afterwards—",
             "nextBlock": 2,
+            "origClipLength": 62,
             "pathId": -2342852445894630012,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ふと、こちらをじっと見ている\r\nメジロドーベルに気づいた。",
             "enText": "Suddenly I noticed a white-tailed \ndobel staring at me.",
             "nextBlock": 3,
+            "origClipLength": 63,
             "pathId": -1874947171766384198,
             "blockIdx": 2
         },
@@ -29,11 +31,22 @@
             "jpText": "あんなに撮られたのに、すごい自然体……。\r\nアタシも……ああなれたら……。",
             "enText": "Even though she was photographed \nso much, she looked so natural… \nI wish I could be… like that.",
             "nextBlock": 4,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "どうかした？",
                     "enText": "What's wrong?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 6889909121337504200
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -7435855534786093899
                 }
             ],
             "pathId": -2513610215164161363,
@@ -45,6 +58,18 @@
             "jpText": "っ……べ、別に。なんでもない。",
             "enText": "… Nothing. It's nothing.",
             "nextBlock": 5,
+            "origClipLength": 54,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 8052721947164156328
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6089944399712521626
+                }
+            ],
             "pathId": 1664572321636128214,
             "blockIdx": 4
         },
@@ -54,6 +79,18 @@
             "jpText": "へ！？　あ、えっと……！",
             "enText": "Heh! Uh, let's see…!",
             "nextBlock": 6,
+            "origClipLength": 52,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -2986841198991495829
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -7441170627085495436
+                }
+            ],
             "pathId": 8053046218893477157,
             "blockIdx": 5
         },
@@ -63,6 +100,18 @@
             "jpText": "……アンタには関係ない。\r\n……アタシの問題だから。",
             "enText": "…It's not your problem. It's… my problem.",
             "nextBlock": 7,
+            "origClipLength": 61,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -1214931493784797784
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -270716823127951102
+                }
+            ],
             "pathId": 4284195353287419458,
             "blockIdx": 6
         },
@@ -72,11 +121,23 @@
             "jpText": "ふと、こちらを見ていた時に、\r\n『アタシも……ああなれたら……』と\nこぼしていたことを思い出した。",
             "enText": "I suddenly remembered that when I was \nlooking at you, I had spilled the words \"I \nwish I could… be like…\".",
             "nextBlock": 8,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "……写真が苦手なのか？",
                     "enText": "… Not good at photography?",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 3542214780605150914
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5587374418987600373
                 }
             ],
             "pathId": 1775479706291715604,
@@ -88,6 +149,18 @@
             "jpText": "……っえ、なんで……。",
             "enText": "… Eh, why not…",
             "nextBlock": 9,
+            "origClipLength": 52,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 3586263233302384060
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 6103568464784651630
+                }
+            ],
             "pathId": 448957281851928367,
             "blockIdx": 8
         },
@@ -97,6 +170,7 @@
             "jpText": "どうやら本当に写真が苦手らしい。\r\n何か力になれればと思い、\nアドバイスを送ることにした。",
             "enText": "Apparently, I'm really bad at photography. \nI thought I'd send her some advice \nto see if I could help.",
             "nextBlock": 10,
+            "origClipLength": 74,
             "choices": [
                 {
                     "jpText": "体を鍛えて自信をつけよう！",
@@ -107,6 +181,17 @@
                     "jpText": "鏡の前で笑顔の練習！",
                     "enText": "Practise your smile in front of the mirror!",
                     "nextBlock": 20
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -1852222634877842518
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 1134529438761605411
                 }
             ],
             "pathId": -3474084352505256114,
@@ -118,11 +203,23 @@
             "jpText": "も、もしよかったら……\r\n写真に上手く写るコツ、教えてもらえない？",
             "enText": "If you'd like to learn more about how to get \nthe best out of… please let me know.",
             "nextBlock": 11,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "写真が苦手なの？",
                     "enText": "Not good at photography?",
                     "nextBlock": 11
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -4110985237200908364
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 6527649281622307132
                 }
             ],
             "pathId": -3193607952110205288,
@@ -134,6 +231,18 @@
             "jpText": "……アタシ、注目されるのが苦手で、\r\n取材とかでも、いつも上手く笑えないの。",
             "enText": "… I don't like to be the centre of \nattention and I don't always smile \nwell when I do interviews.",
             "nextBlock": 12,
+            "origClipLength": 69,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1883505970946519859
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 68250307210669306
+                }
+            ],
             "pathId": -4300703031777820885,
             "blockIdx": 11
         },
@@ -143,6 +252,7 @@
             "jpText": "でも本当はちゃんと、\r\n堂々とした笑顔で写りたくて……。",
             "enText": "But the truth is, I wanted to be \nphotographed with a proper, regal smile…",
             "nextBlock": 13,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "体を鍛えて自信をつけよう！",
@@ -155,6 +265,17 @@
                     "nextBlock": 20
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -3843023646556798514
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3685403093302295827
+                }
+            ],
             "pathId": 6053915942199371592,
             "blockIdx": 12
         },
@@ -164,6 +285,18 @@
             "jpText": "……別に、聞いてないんだけど。",
             "enText": "… Apart from that, I'm not asking.",
             "nextBlock": 14,
+            "origClipLength": 54,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 2773291084047148937
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6045196405469543565
+                }
+            ],
             "pathId": 8622832132378003451,
             "blockIdx": 13
         },
@@ -173,6 +306,18 @@
             "jpText": "自信、か……。",
             "enText": "Confidence, or…",
             "nextBlock": 15,
+            "origClipLength": 49,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -735227068824801624
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8502556415616317828
+                }
+            ],
             "pathId": -6173684258192685557,
             "blockIdx": 14
         },
@@ -182,6 +327,18 @@
             "jpText": "そっか。もう少し自信が持てたら、\r\n自然に笑えるのかな。",
             "enText": "I see. If I had more confidence, I would be \nable to laugh naturally.",
             "nextBlock": 16,
+            "origClipLength": 63,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4541022787689203411
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3553382767518719840
+                }
+            ],
             "pathId": 5989020726147628272,
             "blockIdx": 15
         },
@@ -191,6 +348,18 @@
             "jpText": "……うん。体力づくりも兼ねてやってみる。\r\nありがとう。",
             "enText": "… Yeah. I'm going to try it for \nfitness as well. Thank you.",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 3148944851851367227
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -1582223600967145445
+                }
+            ],
             "pathId": -776468757412648410,
             "blockIdx": 16
         },
@@ -200,6 +369,18 @@
             "jpText": "そう言って彼女は立ち去ってしまった。",
             "enText": "And with that, she walked away.",
             "nextBlock": 18,
+            "origClipLength": 56,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 4593431527737948540
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2837419805584606361
+                }
+            ],
             "pathId": -4558863795946776159,
             "blockIdx": 17
         },
@@ -209,6 +390,18 @@
             "jpText": "……自信が持てたら、\r\n自然に笑えるのかな。",
             "enText": "… I wonder if I could laugh naturally \nif I had more confidence.",
             "nextBlock": 19,
+            "origClipLength": 60,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -930890403208147
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -1963894215913655378
+                }
+            ],
             "pathId": 7292225499767071229,
             "blockIdx": 18
         },
@@ -218,6 +411,18 @@
             "jpText": "……気が向いたらやってみよう。",
             "enText": "… I'll give it a go if I feel like it.",
             "nextBlock": -1,
+            "origClipLength": 54,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -4578296895150261261
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -1851770132036567139
+                }
+            ],
             "pathId": -2654090178795717456,
             "blockIdx": 19
         },
@@ -227,6 +432,18 @@
             "jpText": "鏡って……なにそれ、変なの。",
             "enText": "A mirror is… what it is, weird.",
             "nextBlock": 21,
+            "origClipLength": 54,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -8782369462575932518
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 2455598302205545187
+                }
+            ],
             "pathId": 2202518276585765165,
             "blockIdx": 20
         },
@@ -236,6 +453,18 @@
             "jpText": "鏡の前で笑顔……か。\r\nちょっと恥ずかしいな。",
             "enText": "You smile in front of the mirror…? \nThat's a bit embarrassing.",
             "nextBlock": 22,
+            "origClipLength": 60,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4275182127275870595
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 9136577345995376331
+                }
+            ],
             "pathId": 7389665364591622275,
             "blockIdx": 21
         },
@@ -245,6 +474,18 @@
             "jpText": "……まあ……。",
             "enText": "… well…",
             "nextBlock": 23,
+            "origClipLength": 49,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 2060523429338643134
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1774781162188965161
+                }
+            ],
             "pathId": 3032028436794863895,
             "blockIdx": 22
         },
@@ -254,6 +495,18 @@
             "jpText": "その……、覚えとく。",
             "enText": "I'll remember that…",
             "nextBlock": -1,
+            "origClipLength": 51,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7719868052842238314
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 565630145046391861
+                }
+            ],
             "pathId": -6897688071214991759,
             "blockIdx": 23
         },
@@ -263,6 +516,18 @@
             "jpText": "……でも、手軽にできるし、\r\n自分の姿がわかるのはいいかも。",
             "enText": "It's easy to do on… and it's good \nto see what you look like.",
             "nextBlock": 25,
+            "origClipLength": 64,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 4001039798500541878
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -7735626548236229284
+                }
+            ],
             "pathId": -3880239597053543020,
             "blockIdx": 24
         },
@@ -272,8 +537,21 @@
             "jpText": "ありがとう。\r\nちょっと、やってみる。",
             "enText": "Thank you. I'll give it a go.",
             "nextBlock": -1,
+            "origClipLength": 57,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -36842998718965811
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -938089767262289697
+                }
+            ],
             "pathId": 1588962259214025085,
             "blockIdx": 25
         }
-    ]
+    ],
+    "modified": 1669945968
 }

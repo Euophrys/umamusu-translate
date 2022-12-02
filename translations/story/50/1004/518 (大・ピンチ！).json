@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "U7CBVJJKRBTTWPQ3XFOMVYHQGV2MCNBR",
     "type": "story",
     "storyId": "501004518",
@@ -11,11 +11,27 @@
             "jpText": "トレーナー君、トレーナー君！\n大変大変、大変よ～！",
             "enText": "Trainer! Trainer! Oh, my God! Oh, my God!",
             "nextBlock": 2,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "何かあった？",
                     "enText": "What do you got?",
                     "nextBlock": 3
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 7327972763215501021
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -3930663072533842728
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8143473440048663506
                 }
             ],
             "pathId": 1661304105456761216,
@@ -27,11 +43,27 @@
             "jpText": "トレーナーちゃん、トレーナーちゃん！\n大変大変、大変よ～！",
             "enText": "Trainer-chan, trainer-chan!\nOh, my God! Oh, my God!",
             "nextBlock": 3,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "何かあった？",
                     "enText": "What do you got?",
                     "nextBlock": 3
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -9200165819300583886
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -5848206995571999604
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 5665913594193423485
                 }
             ],
             "pathId": -2964156655388008429,
@@ -43,6 +75,21 @@
             "jpText": "スマホで調べものしてたんだけど、\nいきなり変なのが出てきたの！",
             "enText": "I was doing some research on my\nphone, and all of a sudden this\nweird thing popped up!",
             "nextBlock": 4,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -5324201283706113424
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 3154075853932025043
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -1321891449012458304
+                }
+            ],
             "pathId": -6959529313734218029,
             "blockIdx": 3
         },
@@ -52,6 +99,21 @@
             "jpText": "ウイルスがどうとか、個人情報とか……\nあたしこれからどうなっちゃうの？",
             "enText": "What about viruses, personal information,\netc… What will happen to me now?",
             "nextBlock": 5,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -3892436396623033167
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 8596088281245263778
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -6996206415570576734
+                }
+            ],
             "pathId": -1062143354050885634,
             "blockIdx": 4
         },
@@ -61,11 +123,26 @@
             "jpText": "スマホの画面を見てみると、\n単なる広告表示だった。",
             "enText": "I looked at the screen of my phone\nand saw that it was just an ad.",
             "nextBlock": 6,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "何も問題ないから安心して",
                     "enText": "Don't worry, there's nothing wrong.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 1091281979806320482
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -6340144319877241932
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6455448009930743899
                 }
             ],
             "pathId": 7132400596185157747,
@@ -77,6 +154,21 @@
             "jpText": "あらっ、そうなの！？",
             "enText": "Oh, my gosh, you're right!",
             "nextBlock": 7,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 9158022809962387271
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7863110207926181371
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2835755636561974747
+                }
+            ],
             "pathId": 7005881469493986134,
             "blockIdx": 6
         },
@@ -86,6 +178,21 @@
             "jpText": "はぁ、よかった……。\nなんだかすっごい疲れちゃったわ……。",
             "enText": "Huh, thank goodness … I'm just so tired…",
             "nextBlock": 8,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -490638583084599424
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2346667511481086941
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 1210615238070631412
+                }
+            ],
             "pathId": 9150085032175978957,
             "blockIdx": 7
         },
@@ -95,6 +202,21 @@
             "jpText": "使いこなせば便利なのはわかるけど、\nまだまだ難しいわね～……はあ……。",
             "enText": "I know it's useful if you know how to use\nit, but it's still difficult - … is ah …",
             "nextBlock": 9,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 4222064437125718337
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 2329471997028895899
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -3290082538473112399
+                }
+            ],
             "pathId": -827981264311388448,
             "blockIdx": 8
         },
@@ -104,8 +226,20 @@
             "jpText": "心配して疲れたのか、マルゼンスキーは\r\nその後少しぐったりしていた……。",
             "enText": "Perhaps tired from worrying, Maruzensky\nwas a little limp afterwards…",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 6323350980049390110
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -5911384029196161196
+                }
+            ],
             "pathId": 6982821070438886926,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669944915
 }

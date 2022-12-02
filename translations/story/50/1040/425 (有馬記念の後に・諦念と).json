@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6XZDRBOVEG7A5FEHNB4ZK7TILHQNMQUW",
     "type": "story",
     "storyId": "501040425",
@@ -11,6 +11,17 @@
             "jpText": "ゴールドシチーはタマモクロスに勝利した。\nだが、勝っても走る姿を讃えられるばかりで、\n強さを賞賛する声は聞こえてこない。",
             "enText": "Gold City defeated TAMAMO CROSS. But even \nthough she won, she was praised only for the \nway she ran, and not for her strength.",
             "nextBlock": 2,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 178,
+                    "pathId": 2458162592028869087
+                },
+                {
+                    "origLen": 261,
+                    "pathId": 2619795586202790444
+                }
+            ],
             "pathId": 6603398669941545283,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "反対に、タマモクロスは負けても\r\n走りが注目されていた。自分との違いに、\nゴールドシチーは打ちひしがれてしまう。",
             "enText": "On the other hand, TAMAMO CROSS had been \nattracting a lot of attention for her \nrunning even though she lost the race. Gold \nCity was devastated by the difference.",
             "nextBlock": 3,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 272,
+                    "pathId": -3480580734405316506
+                },
+                {
+                    "origLen": 180,
+                    "pathId": -7882810113325692692
+                }
+            ],
             "pathId": -5739179387477279077,
             "blockIdx": 2
         },
@@ -29,6 +51,25 @@
             "jpText": "タマモクロスはゴールドシチーの腑抜けた\n走りに怒り、『何のために走るのか』と問う。\n……ゴールドシチーは答えられなかった。",
             "enText": "Tumamocross was angered by Gold City's \nfeckless running and asked, 'What are you \nrunning for? Gold City could not answer.",
             "nextBlock": 4,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 190,
+                    "pathId": -954887620322642314
+                },
+                {
+                    "origLen": 224,
+                    "pathId": 4237640130106159591
+                },
+                {
+                    "origLen": 201,
+                    "pathId": -2392581515002590236
+                },
+                {
+                    "origLen": 240,
+                    "pathId": 5212590416539523236
+                }
+            ],
             "pathId": -2667757684886513998,
             "blockIdx": 3
         },
@@ -38,6 +79,25 @@
             "jpText": "ゴールドシチーはトレーナーに、\n何をやっても評価は変えられないと零す。\nだが、走るのを止めるかと訊いても頷かない。",
             "enText": "Gold City told the trainer that no matter \nwhat she did, she could not change her \nreputation. But when I asked her if she \nwanted to stop running, she wouldn't nod.",
             "nextBlock": 5,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 177,
+                    "pathId": 8816387461828404250
+                },
+                {
+                    "origLen": 194,
+                    "pathId": 7079486335358512043
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -7265767613436810480
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -797722910285432742
+                }
+            ],
             "pathId": 1081899618436206566,
             "blockIdx": 4
         },
@@ -47,14 +107,26 @@
             "jpText": "彼女は走るのを諦めたいわけじゃない――\n察したトレーナーは春シニア三冠を目標に\n『大阪杯』への出走を決めた。",
             "enText": "She doesn't want to give up running, and her \ntrainer, sensing this, decides to run her in \nthe \"Osaka Cup\" with the goal of winning the \nSenior Triple Crown in the spring.",
             "nextBlock": -1,
+            "origClipLength": 115,
             "coloredText": [
                 {
                     "jpText": "大阪杯",
                     "enText": "Osaka Cup"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": -7815333434282363110
+                },
+                {
+                    "origLen": 204,
+                    "pathId": -4328389956406239582
+                }
+            ],
             "pathId": 8997871204282755015,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945681
 }

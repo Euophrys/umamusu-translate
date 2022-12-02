@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "5KOPHSVAXABXIBSCZ4UMSSCINQ6HK7AX",
     "type": "story",
     "storyId": "400000037",
@@ -11,6 +11,13 @@
             "jpText": "<chrname>の様子がおかしい……。",
             "enText": "There is something wrong with <chrname>…",
             "nextBlock": 2,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5361283977529540032
+                }
+            ],
             "pathId": 6786070342309306599,
             "blockIdx": 1
         },
@@ -20,8 +27,16 @@
             "jpText": "話を聞いてみると、\r\n最近少し夜ふかし気味のようだった。",
             "enText": "When I asked him about it, she seemed to be\na bit of a night owl lately.",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 1881241611485802321
+                }
+            ],
             "pathId": 6076088781550715748,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944803
 }

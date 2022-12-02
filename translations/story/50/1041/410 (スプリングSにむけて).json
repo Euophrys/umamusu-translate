@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "WSZCNJDA5YSNNSZDWMUP37U2XZFXDVUV",
     "type": "story",
     "storyId": "501041410",
@@ -11,6 +11,17 @@
             "jpText": "『スプリングS』本番。\r\nサクラバクシンオーにとって\n1800mは厳しい距離。",
             "enText": "This is the \"Spring S\". It's a tough\ndistance for Sakura Bakushin O.",
             "nextBlock": 2,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 3732804647145277923
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -448079076336372554
+                }
+            ],
             "pathId": -9155271359068488852,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "だが彼女は、以降に待つクラシック戦線に\r\n比べれば短いものだと自信を覗かせて\n元気よくレースへと向かっていった。",
             "enText": "But she was confident that it would be\nshort-lived compared to the classic races\nthat awaited her later in the season, and\nheaded off to the races in high spirits.",
             "nextBlock": -1,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": -7727102437876124698
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -2618708898569644683
+                }
+            ],
             "pathId": 7878199986139921254,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945711
 }

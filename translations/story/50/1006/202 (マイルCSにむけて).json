@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "VYDFSSMXBX5THBHCXEVGUNOQJLTFDXYE",
     "type": "story",
     "storyId": "501006202",
@@ -11,6 +11,17 @@
             "jpText": "――『マイルチャンピオンシップ』。\r\nその名の通り、強敵が集まっているな。",
             "enText": "— \"Mile Championship\". As the name implies, \nyou've got some strong opponents here.",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -113739424279330409
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -58924756309162401
+                }
+            ],
             "pathId": -4787456795144438754,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "だが、負ける気はしない。\r\n実力を出せば、勝てる。",
             "enText": "But I don't feel like I can lose. If we play \nto our strengths, we can win.",
             "nextBlock": 3,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 7260602666639580991
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -5523138147350247824
+                }
+            ],
             "pathId": -7697111854224010780,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "そう、オグリキャップならば勝てるはずだ。\r\nここをとって、\n実力も人気も盤石にする。そして――",
             "enText": "Yes, Oguri Cap should be able to win. She'll \ntake this place, and her power and \npopularity will be solid. And—",
             "nextBlock": 4,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "マイルを制覇しよう！",
                     "enText": "Let's conquer the miles!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -1451735619788954100
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 3308509612030171865
                 }
             ],
             "pathId": -8099438042567272775,
@@ -45,6 +78,17 @@
             "jpText": "ああ、そうだな……。",
             "enText": "Yeah, I know…",
             "nextBlock": 5,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 8097542552917787521
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -6578613488567705847
+                }
+            ],
             "pathId": 8467442600312634059,
             "blockIdx": 4
         },
@@ -54,8 +98,20 @@
             "jpText": "私がマイルの頂点に立つ。\r\n見ていてくれ！",
             "enText": "I'll be at the top of the mile. You'll see!",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -5594937434351372602
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 5831845505599268443
+                }
+            ],
             "pathId": -8385332397172701168,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669944972
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "P2HBBAGDRI63CYHKWDUQFXFM4NEMMXFL",
     "type": "story",
     "storyId": "801025001",
@@ -11,6 +11,7 @@
             "jpText": "ある夜、コースの見回りをしていると――",
             "enText": "One night, as I was making \nmy rounds of the course…",
             "nextBlock": 2,
+            "origClipLength": 72,
             "pathId": -9031891648209617613,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 3,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -4214883713260919911
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 230161435986078739
+                }
+            ],
             "pathId": 277601311475684169,
             "blockIdx": 2
         },
@@ -29,6 +41,7 @@
             "jpText": "――1人のウマ娘が、黙々と走っている。\r\nいつからいたのだろうか？\n思い出せない……。",
             "enText": "—One horse girl is running silently. How \nlong has she been there? I can't remember…",
             "nextBlock": 4,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "……まだ走るつもりかー？",
@@ -50,11 +63,22 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 5,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "おーーい！",
                     "enText": "Oooooh!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -266659917034441132
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -241524566048960949
                 }
             ],
             "pathId": -3595435518332624372,
@@ -66,6 +90,17 @@
             "jpText": "…………うん。\r\n………………またね。",
             "enText": "… Yeah. See you …",
             "nextBlock": 6,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -9007253627509140988
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -5695676544820540237
+                }
+            ],
             "pathId": 8264625484230988410,
             "blockIdx": 5
         },
@@ -75,6 +110,7 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 7,
+            "origClipLength": 48,
             "choices": [
                 {
                     "jpText": "……いつもこんなに走りこんでいるのか？",
@@ -95,6 +131,17 @@
                     "jpText": "……すごい集中力だね",
                     "enText": "… That's a lot of concentration!",
                     "nextBlock": 13
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 750025509293951404
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -7181171227206729906
                 }
             ],
             "pathId": 5568985601440459902,
@@ -106,6 +153,7 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 8,
+            "origClipLength": 48,
             "choices": [
                 {
                     "jpText": "……いつもこんなに走りこんでいるのか？",
@@ -128,6 +176,17 @@
                     "nextBlock": 13
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 6443439468195384836
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 175279065499749068
+                }
+            ],
             "pathId": 6705415229901699770,
             "blockIdx": 7
         },
@@ -137,6 +196,7 @@
             "jpText": "……追いつきたい子がいます。\r\nだから、私も……走っています。",
             "enText": "There are children who want to … catch up \nwith me. That's why I'm running… too.",
             "nextBlock": 9,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "目標があるってことか？",
@@ -149,6 +209,16 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -3233345155511616334
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -3596917388344356267
+                }
+            ],
             "pathId": 300741645391194353,
             "blockIdx": 8
         },
@@ -158,6 +228,17 @@
             "jpText": "……走り続けていると、いつも夜になります。\r\nだから……いつもこれぐらい……走ってます。",
             "enText": "If you keep… running, it will always \nbe at night. That's why I'm always \nrunning … this much…",
             "nextBlock": 10,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -627430850287231230
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 288808944639985805
+                }
+            ],
             "pathId": -8645180115732441803,
             "blockIdx": 9
         },
@@ -167,6 +248,17 @@
             "jpText": "……では。失礼します。",
             "enText": "At… Excuse me.",
             "nextBlock": 11,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 6191684534738845878
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -825675126762887632
+                }
+            ],
             "pathId": 8474783950233816474,
             "blockIdx": 10
         },
@@ -176,6 +268,7 @@
             "jpText": "……彼女がトレーニングコースから\r\n去ったのを見送り、そこで、ふと気づいた。",
             "enText": "… I watched her leave the training \ncourse and then I realised.",
             "nextBlock": 12,
+            "origClipLength": 69,
             "pathId": 1915062018813510325,
             "blockIdx": 11
         },
@@ -185,6 +278,7 @@
             "jpText": "……さっき足音、1人多かったような……。",
             "enText": "… footsteps just now, like \nthere was one more…",
             "nextBlock": -1,
+            "origClipLength": 58,
             "pathId": -1634964715059839277,
             "blockIdx": 12
         },
@@ -194,6 +288,17 @@
             "jpText": "目の前を走っている彼女がいるから、\r\n追いつきたいと思った……それだけです。",
             "enText": "I saw her running in front of me and I \nwanted to catch up with her… That's all.",
             "nextBlock": 14,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -5217176655983752781
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 5535168792385390603
+                }
+            ],
             "pathId": -803470971708127613,
             "blockIdx": 13
         },
@@ -203,6 +308,17 @@
             "jpText": "彼女の中には、明確な目標があるらしい。\r\nそれ故にあれほどの集中をみせていたようだ。",
             "enText": "It seems that she has a clear goal in mind. \nThat's why she was so focused.",
             "nextBlock": 15,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -2758190611939002754
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -2874080570562886342
+                }
+            ],
             "pathId": -5711534005432731285,
             "blockIdx": 14
         },
@@ -212,6 +328,17 @@
             "jpText": "……もういいですよね。お友だちも行くよう\r\nなので、私も行きます……。",
             "enText": "… is enough, isn't it? My friends \nare going and so am I…",
             "nextBlock": 16,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -8989735535494056180
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -7360223629855034487
+                }
+            ],
             "pathId": -7204963089057635387,
             "blockIdx": 15
         },
@@ -221,6 +348,7 @@
             "jpText": "その時――\r\nふと、気づいた。",
             "enText": "That's when - suddenly - I realised.",
             "nextBlock": 17,
+            "origClipLength": 54,
             "pathId": -7639689720770211412,
             "blockIdx": 16
         },
@@ -230,8 +358,10 @@
             "jpText": "……今、足音、1人多かったような……。",
             "enText": "… now, footsteps, like there \nwas one more person…",
             "nextBlock": -1,
+            "origClipLength": 57,
             "pathId": 1503721510386724836,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669945954
 }

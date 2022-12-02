@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "S4VLWV4LETBSS55RM3GBIJWORVQH3SZ7",
     "type": "story",
     "storyId": "501006406",
@@ -11,6 +11,17 @@
             "jpText": "トレーニング中のオグリキャップのもとに\r\nとあるウマ娘たちがやってくる。",
             "enText": "Oguri Cap is in training when a \ngroup of Uma Musume arrive.",
             "nextBlock": 2,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 2348932027536426863
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 3287721213176028537
+                }
+            ],
             "pathId": -2362756825486799708,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "注目株のイナリワン、タマモクロス、\r\n――そしてスーパークリーク。",
             "enText": "Inari One, Tamamo Cross, and Super \nCreek are the ones to watch.",
             "nextBlock": 3,
+            "origClipLength": 66,
             "coloredText": [
                 {
                     "jpText": "イナリワン",
@@ -28,6 +40,32 @@
                 {
                     "jpText": "スーパークリーク",
                     "enText": "super creek"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -2972844309944181790
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 3406645168724756304
+                },
+                {
+                    "origLen": 227,
+                    "pathId": 5032217276825577030
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 3067935987253945550
+                },
+                {
+                    "origLen": 226,
+                    "pathId": -8127462930631977200
+                },
+                {
+                    "origLen": 212,
+                    "pathId": -4688897424360364851
                 }
             ],
             "pathId": -1863899798887791727,
@@ -39,8 +77,44 @@
             "jpText": "傍から見れば敵同士のオグリキャップと\r\nスーパークリークだが、\n当人たちはピンと来ていないようだった。",
             "enText": "To the casual observer, Oguri Cap and Super \nCreek were enemies, but they didn't seem to \nbe on the same page.",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -6612668280916953553
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -2728907507183460326
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 6413744332623151105
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5938628314119228688
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 2512660772145845070
+                },
+                {
+                    "origLen": 212,
+                    "pathId": -7080397091929323464
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -4781508001723729750
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 8828535648694876549
+                }
+            ],
             "pathId": -272131526236194909,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944977
 }

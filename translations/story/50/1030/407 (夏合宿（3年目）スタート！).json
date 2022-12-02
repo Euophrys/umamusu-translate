@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OINX7DWCQ4MACDLGYGCFBQ3BXNKAYKSV",
     "type": "story",
     "storyId": "501030407",
@@ -11,6 +11,17 @@
             "jpText": "再び始まる夏合宿。",
             "enText": "Summer camp begins again.",
             "nextBlock": 2,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 7344307386086205572
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1122573857029345990
+                }
+            ],
             "pathId": -227410494127998800,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "最高の舞台で、最高のライバルたちと\r\n“最高のレース”をするための――",
             "enText": "To have the \"best race\" on the best \nstage with the best rivals.",
             "nextBlock": 3,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -7572959986255823454
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 4682531900411392825
+                }
+            ],
             "pathId": 9014739819410457777,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "厳しく、熱い夏が始まった！",
             "enText": "The harsh, hot summer has begun!",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -2412627369345290709
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 3269234302719257499
+                }
+            ],
             "pathId": 6532927390893248846,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945552
 }

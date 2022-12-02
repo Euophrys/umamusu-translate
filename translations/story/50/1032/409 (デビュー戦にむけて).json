@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ZJK6QTYW6LEWHTQIFBKZCG6K3GWP5WQK",
     "type": "story",
     "storyId": "501032409",
@@ -11,10 +11,21 @@
             "jpText": "記念すべきメイクデビュー当日！",
             "enText": "The day of my memorable makeup debut!",
             "nextBlock": 2,
+            "origClipLength": 64,
             "coloredText": [
                 {
                     "jpText": "メイクデビュー",
                     "enText": "Make-up debut"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 4151090380456686044
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 5597011156747198123
                 }
             ],
             "pathId": 1374699715345553641,
@@ -26,6 +37,17 @@
             "jpText": "……にも拘わらず、アグネスタキオンは\r\n常備していた紅茶が切れたことを憂えていた。",
             "enText": "In spite of…, Agnes Tachyon was\nworried that she was out of her regular\nsupply of tea.",
             "nextBlock": 3,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 31600887793161819
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -8460609463149609265
+                }
+            ],
             "pathId": 872950419931690198,
             "blockIdx": 2
         },
@@ -35,8 +57,20 @@
             "jpText": "レースに対する緊張感など一切感じさせない\r\n軽い調子で……\n彼女はレースへと向かっていった。",
             "enText": "She headed off to the… race in a\nlight-hearted manner, with no hint of\nnervousness about the race whatsoever.",
             "nextBlock": -1,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -2843218113510346990
+                },
+                {
+                    "origLen": 175,
+                    "pathId": -857959797985436304
+                }
+            ],
             "pathId": 1887087108832821837,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945580
 }

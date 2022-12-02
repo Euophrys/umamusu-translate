@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "AUC6LXJP6RJ3HP2VMG3M2G3MYSGHD5TG",
     "type": "story",
     "storyId": "501040740",
@@ -11,6 +11,17 @@
             "jpText": "あ～っ、悔しい……！\r\n負けた！",
             "enText": "Ahhh, so frustrating…! We lost!",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -7158987565851945786
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8146326586883800915
+                }
+            ],
             "pathId": 8431137829136584164,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "抜かされた、抜かせなかった、\r\n引き離された……っ。",
             "enText": "They passed us, they didn't let us \npass them, they pulled away…",
             "nextBlock": 3,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "今はたくさん悔しがろう！",
@@ -32,6 +44,16 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -952833885422592695
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3383672420810071866
+                }
+            ],
             "pathId": 7515299036881358157,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "……っ。",
             "enText": "…",
             "nextBlock": 4,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -7066604270261105906
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 2686339308819025523
+                }
+            ],
             "pathId": 7031151622305229157,
             "blockIdx": 3
         },
@@ -50,6 +83,7 @@
             "jpText": "悔しい、マジありえない！\r\n最後の展開、頭の中ぐるぐるしてる……！",
             "enText": "Bummer, that can't be real! The last \ndevelopment, it's going round and \nround in my head…!",
             "nextBlock": 5,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "でもいい顔してるぞ、シチー",
@@ -62,6 +96,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 4833130306015087461
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -7135532709790864795
+                }
+            ],
             "pathId": 2343863993894200728,
             "blockIdx": 4
         },
@@ -71,6 +115,7 @@
             "jpText": "は！？\r\nなに、バカにしてんの――",
             "enText": "Ha! What, are you making fun of me―",
             "nextBlock": 6,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "勝利に燃えてる子の顔だ",
@@ -83,6 +128,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -4720744877026109808
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -839088719657891037
+                }
+            ],
             "pathId": -7690788059842260833,
             "blockIdx": 5
         },
@@ -92,6 +147,17 @@
             "jpText": "……っ！！",
             "enText": "…!",
             "nextBlock": 7,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 3270318123240483975
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -3161544012373803244
+                }
+            ],
             "pathId": 8842006177946363044,
             "blockIdx": 6
         },
@@ -101,6 +167,17 @@
             "jpText": "当たり前じゃん！\r\nもう絶対、負けないから……！",
             "enText": "Of course you do! I'll never, \never lose again…!",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -5265231535420486204
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5699170502356357859
+                }
+            ],
             "pathId": -3777397653804353501,
             "blockIdx": 7
         },
@@ -110,6 +187,17 @@
             "jpText": "……っ！　アタシだって、\r\n誰にも追いつかせたくない！",
             "enText": "…! I don't want anyone \nto catch up with me!",
             "nextBlock": 9,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 1634191902291719625
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 515262978687144328
+                }
+            ],
             "pathId": 8005125312091141488,
             "blockIdx": 8
         },
@@ -119,11 +207,22 @@
             "jpText": "誰よりもぶっちぎって勝ちたい。\r\n走りたい気持ち、邪魔させたくない……！",
             "enText": "I want to win by beating everyone else. I \nwant to run, and I don't want to let you get \nin my way…!",
             "nextBlock": 10,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "なら勝てる自分になろう",
                     "enText": "Then be the one who can win.",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 6431305687283537933
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1903779894255504513
                 }
             ],
             "pathId": -2274471776753233562,
@@ -135,6 +234,17 @@
             "jpText": "……っ。",
             "enText": "…",
             "nextBlock": 11,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -2788956096821064031
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 2833206144737663931
+                }
+            ],
             "pathId": 3744670966072940040,
             "blockIdx": 10
         },
@@ -144,6 +254,17 @@
             "jpText": "言うじゃん。\r\nそんだけ自信があるってこと？",
             "enText": "You say. You're that confident?",
             "nextBlock": 12,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 9084785218497102881
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 5188035628753257826
+                }
+            ],
             "pathId": 8508285412953411728,
             "blockIdx": 11
         },
@@ -153,8 +274,20 @@
             "jpText": "ならアンタに、半分預けるから。\r\n――勝てるアタシにして！",
             "enText": "I'll leave you half of the money. ―I'll give \nyou half… and you can win!",
             "nextBlock": -1,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -6667335081676400206
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -7494450265003106489
+                }
+            ],
             "pathId": -3258550934473093376,
             "blockIdx": 12
         }
-    ]
+    ],
+    "modified": 1669945695
 }

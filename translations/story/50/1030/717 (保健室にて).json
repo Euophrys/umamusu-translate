@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "WJHZNA6WNEANXCU6KFBJUJ7DK5VLEHX6",
     "type": "story",
     "storyId": "501030717",
@@ -11,6 +11,17 @@
             "jpText": "疲れがたまっているライスシャワーを\r\n保健室に連れて行き、休ませることにした。",
             "enText": "She decided to take Rice Shower to the \ninfirmary to rest, as she was feeling tired.",
             "nextBlock": 2,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 4906816433721261138
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 8280397847814697631
+                }
+            ],
             "pathId": 4755833584408599719,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "お兄さま、ごめんなさい……。\r\n心配かけちゃって……。",
             "enText": "I'm sorry, brother… I'm sorry I worried you…",
             "nextBlock": 3,
+            "origClipLength": 62,
             "choices": [
                 {
                     "jpText": "今日はしっかり休もうな",
@@ -30,6 +42,17 @@
                     "jpText": "今日はしっかり休もうね",
                     "enText": "Let's get some rest today.",
                     "nextBlock": 4
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 2641723635455610114
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 6922484748265953996
                 }
             ],
             "pathId": 5917084729053668459,
@@ -41,6 +64,7 @@
             "jpText": "お姉さま、ごめんなさい……。\r\n心配かけちゃって……。",
             "enText": "I'm sorry, sister… I'm sorry I worried you…",
             "nextBlock": 4,
+            "origClipLength": 62,
             "choices": [
                 {
                     "jpText": "今日はしっかり休もうな",
@@ -53,6 +77,17 @@
                     "nextBlock": 4
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -1789990210622609410
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 2811704922081324964
+                }
+            ],
             "pathId": -1798052657466058661,
             "blockIdx": 3
         },
@@ -62,6 +97,18 @@
             "jpText": "うん。そうするね……。\r\nありがとう……お兄さま……。",
             "enText": "Yeah. I'll do that… Thank you … brother…",
             "nextBlock": 5,
+            "origClipLength": 62,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -2096318366549153768
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 7043217150450163094
+                }
+            ],
             "pathId": -1141679749499329986,
             "blockIdx": 4
         },
@@ -71,6 +118,18 @@
             "jpText": "うん。そうするね……。\r\nありがとう……お姉さま……。",
             "enText": "Yeah. I'll do that… Thank you… sister…",
             "nextBlock": 6,
+            "origClipLength": 62,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 9133966480505271776
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 1221694129041556348
+                }
+            ],
             "pathId": 8633101037372045396,
             "blockIdx": 5
         },
@@ -80,6 +139,17 @@
             "jpText": "――あ、あれ？\r\nここ……どこ？",
             "enText": "—Oh, what? Where am I…?",
             "nextBlock": 7,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -3102401828622845082
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -3720599024127894210
+                }
+            ],
             "pathId": -2114353537740159937,
             "blockIdx": 6
         },
@@ -89,6 +159,17 @@
             "jpText": "な、なにがおきているの？\r\nこれ、夢……？",
             "enText": "What's going on? Is this a dream…?",
             "nextBlock": 8,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 5937336155611347483
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 7407827817037169581
+                }
+            ],
             "pathId": -5228948456916620237,
             "blockIdx": 7
         },
@@ -98,6 +179,18 @@
             "jpText": "でも、ここ……すごく、綺麗……。\r\n絵本の世界みたい……。",
             "enText": "But this place… is so beautiful … It's like \nsomething out of a picture book…",
             "nextBlock": 9,
+            "origClipLength": 63,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3425162518473702253
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -754191117162950032
+                }
+            ],
             "pathId": -6074967777609842046,
             "blockIdx": 8
         },
@@ -107,6 +200,18 @@
             "jpText": "…………ちょっと、走ってみようかな。",
             "enText": "… Hey, I think I'll go for a run.",
             "nextBlock": 10,
+            "origClipLength": 56,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -1158924562842716776
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 2840963782646969262
+                }
+            ],
             "pathId": 3764589126948727907,
             "blockIdx": 9
         },
@@ -116,6 +221,17 @@
             "jpText": "よーい……どん！",
             "enText": "Yay… Don!",
             "nextBlock": 11,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -4970521018541639397
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 4315054871388565653
+                }
+            ],
             "pathId": 6752026788802192793,
             "blockIdx": 10
         },
@@ -125,6 +241,17 @@
             "jpText": "はっ……はっ……すごい――\r\nライス、羽が生えてるみたいに走れる……！",
             "enText": "Haha… haha… amazing— Rice, you \ncan run like you have wings…!",
             "nextBlock": 12,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -5743429392519447722
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 3254454008155045642
+                }
+            ],
             "pathId": 3461656614042032203,
             "blockIdx": 11
         },
@@ -134,6 +261,7 @@
             "jpText": "それに、空も、草原も、みんなみんな\r\nすごく、綺麗――",
             "enText": "And the sky, and the grass, and everything, \nit's all so beautiful.",
             "nextBlock": 13,
+            "origClipLength": 62,
             "pathId": 8568508202035920546,
             "blockIdx": 12
         },
@@ -143,6 +271,17 @@
             "jpText": "……あれ？\r\nいまの……夢？",
             "enText": "… Huh? Is that… a dream now?",
             "nextBlock": 14,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 133,
+                    "pathId": -7816144222574607714
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 2045966457503834580
+                }
+            ],
             "pathId": 4387518380142138245,
             "blockIdx": 13
         },
@@ -152,6 +291,17 @@
             "jpText": "少し不思議だけど、素敵な場所だったなぁ。\r\nそれになんだか、体も軽くなったかも……？",
             "enText": "It was a little strange, but it was a \nwonderful place. And I think I'm feeling a \nlittle lighter, too…?",
             "nextBlock": 15,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -639296883744519783
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 6430467879526858240
+                }
+            ],
             "pathId": -3723136041181717715,
             "blockIdx": 14
         },
@@ -161,6 +311,17 @@
             "jpText": "ライスシャワーは、自身の充足を実感し、\r\n軽い足取りで保健室をあとにした。",
             "enText": "Rice Shower left the infirmary with a light \nstep, feeling satisfied with herself.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -3886413103861291341
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5435047420797355605
+                }
+            ],
             "pathId": 6701892511321385914,
             "blockIdx": 15
         },
@@ -170,6 +331,18 @@
             "jpText": "（ズオオオオオッ……！）",
             "enText": "(ZOOOOOOO…!)",
             "nextBlock": 17,
+            "origClipLength": 52,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -1605225998134072257
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7935958266319906963
+                }
+            ],
             "pathId": -469939278013772591,
             "blockIdx": 16
         },
@@ -179,6 +352,17 @@
             "jpText": "ひゃっ！？\r\nな、なんの音……！？",
             "enText": "What the hell? What's that sound…!",
             "nextBlock": 18,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 974851297244683362
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 1141106608572264439
+                }
+            ],
             "pathId": -3369756100880276717,
             "blockIdx": 17
         },
@@ -188,6 +372,17 @@
             "jpText": "あっちから、黒いなにかが、迫ってる……！？\r\nまるで、インクの壁みたいな――",
             "enText": "There's something black coming at me from \nover there…! It's like a wall of ink—",
             "nextBlock": 19,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 6710846437724615862
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7344969552589131204
+                }
+            ],
             "pathId": -1060406424008051854,
             "blockIdx": 18
         },
@@ -197,6 +392,17 @@
             "jpText": "にっ、逃げなきゃ――！",
             "enText": "We have to get out of here!",
             "nextBlock": 20,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -3131826427144624662
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -5548031819136946465
+                }
+            ],
             "pathId": -3985894945679408802,
             "blockIdx": 19
         },
@@ -206,6 +412,17 @@
             "jpText": "はっ……はっ……！\r\nお、追いつかれちゃう……！　もうだめ――",
             "enText": "Haha… haha…! Oh, she's catching up…! I can't—",
             "nextBlock": 21,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -568895814346181274
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 5069484916377519283
+                }
+            ],
             "pathId": -3000296281548757926,
             "blockIdx": 20
         },
@@ -215,6 +432,17 @@
             "jpText": "はっ――\r\nゆ……夢……？",
             "enText": "Haha— Yoo… dream…?",
             "nextBlock": 22,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -2104629724606395590
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5418628106907300327
+                }
+            ],
             "pathId": 4261177515227629999,
             "blockIdx": 21
         },
@@ -224,6 +452,17 @@
             "jpText": "ふぇぇ……。\r\nこ、怖かったよぅ……。",
             "enText": "Whew… I was so scared…",
             "nextBlock": 23,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -3641269477752444317
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 5338641143544083712
+                }
+            ],
             "pathId": 2083630785586570370,
             "blockIdx": 22
         },
@@ -233,8 +472,20 @@
             "jpText": "その後悪夢が頭から離れずライスシャワーは\r\n十分に休むことができなかった……。",
             "enText": "After that, I couldn't get the nightmare \nout of my head, and Rice Shower didn't \nlet me get enough rest…",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 4980075075363201706
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -7126971279422445913
+                }
+            ],
             "pathId": 8637898317000401973,
             "blockIdx": 23
         }
-    ]
+    ],
+    "modified": 1669945563
 }

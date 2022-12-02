@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BTVVLLGEFR2QI3FZA4JXL4M7AFCCX6XC",
     "type": "story",
     "storyId": "501030308",
@@ -11,6 +11,7 @@
             "jpText": "……お兄さまっ。\r\nライス、ライス……！",
             "enText": "… Big brother. Rice, Rice…!",
             "nextBlock": 2,
+            "origClipLength": 92,
             "choices": [
                 {
                     "jpText": "もう少しだったな",
@@ -21,6 +22,25 @@
                     "jpText": "もう少しだったね",
                     "enText": "That was close.",
                     "nextBlock": 3
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 286909314043774540
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 7482608880834888769
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -4612402288225184371
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -7243761949859464225
                 }
             ],
             "pathId": 5160876823004686143,
@@ -32,6 +52,7 @@
             "jpText": "……お姉さまっ。\r\nライス、ライス……！",
             "enText": "… sister. Rice, Rice…!",
             "nextBlock": 3,
+            "origClipLength": 92,
             "choices": [
                 {
                     "jpText": "もう少しだったな",
@@ -44,6 +65,25 @@
                     "nextBlock": 3
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 163,
+                    "pathId": -5282841691395889250
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -8222520331572196268
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 7422066228994820827
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 8848088999686801295
+                }
+            ],
             "pathId": -2228390887058336417,
             "blockIdx": 2
         },
@@ -53,6 +93,25 @@
             "jpText": "うん……くやしい……っ！！",
             "enText": "Yeah… that's a bummer…!",
             "nextBlock": 4,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 5696596557357797145
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -88302504393263413
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 2671774240600123734
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 5511808891961303609
+                }
+            ],
             "pathId": 5198576716920402365,
             "blockIdx": 3
         },
@@ -62,6 +121,25 @@
             "jpText": "もう少しで追いつけそうだったのに……！\r\nでもまただめだった……！",
             "enText": "I was so close to catching up…! \nBut it didn't work again…!",
             "nextBlock": 5,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 5027852867674396721
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -2885489578546877180
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -7917099653028407046
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -657794228032256703
+                }
+            ],
             "pathId": -6424336141213928832,
             "blockIdx": 4
         },
@@ -71,11 +149,22 @@
             "jpText": "今度こそ、ブルボンさんに\r\n勝ちたかったのにぃ……っ！",
             "enText": "I was hoping to beat Bourbon this time…",
             "nextBlock": 6,
+            "origClipLength": 74,
             "choices": [
                 {
                     "jpText": "……次は勝とう",
                     "enText": "… Let's win next time.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 8541016288874898990
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 6950931983222275735
                 }
             ],
             "pathId": 3920698233438887905,
@@ -87,6 +176,17 @@
             "jpText": "うん……っ！！",
             "enText": "Yeah…!",
             "nextBlock": 7,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -640738285959122526
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -3951460634759352381
+                }
+            ],
             "pathId": 4390713209797780326,
             "blockIdx": 6
         },
@@ -96,6 +196,25 @@
             "jpText": "……ライスさん。",
             "enText": "… Rice.",
             "nextBlock": 8,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 9076506832266241939
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 3124538790345845231
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 8182750945817079230
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -5592113334419235207
+                }
+            ],
             "pathId": 7434558526740447816,
             "blockIdx": 7
         },
@@ -105,6 +224,25 @@
             "jpText": "ひゃわっ！　ブルボンさん！？",
             "enText": "Hee-hee! Ms. Bourbon!",
             "nextBlock": 9,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 5898583786221811751
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 2669879741945438744
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -4680995310853271709
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 7188461308246784562
+                }
+            ],
             "pathId": -2200870416271785543,
             "blockIdx": 8
         },
@@ -114,6 +252,25 @@
             "jpText": "――今日のあなたの走りには驚きました。",
             "enText": "—I was amazed at your run today.",
             "nextBlock": 10,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -514483837365912923
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 7644265424126157684
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 7874166368910237621
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -7286798009603384383
+                }
+            ],
             "pathId": -5593019255677957490,
             "blockIdx": 9
         },
@@ -123,6 +280,29 @@
             "jpText": "なぜあなたがここまでの走りをしたのか。\r\nそう思考せざる得ないほどです。",
             "enText": "Why have you run so far? I can't \nhelp but think that.",
             "nextBlock": 11,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -8291279826277498967
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -4302343454554120732
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1799899319426135986
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -664513627696537447
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 6908912267792667844
+                }
+            ],
             "pathId": -144471117072842063,
             "blockIdx": 10
         },
@@ -132,6 +312,29 @@
             "jpText": "そして1つの答えにたどり着きました。\r\n……あなたはよく語っていましたね。",
             "enText": "And I've arrived at one answer. \n… You spoke well of it.",
             "nextBlock": 12,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": 8577722503424621122
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -468004764404234274
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2084902509770649911
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 3210733665449543625
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 3810659554071371825
+                }
+            ],
             "pathId": -7557025725621951236,
             "blockIdx": 11
         },
@@ -141,6 +344,25 @@
             "jpText": "『私に追いつく』と。",
             "enText": "\"You'll catch up with me.\"",
             "nextBlock": 13,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": 666574339834999618
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -4562035782000462543
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -1559314012842554374
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -6891508449295694575
+                }
+            ],
             "pathId": -6571278714034589188,
             "blockIdx": 12
         },
@@ -150,6 +372,29 @@
             "jpText": "正直、理解不能でした。レースに\r\n存在するのは勝利、もしくは敗北です。",
             "enText": "To be honest, I didn't understand. In a race, \nthere is victory or defeat.",
             "nextBlock": 14,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -4258640282501600492
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 9190447515539031714
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2126787874662791993
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 7027348121293394086
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 7350969377951185927
+                }
+            ],
             "pathId": 8920949631194085926,
             "blockIdx": 13
         },
@@ -159,6 +404,25 @@
             "jpText": "『追いつく』という概念は存在しません。\r\nですが――",
             "enText": "The concept of \"catching up\" \ndoes not exist. But…",
             "nextBlock": 15,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -1842738151139283715
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6832030214118020737
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -3313331909449669201
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1767343129268562830
+                }
+            ],
             "pathId": 8796438244131279526,
             "blockIdx": 14
         },
@@ -168,6 +432,29 @@
             "jpText": "ライスさんには、聞こえますか？",
             "enText": "Can you hear me, Ms. Rice?",
             "nextBlock": 16,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -3795136897587581021
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 8651817320271295265
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -4817574683820652954
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3485198921062071355
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 6127183641748897144
+                }
+            ],
             "pathId": -1608788880741019682,
             "blockIdx": 15
         },
@@ -177,6 +464,33 @@
             "jpText": "……え。",
             "enText": "…",
             "nextBlock": 17,
+            "origClipLength": 47,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 2673682938586130205
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 1559748519046660017
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -232390181966511301
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -900210059466471890
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2080396224667388092
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -7250094849202475110
+                }
+            ],
             "pathId": -6464800841124606042,
             "blockIdx": 16
         },
@@ -186,6 +500,33 @@
             "jpText": "（ワァァアアア――――――ッ！！）",
             "enText": "(Waaaahhh —!!!)",
             "nextBlock": 18,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -5206952916644411784
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 6681791811880014501
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -7426464957309598016
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 3125112573304822525
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8814900517958258499
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 1087325349137954474
+                }
+            ],
             "pathId": -308294713204984759,
             "blockIdx": 17
         },
@@ -195,6 +536,25 @@
             "jpText": "いいレースだったよー！\r\nブルボーン、ライスー！！",
             "enText": "That was a good race! Bourbon, Raisu!",
             "nextBlock": 19,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 2898183382633616003
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -558986055208061856
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 3162178415674491108
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 1701865627886217589
+                }
+            ],
             "pathId": -6051134068554610197,
             "blockIdx": 18
         },
@@ -204,6 +564,25 @@
             "jpText": "さすが今年の主役！\r\n来年の2人も楽しみにしてるからなー！！",
             "enText": "That's the star of the year! I'll be looking \nforward to seeing you two next year!!!",
             "nextBlock": 20,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -6129031985473642738
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -4586860066338163598
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -6637346702330478386
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -2168947895178907514
+                }
+            ],
             "pathId": -2620252404867251784,
             "blockIdx": 19
         },
@@ -213,6 +592,25 @@
             "jpText": "……うそ。ブルボンさんだけ\r\nじゃなくて……ライスにも拍手、が？",
             "enText": "… Bullshit. Applause not only for Ms. \nBourbon, but also for… Rice, but?",
             "nextBlock": 21,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -7555539232115148980
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 2040004169869544094
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -5996753538041155627
+                },
+                {
+                    "origLen": 152,
+                    "pathId": -3150793862635138286
+                }
+            ],
             "pathId": -2372955965151478619,
             "blockIdx": 20
         },
@@ -222,6 +620,25 @@
             "jpText": "で、でも。まだライスは……、\r\nブルボンさんに比べて……。",
             "enText": "And yet. Rice is still… compared \nto Ms. Bourbon.",
             "nextBlock": 22,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 117193494747101754
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6361941106960433211
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 6566526725965052376
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 4652284981836531794
+                }
+            ],
             "pathId": 5592910460437418057,
             "blockIdx": 21
         },
@@ -231,6 +648,25 @@
             "jpText": "いいえ。私は彼らに同意します。\r\n今、私たちは並んでいる。",
             "enText": "No. I agree with them. I agree \nwith them. Now we're in line.",
             "nextBlock": 23,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -2466775699264153433
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5707829907371956682
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 6915808681679137185
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7946097498798223024
+                }
+            ],
             "pathId": -9081206015996027881,
             "blockIdx": 22
         },
@@ -240,6 +676,25 @@
             "jpText": "私は宣言します。",
             "enText": "I declare.",
             "nextBlock": 24,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 4625211476218008519
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -4682579403969146472
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -8355325640923441672
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -8624940785876823395
+                }
+            ],
             "pathId": -582446043190929312,
             "blockIdx": 23
         },
@@ -249,6 +704,25 @@
             "jpText": "私は次もあなたに負けません。\r\n――“ライバル”として。",
             "enText": "I'm not going to let you beat me \nnext time. —As your \"rival\".",
             "nextBlock": 25,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -4725453212386096556
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 118184675674906704
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -133071292650932270
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -6331144368934692435
+                }
+            ],
             "pathId": 239533479244149481,
             "blockIdx": 24
         },
@@ -258,6 +732,25 @@
             "jpText": "……らい、ばる。",
             "enText": "… Rai, Baru.",
             "nextBlock": 26,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -2295994766203968295
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -2494304507638570651
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 9137156534505343877
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -4749189421551102962
+                }
+            ],
             "pathId": -3869712358593964564,
             "blockIdx": 25
         },
@@ -267,6 +760,25 @@
             "jpText": "ライスさん。あなたは、\r\n私との勝負を受けてくれますか？",
             "enText": "Ms. Rice. Would you accept a match with me?",
             "nextBlock": 27,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 636401158378316835
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8070209210286856633
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -6012746769946736186
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8441648488612102612
+                }
+            ],
             "pathId": 930197103077529816,
             "blockIdx": 26
         },
@@ -276,6 +788,25 @@
             "jpText": "……！\r\nら、ライスは……。",
             "enText": "…! et al. Rice is available…",
             "nextBlock": 28,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 252960830829271763
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 82081108822694783
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -322790398139184462
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -8231858673858890811
+                }
+            ],
             "pathId": 7797159096793762146,
             "blockIdx": 27
         },
@@ -285,6 +816,25 @@
             "jpText": "……ライスだって負けたく、ない！\r\n次こそ……勝ち、ます……っ！",
             "enText": "I don't want to lose, even to… Rice! Next \ntime I'll… win, I'll… win!",
             "nextBlock": 29,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 8096818696107719012
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 1792283580516530645
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -6470151945129473219
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 6211589406841800456
+                }
+            ],
             "pathId": 289697618137446719,
             "blockIdx": 28
         },
@@ -294,6 +844,25 @@
             "jpText": "――ライスシャワーの声が響き渡る。\r\nそれは隣にも、会場中にも聞こえる、\n大きな、大きな宣言だった。",
             "enText": "—The voice of Rice Shower resounded. It was a \nloud, loud declaration that could be heard \nnext door and throughout the hall.",
             "nextBlock": 30,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 277976245994381408
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -1783845337068597509
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -563573732100989524
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 4212366905263732023
+                }
+            ],
             "pathId": -5370473885421339305,
             "blockIdx": 29
         },
@@ -303,6 +872,25 @@
             "jpText": "……彼女の才能がもっと花開くためにも。\r\nステイヤーとして次に選ぶべき\nレースの候補を考える。",
             "enText": "… for her talent to flourish more. \nI'm trying to figure out what race \nI should pick next as a stayer.",
             "nextBlock": 31,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8911245143258763936
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1718413629909609624
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 4943730381409584709
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -4309103946911757442
+                }
+            ],
             "pathId": 4462577587277404847,
             "blockIdx": 30
         },
@@ -312,6 +900,7 @@
             "jpText": "まずは全てのとっかかりとして\r\n『日経賞』への準備を進めるのだった。",
             "enText": "The first step was to prepare for the Nikkei \nSho as a starting point for everything.",
             "nextBlock": -1,
+            "origClipLength": 67,
             "coloredText": [
                 {
                     "jpText": "日経賞",
@@ -321,5 +910,6 @@
             "pathId": -1424453989391732321,
             "blockIdx": 31
         }
-    ]
+    ],
+    "modified": 1669945549
 }

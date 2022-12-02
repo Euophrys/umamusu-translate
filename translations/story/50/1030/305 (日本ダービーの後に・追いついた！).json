@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QW4IV6UWRD7TMXHGBKMQYZND4MIQXUUC",
     "type": "story",
     "storyId": "501030305",
@@ -11,11 +11,30 @@
             "jpText": "はぁ……はぁ……っ！！\r\nぜぇっ……はぁ……っ！！",
             "enText": "Haha… haha…! Whew… is…!",
             "nextBlock": 2,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "大丈夫！？",
                     "enText": "Great man!",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 4660036480096175350
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 5751241581292663483
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -5012535113700256010
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 3283650784119276153
                 }
             ],
             "pathId": 5792549104384132113,
@@ -27,6 +46,26 @@
             "jpText": "だ、大丈夫だよ……大丈夫っ。\r\nそれよりもお兄さま、見ててくれた？",
             "enText": "It's okay… It's okay. I'm not sure if you've \nseen it, but I'm sure you've seen it.",
             "nextBlock": 3,
+            "origClipLength": 66,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 2981190616126801623
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -1734112722867144878
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -7816353911306373963
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -8945808223676987077
+                }
+            ],
             "pathId": -5100814227220559247,
             "blockIdx": 2
         },
@@ -36,6 +75,26 @@
             "jpText": "だ、大丈夫だよ……大丈夫っ。\r\nそれよりもお姉さま、見ててくれた？",
             "enText": "It's okay… It's okay. I'm not sure if you've \nseen it, but I'm sure you've seen it.",
             "nextBlock": 4,
+            "origClipLength": 66,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 3156740722193866775
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 2414500128788579184
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 5548545884886464835
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 5883378104589744445
+                }
+            ],
             "pathId": -7183558118406311400,
             "blockIdx": 3
         },
@@ -45,6 +104,7 @@
             "jpText": "ライス、ブルボンさんに\r\n追いついたよ……っ！",
             "enText": "Rice, is catching up with Ms. Bourbon…!",
             "nextBlock": 5,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "ああ！",
@@ -57,6 +117,24 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 5565651889160473869
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -1472505853555782976
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -217225664820416551
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1153999243674617241
+                }
+            ],
             "pathId": 421231627371130808,
             "blockIdx": 4
         },
@@ -66,6 +144,25 @@
             "jpText": "え、えへへ……やっ、たぁ――……。",
             "enText": "Eh, ehehe… yah, ta—…",
             "nextBlock": 6,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 3486390569721955451
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 6206462286209033274
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 8567530667465821669
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -5184745592478480093
+                }
+            ],
             "pathId": -1361511716446457521,
             "blockIdx": 5
         },
@@ -75,11 +172,30 @@
             "jpText": "（パタッ……）",
             "enText": "(Pat…)",
             "nextBlock": 7,
+            "origClipLength": 49,
             "choices": [
                 {
                     "jpText": "ライス！？",
                     "enText": "Rice!",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -9057146907158447263
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -5106443018632184373
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7990506008633345401
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2104451307309582137
                 }
             ],
             "pathId": -8067264131231285690,
@@ -91,6 +207,17 @@
             "jpText": "すぅ……すぅ……。",
             "enText": "Suh… Suh…",
             "nextBlock": 8,
+            "origClipLength": 144,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -6404108098386948167
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -925987890835049649
+                }
+            ],
             "pathId": -5099273917867154769,
             "blockIdx": 7
         },
@@ -100,6 +227,17 @@
             "jpText": "どうやら全力を出し切って、\r\n緊張の糸が切れてしまったようだ。",
             "enText": "Apparently, she had given it her \nall and had lost her nerve.",
             "nextBlock": 9,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -4292278491355312523
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2385740144079350588
+                }
+            ],
             "pathId": -3031260493351718480,
             "blockIdx": 8
         },
@@ -109,6 +247,17 @@
             "jpText": "……少しだけ肩を貸しながら、\r\n彼女を休ませよう。そう思って歩き出すと――",
             "enText": "… Let's give her a break, lending \nher a little shoulder. That's what \nI thought as I walked away.",
             "nextBlock": 10,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 2166173544456784688
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5243325837310187599
+                }
+            ],
             "pathId": 145209061566043482,
             "blockIdx": 9
         },
@@ -118,11 +267,22 @@
             "jpText": "――彼女の発言は、不可解です。",
             "enText": "—Her statement is puzzling.",
             "nextBlock": 11,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "ミホノブルボン……！",
                     "enText": "Michonobourbon…!",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -7879140391424646696
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 2580024481906367533
                 }
             ],
             "pathId": 1884181633218122347,
@@ -134,6 +294,17 @@
             "jpText": "今回のレース内容ならば、彼女は\r\n『ブルボンに勝った』と言うべきでした。",
             "enText": "In this race, she should have \nsaid, \"I beat Bourbon.",
             "nextBlock": 12,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 4085127789672731963
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 7026906219475671652
+                }
+            ],
             "pathId": -2003618729787174088,
             "blockIdx": 11
         },
@@ -143,11 +314,22 @@
             "jpText": "『追いついた』では語弊があります。\r\n認識を訂正すべきでは？",
             "enText": "I'm not sure \"caught up\" is the right word. \nShouldn't we correct our perceptions?",
             "nextBlock": 13,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "彼女にとってはそれが重要なんだ",
                     "enText": "That's what's important to her.",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -8070170124448945565
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 7837768768309362313
                 }
             ],
             "pathId": -3593257624611439596,
@@ -159,6 +341,17 @@
             "jpText": "……理解不能です。",
             "enText": "I don't understand…",
             "nextBlock": 14,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -5249803704897868785
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 6680771272106951818
+                }
+            ],
             "pathId": -6944250090356520139,
             "blockIdx": 13
         },
@@ -168,11 +361,30 @@
             "jpText": "ごっ、ごめんなさいっ！\r\nまたライス、迷惑かけちゃって……！",
             "enText": "I'm sorry, I'm sorry! I'm sorry \nto bother you again, Rice…!",
             "nextBlock": 15,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "疲れていたからしょうがないよ",
                     "enText": "It doesn't help that I was so tired.",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 5229729984940715207
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -3591610417553799437
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 5358798048389123860
+                },
+                {
+                    "origLen": 163,
+                    "pathId": 6569613701051173518
                 }
             ],
             "pathId": 2043536740054333930,
@@ -184,11 +396,30 @@
             "jpText": "で、でも……。",
             "enText": "And, but…",
             "nextBlock": 16,
+            "origClipLength": 49,
             "choices": [
                 {
                     "jpText": "それよりも次のことを考えよう",
                     "enText": "Instead, let's think about what's next.",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 3,
+                    "pathId": -522202505969514766
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5504036792285190180
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7609389719918350649
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3711875332693363525
                 }
             ],
             "pathId": 5847603789331790696,
@@ -200,11 +431,30 @@
             "jpText": "ふぇ？　……次？",
             "enText": "Huh? … next?",
             "nextBlock": 17,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "まだクラシックは終わってない",
                     "enText": "The classic isn't over yet.",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -1259655784364679180
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 621738171639810524
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 4892968569562464451
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -3909324505394668368
                 }
             ],
             "pathId": 1775507395129248211,
@@ -216,6 +466,26 @@
             "jpText": "……！　そうだね、お兄さま。",
             "enText": "…! That's right, brother.",
             "nextBlock": 18,
+            "origClipLength": 54,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 1446688888559653595
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 4303563035620506327
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -8138245407548160470
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -2544300060298069919
+                }
+            ],
             "pathId": 7793999334681104672,
             "blockIdx": 17
         },
@@ -225,6 +495,26 @@
             "jpText": "……！　そうだね、お姉さま。",
             "enText": "…! That's right, sister.",
             "nextBlock": 19,
+            "origClipLength": 54,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -3918084599957025837
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6912667592352176718
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 2929342054898750333
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -944941746775598084
+                }
+            ],
             "pathId": -6009278420055223628,
             "blockIdx": 18
         },
@@ -234,6 +524,25 @@
             "jpText": "たまたま今回勝てただけかもしれないのに、\r\n……満足してたら、だめだよね。",
             "enText": "You can't be satisfied with… when you might \njust happen to win this time.",
             "nextBlock": 20,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 5783923564342661696
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7595984336111531873
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 539378666879381145
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3804396797168056444
+                }
+            ],
             "pathId": 3591468805006142251,
             "blockIdx": 19
         },
@@ -243,6 +552,7 @@
             "jpText": "……えっと。ブルボンさんが\r\n必ず狙ってくるレースは――",
             "enText": "… Let's see. The race that Ms. \nBourbon always goes for—",
             "nextBlock": 21,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "『菊花賞』だろうな",
@@ -255,6 +565,24 @@
                     "nextBlock": 21
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 7476178572398628464
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 1949181478384067591
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -1235209778471053316
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6068301419733225490
+                }
+            ],
             "pathId": -2778415290248118583,
             "blockIdx": 20
         },
@@ -264,6 +592,25 @@
             "jpText": "……そこでもライスは……。\r\n…………よし。",
             "enText": "… Rice is… there too… Good.",
             "nextBlock": 22,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 4077887148872178824
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -5185355117674161987
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 499793551908462570
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 1308218680609223556
+                }
+            ],
             "pathId": 4307515785691101914,
             "blockIdx": 21
         },
@@ -273,6 +620,25 @@
             "jpText": "三冠路線、最後のレースである\r\n『菊花賞』は芝3000mの長距離レースだ。",
             "enText": "Kikka-sho, the last race of the Triple \nCrown, is a long-distance race of \n3,000 meters on the turf.",
             "nextBlock": 23,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -3099259410482475132
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 20674570036935021
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 5114457948142778056
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -3359894416299941633
+                }
+            ],
             "pathId": 116958204144597728,
             "blockIdx": 22
         },
@@ -282,8 +648,28 @@
             "jpText": "ステイヤーであるライスシャワーにとって、\r\n今までで一番の勝負所になることだろう――！",
             "enText": "This will be the most important race of the \nyear for the stayer, Rice Shower!",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -7270749757280190813
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3146820338109234270
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -2033019691312476581
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 5580646016640563931
+                }
+            ],
             "pathId": 3262145529802431530,
             "blockIdx": 23
         }
-    ]
+    ],
+    "modified": 1669945548
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "XA34ABGLFVD233AEGKNQUGB42Z3JGLGQ",
     "type": "story",
     "storyId": "501004418",
@@ -11,6 +11,17 @@
             "jpText": "アクセルを全開にして、レースを楽しんで\r\n結果を出したマルゼンスキー。",
             "enText": "Maruzensky was able to enjoy the\nrace with her foot on the gas and\nget the results she wanted.",
             "nextBlock": 2,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": 1550032315320421635
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -8740753595660166783
+                }
+            ],
             "pathId": -2102245081947307162,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "ご機嫌な彼女は\r\nクラシックレースのステップを踏むために、\n『スプリングS』への出走を決めたのだった。",
             "enText": "She was in a good mood and decided to run\nin the \"Spring S\" to take a step toward\nthe classic race.",
             "nextBlock": 3,
+            "origClipLength": 111,
             "coloredText": [
                 {
                     "jpText": "クラシックレース",
@@ -28,6 +40,16 @@
                 {
                     "jpText": "スプリングS",
                     "enText": "Spring S"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": -2146454017015191151
+                },
+                {
+                    "origLen": 182,
+                    "pathId": 6494721330143303744
                 }
             ],
             "pathId": 2105742099772177038,
@@ -39,6 +61,17 @@
             "jpText": "マルゼンスキーが\r\nレースを心の底から楽しむ一方で……。",
             "enText": "While Maruzensky truly enjoys racing, …",
             "nextBlock": 4,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 5573781753828791971
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -5094872841308827685
+                }
+            ],
             "pathId": 114769128393616034,
             "blockIdx": 3
         },
@@ -48,8 +81,10 @@
             "jpText": "その圧倒的な走りは……彼女と走った\r\nウマ娘たちの目に、超えられない\n壁として映るのだった。",
             "enText": "Her overwhelming run was an insurmountable\nobstacle in the eyes of the Uma girls who\nran with her on …",
             "nextBlock": -1,
+            "origClipLength": 105,
             "pathId": -617163713372620856,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669944910
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "JAMJHG7YN4FXACNWIOZ6PPL4W32KKCP6",
     "type": "story",
     "storyId": "501030105",
@@ -11,6 +11,17 @@
             "jpText": "今日から、再び夏合宿が始まる。",
             "enText": "Today, the summer camp starts again.",
             "nextBlock": 2,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -8336504051925311014
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -7114861526246133753
+                }
+            ],
             "pathId": 1898660504471518048,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "えへへ……じりじりするね。\r\nこの感覚も……久しぶり。",
             "enText": "Hehehe… I'm getting nervous. It's been a long \ntime since I've felt this way…",
             "nextBlock": 3,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 7191525862100811570
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 4601076575094860247
+                }
+            ],
             "pathId": -8310268442503434342,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "もうあのときから、1年がたつなんて……。",
             "enText": "I can't believe it's already been \na year since that time…",
             "nextBlock": 4,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "思い出話にはまだ早いぞ",
@@ -41,6 +64,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 8670380343988975314
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 1197240520675932857
+                }
+            ],
             "pathId": -8520312482877712597,
             "blockIdx": 3
         },
@@ -50,6 +83,18 @@
             "jpText": "ふふっ、そうだね。お兄さま。",
             "enText": "Hmmm… I guess so. Big brother.",
             "nextBlock": 5,
+            "origClipLength": 54,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -4847499056531136920
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -1221480466945827603
+                }
+            ],
             "pathId": -1818984981329508002,
             "blockIdx": 4
         },
@@ -59,6 +104,18 @@
             "jpText": "ふふっ、そうだね。お姉さま。",
             "enText": "Hmmm… I guess so. Sis.",
             "nextBlock": 6,
+            "origClipLength": 54,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 5475958948898725560
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 292588649084715384
+                }
+            ],
             "pathId": 4472384729926865451,
             "blockIdx": 5
         },
@@ -68,6 +125,17 @@
             "jpText": "――ライスが目指すのは『有馬記念』",
             "enText": "—Rice is aiming for \"Arima Kinen\".",
             "nextBlock": 7,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -8686532463114659279
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -9121148535941884687
+                }
+            ],
             "pathId": 8390861892274641981,
             "blockIdx": 6
         },
@@ -77,6 +145,17 @@
             "jpText": "最高の舞台で、最高のウマ娘さんたちと、\r\n……最高のレースをするんだから。",
             "enText": "We're going to have the best race \non the best stage, with the best Uma \nMusume and … the best race.",
             "nextBlock": 8,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -7454414624810061757
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -8198705569853373814
+                }
+            ],
             "pathId": 2063115936244676908,
             "blockIdx": 7
         },
@@ -86,6 +165,18 @@
             "jpText": "……お兄さま。今年の合宿は厳しくして、ね？",
             "enText": "… Brother. This year's camp \nis strictly for you, okay?",
             "nextBlock": 9,
+            "origClipLength": 58,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -476325672136896072
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -6776523879261746992
+                }
+            ],
             "pathId": 4617333866142325119,
             "blockIdx": 8
         },
@@ -95,6 +186,18 @@
             "jpText": "……お姉さま。今年の合宿は厳しくして、ね？",
             "enText": "… sister. This year's camp is \nstrictly for you, okay?",
             "nextBlock": 10,
+            "origClipLength": 58,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 4935985712532058646
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -3379994953268104786
+                }
+            ],
             "pathId": 8052144880026447030,
             "blockIdx": 9
         },
@@ -104,8 +207,20 @@
             "jpText": "――そして夏合宿がスタートした！",
             "enText": "—And the summer camp has begun!",
             "nextBlock": -1,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -2140060998845039324
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -2596055746685983760
+                }
+            ],
             "pathId": 2546639108154190574,
             "blockIdx": 10
         }
-    ]
+    ],
+    "modified": 1669945539
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PNUESTE7KMFWVJQZV3YVTBFNWMOWBUHR",
     "type": "story",
     "storyId": "501008718",
@@ -11,6 +11,17 @@
             "jpText": "よぉ、トレーナー！\r\n休みをくれてありがとなっ！",
             "enText": "Hey, trainer! Thanks for \ngiving me the day off!",
             "nextBlock": 2,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 6836921352122969494
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -8645578679818504131
+                }
+            ],
             "pathId": 6926058363828538927,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "父ちゃんたちともゆっくり話せて、\r\n活を入れてもらったからよ。",
             "enText": "I was able to talk to my dad and my dad's \ndad, and they gave me a boost.",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 3545036875126873213
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -6001704159676788550
+                }
+            ],
             "pathId": 1794958886630768848,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "整備後のバイクかってくれぇに、\r\n快調に走れそうだぜ！",
             "enText": "Give me the bike when you're done with it, \nand it'll be running great!",
             "nextBlock": 4,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -3000345243396146087
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -6509796479116623890
+                }
+            ],
             "pathId": -7869109698141752517,
             "blockIdx": 3
         },
@@ -38,8 +71,20 @@
             "jpText": "またいつも通り飛ばしていくから、\r\nよろしく頼むな。",
             "enText": "I'll be flying again as usual, \nso please take care of me.",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 9047353517714470434
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 9055414718816309067
+                }
+            ],
             "pathId": -3803463601578789794,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945052
 }

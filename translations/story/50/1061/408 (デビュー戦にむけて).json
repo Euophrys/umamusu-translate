@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "2APBNSZ4DJYHJERKLO7IDCJUEC5C2MSR",
     "type": "story",
     "storyId": "501061408",
@@ -11,6 +11,17 @@
             "jpText": "待ちに待ったデビュー戦を迎え、\r\n『私がデビュー1番乗りよ！』と\n高笑いするキングヘイロー。",
             "enText": "Her long awaited debut has arrived, \nand King Halo proudly smiled \"I'm \nthe first to make my debut!\"",
             "nextBlock": 2,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 903077854127801967
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 4615909023853451029
+                }
+            ],
             "pathId": 799899757994303953,
             "blockIdx": 1
         },
@@ -20,10 +31,21 @@
             "jpText": "……そんな中、控室のテレビから\r\n先日デビューしていたグラスワンダーの\n見事な走りを称える声が聞こえてきた。",
             "enText": "… Meanwhile, I heard a voice on the waiting \nroom TV praising the splendid run of Grass \nWonder, who debuted the other day.",
             "nextBlock": 3,
+            "origClipLength": 115,
             "coloredText": [
                 {
                     "jpText": "グラスワンダー",
                     "enText": "Grass Wonder"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 8861167214460653428
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -1180564846750181587
                 }
             ],
             "pathId": 2569619408717333057,
@@ -35,8 +57,20 @@
             "jpText": "キングヘイロー、デビュー1番乗りならず。\r\n……まあ、結果良ければすべてよし。\nさあデビュー戦、出走だ！！",
             "enText": "King Halo was not the first to make her \ndebut… Well, all's well that ends \nwell. Let's go for her debut!!",
             "nextBlock": -1,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": -1297862994766859902
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 3899776639998623734
+                }
+            ],
             "pathId": -8154343076246913641,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945930
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "VA2YHIDMZIZUL7SSDL4OOJ7SMPKDOOCX",
     "type": "story",
     "storyId": "801030001",
@@ -11,6 +11,7 @@
             "jpText": "買い物中、商店街を歩いていると――",
             "enText": "I'm shopping, I'm walking along \nthe shopping street…",
             "nextBlock": 2,
+            "origClipLength": 84,
             "pathId": 6968048953243394185,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "花屋で水やりをしている\r\nライスシャワーが目に入った。",
             "enText": "I saw a rice shower being watered \nin a flower shop.",
             "nextBlock": 3,
+            "origClipLength": 108,
             "pathId": 8734539134301672118,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "よいしょ、よいしょ……。\r\n……ふうっ、これでいいかな。",
             "enText": "Good, good, good… Phew, there we go.",
             "nextBlock": 4,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": -5448123410726106039
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 1372051915925685117
+                }
+            ],
             "pathId": -2684639737404673522,
             "blockIdx": 3
         },
@@ -38,11 +51,22 @@
             "jpText": "……あ、あれ？　どうしてここに……\r\nじゃなくて、いらっしゃいませ……。",
             "enText": "… Oh, what? Why are you here… \ninstead of… Welcome…",
             "nextBlock": 5,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "なんでライスが店番を？",
                     "enText": "Why is Rice in charge of the shop?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 6370019518703887485
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -6044954073830973807
                 }
             ],
             "pathId": 5427381883292584467,
@@ -54,6 +78,17 @@
             "jpText": "店長さん、ライスがひっくり返した鉢植えの\r\nせいで、脚をくじいちゃって……。",
             "enText": "The manager has broken her leg because of a \npotted plant that Rice knocked over…",
             "nextBlock": 6,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 3216455566002254906
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -430551216815407884
+                }
+            ],
             "pathId": -8326756980457858102,
             "blockIdx": 5
         },
@@ -63,6 +98,7 @@
             "jpText": "だから……今日はライスがお手伝いするんだ。\r\nちゃんとできるといいんだけど……。",
             "enText": "So… Rice is going to help you today. \nI hope I can do it right…",
             "nextBlock": 7,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "水やり手伝おうか？",
@@ -75,6 +111,16 @@
                     "nextBlock": 11
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -8253066664088605705
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -470814978363771839
+                }
+            ],
             "pathId": 325894111784300332,
             "blockIdx": 6
         },
@@ -84,6 +130,17 @@
             "jpText": "えっ？　ほ、ほんとに……？\r\n……じゃあ、お願いしてもいいかな……？",
             "enText": "What? Really, really…?… Well, \ncan I ask you to…?",
             "nextBlock": 8,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -8511077226962370327
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 7966282212556441438
+                }
+            ],
             "pathId": 493344801537148150,
             "blockIdx": 7
         },
@@ -93,6 +150,17 @@
             "jpText": "お店のお花……みんな綺麗でしょ？\r\n特にね、バラが素敵なの……！",
             "enText": "The flowers in the shop… are all \nbeautiful, aren't they? Especially \nthe roses, they're lovely…!",
             "nextBlock": 9,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7144313944910093737
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 986047873980893474
+                }
+            ],
             "pathId": 5366055518358485068,
             "blockIdx": 8
         },
@@ -102,6 +170,17 @@
             "jpText": "お水をあげると、花びらがキラキラして\r\n……ライス、ついつい見惚れちゃうんだぁ。",
             "enText": "When you water it, the petals sparkle and … \nrice, you can't help but admire them.",
             "nextBlock": 10,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 7173945019866131081
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -8621383907102012531
+                }
+            ],
             "pathId": -6490982690804580719,
             "blockIdx": 9
         },
@@ -111,6 +190,17 @@
             "jpText": "ライスシャワーと楽しくお喋りをしながら、\r\n店中の花に水やりをした。",
             "enText": "We had a nice chat with Rice Shower and \nwatered the flowers in the shop.",
             "nextBlock": -1,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 4343062759234524565
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -6817102387742703012
+                }
+            ],
             "pathId": 1264870469196553500,
             "blockIdx": 10
         },
@@ -120,6 +210,17 @@
             "jpText": "あ、ありがとう……。\r\n重いのもあるから、気をつけてね……？",
             "enText": "Oh, thanks… Some of them are \nheavy, so be careful…?",
             "nextBlock": 12,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -4586716040895572830
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 4942982051816778426
+                }
+            ],
             "pathId": 2368237156474964868,
             "blockIdx": 11
         },
@@ -129,6 +230,17 @@
             "jpText": "綺麗なお花……お店の外にいっぱい飾ったら\r\nお客さん来てくれるかな？　……えへへっ！",
             "enText": "Beautiful flowers… If I put lots \nof flowers outside my shop, will \ncustomers come? …Ehehe!",
             "nextBlock": 13,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 5611272561391273922
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -3399692797401037820
+                }
+            ],
             "pathId": 8599389776623913901,
             "blockIdx": 12
         },
@@ -138,8 +250,20 @@
             "jpText": "一通りの品出しが終了した。\r\n思っていたよりも、なかなかの重労働だ。",
             "enText": "I've just finished sorting out all \nthe items. It's a lot more work \nthan I thought it would be.",
             "nextBlock": -1,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -2145516973694246472
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 1111415392122209483
+                }
+            ],
             "pathId": 1952557107743925254,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669945957
 }

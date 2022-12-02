@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "JHVPBJK7KHGFLIIP2Y2JYUHTOFYGENBJ",
     "type": "story",
     "storyId": "400000039",
@@ -11,6 +11,13 @@
             "jpText": "トレーニングに来なかった\r\n<chrname>。",
             "enText": "<chrname> didn't show up for training.",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -1365434775048624644
+                }
+            ],
             "pathId": -1280321236585592005,
             "blockIdx": 1
         },
@@ -20,8 +27,16 @@
             "jpText": "事情を聞き出しつつも\r\n次はこんなことのないよう言い聞かせると、\nきちんと謝ってくれたのだった。",
             "enText": "I asked her about the situation and told her\nnot to let it happen again, and she\napologized to me.",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 6806627371967990186
+                }
+            ],
             "pathId": -6824715891484827101,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944803
 }

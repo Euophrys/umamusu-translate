@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6QXLOPNP6LR5I4SFW46PKGFFURZPPX2W",
     "type": "story",
     "storyId": "501004407",
@@ -11,6 +11,17 @@
             "jpText": "生徒を乗せたバスを抜き去って、\r\n合宿所に前乗りしたマルゼンスキー。",
             "enText": "Maruzensky passes a bus full of students\nand rides ahead to the training camp.",
             "nextBlock": 2,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 7379339014797417273
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1529389931532716634
+                }
+            ],
             "pathId": -3569511527819579092,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "秋の大舞台『天皇賞（秋）』に向け、\r\n熱のこもった『夏合宿』が\nスタートするのだった！",
             "enText": "The feverish \"summer training camp\" for\nthe big stage of autumn, \"Tennou-shou\n(Autumn)\", has started!",
             "nextBlock": -1,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -6659934753999963166
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -8348070316275786844
+                }
+            ],
             "pathId": 3823584030752026208,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944910
 }

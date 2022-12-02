@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ER7MLZJT6W2WJGMUN4YIJGC2IVWQFMAZ",
     "type": "story",
     "storyId": "501032729",
@@ -11,6 +11,21 @@
             "jpText": "おかしいな。\r\n少しくらいは取れてもいいはずだが。",
             "enText": "That's strange. I should be able\nto get at least a little bit.",
             "nextBlock": 2,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 5742179544606901497
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -1615157014957765880
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3690972667046914984
+                }
+            ],
             "pathId": 4200293985436651437,
             "blockIdx": 1
         },
@@ -20,6 +35,21 @@
             "jpText": "いや、失敗は成功の母というじゃないか。\r\nこれは次のステップへの第一歩だとも。",
             "enText": "No, they say that failure is the\nmother of success. This is the first\nstep to the next step.",
             "nextBlock": 3,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -5479627430885341671
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -4130057304528588638
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 3818934938461921690
+                }
+            ],
             "pathId": 419215100478059884,
             "blockIdx": 2
         },
@@ -29,6 +59,17 @@
             "jpText": "というわけで新薬の実験に移ろう！\r\n今度は一種の催眠状態を誘発するもので――",
             "enText": "So, let's move on to the new drug\nexperiment! This time, we're going to\ninduce a kind of hypnotic state.",
             "nextBlock": 4,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 6218708065832838684
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 7403457206723223509
+                }
+            ],
             "pathId": -6475350519648709435,
             "blockIdx": 3
         },
@@ -38,6 +79,21 @@
             "jpText": "――しまった！\r\nラボに置きっぱなしだ……よし、帰るっ！",
             "enText": "—Oh, no! I left it in the lab.\n… Okay, I'm leaving!",
             "nextBlock": 5,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 6606161711507107698
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -3925643306336333784
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 4411880179522213881
+                }
+            ],
             "pathId": -7089896755684959270,
             "blockIdx": 4
         },
@@ -47,8 +103,24 @@
             "jpText": "残念な結果に終わった……。",
             "enText": "A disappointing result:…",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 8426475062869523404
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 6542286413191824970
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 8562031604759184904
+                }
+            ],
             "pathId": 5341000582238978787,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945594
 }

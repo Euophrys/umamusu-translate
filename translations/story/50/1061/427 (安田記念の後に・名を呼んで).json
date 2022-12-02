@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CDZYTW2YHWQQZOGRADTKLPHVIARA4J63",
     "type": "story",
     "storyId": "501061427",
@@ -11,6 +11,17 @@
             "jpText": "『安田記念』を立派な着順で終えた\r\nキングヘイローは観客たちから声援を受ける。\nみんな、すっかり“キング”に夢中だ。",
             "enText": "The crowd cheers King Halo on after finishing \nYasuda Kinen in a prominent position. Everyone \nis completely taken by \"King\".",
             "nextBlock": 2,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": 7324981501574889461
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 6851219248963371495
+                }
+            ],
             "pathId": 8822989321952383287,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "キングヘイローが持つ短距離での才能に\r\n結果がついてきたことで、彼女は自分らしい\n『一流のウマ娘』としての道を進んでいる。",
             "enText": "With her talent in short distances and the \nresults to show, she proudly walks her own \npath to \"top-notch horsegirl\".",
             "nextBlock": 3,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -5088022411858021854
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -3894025777674133148
+                }
+            ],
             "pathId": 6958321588053320032,
             "blockIdx": 2
         },
@@ -29,14 +51,26 @@
             "jpText": "ファンたちと触れ合い笑う彼女は次の進路を\r\n秋のＧＩレース『スプリンターズステークス』\nだと発表するのだった。",
             "enText": "Laughing as she interacted with her fans, she \nannounced that her next destination would be \nthe autumn GI race, the Sprinter's Stakes.",
             "nextBlock": -1,
+            "origClipLength": 116,
             "coloredText": [
                 {
                     "jpText": "スプリンターズステークス",
                     "enText": "Sprinter's Stakes"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -761274326325784397
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -2540623632365664755
+                }
+            ],
             "pathId": 4909502865047787776,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945932
 }

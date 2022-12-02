@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BVKQ3HEEZBKIQZK6JPY27R5V2VUXYUQY",
     "type": "story",
     "storyId": "501041432",
@@ -11,6 +11,17 @@
             "jpText": "見事にニシノフラワーを抑え、\r\nサクラバクシンオーは再び\n『スプリンターズS』を制した！",
             "enText": "Sakura Bakushin O has once again won\nthe Sprinters Sprinters, this time\nover Nishino Flower!",
             "nextBlock": 2,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 3351212578358813075
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -7444461374869660943
+                }
+            ],
             "pathId": -9151090313315827810,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "トレーナーは大舞台を連勝で飾った彼女を、\r\nこれでもかと褒めちぎる！",
             "enText": "Her trainer was all praise for her, after\nshe had won so many big games in a row!",
             "nextBlock": 3,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -1387369337368381422
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 8024624428154350737
+                }
+            ],
             "pathId": -4873279634039194736,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "『スプリンターズS』で連勝するほど\r\n成長した今の彼女ならば、1600mにも\n挑戦できる。トレーナーはそう確信し――",
             "enText": "The trainer was convinced that she had\nmatured to the point where she could win the\nSprinter's Sprint, and that she could take\non the 1600 meters. The trainer was\nconvinced.",
             "nextBlock": 4,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -8300388332851276774
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 4839284595049159007
+                }
+            ],
             "pathId": -7319214939624515906,
             "blockIdx": 3
         },
@@ -38,14 +71,26 @@
             "jpText": "スプリントからちょこっと距離を伸ばし、\r\n『マイルCS』へ……\n彼女を送り出すことに決めたのだった！",
             "enText": "I decided to send her to… for the Mile\nCS, a little longer than the sprint!",
             "nextBlock": -1,
+            "origClipLength": 110,
             "coloredText": [
                 {
                     "jpText": "マイルCS",
                     "enText": "Mile CS"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 2395767364428090288
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -4482559361116160624
+                }
+            ],
             "pathId": -2527418718373883030,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945712
 }

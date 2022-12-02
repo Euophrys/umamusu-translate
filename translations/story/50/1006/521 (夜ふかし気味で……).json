@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CJQTB555ZE6CV4HNVNT75DEWXLRF3SZW",
     "type": "story",
     "storyId": "501006521",
@@ -11,6 +11,17 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 2,
+            "origClipLength": 46,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -5560204490220997127
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 8724866141829538914
+                }
+            ],
             "pathId": 336029483449868784,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "朝、オグリキャップが\r\n校門の前を素通りしていた。",
             "enText": "In the morning, Oguri Cap was walking \npast the school gate.",
             "nextBlock": 3,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "どこに行くんだ？",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 4152886896372214639
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -8252795248056111674
+                }
+            ],
             "pathId": 1068512902695768032,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "危ないところだった。\r\n感謝するトレーナー……ふぁ。",
             "enText": "That was a close one. Thank you trainer… wow.",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -7069639199104228565
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8941231058689850289
+                }
+            ],
             "pathId": 6464825506471885071,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "昨日はなかなか寝付けず、羊のかわりに\r\nたこ焼きを数えていたんだ。",
             "enText": "I couldn't sleep well last night, so I was \ncounting takoyaki instead of sheep.",
             "nextBlock": 5,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -3472956528584492716
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -5858139724798316776
+                }
+            ],
             "pathId": 5079553486191358115,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "その次は、たい焼きを数え、\r\nにんじんを数え、ハンバーグを数え……。",
             "enText": "Next, count the taiyaki, count the \ncarrots, count the hamburgers…",
             "nextBlock": 6,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 8125306151629929923
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3242632575746731903
+                }
+            ],
             "pathId": 1101532863781962120,
             "blockIdx": 5
         },
@@ -68,6 +123,17 @@
             "jpText": "気づいたら朝になっていた。",
             "enText": "The next thing I knew, it was morning.",
             "nextBlock": 7,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 3066357775397267731
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -1530267455640612412
+                }
+            ],
             "pathId": -6822153274547144438,
             "blockIdx": 6
         },
@@ -77,8 +143,20 @@
             "jpText": "その後もオグリキャップは\r\n眠そうな目をしていた。",
             "enText": "After that, Oguri-cap's eyes \nwere still sleepy.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -6191816050024023440
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8793767190778792887
+                }
+            ],
             "pathId": 6947260284621955504,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669944982
 }

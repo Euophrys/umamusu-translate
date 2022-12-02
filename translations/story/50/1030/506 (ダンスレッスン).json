@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "WSCHSKDXZ2HI2B47A4A7HCMPXALSBQT6",
     "type": "story",
     "storyId": "501030506",
@@ -11,6 +11,17 @@
             "jpText": "ワン、ツー、ワン、ツー。\r\n……ここで、脚を――――",
             "enText": "One, two, one, two… Here's the leg: —",
             "nextBlock": 2,
+            "origClipLength": 92,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -1392833644749095406
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -4191789126919230775
+                }
+            ],
             "pathId": 5742171282041014900,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "ひぁっ！",
             "enText": "Huh!",
             "nextBlock": 3,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 5633499544713490362
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -3333720175964117892
+                }
+            ],
             "pathId": -9081001070539512371,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "あうぅ、また失敗……。\r\nもっと練習しなきゃ……。",
             "enText": "Ahhh, another failure… I \nneed to practice more…",
             "nextBlock": 4,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "頑張ってるな",
@@ -41,6 +64,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -1149343258417539951
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -5670766592811798979
+                }
+            ],
             "pathId": -6128259145971276571,
             "blockIdx": 3
         },
@@ -50,6 +83,18 @@
             "jpText": "ふわっ！？　お兄さま！？\r\nみ、見つかっちゃった――",
             "enText": "Whoa! My brother! You found me…",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -1957098353769944013
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 9199020911047094106
+                }
+            ],
             "pathId": 1169575162189333262,
             "blockIdx": 4
         },
@@ -59,6 +104,18 @@
             "jpText": "ふわっ！？　お姉さま！？\r\nみ、見つかっちゃった――",
             "enText": "Whoa! Your sister! You found me…",
             "nextBlock": 6,
+            "origClipLength": 61,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 8993094028712380729
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5726803332944818800
+                }
+            ],
             "pathId": -5823016115939955665,
             "blockIdx": 5
         },
@@ -68,11 +125,22 @@
             "jpText": "ごめんなさい。その……\r\n誰もいない内に、練習をと思って。",
             "enText": "I'm sorry. That… I thought I'd practice while \nno one else was around.",
             "nextBlock": 7,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "どうして1人で？",
                     "enText": "Why are you alone?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 5699491387422976941
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4538603169900022928
                 }
             ],
             "pathId": 1951230426552061121,
@@ -84,6 +152,17 @@
             "jpText": "……この前、クラスでのレッスンのときに、\r\nスタジオが、その……停電しちゃって。",
             "enText": "… The other day, during a class, \nthe studio lost its… power.",
             "nextBlock": 8,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -4739600825821429703
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -8856609188412429190
+                }
+            ],
             "pathId": -350984612079457103,
             "blockIdx": 7
         },
@@ -93,6 +172,17 @@
             "jpText": "みんなのレッスンを止めちゃって……\r\n多分、あれはライスがいたせいだから……。",
             "enText": "I stopped everyone's lessons… Maybe that was \nbecause of Rice's presence…",
             "nextBlock": 9,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -4217449576330062811
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -7573293302901464724
+                }
+            ],
             "pathId": 913328564868728499,
             "blockIdx": 8
         },
@@ -102,6 +192,17 @@
             "jpText": "またみんなに、迷惑をかけたくなくて……\r\nだから……1人で、練習していたの。",
             "enText": "I didn't want to get in trouble with everyone \nagain… So I was practicing with…1 alone.",
             "nextBlock": 10,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -741866061829327013
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7484799222840310868
+                }
+            ],
             "pathId": -4965921540949538519,
             "blockIdx": 9
         },
@@ -111,6 +212,7 @@
             "jpText": "……お兄さまも、いまここにいると、\r\nなにか迷惑かけちゃうかも……。",
             "enText": "… If you are here now, you \nmight be in some trouble…",
             "nextBlock": 11,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "俺がいると困らせちゃうか？",
@@ -126,6 +228,17 @@
                     "jpText": "迷惑どんとこい！",
                     "enText": "Don't bother me!",
                     "nextBlock": 21
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 4936199918201673629
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -2520013865054169687
                 }
             ],
             "pathId": 8910138892313643986,
@@ -137,6 +250,7 @@
             "jpText": "……お姉さまも、いまここにいると、\r\nなにか迷惑かけちゃうかも……。",
             "enText": "… Your sister might be in some \ntrouble if she is here now…",
             "nextBlock": 12,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "俺がいると困らせちゃうか？",
@@ -154,6 +268,17 @@
                     "nextBlock": 21
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -1896153105948709572
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1963247242906529028
+                }
+            ],
             "pathId": -3263055069606948895,
             "blockIdx": 11
         },
@@ -163,11 +288,23 @@
             "jpText": "そ、そんなこと！\r\nお兄さまが私を困らせることなんて、ない！",
             "enText": "No, no, no! There's nothing \nyou can do to annoy me!",
             "nextBlock": 13,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "なら、手伝わせてほしい",
                     "enText": "Then let me help you.",
                     "nextBlock": 14
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -325231937286246803
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -2031515484922474296
                 }
             ],
             "pathId": -6450999502797100260,
@@ -179,11 +316,23 @@
             "jpText": "そ、そんなこと！\r\nお姉さまが私を困らせることなんて、ない！",
             "enText": "No, no, no! You're not going to embarrass me!",
             "nextBlock": 14,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "なら、手伝わせてほしい",
                     "enText": "Then let me help you.",
                     "nextBlock": 14
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 8952449754405190356
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -1017741091835620588
                 }
             ],
             "pathId": -6582558463685601494,
@@ -195,6 +344,18 @@
             "jpText": "お兄さま……。",
             "enText": "Please contact your brother…",
             "nextBlock": 15,
+            "origClipLength": 49,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 312763295795049178
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 763184628843346945
+                }
+            ],
             "pathId": 8694568289422690901,
             "blockIdx": 14
         },
@@ -204,6 +365,18 @@
             "jpText": "お姉さま……。",
             "enText": "Please contact your sister…",
             "nextBlock": 16,
+            "origClipLength": 49,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -3452517625472102095
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3972644101635900869
+                }
+            ],
             "pathId": -3841332034888662022,
             "blockIdx": 15
         },
@@ -213,6 +386,17 @@
             "jpText": "――ありがとう。",
             "enText": "—Thanks.",
             "nextBlock": 17,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -3544866514235435214
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 119821279962222025
+                }
+            ],
             "pathId": -2797682681379860819,
             "blockIdx": 16
         },
@@ -222,11 +406,23 @@
             "jpText": "ライス、ダンスのできてないところを、\r\nお兄さまに指摘してもらいたい……。",
             "enText": "Rice, needs you to point out to me what I'm \nnot doing in my dancing…",
             "nextBlock": 18,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "一緒に頑張ろう！",
                     "enText": "We're in this together!",
                     "nextBlock": 19
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 8891383760831877949
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5505993870876140796
                 }
             ],
             "pathId": 7357947994618299485,
@@ -238,11 +434,23 @@
             "jpText": "ライス、ダンスのできてないところを、\r\nお姉さまに指摘してもらいたい……。",
             "enText": "Rice, I'd like to have your sister point out \nto me what I'm not doing in the dance…",
             "nextBlock": 19,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "一緒に頑張ろう！",
                     "enText": "We're in this together!",
                     "nextBlock": 19
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 8479754183494878200
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1528701691074506444
                 }
             ],
             "pathId": 6641505119129148192,
@@ -254,6 +462,17 @@
             "jpText": "……うん！",
             "enText": "… Yeah!",
             "nextBlock": 20,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 4589359029382496503
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -4804945414393311508
+                }
+            ],
             "pathId": -2572272301638417144,
             "blockIdx": 19
         },
@@ -263,6 +482,17 @@
             "jpText": "その後、ライスシャワーと\r\nダンスの苦手箇所を徹底的に\n練習することができた。",
             "enText": "After that, I was able to practice my weak \npoints in Rice Shower and dance thoroughly.",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -3980230447547401105
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5486980186146574891
+                }
+            ],
             "pathId": -1535434002722598778,
             "blockIdx": 20
         },
@@ -272,11 +502,23 @@
             "jpText": "ふぇっ！？　そ、そんな！\r\n私、お兄さまを困らせたくない……！",
             "enText": "Huh? Oh, no! I don't want to \nembarrass my brother…!",
             "nextBlock": 22,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "ライスが1人で悩んじゃう方が困るかな",
                     "enText": "I think I'd rather have Rice \nworry about it alone.",
                     "nextBlock": 23
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 7100323962389391709
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 604451743388752417
                 }
             ],
             "pathId": 4011601208465045765,
@@ -288,11 +530,23 @@
             "jpText": "ふぇっ！？　そ、そんな！\r\n私、お姉さまを困らせたくない……！",
             "enText": "Huh? Oh, no! I don't want \nto embarrass my sister…!",
             "nextBlock": 23,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "ライスが1人で悩んじゃう方が困るかな",
                     "enText": "I think I'd rather have Rice \nworry about it alone.",
                     "nextBlock": 23
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 4301178832410664544
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 5742983154036966773
                 }
             ],
             "pathId": -4420157387845878805,
@@ -304,6 +558,18 @@
             "jpText": "お兄さま――",
             "enText": "Brother—",
             "nextBlock": 24,
+            "origClipLength": 48,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 9007110123866834085
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 1292056583648363722
+                }
+            ],
             "pathId": -5591501742203173402,
             "blockIdx": 23
         },
@@ -313,6 +579,18 @@
             "jpText": "お姉さま――",
             "enText": "Sister—",
             "nextBlock": 25,
+            "origClipLength": 48,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 6946145271801930631
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 3531531178327545717
+                }
+            ],
             "pathId": -1938984567206590542,
             "blockIdx": 24
         },
@@ -322,11 +600,22 @@
             "jpText": "私……練習のことで、相談してもいいのかな？",
             "enText": "I… wonder if I can talk to \nyou about the practice?",
             "nextBlock": 26,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "もちろん！",
                     "enText": "Of course!",
                     "nextBlock": 26
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -5729562591953852535
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -1099448535098914650
                 }
             ],
             "pathId": 8799270353153576808,
@@ -338,6 +627,17 @@
             "jpText": "あ、ありがとう！\r\n実はね、ステップで難しい所が――",
             "enText": "Oh, thank you! Actually, I'm having \ntrouble with the steps.",
             "nextBlock": 27,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -1562579230077626038
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -8055624816829801538
+                }
+            ],
             "pathId": 5452192671152538670,
             "blockIdx": 26
         },
@@ -347,8 +647,20 @@
             "jpText": "その後、ライスシャワーの\r\nダンス練習の相談に遅くまでのってあげた。",
             "enText": "Afterwards, I stayed up late helping the Rice \nShower with their dance practice.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 5470542760677463200
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1398490774988308679
+                }
+            ],
             "pathId": 576010048854996022,
             "blockIdx": 27
         }
-    ]
+    ],
+    "modified": 1669945554
 }

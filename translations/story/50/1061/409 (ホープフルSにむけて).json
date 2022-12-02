@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "RY6K7AN3LCNPWW6WX5SYUHTEUX6IIPCM",
     "type": "story",
     "storyId": "501061409",
@@ -11,10 +11,21 @@
             "jpText": "ジュニア級チャンピオンを\r\n決める舞台の1つである、\nＧＩレース『ホープフルステークス』。",
             "enText": "The GI race \"Hopeful Stakes\" is one of the \nstages to decide the junior class champion.",
             "nextBlock": 2,
+            "origClipLength": 103,
             "coloredText": [
                 {
                     "jpText": "ジュニア級",
                     "enText": "junior class"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -9019006147331833739
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 3501391920488914802
                 }
             ],
             "pathId": -1391337750865102816,
@@ -26,8 +37,20 @@
             "jpText": "これは通過点にすぎない。\r\n故に華麗に美しく最高の走りを見せるのだと、\nキングヘイローは勝利への思いを語った。",
             "enText": "This is just a passing phase. This is just a \npassing phase, and we have to make the best \nof it,\" King Halo said in her victory speech.",
             "nextBlock": -1,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -3904599813359521760
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 6393251490571095856
+                }
+            ],
             "pathId": -7568971594406164397,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945930
 }

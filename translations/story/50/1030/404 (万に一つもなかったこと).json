@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "NBXMIRAW25ZUGSXXHVGQFGKBOEB7HTZ5",
     "type": "story",
     "storyId": "501030404",
@@ -11,10 +11,21 @@
             "jpText": "次の目標を『宝塚記念』に決め、\r\n日々トレーニングに励むライスシャワーは、\n道行く人々から『応援』の声をかけられる。",
             "enText": "With sights set on Takarazuka Kinen, a \nhard-training Rice Shower is greeted with \ncheers on the streets.",
             "nextBlock": 2,
+            "origClipLength": 120,
             "coloredText": [
                 {
                     "jpText": "宝塚記念",
                     "enText": "Takarazuka Kinen"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 204,
+                    "pathId": 7084049893320501549
+                },
+                {
+                    "origLen": 219,
+                    "pathId": -5493757487407973908
                 }
             ],
             "pathId": -8330973649103002251,
@@ -26,6 +37,25 @@
             "jpText": "多くの人から支持され、ファン投票で\r\n人気1位となった彼女は阪神レース場での\n開催セレモニーに参加することが決まる。",
             "enText": "She was voted most popular by the fans, and \nwas chosen to participate in the opening \nceremony at Hanshin Racecourse.",
             "nextBlock": 3,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 204,
+                    "pathId": 2693391630395147129
+                },
+                {
+                    "origLen": 219,
+                    "pathId": 8489461805030447643
+                },
+                {
+                    "origLen": 268,
+                    "pathId": -8399664614115988330
+                },
+                {
+                    "origLen": 266,
+                    "pathId": -5606601964670259628
+                }
+            ],
             "pathId": 5010774588206240875,
             "blockIdx": 2
         },
@@ -35,6 +65,17 @@
             "jpText": "まずはリハーサルに臨むライスシャワー。\r\nだが、会場で起きたアクシデントによって\nトレーナーがケガを負ってしまう。",
             "enText": "First, Rice Shower rehearsal. However, an \naccident at the venue injures the trainer.",
             "nextBlock": 4,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 268,
+                    "pathId": 1970547673004474171
+                },
+                {
+                    "origLen": 266,
+                    "pathId": 3391342800577362649
+                }
+            ],
             "pathId": -6290519627709793241,
             "blockIdx": 3
         },
@@ -44,8 +85,20 @@
             "jpText": "さらに、事故の原因が突き止められない限り、\r\n『宝塚記念』は開催できない\n状況に陥ってしまうのだった。",
             "enText": "Furthermore, unless the cause of the accident \ncould be identified, the Takarazuka Memorial \ncould not be held.",
             "nextBlock": -1,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 268,
+                    "pathId": -3650340437663939268
+                },
+                {
+                    "origLen": 266,
+                    "pathId": -7232113408386643912
+                }
+            ],
             "pathId": 5204978995271870566,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945552
 }

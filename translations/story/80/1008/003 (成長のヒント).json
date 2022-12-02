@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "KTABIK5P4XQ6JAPAWNMU4QBXNOMLQ245",
     "type": "story",
     "storyId": "801008003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nウオッカが話していた。",
             "enText": "After training, <chrname> \nand Vodka were talking.",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1208668298658153879
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6421963507340086966
+                }
+            ],
             "pathId": -8433739721845848449,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946277
 }

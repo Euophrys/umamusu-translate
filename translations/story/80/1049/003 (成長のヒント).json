@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4JXYHOZATFLLM5DQDTPIQQIH3DKFYGZW",
     "type": "story",
     "storyId": "801049003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\nナカヤマフェスタが話していた。",
             "enText": "After training, <chrname> and \nNakayama Festa were talking.",
             "nextBlock": -1,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -7953585272245188713
+                },
+                {
+                    "origLen": 182,
+                    "pathId": -8349196790961748057
+                }
+            ],
             "pathId": -5811023812174515593,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946376
 }

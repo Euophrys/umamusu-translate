@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "NTLWEOOHIZK6JUXJPMX25PDTHPNMVG3F",
     "type": "story",
     "storyId": "501030716",
@@ -11,6 +11,17 @@
             "jpText": "昼食を取りにライスシャワーと\r\nカフェテリアに来ていた。",
             "enText": "They came to Rice Shower and \ncafeteria for lunch.",
             "nextBlock": 2,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 8115182156548190516
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 168359623276621232
+                }
+            ],
             "pathId": -7723759818368834927,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "完熟りんごの三角パイ……！\r\n美味しそう……。",
             "enText": "Ripe apple triangle pie…! Looks delicious…",
             "nextBlock": 3,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -2267156969162234030
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -3896460673258645169
+                }
+            ],
             "pathId": 4977561608322589690,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "だけど……ううん、やっぱり……。",
             "enText": "But… no, it's still…",
             "nextBlock": 4,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "どうしたの？",
                     "enText": "What's going on?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 6537590320704600669
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -2543069884438071808
                 }
             ],
             "pathId": 8132481449791815348,
@@ -45,6 +78,17 @@
             "jpText": "あのね……世界の童話だと、お腹いっぱい\r\n食べるのって悪者が多いの……。",
             "enText": "You know… in fairy tales around the world, \neating a full meal is often a bad thing…",
             "nextBlock": 5,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -7638176206158449338
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -8471713825579144389
+                }
+            ],
             "pathId": -3054281934931292935,
             "blockIdx": 4
         },
@@ -54,11 +98,22 @@
             "jpText": "ライスも、いっぱい食べるから……\r\nこのままだと……悪者に……。",
             "enText": "Rice, too, because I eat a lot of… If I keep \nthis up, I'm going to… be a bad… person.",
             "nextBlock": 6,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "まだ間に合う！",
                     "enText": "It's not too late!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 1527658515602391953
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -4045495304728924284
                 }
             ],
             "pathId": -430773111782152219,
@@ -70,6 +125,17 @@
             "jpText": "そ、そうかな……。",
             "enText": "Yeah, I don't know…",
             "nextBlock": 7,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -6441788667565176617
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -4747363980205552269
+                }
+            ],
             "pathId": -6327728868286161933,
             "blockIdx": 6
         },
@@ -79,6 +145,17 @@
             "jpText": "でも……がんばる。\r\nライス、悪者にはなりたくないから……！",
             "enText": "But I'll do my best… Rice, I don't \nwant to be the bad guy…!",
             "nextBlock": 8,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -1638324455031279277
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5313455462895103833
+                }
+            ],
             "pathId": 6348783893084163570,
             "blockIdx": 7
         },
@@ -88,8 +165,20 @@
             "jpText": "その後、ライスシャワーは必死に\r\n食事の量を制限するようになったのであった。",
             "enText": "After that, Rice Shower began desperately \ntrying to limit the amount of food she ate.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -7362922389977154354
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4236716575350457848
+                }
+            ],
             "pathId": -7165773461817294691,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945563
 }

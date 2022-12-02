@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "GQSVZSOOEU4REKK636D64MYBUREA2TAV",
     "type": "story",
     "storyId": "501008521",
@@ -11,6 +11,17 @@
             "jpText": "何か用事があったのか、ウオッカが\r\nトレーニング室へとやってきた。",
             "enText": "Vodka came into the training room, as if she \nhad some business to attend to.",
             "nextBlock": 2,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 7846971263344243542
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -8528176214527442597
+                }
+            ],
             "pathId": 7582139131511304320,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "聞いてくれよ、トレーナー。\r\n昨日から4時間しか寝てねぇんだ、俺！",
             "enText": "Listen to me, trainer. I've only slept four \nhours since last night, man!",
             "nextBlock": 3,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "え、どうして……？",
                     "enText": "Well, why…?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 4073354088228471763
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -640954177067619289
                 }
             ],
             "pathId": 9165180544249940009,
@@ -36,6 +58,17 @@
             "jpText": "腕っぷしとか鍛えてたら、\r\nそんな時間になっちまっててさ。",
             "enText": "I've been working out, and \nit's about that time.",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 7522690632556157985
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 50947559980296571
+                }
+            ],
             "pathId": -7570458346160675854,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "ま、他のヤツならアレかもしんねぇけど、\r\n俺なら4時間も寝りゃ十分っつーか……。",
             "enText": "Well, I don't know if it's the same \nfor other people, but for me, four hours \nof sleep is enough…",
             "nextBlock": 5,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 7018008617910924326
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -9104191796269320649
+                }
+            ],
             "pathId": 4225775428924041234,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "ふぁぁ……んんっ。",
             "enText": "Huh… hmmm.",
             "nextBlock": 6,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 8689433797300184900
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -2262076728436619403
+                }
+            ],
             "pathId": 7661285872137278650,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "――はっ！\r\nい、今のは眠かったわけじゃねぇからなっ！",
             "enText": "—Ha! I wasn't asleep when I said that!",
             "nextBlock": 7,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -2009584562883818602
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -7434710661534560817
+                }
+            ],
             "pathId": -4317065345212393249,
             "blockIdx": 6
         },
@@ -72,8 +138,20 @@
             "jpText": "その後も寝てない自慢をするために、\r\nウオッカは夜ふかしを繰り返すように\nなるのだった……。",
             "enText": "After that, Vodka would repeatedly stay up \nlate to brag about not sleeping…",
             "nextBlock": -1,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -964909160217391751
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -7330578761847628093
+                }
+            ],
             "pathId": -4337833272450007057,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669945046
 }

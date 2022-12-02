@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "SBLFSFCMJE7ZMUT6FBGVG5RUZRPL7243",
     "type": "story",
     "storyId": "501041425",
@@ -11,6 +11,25 @@
             "jpText": "ニシノフラワーのスピードを前に、\r\n敗北を喫したサクラバクシンオーは\n予想外の結果にうろたえてしまう。",
             "enText": "Sakura Bakushin O, who was defeated by the\nspeed of Nishino Flower, was stunned by the\nunexpected result.",
             "nextBlock": 2,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 1679900660518794757
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 3029363430480846837
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -5580634755925082983
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -4465423435789546770
+                }
+            ],
             "pathId": -9082313181832407616,
             "blockIdx": 1
         },
@@ -20,10 +39,29 @@
             "jpText": "このままでは学級委員長の座を奪われる……\r\nそう危ぶんだ彼女は、ニシノフラワーに\n今度こそ勝つため『高松宮記念』を目指す。",
             "enText": "If she doesn't, she'll lose her position as\nclass president… Fearing this, she\nsets her sights on the Takamatsu-no-miya\nKinen to beat Nishino Flower this time.",
             "nextBlock": 3,
+            "origClipLength": 124,
             "coloredText": [
                 {
                     "jpText": "高松宮記念",
                     "enText": "Takamatsu-no-Miya Commemoration"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -7292459256325319320
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -5315217383617283957
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -4573315266296892232
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 7576668533709198709
                 }
             ],
             "pathId": -4136796821934791842,
@@ -35,8 +73,28 @@
             "jpText": "サクラバクシンオーはニシノフラワーへ\r\n首を清潔にして待っていてくださいと、\n丁寧に宣戦布告するのだった。",
             "enText": "Sakura Bakushin O politely declared war on\nNishino Flower, telling her to keep her head\nclean and wait for her.",
             "nextBlock": -1,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -2757315034630524012
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 695527520663169854
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -3049985693187440669
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 9070689713824060459
+                }
+            ],
             "pathId": -2456720794320842266,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945712
 }

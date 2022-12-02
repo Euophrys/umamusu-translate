@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "27HFHJX5HUJWOU4P7ACKUEANFEDTGDXH",
     "type": "story",
     "storyId": "801013001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、カフェテリアで\r\n食事をとろうと思っていると――",
             "enText": "One day, I'm sitting in the \ncafeteria trying to eat.",
             "nextBlock": 2,
+            "origClipLength": 94,
             "pathId": 6585011782064932718,
             "blockIdx": 1
         },
@@ -20,11 +21,22 @@
             "jpText": "『限定10食！　スペシャルモンブラン』――\r\nでもっ、カロリーが……。",
             "enText": "Limited to 10 servings! Special Mont-Blanc\" \n- but with calories from…",
             "nextBlock": 3,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "すごい顔してるけど、平気？",
                     "enText": "You look amazing. Are you okay?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 6363448028853123335
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -217846163606091530
                 }
             ],
             "pathId": 7336945509497511182,
@@ -36,6 +48,17 @@
             "jpText": "ひゃあっ！？　あ、貴方は……。\r\nもう、驚かせないでください！",
             "enText": "Hiya! Oh, you're… Please \ndon't scare me again!",
             "nextBlock": 4,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -4996009964480510649
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 1096059843552399468
+                }
+            ],
             "pathId": -471140917677534478,
             "blockIdx": 3
         },
@@ -45,6 +68,17 @@
             "jpText": "そんなことより、相談がありますの！\r\n私……いえ、友人の話なのですが……。",
             "enText": "That's not the point, I need to talk to you! \nI… no, I'm talking about a friend of mine…",
             "nextBlock": 5,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -5482884867609451744
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 6720554546592325121
+                }
+            ],
             "pathId": -3853405948539927391,
             "blockIdx": 4
         },
@@ -54,6 +88,17 @@
             "jpText": "厳しい食事制限に耐えられなくなることが、\r\nよくあるそうなんです。",
             "enText": "They often find it difficult to \ntolerate the strict diet.",
             "nextBlock": 6,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7146092009645084940
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2975831977760502398
+                }
+            ],
             "pathId": -7103752102093926227,
             "blockIdx": 5
         },
@@ -63,6 +108,7 @@
             "jpText": "レースに向けて必要なことだと、\r\nわかってはいるそうなのですが……。",
             "enText": "She knows she needs to do this for the race…",
             "nextBlock": 7,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "レースが終わるまで頑張って耐える",
@@ -75,6 +121,16 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -8762554052975102251
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5871515634769954025
+                }
+            ],
             "pathId": 4453026252308046676,
             "blockIdx": 6
         },
@@ -84,6 +140,17 @@
             "jpText": "そ、そうですわよね！\r\n1度決めたことですもの、我慢は大事です。",
             "enText": "Oh, yes, of course! Once you've made a \ndecision, patience is important.",
             "nextBlock": 8,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 4609138838914660982
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8709217272242371758
+                }
+            ],
             "pathId": 5185367383997173076,
             "blockIdx": 7
         },
@@ -93,6 +160,17 @@
             "jpText": "アドバイスありがとうございます！\r\n私……ではなく、友人にも伝えておきますわ！",
             "enText": "Thanks for the advice! I'll pass \nit on to my friends, not me…!",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -7451683617452267467
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 677408652130089893
+                }
+            ],
             "pathId": 1813963915182079898,
             "blockIdx": 8
         },
@@ -102,6 +180,17 @@
             "jpText": "ええ、ええ！　私もそう思っていましたの！\r\n我慢のし過ぎも体に毒ですものね。",
             "enText": "Yes, yes! That's what I thought, too! Too \nmuch patience is bad for you, isn't it?",
             "nextBlock": 10,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 4973039751000056672
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 5801095174879699327
+                }
+            ],
             "pathId": -1637466766356964205,
             "blockIdx": 9
         },
@@ -111,6 +200,17 @@
             "jpText": "ふふ。では少ーしだけ。\r\nあとでじっくり楽しみましょう……♪",
             "enText": "Hmm. Just a little bit then. We'll \nhave more fun later…♪",
             "nextBlock": 11,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -4605583097187304358
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5370989401882795398
+                }
+            ],
             "pathId": 1159349076838612648,
             "blockIdx": 10
         },
@@ -120,8 +220,20 @@
             "jpText": "アドバイスありがとうございます！\r\n私……ではなく、友人にも伝えておきますわ！",
             "enText": "Thanks for the advice! I'll pass \nit on to my friends, not me…!",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -8059864822076658815
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -9010107804290377976
+                }
+            ],
             "pathId": 8681187618010393629,
             "blockIdx": 11
         }
-    ]
+    ],
+    "modified": 1669945949
 }

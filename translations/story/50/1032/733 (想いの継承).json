@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ZUNMMPRLVYZ43VCLI2ZZNYMTFKO6QIFG",
     "type": "story",
     "storyId": "501032733",
@@ -11,6 +11,17 @@
             "jpText": "ハハハ……アーッハッハッハ！",
             "enText": "Hahahaha… Arghhhh!",
             "nextBlock": 2,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -2168310960308587152
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5734958379112676797
+                }
+            ],
             "pathId": -7220324484781667529,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "何者かが中枢神経に干渉したというのかい！？\r\n実に面白いビジョンじゃないか！",
             "enText": "Someone's interfered with my central\nnervous system! That's quite an\ninteresting vision!",
             "nextBlock": 3,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -2513347012316844036
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -4099512761057494465
+                }
+            ],
             "pathId": 7902205522146277443,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "力が――力が溢れ出てくるよッ！",
             "enText": "The power—the power is flowing out of me!",
             "nextBlock": -1,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 1,
+                    "pathId": -3327898726381851629
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 1724632413733066217
+                }
+            ],
             "pathId": 2220871091600397193,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945594
 }

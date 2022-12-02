@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "X3AHKJDX3DZLERQZNJSUT2S3XYOZEUUZ",
     "type": "story",
     "storyId": "501041200",
@@ -11,10 +11,21 @@
             "jpText": "いよいよ、サクラバクシンオーの\r\n『メイクデビュー』出走だ。",
             "enText": "Now it's time for Sakura Bakushin-oh\nto make her debut.",
             "nextBlock": 2,
+            "origClipLength": 64,
             "coloredText": [
                 {
                     "jpText": "メイクデビュー",
                     "enText": "Make-up debut"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -6248292789695858252
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -7622730569018939112
                 }
             ],
             "pathId": -6421113853275164197,
@@ -26,6 +37,17 @@
             "jpText": "いよいよ……なのですね。",
             "enText": "So it's finally…",
             "nextBlock": 3,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -1564284311647025958
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 8068556627309719535
+                }
+            ],
             "pathId": -652968137428105601,
             "blockIdx": 2
         },
@@ -35,6 +57,17 @@
             "jpText": "いよいよ……！\r\n私のッッッ！！",
             "enText": "Finally…! My oh my!",
             "nextBlock": 4,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 2871041264580064465
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 5300409917082232796
+                }
+            ],
             "pathId": -1597633519495033310,
             "blockIdx": 3
         },
@@ -44,6 +77,7 @@
             "jpText": "偉大なるチャレンジがッッッ！！\r\n始まるのですねッッッッ！！！！",
             "enText": "The great challenge begins! You\nare about to begin. ！！！！",
             "nextBlock": 5,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "気合い充分だな",
@@ -56,6 +90,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 4852854309335396682
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -3115687814100843815
+                }
+            ],
             "pathId": 6279785741537460321,
             "blockIdx": 4
         },
@@ -65,6 +109,17 @@
             "jpText": "ハイッ、それはもう！！",
             "enText": "Hi, that's it!",
             "nextBlock": 6,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 6488447216310560628
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -7720846299207883078
+                }
+            ],
             "pathId": -7214863219502118370,
             "blockIdx": 5
         },
@@ -74,6 +129,17 @@
             "jpText": "まずは完璧なデビューを果たして、\r\nみなさんを――",
             "enText": "First of all, I'd like to make a perfect\ndebut and get you all—",
             "nextBlock": 7,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 3730651003096842675
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -6691160023850219171
+                }
+            ],
             "pathId": 3397773047040598751,
             "blockIdx": 6
         },
@@ -83,11 +149,22 @@
             "jpText": "アッッッッ！！！！！",
             "enText": "Ack. ！！！！！",
             "nextBlock": 8,
+            "origClipLength": 51,
             "choices": [
                 {
                     "jpText": "！？",
                     "enText": "What?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -4746235099687192196
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -435619725334342184
                 }
             ],
             "pathId": 2891467953338545444,
@@ -99,6 +176,17 @@
             "jpText": "……っと言わせてみせましょう！！",
             "enText": "Let's make them say…!",
             "nextBlock": 9,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -6865073250749661351
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 7691707340113950413
+                }
+            ],
             "pathId": -6951802152262657484,
             "blockIdx": 8
         },
@@ -108,8 +196,20 @@
             "jpText": "というわけでサクラバクシンオー、\r\n華麗なるメイクデビューですッ！",
             "enText": "And so, Sakura Bakushin O makes her\nspectacular makeup debut!",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 7428863058085006229
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 4975944904028528756
+                }
+            ],
             "pathId": -4994320857922377757,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945703
 }

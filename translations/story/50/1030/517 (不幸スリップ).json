@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6ZTOS555UU2OI2HFJCKERJFGDDUP4W2W",
     "type": "story",
     "storyId": "501030517",
@@ -11,6 +11,7 @@
             "jpText": "雨の日、廊下を歩いていると――",
             "enText": "I was walking down the hallway \non a rainy day.",
             "nextBlock": 2,
+            "origClipLength": 54,
             "pathId": -6414966982687844036,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "濡れている個所で滑って\r\nよろめいてしまった。",
             "enText": "I slipped on a wet spot and stumbled.",
             "nextBlock": 3,
+            "origClipLength": 60,
             "pathId": 462895405556274691,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "お兄さま、大丈夫！？\r\nああぁ……ライスはやっぱり……。",
             "enText": "Brother, are you okay! Ahhh… Rice is still…",
             "nextBlock": 4,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "どうした？",
@@ -39,6 +42,17 @@
                     "jpText": "どうしたの？",
                     "enText": "What's going on?",
                     "nextBlock": 5
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 5091077294026464152
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -1059123355111498834
                 }
             ],
             "pathId": -4242664917221477027,
@@ -50,6 +64,7 @@
             "jpText": "お姉さま、大丈夫！？\r\nああぁ……ライスはやっぱり……。",
             "enText": "Sister, are you okay! Ahhh… Rice is still…",
             "nextBlock": 5,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "どうした？",
@@ -62,6 +77,17 @@
                     "nextBlock": 5
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 586966958289675771
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3247763683120063941
+                }
+            ],
             "pathId": -5049536580090744515,
             "blockIdx": 4
         },
@@ -71,6 +97,18 @@
             "jpText": "今日は、ライスが廊下を掃除したの……。\r\nそのせいで、お兄さまが危ない目に……うぅ。",
             "enText": "Today, Rice cleaned the hallway… \nIt put her brother in danger…",
             "nextBlock": 6,
+            "origClipLength": 72,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7317887815712323015
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -5390699695736999794
+                }
+            ],
             "pathId": 2214271804207152630,
             "blockIdx": 5
         },
@@ -80,6 +118,18 @@
             "jpText": "今日は、ライスが廊下を掃除したの……。\r\nそのせいで、お姉さまが危ない目に……うぅ。",
             "enText": "Today, Rice cleaned the hallway… It \nput her sister in danger… ugh.",
             "nextBlock": 7,
+            "origClipLength": 72,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4341699339725411213
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -8595003419741970202
+                }
+            ],
             "pathId": 830378210253266039,
             "blockIdx": 6
         },
@@ -89,6 +139,17 @@
             "jpText": "ごめんなさい、ライスのせいで……！",
             "enText": "Sorry, it's Rice's fault…!",
             "nextBlock": 8,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 1349565240691829819
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8917307675701460681
+                }
+            ],
             "pathId": -2331541953987755381,
             "blockIdx": 7
         },
@@ -98,8 +159,20 @@
             "jpText": "ライスシャワーは落ち込んでしまったようだ。",
             "enText": "The Rice-shower seemed to have \nfallen into a depression.",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -2970016179731291374
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -1149433799296189140
+                }
+            ],
             "pathId": -3232739904092528394,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945557
 }

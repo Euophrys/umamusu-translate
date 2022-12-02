@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DTXLXSRD7P3PIMYUCRALB2AGZ3NOMV3C",
     "type": "story",
     "storyId": "501006509",
@@ -11,6 +11,17 @@
             "jpText": "昼休み、オグリキャップと歩いていたのだが、\r\nどこか元気がない様子だ。",
             "enText": "During my lunch break, I was walking \nwith Oguri-cap, but she seemed \nto be in low spirits.",
             "nextBlock": 2,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -8063471303532270802
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 5737590857068797798
+                }
+            ],
             "pathId": 6773146514921665074,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "ふぁ～あ……。",
             "enText": "Huh…",
             "nextBlock": 3,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -2517897833651598854
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -3754734923531832685
+                }
+            ],
             "pathId": 299431458788559574,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "すまない……最近、どれだけ寝ても\r\n食べても、力が出なくて……。",
             "enText": "I'm sorry… Lately, no matter how much \nsleep I get or how much I eat, I just \ndon't feel strong enough…",
             "nextBlock": 4,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -7978745288866113655
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -409193069524218555
+                }
+            ],
             "pathId": 3989486007301622395,
             "blockIdx": 3
         },
@@ -38,6 +71,17 @@
             "jpText": "もっといっぱい食べれば\r\nいいのだろうか……はぁ。",
             "enText": "I wonder if I should just \neat a lot more… haha.",
             "nextBlock": 5,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2426874480688496702
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 2754171740850944819
+                }
+            ],
             "pathId": -1705293449297195548,
             "blockIdx": 4
         },
@@ -47,8 +91,20 @@
             "jpText": "おそらく連続したレースへの\r\n出走が原因だろう。\n今後のために予定を見直す必要がありそうだ。",
             "enText": "This is probably due to the fact that she ran \na series of races. I will have to rethink my \nschedule for the future.",
             "nextBlock": -1,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 5401819365165756346
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 2797429202034105984
+                }
+            ],
             "pathId": 3405703220922598137,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669944979
 }

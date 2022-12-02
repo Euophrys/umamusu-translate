@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4ZIW46GP2NQALPB43FPE7RF5FSRV43QB",
     "type": "story",
     "storyId": "501006403",
@@ -11,6 +11,17 @@
             "jpText": "オグリキャップが出走するイベントレースに、\r\n故郷の知人たちが応援にやってきた。",
             "enText": "Acquaintances from my hometown came to \nsupport Oguri Cap in the event race.",
             "nextBlock": 2,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4990103990543114104
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4546078246052419847
+                }
+            ],
             "pathId": 1261793187578041959,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "思わぬ再会に喜ぶオグリキャップだったが、\r\n観客から心ない言葉を投げかけられてしまう。",
             "enText": "Oguri Cap is happy to be reunited \nwith her friend, but a spectator \nhurls some unkind words at her.",
             "nextBlock": 3,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -7019050683126929809
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3923012556839668968
+                }
+            ],
             "pathId": -1518876848156410478,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "応援してくれる人々を安心させるため、\r\nコースを駆けるオグリキャップ。",
             "enText": "Oguri Cap runs the course to \nreassure her supporters.",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -216122702177369532
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -5379455105957434855
+                }
+            ],
             "pathId": -1266963546179063785,
             "blockIdx": 3
         },
@@ -38,8 +71,10 @@
             "jpText": "彼女は見事圧勝し、\r\n格の違いを見せつけたのだった。",
             "enText": "She won by a landslide, showing \nthe difference in rank.",
             "nextBlock": -1,
+            "origClipLength": 61,
             "pathId": 3028111238038275501,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669944977
 }

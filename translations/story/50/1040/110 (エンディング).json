@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "36PIV4MFUZJ5FDTBD2R36JCSTYHII5HR",
     "type": "story",
     "storyId": "501040110",
@@ -11,6 +11,7 @@
             "jpText": "ゴールドシチーは見事、\nトゥインクル・シリーズで\n結果を残すことができた。",
             "enText": "Gold City has done well \nin the Twinkle Series.",
             "nextBlock": 2,
+            "origClipLength": 93,
             "pathId": -3094515782146598677,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "とても大事な『最初の3年間』を、\n共に乗り切ることができたのだ。",
             "enText": "We were able to get through the very \nimportant \"first three years\" together.",
             "nextBlock": 3,
+            "origClipLength": 86,
             "pathId": 3278850200885117209,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "そして――",
             "enText": "And―",
             "nextBlock": 4,
+            "origClipLength": 51,
             "pathId": -4655683047913616341,
             "blockIdx": 3
         },
@@ -38,11 +41,22 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 5,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "おはよう、シチー",
                     "enText": "Good morning, City.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -1930280590637208907
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -8476824551795759183
                 }
             ],
             "pathId": -4819416505201896518,
@@ -54,6 +68,7 @@
             "jpText": "…………はよ。",
             "enText": "… is a good place to start.",
             "nextBlock": 6,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "今日も見事な低血圧だな！",
@@ -66,6 +81,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -6546547166380478992
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 2258354429538815806
+                }
+            ],
             "pathId": 4580320880790712151,
             "blockIdx": 5
         },
@@ -75,6 +100,17 @@
             "jpText": "……アンタも朝から\n見事にうるっさいね。",
             "enText": "… You are also spectacularly noisy in \nthe morning, aren't you?",
             "nextBlock": 7,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5475061568998334064
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 9064153806808442022
+                }
+            ],
             "pathId": -1327486341125017647,
             "blockIdx": 6
         },
@@ -84,11 +120,22 @@
             "jpText": "…………ふぁ。",
             "enText": "… Huh.",
             "nextBlock": 8,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "もう少し開始時間、遅くしようか？",
                     "enText": "Shall we start a little later?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 4957140118935118756
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -1976522862918077227
                 }
             ],
             "pathId": 1906752569172209907,
@@ -100,6 +147,17 @@
             "jpText": "……それはダメ。",
             "enText": "… That's no good.",
             "nextBlock": 9,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -9159441146792424976
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -1270117291737586781
+                }
+            ],
             "pathId": -8483238262795859329,
             "blockIdx": 8
         },
@@ -109,6 +167,17 @@
             "jpText": "だってアタシ、\n少しでも多く走りたいし。",
             "enText": "Because I want to run as \nmany races as possible.",
             "nextBlock": 10,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -1511668076790552425
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1254020154714580914
+                }
+            ],
             "pathId": 6618049127437106228,
             "blockIdx": 9
         },
@@ -118,6 +187,17 @@
             "jpText": "アンタのことも、もっと高いとこまで\r\n連れてってやんないといけないし？",
             "enText": "I'm going to have to take you to \nhigher ground, too, aren't I?",
             "nextBlock": 11,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 5162075752162739642
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 4035311951953711744
+                }
+            ],
             "pathId": 779332287538663725,
             "blockIdx": 10
         },
@@ -127,11 +207,22 @@
             "jpText": "……あ、なんか目ぇ覚めてきたかも。",
             "enText": "… Oh, I think I'm starting to wake up.",
             "nextBlock": 12,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "走りたいから？",
                     "enText": "Because you want to run?",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 6587539062941656157
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6756716469067785840
                 }
             ],
             "pathId": 5791849402127215763,
@@ -143,11 +234,22 @@
             "jpText": "……ガキかよって思ってない？",
             "enText": "Do you think… kids?",
             "nextBlock": 13,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "走るのが大好きなんだなって思ってる",
                     "enText": "I'm thinking she loves to run.",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 3681553216838737301
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 4968831041779056289
                 }
             ],
             "pathId": -706249436051439539,
@@ -159,6 +261,17 @@
             "jpText": "それは……間違ってないわ。",
             "enText": "That's not… wrong.",
             "nextBlock": 14,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 8371074636219929638
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 2396351451203933616
+                }
+            ],
             "pathId": 1163726103558445263,
             "blockIdx": 13
         },
@@ -168,6 +281,17 @@
             "jpText": "っし、まずウォーミングアップかな。\nじゃ、行ってくるわ。",
             "enText": "I guess I'll warm up first. Okay, I'm off.",
             "nextBlock": 15,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 4071479850016138370
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 4872964689013078077
+                }
+            ],
             "pathId": -4562748654808146642,
             "blockIdx": 14
         },
@@ -177,6 +301,17 @@
             "jpText": "走りだしたゴールドシチー。\n太陽の光を受け、嬉しそうに走る彼女は、\n今日も――",
             "enText": "Gold City is running. She is running happily \nin the sunshine, and today…",
             "nextBlock": 16,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 4246658686934256667
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 6181423225355423924
+                }
+            ],
             "pathId": -343067002940296559,
             "blockIdx": 15
         },
@@ -186,8 +321,10 @@
             "jpText": "――とてもキレイだ。",
             "enText": "―very beautiful.",
             "nextBlock": -1,
+            "origClipLength": 58,
             "pathId": -2035612660345274967,
             "blockIdx": 16
         }
-    ]
+    ],
+    "modified": 1669945666
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4WBEWGGJ42BTJD6Y7WMHWRPN34WP5Q3T",
     "type": "story",
     "storyId": "501032307",
@@ -11,6 +11,7 @@
             "jpText": "ゴール！\r\n実力を見せつけました、アグネスタキオン！",
             "enText": "Goal! You've shown your strength,\nAgnes Tachyon!",
             "nextBlock": 2,
+            "origClipLength": 61,
             "pathId": 7532978116669484904,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "彼女には不明瞭な部分が多いが――\r\nそれでも、走る姿は変わらず魅力的だった。",
             "enText": "There were many things about her that were\nunclear - but still, the way she ran was\nas attractive as ever.",
             "nextBlock": 3,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "（やっぱり君の走る姿が好きだ……！）",
@@ -41,11 +43,22 @@
             "jpText": "うーん、なるほど？\r\nこれはかなり……興味深いな。",
             "enText": "Hmmm, I see? That's pretty\n… interesting.",
             "nextBlock": 4,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "お疲れ様！いい走りだった！",
                     "enText": "Good job! That was a good run!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -8325950038809138386
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 6494202793185716616
                 }
             ],
             "pathId": -661372761230966505,
@@ -57,6 +70,17 @@
             "jpText": "おや、トレーナー君。\r\nえらく元気だな。",
             "enText": "Hey, Mr. Trainer. You're\nlooking pretty good.",
             "nextBlock": 5,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 8342116921547589671
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -7993905900339986570
+                }
+            ],
             "pathId": -1909312936314944977,
             "blockIdx": 4
         },
@@ -66,6 +90,17 @@
             "jpText": "元々目標レースに挙げていた『日本ダービー』\r\nへの出走は叶わなかったが――",
             "enText": "Although she was not able to run in the\nJapan Derby, which was her original goal,\nshe was able to win the race.",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 2334051158783473349
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7911847960899122964
+                }
+            ],
             "pathId": -2732606873626958664,
             "blockIdx": 5
         },
@@ -75,6 +110,7 @@
             "jpText": "やはり当初のローテーションは諦めたくない。\r\n彼女には『菊花賞』へ出走して欲しい。",
             "enText": "I still don't want to give up\non my original rotation. I want\nher to run in Kikka-sho.",
             "nextBlock": 7,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "次は『菊花賞』に出よう！",
@@ -87,6 +123,16 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 2313077253560902027
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 2119423353260545153
+                }
+            ],
             "pathId": -8389923736894107959,
             "blockIdx": 6
         },
@@ -96,6 +142,17 @@
             "jpText": "……ああ。そのことか。",
             "enText": "… Oh. So that's it.",
             "nextBlock": 8,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 2226002224160009686
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2784262680992430856
+                }
+            ],
             "pathId": 9016010612283871672,
             "blockIdx": 7
         },
@@ -105,6 +162,17 @@
             "jpText": "確かに次のＧⅠレース『菊花賞』は、\r\n君のローテーションにしっかり載っていたな。",
             "enText": "It's true that the next G1 race,\nKikka-sho, is firmly in your rotation.",
             "nextBlock": 9,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2023934678731187457
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -2938536702276361985
+                }
+            ],
             "pathId": 1077845509322753017,
             "blockIdx": 8
         },
@@ -114,6 +182,17 @@
             "jpText": "ウーン、目指す分には構わない！\r\nしかし――",
             "enText": "Hmm, I don't mind if you want\nto go for it! But—",
             "nextBlock": 10,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 561847831356521947
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -3738928409031729393
+                }
+            ],
             "pathId": 4640364525088734774,
             "blockIdx": 9
         },
@@ -123,11 +202,22 @@
             "jpText": "今回と同じく、\r\nあまり期待はしないでおくように！",
             "enText": "As with this one, don't get your hopes up!",
             "nextBlock": 11,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "ま、また……！？",
                     "enText": "Well,… again!",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -4224106723828174274
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -812214704189645810
                 }
             ],
             "pathId": -5161282967329214205,
@@ -139,6 +229,17 @@
             "jpText": "ああ。そうだ。",
             "enText": "Oh. That's right.",
             "nextBlock": 12,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 2947893411376176526
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7096292954570999008
+                }
+            ],
             "pathId": 8002096053108375397,
             "blockIdx": 11
         },
@@ -148,6 +249,17 @@
             "jpText": "アグネスタキオンは気まぐれだ。\r\n一応目標として、残すつもりではあるが――",
             "enText": "Agnes Tachyon is fickle. I'm going to keep\nhim as a target, but…",
             "nextBlock": 13,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -5764817989573320739
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -463311410996493251
+                }
+            ],
             "pathId": -593076710907700288,
             "blockIdx": 12
         },
@@ -157,8 +269,10 @@
             "jpText": "どこか宙ぶらりんなまま『菊花賞』を\r\n目指す日々が始まった……！",
             "enText": "Somewhat in limbo, the days of aiming for\nthe \"Kikka-sho\" began…!",
             "nextBlock": -1,
+            "origClipLength": 65,
             "pathId": -1883713861601981155,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669945578
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OUNIBURG2BKASN7KOYC7LWOJCYRKUOEH",
     "type": "story",
     "storyId": "501004706",
@@ -11,6 +11,17 @@
             "jpText": "マルゼンスキーとお出かけした帰り……。",
             "enText": "On the way back from an outing\nwith Maruzensky: …",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -9180030600926535279
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -179232417962881987
+                }
+            ],
             "pathId": 3369369606847829068,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "楽しい時間って、ホントあっという間ね。\nなんだか名残惜しいわぁ～。",
             "enText": "Fun time really flies by, doesn't it? I\nfeel like I'm leaving something behind.",
             "nextBlock": 3,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "そうだな",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -1919162828933156746
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 8440336791500175316
+                }
+            ],
             "pathId": 4598487139909563392,
             "blockIdx": 2
         },
@@ -41,6 +63,18 @@
             "jpText": "あら、トレーナー君も？",
             "enText": "Oh, you too, trainer?",
             "nextBlock": 4,
+            "origClipLength": 59,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 4791002980085826446
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 5418904335619161300
+                }
+            ],
             "pathId": 4043923941513974663,
             "blockIdx": 3
         },
@@ -50,6 +84,18 @@
             "jpText": "あら、トレーナーちゃんも？",
             "enText": "Oh, you too, trainer? ",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 7129313478364086601
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -226975659910864679
+                }
+            ],
             "pathId": 9203450168476785967,
             "blockIdx": 4
         },
@@ -59,6 +105,17 @@
             "jpText": "なら……せっかくだし\nどこか寄り道していきましょうよ。",
             "enText": "So, …, let's take a detour somewhere\nwhile we're at it.",
             "nextBlock": 6,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -5942314190446041452
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 8905874386922231507
+                }
+            ],
             "pathId": -6627654020015770080,
             "blockIdx": 5
         },
@@ -68,11 +125,22 @@
             "jpText": "そのまま帰るのも、\nなんだか味気ないし。",
             "enText": "I don't feel like going home.",
             "nextBlock": 7,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "寄り道しようか",
                     "enText": "Let's make a detour.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -5444541620589448075
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 426297759244899457
                 }
             ],
             "pathId": -7500085102933046028,
@@ -84,6 +152,17 @@
             "jpText": "やたっ♪",
             "enText": "Yah!",
             "nextBlock": 8,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 7934757468044878415
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 83341706863968716
+                }
+            ],
             "pathId": -5352560108444145836,
             "blockIdx": 7
         },
@@ -93,6 +172,17 @@
             "jpText": "それじゃ行き先はあたしが決めていい？\n前からやりたかったことがあるの！",
             "enText": "So, can I decide where we're\ngoing? There's something I've\nalways wanted to do!",
             "nextBlock": 9,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -292507976829306246
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -7068131511243109592
+                }
+            ],
             "pathId": 5901718206408646451,
             "blockIdx": 8
         },
@@ -102,6 +192,17 @@
             "jpText": "ささ、ついてきてちょ！",
             "enText": "Come on, follow me!",
             "nextBlock": 10,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 4569801924085272461
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -5913778701121495576
+                }
+            ],
             "pathId": 1939720410687316888,
             "blockIdx": 9
         },
@@ -111,6 +212,21 @@
             "jpText": "――うんうん、まだやってるわね！",
             "enText": "――Yes, yes, you're still at it!",
             "nextBlock": 11,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 71694302967286936
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7034468083081409082
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 8417801340670378947
+                }
+            ],
             "pathId": -6022405806805373788,
             "blockIdx": 10
         },
@@ -120,6 +236,21 @@
             "jpText": "1回やってみたかったの、\n夕方からの遊園地！",
             "enText": "I've always wanted to try an amusement\npark in the evening!",
             "nextBlock": 12,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 1639851817965315840
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 4257000451090541200
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -6541362372724592235
+                }
+            ],
             "pathId": -3839568864916468416,
             "blockIdx": 11
         },
@@ -129,6 +260,17 @@
             "jpText": "マルゼンスキーのお目当ては、\nもう帰り支度をしている人も多い\n閉園間際の遊園地だった。",
             "enText": "Maruzensky wanted to visit the amusement\npark just before it closed, when\nmany people were already getting\nready to leave.",
             "nextBlock": 13,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 5853476878354268159
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -5848857948486347661
+                }
+            ],
             "pathId": 4934325851757653930,
             "blockIdx": 12
         },
@@ -138,6 +280,17 @@
             "jpText": "アフターファイブ的なノリで、この時間から\nイケイケな子たちが集まってくるのよね♪",
             "enText": "It's like an after-five, and all the cool\nkids start gathering around this time.",
             "nextBlock": 14,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 9149894724050742785
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6221932464532991189
+                }
+            ],
             "pathId": 7391683207543254104,
             "blockIdx": 13
         },
@@ -147,11 +300,26 @@
             "jpText": "人も少なくなって遊びやすいし、\n乗り物もたくさん楽しめるってウワサ！",
             "enText": "I've heard that it's less crowded, easier\nto play, and there are more rides!",
             "nextBlock": 15,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "閉園時間ギリギリだけど大丈夫？",
                     "enText": "The park is just about to close. Is everything okay?",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -7257596901222605417
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8817599754472484740
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2489546413115095399
                 }
             ],
             "pathId": -2061602121123347160,
@@ -163,6 +331,22 @@
             "jpText": "だいじょうブイッ！\nそこがトレーナー君の腕の見せ所でしょ？",
             "enText": "That's the best part. That's where you\nshow your skills, isn't it, trainer?",
             "nextBlock": 16,
+            "origClipLength": 82,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 3746764105641865979
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 4736674913705888065
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 1790057347470660403
+                }
+            ],
             "pathId": -3425604226785846977,
             "blockIdx": 15
         },
@@ -172,6 +356,22 @@
             "jpText": "だいじょうブイッ！\nそこがトレーナーちゃんの腕の見せ所でしょ？",
             "enText": "That's the best part. That's\nwhere you show off your skills,\nisn't it, trainer-chan?",
             "nextBlock": 17,
+            "origClipLength": 85,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -4374327907661349630
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -2637274800990896606
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 1272772709947961526
+                }
+            ],
             "pathId": 4528892567149122023,
             "blockIdx": 16
         },
@@ -181,6 +381,17 @@
             "jpText": "めいっぱい楽しむためには、\nどんな作戦で行くべきだと思う？",
             "enText": "What kind of strategy do you think we\nshould use to have the most fun possible?",
             "nextBlock": 18,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 2143240769062670349
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -8230371006849902811
+                }
+            ],
             "pathId": -3895766850640863520,
             "blockIdx": 17
         },
@@ -190,6 +401,7 @@
             "jpText": "ちなみに、あたしはとりあえず\nジェットコースターには乗りたいかな～。",
             "enText": "By the way, I think I'd like to ride a\nroller coaster at least.",
             "nextBlock": 19,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "いっそジェットコースターを周回！",
@@ -202,6 +414,20 @@
                     "nextBlock": 33
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -893515704416642012
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 8461232887644485863
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2999973885219477758
+                }
+            ],
             "pathId": -560765512874299707,
             "blockIdx": 18
         },
@@ -211,6 +437,17 @@
             "jpText": "な、なんですって～！？\nそれって――",
             "enText": "What? What the hell? Is that…",
             "nextBlock": 20,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -8334626156449836901
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2743933278233629019
+                }
+            ],
             "pathId": -1012281133189286421,
             "blockIdx": 19
         },
@@ -220,6 +457,17 @@
             "jpText": "チョベリグな案じゃないっ！",
             "enText": "It's not a chovelig idea!",
             "nextBlock": 21,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -6551746680826555099
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4011459460039572949
+                }
+            ],
             "pathId": -6744616791283027395,
             "blockIdx": 20
         },
@@ -229,6 +477,17 @@
             "jpText": "一点集中型とか、\nこの時間ならではの贅沢な遊び方ね♪",
             "enText": "It's a luxury that only this\ntime of day can offer.",
             "nextBlock": 22,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 1699070985119358072
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2388596831965490026
+                }
+            ],
             "pathId": -1009295185722907343,
             "blockIdx": 21
         },
@@ -238,11 +497,22 @@
             "jpText": "ここのジェットコースター、\n国内最速級って話だし、周回にはピッタリ！",
             "enText": "I've heard this roller coaster is one of\nthe fastest in the country, and it's\nperfect for laps!",
             "nextBlock": 23,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "えっ",
                     "enText": "What's up?",
                     "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -5185755340874669039
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 5736790876727546534
                 }
             ],
             "pathId": 998365263172762995,
@@ -254,6 +524,17 @@
             "jpText": "あら、知らなかったの？\nけどまあ問題ナッシングよ！",
             "enText": "Oh, you didn't know? But it's no problem!",
             "nextBlock": 24,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -2409509799327321180
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 5698857273947636565
+                }
+            ],
             "pathId": 7221246164633459080,
             "blockIdx": 23
         },
@@ -263,6 +544,18 @@
             "jpText": "あたしの運転に慣れてる君なら、\nそんな大したことないって感じるわよ多分！",
             "enText": "If you're used to me driving, it won't\nseem like such a big deal.",
             "nextBlock": 25,
+            "origClipLength": 91,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -5810338677965520374
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6525873823383296782
+                }
+            ],
             "pathId": 8119963154664358975,
             "blockIdx": 24
         },
@@ -272,6 +565,18 @@
             "jpText": "あたしの運転に慣れてるあなたなら、\nそんな大したことないって感じるわよ多分！",
             "enText": "If you're used to me driving, it won't\nseem like such a big deal. ",
             "nextBlock": 26,
+            "origClipLength": 94,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -8694867253371296961
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -3856147121076587798
+                }
+            ],
             "pathId": -221476680943370718,
             "blockIdx": 25
         },
@@ -281,6 +586,17 @@
             "jpText": "さっ、気が変わらないうちに……じゃない、\n時間がもったいないわ！",
             "enText": "Come on, … before I change my\nmind, I'm wasting my time!",
             "nextBlock": 27,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -2924129602577411298
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2547971088069065935
+                }
+            ],
             "pathId": -192763462476798477,
             "blockIdx": 26
         },
@@ -290,6 +606,17 @@
             "jpText": "レッツラゴーゴー☆",
             "enText": "Let's go, go, go!",
             "nextBlock": 28,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 6963918714044502969
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -1883858373793412566
+                }
+            ],
             "pathId": 5504314153358869964,
             "blockIdx": 27
         },
@@ -299,6 +626,17 @@
             "jpText": "その後、ジェットコースターを周回し、\n確かにスピードへの耐性を実感した……が。",
             "enText": "After that, I circled the roller\ncoaster, and I certainly realized\nmy tolerance for speed …",
             "nextBlock": 29,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 8069908930836773759
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -8651488933043265627
+                }
+            ],
             "pathId": -5548846489121028278,
             "blockIdx": 28
         },
@@ -308,11 +646,23 @@
             "jpText": "トレーナー君、大丈夫？　立てる？\nお姉さんがおぶったげようか？",
             "enText": "Trainer, are you okay? Can you stand\nup? Do you want me to carry you?",
             "nextBlock": 30,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "だ、大丈夫……",
                     "enText": "No, I'm fine…",
                     "nextBlock": 31
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 9056935386314013709
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 6985995541104798538
                 }
             ],
             "pathId": -2567053507740302949,
@@ -324,11 +674,23 @@
             "jpText": "トレーナーちゃん、大丈夫？　立てる？\nお姉さんがおぶったげようか？",
             "enText": "Trainer, are you okay? Can you stand\nup? Do you want me to carry you?",
             "nextBlock": 31,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "だ、大丈夫……",
                     "enText": "No, I'm fine…",
                     "nextBlock": 31
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 1543711022838131787
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1494910170688556738
                 }
             ],
             "pathId": 2197146666293635094,
@@ -340,6 +702,17 @@
             "jpText": "さすがに張り切りすぎたわね～。\n向こうのベンチで休んでから帰りましょっか。",
             "enText": "I've been working too hard, haven't\nI? Shall we rest on the bench over\nthere and then go home?",
             "nextBlock": 32,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 950654415324816816
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 4382348623522368009
+                }
+            ],
             "pathId": -3550051660317844947,
             "blockIdx": 31
         },
@@ -349,6 +722,17 @@
             "jpText": "――どんどん人の少なくなる遊園地を、\n2人でゆっくり眺めたのだった。",
             "enText": "――The two of us took our time\nto watch the amusement park become\nless and less crowded.",
             "nextBlock": -1,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 4714177414661264616
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3669856910276275001
+                }
+            ],
             "pathId": -1725623239448661884,
             "blockIdx": 32
         },
@@ -358,6 +742,17 @@
             "jpText": "あははっ、シンプルでわかりやすい作戦ね！\n気に入ったわ！",
             "enText": "Haha, that's a simple and straightforward\nstrategy! I like it!",
             "nextBlock": 34,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -3499912452035549485
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -6255703894847981816
+                }
+            ],
             "pathId": 99268673380716366,
             "blockIdx": 33
         },
@@ -367,6 +762,17 @@
             "jpText": "どこまで回れるのか、\n体力勝負になりそうだけど……。",
             "enText": "I'm not sure how far I'll be able to go,\nbut it's going to be a physical challenge…",
             "nextBlock": 35,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -6194438944835147726
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6739965498002624778
+                }
+            ],
             "pathId": 193588405661403871,
             "blockIdx": 34
         },
@@ -376,11 +782,22 @@
             "jpText": "夢はでっかく、全乗り物を制覇したいわ！\nかなり険しい道になるけど、覚悟はいーい？",
             "enText": "My dream is big, I want to conquer\nall the rides! It's going to be a\nrough road, are you ready?",
             "nextBlock": 36,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "御意！",
                     "enText": "Yes, sir!",
                     "nextBlock": 36
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -7181414332697974161
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 1424922044956734701
                 }
             ],
             "pathId": 1028138532106934105,
@@ -392,6 +809,18 @@
             "jpText": "やーん、そのノリサイコー！\nわかってるわね、トレーナー君！",
             "enText": "Yay, that's great! You know what\nyou're doing, trainer!",
             "nextBlock": 37,
+            "origClipLength": 82,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 2020996404315858789
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3216294939272794075
+                }
+            ],
             "pathId": 5739946472036943646,
             "blockIdx": 36
         },
@@ -401,6 +830,18 @@
             "jpText": "やーん、そのノリサイコー！\nわかってるわね、トレーナーちゃん！",
             "enText": "Yay, that's great! You know what\nyou're doing, Trainer-chan!",
             "nextBlock": 38,
+            "origClipLength": 85,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -660942861148605454
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 8438257474054498372
+                }
+            ],
             "pathId": -2875823760032599747,
             "blockIdx": 37
         },
@@ -410,6 +851,17 @@
             "jpText": "いざ、トツゲキ～☆",
             "enText": "Let's go, Totsugeki!",
             "nextBlock": 39,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3265729106395255506
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 6983181637352823316
+                }
+            ],
             "pathId": -8731120433170997801,
             "blockIdx": 38
         },
@@ -419,11 +871,22 @@
             "jpText": "――よし、半分制覇！\nココからがスパートね！",
             "enText": "――All right, we're halfway\nthere! That's the spurt!",
             "nextBlock": 40,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "ぜえっ、ぜえっ……",
                     "enText": "Eek, eek …",
                     "nextBlock": 40
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 1348173070258214437
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 1603434615262252954
                 }
             ],
             "pathId": -1840763611596571942,
@@ -435,6 +898,18 @@
             "jpText": "トレーナー君、頑張ってっ！\n一緒に乗り越えましょっ！",
             "enText": "Good luck, trainer! We'll get\nthrough this together!",
             "nextBlock": 41,
+            "origClipLength": 78,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6167503730251362381
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 675187158813106146
+                }
+            ],
             "pathId": -6449358708944127888,
             "blockIdx": 40
         },
@@ -444,6 +919,18 @@
             "jpText": "トレーナーちゃん、頑張ってっ！\n一緒に乗り越えましょっ！",
             "enText": "Good luck, trainer! We'll get\nthrough this together! ",
             "nextBlock": 42,
+            "origClipLength": 81,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -3255645520908500313
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 1568635622130984377
+                }
+            ],
             "pathId": 4272699195149569945,
             "blockIdx": 41
         },
@@ -453,6 +940,17 @@
             "jpText": "あたしたちなら、きっと出来るっっ！！\nさあ、伝説を作るわよ～！",
             "enText": "We can do it! Come on,\nlet's make a legend!",
             "nextBlock": 43,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 4661887131588286550
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 9097220510665282271
+                }
+            ],
             "pathId": 1661250107695984745,
             "blockIdx": 42
         },
@@ -462,8 +960,20 @@
             "jpText": "その後、ハイになったマルゼンスキーと、\n全力で園内を駆け回り……なんとか\n全ての乗り物に乗ったのだった！",
             "enText": "Then, with a high Maruzensky, we ran\naround the park as fast as we could … and\nmanaged to ride all the rides!",
             "nextBlock": -1,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 3154601588328646129
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -5793098472520264876
+                }
+            ],
             "pathId": -8696794444553102104,
             "blockIdx": 43
         }
-    ]
+    ],
+    "modified": 1669944921
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OSXHBLCKUPNM7ZG7TZRKGTHH7332TOXQ",
     "type": "story",
     "storyId": "501032718",
@@ -11,6 +11,17 @@
             "jpText": "やあやあ、トレーナー君！",
             "enText": "Hey there, trainer!",
             "nextBlock": 2,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 2612149670897104971
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 6100709323987345006
+                }
+            ],
             "pathId": -2403876039974881163,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "実にいい朝だねぇ。\r\nまさに実験日和と言えよう！",
             "enText": "It's a beautiful morning. It's a perfect\nday for an experiment!",
             "nextBlock": 3,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "よく休めたみたいだな",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -2331318754034995525
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 8986638773060340311
+                }
+            ],
             "pathId": 8854495833036069215,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "おかげさまでね。生きている限り、\r\n生命には休みが必要だと自覚するよ。",
             "enText": "Thanks to you. As long as I'm alive, I'll\nrealize that life needs rest.",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 5638135553405576282
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5957090907585872248
+                }
+            ],
             "pathId": 8999980169600352090,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "さぁ、今日も元気に実験を始めようか！\r\n輝かしい肉体改造の可能性を求めてねっ。",
             "enText": "Now, let's begin another day of vigorous\nexperimentation! In search of glorious\npossibilities of body modification!",
             "nextBlock": 5,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 9203440824337694085
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5791574090299296638
+                }
+            ],
             "pathId": 3325731530865022688,
             "blockIdx": 4
         },
@@ -59,8 +103,20 @@
             "jpText": "アグネスタキオンの機嫌はいい。\r\nどうやらしっかりと休めたようだ。",
             "enText": "Agnes Tachyon is in a good mood. She seems\nto have had a good rest.",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -2393863211830762202
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -4139564797812815616
+                }
+            ],
             "pathId": 45454151660690380,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945592
 }

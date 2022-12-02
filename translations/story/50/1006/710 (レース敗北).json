@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "I5WTCCMRFZ33HZLK3OBHQTPPQGKF2S3K",
     "type": "story",
     "storyId": "501006710",
@@ -11,6 +11,21 @@
             "jpText": "トレーナー……\r\nすまない、今回は負けてしまった。",
             "enText": "Trainer… Sorry, I lost this time.",
             "nextBlock": 2,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -4159872738968886394
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3407698023905036913
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4196137112704114864
+                }
+            ],
             "pathId": -6020651883849337405,
             "blockIdx": 1
         },
@@ -20,6 +35,21 @@
             "jpText": "だが、落ち込んでいる暇はない。",
             "enText": "But there was no time to be depressed.",
             "nextBlock": 3,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -686590320899620683
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 1310995409170265896
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -1021929292310201614
+                }
+            ],
             "pathId": -4341348348391788211,
             "blockIdx": 2
         },
@@ -29,6 +59,7 @@
             "jpText": "挫けていてばかりでは、ご飯が\r\n美味しくなくなるだけだしな。",
             "enText": "If you keep on being frustrated, \nyour food won't taste as good.",
             "nextBlock": 4,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "次は期待しているぞ！",
@@ -49,6 +80,17 @@
                     "jpText": "早速トレーニングだね！",
                     "enText": "You're training fast!",
                     "nextBlock": 10
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -3909827293602341113
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -7586136138897519201
                 }
             ],
             "pathId": 2305677669742749148,
@@ -60,6 +102,7 @@
             "jpText": "挫けていてばかりでは、ご飯が\r\n美味しくなくなるだけだしな。",
             "enText": "If you keep on being frustrated, \nyour food won't taste as good.",
             "nextBlock": 5,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "次は期待しているぞ！",
@@ -82,6 +125,17 @@
                     "nextBlock": 10
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -8325158974321866369
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -1777674089967362150
+                }
+            ],
             "pathId": -7553894840024368395,
             "blockIdx": 4
         },
@@ -91,6 +145,7 @@
             "jpText": "ありがとう。次は勝ってみせる。\r\n……ん？",
             "enText": "Thank you. I'll win next time… Hmm?",
             "nextBlock": 6,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "どうした？",
@@ -103,6 +158,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -8778837039511088204
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 5650862383990378135
+                }
+            ],
             "pathId": -7498182942388430532,
             "blockIdx": 5
         },
@@ -112,6 +177,17 @@
             "jpText": "携帯にメッセージが届いた。\r\n故郷のみんなからだ。",
             "enText": "I received a message on my cell phone. It \nwas from everyone back home.",
             "nextBlock": 7,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -6163891121175301832
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 630915676677454939
+                }
+            ],
             "pathId": -1395732266488473382,
             "blockIdx": 6
         },
@@ -121,6 +197,17 @@
             "jpText": "『いい走りだった、次も頑張れ』と……。",
             "enText": "She said, \"It was a good run, \ngood luck next time.\"…",
             "nextBlock": 8,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 8684095439885221902
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 8762887724421644362
+                }
+            ],
             "pathId": 3542893141057543281,
             "blockIdx": 7
         },
@@ -130,6 +217,17 @@
             "jpText": "……今度こそ、1着になった姿を\r\nみんなに見せたいな、トレーナー。",
             "enText": "… This time, I'd like to show everyone that \nI'm wearing one, trainer.",
             "nextBlock": 9,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -583520925425355793
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -5029242945449307007
+                }
+            ],
             "pathId": 3346028791047000103,
             "blockIdx": 8
         },
@@ -139,6 +237,17 @@
             "jpText": "メッセージを受け取ったオグリキャップは\r\n勝利への決意を新たにしたようだった。",
             "enText": "When Oguri Cap received the message, she \nseemed to renew her determination to win.",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -329864836180412526
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 335475402338678118
+                }
+            ],
             "pathId": -6355896609069377102,
             "blockIdx": 9
         },
@@ -148,6 +257,7 @@
             "jpText": "ああ……！\r\nビシバシ鍛えてくれ、トレーナー。",
             "enText": "Oh…! Train me hard, trainer.",
             "nextBlock": 11,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "まかせてくれ！",
@@ -160,6 +270,16 @@
                     "nextBlock": 11
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 3318498608024860496
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5063231268780359238
+                }
+            ],
             "pathId": -84698762977258426,
             "blockIdx": 10
         },
@@ -169,8 +289,20 @@
             "jpText": "やる気満々のオグリキャップと共に、\r\nひたすらトレーニングに打ち込んだ。",
             "enText": "With a motivated Oguri-cap, she \ndevoted herself to training.",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 8568531943612473161
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2029992715996772561
+                }
+            ],
             "pathId": -2118226796050095464,
             "blockIdx": 11
         }
-    ]
+    ],
+    "modified": 1669944986
 }

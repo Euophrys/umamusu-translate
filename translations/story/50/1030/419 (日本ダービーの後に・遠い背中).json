@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "YJHAW4VCNAZBHCQ6Y6KQXPELGJSXYVYV",
     "type": "story",
     "storyId": "501030419",
@@ -11,6 +11,17 @@
             "jpText": "『日本ダービー』での舞台で全力を尽くした\r\nライスシャワーだったが、ミホノブルボンに\n追いつくことは出来なかった。",
             "enText": "Despite her best efforts on the Japan \nDerby stage, Rice Shower was unable to \ncatch up with Mihonobourbon.",
             "nextBlock": 2,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 195,
+                    "pathId": 3011298495886707716
+                },
+                {
+                    "origLen": 184,
+                    "pathId": -1666361902282950720
+                }
+            ],
             "pathId": -4501432318305706945,
             "blockIdx": 1
         },
@@ -20,10 +31,21 @@
             "jpText": "再びミホノブルボンに挑むために、\r\nライスシャワーが次に目指すのは\n長距離レース、『菊花賞』。",
             "enText": "In order to challenge Mihonobourbon again, \nRice Shower's next goal was to win the \nlong-distance race, Kikka-sho.",
             "nextBlock": 3,
+            "origClipLength": 106,
             "coloredText": [
                 {
                     "jpText": "菊花賞",
                     "enText": "Chrysanthemum Awards"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 195,
+                    "pathId": -5542946884052419250
+                },
+                {
+                    "origLen": 184,
+                    "pathId": 3567391574014414324
                 }
             ],
             "pathId": -7624695658809267133,
@@ -35,8 +57,20 @@
             "jpText": "ステイヤーのライスシャワーにとって、\r\n勝負所となるレースへ向けた日々が始まった。",
             "enText": "It was the start of a big day for the \nsteely-eyed Rice Shower.",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 195,
+                    "pathId": -5106033971915706926
+                },
+                {
+                    "origLen": 184,
+                    "pathId": -8162723147153034169
+                }
+            ],
             "pathId": 4084082932612142716,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945553
 }

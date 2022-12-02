@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "IO4WIRRO3WPM23X5ZKBOVM77X5JISMB5",
     "type": "story",
     "storyId": "501004703",
@@ -11,6 +11,17 @@
             "jpText": "マルゼンスキーとドライブに行った先で、\n休憩していると……。",
             "enText": "Maruzensky and I went for a drive, and\nwhile we were taking a break, I saw …",
             "nextBlock": 2,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 4346761191620471036
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 6980676328806970026
+                }
+            ],
             "pathId": 5760175966130342932,
             "blockIdx": 1
         },
@@ -20,11 +31,26 @@
             "jpText": "あら、見て見て！　クレープ屋さんがあるわ！",
             "enText": "Oh, look, look! There's a crepe shop!",
             "nextBlock": 3,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "食べていく？",
                     "enText": "Do you want to eat?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 3138116391462011824
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 3646007001826277726
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3221331056545693947
                 }
             ],
             "pathId": -1571920697745389367,
@@ -36,6 +62,21 @@
             "jpText": "賛成～っ。おやつにはちょうどいい時間だし。",
             "enText": "I agree. It's the perfect\ntime for a snack.",
             "nextBlock": 4,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 2789921182900108048
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 8207513815844117336
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -8159829477928082331
+                }
+            ],
             "pathId": -7034333769573309633,
             "blockIdx": 3
         },
@@ -45,6 +86,18 @@
             "jpText": "あたしとトレーナー君で\n別のを頼んで、半分こしましょ。",
             "enText": "Let me and my trainer order different\nones and split them.",
             "nextBlock": 5,
+            "origClipLength": 80,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 2502865926426211929
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -3746273984736014351
+                }
+            ],
             "pathId": 3807707803502636294,
             "blockIdx": 4
         },
@@ -54,6 +107,18 @@
             "jpText": "あたしとトレーナーちゃんで\n別のを頼んで、半分こしましょ。",
             "enText": "Let me and my trainer order different\nones and split them. ",
             "nextBlock": 6,
+            "origClipLength": 82,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -7725917309203283757
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -329826791198970494
+                }
+            ],
             "pathId": 5341767605530207124,
             "blockIdx": 5
         },
@@ -63,6 +128,18 @@
             "jpText": "えっと、あたしはティラミスクレープ！\nトレーナー君も好きなの選んで～♪",
             "enText": "I'll have a tiramisu crepe. Trainer,\nchoose your favorite…",
             "nextBlock": 7,
+            "origClipLength": 90,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 3908758819739157610
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8704417950493966327
+                }
+            ],
             "pathId": -7323715581513305738,
             "blockIdx": 6
         },
@@ -72,6 +149,18 @@
             "jpText": "えっと、あたしはティラミスクレープ！\nトレーナーちゃんも好きなの選んで～♪",
             "enText": "I'll have a tiramisu crepe. Trainer-chan,\nchoose your favorite…",
             "nextBlock": 8,
+            "origClipLength": 93,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -7460703307669393638
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 7263255267648178620
+                }
+            ],
             "pathId": 3027251092648629038,
             "blockIdx": 7
         },
@@ -81,6 +170,17 @@
             "jpText": "マルゼンスキーと一緒に、\n美味しいクレープを味わった。",
             "enText": "I tasted a delicious crepe\nwith Maruzensky.",
             "nextBlock": 9,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 6201435486881935994
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -2292296013361621199
+                }
+            ],
             "pathId": 8069879361919792579,
             "blockIdx": 8
         },
@@ -90,6 +190,17 @@
             "jpText": "は～、美味しかった！\n口の中が幸せでいっぱいよ～。",
             "enText": "It was so good! My mouth\nis full of happiness~.",
             "nextBlock": 10,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -2025771973827285111
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -4441370957774763847
+                }
+            ],
             "pathId": 4188469448165665052,
             "blockIdx": 9
         },
@@ -99,6 +210,18 @@
             "jpText": "それに、トレーナー君の喜ぶ顔も\n見られたし。ふふっ、ごちそうさま♪",
             "enText": "And I got to see my trainer's happy\nface. Phew, thanks for the meal.",
             "nextBlock": 11,
+            "origClipLength": 88,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 9160238881817856834
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 850720370187720901
+                }
+            ],
             "pathId": -5504171965335110701,
             "blockIdx": 10
         },
@@ -108,6 +231,18 @@
             "jpText": "それに、トレーナーちゃんの喜ぶ顔も\n見られたし。ふふっ、ごちそうさま♪",
             "enText": "And I got to see my trainer's happy\nface. Phew, thanks for the meal. ",
             "nextBlock": 12,
+            "origClipLength": 90,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -6399998374987769285
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 8831268947666830432
+                }
+            ],
             "pathId": -276206965631228439,
             "blockIdx": 11
         },
@@ -117,11 +252,22 @@
             "jpText": "今日は……っていうか、今日も？\n付き合ってくれてありがとうね。",
             "enText": "Today is …, or is it today? Thanks\nfor keeping me company.",
             "nextBlock": 13,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "喜んでもらえてなにより",
                     "enText": "I'm glad you like it.",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 4027571182335128745
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7962051946572429111
                 }
             ],
             "pathId": -8858280635650543109,
@@ -133,6 +279,17 @@
             "jpText": "誰かとお出かけって、やっぱり楽しいわ。\n1人だとどうしても退屈しちゃうのよね。",
             "enText": "It's always fun to go out with someone.\nI always get bored when I'm alone.",
             "nextBlock": 14,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 8124641554983420132
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -9012201839873229331
+                }
+            ],
             "pathId": -9202209564834780352,
             "blockIdx": 13
         },
@@ -142,6 +299,17 @@
             "jpText": "でもドライブに誘える子って少ないから。\n先輩のスピードについていけない、とか……。",
             "enText": "But there aren't many girls I can ask to\ngo for a drive. I can't keep up with the\nspeed of the older guys, or …",
             "nextBlock": 15,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 5108784689807025546
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -6275880388255163880
+                }
+            ],
             "pathId": 2569390928597099116,
             "blockIdx": 14
         },
@@ -151,11 +319,23 @@
             "jpText": "トレーナー君がいなかったら、\n毎日がロンリーだったかも……！",
             "enText": "If it weren't for my trainer, I'd be\na Lonely Girl every day…!",
             "nextBlock": 16,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "わりと寂しがり屋だったり？",
                     "enText": "Are you rather lonely?",
                     "nextBlock": 17
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -3602984073576153916
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -6816250546627298816
                 }
             ],
             "pathId": 1811153535056931933,
@@ -167,11 +347,23 @@
             "jpText": "トレーナーちゃんがいなかったら、\n毎日がロンリーだったかも……！",
             "enText": "If it weren't for my trainer, I'd probably\nbe a Lonely Girl every day…!",
             "nextBlock": 17,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "わりと寂しがり屋だったり？",
                     "enText": "Are you rather lonely?",
                     "nextBlock": 17
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -6260279884857803298
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6880525713914384049
                 }
             ],
             "pathId": 1713309856212354804,
@@ -183,6 +375,17 @@
             "jpText": "えっ？　うーん、あまり考えたことは\nなかったけど……。",
             "enText": "What? Hmm, I hadn't really\nthought about it, but …",
             "nextBlock": 18,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4784813918220126256
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -4427803085091549623
+                }
+            ],
             "pathId": 8700305686455698469,
             "blockIdx": 17
         },
@@ -192,6 +395,17 @@
             "jpText": "確かにそうかも。実家はお手伝いさんもいて、\nいつも賑やかだったし。",
             "enText": "I guess that's true. My parents had a maid\nat home, and the house was always crowded.",
             "nextBlock": 19,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 7574780549843907678
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 5275411504032626946
+                }
+            ],
             "pathId": 7939438679060806359,
             "blockIdx": 18
         },
@@ -201,6 +415,17 @@
             "jpText": "誰かと一緒にいると安心するのも、\nそんな風に育ったからかしら。",
             "enText": "I wonder if the reason why I feel safe\nwhen I'm with someone is because that's\nhow I was raised.",
             "nextBlock": 20,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -5848216278888653511
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2492031694174874050
+                }
+            ],
             "pathId": 576056470685638259,
             "blockIdx": 19
         },
@@ -210,6 +435,17 @@
             "jpText": "ひとり暮らしにはもう慣れたけど、\nそもそも家で過ごすことがあまりないのよね。",
             "enText": "I've gotten used to living alone,\nbut I don't spend much time at\nhome to begin with.",
             "nextBlock": 21,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7290360360393578310
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 645150719049288301
+                }
+            ],
             "pathId": 9152874826595204407,
             "blockIdx": 20
         },
@@ -219,6 +455,7 @@
             "jpText": "そっか。あたしって寂しがり屋だったのか～。",
             "enText": "I see. I was a lonely person, wasn't I?",
             "nextBlock": 22,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "意外な一面を知れたかな",
@@ -231,6 +468,20 @@
                     "nextBlock": 30
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 502715102074603177
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -1173562704167961171
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3332162050238825588
+                }
+            ],
             "pathId": -7055629066311492725,
             "blockIdx": 21
         },
@@ -240,6 +491,21 @@
             "jpText": "ふふ、そうね。ああ大変、大事な秘密を\n知られちゃったわ～♪",
             "enText": "Oh, yes. Oh, my God, they\nknow my big secret.",
             "nextBlock": 23,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 5290336385471815001
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 739569952713391165
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1637498706121380661
+                }
+            ],
             "pathId": 8604757417458387794,
             "blockIdx": 22
         },
@@ -249,11 +515,22 @@
             "jpText": "みんなにはナイショよ？\nあたしは頼れるお姉さんなんだから、ね。",
             "enText": "Don't tell anyone, okay? I'm the big\nsister you can count on, you know.",
             "nextBlock": 24,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "約束するよ",
                     "enText": "I promise.",
                     "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -3148617706120260391
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 4626633582909169768
                 }
             ],
             "pathId": -101014562893192539,
@@ -265,6 +542,18 @@
             "jpText": "まあ、君ならちゃんとあたしを\n気遣ってくれるって、信じてるけど♪",
             "enText": "Well, I'm sure you'll take\ngood care of me.",
             "nextBlock": 25,
+            "origClipLength": 86,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 1728776056054861017
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -7509950368487596922
+                }
+            ],
             "pathId": 3923251175124195202,
             "blockIdx": 24
         },
@@ -274,6 +563,18 @@
             "jpText": "まあ、あなたならちゃんとあたしを\n気遣ってくれるって、信じてるけど♪",
             "enText": "Well, I'm sure you'll take\ngood care of me. ",
             "nextBlock": 26,
+            "origClipLength": 89,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 6286517578653342852
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -838191969273642680
+                }
+            ],
             "pathId": 5265187350911798937,
             "blockIdx": 25
         },
@@ -283,11 +584,23 @@
             "jpText": "そうだわ！　代わりにトレーナー君も、\nなにか秘密を教えて？　それでおあいこよ！",
             "enText": "Oh, yes! So, trainer, what's your\nsecret? Then we're even!",
             "nextBlock": 27,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "それはナイショ",
                     "enText": "That's a secret.",
                     "nextBlock": 28
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 3606945149620105408
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -1888861189303168248
                 }
             ],
             "pathId": -1819303435568718093,
@@ -299,11 +612,23 @@
             "jpText": "そうだわ！　代わりにトレーナーちゃんも、\nなにか秘密を教えて？　それでおあいこよ！",
             "enText": "That's right! Why don't you tell us a\nsecret, trainer? Then we're even!",
             "nextBlock": 28,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "それはナイショ",
                     "enText": "That's a secret.",
                     "nextBlock": 28
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -6102177731589343361
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 9091078926310747418
                 }
             ],
             "pathId": 5896675038809297058,
@@ -315,6 +640,17 @@
             "jpText": "え～、ずる～い！\nそれじゃあ不公平よ、ぶ～ぶ～っ！",
             "enText": "Oh, that's not fair! That's\nnot fair, b~b~!",
             "nextBlock": 29,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 2204969197234411245
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -94560848571014977
+                }
+            ],
             "pathId": -884630539606284368,
             "blockIdx": 28
         },
@@ -324,6 +660,17 @@
             "jpText": "マルゼンスキーと時間を過ごし、\n距離が縮まったと感じられた……。",
             "enText": "I spent some time with Maruzensky and felt\nthat we were getting closer…",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -390381151772003113
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6730745469779784834
+                }
+            ],
             "pathId": -6388413337251375904,
             "blockIdx": 29
         },
@@ -333,6 +680,22 @@
             "jpText": "ありがと♪\nやっぱりトレーナー君は優しいわね。",
             "enText": "Thank you. Your trainer is very kind.",
             "nextBlock": 31,
+            "origClipLength": 75,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -84175552667354897
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -6168726086413204819
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 1553125078234947684
+                }
+            ],
             "pathId": 7278088042222476740,
             "blockIdx": 30
         },
@@ -342,6 +705,22 @@
             "jpText": "ありがと♪\nやっぱりトレーナーちゃんは優しいわね。",
             "enText": "Thanks… You're so sweet, Trainer-chan.",
             "nextBlock": 32,
+            "origClipLength": 77,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 2558802079666538404
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 247199732756681429
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -6591408489264066634
+                }
+            ],
             "pathId": 2469987452384372989,
             "blockIdx": 31
         },
@@ -351,6 +730,17 @@
             "jpText": "今まであたしが、自分が寂しがり屋だって\n気付かなかったのも、きっとそのおかげ。",
             "enText": "I'm sure that's the reason why I didn't\nrealize I was lonely until now.",
             "nextBlock": 33,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 607461521337093410
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -3537473565684169121
+                }
+            ],
             "pathId": 650211308926969083,
             "blockIdx": 32
         },
@@ -360,6 +750,18 @@
             "jpText": "だって学園に行けば君がいて、\nみんながいて、楽しい時間を過ごせるもの。",
             "enText": "Because when I go to the school,\nI'll see you, I'll see everyone,\nand I'll have a good time.",
             "nextBlock": 34,
+            "origClipLength": 90,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 3719097024947194875
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 7765303514303201858
+                }
+            ],
             "pathId": 2876206718062150759,
             "blockIdx": 33
         },
@@ -369,6 +771,18 @@
             "jpText": "だって学園に行けばあなたがいて、\nみんながいて、楽しい時間を過ごせるもの。",
             "enText": "Because when you go to the school, you\nwill be there, everyone will be there, and\nyou will have a good time.",
             "nextBlock": 35,
+            "origClipLength": 93,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 4866926983838256744
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -3227612433535991941
+                }
+            ],
             "pathId": 6665813272517318003,
             "blockIdx": 34
         },
@@ -378,6 +792,17 @@
             "jpText": "でも、そうね……せっかく気づいたんだし。\nもうちょっと甘えてみようかしら。",
             "enText": "But yes, … now that you've noticed.\nI think I'll be a little more lenient.",
             "nextBlock": 36,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 239191859655045734
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 634438124755793898
+                }
+            ],
             "pathId": 7779247224442719177,
             "blockIdx": 35
         },
@@ -387,11 +812,22 @@
             "jpText": "じゃあお願い！　まだ走り足りないから、\nもう少しドライブに付き合って♪",
             "enText": "Please! I'm not done yet,\nso take me for a ride",
             "nextBlock": 37,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "えっ！？",
                     "enText": "What?",
                     "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 503527354174244501
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 1566441159030032823
                 }
             ],
             "pathId": -35971074774875691,
@@ -403,11 +839,23 @@
             "jpText": "だって、寂しい時は君に言えば、\nちゃんと構ってくれるんでしょ？",
             "enText": "Because if I tell you when I'm lonely,\nyou'll take care of me, right?",
             "nextBlock": 38,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "ぜ、善処します……",
                     "enText": "I'll do my best…",
                     "nextBlock": 39
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -8118432350980757718
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 7048690341361376335
                 }
             ],
             "pathId": 8023649997984019322,
@@ -419,11 +867,23 @@
             "jpText": "だって、寂しい時はあなたに言えば、\nちゃんと構ってくれるんでしょ？",
             "enText": "Because if I tell you when I'm lonely,\nyou'll take care of me, right?",
             "nextBlock": 39,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "ぜ、善処します……",
                     "enText": "I'll do my best…",
                     "nextBlock": 39
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -4037077774660259124
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1271842280152667273
                 }
             ],
             "pathId": -1118282733281130008,
@@ -435,6 +895,17 @@
             "jpText": "やった、お姉さん感激♪\nよ～し、もっと飛ばしていくわよ～！",
             "enText": "I'm so excited… I'm going to go faster!",
             "nextBlock": 40,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -2531616379065322368
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -6797808645483952064
+                }
+            ],
             "pathId": 5236411436549399795,
             "blockIdx": 39
         },
@@ -444,8 +915,20 @@
             "jpText": "その後、日が暮れるまで\nドライブを楽しむこととなった……。",
             "enText": "After that, we enjoyed driving\naround until nightfall…",
             "nextBlock": 41,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 6089171740975767734
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 8422970218449756947
+                }
+            ],
             "pathId": -431621313078353903,
             "blockIdx": 40
         }
-    ]
+    ],
+    "modified": 1669944919
 }

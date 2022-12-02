@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "A7G4E5M73XVG6HRMM4XOES2XX34763AH",
     "type": "story",
     "storyId": "501025520",
@@ -11,6 +11,17 @@
             "jpText": "――――今日のトレーナーさんはなぜか……\r\n“よくないもの”を惹きつけているようです。",
             "enText": "— For some reason, today's trainer seems\nto be attracting… \"not good\" things.",
             "nextBlock": 2,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 8384180585118256149
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -5522356601300588908
+                }
+            ],
             "pathId": -6493820839832763578,
             "blockIdx": 1
         },
@@ -20,6 +31,21 @@
             "jpText": "なので、この後はトレーナー室に……\r\n明朝まで、籠っていてもらえませんか……。",
             "enText": "So, after this, could you please\nstay in the trainer's room…\nuntil tomorrow morning?",
             "nextBlock": 3,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -578199510758976854
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 2050178045513566699
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -5258153098507047242
+                }
+            ],
             "pathId": -7074283507227806625,
             "blockIdx": 2
         },
@@ -29,6 +55,21 @@
             "jpText": "私も一緒にいるので、安心してください……。\r\nトレーナーさんを……守ります……。",
             "enText": "I'll be there with you… I will\nprotect your trainer…",
             "nextBlock": 4,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7647758931683998415
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -2032091165198652448
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -1798928709469550136
+                }
+            ],
             "pathId": -7698142637540207931,
             "blockIdx": 3
         },
@@ -38,6 +79,17 @@
             "jpText": "マンハッタンカフェはいたずらに他人を\r\n怖がらせる嘘をつくような娘ではない。\n彼女の提案を聞くことにした――",
             "enText": "Manhattan Cafe is not the kind of girl who\nwould unnecessarily lie to scare others. I\ndecided to take her up on her offer—",
             "nextBlock": 5,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": -3213311725587668607
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 6431312665930888900
+                }
+            ],
             "pathId": 7552578238290499397,
             "blockIdx": 4
         },
@@ -47,6 +99,17 @@
             "jpText": "……夜を迎え、マンハッタンカフェがいる中、\r\n仕事をしていると――",
             "enText": "It's… night, and I'm working in the\npresence of Manhattan Cafe.",
             "nextBlock": 6,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 9049986377032460987
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 2536448407084212244
+                }
+            ],
             "pathId": -6104603770499017711,
             "blockIdx": 5
         },
@@ -56,6 +119,21 @@
             "jpText": "――――トレーナーさん！\r\nここにいらしたのですね！\n私です！　たづなです！",
             "enText": "— Trainer! I didn't know you were\nhere! It's me! I'm Tazuna!",
             "nextBlock": 7,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -2666623310589246010
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -2747957690702550286
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -5855750180097832426
+                }
+            ],
             "pathId": -8742220848900546481,
             "blockIdx": 6
         },
@@ -65,6 +143,21 @@
             "jpText": "トレーニングコースについて、\r\n緊急でお話ししたいことがあります！\nドアを開けていただけますか？",
             "enText": "I need to speak with you urgently\nabout your training course! Can\nyou open the door, please?",
             "nextBlock": 8,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 2593840027493014760
+                },
+                {
+                    "origLen": 165,
+                    "pathId": -452463353433245806
+                },
+                {
+                    "origLen": 181,
+                    "pathId": -5038331518188527474
+                }
+            ],
             "pathId": 5252354672218293582,
             "blockIdx": 7
         },
@@ -74,11 +167,26 @@
             "jpText": "――――返事をしてはダメです。",
             "enText": "Don't reply to —.",
             "nextBlock": 9,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "まさか……",
                     "enText": "No way…",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1551706162303156818
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 8477754670360204767
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -6622865768929930350
                 }
             ],
             "pathId": -5391402259893097855,
@@ -90,6 +198,21 @@
             "jpText": "……はい。来ました。",
             "enText": "… Yes. I'm here.",
             "nextBlock": 10,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 7287155369579075901
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -6876974003765890474
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 9112345777458151384
+                }
+            ],
             "pathId": -2787288188855060932,
             "blockIdx": 9
         },
@@ -99,6 +222,17 @@
             "jpText": "トレーナーさんが応えれば応えるほど……\r\nあの子は境界を……越えやすくなります……。\nこのまま、静かに……。",
             "enText": "The more the trainer responds, the…\neasier it will be for that child to cross\nthe boundary… Keep this up and be\nquiet…",
             "nextBlock": 11,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 617728891295907387
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 9076391094228589785
+                }
+            ],
             "pathId": -5416535509084643634,
             "blockIdx": 10
         },
@@ -108,6 +242,17 @@
             "jpText": "トレーナーさん？\r\nどうして開けてくれないんですか？\n聞こえているんでしょう？　トレーナーさん？",
             "enText": "Trainer? Why won't you open up? You can hear\nme, can't you? Trainer?",
             "nextBlock": 12,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 3181524885392692181
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 3156290628981273111
+                }
+            ],
             "pathId": 5399379942249529656,
             "blockIdx": 11
         },
@@ -117,6 +262,21 @@
             "jpText": "トレーナーさん？　トレーナーさん？\r\nトレーナーさん？　トレーナーさん？\nトレーナーさん？　トレーナーさん？",
             "enText": "Trainer? Trainer? Trainer? Trainer?\nTrainer? Trainer?",
             "nextBlock": 13,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -8821688212083682726
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -8664894364895723191
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 5585127163603193698
+                }
+            ],
             "pathId": -666795375421914640,
             "blockIdx": 12
         },
@@ -126,6 +286,21 @@
             "jpText": "（ドンドンドンドンドンドンドンッ！\r\nバンバンバンバンバンバンバンバンッ！）",
             "enText": "(dong dong dong dong dong! (bang bang bang\nbang bang bang bang bang!)",
             "nextBlock": 14,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 7069483981837994533
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 583465587963240505
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 4652941969660212245
+                }
+            ],
             "pathId": -7819160142587550998,
             "blockIdx": 13
         },
@@ -135,6 +310,21 @@
             "jpText": "ドアを叩く音がけたたましく響く中、\r\nマンハッタンカフェの言いつけ通りに\n沈黙を守っていると……。",
             "enText": "As the banging on the door echoed loudly, I\ndid as Manhattan Cafe told me and kept my\nsilence…",
             "nextBlock": 15,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 1900260007010426679
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 5204202088671949581
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -9063951538406341634
+                }
+            ],
             "pathId": 4856066804577802758,
             "blockIdx": 14
         },
@@ -144,6 +334,21 @@
             "jpText": "（――――ブンッ）",
             "enText": "(— buzzing)",
             "nextBlock": 16,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 3646953771042438035
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 1095488626143678616
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4893575069367351428
+                }
+            ],
             "pathId": 3770639279511113799,
             "blockIdx": 15
         },
@@ -153,6 +358,21 @@
             "jpText": "突如、トレーナー室の電気が消える。\r\nだが異変はそれだけではない。",
             "enText": "Suddenly, the lights go out in\nthe trainer's room. But that wasn't\nthe only strange thing.",
             "nextBlock": 17,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 1474781847191869491
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -6079577647545727457
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -3317127078796288573
+                }
+            ],
             "pathId": -4449616705635482196,
             "blockIdx": 16
         },
@@ -162,6 +382,21 @@
             "jpText": "（ガタガタガタガタッ！\r\nゴトッ　ビキッ　ガタタッ！）",
             "enText": "(Clatter, clatter, clatter! )\n(Thud, thud, thud, thud! )",
             "nextBlock": 18,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -1919197577761238666
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 6504691515637180828
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 4543130448972922673
+                }
+            ],
             "pathId": 8312091729907680926,
             "blockIdx": 17
         },
@@ -171,6 +406,21 @@
             "jpText": "トレーナー室のあちこちから、\r\n異様な物音が聞こえ始める。まるで……\n外から大きな力で揺らされているかのようだ。",
             "enText": "I begin to hear strange noises coming from\nall over the trainer's office. It was as if\n… they were being shaken by a great\nforce from outside.",
             "nextBlock": 19,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -7797110945401081397
+                },
+                {
+                    "origLen": 129,
+                    "pathId": -9064046942120700066
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 3022742665147782897
+                }
+            ],
             "pathId": -8963037055487035859,
             "blockIdx": 18
         },
@@ -180,6 +430,21 @@
             "jpText": "……トレーナーさん、選んでください。\r\n朝までこのまま耐えるか……\nそれとも――――すぐに方を付けるか。",
             "enText": "… Trainer, you have a choice. Do you\nwant to endure this until morning… or\ndo you want to put on the — one\nimmediately?",
             "nextBlock": 20,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5604695076724476557
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -2190049143111186727
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -5910810688576775866
+                }
+            ],
             "pathId": -8668412839853697365,
             "blockIdx": 19
         },
@@ -189,6 +454,21 @@
             "jpText": "トレーナーさんが望むのであれば、\r\n少々強引な手にはなりますが……\nあの子をすぐに追い払うことは……できます。",
             "enText": "If your trainer wants, you can… get\nrid of that kid right away, though it may be\na bit of a heavy-handed move.",
             "nextBlock": 21,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -2936174891279090265
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -8561643868682478052
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 2876578635192498593
+                }
+            ],
             "pathId": 3689766385115055944,
             "blockIdx": 20
         },
@@ -198,6 +478,7 @@
             "jpText": "どちらを選んだとしても……\r\n危ない目には、遭わせませんから……。",
             "enText": "Whichever you choose… we won't let\nyou get into any danger…",
             "nextBlock": 22,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "このまま朝まで耐える",
@@ -210,6 +491,20 @@
                     "nextBlock": 31
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5760922405165547285
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1200461423163767731
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -6949889243809953811
+                }
+            ],
             "pathId": -9179639506287772788,
             "blockIdx": 21
         },
@@ -219,6 +514,17 @@
             "jpText": "……わかりました。\r\nそれでは失礼して――――",
             "enText": "I understand… Now if you'll excuse\nme, I have to go to —",
             "nextBlock": 23,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -8962308207110062048
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -3272028546413453782
+                }
+            ],
             "pathId": -4173744580916772866,
             "blockIdx": 22
         },
@@ -228,6 +534,17 @@
             "jpText": "マンハッタンカフェが自分の手を握る。\r\n掌から、とても温かいものが感じられる……。",
             "enText": "Manhattan Cafe holds your own hand.\nFrom her palm, you can feel something\nvery warm…",
             "nextBlock": 24,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 6064640681244098160
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -236884241967697037
+                }
+            ],
             "pathId": -6306484701112499851,
             "blockIdx": 23
         },
@@ -237,6 +554,7 @@
             "jpText": "私の温度を……感じていてください……。\r\n私の声だけを……聞いてください……。",
             "enText": "Please feel my temperature at…\nListen only to my voice at…",
             "nextBlock": 25,
+            "origClipLength": 95,
             "pathId": 5373502118414346449,
             "blockIdx": 24
         },
@@ -246,6 +564,7 @@
             "jpText": "そうすればきっと……\r\n何も……怖くなくなります……。",
             "enText": "If you do that, you will surely… not\nbe afraid of anything…",
             "nextBlock": 26,
+            "origClipLength": 80,
             "pathId": -2965128540120953826,
             "blockIdx": 25
         },
@@ -255,6 +574,7 @@
             "jpText": "そうしてマンハッタンカフェに手を引かれ、\r\n2人で並んで椅子に座る。\n周囲の喧騒が、どんどん遠のいていき――",
             "enText": "The Manhattan Cafe took me by the hand, and\nwe sat in chairs side by side. The hustle\nand bustle of the world around us was fading\ninto the distance.",
             "nextBlock": 27,
+            "origClipLength": 115,
             "pathId": -6103534883487563844,
             "blockIdx": 26
         },
@@ -264,6 +584,7 @@
             "jpText": "――気づけば外が明るくなり、\r\nトレーナー室も早朝の静けさに包まれていた。",
             "enText": "—The next thing I knew, it was light\noutside and the trainer's office was\nenveloped in the silence of early morning.",
             "nextBlock": 28,
+            "origClipLength": 93,
             "pathId": -2698085482999105898,
             "blockIdx": 27
         },
@@ -273,11 +594,22 @@
             "jpText": "…………もう大丈夫です。\r\nあの子は諦めて、立ち去りました……。\nもう2度と……現れないと思います……。",
             "enText": "It's okay now… The girl has\ngiven up and walked away… I don't\nthink she'll… show up again…",
             "nextBlock": 29,
+            "origClipLength": 112,
             "choices": [
                 {
                     "jpText": "ずっと守ってくれてありがとう",
                     "enText": "Thank you for protecting me all these years.",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": -8992611597083380203
+                },
+                {
+                    "origLen": 153,
+                    "pathId": -4520854396965976363
                 }
             ],
             "pathId": 7597690406758895069,
@@ -289,6 +621,17 @@
             "jpText": "……いえ。\r\n私にできることを……しただけです……。",
             "enText": "… No. I just did what\nI could…",
             "nextBlock": 30,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -8634083636886396575
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7005632324820377646
+                }
+            ],
             "pathId": -5936649069614863491,
             "blockIdx": 29
         },
@@ -298,6 +641,17 @@
             "jpText": "背筋が凍りそうな目にもあったが、\r\nマンハッタンカフェのおかげで\n温かい気持ちで朝日を見ることができた……。",
             "enText": "I got a chill down my spine, but thanks to\nManhattan Cafe, I was able to watch the\nsunrise with a warm heart…",
             "nextBlock": -1,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -2448449726288933852
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -3637720583869741110
+                }
+            ],
             "pathId": -6305353278582084798,
             "blockIdx": 30
         },
@@ -307,6 +661,17 @@
             "jpText": "……わかりました。\r\nでは、私を信じて見守っていてください……。",
             "enText": "I understand… Now, please trust me\nand keep an eye on…",
             "nextBlock": 32,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 25515499861867648
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -7325766945783557241
+                }
+            ],
             "pathId": -4037598257708942755,
             "blockIdx": 31
         },
@@ -316,6 +681,17 @@
             "jpText": "マンハッタンカフェはそう言うなり歩き出し、\r\nトレーナー室のドアをためらいなく開いた。",
             "enText": "With that, Manhattan Cafe walked out and\nopened the door to the trainer's office\nwithout hesitation.",
             "nextBlock": 33,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 8940961535744123875
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8803402685950255318
+                }
+            ],
             "pathId": -5375621245016160718,
             "blockIdx": 32
         },
@@ -325,6 +701,7 @@
             "jpText": "――――■■■■■■！！！\r\n■■■！！　■■■■■！！\n■■■■■■■■■■――――",
             "enText": "――――■■■■■■！！！\r\n■■■！！　■■■■■！！\n■■■■■■■■■■――――",
             "nextBlock": 34,
+            "origClipLength": 101,
             "pathId": -6163830804564799819,
             "blockIdx": 33
         },
@@ -334,6 +711,7 @@
             "jpText": "ドアの向こうから、名状し難い不気味な音が、\r\n空気をつんざいて響いてくる。",
             "enText": "From the other side of the door,\nan unnamable and eerie sound echoed\nthrough the air.",
             "nextBlock": 35,
+            "origClipLength": 93,
             "pathId": -1847362253458528694,
             "blockIdx": 34
         },
@@ -343,6 +721,7 @@
             "jpText": "――――――――\r\n―――――――――――――\n――――――――――――――――――――",
             "enText": "――――――――\r\n―――――――――――――\n――――――――――――――――――――",
             "nextBlock": 36,
+            "origClipLength": 102,
             "pathId": 7337198296351316151,
             "blockIdx": 35
         },
@@ -352,6 +731,7 @@
             "jpText": "マンハッタンカフェがその音に向けて、\r\n何か声を発している。だがどういうわけか、\n自分にはそれを聞き取ることができず――――",
             "enText": "Manhattan Cafe is shouting something at the\nsound. But somehow, I couldn't hear it. —",
             "nextBlock": 37,
+            "origClipLength": 125,
             "pathId": -605192520057039633,
             "blockIdx": 36
         },
@@ -361,6 +741,7 @@
             "jpText": "――次の瞬間にはトレーナー室の電気が戻り、\r\n静寂を取り戻していた……。",
             "enText": "—The next thing I know, the lights are back\non in the trainer's room and the silence has\nreturned…",
             "nextBlock": 38,
+            "origClipLength": 91,
             "pathId": 7074164624100850379,
             "blockIdx": 37
         },
@@ -370,6 +751,7 @@
             "jpText": "……もう大丈夫です。\r\nあの子は、諦めて去っていきました……。\nこれで二度と……現れないと思います……。",
             "enText": "It's okay now… That girl has given up\nand left… Now I don't think she'll\never… show up again…",
             "nextBlock": 39,
+            "origClipLength": 112,
             "choices": [
                 {
                     "jpText": "いったい、何をしたんだ？",
@@ -382,6 +764,16 @@
                     "nextBlock": 39
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 7958398524128580336
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 5915514535104397109
+                }
+            ],
             "pathId": -517184337786883292,
             "blockIdx": 38
         },
@@ -391,6 +783,21 @@
             "jpText": "……“見”て話しかけただけです。\r\nあの子は見られないことで……\n力を保っているので……。",
             "enText": "I was just talking to her when I…\n\"saw\" her. The girl is keeping her…\npower by not being seen…",
             "nextBlock": 40,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 2684537036598261675
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 9029503259008275053
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -5067237662573283140
+                }
+            ],
             "pathId": -8126466529091918393,
             "blockIdx": 39
         },
@@ -400,11 +807,26 @@
             "jpText": "…………トレーナーさん、お疲れ様でした。\r\n怖い思いをさせて……すみません……。",
             "enText": "Thank you for your… trainer. I'm\nsorry… for scaring you…",
             "nextBlock": 41,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "むしろ、守ってくれてありがとう",
                     "enText": "I'd rather thank you for protecting me.",
                     "nextBlock": 41
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -853004148255062457
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -4597435351510647355
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 7699950176128584285
                 }
             ],
             "pathId": -5606652925552186291,
@@ -416,6 +838,17 @@
             "jpText": "そんな……\r\nただ私にできることを……しただけです……。",
             "enText": "No such… I just…\ndid what I could…",
             "nextBlock": 42,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 2837320774625602568
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 8042023077258708359
+                }
+            ],
             "pathId": 5537146748651919260,
             "blockIdx": 41
         },
@@ -425,8 +858,20 @@
             "jpText": "少し恐ろしい体験をしたが、\r\nマンハッタンカフェの頼もしさのおかげで、\n穏やかな気持ちで朝を迎えられそうだった。",
             "enText": "The experience was a bit frightening, but\nthanks to Manhattan Cafe's reliability, I\nwas going to have a peaceful morning.",
             "nextBlock": -1,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 1642341085545713663
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -5182937447758733664
+                }
+            ],
             "pathId": -2483388927747682590,
             "blockIdx": 42
         }
-    ]
+    ],
+    "modified": 1669946366
 }

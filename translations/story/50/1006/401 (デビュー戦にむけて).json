@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OR7JMGBBLZFLJKZLXXZ4BXPM37XNIFPW",
     "type": "story",
     "storyId": "501006401",
@@ -11,10 +11,21 @@
             "jpText": "いよいよ、オグリキャップの\r\n『メイクデビュー』出走だ。",
             "enText": "Finally, Oguri Cap's \"Make-Debut\" \nrace is about to start.",
             "nextBlock": 2,
+            "origClipLength": 63,
             "coloredText": [
                 {
                     "jpText": "メイクデビュー",
                     "enText": "debut"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 6804203154615923656
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7507975003439093708
                 }
             ],
             "pathId": 397738018364648865,
@@ -26,8 +37,20 @@
             "jpText": "『応援してくれるみんなの期待に応える』\r\n――彼女は静かに決意を固めるのだった。",
             "enText": "She made up her mind quietly, \"I \nwill live up to the expectations \nof everyone who supports me.",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 5688156977650625501
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -654167740769953161
+                }
+            ],
             "pathId": -7731096370635332815,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944977
 }

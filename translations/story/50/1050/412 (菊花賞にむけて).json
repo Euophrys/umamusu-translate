@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "AGMPNWKS67V37VBVT55L4WKHK3OHDSLJ",
     "type": "story",
     "storyId": "501050412",
@@ -11,6 +11,17 @@
             "jpText": "『菊花賞』当日――",
             "enText": "On the day of the \"Chrysanthemum Prize\"―",
             "nextBlock": 2,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -3173026445139120537
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2839757356535697734
+                }
+            ],
             "pathId": 3076936982650921508,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "本調子ではないナリタタイシンは\n引きずるような足取りで控室を出ていく。",
             "enText": "Narita Taishin, who was not in good form, \nwalked out of the waiting room with a limp.",
             "nextBlock": 3,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 2385622589400469679
+                },
+                {
+                    "origLen": 147,
+                    "pathId": -492963441297422235
+                }
+            ],
             "pathId": -2968027922248456751,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "ゲートが開いてしまえば、\nしてあげられることなど何もない。",
             "enText": "Once the gate is open, there \nis nothing we can do.",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 7204900074765596887
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6786283186316742740
+                }
+            ],
             "pathId": -732053480441166125,
             "blockIdx": 3
         },
@@ -38,8 +71,10 @@
             "jpText": "ただただ、彼女が無事に戻ることを\n祈るしかないのだった。",
             "enText": "We could only pray that she \nwould return safely.",
             "nextBlock": -1,
+            "origClipLength": 81,
             "pathId": 171896527981697979,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945807
 }

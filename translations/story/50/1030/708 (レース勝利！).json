@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6LGIUW3NVJONQHNYXC5M4GLEYOLOFAQU",
     "type": "story",
     "storyId": "501030708",
@@ -11,11 +11,23 @@
             "jpText": "やった……やったよ、お兄さま。\r\nライス、勝てたんだよね……。",
             "enText": "I did it… I did it, brother. Rice, you won…",
             "nextBlock": 2,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "もっと胸を張って",
                     "enText": "More chest thumping.",
                     "nextBlock": 3
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -4735476013432227941
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2356585108076722844
                 }
             ],
             "pathId": 3447010584624502452,
@@ -27,11 +39,23 @@
             "jpText": "やった……やったよ、お姉さま。\r\nライス、勝てたんだよね……。",
             "enText": "I did it… I did it, sister. Rice, you won…",
             "nextBlock": 3,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "もっと胸を張って",
                     "enText": "More chest thumping.",
                     "nextBlock": 3
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -6639942070664099074
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4717937703269030871
                 }
             ],
             "pathId": -1109111706472844496,
@@ -43,6 +67,17 @@
             "jpText": "胸を張る……？　え、えっと――",
             "enText": "Chest thumping…? Well, let's see—",
             "nextBlock": 4,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 5670587995598775454
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -8252903864465830579
+                }
+            ],
             "pathId": 2049179292655678682,
             "blockIdx": 3
         },
@@ -52,6 +87,7 @@
             "jpText": "えっ、えっへん……！\r\nこ、こうかな？　ライスちゃんとできてる？",
             "enText": "What? No, no, no…! Like this? \nDid you get the Rice right?",
             "nextBlock": 5,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "誇らしいよ",
@@ -67,6 +103,17 @@
                     "jpText": "次も勝とうね！",
                     "enText": "Let's win the next one!",
                     "nextBlock": 10
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -6016121265033915205
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5409056270575396395
                 }
             ],
             "pathId": 5048350870888809314,
@@ -78,6 +125,7 @@
             "jpText": "えっ、えっへん……！\r\nこ、こうかな？　ライスちゃんとできてる？",
             "enText": "What? No, no, no…! Like this? \nDid you get the Rice right?",
             "nextBlock": 6,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "誇らしいよ",
@@ -95,6 +143,17 @@
                     "nextBlock": 10
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -3733151278489511960
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1282483512487084975
+                }
+            ],
             "pathId": 3172718592570031175,
             "blockIdx": 5
         },
@@ -104,6 +163,17 @@
             "jpText": "ライスを誇りに……？\r\nな、なんだか恥ずかしい……。",
             "enText": "Proud of Rice…? Nah, it's \nkind of embarrassing…",
             "nextBlock": 7,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -1765849681560223221
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -1372148620688017867
+                }
+            ],
             "pathId": -3491528331497026622,
             "blockIdx": 6
         },
@@ -113,6 +183,18 @@
             "jpText": "……でも、お兄さまがライスのこと、\r\n誇りに思ってくれてることはうれしくて……。",
             "enText": "… But I'm glad that you're proud of Rice…",
             "nextBlock": 8,
+            "origClipLength": 71,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -438115924564783354
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -3653168208346613198
+                }
+            ],
             "pathId": 3306405247353338365,
             "blockIdx": 7
         },
@@ -122,6 +204,18 @@
             "jpText": "……でも、お姉さまがライスのこと、\r\n誇りに思ってくれてることはうれしくて……。",
             "enText": "… But I'm glad to hear that your \nsister is proud of Rice…",
             "nextBlock": 9,
+            "origClipLength": 71,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 3607178960539262648
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 5548454321238864770
+                }
+            ],
             "pathId": -3340494199855535883,
             "blockIdx": 8
         },
@@ -131,6 +225,17 @@
             "jpText": "うれしいけど……恥ずかしくて……\r\nうぅ、ライス、なんだか、わかんないよ～。",
             "enText": "I'm happy but… embarrassed… Ugh, Rice, I \ndon't know what's going on here!",
             "nextBlock": -1,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -2324722974937833249
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -6250599408281568095
+                }
+            ],
             "pathId": 7050652362425347129,
             "blockIdx": 9
         },
@@ -140,6 +245,17 @@
             "jpText": "う、うん……！　次のレースでも勝って、\r\nみんなに喜んでもらいたい……。",
             "enText": "Umm, yeah…! I want to win the next \nrace and make everyone happy…",
             "nextBlock": 11,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -4297788619247934176
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3159312120175509092
+                }
+            ],
             "pathId": -5527213203726185522,
             "blockIdx": 10
         },
@@ -149,6 +265,18 @@
             "jpText": "だから、お兄さま。またトレーニング、\r\nよろしくお願いします……！",
             "enText": "So, brother. I look forward to \nworking out with you again…!",
             "nextBlock": 12,
+            "origClipLength": 66,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 3715195064681232473
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 2970581811674698851
+                }
+            ],
             "pathId": 2136564401486553190,
             "blockIdx": 11
         },
@@ -158,8 +286,21 @@
             "jpText": "だから、お姉さま。またトレーニング、\r\nよろしくお願いします……！",
             "enText": "So, sister. I look forward to \nworking out with you again…!",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -8615412491184984348
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 4814123882913533460
+                }
+            ],
             "pathId": 8624722746627189681,
             "blockIdx": 12
         }
-    ]
+    ],
+    "modified": 1669945561
 }

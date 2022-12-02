@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "WATUZ3FQPKCBKLYCQNOMGDRHURW7L464",
     "type": "story",
     "storyId": "501040736",
@@ -11,6 +11,21 @@
             "jpText": "……当たり前だよね。",
             "enText": "It's… obvious.",
             "nextBlock": 2,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 1753653152718975916
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -1290686359387635290
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -1110338842891350490
+                }
+            ],
             "pathId": 4953177747303850573,
             "blockIdx": 1
         },
@@ -20,6 +35,7 @@
             "jpText": "こんな入り切れてないのに、\r\n勝てるわけない。",
             "enText": "How can we win if we can't get into the game?",
             "nextBlock": 3,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "それでも君は勝てるって信じてる",
@@ -35,6 +51,21 @@
                     "jpText": "なら負けたままでいい？",
                     "enText": "Then can we keep losing?",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 648795741659944370
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3975928697964246897
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -4239029794584183099
                 }
             ],
             "pathId": -1662208786565557107,
@@ -46,6 +77,7 @@
             "jpText": "こんな入り切れてないのに、\r\n勝てるわけない。",
             "enText": "How can we win if we can't get into the game?",
             "nextBlock": 4,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "それでも君は勝てるって信じてる",
@@ -63,6 +95,21 @@
                     "nextBlock": 8
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -6181620207734867433
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2312451279616828376
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 1074083259914935274
+                }
+            ],
             "pathId": 5444897525834120333,
             "blockIdx": 3
         },
@@ -72,6 +119,21 @@
             "jpText": "……バカなんじゃない？",
             "enText": "… You must be an idiot.",
             "nextBlock": 5,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -4929777342629503945
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -7282975459676812716
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 7388897353436693219
+                }
+            ],
             "pathId": -5555268572894199906,
             "blockIdx": 4
         },
@@ -81,6 +143,17 @@
             "jpText": "信じれば、どうにかなると思ってんの？\r\nアンタのそーゆーところ――",
             "enText": "Do you really think that believing in them \nwill help? That's the thing about you…",
             "nextBlock": 6,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 6742970332422616280
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4754191541551164883
+                }
+            ],
             "pathId": -1495560896390552200,
             "blockIdx": 5
         },
@@ -90,6 +163,21 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 7,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -2051633098841346612
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 1880073502024101191
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5628300985486139808
+                }
+            ],
             "pathId": -584193282149381144,
             "blockIdx": 6
         },
@@ -99,6 +187,21 @@
             "jpText": "次のレースは……\r\n当たり前みたいに、信じないでよね。",
             "enText": "The next race is… Like it's \nobvious, don't believe me.",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -997998962594815095
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 3115398522089547963
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -7301979811187788360
+                }
+            ],
             "pathId": 161392769710854239,
             "blockIdx": 7
         },
@@ -108,6 +211,21 @@
             "jpText": "……やめて、それ。\r\nなだめるみたいな言い方……ムカつく。",
             "enText": "… Stop it, that's it. The way \nyou say it like you're trying to appease \n… pisses me off.",
             "nextBlock": 9,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -3595785420807724602
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -7047437448398662569
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -7584715875411051134
+                }
+            ],
             "pathId": -8632211157394690795,
             "blockIdx": 8
         },
@@ -117,6 +235,21 @@
             "jpText": "だってしょうがないじゃん。\r\n今のアタシは、負けて当たり前。",
             "enText": "Because it can't be helped. It is \nnatural for me to lose now.",
             "nextBlock": 10,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 179585641883998363
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -7219817295978221908
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 3989553142490149506
+                }
+            ],
             "pathId": -8932085775391463700,
             "blockIdx": 9
         },
@@ -126,6 +259,21 @@
             "jpText": "……でも――",
             "enText": "Also…―",
             "nextBlock": 11,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -6344260952115035126
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -7625786470447029109
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1769537354394595999
+                }
+            ],
             "pathId": 7980250654707230904,
             "blockIdx": 10
         },
@@ -135,8 +283,24 @@
             "jpText": "負けたままでいい、とか。\r\nそれは……違うから。",
             "enText": "Like, you can lose all the time. \nBecause that's not…",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -1932156054589933416
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -3638815079518767801
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -3882932823514235332
+                }
+            ],
             "pathId": -1497867099696373655,
             "blockIdx": 11
         }
-    ]
+    ],
+    "modified": 1669945694
 }

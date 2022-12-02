@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ARX3DMTC3YMX6DFRJKTENN6X3BX6W6F2",
     "type": "story",
     "storyId": "830074002",
@@ -11,11 +11,34 @@
             "jpText": "ねー、お空ぜんぜんみえないよー？\r\nホントに流れ星みえるのー？",
             "enText": "Hey, I can't see the sky at all! Can you \nreally see a shooting star?",
             "nextBlock": 2,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "もうちょっと待っててね！",
                     "enText": "Just hold on a little longer!",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -4815927341677551143
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 3922755194973308307
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -9182046061001384956
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -372234337262091454
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5682586085299445462
                 }
             ],
             "pathId": 5022794857050333488,
@@ -27,6 +50,29 @@
             "jpText": "今日は子どもたちと流星群を観察する\r\nイベントの手伝いに来ているのだが……。",
             "enText": "Today, I'm here to help with an event to \nobserve a meteor shower with children…",
             "nextBlock": 3,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -1528217292064383778
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1239360826726432705
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -8706250499095768934
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -8860475962679038071
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -6509569855536746500
+                }
+            ],
             "pathId": -9132478890099545245,
             "blockIdx": 2
         },
@@ -36,6 +82,29 @@
             "jpText": "あと1時間ほどで日の入りなのですが……\r\n天気図を見る限り期待はできませんね。",
             "enText": "The sun will be setting in about an hour… \nThe weather map doesn't give me much hope.",
             "nextBlock": 4,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 2053702266744130983
+                },
+                {
+                    "origLen": 207,
+                    "pathId": 3036435809530219868
+                },
+                {
+                    "origLen": 161,
+                    "pathId": -3891448231367160317
+                },
+                {
+                    "origLen": 149,
+                    "pathId": 4100435427857195658
+                },
+                {
+                    "origLen": 176,
+                    "pathId": -8768183073380391749
+                }
+            ],
             "pathId": 1486510542564407077,
             "blockIdx": 3
         },
@@ -45,6 +114,29 @@
             "jpText": "でも、もしかしたら晴れるかもしれないよ！\r\n信じて待ってみよー！",
             "enText": "But maybe it'll clear up! \nLet's wait and see!",
             "nextBlock": 5,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -3244820860065551666
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8025852666532114398
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 666399422997811945
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -3950732754146079697
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2644822110608410677
+                }
+            ],
             "pathId": 1478109543827400465,
             "blockIdx": 4
         },
@@ -54,6 +146,7 @@
             "jpText": "私もそう願っています。\r\nしかし、早めに見切りをつけるのも英断です。\n監督役として、貴方はどう思いますか？",
             "enText": "I hope so, too. But it is also a wise \ndecision to give up early. As a director, \nwhat do you think?",
             "nextBlock": 6,
+            "origClipLength": 114,
             "choices": [
                 {
                     "jpText": "難しい問題だ……",
@@ -66,6 +159,24 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 7066853846224791914
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 6070928601974547257
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -9139830601388397754
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -2418979678490167637
+                }
+            ],
             "pathId": -2537078228259233590,
             "blockIdx": 5
         },
@@ -75,11 +186,30 @@
             "jpText": "だったらアタシが流れ星を“作る”よ！",
             "enText": "Then I'll make a shooting star!",
             "nextBlock": 7,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "流れ星を作る……？",
                     "enText": "Make a shooting star…?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -3733016162641673778
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -593680509656211887
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3905744920989011385
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2573011972967402032
                 }
             ],
             "pathId": -5920663242631654923,
@@ -91,6 +221,25 @@
             "jpText": "任せて☆　トレセン学園へレッツゴー★",
             "enText": "I'll take care of it☆ Let's \ngo to Tracen Academy",
             "nextBlock": 8,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -2734195055819499120
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 2141327321831343876
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2378163672579011360
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 8358312578428649615
+                }
+            ],
             "pathId": 4151860835494877838,
             "blockIdx": 7
         },
@@ -100,6 +249,33 @@
             "jpText": "みんなー！　お待たせーー！！",
             "enText": "Hey, guys! Here you go!",
             "nextBlock": 9,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 8486010305311358955
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 2975613172346640549
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 2358840445865344006
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -7738689118730230633
+                },
+                {
+                    "origLen": 152,
+                    "pathId": -530297622105265761
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 8832606134031573627
+                }
+            ],
             "pathId": 4313693983361099829,
             "blockIdx": 8
         },
@@ -109,6 +285,25 @@
             "jpText": "トレセン学園でしか見られない、\r\nマーベラスな流れ星を見せてあげる！！",
             "enText": "I'm going to show you a marvelous \nshooting star that can only be seen \nat the Trecen Academy!",
             "nextBlock": 10,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 7245726665856083371
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 4008467742227707611
+                },
+                {
+                    "origLen": 152,
+                    "pathId": 7912873382993087602
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -132143557805403437
+                }
+            ],
             "pathId": -2827156968609458531,
             "blockIdx": 9
         },
@@ -118,6 +313,25 @@
             "jpText": "いっくよ～～☆★☆",
             "enText": "Here we go!",
             "nextBlock": 11,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 5131349386400273200
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -1863767962163592853
+                },
+                {
+                    "origLen": 152,
+                    "pathId": 7514988415977152891
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -2326135755485829321
+                }
+            ],
             "pathId": 4287543168805112103,
             "blockIdx": 10
         },
@@ -127,6 +341,25 @@
             "jpText": "（ぽわ～～ん）",
             "enText": "(whirring)",
             "nextBlock": 12,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 5807630295257869303
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -8898828340005082912
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -731455294124550344
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -5482608619974000565
+                }
+            ],
             "pathId": 3773920668874216999,
             "blockIdx": 11
         },
@@ -136,6 +369,7 @@
             "jpText": "曇天のもと、光の粒が小さく瞬いた。\r\nそれはマーベラスサンデーが走った後の\nペンライトの残光。……流れ星とは程遠い光。",
             "enText": "Under the cloudy sky, a small grain of light \ntwinkled. It was the afterglow of the \npenlight after Marvelous Sunday's run. A \nlight that was far from a… shooting star.",
             "nextBlock": 13,
+            "origClipLength": 121,
             "pathId": 7785624465348170025,
             "blockIdx": 12
         },
@@ -145,6 +379,7 @@
             "jpText": "あはは！　あはははっ☆",
             "enText": "Hahaha! Ha-ha-ha!",
             "nextBlock": 14,
+            "origClipLength": 59,
             "pathId": -6416393591448167562,
             "blockIdx": 13
         },
@@ -154,6 +389,7 @@
             "jpText": "それでもマーベラスサンデーは走り続けた。\r\nペンライトの光が加速していく……！",
             "enText": "Still, Marvelous Sunday kept running. The \nlight of the penlights accelerated…!",
             "nextBlock": 15,
+            "origClipLength": 95,
             "pathId": -3435469473930387921,
             "blockIdx": 14
         },
@@ -163,6 +399,7 @@
             "jpText": "（シュウィィィィーーン……！）",
             "enText": "(Shweeeeeeen!…!)",
             "nextBlock": 16,
+            "origClipLength": 64,
             "pathId": -2453204618453306278,
             "blockIdx": 15
         },
@@ -172,6 +409,25 @@
             "jpText": "もっともっと！　まだまだ！　マーベラス！！",
             "enText": "More and more! Still more! Marvelous!",
             "nextBlock": 17,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -909498995115000486
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -3750080671736852460
+                },
+                {
+                    "origLen": 152,
+                    "pathId": 413374512784041360
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 5336231908073168848
+                }
+            ],
             "pathId": -8373552644369050117,
             "blockIdx": 16
         },
@@ -181,6 +437,25 @@
             "jpText": "おや、いつの間にか空が？\r\nこ、これは……！？",
             "enText": "Oh, when will the sky be empty? This is…!",
             "nextBlock": 18,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -2001551086620379255
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 8141345881615258871
+                },
+                {
+                    "origLen": 152,
+                    "pathId": -5373889279471125
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 4714772259181267863
+                }
+            ],
             "pathId": -4144897199738380248,
             "blockIdx": 17
         },
@@ -190,6 +465,25 @@
             "jpText": "キラキラでピカピカ！！\r\nマーベラァァァーーース☆★☆",
             "enText": "Sparkly and shiny! Marbellaaaaaaassss☆☆☆",
             "nextBlock": 19,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -3262165053068333055
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -1775371684495287297
+                },
+                {
+                    "origLen": 152,
+                    "pathId": -7851163789140502751
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -5335175466086995669
+                }
+            ],
             "pathId": -6974374856918531317,
             "blockIdx": 18
         },
@@ -199,6 +493,25 @@
             "jpText": "雲は霧散し、星空が広がっていた。\r\n先ほどまでの天気が嘘のようだ。",
             "enText": "The clouds had dissipated and the starry sky \nwas spreading. The weather we had just \nexperienced seemed to be a lie.",
             "nextBlock": 20,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -1855178556992571186
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -1463073646699559658
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 2132902539373715250
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -356701428813146236
+                }
+            ],
             "pathId": -1109075220231982122,
             "blockIdx": 19
         },
@@ -208,6 +521,7 @@
             "jpText": "（キュピーーーン☆）",
             "enText": "(CUPEEN☆)",
             "nextBlock": 21,
+            "origClipLength": 58,
             "pathId": 5494189486931932825,
             "blockIdx": 20
         },
@@ -217,6 +531,7 @@
             "jpText": "あっ、見えたよ！　流れ星だ！\r\nピカーンって！",
             "enText": "Oh, I see it! A shooting star! Boom!",
             "nextBlock": 22,
+            "origClipLength": 75,
             "pathId": -6770881960954297607,
             "blockIdx": 21
         },
@@ -226,6 +541,7 @@
             "jpText": "しかし、あの法則性の無い軌道……\r\n流れ星の動きとも違う……！",
             "enText": "But that lawless orbit… is not even like the \nmovement of a shooting star…!",
             "nextBlock": 23,
+            "origClipLength": 85,
             "pathId": 4148612906966379896,
             "blockIdx": 22
         },
@@ -235,6 +551,21 @@
             "jpText": "わー！　飛んでっちゃった！\r\nす、すっごーい……！",
             "enText": "Whoa! It just flew away! Wow, wow, wow…!",
             "nextBlock": 24,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": 6036915264433826354
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 1932163665188883820
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 5257837063383523730
+                }
+            ],
             "pathId": 2940015901366152573,
             "blockIdx": 23
         },
@@ -244,6 +575,21 @@
             "jpText": "私たちは集団で幻覚を見ているのでしょうか？\r\nだって、あれは……！",
             "enText": "Are we collectively hallucinating? \nBecause that's…!",
             "nextBlock": 25,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": -683451502922087200
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -6486617806703398314
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 7770340864164787571
+                }
+            ],
             "pathId": 2305686117705448338,
             "blockIdx": 24
         },
@@ -253,6 +599,37 @@
             "jpText": "さあ、フィナーレだよ！",
             "enText": "Come on, it's the finale!",
             "nextBlock": 26,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -7677229539651162363
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -1833433275855996007
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -5715848202517942536
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -8117379635231953098
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -4148487920958357431
+                },
+                {
+                    "origLen": 152,
+                    "pathId": 5095444524983561240
+                },
+                {
+                    "origLen": 178,
+                    "pathId": 5833369681912295245
+                }
+            ],
             "pathId": -1833417625517411058,
             "blockIdx": 25
         },
@@ -262,6 +639,25 @@
             "jpText": "この星を包むマーベラス☆\r\nキラキラな思い出をありがと～～！！",
             "enText": "Thank you for the glittering memories~!",
             "nextBlock": 27,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -5632851588401896942
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 4630948796990071416
+                },
+                {
+                    "origLen": 152,
+                    "pathId": 4286232562098648580
+                },
+                {
+                    "origLen": 178,
+                    "pathId": 5463667261997040553
+                }
+            ],
             "pathId": -1723668952966621829,
             "blockIdx": 26
         },
@@ -271,6 +667,33 @@
             "jpText": "（シュワ～～～ン……！！）",
             "enText": "(Swoon…!!!)",
             "nextBlock": 28,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 2711527709891098834
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 6420254824666179472
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -8230530249765051456
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -3160978997854824445
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 4105423675532924242
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 6984171165757065834
+                }
+            ],
             "pathId": 5082392322739049761,
             "blockIdx": 27
         },
@@ -280,6 +703,17 @@
             "jpText": "気づいた時には流星も謎の光も消え、\r\n何の変哲もない夜空が広がっていた……。",
             "enText": "The next thing I knew, the meteors and \nmysterious lights were gone, and the night \nsky was plain as day…",
             "nextBlock": 29,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": -3807353385464709232
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -1582131787275231199
+                }
+            ],
             "pathId": 8820921901076146547,
             "blockIdx": 28
         },
@@ -289,6 +723,25 @@
             "jpText": "あははははっ☆　キレイだったね！",
             "enText": "Hahahaha* That was beautiful!",
             "nextBlock": 30,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": -6064820546462800796
+                },
+                {
+                    "origLen": 178,
+                    "pathId": 5324176903667210264
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5788638956415157577
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4419811974896979957
+                }
+            ],
             "pathId": -2549631782067097732,
             "blockIdx": 29
         },
@@ -298,6 +751,25 @@
             "jpText": "ええ、とてもきれいだったのですが……\r\n飛行していた光の正体も気になるところです。",
             "enText": "Yes, it was very beautiful, but I'm \nalso curious about the identity of \nthe light that was flying…",
             "nextBlock": 31,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 1294193354492862091
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -9138726137783725012
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7782073130348115734
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -1357989370301073156
+                }
+            ],
             "pathId": -2974022523936556211,
             "blockIdx": 30
         },
@@ -307,6 +779,7 @@
             "jpText": "トレーナーさんは今の現象をどう考えますか？",
             "enText": "What do you think of the current \nphenomenon, trainer?",
             "nextBlock": 32,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "疲れてるのかも……",
@@ -319,6 +792,24 @@
                     "nextBlock": 39
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 9090714759993853844
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 7731583315818221402
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -3612481631366406522
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3460950006262651109
+                }
+            ],
             "pathId": -1906815537116104231,
             "blockIdx": 31
         },
@@ -328,6 +819,25 @@
             "jpText": "現実的なラインといえます。\r\nですが、説明のつかない部分は\n考察したいところです……。",
             "enText": "It is a realistic line. However, I would \nlike to discuss the unexplained parts…",
             "nextBlock": 33,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 4549860001963874182
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -9143145278765604149
+                },
+                {
+                    "origLen": 186,
+                    "pathId": 920874690193822310
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 1190657842900579858
+                }
+            ],
             "pathId": -434948929901697995,
             "blockIdx": 32
         },
@@ -337,6 +847,25 @@
             "jpText": "不思議な体験から数日が経った頃、\r\nマーベラスサンデーたちに話しかけられた。",
             "enText": "A few days after the strange experience, \nMarvelous Sunday and the others spoke to me.",
             "nextBlock": 34,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 162,
+                    "pathId": 7028331112709530416
+                },
+                {
+                    "origLen": 168,
+                    "pathId": 3367731806984973822
+                },
+                {
+                    "origLen": 164,
+                    "pathId": -1449014561570391804
+                },
+                {
+                    "origLen": 195,
+                    "pathId": 6189265636645379332
+                }
+            ],
             "pathId": -1910812886962992767,
             "blockIdx": 33
         },
@@ -346,6 +875,25 @@
             "jpText": "ねえねえ！　この間の子どもたちがね、\r\nあの日のことを絵にしてくれたんだよ！",
             "enText": "Hey! The other day, the kids, they \nmade a picture of that day!",
             "nextBlock": 35,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -2881537523478475448
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 2012638956140420445
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 1578824200053809994
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -5276267671392766891
+                }
+            ],
             "pathId": -5262265894127389240,
             "blockIdx": 34
         },
@@ -355,6 +903,25 @@
             "jpText": "描かれていたのは無数の流れ星……\r\nそして、強烈に輝く光だった。",
             "enText": "What was depicted were countless shooting \nstars… and an intensely shining light.",
             "nextBlock": 36,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -9160536487643774421
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 1119232483775048816
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -2400614680121766334
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -1231592697608788196
+                }
+            ],
             "pathId": -4507873521694698104,
             "blockIdx": 35
         },
@@ -364,6 +931,7 @@
             "jpText": "やはり全員が同じ体験を……。\r\nあの日の出来事を、ただの夢とは\n片づけられませんね。",
             "enText": "After all, we all experienced the same \nthing… The events of that day can't be \ndismissed as just a dream.",
             "nextBlock": 37,
+            "origClipLength": 99,
             "pathId": -5464837435509970061,
             "blockIdx": 36
         },
@@ -373,6 +941,25 @@
             "jpText": "そう！　マーベラスな夜だったんだよ☆\r\nマーベラ～～ス★",
             "enText": "Yes! It was a marvelous night! Marvelous!",
             "nextBlock": 38,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": -3106086397275695658
+                },
+                {
+                    "origLen": 163,
+                    "pathId": -8226550941134377349
+                },
+                {
+                    "origLen": 162,
+                    "pathId": 8281945961167462353
+                },
+                {
+                    "origLen": 171,
+                    "pathId": 353275190052261337
+                }
+            ],
             "pathId": 3648627372797468943,
             "blockIdx": 37
         },
@@ -382,6 +969,25 @@
             "jpText": "なるほど……マーベラスさんが言うと、\r\n妙な説得力がありますね。ふふっ。",
             "enText": "I see… When Marvelous says it, it's \nstrangely persuasive. Hmmm.",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -3383726479992118598
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6850794387378170513
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1689535459515190031
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6299347476730050363
+                }
+            ],
             "pathId": -6165880934308620309,
             "blockIdx": 38
         },
@@ -391,6 +997,25 @@
             "jpText": "なるほど……では、マーべラスさん。\r\nもう1度お願いできますか。",
             "enText": "I see… So, Marvelous. Can \nyou repeat that again?",
             "nextBlock": 40,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -2764556463436184872
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -4273694299745086695
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 8082521319409073506
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 7586694608117876184
+                }
+            ],
             "pathId": 3408652920325764789,
             "blockIdx": 39
         },
@@ -400,6 +1025,25 @@
             "jpText": "じゃあじゃあ、今度はみんなでやろうよ！",
             "enText": "Okay, well, let's all do \nit together this time!",
             "nextBlock": 41,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -7893672481136627702
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5887581343774806163
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -309151980950622989
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2964629341419265676
+                }
+            ],
             "pathId": 4203386029583981331,
             "blockIdx": 40
         },
@@ -409,6 +1053,49 @@
             "jpText": "マーベラァァァス☆★☆",
             "enText": "Marvelous☆☆☆☆",
             "nextBlock": 42,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 4051791679960787927
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5731582917723148233
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -38571997635064799
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 6436889184243932901
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 8083670723535143634
+                },
+                {
+                    "origLen": 155,
+                    "pathId": -4332976865544535781
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -4217678615940629330
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -6846761940612031493
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 6674440905360776667
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 9159331157716284007
+                }
+            ],
             "pathId": 1234673603588635442,
             "blockIdx": 41
         },
@@ -418,6 +1105,49 @@
             "jpText": "マーベラ～～ス！",
             "enText": "Marbella~s!",
             "nextBlock": 43,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -7071298765072293987
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 7093448411057734302
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 2767779733605918787
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 480964722776619374
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -6180660475292744667
+                },
+                {
+                    "origLen": 155,
+                    "pathId": 9156136339059555267
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 9172954695939878640
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -1698089040396318149
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -8283839237626608053
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -1162712268728512172
+                }
+            ],
             "pathId": -7813014907796132064,
             "blockIdx": 42
         },
@@ -427,6 +1157,49 @@
             "jpText": "全員でペンライトを振ってみるも、\r\n謎の光が現れる様子はない。\nあれは、もう“帰って”しまったのだろうか。",
             "enText": "We all waved our penlights, but there was no \nsign of the mysterious light. I wondered if \nit had already \"left\".",
             "nextBlock": 44,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 181,
+                    "pathId": 1924274312698255292
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -8994162836819864790
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -8712572135120322710
+                },
+                {
+                    "origLen": 149,
+                    "pathId": 1461624773657407030
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -3416059817780880986
+                },
+                {
+                    "origLen": 155,
+                    "pathId": -512030175546794743
+                },
+                {
+                    "origLen": 177,
+                    "pathId": 2196453942080003428
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 4039949735365534786
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 6195092372833108354
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -4849961707194748981
+                }
+            ],
             "pathId": 1366142506148873755,
             "blockIdx": 43
         },
@@ -436,6 +1209,49 @@
             "jpText": "ペンライトの振り方や時間など、\r\n何かしら条件があるのかもしれません。",
             "enText": "There may be some conditions, such as how to \nwave the penlight or how long to do so.",
             "nextBlock": 45,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 6617312889892519255
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 9154380518864240654
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1249304681665269118
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -5295370410836353930
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -1472710610820982040
+                },
+                {
+                    "origLen": 155,
+                    "pathId": -381514118514173906
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -563087480325110847
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 940181829424884231
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 8000699308631091411
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -2274575624804840879
+                }
+            ],
             "pathId": -6304520346930871689,
             "blockIdx": 44
         },
@@ -445,6 +1261,49 @@
             "jpText": "でもでも、あたしたちが\r\nお星さまになったみたいでキレイ！",
             "enText": "But it's so beautiful, it's \nlike we're stars!",
             "nextBlock": 46,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 169,
+                    "pathId": 1958093586200025561
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -3896586821345363510
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -364214435708598627
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -1105765746781828862
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 7474144405780750420
+                },
+                {
+                    "origLen": 155,
+                    "pathId": -2331767901121214631
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 553253705396400604
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 1792406113188349571
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -6508218891455891551
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -2373275354622656051
+                }
+            ],
             "pathId": 6206460929310028043,
             "blockIdx": 45
         },
@@ -454,8 +1313,52 @@
             "jpText": "うん☆　みんなで広めるマーベラス★\r\nきっとどこかに届いてるよ☆",
             "enText": "We're spreading Marvelous together, and I'm \nsure it's reaching somewhere.",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": -5606943637919680523
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 793496575248283648
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -648951571002239654
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 2980786822588744539
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 8802294658495249093
+                },
+                {
+                    "origLen": 155,
+                    "pathId": 7092865266627654598
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -3058179077731923341
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -1272782365787731182
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 1066009246728700540
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 6033298237878459389
+                }
+            ],
             "pathId": -9036415826374483304,
             "blockIdx": 46
         }
-    ]
+    ],
+    "modified": 1669946496
 }

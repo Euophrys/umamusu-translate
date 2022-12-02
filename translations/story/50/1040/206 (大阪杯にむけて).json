@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ANXRB6CH3IVI7ROZ5LS3OQLYDSYW4CFD",
     "type": "story",
     "storyId": "501040206",
@@ -11,11 +11,22 @@
             "jpText": "……いいのかな。",
             "enText": "I wonder if… is a good idea.",
             "nextBlock": 2,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "何が？",
                     "enText": "What?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 2628305821624660739
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 602886240214657895
                 }
             ],
             "pathId": 4492890028470554712,
@@ -27,6 +38,21 @@
             "jpText": "正直、全然身が入ってない。\nふわっふわしてんだ、アタシ。",
             "enText": "To be honest, I'm not at all into \nit. I'm fluffy, I'm fluffy.",
             "nextBlock": 3,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3428982267903704154
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -2136531616872291168
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 438962062214155293
+                }
+            ],
             "pathId": 3468713256115233044,
             "blockIdx": 2
         },
@@ -36,6 +62,21 @@
             "jpText": "前どーやって走ってたのか、\n思い出せないくらい……。",
             "enText": "I can't even remember how \nI used to run…",
             "nextBlock": 4,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -2914949628411200012
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 4623711243268359827
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2575148379652927552
+                }
+            ],
             "pathId": 2090029133865303601,
             "blockIdx": 3
         },
@@ -45,6 +86,7 @@
             "jpText": "このまま走って、\nいいのかな。",
             "enText": "I wonder if it's okay to run like this.",
             "nextBlock": 5,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "でも君は、走らないとは言わなかった",
@@ -57,6 +99,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 3529588317241211318
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5271922292237675046
+                }
+            ],
             "pathId": 6601816883922732484,
             "blockIdx": 4
         },
@@ -66,11 +118,26 @@
             "jpText": "それ、は……。",
             "enText": "It, is available…",
             "nextBlock": 6,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "なら走り続けるしかない",
                     "enText": "Then we have to keep running.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 5697017065786427590
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -394872701581597917
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -3754049937701077236
                 }
             ],
             "pathId": -6872094474286508116,
@@ -82,11 +149,26 @@
             "jpText": "……。\nこんな、腑抜けたアタシでも？",
             "enText": "… Even for such a feckless atari?",
             "nextBlock": 7,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "腑抜けたままなら負けるだけ",
                     "enText": "If you stay feckless, you'll only lose.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -3401105426994779817
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -300736774498664318
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4937195866282279598
                 }
             ],
             "pathId": -249359104721598744,
@@ -98,6 +180,17 @@
             "jpText": "は……。\nキツいこと言うじゃん。",
             "enText": "can be found… That's \na harsh thing to say.",
             "nextBlock": 8,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -1028693499136534156
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 7274194835966771829
+                }
+            ],
             "pathId": -3084942989998571530,
             "blockIdx": 7
         },
@@ -107,6 +200,17 @@
             "jpText": "ヤダな。\nそれは……ダサすぎる。",
             "enText": "Oh no. That's too… lame.",
             "nextBlock": 9,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 5480649278498450061
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -1510288614465908062
+                }
+            ],
             "pathId": 4452612182386416338,
             "blockIdx": 8
         },
@@ -116,8 +220,20 @@
             "jpText": "……行ってくる。",
             "enText": "I'm going to go to…",
             "nextBlock": -1,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -6688454046692153187
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -5573379817360158519
+                }
+            ],
             "pathId": 3782171127705187125,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945672
 }

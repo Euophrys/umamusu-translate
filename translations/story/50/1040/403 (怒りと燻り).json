@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "3CMTNG6L5N5CELWMCB7GLIBUQM6TGXTH",
     "type": "story",
     "storyId": "501040403",
@@ -11,6 +11,17 @@
             "jpText": "ゴールドシチーとのトレーニング中。\n早く結果を出して周囲を認めさせたい\n彼女は、気が急いてしまっていた。",
             "enText": "In training with Gold City. I want to get \nresults and get people's recognition as soon \nas possible. She was in a hurry.",
             "nextBlock": 2,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": -2095707598209882543
+                },
+                {
+                    "origLen": 206,
+                    "pathId": -6530838248837907174
+                }
+            ],
             "pathId": 7121088429924610553,
             "blockIdx": 1
         },
@@ -20,10 +31,29 @@
             "jpText": "そんな中出会ったのはタマモクロス。\n彼女は、ゴールドシチーのギラギラとした\n剝き出しの闘志が気に入ったと告げた。",
             "enText": "In the midst of all this, I met TAMAMO CROSS. \nShe told me she liked Gold City's bare-boned \nfighting spirit.",
             "nextBlock": 3,
+            "origClipLength": 118,
             "coloredText": [
                 {
                     "jpText": "タマモクロス",
                     "enText": "tamamo cloth"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 224,
+                    "pathId": 664955815476725860
+                },
+                {
+                    "origLen": 206,
+                    "pathId": -467393111720173365
+                },
+                {
+                    "origLen": 223,
+                    "pathId": -2725612358729784698
+                },
+                {
+                    "origLen": 203,
+                    "pathId": -5899439779008633949
                 }
             ],
             "pathId": -6538091453787325158,
@@ -35,6 +65,25 @@
             "jpText": "タマモクロスは、家族に楽をさせるために\n走っているのだと明かした。\nだが、まだ認められる結果を残せていない。",
             "enText": "Tumamocross revealed that she runs to make \nthings easier on her family. But she has yet \nto achieve any recognizable results.",
             "nextBlock": 4,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 224,
+                    "pathId": -2424199020891637268
+                },
+                {
+                    "origLen": 206,
+                    "pathId": 8793572508801179424
+                },
+                {
+                    "origLen": 223,
+                    "pathId": -9173647088225573131
+                },
+                {
+                    "origLen": 203,
+                    "pathId": -54951060015755332
+                }
+            ],
             "pathId": -5528957595619501062,
             "blockIdx": 3
         },
@@ -44,8 +93,28 @@
             "jpText": "自分の走りを認めさせる――\n同じ想いを抱く2人は、いずれレースで\n戦うことを誓い合った。",
             "enText": "They both share the same desire to have their \ndriving recognized, and vowed to fight each \nother in a race at some point.",
             "nextBlock": -1,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 224,
+                    "pathId": -5576576484429605601
+                },
+                {
+                    "origLen": 206,
+                    "pathId": 2303768934498268634
+                },
+                {
+                    "origLen": 223,
+                    "pathId": 6726969717935299480
+                },
+                {
+                    "origLen": 203,
+                    "pathId": -6242354445769200032
+                }
+            ],
             "pathId": 4258794388670388149,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945680
 }

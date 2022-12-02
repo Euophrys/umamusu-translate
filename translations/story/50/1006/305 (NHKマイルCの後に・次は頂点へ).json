@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "NT2PWQEKXUZCU6AVNI52Y76PCOJQORKL",
     "type": "story",
     "storyId": "501006305",
@@ -11,6 +11,7 @@
             "jpText": "トレーナー……\r\n楽しかった！",
             "enText": "Trainer… It was fun!",
             "nextBlock": 2,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "お疲れ！",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -1446716347500464737
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 345054083050982211
+                }
+            ],
             "pathId": -814415734246621349,
             "blockIdx": 1
         },
@@ -32,6 +43,7 @@
             "jpText": "ありがとう。やはり、マイルは得意だ。\r\n自信をもって走れる！",
             "enText": "Thank you. I'm good at the mile, after all. \nI can run with confidence!",
             "nextBlock": 3,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "なら、もっと走るか？",
@@ -44,6 +56,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 8883594625496545101
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -1634579516433938124
+                }
+            ],
             "pathId": 5425466867687244603,
             "blockIdx": 2
         },
@@ -53,6 +75,17 @@
             "jpText": "ああ、それもいいな。",
             "enText": "Yeah, that's good, too.",
             "nextBlock": 4,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -8288801242154276317
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 139906426700500258
+                }
+            ],
             "pathId": -3700811871519921451,
             "blockIdx": 3
         },
@@ -62,6 +95,7 @@
             "jpText": "……ん？\r\nと、いうことは……。",
             "enText": "… Hmm? That's what… is for.",
             "nextBlock": 5,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "次はチャンピオンをとるぞ！",
@@ -74,6 +108,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 6898926861396265177
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 2299378906120809666
+                }
+            ],
             "pathId": 3136575159149887343,
             "blockIdx": 4
         },
@@ -83,10 +127,21 @@
             "jpText": "チャンピオン……\r\n『マイルチャンピオンシップ』か！",
             "enText": "Champion… \"Mile Championship\"!",
             "nextBlock": 6,
+            "origClipLength": 61,
             "coloredText": [
                 {
                     "jpText": "マイルチャンピオンシップ",
                     "enText": "mileage championship"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -434811558979815965
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 316240219272468221
                 }
             ],
             "pathId": -5428436814439914308,
@@ -98,6 +153,17 @@
             "jpText": "ああ、いまの私ならいける気がする。\r\nこのままの勢いで、勝ち続ける！",
             "enText": "Oh, I feel like I can do it now. Keep up the \nmomentum and keep winning!",
             "nextBlock": 7,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -4618607069495578631
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1588211052177355122
+                }
+            ],
             "pathId": -2123971761621165740,
             "blockIdx": 6
         },
@@ -107,8 +173,20 @@
             "jpText": "――こうして、『マイルチャンピオンシップ』\r\nを目指すことが決まった！",
             "enText": "—And so it was decided that she would \ngo for the Mile Championship!",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 5442233547358203514
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 2866890938107837050
+                }
+            ],
             "pathId": 5951132418122299576,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669944974
 }

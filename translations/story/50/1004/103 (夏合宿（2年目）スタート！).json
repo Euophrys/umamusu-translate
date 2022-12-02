@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "GXR6GL37VSKKLXXWRUEGKZG76UL4MJB2",
     "type": "story",
     "storyId": "501004103",
@@ -11,6 +11,7 @@
             "jpText": "今日から『夏合宿』――\n実力向上のため強化トレーニングが始まる。",
             "enText": "Today is the start of the \"summer\ntraining camp\" - a training program\nto improve our skills.",
             "nextBlock": 2,
+            "origClipLength": 88,
             "pathId": 3111689479766860476,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "（ブォンブォオオオオンッ！！　キキーッ）",
             "enText": "(Whoo-hoo-hoo! (Squeak)",
             "nextBlock": 3,
+            "origClipLength": 71,
             "pathId": 4842137458678707433,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "はい、到着～！\nバスのみんなより早く着いちゃったみたい！",
             "enText": "Yes, we're here! I think I got here\nbefore everyone else on the bus!",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 184,
+                    "pathId": 1363930871880842346
+                },
+                {
+                    "origLen": 209,
+                    "pathId": -4016321509599169915
+                }
+            ],
             "pathId": 2898872301270540612,
             "blockIdx": 3
         },
@@ -38,6 +51,7 @@
             "jpText": "んもう、トレーナー君！\n目をまわしてないで、シャキッとしないと！",
             "enText": "Oh, my God, trainer! Don't roll your\neyes, you've got to snap out of it!",
             "nextBlock": 5,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "俺はバスで行きたかったのに……",
@@ -48,6 +62,17 @@
                     "jpText": "私はバスで行きたかったのに……",
                     "enText": "I wanted to take the bus… ",
                     "nextBlock": 6
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -1491294411259892089
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1594844364707811673
                 }
             ],
             "pathId": -1247938904490373737,
@@ -59,6 +84,7 @@
             "jpText": "んもう、トレーナーちゃん！\n目をまわしてないで、シャキッとしないと！",
             "enText": "Oh, my God, Trainer! Don't roll your\neyes, you need to snap out of it!",
             "nextBlock": 6,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "俺はバスで行きたかったのに……",
@@ -71,6 +97,17 @@
                     "nextBlock": 6
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -8499858406123134080
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -7635731908863760533
+                }
+            ],
             "pathId": 8104219183961059973,
             "blockIdx": 5
         },
@@ -80,6 +117,17 @@
             "jpText": "なに言ってるの！\n夏、海、合宿ってきたら、ドライブでしょ？",
             "enText": "What are you talking about? Summer, beach,\ncamp… what's not to love about a drive?",
             "nextBlock": 7,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -7705623311887000031
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 2336791109864075962
+                }
+            ],
             "pathId": -3333642579154624515,
             "blockIdx": 6
         },
@@ -89,6 +137,21 @@
             "jpText": "ねえ、みんなが到着する前に海へ行きましょ！\nうふふ、あたしをつかまえてみなさ～い！",
             "enText": "Hey, let's go to the beach before everyone\nelse arrives! Come and get me!",
             "nextBlock": 8,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -959571473827876753
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 1879440691877809101
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -2918520994753069360
+                }
+            ],
             "pathId": -1949764962914579222,
             "blockIdx": 7
         },
@@ -98,8 +161,10 @@
             "jpText": "こうして、マルゼンスキーとの\n熱い夏合宿が始まった。",
             "enText": "Thus began a heated summer\ncamp with Maruzensky.",
             "nextBlock": -1,
+            "origClipLength": 80,
             "pathId": -766612526071749929,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669944897
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "D5JJCDVRTJWWMBALFLX523ORFYLJ4KHG",
     "type": "story",
     "storyId": "809001006",
@@ -11,6 +11,17 @@
             "jpText": "たづなさんとお出かけを楽しみ、\r\n少し遅くなってしまった帰り道でのこと――",
             "enText": "I was on my way home from an outing with \nTazuna and it was getting a bit late.",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 7010581700528907302
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4488837907833079134
+                }
+            ],
             "pathId": 6931125336334349287,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "……あらっ？",
             "enText": "… Oh?",
             "nextBlock": 3,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 5601309868054177588
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 8835512895692341481
+                }
+            ],
             "pathId": -2598506673241296261,
             "blockIdx": 2
         },
@@ -29,11 +51,26 @@
             "jpText": "……感じますね。",
             "enText": "It feels like…",
             "nextBlock": 4,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "感じる……！？",
                     "enText": "Feel…!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -6831432898253461417
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -3894807119423489315
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -1392272792924346624
                 }
             ],
             "pathId": -1265308944136736206,
@@ -45,6 +82,21 @@
             "jpText": "ええ、生徒さんの気配です。\r\n2人……いえ、3人……？",
             "enText": "Yes, it's a sign of students. \nTwo… no, three…?",
             "nextBlock": 5,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 664920208310261583
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -4855707843222267866
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -2799537892468687893
+                }
+            ],
             "pathId": -879490475322637061,
             "blockIdx": 4
         },
@@ -54,6 +106,21 @@
             "jpText": "……完全アウトですね。\r\n門限はとうに過ぎてしまっています。",
             "enText": "… is completely out. I'm not sure what to \ndo, but I'm sure it's a good idea.",
             "nextBlock": 6,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -4445245419772683595
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3420594552999858233
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1782577169225445877
+                }
+            ],
             "pathId": 1890143949350883026,
             "blockIdx": 5
         },
@@ -63,6 +130,21 @@
             "jpText": "トレーナーさん、私、\r\nちょっと行って参りますね！",
             "enText": "Trainer, I'm going to go for a minute!",
             "nextBlock": 7,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4103713402667406214
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 2206700828182178073
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8999643813140739261
+                }
+            ],
             "pathId": 6187460077516285449,
             "blockIdx": 6
         },
@@ -72,6 +154,7 @@
             "jpText": "言うが早いか、たづなさんはあっという間に\r\n駆けて行ってしまった。",
             "enText": "She ran off as quickly as she could.",
             "nextBlock": 8,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "（遅い時間だし心配だな……）",
@@ -84,6 +167,16 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 6674771430349017108
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 1894432093084798139
+                }
+            ],
             "pathId": 1397105555233156193,
             "blockIdx": 7
         },
@@ -93,6 +186,7 @@
             "jpText": "ここは、たづなさんの戻りを待ってから\r\n送って帰ることにしよう。",
             "enText": "I think I'll wait for Tazuna to come back \nand then take her home.",
             "nextBlock": 9,
+            "origClipLength": 65,
             "pathId": -5381981864261573127,
             "blockIdx": 8
         },
@@ -102,6 +196,7 @@
             "jpText": "そう考え、校門で待っていたのだが――",
             "enText": "So I waited at the school gate.",
             "nextBlock": 10,
+            "origClipLength": 56,
             "pathId": 1298744468624683737,
             "blockIdx": 9
         },
@@ -111,6 +206,17 @@
             "jpText": "ノォォォォォウ！\r\nたづなさん、ベリー・ベリー・ファスト……！",
             "enText": "Noooooooooooo! Tazuna, berry berry fast…!",
             "nextBlock": 11,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 58800741464835382
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -714369466370678615
+                }
+            ],
             "pathId": -8079305365013279909,
             "blockIdx": 10
         },
@@ -120,6 +226,25 @@
             "jpText": "こらーっ、タイキシャトルさん！\r\n寮に戻りなさぁーい！！",
             "enText": "Come on, Ms. Taikishitl! Go \nback to your dormitory!",
             "nextBlock": 12,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -8520419955808931362
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 9110272976935689728
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 5342544663641734997
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 5877828828819652394
+                }
+            ],
             "pathId": -4847978517213321433,
             "blockIdx": 11
         },
@@ -129,6 +254,25 @@
             "jpText": "ノォォォーーーーーウ！！",
             "enText": "Noooooooooooooooooooooo!",
             "nextBlock": 13,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 5612846923431384490
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 988122727342021827
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -7408667890528894951
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 3196457269979309344
+                }
+            ],
             "pathId": 6295572893449725250,
             "blockIdx": 12
         },
@@ -138,6 +282,17 @@
             "jpText": "あっ……逃がしませんよ！",
             "enText": "Oh… won't let you go!",
             "nextBlock": 14,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -915638658936379855
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -540287224539314344
+                }
+            ],
             "pathId": 8175324800295801065,
             "blockIdx": 13
         },
@@ -147,11 +302,22 @@
             "jpText": "――ふっ！！",
             "enText": "—Huh!",
             "nextBlock": 15,
+            "origClipLength": 48,
             "choices": [
                 {
                     "jpText": "（は、速い……！？）",
                     "enText": "(Is that a fast…!?)",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 1062487637971288455
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -2101472678538268429
                 }
             ],
             "pathId": -1742077879085174424,
@@ -163,6 +329,7 @@
             "jpText": "……たづなさんの加速力には、\r\nトレーナーとしても目を見張るものがあった！",
             "enText": "… Tazuna's acceleration has been a real eye \nopener for me as a trainer!",
             "nextBlock": 16,
+            "origClipLength": 69,
             "pathId": 818405325381996160,
             "blockIdx": 15
         },
@@ -172,6 +339,21 @@
             "jpText": "ふぅ～……。",
             "enText": "Phew -…",
             "nextBlock": 17,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -1166415924353466733
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 4861264462045971413
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 4851125409764918564
+                }
+            ],
             "pathId": -3947797483394912473,
             "blockIdx": 16
         },
@@ -181,11 +363,26 @@
             "jpText": "って、あらら！？　トレーナーさん！\r\n待っていてくださったんですか……！",
             "enText": "And, oh my goodness! Trainer! You've \nbeen waiting for me…!",
             "nextBlock": 18,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "素晴らしい脚でした……！",
                     "enText": "It was a great leg…!",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8973611895929496657
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 8514825216842558609
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2866430180502641458
                 }
             ],
             "pathId": -2188217937108045219,
@@ -197,6 +394,17 @@
             "jpText": "あ、ありがとうございます。",
             "enText": "Oh, thank you very much.",
             "nextBlock": 19,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 8421889047004246945
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 4658518880898526762
+                }
+            ],
             "pathId": -8275949928416363362,
             "blockIdx": 18
         },
@@ -206,11 +414,22 @@
             "jpText": "……あのぅ、なんだか目が輝いていませんか？\r\n気のせいであればよいのですが……。",
             "enText": "… Um, don't your eyes look kind of bright? I \nhope it's just my imagination…",
             "nextBlock": 20,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "あなたの夢はなんですか？",
                     "enText": "What is your dream?",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 3320299280113955634
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 6368138671795278992
                 }
             ],
             "pathId": 7059962916394978418,
@@ -222,6 +441,17 @@
             "jpText": "夢！？　えぇと、ウマ娘たちが健やかに育ち、\r\nレースが末永い発展を続けること……。",
             "enText": "A dream! Well, that the girls will grow up \nhealthy and the race will continue to \ndevelop for many years to come…",
             "nextBlock": 21,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -3275622815704469844
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -5338793945929260576
+                }
+            ],
             "pathId": 6733881151113609360,
             "blockIdx": 20
         },
@@ -231,11 +461,22 @@
             "jpText": "って、トレーナーさん！？",
             "enText": "I mean, the trainer!",
             "nextBlock": 22,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "デビューに興味はありませんか！？",
                     "enText": "Are you interested in making your debut!",
                     "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 7497213080668943408
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 8120069269554474554
                 }
             ],
             "pathId": 5606089592921990123,
@@ -247,6 +488,17 @@
             "jpText": "ちょっと、トレーナーさんっ！\r\n正気に戻ってくださいよ、も～！",
             "enText": "Hey, trainer! Come to your senses, please!",
             "nextBlock": 23,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -7550358133173597380
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 8350722990625987242
+                }
+            ],
             "pathId": -8694147767358716646,
             "blockIdx": 22
         },
@@ -256,6 +508,17 @@
             "jpText": "たづなさんに頭をぺちぺち叩かれて、\r\nようやく気分が落ち着いたのだった。",
             "enText": "A pat on the head from Tazuna \nfinally calmed her down.",
             "nextBlock": 24,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -7635174564602762579
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -5922351821579647830
+                }
+            ],
             "pathId": -8577186199677304553,
             "blockIdx": 23
         },
@@ -265,6 +528,17 @@
             "jpText": "はぁ、びっくりした……。\r\nもう、<username>さんったら。",
             "enText": "What a surprise… is. Oh my god, <username>.",
             "nextBlock": 25,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -8004146414407446777
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 2019897603991564705
+                }
+            ],
             "pathId": -7116716346081992691,
             "blockIdx": 24
         },
@@ -274,6 +548,21 @@
             "jpText": "……デビュー、かぁ。",
             "enText": "The debut of… huh?",
             "nextBlock": 26,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -5229889595629114142
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -5291878150576425923
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 738217846694424234
+                }
+            ],
             "pathId": 6200328384685810705,
             "blockIdx": 25
         },
@@ -283,8 +572,24 @@
             "jpText": "……ふふふっ♪",
             "enText": "… Hmmm…",
             "nextBlock": -1,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 2107319674525916880
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1289235241930097220
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3238721598768284002
+                }
+            ],
             "pathId": 1616224163210374520,
             "blockIdx": 26
         }
-    ]
+    ],
+    "modified": 1669945976
 }

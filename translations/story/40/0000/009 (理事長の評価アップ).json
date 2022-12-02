@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4L6AZG4JSE3TDNQU764CJ6BVEZ62CPWV",
     "type": "story",
     "storyId": "400000009",
@@ -11,6 +11,17 @@
             "jpText": "天晴ッ！\r\n飽くなき速さへの探求、感じ入ったッ！",
             "enText": "Bravo! I'm impressed with your\nrelentless pursuit of speed!",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 4839465908525910423
+                },
+                {
+                    "origLen": 198,
+                    "pathId": 6284807666915837910
+                }
+            ],
             "pathId": -2825141662599549682,
             "blockIdx": 1
         },
@@ -20,6 +31,21 @@
             "jpText": "引き続き、精進に励むようにッ！\r\n――では、失礼ッ！！",
             "enText": "Keep up the good work! —Now,\nif you'll excuse me!",
             "nextBlock": 3,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -4609865976971172087
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4830764972053926557
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -2876749906787900419
+                }
+            ],
             "pathId": -2431335152690754319,
             "blockIdx": 2
         },
@@ -29,8 +55,20 @@
             "jpText": "……練習ぶりを喜んでいただけたようだ。",
             "enText": "She was pleased with the way we practiced …",
             "nextBlock": -1,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -2338382784433243967
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -2585548952175766048
+                }
+            ],
             "pathId": 7947245730817081413,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944802
 }

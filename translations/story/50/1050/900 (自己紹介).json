@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "R44H2AQDEKVEARFTU3A3IHY4OJ53T4TB",
     "type": "story",
     "storyId": "501050900",
@@ -11,6 +11,7 @@
             "jpText": "これから、トゥインクル・シリーズを\n担当ウマ娘と駆け抜ける日々が始まる。\nともに歩む彼女の名前は――",
             "enText": "From now on, the days of running through the \nTwinkle Series with the horsegirl in charge \nwill begin. Her name is…",
             "nextBlock": 2,
+            "origClipLength": 110,
             "coloredText": [
                 {
                     "jpText": "トゥインクル・シリーズ",
@@ -26,10 +27,21 @@
             "jpText": "……ナリタタイシン。",
             "enText": "… Narita Taishin.",
             "nextBlock": 3,
+            "origClipLength": 58,
             "coloredText": [
                 {
                     "jpText": "ナリタタイシン",
                     "enText": "Narita Taishin"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 7775532774886456221
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 2286173954798718784
                 }
             ],
             "pathId": -627993704215795576,
@@ -41,6 +53,17 @@
             "jpText": "アタシはアタシをバカにしてたヤツら、\nみんなを見返したい。\nこの脚で、実力で、黙らせてやる。",
             "enText": "I want to make everyone who made fun of me \nlook back. With my legs, with my strength, I \nwill shut them up.",
             "nextBlock": 4,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 133,
+                    "pathId": -7271020215130096037
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -3677381833254965983
+                }
+            ],
             "pathId": 2561610945984572905,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "……トレーナーだからって、\nアタシの邪魔したら、蹴っ飛ばすから。",
             "enText": "If you interfere with me because you're a \n… trainer, I'll kick your ass.",
             "nextBlock": 5,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 44189638395961464
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 3517688871018531765
+                }
+            ],
             "pathId": 1280035226768288858,
             "blockIdx": 4
         },
@@ -59,8 +93,20 @@
             "jpText": "こうして、<chrname>との\nトゥインクル・シリーズへの挑戦が\n始まったのだった！",
             "enText": "And so began <chrname>'s attempt \nat the Twinkle Series!",
             "nextBlock": -1,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": 9040761063800200288
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 271625331472174730
+                }
+            ],
             "pathId": -8489739327433710065,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669946853
 }

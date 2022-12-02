@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "YWEH3BFVDSXHVAWOBIUQ3A5UV27Y3KUE",
     "type": "story",
     "storyId": "501040722",
@@ -11,6 +11,17 @@
             "jpText": "ゴールドシチーと移動中。先ほどから\r\nずっと、辛そうに頭を押さえている。",
             "enText": "Moving with Gold City. She has been holding \nher head painfully since a while ago.",
             "nextBlock": 2,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 2073477843981748040
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 5140325499416832204
+                }
+            ],
             "pathId": -1907374033875470993,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "い……たたたっ。",
             "enText": "I… tapped it.",
             "nextBlock": 3,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 7509025974526941423
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 5984168737365946392
+                }
+            ],
             "pathId": -1399393323946102908,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "あ～もう、最悪……。\r\n薬も全然効いてくれないし。",
             "enText": "Oh, my God, that sucks… And \nthe meds don't help at all.",
             "nextBlock": 4,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "大丈夫？",
                     "enText": "Great man?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 497386624663833953
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -9142472124113196620
                 }
             ],
             "pathId": 3242650850476597927,
@@ -45,6 +78,17 @@
             "jpText": "うん……ちょっと頭痛がしててさ。",
             "enText": "Yeah… I've been having \na bit of a headache.",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 1552709775067698112
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 120860636949472919
+                }
+            ],
             "pathId": -796953546656838022,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "モデル仕事してると、時々なるんだ。\r\n昨日の現場は特に、ライティングがキツくて。",
             "enText": "It happens sometimes when I do modeling. \nYesterday's site was especially hard \non the lighting.",
             "nextBlock": 6,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 7225038972878490206
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -8343382922668837727
+                }
+            ],
             "pathId": -8434317532834251985,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "ま、初めてのことじゃないし、\r\n心配しなくていーよ。",
             "enText": "Well, it's not the first time, \nso don't worry about it.",
             "nextBlock": 7,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 1895504408246274418
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3068975294575552417
+                }
+            ],
             "pathId": -3325944582738990619,
             "blockIdx": 6
         },
@@ -72,6 +138,17 @@
             "jpText": "あ～けど、今日も撮影あるんだよな……。\r\nそれまでに薬効いてくれるといいんだけど。",
             "enText": "Oh～ but we have another photo shoot today: \n… Hopefully the meds will work by then.",
             "nextBlock": 8,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": -2933245166853327640
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 3325770010000439196
+                }
+            ],
             "pathId": -5249277504822037174,
             "blockIdx": 7
         },
@@ -81,8 +158,20 @@
             "jpText": "しばらく頭痛に悩まされてしまう\r\nゴールドシチーだった。",
             "enText": "It was Gold City, who would suffer \nfrom headaches for a while.",
             "nextBlock": -1,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -2922306459172356454
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -1356965173982904114
+                }
+            ],
             "pathId": -2683387071702319795,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945693
 }

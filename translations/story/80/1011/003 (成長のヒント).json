@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "RRCOI4SGNJJNZ2BQVXIBR34P7MDANOLV",
     "type": "story",
     "storyId": "801011003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nグラスワンダーが話していた。",
             "enText": "After training, <chrname> and \nGlass Wonder were talking.",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4416953228543308367
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8485676043025164159
+                }
+            ],
             "pathId": 4008673558562550101,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946277
 }

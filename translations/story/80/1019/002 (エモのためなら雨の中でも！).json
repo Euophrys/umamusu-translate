@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7WCSTYYI2SRXIWVEXUPYJQEKU67CWZHQ",
     "type": "story",
     "storyId": "801019002",
@@ -11,6 +11,7 @@
             "jpText": "窓の外を眺めていると、雨の中を走る\r\nアグネスデジタルの姿が目に入った。",
             "enText": "I looked out of the window and saw Agnes \nDigital running in the rain.",
             "nextBlock": 2,
+            "origClipLength": 61,
             "pathId": -1783765821887023192,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "はっ……はっ……。\r\nデジたんファイトっ……！",
             "enText": "Haha… haha… Digi-tan fight…!",
             "nextBlock": 3,
+            "origClipLength": 75,
             "pathId": 8618268822575404275,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "いくぞ、もう1周ぅ～～～～～！",
             "enText": "Here we go, one more round: ～～～～～!",
             "nextBlock": 4,
+            "origClipLength": 54,
             "pathId": -5261265455980432936,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "30分後――廊下を歩いていると……。",
             "enText": "Half an hour later - I'm walking \ndown the corridor and I see…",
             "nextBlock": 5,
+            "origClipLength": 64,
             "pathId": -1529279394582033315,
             "blockIdx": 4
         },
@@ -47,11 +51,26 @@
             "jpText": "ふぃ～、走った走った。",
             "enText": "Fwiw, I ran and ran.",
             "nextBlock": 6,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "雨の中お疲れ様",
                     "enText": "Thank you for your hard work in the rain",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -7186324921648866742
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 3848994563104741363
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 4744896036367111073
                 }
             ],
             "pathId": 9164769230163453252,
@@ -63,6 +82,21 @@
             "jpText": "おっとあなたは……。\r\nフヒヒ、甘いですね！　だからこそですよ♪",
             "enText": "Oops you are… Hoo-hee, that's \nsweet! That's why… ♪",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 2590420782936581549
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 71569441416224190
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3540795527432615890
+                }
+            ],
             "pathId": -3850560293866842413,
             "blockIdx": 6
         },
@@ -72,6 +106,7 @@
             "jpText": "天気予報によると、あたしが出るレースも雨！\r\nだったら同じ環境で練習した方がいいかと！",
             "enText": "According to the weather forecast, it's \ngoing to rain in the race I'm running! So I \nthought it would be better to train in the \nsame environment!",
             "nextBlock": 8,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "無理すると風邪ひくぞ",
@@ -92,6 +127,21 @@
                     "jpText": "真剣なんだね！",
                     "enText": "You're serious!",
                     "nextBlock": 13
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -5602502049763018647
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2776410989667379480
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -2768128757164480582
                 }
             ],
             "pathId": 1735958069632519954,
@@ -103,6 +153,7 @@
             "jpText": "天気予報によると、あたしが出るレースも雨！\r\nだったら同じ環境で練習した方がいいかと！",
             "enText": "According to the weather forecast, it's \ngoing to rain in the race I'm running! So I \nthought it would be better to train in the \nsame environment!",
             "nextBlock": 9,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "無理すると風邪ひくぞ",
@@ -125,6 +176,21 @@
                     "nextBlock": 13
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 5027211280800590761
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5711716805590105094
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3085688447207062061
+                }
+            ],
             "pathId": 7469662008899535434,
             "blockIdx": 8
         },
@@ -134,6 +200,21 @@
             "jpText": "ノンノン♪　雨も悪路も風邪すらも、\r\nデジたんの情熱を止められはしないのですっ！",
             "enText": "No, no, no. Neither rain, nor bad roads, nor \nwindchill can stop Digi-Tan's passion!",
             "nextBlock": 10,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 3368501638950331801
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -4877863616393980152
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6404725892610997725
+                }
+            ],
             "pathId": 4691256419205809411,
             "blockIdx": 9
         },
@@ -143,6 +224,21 @@
             "jpText": "それに、晴れでも雨でも走るのはダート！\r\n練習しておいて損はないでしょう？",
             "enText": "Besides, sun or rain, it's dirt! What's not \nto like about a bit of practice?",
             "nextBlock": 11,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -5503595059415601305
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -5221380655153730546
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1212479111258115190
+                }
+            ],
             "pathId": -7092696475413052056,
             "blockIdx": 10
         },
@@ -152,6 +248,21 @@
             "jpText": "ふひひ、どんな状況のダートでも、\r\nベストな瞬間は見逃しませんよぉ～♪",
             "enText": "No matter what the conditions on the dirt, \nyou'll never miss the best moment…",
             "nextBlock": 12,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -2154252277144245861
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -4357050634977988928
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3659980292750676914
+                }
+            ],
             "pathId": -6633822343475118141,
             "blockIdx": 11
         },
@@ -161,6 +272,21 @@
             "jpText": "確かに悪環境でのトレーニングをすることで、\r\nあらゆる状況に適応しやすくなるだろう。",
             "enText": "It is true that training in adverse \nconditions makes it easier to adapt \nto any situation.",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 7666177784775858225
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -4877679061504986127
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -4284310210804817944
+                }
+            ],
             "pathId": 484065748024515214,
             "blockIdx": 12
         },
@@ -170,6 +296,21 @@
             "jpText": "もちろん！\r\n絶対に手を抜きたくないので……！",
             "enText": "Of course! We never want \nto cut corners, so…!",
             "nextBlock": 14,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -3030692182328984046
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 5227787021544078499
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 8325330491657126537
+                }
+            ],
             "pathId": 6425385562353112166,
             "blockIdx": 13
         },
@@ -179,11 +320,22 @@
             "jpText": "爛々と光る瞳からは激情が見て取れた。\r\nストイックに勝利を目指す彼女は、\nウマ娘の鑑と言えるだろう……。",
             "enText": "Her eyes are glowing with passion. She is \nthe epitome of a horse girl, stoic and \ndetermined to win…",
             "nextBlock": 15,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "応援するよ！！",
                     "enText": "We're behind you!",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4145344247340245249
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -771419940137168088
                 }
             ],
             "pathId": 4097364433719431955,
@@ -195,11 +347,22 @@
             "jpText": "ありがとうございますっ！\r\n悪環境でも尊みを見逃さないよう精進します♪",
             "enText": "Thank you very much! I'll do my \nbest not to miss the preciousness \neven in a bad environment.",
             "nextBlock": 16,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "ん？",
                     "enText": "Hmm?",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 5671841156023907289
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6030615879493325473
                 }
             ],
             "pathId": -5712817960905577327,
@@ -211,6 +374,21 @@
             "jpText": "雨の中を走るウマ娘ちゃんたち……。\r\n彼女たちは互いへの感情と泥にまみれ――",
             "enText": "The Uma Musume girls… run in the rain. \nThe girls are covered in mud and \nfeelings for each other.",
             "nextBlock": 17,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -6510922271287206147
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 580090096214426641
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -1849417086717980132
+                }
+            ],
             "pathId": -7800064780490240546,
             "blockIdx": 16
         },
@@ -220,8 +398,24 @@
             "jpText": "ウヒョオオオ！！　重バ場で繰り広げられる\r\n重々☆ロマンス！！　たまりませんなぁ～♪",
             "enText": "Whoo-hoo-hoo! A heavy romance \nin a heavy bar! I love it!",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 5454170847541327245
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -3596952758702230046
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -1784780359086488073
+                }
+            ],
             "pathId": 3732637518845237411,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669945952
 }

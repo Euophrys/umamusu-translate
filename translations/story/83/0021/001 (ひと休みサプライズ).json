@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PVFSR3ZEG65XDDGY7SX6UOTLXIM3ZAPB",
     "type": "story",
     "storyId": "830021001",
@@ -11,6 +11,7 @@
             "jpText": "たづなさんをお出かけに\n誘いたかったのだが――",
             "enText": "I wanted to ask Tazuna to \ngo out with us, but…",
             "nextBlock": 2,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "（お、たづなさんから返信だ）",
@@ -32,6 +33,7 @@
             "jpText": "『お誘いありがとうございます！』",
             "enText": "\"Thank you for the invitation!\"",
             "nextBlock": 3,
+            "origClipLength": 55,
             "pathId": 4502450419987096702,
             "blockIdx": 2
         },
@@ -41,6 +43,7 @@
             "jpText": "『しかし、申し訳ございません～！\n最近かなり業務が立て込んでおりまして、\n今日はお出かけできそうになく……』",
             "enText": "\"But I'm sorry! I've been very busy \nlately, and I don't think I'll be \nable to go out today…\"",
             "nextBlock": 4,
+            "origClipLength": 80,
             "pathId": -5061410146005900808,
             "blockIdx": 3
         },
@@ -50,6 +53,7 @@
             "jpText": "『またいつか、絶対誘ってください！\n私からもお声がけいたしますので！』",
             "enText": "\"Please invite me again sometime, for sure! \nI'll be sure to ask you!\"",
             "nextBlock": 5,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "残念……",
@@ -66,6 +70,7 @@
             "jpText": "とはいえヒマしているのもなんなので、\n学園の様子でも見に行くことにした。",
             "enText": "However, I was not going to stay idle, so I \ndecided to go check out the school.",
             "nextBlock": 6,
+            "origClipLength": 69,
             "pathId": 2862707552873223575,
             "blockIdx": 5
         },
@@ -75,11 +80,26 @@
             "jpText": "――むむ！！　発見ッ！！",
             "enText": "—Mmm! Found it!",
             "nextBlock": 7,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "え？",
                     "enText": "What?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 8682354780616253882
+                },
+                {
+                    "origLen": 169,
+                    "pathId": -1114569009817319793
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6755074522058845188
                 }
             ],
             "pathId": -2942361772276187101,
@@ -91,6 +111,25 @@
             "jpText": "僥倖ッ！　ちょうど君を探していたんだ！",
             "enText": "Not for nothing! I was just looking for you!",
             "nextBlock": 8,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -5163616349960057437
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -285232820961269859
+                },
+                {
+                    "origLen": 169,
+                    "pathId": -844683811457821858
+                },
+                {
+                    "origLen": 11,
+                    "pathId": -284035182529173689
+                }
+            ],
             "pathId": 2645179010347361723,
             "blockIdx": 7
         },
@@ -100,11 +139,26 @@
             "jpText": "聞けば君、最近たづなと\nとても仲良くしているそうだな！",
             "enText": "I heard that you and Tazuna have been \ngetting along very well lately.",
             "nextBlock": 9,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "そうさせてもらっています",
                     "enText": "That's what I've been doing.",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -1291799741416726894
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6998210254976924456
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 50065981345686978
                 }
             ],
             "pathId": -8397157041010667053,
@@ -116,6 +170,21 @@
             "jpText": "良哉ッ！　君の話をしているときのたづなは、\n実に楽しそうだ！",
             "enText": "Yoshiya! Tazuna seems to be really happy \nwhen she's talking about you!",
             "nextBlock": 10,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 5496952857481895708
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 9209986836288663722
+                },
+                {
+                    "origLen": 169,
+                    "pathId": -4869494342639716908
+                }
+            ],
             "pathId": 3992755262896458500,
             "blockIdx": 9
         },
@@ -125,6 +194,21 @@
             "jpText": "其故ッ！\n――わたしは、君を探していたのだよ。",
             "enText": "So! —I've been looking for you.",
             "nextBlock": 11,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8260667671502456867
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 1529571717746821751
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -2559222226837882895
+                }
+            ],
             "pathId": -6182342479634852598,
             "blockIdx": 10
         },
@@ -134,6 +218,21 @@
             "jpText": "最近の彼女は少々無茶をし過ぎている。\n情熱は結構だが、体を壊してはいかん！",
             "enText": "She has been a little too reckless \nlately. Passion is fine, but don't \nlet it ruin your body!",
             "nextBlock": 12,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1569707439195248977
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 6943747058890328790
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -3704896123433459992
+                }
+            ],
             "pathId": -6398506440993940860,
             "blockIdx": 11
         },
@@ -143,6 +242,21 @@
             "jpText": "要約ッ！　駿川たづなには、休息が必要だ！",
             "enText": "Summary! Tazuna Surukawa needs to rest!",
             "nextBlock": 13,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 4029322486091985831
+                },
+                {
+                    "origLen": 169,
+                    "pathId": -2412950538583282121
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 8835390705738665810
+                }
+            ],
             "pathId": 7410694721142949768,
             "blockIdx": 12
         },
@@ -152,11 +266,22 @@
             "jpText": "――ということで、案内ッ！\nさあ、こっちだ！！",
             "enText": "—so, guide! Come on, this way!",
             "nextBlock": 14,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "え？え！？",
                     "enText": "What? What?",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 362520116601665376
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 9168458088423764550
                 }
             ],
             "pathId": -2422550886022133592,
@@ -168,6 +293,17 @@
             "jpText": "わけもわからず連れて行かれた先は――",
             "enText": "I had no idea where I was being taken.",
             "nextBlock": 15,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -4070450521124600528
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 500431375631461255
+                }
+            ],
             "pathId": -2802070373602967505,
             "blockIdx": 14
         },
@@ -177,11 +313,22 @@
             "jpText": "――理事長室前の廊下だった。",
             "enText": "—It was the hallway in front \nof the Chancellor's office.",
             "nextBlock": 16,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "ここに何が……？",
                     "enText": "What's here…?",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": -5783128265657059525
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 995746184087606784
                 }
             ],
             "pathId": -8888556962050064594,
@@ -193,6 +340,21 @@
             "jpText": "それは入ってみればわかる。",
             "enText": "You'll see that when you enter.",
             "nextBlock": 17,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -3267384125355149875
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 8612231986655878313
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -9003908387764715162
+                }
+            ],
             "pathId": 2153754362040455473,
             "blockIdx": 16
         },
@@ -202,6 +364,25 @@
             "jpText": "ただし……静粛ッ。\n静か～～～に、入るのだぞ……！",
             "enText": "However… is quiet. Quietly, \nyou're going in…!",
             "nextBlock": 18,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -6715905795636519281
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -4627047985951268230
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 7042881415258644960
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 2223310293602050120
+                }
+            ],
             "pathId": -8045750038271811989,
             "blockIdx": 17
         },
@@ -211,6 +392,22 @@
             "jpText": "秋川理事長に言われた通り、\n足音を潜めて中に入った……。",
             "enText": "As Chancellor Akikawa had told me, I went \ninside… keeping my footsteps low.",
             "nextBlock": 19,
+            "origClipLength": 63,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 5981090177439550241
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -5407411214199144097
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 833769361076624101
+                }
+            ],
             "pathId": 3057868989181966378,
             "blockIdx": 18
         },
@@ -220,6 +417,8 @@
             "jpText": "すると、来客用のソファの上には――",
             "enText": "Then, on the visitor's couch…",
             "nextBlock": 20,
+            "origClipLength": 56,
+            "trainerGender": "f",
             "pathId": 5356396285429723569,
             "blockIdx": 19
         },
@@ -229,6 +428,7 @@
             "jpText": "すぅ……すぅ……。",
             "enText": "Suh… Suh…",
             "nextBlock": 21,
+            "origClipLength": 217,
             "choices": [
                 {
                     "jpText": "（たづなさん……！）",
@@ -245,6 +445,7 @@
             "jpText": "……疲れた顔をしている。\n学園のためとはいえ、働き過ぎだ。",
             "enText": "She looks… tired. I've been working too \nhard, even for the school.",
             "nextBlock": 22,
+            "origClipLength": 64,
             "pathId": 5866417015646854187,
             "blockIdx": 21
         },
@@ -254,6 +455,7 @@
             "jpText": "ドアが開いたので見てみると、\n秋川理事長が外から顔を覗かせていた。",
             "enText": "The door opened and I saw Chancellor Akikawa \npeeking out from outside.",
             "nextBlock": 23,
+            "origClipLength": 67,
             "pathId": 275511468331846921,
             "blockIdx": 22
         },
@@ -263,6 +465,7 @@
             "jpText": "秋川理事長は声を出さずに、口の動きだけで\n『後の仕事は任せろ』と言ってくれていた。",
             "enText": "Without saying a word, Chancellor Akikawa \nsaid, \"Leave the rest of the work to me.",
             "nextBlock": 24,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "（承知しました）",
@@ -279,6 +482,7 @@
             "jpText": "こちらも声を出さずに頷き、\nまずは眠るたづなさんに上着をかけた――",
             "enText": "I nodded without saying a word, and put a \njacket on the sleeping Tazuna.",
             "nextBlock": 25,
+            "origClipLength": 67,
             "pathId": 416453534889241810,
             "blockIdx": 24
         },
@@ -288,6 +492,17 @@
             "jpText": "うぅん……？",
             "enText": "Ummm…?",
             "nextBlock": 26,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -544826570306885825
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -9222019406706297041
+                }
+            ],
             "pathId": -4943503201509130030,
             "blockIdx": 25
         },
@@ -297,6 +512,21 @@
             "jpText": "……………………。",
             "enText": "…",
             "nextBlock": 27,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 5927219390285320756
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 2185747846155649130
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 7592302212092609750
+                }
+            ],
             "pathId": 7907860749602820664,
             "blockIdx": 26
         },
@@ -306,6 +536,17 @@
             "jpText": "――っ！？　え、あら！？\n私、いつの間に寝て……。",
             "enText": "—What? Oh, my goodness! When did \nI fall asleep and go to…",
             "nextBlock": 28,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -2231033059159514429
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5612033213564501170
+                }
+            ],
             "pathId": 3378127966565857840,
             "blockIdx": 27
         },
@@ -315,11 +556,22 @@
             "jpText": "って、トレーナーさん！？　えええ！？",
             "enText": "I mean, trainer! Eeee!",
             "nextBlock": 29,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "おはようございます",
                     "enText": "Good morning, sir.",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -3052289844335116201
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 3690751816585697590
                 }
             ],
             "pathId": -856236690031747964,
@@ -331,6 +583,17 @@
             "jpText": "あ、おはようございます……。",
             "enText": "Oh, good morning…",
             "nextBlock": 30,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -1676887024312943974
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 1689329688182404370
+                }
+            ],
             "pathId": -3163312450973950138,
             "blockIdx": 29
         },
@@ -340,6 +603,17 @@
             "jpText": "ってそうではなくて！",
             "enText": "That's not what I meant!",
             "nextBlock": 31,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -4222632940901163651
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -2945032025418739807
+                }
+            ],
             "pathId": 4916167835731175107,
             "blockIdx": 30
         },
@@ -349,11 +623,22 @@
             "jpText": "私、どのくらい寝てました！？",
             "enText": "How long have I been asleep!",
             "nextBlock": 32,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "2時間くらいです",
                     "enText": "About two hours.",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -990366688248522770
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -4106590328359836402
                 }
             ],
             "pathId": -7503554135990709199,
@@ -365,11 +650,26 @@
             "jpText": "そんなにっ！？　ああああいけない、\nあれもこれもまだ終わってないのに……！",
             "enText": "That much? Oh no, I haven't finished \nthis and that yet…!",
             "nextBlock": 33,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "『後の仕事は任せろ』と仰っていましたよ",
                     "enText": "She said, \"I'll take care of the rest.\"",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 2795814464330800825
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -9079795668146866540
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 110114669279112540
                 }
             ],
             "pathId": 7388485206417085473,
@@ -381,11 +681,26 @@
             "jpText": "えっ、秋川理事長がですか？\nそんな――",
             "enText": "What, Chancellor Akikawa? Oh, no.",
             "nextBlock": 34,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "『たづなには休息が必要だ』とも……",
                     "enText": "She also said, \"Tazuna needs to rest.\"…",
                     "nextBlock": 34
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5733694310696721999
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2308207841521378782
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 3206031114384787125
                 }
             ],
             "pathId": -5940344480041253268,
@@ -397,6 +712,17 @@
             "jpText": "休息…………。",
             "enText": "Rest…",
             "nextBlock": 35,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -4876278097293451471
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6890253572936100604
+                }
+            ],
             "pathId": -1468091913316255025,
             "blockIdx": 34
         },
@@ -406,6 +732,17 @@
             "jpText": "……確かに、最近ちょっと\n張り切り過ぎていたのかもですね。",
             "enText": "… I guess I've been a little \noverzealous lately.",
             "nextBlock": 36,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 1859673278055061445
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -8806215243488932356
+                }
+            ],
             "pathId": -5718728248259048198,
             "blockIdx": 35
         },
@@ -415,6 +752,17 @@
             "jpText": "でも……うん。\n力、抜けました。おかげさまで。",
             "enText": "But… yes. I was able to \nrelax. Thanks to you.",
             "nextBlock": 37,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -2703737112991891192
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -6350682137913014934
+                }
+            ],
             "pathId": -4879812338532500881,
             "blockIdx": 36
         },
@@ -424,11 +772,22 @@
             "jpText": "ちょっぴり、いい夢も見られましたし……。",
             "enText": "I even had a little bit of a good dream…",
             "nextBlock": 38,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "いい夢？",
                     "enText": "Good dream?",
                     "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 2825469929528354608
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -7026401078145945133
                 }
             ],
             "pathId": -4664782672060565556,
@@ -440,6 +799,17 @@
             "jpText": "あ、いえ。",
             "enText": "Oh, no.",
             "nextBlock": 39,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 4899595293584006985
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 313752731498198633
+                }
+            ],
             "pathId": 7219624587640398155,
             "blockIdx": 38
         },
@@ -449,6 +819,17 @@
             "jpText": "――内緒です♪",
             "enText": "—Don't tell anyone.",
             "nextBlock": 40,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1147882640915290306
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5365688223118952248
+                }
+            ],
             "pathId": -9014769277790545826,
             "blockIdx": 39
         },
@@ -458,6 +839,17 @@
             "jpText": "こうして、体の空いたたづなさんと\nお出かけを楽しんだのだった。",
             "enText": "In this way, she enjoyed her outing with the \nfree time she had left.",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 289998737006218828
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -9169111336185730082
+                }
+            ],
             "pathId": 8878581151582942874,
             "blockIdx": 40
         },
@@ -467,6 +859,18 @@
             "jpText": "……のだが、残念ながら\nドアを閉めるときに音を立ててしまった。",
             "enText": "… but unfortunately, I made a noise \nwhen I closed the door.",
             "nextBlock": 42,
+            "origClipLength": 65,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 2146594743075738929
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7087780590640515883
+                }
+            ],
             "pathId": 6419549254215098075,
             "blockIdx": 41
         },
@@ -476,6 +880,17 @@
             "jpText": "あらっ……トレーナーさん？",
             "enText": "Oh, you're a… trainer?",
             "nextBlock": 43,
+            "origClipLength": 92,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 2870315229657557075
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3829373344133285062
+                }
+            ],
             "pathId": 5122494340698797115,
             "blockIdx": 42
         },
@@ -485,6 +900,17 @@
             "jpText": "いけない、私ったらいつの間に寝て……！",
             "enText": "Oh no, I fell asleep before I knew it…!",
             "nextBlock": 44,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 2518153123718752991
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4696321281707662758
+                }
+            ],
             "pathId": -4494227695382061533,
             "blockIdx": 43
         },
@@ -494,6 +920,33 @@
             "jpText": "失敗ッ……！！　まずはゆっくりと休ませ、\nその上でサプライズを仕掛けたかったが……。",
             "enText": "Fail…!!! I wanted to give her a good rest \nfirst, and then surprise her…",
             "nextBlock": 45,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": 3369985791542595178
+                },
+                {
+                    "origLen": 177,
+                    "pathId": 4232890101037905044
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 6711585584478000317
+                },
+                {
+                    "origLen": 194,
+                    "pathId": 669176824091734951
+                },
+                {
+                    "origLen": 268,
+                    "pathId": -6701336437034396108
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -729035124522842837
+                }
+            ],
             "pathId": -8596977565950624241,
             "blockIdx": 44
         },
@@ -503,6 +956,33 @@
             "jpText": "秋川理事長！？\nサプライズって……え？　ええ？",
             "enText": "Chancellor Akikawa! What's the \nsurprise?… What? What?",
             "nextBlock": 46,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6655570060041809019
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -3827112794558926190
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5155091722544891913
+                },
+                {
+                    "origLen": 194,
+                    "pathId": 7615485141550189831
+                },
+                {
+                    "origLen": 268,
+                    "pathId": -5756931261432268483
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 2602217666944185342
+                }
+            ],
             "pathId": 3382880501578459785,
             "blockIdx": 45
         },
@@ -512,6 +992,29 @@
             "jpText": "かくなる上は――トレーナー！\n理事長命令だ！",
             "enText": "And now, trainer! By order \nof the Chancellor!",
             "nextBlock": 47,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -735849860156027444
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 7001304702119663486
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3834253281615556198
+                },
+                {
+                    "origLen": 268,
+                    "pathId": -8533225096657200707
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -4341826610309910594
+                }
+            ],
             "pathId": 8853266950408508327,
             "blockIdx": 46
         },
@@ -521,11 +1024,30 @@
             "jpText": "指令ッ！　たづなを連行し、休ませよっ！！",
             "enText": "Orders! Take Tazuna away and let her rest!",
             "nextBlock": 48,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "了解です！",
                     "enText": "Yes, sir!",
                     "nextBlock": 48
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -155987948891870238
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -7029327897442370912
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -640693673356153913
+                },
+                {
+                    "origLen": 268,
+                    "pathId": 3895760638462559335
                 }
             ],
             "pathId": 1702409503584768582,
@@ -537,6 +1059,29 @@
             "jpText": "え、えぇ～！？",
             "enText": "Eh, yeah!",
             "nextBlock": 49,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -7312259944139263127
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -1933552306375463379
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5169135929125682064
+                },
+                {
+                    "origLen": 268,
+                    "pathId": -1447013686174889631
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -5778935038574431585
+                }
+            ],
             "pathId": -2027872129574692395,
             "blockIdx": 48
         },
@@ -546,8 +1091,32 @@
             "jpText": "……半ば無理やりにではあったが、\nたづなさんを休ませたのだった。",
             "enText": "… half-heartedly forced \nTazuna to take a break.",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -3135869608275304922
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -8788543076734295775
+                },
+                {
+                    "origLen": 167,
+                    "pathId": -3291304827345680541
+                },
+                {
+                    "origLen": 268,
+                    "pathId": 8922953260022720925
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1234597228856393988
+                }
+            ],
             "pathId": 3626638083526780112,
             "blockIdx": 49
         }
-    ]
+    ],
+    "modified": 1669946024
 }

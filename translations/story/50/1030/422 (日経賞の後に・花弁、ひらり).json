@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OXJ4533F27SMUNZTNCFFGKLMF222E7GT",
     "type": "story",
     "storyId": "501030422",
@@ -11,10 +11,21 @@
             "jpText": "ライスシャワーは『日経賞』を走り切った。\r\nそんな彼女の元に、応援にやってきていた\nゼンノロブロイが駆け寄ってくる。",
             "enText": "Rice Shower had finished the Nikkei Sho. Zenno \nRob Roy, who had come to cheer her on, came \nrunning up to her.",
             "nextBlock": 2,
+            "origClipLength": 120,
             "coloredText": [
                 {
                     "jpText": "ゼンノロブロイ",
                     "enText": "Zenno Rob Roy"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 189,
+                    "pathId": 6516465236594239009
+                },
+                {
+                    "origLen": 186,
+                    "pathId": 5432363197818638384
                 }
             ],
             "pathId": 5933588828170402354,
@@ -26,6 +37,25 @@
             "jpText": "目標に向かって邁進するライスシャワーを\r\n彼女は、物語のヒロインのようだと称賛する。",
             "enText": "She praised Rice Shower for being \nlike a heroine in her own story, striving \nto achieve her goals.",
             "nextBlock": 3,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": -41599361075006979
+                },
+                {
+                    "origLen": 186,
+                    "pathId": 890027916919635364
+                },
+                {
+                    "origLen": 189,
+                    "pathId": -1530691230688995287
+                },
+                {
+                    "origLen": 188,
+                    "pathId": 3574773433867512968
+                }
+            ],
             "pathId": 7325504968596421034,
             "blockIdx": 2
         },
@@ -35,8 +65,28 @@
             "jpText": "ライスシャワーはその評価に、照れながらも\r\n“青いバラ”に近づけたと喜ぶのだった。",
             "enText": "Rice Shower was embarrassed by this \nassessment, but pleased that she had come so \nclose to the \"blue rose\".",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": -153099126082658818
+                },
+                {
+                    "origLen": 186,
+                    "pathId": -7236823800306135795
+                },
+                {
+                    "origLen": 189,
+                    "pathId": 1505078685473345558
+                },
+                {
+                    "origLen": 188,
+                    "pathId": 1557528524416216329
+                }
+            ],
             "pathId": -415346348464788008,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945553
 }

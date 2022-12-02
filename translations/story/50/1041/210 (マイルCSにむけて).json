@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "FU5IOPYXSJRBM5H4HUR6ZONURWE76IKR",
     "type": "story",
     "storyId": "501041210",
@@ -11,6 +11,17 @@
             "jpText": "フッフッフッ……！",
             "enText": "Pfft…!",
             "nextBlock": 2,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 2232750213537905827
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -7342729669726966508
+                }
+            ],
             "pathId": 6372325601508094017,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "ついにこの時がやってきました！\r\n『マイルCS』、1600m！",
             "enText": "The time has finally come! \"Mile CS\", 1600m!",
             "nextBlock": 3,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 2134950189168651058
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5539206753276396149
+                }
+            ],
             "pathId": -5975788673232522337,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "これまでの血のにじむような努力が、\r\n私をここまで引っ張ってきてくれました。",
             "enText": "All the bloody efforts I have made so far\nhave pulled me this far.",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -1014627669840899674
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6899592944676887893
+                }
+            ],
             "pathId": 522229101280825344,
             "blockIdx": 3
         },
@@ -38,6 +71,17 @@
             "jpText": "ここから更に2000m、2500mと\r\n距離を伸ばし……バクシンロードの極致へ！",
             "enText": "From here, we'll increase the distance to\n2,000m and 2,500m, and… will be the\nultimate Bakushin Road!",
             "nextBlock": 5,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8892706420169147568
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -5182607123258048491
+                }
+            ],
             "pathId": -4789468012180566850,
             "blockIdx": 4
         },
@@ -47,6 +91,17 @@
             "jpText": "いよいよその第一歩が――",
             "enText": "And now, the first step.",
             "nextBlock": 6,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -8626741684556594163
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2154419808028295595
+                }
+            ],
             "pathId": -4076692660326657923,
             "blockIdx": 5
         },
@@ -56,6 +111,17 @@
             "jpText": "ん？　第一歩？",
             "enText": "Hmm? First step?",
             "nextBlock": 7,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 2591566283109847017
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2748077099825339857
+                }
+            ],
             "pathId": -3186205704248876292,
             "blockIdx": 6
         },
@@ -65,6 +131,17 @@
             "jpText": "あらら？　今ってシニア級ですよね？\r\nそれでまだ、第一歩……？",
             "enText": "What? You're in the senior class now, right?\nSo it's still the first step…?",
             "nextBlock": 8,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -4349520902781661673
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -391214287970002145
+                }
+            ],
             "pathId": -269860117839483780,
             "blockIdx": 7
         },
@@ -74,11 +151,26 @@
             "jpText": "アレ？\r\nそもそもバクシンロードって――",
             "enText": "What? What is Bakushin Road?",
             "nextBlock": 9,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "ま、まずはレースに集中！",
                     "enText": "Well, let's just focus on the race!",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -7074393813885863470
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5599177053098633931
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -2631984765268459847
                 }
             ],
             "pathId": 254041517379286878,
@@ -90,6 +182,7 @@
             "jpText": "ですが……。",
             "enText": "But you can find it at…",
             "nextBlock": 10,
+            "origClipLength": 48,
             "choices": [
                 {
                     "jpText": "勝って『最強マイラー』となろう！",
@@ -102,6 +195,20 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6573706624485877893
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -6664941556641138549
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -4895948879779998737
+                }
+            ],
             "pathId": 2501156709189228889,
             "blockIdx": 9
         },
@@ -111,6 +218,17 @@
             "jpText": "最強ッ……\r\nマイラー……！？",
             "enText": "The strongest… Mylar…!",
             "nextBlock": 11,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 1797938186381481789
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 7396727352612499184
+                }
+            ],
             "pathId": -8446066260495189824,
             "blockIdx": 10
         },
@@ -120,6 +238,21 @@
             "jpText": "……フ。",
             "enText": "…f.",
             "nextBlock": 12,
+            "origClipLength": 47,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 4345265545133057749
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 7627246849133559032
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -6575444455189980031
+                }
+            ],
             "pathId": -5904841055688822093,
             "blockIdx": 11
         },
@@ -129,6 +262,21 @@
             "jpText": "フフフフフフ……！",
             "enText": "Fffffffffff…!",
             "nextBlock": 13,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6551224661285869252
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 1214343275979304406
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -2335085987881115368
+                }
+            ],
             "pathId": 620756235684982580,
             "blockIdx": 12
         },
@@ -138,6 +286,17 @@
             "jpText": "わかりましたッ！\r\nバクシン船に乗ったつもりでいてください！",
             "enText": "Yes, sir! Pretend you're on the Vaxin ship!",
             "nextBlock": 14,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -1706312179464084995
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -1902817672315848710
+                }
+            ],
             "pathId": -6637989349064584254,
             "blockIdx": 13
         },
@@ -147,8 +306,20 @@
             "jpText": "3年間で成長した私の実力、\r\nお見せしますよーー！！",
             "enText": "I'll show you how much I've\ngrown in three years!",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -2500381102356763188
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -6329157582702732868
+                }
+            ],
             "pathId": -1539378944443004720,
             "blockIdx": 14
         }
-    ]
+    ],
+    "modified": 1669945705
 }

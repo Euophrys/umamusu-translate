@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "AT3R76PK3XP6QXWVCRRSO2RHZZBVZ2W3",
     "type": "story",
     "storyId": "501050712",
@@ -11,6 +11,7 @@
             "jpText": "トレーニングの時間になっても\r\nナリタタイシンが顔を出さないので\n探しに行くと――",
             "enText": "When Narita Taishin didn't show up for her \ntraining session, I went looking for her.",
             "nextBlock": 2,
+            "origClipLength": 98,
             "pathId": -5986892798480275962,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "……今回も楽勝っ！　アーケード版も\r\nアプリとそんなに変わんないじゃん。",
             "enText": "… Another easy win! The arcade version \nis not that different from the app.",
             "nextBlock": 3,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -2805962830236122809
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 3523283690691011479
+                }
+            ],
             "pathId": 8413646640178589545,
             "blockIdx": 2
         },
@@ -29,6 +41,17 @@
             "jpText": "っし！\r\nこのまま連勝記録、伸ばしてやる！",
             "enText": "Hush! I'm going to extend my winning streak!",
             "nextBlock": 4,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -3306649355165132426
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 6970292133354889291
+                }
+            ],
             "pathId": -7903229423590201287,
             "blockIdx": 3
         },
@@ -38,6 +61,17 @@
             "jpText": "ああっ！　また負けた！",
             "enText": "Aah! I lost again!",
             "nextBlock": 5,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -8917437888007291476
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -6611372493257017387
+                }
+            ],
             "pathId": 6505437998141038457,
             "blockIdx": 4
         },
@@ -47,6 +81,17 @@
             "jpText": "何この『ワガハイちゃん』ってヤツ！\r\nさっきからちょこまかと……！",
             "enText": "What's with this \"Wagahai-chan\" guy! I've \nbeen on… for a while now!",
             "nextBlock": 6,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 63105638126451617
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2439178248295740825
+                }
+            ],
             "pathId": -5548115813141845447,
             "blockIdx": 5
         },
@@ -56,11 +101,22 @@
             "jpText": "プレイスキルは互角っぽいのに……\r\nくそっ、次は絶対負かしてやる！",
             "enText": "It seems like our playing skills are \nevenly matched… Damn, I'm gonna \nbeat you next time for sure!",
             "nextBlock": 7,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "えっと、タイシン……トレーニングは？",
                     "enText": "Um, what about Taishin… training?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -2930794105862073790
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5873272046320648651
                 }
             ],
             "pathId": -2193804190661380574,
@@ -72,6 +128,17 @@
             "jpText": "は？　……って、もうそんな時間！？",
             "enText": "Huh? … is such a time already!",
             "nextBlock": 8,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 2424585915285970146
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8508335448698768454
+                }
+            ],
             "pathId": -5548941226928960167,
             "blockIdx": 7
         },
@@ -81,6 +148,17 @@
             "jpText": "…………ごめん。",
             "enText": "Sorry…",
             "nextBlock": 9,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 8627077182819675433
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -722047126165794386
+                }
+            ],
             "pathId": 8728784686474859676,
             "blockIdx": 8
         },
@@ -90,8 +168,20 @@
             "jpText": "謝罪する彼女に対し、\r\n今後は気をつけるよう注意したのだった。",
             "enText": "She apologized to her and warned her \nto be careful in the future.",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -2765495349020437739
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 252348972013528458
+                }
+            ],
             "pathId": -1154941122350813055,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945820
 }

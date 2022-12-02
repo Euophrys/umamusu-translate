@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DKB5Q4AG2BTG6FP3BBERQLLFS3ASBQ7K",
     "type": "story",
     "storyId": "501040737",
@@ -11,6 +11,17 @@
             "jpText": "また、負けた。\r\nあーあ……。",
             "enText": "Also, we lost. Aww…",
             "nextBlock": 2,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -4570822912164642564
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 3875666671013399024
+                }
+            ],
             "pathId": 6919647977040617862,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "こんなもんだよね。\r\n走る気なくしてちゃ、こんなもん……。",
             "enText": "This is how it is. If you don't want to run, \nthis is what it's like…",
             "nextBlock": 3,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -8556540605950502853
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 2030076897608707406
+                }
+            ],
             "pathId": -3839838741331183391,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "やっぱもう、いいんじゃない？\r\nこれ以上、ダサいのは――",
             "enText": "I think it's time to move on, \ndon't you? No more lame―",
             "nextBlock": 4,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "それでも、走ろう",
@@ -41,6 +64,16 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -6286253946711698996
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -8178886885432845636
+                }
+            ],
             "pathId": -8810186586644182585,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 5,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 2352660057233743947
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5678443035791618627
+                }
+            ],
             "pathId": 1198599728431056388,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "真っすぐ見すぎ。\r\n……ちょっとくらい逸らしてよ。",
             "enText": "Looking too straight ahead. Go to \n… and look away for a bit.",
             "nextBlock": 6,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 2321975525856408284
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -7397631440227131942
+                }
+            ],
             "pathId": -6663739067530500585,
             "blockIdx": 5
         },
@@ -68,6 +123,17 @@
             "jpText": "じゃないと、\r\n『イヤだ』……って、言えないじゃん。",
             "enText": "Otherwise, you can't say, \"No,\"…",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -34973425084505278
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6428377668759236803
+                }
+            ],
             "pathId": 2992888975499215556,
             "blockIdx": 6
         },
@@ -77,6 +143,17 @@
             "jpText": "……っ！",
             "enText": "…!",
             "nextBlock": 8,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -3970714409416723454
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 4981670114006891723
+                }
+            ],
             "pathId": -7798769889174808632,
             "blockIdx": 7
         },
@@ -86,6 +163,21 @@
             "jpText": "……トレーナーはアンタだから。\r\n好きにすればいい。",
             "enText": "…The trainer is Anta. You \ncan do whatever you want.",
             "nextBlock": 9,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 5234334785583092991
+                },
+                {
+                    "origLen": 149,
+                    "pathId": 7645887035081715158
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6337644586084505208
+                }
+            ],
             "pathId": 5016994645604693730,
             "blockIdx": 8
         },
@@ -95,8 +187,24 @@
             "jpText": "ホント、なに考えてんの？\r\n全然、わかんねーよ……アタシ。",
             "enText": "Really, what are you thinking? I don't \nget it at all… Atashi.",
             "nextBlock": -1,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1216649985932149863
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -7987930021947391168
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 8982873224871586741
+                }
+            ],
             "pathId": -6991625451713695515,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945695
 }

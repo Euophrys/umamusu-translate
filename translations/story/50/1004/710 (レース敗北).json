@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "3EBFANR6B4C6RNKN52RPLBMO2GYZF6CI",
     "type": "story",
     "storyId": "501004710",
@@ -11,6 +11,17 @@
             "jpText": "ガビーン……。",
             "enText": "Gabeen…",
             "nextBlock": 2,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -5183553533436479276
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -5683792633739263270
+                }
+            ],
             "pathId": -7252766367472939708,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "ごめんね、トレーナー君。かっこいい姿、\n見せてあげられなかったわ……。",
             "enText": "I'm sorry, trainer. I didn't get a chance\nto show you how cool I am at …",
             "nextBlock": 3,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "次に期待してる！",
@@ -30,6 +42,17 @@
                     "jpText": "ヘコんでてもしょうがない！",
                     "enText": "I don't care if you're upset!",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3130885353905177019
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -3556233754839442282
                 }
             ],
             "pathId": 6799486719501349872,
@@ -41,6 +64,7 @@
             "jpText": "ごめんね、トレーナーちゃん。かっこいい姿、\n見せてあげられなかったわ……。",
             "enText": "I'm sorry, Trainer. I didn't get a chance\nto show you how cool I am at …",
             "nextBlock": 4,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "次に期待してる！",
@@ -53,6 +77,17 @@
                     "nextBlock": 8
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 276442205228505967
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 4274016256079227432
+                }
+            ],
             "pathId": -8450120095453407777,
             "blockIdx": 3
         },
@@ -62,6 +97,18 @@
             "jpText": "……優しいのね、トレーナー君。",
             "enText": "… You're very kind, Trainer.",
             "nextBlock": 5,
+            "origClipLength": 64,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -5884820204031720031
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 8592121438345505974
+                }
+            ],
             "pathId": -5057060573072510359,
             "blockIdx": 4
         },
@@ -71,6 +118,18 @@
             "jpText": "……優しいのね、トレーナーちゃん。",
             "enText": "… You're very kind, Trainer. ",
             "nextBlock": 6,
+            "origClipLength": 67,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -8904436245689745832
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6449869441211509250
+                }
+            ],
             "pathId": -367618406813426110,
             "blockIdx": 5
         },
@@ -80,6 +139,17 @@
             "jpText": "……よしっ、それじゃマッハで帰って\nトレーニングしなくっちゃ！",
             "enText": "… All right, then, I've got to\nget home and train at Mach!",
             "nextBlock": 7,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -137200850095435483
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7172859718853277645
+                }
+            ],
             "pathId": -3924166450660437381,
             "blockIdx": 6
         },
@@ -89,6 +159,17 @@
             "jpText": "次こそ、イイトコみせたいものね！　ふふ♪",
             "enText": "Next time, I want to show\nhim how good I am! Hmm.",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 7706473380803926463
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -1228793974487919151
+                }
+            ],
             "pathId": -7359080564862742272,
             "blockIdx": 7
         },
@@ -98,6 +179,17 @@
             "jpText": "……そうよね、\nヘコんでたって速くはならないわ。",
             "enText": "… You're right, getting down\ndoesn't make you faster.",
             "nextBlock": 9,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 8031061417442721067
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -3101728294078543539
+                }
+            ],
             "pathId": -2688954319539944505,
             "blockIdx": 8
         },
@@ -107,6 +199,21 @@
             "jpText": "だからいつまでもヘコまない！　ヘコんでも\n修理ですぐ直るタッちゃんを見習わなくちゃ！",
             "enText": "That's why I'll never get bent! I'll\nhave to learn from you, Tacchan.",
             "nextBlock": 10,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 4129426621900016761
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -8473037933429133357
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -1075873786648990096
+                }
+            ],
             "pathId": 3319942972213189815,
             "blockIdx": 9
         },
@@ -116,8 +223,24 @@
             "jpText": "よしっ、あたしの修理はこれで終わり！\n早くガソリン入れて、かっ飛ばさなきゃね！",
             "enText": "Okay, I'm done with my repairs! Now I\njust have to get gas and get going!",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -815410306076301667
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6940654894534082088
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 1226432632059408340
+                }
+            ],
             "pathId": 6842089060524851432,
             "blockIdx": 10
         }
-    ]
+    ],
+    "modified": 1669944921
 }

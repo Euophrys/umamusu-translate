@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6PLNZH4YAUDGPCPV3LUR7LHR5V454ZOP",
     "type": "story",
     "storyId": "501025700",
@@ -11,6 +11,7 @@
             "jpText": "ふわ……。",
             "enText": "Fluff…",
             "nextBlock": 2,
+            "origClipLength": 51,
             "choices": [
                 {
                     "jpText": "眠そうだな",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -8740932784948556392
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -6873979340871680143
+                }
+            ],
             "pathId": -4867451407761548608,
             "blockIdx": 1
         },
@@ -32,6 +43,17 @@
             "jpText": "昨夜……夢の中に白ウサギが出てきて、\r\nなぞなぞを出してきたんです……。",
             "enText": "Last night… I had a dream\nin which a white rabbit appeared\nand gave me a riddle…",
             "nextBlock": 3,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7835771479881180837
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7419625714154429555
+                }
+            ],
             "pathId": -5465052134325674883,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "『アゴヒゲアザラシと\r\n三角定規が仲良しなのはなぜ？』と――",
             "enText": "\"Why do bearded seals and triangular rulers\nget along so well?\" and…",
             "nextBlock": 4,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -6017425813460771879
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -6738821935106498687
+                }
+            ],
             "pathId": 7220233225558798052,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "でも、答えがわからなくて……\r\n気になって、眠れなくて……。",
             "enText": "But I didn't know the answer… I was\ncurious, and I couldn't sleep…",
             "nextBlock": 5,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -4041575236690519933
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 4744250348747547238
+                }
+            ],
             "pathId": -553662798598822440,
             "blockIdx": 4
         },
@@ -59,8 +103,20 @@
             "jpText": "なぞなぞの答えが気になるあまり、\r\nマンハッタンカフェは寝不足に\nなってしまったようだ……。",
             "enText": "It seems that Manhattan Cafe has\nbeen losing sleep over the answers\nto the riddles…",
             "nextBlock": -1,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -7487150862173263165
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -3100044368669059294
+                }
+            ],
             "pathId": 7353133711439966138,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669946368
 }

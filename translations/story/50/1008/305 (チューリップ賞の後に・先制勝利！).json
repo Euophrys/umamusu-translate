@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "55UYR2W3ZJMQGC5R7HWQAL42WGMS4UZG",
     "type": "story",
     "storyId": "501008305",
@@ -11,6 +11,7 @@
             "jpText": "よぉぉぉしっ、アイツに快勝だぁ！！",
             "enText": "All right, we've got a good win against her!",
             "nextBlock": 2,
+            "origClipLength": 67,
             "pathId": -2981403766220267388,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ダイワスカーレットとのＧⅠ前哨戦に\r\nウオッカはまず先勝した。",
             "enText": "Vodka won the preliminaries of the Grade I \nrace against Daiwa Scarlet.",
             "nextBlock": 3,
+            "origClipLength": 85,
             "pathId": -649218514867677942,
             "blockIdx": 2
         },
@@ -29,11 +31,22 @@
             "jpText": "これでクラシック本番に、気分よく\r\n突っ込めるぜ。どうだった、トレーナー！？",
             "enText": "Now I can go into the classic show with a \nsmile on my face. How'd it go, trainer?",
             "nextBlock": 4,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "いい走りだった！",
                     "enText": "That was a good run!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 5038646622837155566
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 7081885443533891783
                 }
             ],
             "pathId": 1981111143128503724,
@@ -45,6 +58,17 @@
             "jpText": "そうだろそうだろ！",
             "enText": "I know, I know, I know!",
             "nextBlock": 5,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 5184035365536470528
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -7591538217051862262
+                }
+            ],
             "pathId": 4884572201977968412,
             "blockIdx": 4
         },
@@ -54,6 +78,17 @@
             "jpText": "でも正直焦ったぜ。アイツも、\r\n意外にパワーアップしてやがったから。",
             "enText": "But I must admit, I was a little nervous. \nThat guy was surprisingly powerful too.",
             "nextBlock": 6,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -8542682648677556205
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -655748095532273014
+                }
+            ],
             "pathId": 1098275101085568312,
             "blockIdx": 5
         },
@@ -63,6 +98,25 @@
             "jpText": "なによ。人を持ち上げるなんて、\r\nらしくないわね。",
             "enText": "What? It's not like you to lift people up.",
             "nextBlock": 7,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 244187820850157991
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -6056797908130110580
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -275314374623953136
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -5200506769645457246
+                }
+            ],
             "pathId": 6443242668417760768,
             "blockIdx": 6
         },
@@ -72,6 +126,25 @@
             "jpText": "よぉ、スカーレット。ま、お前も頑張っちゃ\r\nいるようだが、まだまだってこった。",
             "enText": "Hello, Scarlet. You're doing well, \nbut you're not ready yet.",
             "nextBlock": 8,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 3181758878427491093
+                },
+                {
+                    "origLen": 196,
+                    "pathId": -414825939460497302
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 4728982382859675021
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -2171580593020517002
+                }
+            ],
             "pathId": -8570929238386852397,
             "blockIdx": 7
         },
@@ -81,6 +154,25 @@
             "jpText": "フンっ、花を持たすのは今日だけよ！\r\nあくまでこのレースは、本番の前！",
             "enText": "Hmph, you can only have flowers today! This \nrace is just before the real thing!",
             "nextBlock": 9,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 3815192563340956539
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 6215745041827068014
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 2949877891885893165
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -864316713270602426
+                }
+            ],
             "pathId": -322874708389664498,
             "blockIdx": 8
         },
@@ -90,6 +182,25 @@
             "jpText": "本当の勝負は次なんだから！\r\n『桜花賞』では絶対逆転してみせる！",
             "enText": "The real battle is next! I'll turn the tables \non you in the Sakuraba-sho!",
             "nextBlock": 10,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -2773081907057290290
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -4230535556664422187
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -7520459542799570621
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 7736462956295598331
+                }
+            ],
             "pathId": 7619231338384127805,
             "blockIdx": 9
         },
@@ -99,6 +210,25 @@
             "jpText": "おう、かかってこいよ。\r\n次もまた、軽くチギッてやるぜ！",
             "enText": "Oh, come on. Next time, I'll give you a \nlittle kick in the ass!",
             "nextBlock": 11,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 5821207983398000183
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -3322908678685804693
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -8402167956331121127
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 8706383996272735152
+                }
+            ],
             "pathId": -6176922391059319188,
             "blockIdx": 10
         },
@@ -108,6 +238,25 @@
             "jpText": "ウオッカはクールに笑い、\r\n勝者の余裕で去っていく。",
             "enText": "Vodka smiles coolly and leaves with the \nconfidence of a winner.",
             "nextBlock": 12,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -8350444887629431400
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6266872732298841843
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4844553840397333083
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 955347384684936854
+                }
+            ],
             "pathId": 113192595567581793,
             "blockIdx": 11
         },
@@ -117,6 +266,17 @@
             "jpText": "あの……ウオッカの走りなんですが、\r\n少し変わりましたか？",
             "enText": "The… vodka run, has it changed a bit?",
             "nextBlock": 13,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": 8771723802649383679
+                },
+                {
+                    "origLen": 168,
+                    "pathId": 3164516299641267326
+                }
+            ],
             "pathId": -6469866569847279450,
             "blockIdx": 12
         },
@@ -126,6 +286,17 @@
             "jpText": "荒削りなのは相変わらずだけど、\r\n凄味が出たっていうか……。",
             "enText": "It's still a bit rough around the edges, but \nit's gotten a lot better…",
             "nextBlock": 14,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -8902521019005809497
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 5698200358126540450
+                }
+            ],
             "pathId": -2158232169205706558,
             "blockIdx": 13
         },
@@ -135,6 +306,7 @@
             "jpText": "どんなトレーニングしてきたんです？",
             "enText": "What kind of training have you been doing?",
             "nextBlock": 15,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "おそらく実戦の成果だ",
@@ -147,6 +319,16 @@
                     "nextBlock": 15
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 3189446584474425925
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -4301202955715203379
+                }
+            ],
             "pathId": -4270248271501566980,
             "blockIdx": 14
         },
@@ -156,6 +338,17 @@
             "jpText": "ウオッカは早いうちから、\r\nひるむことなくＧⅠにも挑戦してきた。",
             "enText": "Vodka has been challenging the Grade 1s from \nearly on without hesitation.",
             "nextBlock": 16,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 8180946792363541106
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8086120229884729126
+                }
+            ],
             "pathId": 8921017576631205545,
             "blockIdx": 15
         },
@@ -165,6 +358,17 @@
             "jpText": "背伸びして挑んできた成果が、\r\nレースにも現れているようだ。",
             "enText": "It seems that the results of her efforts \nare showing in the race.",
             "nextBlock": 17,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3877760752447326580
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -303244037470167593
+                }
+            ],
             "pathId": 8303770653125814286,
             "blockIdx": 16
         },
@@ -174,6 +378,17 @@
             "jpText": "実戦……。そう……。",
             "enText": "Actual battle… So…",
             "nextBlock": 18,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 3918272140409817432
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 6272101072472286164
+                }
+            ],
             "pathId": 1158596189981329725,
             "blockIdx": 17
         },
@@ -183,6 +398,17 @@
             "jpText": "去年いきなりＧⅠって言いだした時は、\r\nまたアホやってると思ったけど、\nアイツなりに意味はあったんですね。",
             "enText": "When she suddenly started on about G1s last \nyear, I thought she was being an idiot \nagain, but I guess she had her own agenda.",
             "nextBlock": 19,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7807670159665644007
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 7113957298093110725
+                }
+            ],
             "pathId": 5326304558974265499,
             "blockIdx": 18
         },
@@ -192,6 +418,17 @@
             "jpText": "まあ、ほんのちょっとですけど！",
             "enText": "Well, just a little!",
             "nextBlock": 20,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 1353982443864774824
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 532077785964821670
+                }
+            ],
             "pathId": 6987302089879670355,
             "blockIdx": 19
         },
@@ -201,6 +438,17 @@
             "jpText": "……いいわ。\r\nどれほどのものか見極めてあげる。\n次の本番でね。",
             "enText": "… Good. We'll see how good you are. \nWe'll see how good you are.",
             "nextBlock": 21,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 8459055289725407457
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -4882553099964943032
+                }
+            ],
             "pathId": 1886461612424592352,
             "blockIdx": 20
         },
@@ -210,6 +458,17 @@
             "jpText": "『次の本番』――\r\nそれは当然の約束のようにも聞こえるが……。",
             "enText": "\"The next production\" - that sounds like a \nnatural promise…",
             "nextBlock": 22,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 6670775168592252581
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -3540154058118622578
+                }
+            ],
             "pathId": 8732934247849393905,
             "blockIdx": 21
         },
@@ -219,6 +478,25 @@
             "jpText": "へへっ、アイツもただのいい子ちゃんじゃ\r\nないってことか。おもしろくなって\nきやがったぜ。",
             "enText": "Hehe, She's not just a good boy, is She? It's \ngetting interesting, isn't it?",
             "nextBlock": 23,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 4529839401985817637
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 6919706539812481160
+                },
+                {
+                    "origLen": 161,
+                    "pathId": -6699883956673929802
+                },
+                {
+                    "origLen": 164,
+                    "pathId": -801044491671176531
+                }
+            ],
             "pathId": -7971413239468085474,
             "blockIdx": 22
         },
@@ -228,6 +506,7 @@
             "jpText": "そんでトレーナー、次のレースなんだけど\r\n当然、『桜花賞』だよな？",
             "enText": "So, trainer, what's the next race? Of course \nit's the Sakuraba-sho, right?",
             "nextBlock": 24,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "話は、そう簡単じゃない",
@@ -240,6 +519,16 @@
                     "nextBlock": 24
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 8167067862249198638
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -7769614022987429235
+                }
+            ],
             "pathId": 2824339021546798991,
             "blockIdx": 23
         },
@@ -249,6 +538,17 @@
             "jpText": "あん？　どういうことだ？",
             "enText": "What? What do you mean?",
             "nextBlock": 25,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 6163894951071019671
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5223696683481277203
+                }
+            ],
             "pathId": -4595100961311933822,
             "blockIdx": 24
         },
@@ -258,6 +558,17 @@
             "jpText": "『三冠路線』と『ティアラ路線』。\r\n2つのレース形態について説明する。",
             "enText": "There are two types of races: Triple \nCrown and Tiara. The two types of \nraces will be explained.",
             "nextBlock": 26,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -7421915739840642416
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -2319069198504114274
+                }
+            ],
             "pathId": -2836052285058841588,
             "blockIdx": 25
         },
@@ -267,6 +578,7 @@
             "jpText": "ティアラ路線の『桜花賞』に進めば、その後\r\n『オークス』『秋華賞』と歩むのが普通。",
             "enText": "If she goes on to \"Sakurahana-sho\" \non the Tiara route, she will usually \ngo on to \"Oaks\" and \"Akka-sho.",
             "nextBlock": 27,
+            "origClipLength": 98,
             "coloredText": [
                 {
                     "jpText": "オークス",
@@ -286,6 +598,7 @@
             "jpText": "トリプルティアラを狙うならば、三冠路線の\r\n『日本ダービー』は諦めなければならない。",
             "enText": "If She wanted to win the Triple Tiara, She \nwould have to give up the \"Japan Derby,\" the \nTriple Crown route.",
             "nextBlock": 28,
+            "origClipLength": 99,
             "coloredText": [
                 {
                     "jpText": "日本ダービー",
@@ -301,6 +614,7 @@
             "jpText": "じゃあ『桜花賞』に行けば、ダービーには\r\n行けなくなるってのか！？",
             "enText": "So if I go to Sakurahana-sho, I won't \nbe able to go to the Derby?",
             "nextBlock": 29,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "不可能じゃないけど普通はしない",
@@ -313,6 +627,16 @@
                     "nextBlock": 29
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 216,
+                    "pathId": -9009860329994719295
+                },
+                {
+                    "origLen": 181,
+                    "pathId": -2028129461869787468
+                }
+            ],
             "pathId": -6119026433911589602,
             "blockIdx": 28
         },
@@ -322,6 +646,17 @@
             "jpText": "三冠もティアラも一生に一度しか挑戦\r\nできない。それを棒に振るレース選択は、\n普通ありえない。",
             "enText": "The Triple Crown and the Tiara can only be \nchallenged once in a lifetime. You wouldn't \nordinarily throw that chance away.",
             "nextBlock": 30,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4860304130008702535
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 2823536139000109766
+                }
+            ],
             "pathId": 572746990229208963,
             "blockIdx": 29
         },
@@ -331,6 +666,17 @@
             "jpText": "じゃあ、どうすりゃいいんだよ？",
             "enText": "What am I supposed to do then?",
             "nextBlock": 31,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 3943421816372444164
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -2327838723198785726
+                }
+            ],
             "pathId": -8827463493709857459,
             "blockIdx": 30
         },
@@ -340,6 +686,17 @@
             "jpText": "せっかく強くなってきたアイツと\r\nクラシックでやるには、\nダービーあきらめなきゃいけねーのか？",
             "enText": "If I want to compete in the Classic with this \nguy who's getting stronger and stronger, do \nI have to give up the Derby?",
             "nextBlock": 32,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 4173463295387927667
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -524273091780804607
+                }
+            ],
             "pathId": -1699735319254143269,
             "blockIdx": 31
         },
@@ -349,6 +706,17 @@
             "jpText": "うーん、うーん……。",
             "enText": "Hmmm, hmmm…",
             "nextBlock": 33,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4252998682151561122
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 3965151535902422819
+                }
+            ],
             "pathId": 5360415037910253351,
             "blockIdx": 32
         },
@@ -358,6 +726,17 @@
             "jpText": "あ、そうだ。こういうのはどうだ！？",
             "enText": "Ah, yes. How about this!",
             "nextBlock": 34,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -6063908621281156034
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3489676063228057352
+                }
+            ],
             "pathId": 2311711872468291013,
             "blockIdx": 33
         },
@@ -367,11 +746,22 @@
             "jpText": "三冠とティアラ、6つのレースに全部出て、\r\n全部勝つってのは！？",
             "enText": "The Triple Crown, the Tiara, running in all \nsix races and winning them all!",
             "nextBlock": 35,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "……まず無理",
                     "enText": "… first of all impossible",
                     "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -8716143818763902594
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -460852324009787324
                 }
             ],
             "pathId": -8857381290267247763,
@@ -383,6 +773,17 @@
             "jpText": "うおおっ、そっか～！\r\nどうすんだよ、これ！",
             "enText": "Oh, I see! What am I going to do with this!",
             "nextBlock": 36,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -2450355512801389996
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -7104054137794421785
+                }
+            ],
             "pathId": 7712811590810684896,
             "blockIdx": 35
         },
@@ -392,6 +793,17 @@
             "jpText": "――命題は重い。\r\nライバルと戦うためにティアラ路線か、\nダービーに出るためにクラシック三冠か。",
             "enText": "—The proposition is weighty. Compete with her \nrival in the Tiara route, or run the Derby \nin the Classic Triple Crown.",
             "nextBlock": 37,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 2715137150631284836
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 4327944239151824349
+                }
+            ],
             "pathId": -5933327120705254899,
             "blockIdx": 36
         },
@@ -401,6 +813,17 @@
             "jpText": "正解はおそらくない。でもウオッカと\r\n2人で、答えを出さなければならない。",
             "enText": "There is probably no right answer. But \ntogether, Vodka and I will have to come up \nwith an answer.",
             "nextBlock": 38,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 4408154720681985822
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 4505543652822144010
+                }
+            ],
             "pathId": 2217077540679763751,
             "blockIdx": 37
         },
@@ -410,6 +833,17 @@
             "jpText": "――トレーナー、1つ思いついたことが\r\nある。聞いてくれるか？",
             "enText": "—Trainer, I've got an idea. \nWill you listen to me?",
             "nextBlock": 39,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 3941062148031373824
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -6955397519630349926
+                }
+            ],
             "pathId": 2708506251018101013,
             "blockIdx": 38
         },
@@ -419,6 +853,17 @@
             "jpText": "やっぱ俺にはどっちも切れねえ。前なら\r\n容赦なくアイツを切ってたところだが――",
             "enText": "I can't cut either of them. Before, I would \nhave cut her without mercy.",
             "nextBlock": 40,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -199615420085863245
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -2719103071761011317
+                }
+            ],
             "pathId": 5821197107311783249,
             "blockIdx": 39
         },
@@ -428,6 +873,21 @@
             "jpText": "今日のスカーレットの走りは、なんか違った。\r\n口だけじゃねえ気迫と、可能性を感じたんだ。",
             "enText": "There was something different about Scarlet's \nrun today. She wasn't just talk, I could \nfeel her spirit and potential.",
             "nextBlock": 41,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 984430649645648278
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 8156423070735703939
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 1864939692112565725
+                }
+            ],
             "pathId": -6332573111530954650,
             "blockIdx": 40
         },
@@ -437,6 +897,17 @@
             "jpText": "そんなアイツと、ＧⅠ本番でやりてーって\r\n気持ちが、どうしてもおさまらねえ。\nだから――",
             "enText": "I just can't shake the feeling that I want to \nplay with that guy in a real G1 race. So…",
             "nextBlock": 42,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 1641761751827628093
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 666815949953418472
+                }
+            ],
             "pathId": 9060460815250782590,
             "blockIdx": 41
         },
@@ -446,11 +917,22 @@
             "jpText": "『桜花賞』から『日本ダービー』へって\r\nどうだ？　これしかねえと思うんだ。",
             "enText": "What do you think about going from the \nSakuraba Prize to the Japan Derby? I think \nit's the only way.",
             "nextBlock": 43,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "三冠とトリプルティアラは諦める？",
                     "enText": "Give up on the Triple Crown and Triple Tiara?",
                     "nextBlock": 43
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 4133008142011661253
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 7051219998846368550
                 }
             ],
             "pathId": -7814341207364361413,
@@ -462,6 +944,17 @@
             "jpText": "あ、あきらめるとは言ってねーよ！\r\nでも……。",
             "enText": "Oh, I didn't say I was giving up! But…",
             "nextBlock": 44,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -6843063486472432649
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 7734988939013669220
+                }
+            ],
             "pathId": -7667734524022656101,
             "blockIdx": 43
         },
@@ -471,6 +964,17 @@
             "jpText": "俺にはこれしか思いつかねえんだ！\r\n譲れねえモン、全部追いかけるには――！",
             "enText": "This is all I can think of! If I'm going to \ngo after all the non-negotiables…!",
             "nextBlock": 45,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -3767319716451764747
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 3997414127378893
+                }
+            ],
             "pathId": -6736275173559040966,
             "blockIdx": 44
         },
@@ -480,11 +984,22 @@
             "jpText": "覚悟のこもった声。今の段階で、\r\n決断するのは早計だけど……。",
             "enText": "A voice full of determination. At this point, \nit's too early to make a decision…",
             "nextBlock": 46,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "次は『桜花賞』にしよう",
                     "enText": "Next time, let's make it the \nCherry Blossom Awards.",
                     "nextBlock": 46
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 398405280797282865
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 7679658546453211226
                 }
             ],
             "pathId": -4536533017627068526,
@@ -496,11 +1011,22 @@
             "jpText": "わ、わかってくれるのか、トレーナー！",
             "enText": "Do you understand me, trainer?",
             "nextBlock": 47,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "だけど、その先はレース後に",
                     "enText": "But more on that after the race.",
                     "nextBlock": 47
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -4486653387661288118
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -6078960570434019181
                 }
             ],
             "pathId": 8215723892201712243,
@@ -512,6 +1038,17 @@
             "jpText": "『桜花賞』の後で話そう、ってことか。",
             "enText": "\"We'll talk about it after the Cherry \nBlossom Awards,\" She said.",
             "nextBlock": 48,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 5446526687884052289
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -7069562026347677673
+                }
+            ],
             "pathId": 894600385162026542,
             "blockIdx": 47
         },
@@ -521,6 +1058,17 @@
             "jpText": "わかった。そうしよう。\r\nそうだな……んな軽い話じゃねえし。",
             "enText": "All right. I'll do that. Yeah… is not \nsomething to be taken lightly.",
             "nextBlock": 49,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 3958766963396580140
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 1689558524735050489
+                }
+            ],
             "pathId": 4481973805943168091,
             "blockIdx": 48
         },
@@ -530,6 +1078,17 @@
             "jpText": "よし、でもこれで勝ち逃げはナシだ。\r\nまずは『桜花賞』でアイツとやる！",
             "enText": "Okay, but I'm not going to run away with \nthis. First, I'll take on her at the \nSakurahana-sho!",
             "nextBlock": 50,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 7088999317326878681
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -7734924119516816790
+                }
+            ],
             "pathId": 7687599001079316570,
             "blockIdx": 49
         },
@@ -539,8 +1098,20 @@
             "jpText": "行く道はまだ決めないことにする。\r\n全ては桜花賞の結果と、その後の覚悟次第だ。",
             "enText": "I decided not to decide on a path yet. It all \ndepends on the result of Oka Sho and her \ndetermination after.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -7131450059915373217
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 2309535551985205173
+                }
+            ],
             "pathId": 5306307983082846180,
             "blockIdx": 50
         }
-    ]
+    ],
+    "modified": 1669945032
 }

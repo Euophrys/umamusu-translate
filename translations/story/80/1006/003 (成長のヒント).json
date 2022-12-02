@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "KL5RGSZ6ZKF6ZGTVTHD62P2S6TZQGS5U",
     "type": "story",
     "storyId": "801006003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nオグリキャップが話していた。",
             "enText": "After training, <chrname> and \nOguri Cap were talking.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -6360760189129593975
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2257565489750376435
+                }
+            ],
             "pathId": 8197307430230127518,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946277
 }

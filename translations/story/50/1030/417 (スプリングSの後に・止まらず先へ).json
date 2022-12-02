@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "24BC2U7MPL2ZGMZVLIY7C7IA6NMCFTCR",
     "type": "story",
     "storyId": "501030417",
@@ -11,6 +11,17 @@
             "jpText": "『スプリングS』を終えたライスシャワー。\r\n今後の課題もしっかりと確認し、\nもっと頑張るのだと、意欲を燃やす。",
             "enText": "Rice Shower finished the Spring S. She was \nmotivated to do even better, and she knew she \nhad a lot of work to do.",
             "nextBlock": 2,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": 4473492070823369158
+                },
+                {
+                    "origLen": 189,
+                    "pathId": -1316697614907965843
+                }
+            ],
             "pathId": 5018442729843167367,
             "blockIdx": 1
         },
@@ -20,10 +31,29 @@
             "jpText": "一方ミホノブルボンは、今回のレースでも\r\n“栗毛の超特急”の異名に恥じない\n駿足を披露し、周囲を沸かせる。",
             "enText": "Mihono Bourbon, meanwhile, lived up to her \n\"Chestnut Super-express\" moniker, showing off \nher swift legs and exciting everyone.",
             "nextBlock": 3,
+            "origClipLength": 114,
             "coloredText": [
                 {
                     "jpText": "栗毛の超特急",
                     "enText": "Chestnut Super-express"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": 877337110534727489
+                },
+                {
+                    "origLen": 189,
+                    "pathId": -1328343444650022640
+                },
+                {
+                    "origLen": 255,
+                    "pathId": 1947495467826883485
+                },
+                {
+                    "origLen": 290,
+                    "pathId": 3409365872723099968
                 }
             ],
             "pathId": -6943226925228445779,
@@ -35,6 +65,17 @@
             "jpText": "ミホノブルボンに追いつくためには\r\n立ち止まってはいられない。",
             "enText": "She couldn't stand still if she wanted to \ncatch up with Mihono Bourbon.",
             "nextBlock": 4,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 255,
+                    "pathId": -4554506539535671606
+                },
+                {
+                    "origLen": 290,
+                    "pathId": -4495166194043735382
+                }
+            ],
             "pathId": 6843967974173478355,
             "blockIdx": 3
         },
@@ -44,14 +85,34 @@
             "jpText": "ライスシャワーは、次の目標を\r\n『日本ダービー』に定めて\n準備を進めることになるのだった。",
             "enText": "The next goal for Rice Shower was the \"Japan \nDerby,\" and she was ready to go.",
             "nextBlock": -1,
+            "origClipLength": 103,
             "coloredText": [
                 {
                     "jpText": "日本ダービー",
                     "enText": "Japan Derby"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": -6586720414430110561
+                },
+                {
+                    "origLen": 189,
+                    "pathId": 7210869911338539528
+                },
+                {
+                    "origLen": 255,
+                    "pathId": 6428473150566614828
+                },
+                {
+                    "origLen": 290,
+                    "pathId": -6960623214296177917
+                }
+            ],
             "pathId": 1463325140483274261,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945553
 }

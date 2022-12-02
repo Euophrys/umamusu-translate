@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "APWX2IZCI3OJXNETSW7AOR5ICKDZECV2",
     "type": "story",
     "storyId": "501004413",
@@ -11,10 +11,21 @@
             "jpText": "クラシック級とシニア級の強豪が集う\r\n年末の大一番、『有馬記念』",
             "enText": "Arima Kinen\" is the biggest event of the\nyear, where the best of the classic and\nsenior class gather.",
             "nextBlock": 2,
+            "origClipLength": 88,
             "coloredText": [
                 {
                     "jpText": "シニア級",
                     "enText": "Senior class"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 2844723131046180513
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 8694559922314183262
                 }
             ],
             "pathId": -7164770479481727726,
@@ -26,6 +37,17 @@
             "jpText": "そのパドックでマルゼンスキーは、\r\n以前レースを回避されたウマ娘から\n声をかけられる。",
             "enText": "In the paddock, Maruzensky was approached\nby a horse girl who had previously been\nbanned from the race.",
             "nextBlock": 3,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": 7981466839088819057
+                },
+                {
+                    "origLen": 142,
+                    "pathId": 8984469551922561461
+                }
+            ],
             "pathId": -4867909982402391667,
             "blockIdx": 2
         },
@@ -35,6 +57,17 @@
             "jpText": "これまでのマルゼンスキーの走りに\r\n惹かれた彼女は、いつか再び同じレースを\n走りたいと胸の内を明かす。",
             "enText": "She was fascinated by the way Maruzensky\nhad run, and expressed her desire to run\nthe same race again someday.",
             "nextBlock": 4,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 8602090325037562576
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -4110003697741762123
+                }
+            ],
             "pathId": -8824686741168290264,
             "blockIdx": 3
         },
@@ -44,8 +77,20 @@
             "jpText": "マルゼンスキーはその想いをしっかりと\r\n受け取り、彼女がもっと追いかけたくなる\n背中を見せるためにレースへと赴くのだった。",
             "enText": "Maruzensky took her feelings to heart and\nwent to the race to show her the kind of\nbackbone she would want to follow.",
             "nextBlock": -1,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 6408968995634168726
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -6165150335300369066
+                }
+            ],
             "pathId": 3982065563180123543,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669944910
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "F7FKR5ZNOZ45XIEWWR4J3OCSL67IIGE5",
     "type": "story",
     "storyId": "501030406",
@@ -11,6 +11,17 @@
             "jpText": "実力を向上させるための\r\n『夏合宿』が始まった。",
             "enText": "The \"summer training camp\" to improve \nour skills has begun.",
             "nextBlock": 2,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -1634050464259329727
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3750585154754656787
+                }
+            ],
             "pathId": -5039901204473085168,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "ミホノブルボンに追いつくために、\r\nライスシャワーの熱い夏合宿がスタートした。",
             "enText": "In order to catch up with Mihonobourbon, \nRice Shower's hot summer training \ncamp has begun.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -3277538807280055114
+                },
+                {
+                    "origLen": 152,
+                    "pathId": -9218092513735122250
+                }
+            ],
             "pathId": -4841140127409510066,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945552
 }

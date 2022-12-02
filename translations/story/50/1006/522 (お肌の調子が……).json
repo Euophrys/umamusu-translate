@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ZNOD63CMH3H4LM5BYXI6IGHQZYBY5246",
     "type": "story",
     "storyId": "501006522",
@@ -11,6 +11,17 @@
             "jpText": "オグリキャップが難しい顔をしながら、\r\nスナック菓子の袋をじっと見つめている。",
             "enText": "Oguri-cap was staring at a bag of snacks \nwith a difficult look on her face.",
             "nextBlock": 2,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -6827493934148897696
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5402013540878428732
+                }
+            ],
             "pathId": 4806898896498100926,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "むむむ……1つくらいは……。\r\nでも、肌荒れが……。",
             "enText": "Mmmm…1 at least one is… But \nI have a skin condition…",
             "nextBlock": 3,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 6584354560065757906
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2211693070414229683
+                }
+            ],
             "pathId": 3374010859016024129,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "……肌荒れでクリークに相談したら、\r\n油っぽいものを控えるのがいいと言われてな。",
             "enText": "I talked to Creek… about my skin \nproblems, and she said I should \ncut back on the greasy stuff.",
             "nextBlock": 4,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 6541525461931077251
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -3295058344607278842
+                }
+            ],
             "pathId": -107133519605380612,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "だが、いざこうして\r\nお菓子を目の前にしてしまうと――",
             "enText": "But when you're confronted with these sweets…",
             "nextBlock": 5,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -7713953332982271851
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 2047252783470277241
+                }
+            ],
             "pathId": 3920917834379705899,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "はぁ……にんじんスナックは諦めて、\r\nほうれん草クッキーにしておくか……。",
             "enText": "Huh… I guess I'll give up on the carrot \nsnacks and stick with the spinach cookies…",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -4352574872778374450
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 5935565915968539607
+                }
+            ],
             "pathId": 6636833125777233334,
             "blockIdx": 5
         },
@@ -68,8 +123,20 @@
             "jpText": "肌荒れで好きなものが食べられないのか、\r\nオグリキャップは心なしか元気がなかった。",
             "enText": "Perhaps because of her skin condition, she \ncouldn't eat what she wanted, but Oguri-cap \nwas not in good spirits.",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -3490791727451428165
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -5913952064507409074
+                }
+            ],
             "pathId": -6460531242129982756,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669944982
 }

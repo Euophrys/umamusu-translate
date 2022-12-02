@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "INH3PTFB6NQURA4ZRI6N64DDPBLL6LHB",
     "type": "story",
     "storyId": "501030207",
@@ -11,6 +11,17 @@
             "jpText": "……来ちゃったね、『有馬記念』。",
             "enText": "… It's here, \"Arima Kinen\".",
             "nextBlock": 2,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 7746328154914512821
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 7484988693942888512
+                }
+            ],
             "pathId": 6570019508602712625,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "ブルボンさんも、マックイーンさんも\r\n出走するんだよね。",
             "enText": "Both Ms. Bourbon and Ms. McQueen \nwill be running, right?",
             "nextBlock": 3,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -3465355731851191311
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -156484735356700574
+                }
+            ],
             "pathId": 8357927675394608195,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "そして、新しい子たちも――",
             "enText": "And the new kids—",
             "nextBlock": 4,
+            "origClipLength": 53,
             "choices": [
                 {
                     "jpText": "緊張してる？",
                     "enText": "Are you nervous?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 3558784402844526567
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -1569769715264246699
                 }
             ],
             "pathId": -826678858753278678,
@@ -45,6 +78,17 @@
             "jpText": "ちょっとだけ。\r\n少しだけ怖い、かも。",
             "enText": "Just a little. A little scary, maybe.",
             "nextBlock": 5,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -4758238858954080628
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 5234856083116353217
+                }
+            ],
             "pathId": -4169455279018397310,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "もしも負けたら、期待を裏切っちゃったら。\r\n……みんなを不幸にしちゃったら。",
             "enText": "If you lose, if you disappoint. \nIf I make … everyone unhappy.",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 3301459936137458443
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -1520319099755222972
+                }
+            ],
             "pathId": 2401660550540083133,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "そんなことを考えると、\r\n冷たさが指から広がっていくの。",
             "enText": "When I think about it, the coldness \nspreads through my fingers.",
             "nextBlock": 7,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -4573370217031341726
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 8071223449208498692
+                }
+            ],
             "pathId": -5091888523337913943,
             "blockIdx": 6
         },
@@ -72,6 +138,21 @@
             "jpText": "だから、そういうときは。\r\nこうやって胸に手を当てて――",
             "enText": "So, in that case. I put my hand \non my chest like this.",
             "nextBlock": 8,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 6270806742529368885
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -7194216900885398588
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 4855284558778870397
+                }
+            ],
             "pathId": 7691581785524368232,
             "blockIdx": 7
         },
@@ -81,6 +162,21 @@
             "jpText": "みんなの笑顔を思い出すんだ。",
             "enText": "Remember the smiles on everyone's faces.",
             "nextBlock": 9,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 7840950260483887304
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 5320008924191619510
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 700141811296196655
+                }
+            ],
             "pathId": -105498264753233354,
             "blockIdx": 8
         },
@@ -90,11 +186,26 @@
             "jpText": "そしたら心がぽかぽかしてきて、\r\nライスは大丈夫って思えるから。",
             "enText": "Then my heart will start to warm up and I'll \nknow that Rice is okay.",
             "nextBlock": 10,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "最後まで頑張っておいで",
                     "enText": "Good luck getting to the end.",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3679184031589574420
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -3701987426318293973
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -986749912766923649
                 }
             ],
             "pathId": 4161827926593213324,
@@ -106,6 +217,18 @@
             "jpText": "……うんっ。\r\nいってきます、お兄さまっ！",
             "enText": "… Yeah. I'm off, brother!",
             "nextBlock": 11,
+            "origClipLength": 58,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -4321796477273761406
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 8021150057592079883
+                }
+            ],
             "pathId": -5622192516307644821,
             "blockIdx": 10
         },
@@ -115,8 +238,21 @@
             "jpText": "……うんっ。\r\nいってきます、お姉さまっ！",
             "enText": "… Yeah. I'm off, sister!",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 6617643305649998125
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 8972170853799532391
+                }
+            ],
             "pathId": 1824084922750818572,
             "blockIdx": 11
         }
-    ]
+    ],
+    "modified": 1669945546
 }

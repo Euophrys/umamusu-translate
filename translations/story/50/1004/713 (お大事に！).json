@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "C4NMMHOYYJQXNV4VBHAYWZDRONHAHAVY",
     "type": "story",
     "storyId": "501004713",
@@ -11,6 +11,17 @@
             "jpText": "あーあ、ドジっちゃった。",
             "enText": "Oh, I screwed up.",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 6170710735700743089
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 4530704160073278339
+                }
+            ],
             "pathId": 3015410585802484554,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "けど、こんな軽いケガなら\r\nチョチョイのチョイで治っちゃうわね！",
             "enText": "But a minor injury like this\nwill heal in a jiffy!",
             "nextBlock": 3,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "軽くてもちゃんと休もう",
@@ -32,6 +44,16 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5493291195391571311
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -1552750917344143832
+                }
+            ],
             "pathId": 5728898107625236742,
             "blockIdx": 2
         },
@@ -41,6 +63,18 @@
             "jpText": "んもう、\r\nトレーナー君ってば心配性なんだから！",
             "enText": "You're such a worrier, trainer!",
             "nextBlock": 4,
+            "origClipLength": 76,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 2395742027508930138
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -7313161661433884073
+                }
+            ],
             "pathId": 225646797311619318,
             "blockIdx": 3
         },
@@ -50,6 +84,18 @@
             "jpText": "んもう、\r\nトレーナーちゃんってば心配性なんだから！",
             "enText": "You're such a worrier, trainer! ",
             "nextBlock": 5,
+            "origClipLength": 78,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -1067574956044361369
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 327063600328023738
+                }
+            ],
             "pathId": -7292476192512713506,
             "blockIdx": 4
         },
@@ -59,6 +105,7 @@
             "jpText": "けど、それだけ大事に思ってくれてるのよね。\r\nそれなのにあたしったら――",
             "enText": "But that's how much she cares about\nyou, right? And yet, you…",
             "nextBlock": 6,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "気にしなくていい",
@@ -71,6 +118,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 3180403218373890843
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -903871220241922249
+                }
+            ],
             "pathId": -5567519221005652916,
             "blockIdx": 5
         },
@@ -80,6 +137,17 @@
             "jpText": "そんなわけにはいかないわ！\r\nあたし、困ったちゃんにはなりたくないもの。",
             "enText": "I can't let that happen! I don't want\nto be the one who gets in trouble.",
             "nextBlock": 7,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 5254436493444455482
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -3087190022819127944
+                }
+            ],
             "pathId": -1696490494339772140,
             "blockIdx": 6
         },
@@ -89,6 +157,21 @@
             "jpText": "海より深く反省してるわ。\r\nメンゴ……。",
             "enText": "I'm sorry, deeper than the ocean. Mengo …",
             "nextBlock": 8,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4838799881263688989
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4072291368295507285
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 5809085545541873493
+                }
+            ],
             "pathId": -6461209677401282476,
             "blockIdx": 7
         },
@@ -98,6 +181,21 @@
             "jpText": "おセンチになったマルゼンスキーは\r\n大人しく休み、次のレースに備えるのだった。",
             "enText": "Maruzensky, feeling a little worse\nfor wear, rested quietly and prepared\nfor the next race.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": 4950105267489512057
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 2457222518831321929
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 6188807693793984944
+                }
+            ],
             "pathId": -3493951265881470953,
             "blockIdx": 8
         },
@@ -107,11 +205,22 @@
             "jpText": "でしょでしょ♪\r\nもっと言ってもいいのよ～？",
             "enText": "You can say more if you want.",
             "nextBlock": 10,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "疲れ知らず！イケイケのウマ娘！",
                     "enText": "I never get tired! I'm a hot horse girl!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -6376002746673265987
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 7221072441276662695
                 }
             ],
             "pathId": -5130719222133033532,
@@ -123,6 +232,18 @@
             "jpText": "やだー！\r\nトレーナー君ってばおだて上手～♪",
             "enText": "Oh no! Trainer, you're so flattering.",
             "nextBlock": 11,
+            "origClipLength": 73,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 7890895234965036105
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3311692370182132992
+                }
+            ],
             "pathId": 3110310815979881658,
             "blockIdx": 10
         },
@@ -132,6 +253,18 @@
             "jpText": "やだー！\r\nトレーナーちゃんってばおだて上手～♪",
             "enText": "Oh no! Trainer, you're so flattering…",
             "nextBlock": 12,
+            "origClipLength": 76,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -865807710745069142
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -6953203434508101048
+                }
+            ],
             "pathId": -1775008064912582423,
             "blockIdx": 11
         },
@@ -141,6 +274,18 @@
             "jpText": "ふふっ。気分もノってきたし、\r\nそろそろトレーニングに戻ろっかな？",
             "enText": "Hmm. I'm getting into the mood. I think\nit's time to get back to training.",
             "nextBlock": 13,
+            "origClipLength": 88,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 3484096704396816922
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 46277157558079267
+                }
+            ],
             "pathId": 2275402940375815539,
             "blockIdx": 12
         },
@@ -150,6 +295,18 @@
             "jpText": "最高にイケてるヤングな走りを見せて――",
             "enText": "I want to see you run like the hottest\nyoung thing you've ever seen.",
             "nextBlock": 14,
+            "origClipLength": 69,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 1623670868142929583
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5961556927650372074
+                }
+            ],
             "pathId": -4321235924498926438,
             "blockIdx": 13
         },
@@ -159,11 +316,22 @@
             "jpText": "あいたっ！",
             "enText": "Ouch!",
             "nextBlock": 15,
+            "origClipLength": 51,
             "choices": [
                 {
                     "jpText": "マルゼーン！？",
                     "enText": "Marzane!",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5196222558016083647
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 5093178690824965618
                 }
             ],
             "pathId": -1374469766766396405,
@@ -175,6 +343,17 @@
             "jpText": "その後、症状が悪化したマルゼンスキーを\r\n大人しく休ませることにした。",
             "enText": "After that, they decided to let Maruzensky\nrest quietly as her condition worsened.",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -1949370645878870106
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -3211997603608473282
+                }
+            ],
             "pathId": -3975952731853719840,
             "blockIdx": 15
         },
@@ -184,6 +363,18 @@
             "jpText": "1、2、3、4、余裕のよっちゃ～ん♪",
             "enText": "One, two, three, four, there's\nplenty of room, Yotchan…",
             "nextBlock": 17,
+            "origClipLength": 68,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 4669774925284259131
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -7511420397293388633
+                }
+            ],
             "pathId": -4978116654740973514,
             "blockIdx": 16
         },
@@ -193,6 +384,7 @@
             "jpText": "5、6、7、8、だいじょうブ～イ♪",
             "enText": "Five, six, seven, eight, I'm fine.",
             "nextBlock": 18,
+            "origClipLength": 67,
             "pathId": 3274990018138155120,
             "blockIdx": 17
         },
@@ -202,6 +394,7 @@
             "jpText": "どうかしら、トレーナー君？",
             "enText": "What do you think, trainer?",
             "nextBlock": 19,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "激マブだったぞ！",
@@ -212,6 +405,17 @@
                     "jpText": "激マブだったよ！",
                     "enText": "It was so mab!",
                     "nextBlock": 20
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -6434908095306698130
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -4698978898181994537
                 }
             ],
             "pathId": 1349872906512967333,
@@ -223,6 +427,7 @@
             "jpText": "どうかしら、トレーナーちゃん？",
             "enText": "What do you think, trainer?",
             "nextBlock": 20,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "激マブだったぞ！",
@@ -235,6 +440,17 @@
                     "nextBlock": 20
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 2564884357193796607
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -7918100168348416784
+                }
+            ],
             "pathId": 2096865198724398939,
             "blockIdx": 19
         },
@@ -244,6 +460,17 @@
             "jpText": "でしょ～？\r\nもっともっとイケてるとこ、見せてあげる♪",
             "enText": "Isn't that right? I'll show you\nmore and more hot stuff.",
             "nextBlock": 21,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -3503372248059151683
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 18420358814942551
+                }
+            ],
             "pathId": -3818009395775492354,
             "blockIdx": 20
         },
@@ -253,8 +480,20 @@
             "jpText": "その後もマルゼンスキーは\r\n上機嫌でジョギングを続けたのだった。",
             "enText": "Afterwards, Maruzensky continued\nher jog in a good mood.",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -4048898497865201070
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8640939937813807027
+                }
+            ],
             "pathId": -6707631179391216165,
             "blockIdx": 21
         }
-    ]
+    ],
+    "modified": 1669944922
 }

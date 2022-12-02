@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "A37PDNUVYQOUGJ2OKJGEJFXAGEZ7XHGT",
     "type": "story",
     "storyId": "501041313",
@@ -11,6 +11,17 @@
             "jpText": "お、おおおおお……！",
             "enText": "Oh, oh, oh…!",
             "nextBlock": 2,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -3253514052340180522
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -6380053654120032944
+                }
+            ],
             "pathId": 5481332135936178614,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "勝ちましたッ……！\r\n2400m、走破……！",
             "enText": "We won…! 2400m, run…!",
             "nextBlock": 3,
+            "origClipLength": 59,
             "choices": [
                 {
                     "jpText": "お疲れ様！",
                     "enText": "Good work!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 8766954839607914155
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -7086759769068372259
                 }
             ],
             "pathId": -8290966921673192320,
@@ -36,6 +58,17 @@
             "jpText": "2400mも走ったのに、\r\n思っていたより全然疲れていません！",
             "enText": "I'm not as tired as I thought I'd be after\n2400 meters of running!",
             "nextBlock": 4,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 7883533159986576951
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2929946243641600258
+                }
+            ],
             "pathId": 190542211755091411,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "私、どうやら\r\nとっても成長しているようです！！",
             "enText": "I'm apparently growing up very fast!",
             "nextBlock": 5,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 6361754253532200561
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 430799153146931366
+                }
+            ],
             "pathId": 6437528046199953059,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "スピードだけでなく、\r\nスタミナも武器になったようですね！",
             "enText": "It seems that stamina was not only her\nspeed, but also her weapon!",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -1164013282594095964
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 7838991195049286494
+                }
+            ],
             "pathId": -1641021621830245034,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "これならば……挑めます！",
             "enText": "This would be a… challenge!",
             "nextBlock": 7,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -1260890165544892798
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 1476513305932180601
+                }
+            ],
             "pathId": -5675266203304764126,
             "blockIdx": 6
         },
@@ -72,6 +138,17 @@
             "jpText": "3600m、最長のステージへ……！",
             "enText": "3600m, to the longest stage…!",
             "nextBlock": 8,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -2589167431822799329
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8371069878637685834
+                }
+            ],
             "pathId": -500379929698321797,
             "blockIdx": 7
         },
@@ -81,14 +158,26 @@
             "jpText": "『セントウルS』！！\r\n待っていてください！",
             "enText": "\"St. Urus S\"! Wait for me!",
             "nextBlock": -1,
+            "origClipLength": 59,
             "coloredText": [
                 {
                     "jpText": "セントウルS",
                     "enText": "St. Urus S"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -7554573113446868915
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 1778545430229895176
+                }
+            ],
             "pathId": -2266637730510794669,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945709
 }

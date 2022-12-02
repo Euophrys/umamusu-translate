@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CNHXM4SJUH22I2N6ZISKCOHMMP4RFUZU",
     "type": "story",
     "storyId": "501041300",
@@ -11,6 +11,7 @@
             "jpText": "合宿最終日……。",
             "enText": "Hopscotch Final Day…",
             "nextBlock": 2,
+            "origClipLength": 50,
             "pathId": 4853730921410994040,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ハッ……ハッ……ハッ……！",
             "enText": "Ha… Ha… Ha…!",
             "nextBlock": 3,
+            "origClipLength": 168,
             "pathId": -1570039211208156206,
             "blockIdx": 2
         },
@@ -29,11 +31,22 @@
             "jpText": "どうでしたか、トレーナーさん！\r\nすごく速かったでしょう！",
             "enText": "What did you think, trainer?\nWasn't that fast!",
             "nextBlock": 4,
+            "origClipLength": 106,
             "choices": [
                 {
                     "jpText": "砂場でそのスピードはすごい！",
                     "enText": "That speed in the sandbox is amazing!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4483076927268502454
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 7783856850634226120
                 }
             ],
             "pathId": -7934302979648780603,
@@ -45,6 +58,17 @@
             "jpText": "でしょう！\r\nハッハッハーー！",
             "enText": "Isn't it! Ha-ha-ha!",
             "nextBlock": 5,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -7020665708883697236
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -2191846636704925525
+                }
+            ],
             "pathId": 8065534146808483285,
             "blockIdx": 4
         },
@@ -54,6 +78,17 @@
             "jpText": "合宿で、私もだいぶレベルアップした\r\nようです！",
             "enText": "I think I've improved a lot at the camp!",
             "nextBlock": 6,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -4930606214684082523
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -9025951335478040560
+                }
+            ],
             "pathId": -7602455954119603881,
             "blockIdx": 5
         },
@@ -63,6 +98,17 @@
             "jpText": "元々速かったのに、更に磨きがかかりました！\r\nまさしくバクシン的スピード！",
             "enText": "She was fast to begin with, but now she's\neven faster! Just like Bakushin's speed!",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -1745437117021459325
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -7810319732633393725
+                }
+            ],
             "pathId": 8140052296887005309,
             "blockIdx": 6
         },
@@ -72,6 +118,17 @@
             "jpText": "これはもう、約束されたも同然です！\r\n『スプリンターズS』での勝利が！",
             "enText": "This is as good as a promise! Victory\nin the \"Sprinter's Sprint\"!",
             "nextBlock": 8,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 4792950239373257756
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7143400427733602517
+                }
+            ],
             "pathId": 4791872044588913073,
             "blockIdx": 7
         },
@@ -81,6 +138,7 @@
             "jpText": "もしぶっちぎりで勝てなかったら、\r\n私、『サクラ・オー』に改名します！！",
             "enText": "If I don't win by a landslide, I'll\nchange my name to Sakura-O!",
             "nextBlock": 9,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "しないでくれ",
@@ -93,6 +151,16 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -3287117476029897390
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 8109415261991151702
+                }
+            ],
             "pathId": 416871980674075942,
             "blockIdx": 8
         },
@@ -102,6 +170,17 @@
             "jpText": "もちろんですとも！\r\n勝つ以外ありえないので！",
             "enText": "Of course I will! It's the only way to win!",
             "nextBlock": 10,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 7030245775534634453
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5997817658309961658
+                }
+            ],
             "pathId": 8974938147229447243,
             "blockIdx": 9
         },
@@ -111,6 +190,17 @@
             "jpText": "高みの見物という感じで、\r\n楽しみにしていてください！",
             "enText": "You can look forward to it from\na higher vantage point!",
             "nextBlock": 11,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 1418709598783839633
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 4649598599854241345
+                }
+            ],
             "pathId": 4736257668250565634,
             "blockIdx": 10
         },
@@ -120,8 +210,20 @@
             "jpText": "……こうして、サクラバクシンオーとの\r\n熱い？　夏合宿が終わった。",
             "enText": "… This is how the hot summer\ncamp with Sakura Bakushin-o ended. The\nsummer camp was over.",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 5292877454464244590
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 8202344166947564044
+                }
+            ],
             "pathId": 7545958115410626743,
             "blockIdx": 11
         }
-    ]
+    ],
+    "modified": 1669945705
 }

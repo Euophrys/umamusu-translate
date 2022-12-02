@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MOEHDN7PBZMNQZUYIXIBXUCQKXKTY66J",
     "type": "story",
     "storyId": "501004600",
@@ -11,6 +11,17 @@
             "jpText": "ふふ。会場中のウズウズが、\n控室にまで伝わってくるわ～！",
             "enText": "I can feel it. I can feel the itch in\nthe hall, even in the waiting room!",
             "nextBlock": 2,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 8953563826008757419
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -3569113488824683125
+                }
+            ],
             "pathId": -5172523916578023313,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "今か今かと高まる期待……！\n出れば弾けるみんなの声援……！",
             "enText": "The anticipation is building:\n…! Everyone's cheers will burst\nout when it comes out: …!",
             "nextBlock": 3,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 6356044914929634988
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 8064839426777890831
+                }
+            ],
             "pathId": 1912554511636456541,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "やーん、なんだか\nお立ち台にでも立っちゃうみたい♪",
             "enText": "Oh no, I feel like I'm standing\non a pedestal.",
             "nextBlock": 4,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "楽しそうだな！",
@@ -41,6 +64,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -5392342940274822583
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 1384514105496534269
+                }
+            ],
             "pathId": 6410434009345951051,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "ええ、もちろん！　扇子でも\nあったら振り回しちゃいたいくらいよ！",
             "enText": "Yes, of course! If I had a\nfan, I'd wave it around!",
             "nextBlock": 5,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 2822920859288247414
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8306176878320778818
+                }
+            ],
             "pathId": 2971942239806610617,
             "blockIdx": 4
         },
@@ -59,6 +103,21 @@
             "jpText": "みんな楽しみにしてくれてるんだもの！\nイイトコ見せなくっちゃね！",
             "enText": "They're looking forward to it! I've\ngot to show them the good stuff!",
             "nextBlock": 6,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 8471003204922261601
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 4131489800879451698
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6181149940866217568
+                }
+            ],
             "pathId": -5722912423657178320,
             "blockIdx": 5
         },
@@ -68,8 +127,20 @@
             "jpText": "それじゃあ、かっ飛ばしてくるわね！",
             "enText": "I'm gonna go kick some ass then!",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -3818179898990815330
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7593945573982207405
+                }
+            ],
             "pathId": 9150714532745657190,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669944918
 }

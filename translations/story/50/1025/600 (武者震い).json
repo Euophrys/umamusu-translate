@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "G5MUJVEQXPGUF6OCFDOIU5LGAWKU66PA",
     "type": "story",
     "storyId": "501025600",
@@ -11,6 +11,17 @@
             "jpText": "…………不思議です。\r\n今日は何だか――――",
             "enText": "It's… strange. Today\nthere is something —",
             "nextBlock": 2,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -2378744786394327104
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -601909378310878538
+                }
+            ],
             "pathId": 1924792230704789054,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "声が、よく聞こえるんです。",
             "enText": "The voices, I can hear them well.",
             "nextBlock": 3,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 7674701470199836202
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3746005635112373167
+                }
+            ],
             "pathId": -4855721235598169880,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "それなのに、夜みたいで……\r\n淡く透けて……煌めいていて……。",
             "enText": "And yet, it's like night… pale and\ntransparent… and shermering.",
             "nextBlock": 4,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "新しい世界が見られそうだな",
@@ -41,6 +64,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -5696642953078984065
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2016254263014665013
+                }
+            ],
             "pathId": -3250243582629731055,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "…………はい。",
             "enText": "… Yes.",
             "nextBlock": 5,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -4535936893404928869
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -777024600927235782
+                }
+            ],
             "pathId": -3985490958158834103,
             "blockIdx": 4
         },
@@ -59,8 +103,20 @@
             "jpText": "見つけてきます……\r\n私にしか見えない、果てを――",
             "enText": "I'll find it… I'll find\nthe end that only I can see.",
             "nextBlock": -1,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 1311606672254081775
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 1969093820357326837
+                }
+            ],
             "pathId": 2160479373101323432,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669946368
 }

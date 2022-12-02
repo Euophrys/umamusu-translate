@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "47IMRHMFUQYNOPEL4MAIIIHIET3BHOEM",
     "type": "story",
     "storyId": "809001010",
@@ -11,6 +11,17 @@
             "jpText": "ある日のこと、たづなさんが\r\nトレーナー室を訪れてくれた。",
             "enText": "One day, Tazuna visited me \nin my trainer's office.",
             "nextBlock": 2,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -7021424978907666019
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3075683122392744249
+                }
+            ],
             "pathId": 4646765747413208564,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "トレーナーさんっ。\r\n本当にお疲れ様でした！",
             "enText": "Trainer! Thank you for all your hard work!",
             "nextBlock": 3,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 7610901348749019965
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 6667872187509820886
+                }
+            ],
             "pathId": -7088201306298283413,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "この3年を無事越えられるウマ娘も、\r\n学園内ではほんのひと握りです。",
             "enText": "There are only a handful of girls \nin the school who can make it through \nthese three years.",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -8236761203256028761
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8832404797048346077
+                }
+            ],
             "pathId": -6401027757936000616,
             "blockIdx": 3
         },
@@ -38,11 +71,26 @@
             "jpText": "そんなあなたたちを、こうしてずっと\r\n見守られたこと……とても幸せでした♪",
             "enText": "I was so happy to be able to watch you guys \nlike this… for so long.",
             "nextBlock": 5,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "こちらこそ、見守りありがとうございました",
                     "enText": "Thank you for watching over us too!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -1941363712837416351
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 2127723571223771324
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -1566277227557641860
                 }
             ],
             "pathId": 1280962949625390461,
@@ -54,6 +102,21 @@
             "jpText": "いえいえ。それで、なのですが――",
             "enText": "No, no, no. So, you know…",
             "nextBlock": 6,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3885582448963558038
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -116531941748541066
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 6739040766056283022
+                }
+            ],
             "pathId": -8525384707546264156,
             "blockIdx": 5
         },
@@ -63,11 +126,22 @@
             "jpText": "よければこの後、担当ウマ娘さんもご一緒に\r\nいかがですか？",
             "enText": "If you would like to join us afterwards, why \ndon't you and your horse girl join us?",
             "nextBlock": 7,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "……いつもの『アレ』ですか？",
                     "enText": "… Is it the usual 'thing'?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -1163232636966001453
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -7963895540447087652
                 }
             ],
             "pathId": 8376581295322836731,
@@ -79,6 +153,17 @@
             "jpText": "はいっ、『アレ』です♪",
             "enText": "Yes, it's a thing.",
             "nextBlock": 8,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -5541096323128001678
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -996639605427889185
+                }
+            ],
             "pathId": 1965079370265822267,
             "blockIdx": 7
         },
@@ -88,6 +173,17 @@
             "jpText": "今日は――りんごを3人分、\r\n買ってからにしましょうね！",
             "enText": "We'll have to wait until we've bought enough \napples for three people!",
             "nextBlock": 9,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -7139364841195314971
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 4871866040529547114
+                }
+            ],
             "pathId": -3038076677601742822,
             "blockIdx": 8
         },
@@ -97,8 +193,24 @@
             "jpText": "こうして、たづなさんと<chrname>、\r\n3人でラーメンと餃子を食べたのだった。",
             "enText": "So Tazuna, <chrname> and I ate \nramen and gyoza together.",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -4235654702377619916
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 29952328874665706
+                },
+                {
+                    "origLen": 153,
+                    "pathId": 7388486770312639687
+                }
+            ],
             "pathId": 967970981835750036,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945977
 }

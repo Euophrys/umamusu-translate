@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "JUXKUFSJM6VLZJH4PK3RXN4IJTOSRKS5",
     "type": "story",
     "storyId": "501006402",
@@ -11,6 +11,17 @@
             "jpText": "無事デビュー戦を走り切ることができた\r\nオグリキャップ。",
             "enText": "Oguri Cap was able to complete \nher debut race successfully.",
             "nextBlock": 2,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 178,
+                    "pathId": 8505631452204630710
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -877316299744818015
+                }
+            ],
             "pathId": -3759559731053092268,
             "blockIdx": 1
         },
@@ -20,14 +31,26 @@
             "jpText": "『中央にオグリが来た』と知らしめるため、\r\n彼女は数多くのレースで走り、\n名を上げていくことを誓ったのだった。",
             "enText": "She vowed to run in many races and make a \nname for herself so that people would know \nthat Oguri had arrived in the center.",
             "nextBlock": -1,
+            "origClipLength": 80,
             "coloredText": [
                 {
                     "jpText": "オグリ",
                     "enText": "Oguri (variety of rice)"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 178,
+                    "pathId": -6633463741962686373
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -3715801537975842718
+                }
+            ],
             "pathId": 8059934561621201004,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944977
 }

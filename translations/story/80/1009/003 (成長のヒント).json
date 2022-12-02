@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "HNH6AAWWDY4DLAV4XPEBUCERM5OVXHMG",
     "type": "story",
     "storyId": "801009003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nダイワスカーレットが話していた。",
             "enText": "After training, <chrname> and \nDaiwa Scarlet were talking.",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -133253265215626418
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1999846574880768898
+                }
+            ],
             "pathId": 7375201985593431536,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946277
 }

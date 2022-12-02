@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "TN3FJ27Y2Y7OL2I2ATBGQ4HWG5FN3VJZ",
     "type": "story",
     "storyId": "801069001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、校内を歩いていると――",
             "enText": "One day, as I was walking \nthrough the school…",
             "nextBlock": 2,
+            "origClipLength": 64,
             "pathId": 4166540846025088609,
             "blockIdx": 1
         },
@@ -20,6 +21,21 @@
             "jpText": "むむ～……心を落ち着けて考えなくちゃ。\r\n花も実もあるトレーニング方法といえば……。",
             "enText": "Mmmm… I have to calm my mind and \nthink. A training method that is \nboth flowery and fruitful is…",
             "nextBlock": 3,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 238,
+                    "pathId": -8969809446262794759
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2352199059031422112
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8139283244601063414
+                }
+            ],
             "pathId": 5421715636103684785,
             "blockIdx": 2
         },
@@ -29,6 +45,21 @@
             "jpText": "ひゃっ！",
             "enText": "Aah!",
             "nextBlock": 4,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5349401233243593032
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -2386270570851836339
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -7704581457975725557
+                }
+            ],
             "pathId": -3352496339499879262,
             "blockIdx": 3
         },
@@ -38,6 +69,7 @@
             "jpText": "……き、危機一髪でした。\r\nもう少しでぶつかるところ――",
             "enText": "… It was a close call. It was a close call.",
             "nextBlock": 5,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "ちゃんと前を見て歩こうな",
@@ -50,6 +82,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -7096494709882468792
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 5352022366564993562
+                }
+            ],
             "pathId": 9061109772478622520,
             "blockIdx": 4
         },
@@ -59,11 +101,22 @@
             "jpText": "申し訳ありませんでした！　おケガは\r\nありませんか？　心ここにあらずに\nなっちゃって！",
             "enText": "I'm so sorry! Are you hurt, sir? I don't \nknow what's in my heart!",
             "nextBlock": 6,
+            "origClipLength": 101,
             "choices": [
                 {
                     "jpText": "大丈夫！",
                     "enText": "Great man!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -762464059271563836
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -1031415425108204562
                 }
             ],
             "pathId": 1035792366040255038,
@@ -75,11 +128,22 @@
             "jpText": "よかった……安心しました！\r\nよそ見して歩くのはやっぱりだめですね。",
             "enText": "Good… I'm relieved! It's no good walking \naround looking over your shoulder, is it?",
             "nextBlock": 7,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "何か悩み事？",
                     "enText": "What's troubling you?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -4804340241719442292
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5221697510802106745
                 }
             ],
             "pathId": 3227208792162281126,
@@ -91,6 +155,7 @@
             "jpText": "……は、はい、トレーニング……どんな風に\r\nするのが自分に合うか、悩んでしまって……。",
             "enText": "… Yes, I've been struggling to figure out \nhow to… fit in with my training.",
             "nextBlock": 8,
+            "origClipLength": 101,
             "choices": [
                 {
                     "jpText": "1種類を徹底的にやるとか？",
@@ -103,6 +168,20 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 3044179815313965318
+                },
+                {
+                    "origLen": 288,
+                    "pathId": 1182721416841414644
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -4170599656889233722
+                }
+            ],
             "pathId": 7769801075250117566,
             "blockIdx": 7
         },
@@ -112,6 +191,17 @@
             "jpText": "あ、たしかに！　水をやってもすぐに芽は\r\n出ませんからね……。",
             "enText": "Oh, yes, indeed! Watering doesn't make \nthings sprout any quicker…",
             "nextBlock": 9,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 189,
+                    "pathId": 4304231601326831045
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -3346391246560929399
+                }
+            ],
             "pathId": 4267304396542437845,
             "blockIdx": 8
         },
@@ -121,6 +211,17 @@
             "jpText": "つまり『大輪は、1日にして咲かず』\r\nということですね。",
             "enText": "In other words, \"the biggest flower \ndoesn't bloom in a day\".",
             "nextBlock": 10,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 5156806918633296531
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -5367719507729400793
+                }
+            ],
             "pathId": -2546258808380891316,
             "blockIdx": 9
         },
@@ -130,11 +231,22 @@
             "jpText": "いい格言をいただきました！　この言葉は、\r\n後で『チヨノート』にメモしておかなきゃ。",
             "enText": "I've got a good saying! I'll have to write \nit down in my Chiyo Notebook for later.",
             "nextBlock": 11,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "（似たことわざがあったような……）",
                     "enText": "(I think there was a similar saying…)",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": -4997073732017185232
+                },
+                {
+                    "origLen": 178,
+                    "pathId": 1511190772808648570
                 }
             ],
             "pathId": 3523618909686534078,
@@ -146,6 +258,21 @@
             "jpText": "よし、迷わないで、1つだけを\r\nとことんやってみようっと！",
             "enText": "Okay, let's not get lost, let's \njust do one thing at a time!",
             "nextBlock": 12,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -6278999825255252080
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -4504286255386745397
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 6777632090391634794
+                }
+            ],
             "pathId": 47452007914207622,
             "blockIdx": 11
         },
@@ -155,6 +282,17 @@
             "jpText": "ありがとうございます。おかげで\r\nトレーニングに打ち込めそうです！",
             "enText": "Thank you very much. Thanks to you I'll be \nable to get on with my training!",
             "nextBlock": 13,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -3795075868631127014
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1229357202601224481
+                }
+            ],
             "pathId": 1696974182198176115,
             "blockIdx": 12
         },
@@ -164,6 +302,17 @@
             "jpText": "このご恩は一生忘れません！\r\n今度お会いしたときは、必ずやご恩返しを！",
             "enText": "I will never forget this favour! The next \ntime I see you, I will be sure to repay you!",
             "nextBlock": 14,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 1227325866606130207
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 2097943486133640517
+                }
+            ],
             "pathId": -7152197368420078384,
             "blockIdx": 13
         },
@@ -173,6 +322,17 @@
             "jpText": "えへへ。ではまた、お時間のありますときに。\r\n失礼します！",
             "enText": "Ehehe. I'll see you later, when \nI have more time. Excuse me!",
             "nextBlock": 15,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 3175309816362847146
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1364909587094666798
+                }
+            ],
             "pathId": 8185958713327989240,
             "blockIdx": 14
         },
@@ -182,6 +342,17 @@
             "jpText": "サクラチヨノオーはトレーニングジムの方へ\r\n走り去って行った。",
             "enText": "Sakura Chiyono'o ran off in the \ndirection of the training gym.",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 8781306439922655606
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -7103008617220179241
+                }
+            ],
             "pathId": -6897461826306147877,
             "blockIdx": 15
         },
@@ -191,6 +362,21 @@
             "jpText": "あ、なるほど。おっしゃる通り、\r\n合うかどうかは実際に試さないと、\nわからないかも……。",
             "enText": "Oh, I see. As you say, you'll have to try it \nout to see if it fits…",
             "nextBlock": 17,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -7787601616313489809
+                },
+                {
+                    "origLen": 217,
+                    "pathId": 5002730521502768324
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -9045743320743368911
+                }
+            ],
             "pathId": 313393868258462979,
             "blockIdx": 16
         },
@@ -200,6 +386,17 @@
             "jpText": "つまり『実りの種も、数撒きゃ芽吹く』\r\nということですね！",
             "enText": "In other words, if you sow the seeds of \nfruitfulness, they will sprout!",
             "nextBlock": 18,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 7115581726113832373
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -6631478629553322286
+                }
+            ],
             "pathId": 8934646936450344329,
             "blockIdx": 17
         },
@@ -209,11 +406,22 @@
             "jpText": "この格言は、後で『チヨノート』に\r\nメモしておかなきゃ。",
             "enText": "I'll have to make a note of this saying in \nmy Chi-yo notebook for later.",
             "nextBlock": 19,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "（格言というか、当たり前のことのような）",
                     "enText": "(It's not a saying, it's a given)",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 6048351250851119821
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -7265262397713831575
                 }
             ],
             "pathId": 8385372894347096726,
@@ -225,6 +433,21 @@
             "jpText": "よし、学園でできるトレーニングは\r\n全部やってみようっと。",
             "enText": "I'll try to do all the training \nI can at the school.",
             "nextBlock": 20,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 3724210471550352043
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 9003626137992260212
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -8978173563516036241
+                }
+            ],
             "pathId": 1361521675179294795,
             "blockIdx": 19
         },
@@ -234,6 +457,17 @@
             "jpText": "おかげで、霧が晴れました！\r\n気持ちが澄み渡っていくようです。",
             "enText": "Thanks to you, the fog has lifted! My mind \nseems to be clearing up.",
             "nextBlock": 21,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 2317052988515935922
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5313790364381975095
+                }
+            ],
             "pathId": -2610346532477961132,
             "blockIdx": 20
         },
@@ -243,11 +477,22 @@
             "jpText": "このご恩は一生忘れません！\r\n今度お会いしたときは、必ずやご恩返しを！",
             "enText": "I will never forget this favour! The next \ntime I see you, I will be sure to repay you!",
             "nextBlock": 22,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "い、いや、そんな大げさだって",
                     "enText": "No, no, I'm not exaggerating.",
                     "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -3798851775443958810
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8157144968266063294
                 }
             ],
             "pathId": -3936952256671035299,
@@ -259,6 +504,21 @@
             "jpText": "いいえ、そんなことありません。\r\nとっても助かりましたので！",
             "enText": "No, not at all. You've been very helpful!",
             "nextBlock": 23,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8109562738750167614
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 1827344490009054314
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -8878834293489259711
+                }
+            ],
             "pathId": 7348590162779405689,
             "blockIdx": 22
         },
@@ -268,6 +528,17 @@
             "jpText": "遠慮なさらず、なにかあったらいつでも\r\n仰ってくださいね。ぜひ力になりますので！",
             "enText": "Please don't hesitate to tell us if you need \nanything. We'll be happy to help you!",
             "nextBlock": 24,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 3283923120028127952
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -4684147283695567213
+                }
+            ],
             "pathId": 1989459978460407598,
             "blockIdx": 23
         },
@@ -277,6 +548,17 @@
             "jpText": "えへへ、それではまた。失礼します。",
             "enText": "Ehehe, see you then. Excuse me.",
             "nextBlock": 25,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -3189457510409509717
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 2191711218396951137
+                }
+            ],
             "pathId": -5863777239938819149,
             "blockIdx": 24
         },
@@ -286,8 +568,20 @@
             "jpText": "サクラチヨノオーは人懐っこい笑みを\r\n浮かべて去って行った。",
             "enText": "Sakura Chiyono'o left with a \nfriendly smile on her face.",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 7984821484774200778
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6576203741802146047
+                }
+            ],
             "pathId": -9057930115399016,
             "blockIdx": 25
         }
-    ]
+    ],
+    "modified": 1669945973
 }

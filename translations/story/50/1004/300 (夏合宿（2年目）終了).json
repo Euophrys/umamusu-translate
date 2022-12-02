@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "RXEARUF67FRCKVE7JYCR62AO5MNUIJRB",
     "type": "story",
     "storyId": "501004300",
@@ -11,6 +11,17 @@
             "jpText": "マルゼンスキーとの合宿生活も\n今日で終わりを迎える――",
             "enText": "Today marks the end of my training\ncamp with Maruzensky.",
             "nextBlock": 2,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 6250624949009924167
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 6892843360382489426
+                }
+            ],
             "pathId": -6357794513487861992,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "くっ……やっぱり青春って儚いわね。\nもう夏合宿が終わるだなんて……。",
             "enText": "… Youth is so fleeting after all. I can't\nbelieve the summer camp is already over…",
             "nextBlock": 3,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 9192425918799621278
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -2138540727140581289
+                }
+            ],
             "pathId": -2858853432455715099,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "でも、おセンチになってる場合じゃないわ。\nあっという間に『有馬記念』がくるもの。",
             "enText": "But this is no time to be sentimental.\nArima Kinen will be here before\nyou know it.",
             "nextBlock": 4,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -1227319675165232540
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 2432483057563345346
+                }
+            ],
             "pathId": 3673446044684450330,
             "blockIdx": 3
         },
@@ -38,6 +71,17 @@
             "jpText": "最高のレースをするために、\n合宿で培ったことを活かしていきましょ！",
             "enText": "Let's use what we've learned\nat the training camp to have\nthe best race possible!",
             "nextBlock": 5,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 2025937756029022349
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5448509970971658015
+                }
+            ],
             "pathId": 868711501097649582,
             "blockIdx": 4
         },
@@ -47,11 +91,23 @@
             "jpText": "……って、トレーナー君は\nどこに行くつもり？",
             "enText": "Where do you think you're\ngoing, Trainer, with …?",
             "nextBlock": 6,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "バスに乗ろうかと……",
                     "enText": "I was thinking of taking the bus…",
                     "nextBlock": 7
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 73115462952714322
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -4937288995891357812
                 }
             ],
             "pathId": 4785585416368366670,
@@ -63,6 +119,7 @@
             "jpText": "……って、トレーナーちゃんは\nどこに行くつもり？",
             "enText": "Where do you think … is going, Trainer?",
             "nextBlock": 7,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "バスに乗ろうかと……",
@@ -75,6 +132,17 @@
                     "nextBlock": 7
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -4761815016782264263
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -7069985984661427086
+                }
+            ],
             "pathId": 3749564312568898772,
             "blockIdx": 6
         },
@@ -84,6 +152,18 @@
             "jpText": "違うでしょ！　君はあたしと一緒に\nタッちゃんで楽しいドライブ！",
             "enText": "No, you're not! You're coming with\nme for a fun ride in Tacchan!",
             "nextBlock": 8,
+            "origClipLength": 86,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -5615368377940357128
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8397136819305928949
+                }
+            ],
             "pathId": 8597492459370996725,
             "blockIdx": 7
         },
@@ -93,6 +173,18 @@
             "jpText": "違うでしょ！　あなたはあたしと一緒に\nタッちゃんで楽しいドライブ！",
             "enText": "No, you're not! You're coming with\nme for a fun ride in Tacchan! ",
             "nextBlock": 9,
+            "origClipLength": 89,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -1703220392676859912
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 9077898536407663446
+                }
+            ],
             "pathId": -2295144670325060441,
             "blockIdx": 8
         },
@@ -102,8 +194,20 @@
             "jpText": "さあ、帰りも全開バリバリで\nかっ飛ばすわよ～！！",
             "enText": "Now, let's get back on the road\nand go full throttle!",
             "nextBlock": -1,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -3135717483179205597
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 4807957390889388760
+                }
+            ],
             "pathId": 6385220048278665849,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669944906
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CAJ6C6FSJ3QISGFXPKZ5LOKEJYMFYTJC",
     "type": "story",
     "storyId": "501006517",
@@ -11,6 +11,17 @@
             "jpText": "朝、どこかしょんぼりとした様子で歩く\r\nオグリキャップを見かけた。",
             "enText": "In the morning, I saw Oguri Cap walking \naround, looking somewhat dejected.",
             "nextBlock": 2,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 4667418694918058247
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 4897674817774906892
+                }
+            ],
             "pathId": -4825853343847554003,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "くっ……どうして私は、あの時……！",
             "enText": "Damn… why did I, at that time…!",
             "nextBlock": 3,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "何があったんだ？",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -4110670258261889408
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8166929218280104040
+                }
+            ],
             "pathId": -5116590447767356871,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "……今朝、にんじんフルコースが\r\n無限に出てくる夢を見たんだ。",
             "enText": "… I had a dream this morning that there was \nan endless supply of carrots full course.",
             "nextBlock": 4,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 3164074923503490048
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4706687950290644255
+                }
+            ],
             "pathId": -1872713377502602277,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "せっかく、にんじんの山に埋もれながら、\r\n幸せを噛みしめていたのに……。",
             "enText": "I was biting into my happiness while \nburied in a pile of carrots…",
             "nextBlock": 5,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -6644160798523819356
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 2397899374077373488
+                }
+            ],
             "pathId": 368995425964586468,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "目が……覚めてしまった。ごちそうさま\r\nなんてしたくなかったんだ、私は……。",
             "enText": "I woke up… with my eyes wide open. I didn't \nwant to feast, I didn't… want to feast.",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6961750598035830390
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2170873828794392110
+                }
+            ],
             "pathId": 7709352885571150622,
             "blockIdx": 5
         },
@@ -68,8 +123,20 @@
             "jpText": "この後のトレーニング中も、\r\nオグリキャップは物憂げな様子だった。",
             "enText": "Later in the training session, Oguri Cap \nseemed to be in a languid mood.",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -4849429450554475527
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -8907025535193111797
+                }
+            ],
             "pathId": 1988107468131671148,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669944982
 }

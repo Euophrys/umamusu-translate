@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "YNTYQNG3F3ONCBNHF6M3IGCIR2ORN26G",
     "type": "story",
     "storyId": "501030110",
@@ -11,6 +11,7 @@
             "jpText": "ライスシャワーは見事、\r\nトゥインクル・シリーズで\n結果を残すことができた。",
             "enText": "Rice Shower was able to finish \nthe Twinkle Series in style.",
             "nextBlock": 2,
+            "origClipLength": 69,
             "coloredText": [
                 {
                     "jpText": "トゥインクル・シリーズ",
@@ -26,6 +27,7 @@
             "jpText": "とても大事な『最初の3年間』を、\r\n共に乗り切ることができたのだ――",
             "enText": "We were able to get through the very \nimportant \"first three years\" together.",
             "nextBlock": 3,
+            "origClipLength": 67,
             "pathId": 2972495039371459630,
             "blockIdx": 2
         },
@@ -35,6 +37,17 @@
             "jpText": "…………。\r\n……あ。",
             "enText": "… Ah.",
             "nextBlock": 4,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 445053056936431476
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1027260651718319821
+                }
+            ],
             "pathId": -6111641168001022889,
             "blockIdx": 3
         },
@@ -44,11 +57,23 @@
             "jpText": "……おかえりなさい、お兄さま。",
             "enText": "… Welcome back, brother.",
             "nextBlock": 5,
+            "origClipLength": 107,
             "choices": [
                 {
                     "jpText": "ただいま、ライス",
                     "enText": "I'm back, Rice.",
                     "nextBlock": 6
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -2295887618187619554
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -1060629025524913155
                 }
             ],
             "pathId": 7573753328207579210,
@@ -60,11 +85,23 @@
             "jpText": "……おかえりなさい、お姉さま。",
             "enText": "… Welcome back, sister.",
             "nextBlock": 6,
+            "origClipLength": 107,
             "choices": [
                 {
                     "jpText": "ただいま、ライス",
                     "enText": "I'm back, Rice.",
                     "nextBlock": 6
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 6996173798639543130
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 2247512111121833426
                 }
             ],
             "pathId": -8483592693937288315,
@@ -76,6 +113,17 @@
             "jpText": "ふふっ……なんだか\r\nくすぐったいね。",
             "enText": "Hmmm… That kind of tickles.",
             "nextBlock": 7,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 4659085895749395913
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -4657210871172378325
+                }
+            ],
             "pathId": -5904691668716996060,
             "blockIdx": 6
         },
@@ -85,11 +133,22 @@
             "jpText": "……絵本の青いバラも、\r\nこんな気持ちだったのかな。",
             "enText": "I wonder if this is how the blue rose \nin the … picture book felt.",
             "nextBlock": 8,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "バラの気持ち？",
                     "enText": "Rose's feelings?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 2254870007473644038
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 3955559399109919767
                 }
             ],
             "pathId": -8760933006909465904,
@@ -101,6 +160,18 @@
             "jpText": "……うん。えへへ……お兄さま。\r\n『幸せの青いバラ』のお話覚えてる？",
             "enText": "… Yeah. Hehehe… Brother. Do you remember the \nstory of the Blue Rose of Happiness?",
             "nextBlock": 9,
+            "origClipLength": 67,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -8359258268019278648
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 628697583015388473
+                }
+            ],
             "pathId": 3120988984110531598,
             "blockIdx": 8
         },
@@ -110,6 +181,18 @@
             "jpText": "……うん。えへへ……お姉さま。\r\n『幸せの青いバラ』のお話覚えてる？",
             "enText": "… Yeah. Hehehe… sister. Do you remember the \nstory of the Blue Rose of Happiness?",
             "nextBlock": 10,
+            "origClipLength": 67,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 8870036392516501549
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6381880486021489703
+                }
+            ],
             "pathId": 1391125169195614509,
             "blockIdx": 9
         },
@@ -119,6 +202,18 @@
             "jpText": "……青いバラは、お兄さまのおうちの窓辺に\r\n飾られて道ゆく人たちを幸せにしました。",
             "enText": "… blue roses were displayed on the windowsill \nof her brother's house, making people \non the street happy.",
             "nextBlock": 11,
+            "origClipLength": 71,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 659343537803881364
+                },
+                {
+                    "origLen": 267,
+                    "pathId": -139810111867721215
+                }
+            ],
             "pathId": 4552094934699072689,
             "blockIdx": 10
         },
@@ -128,6 +223,18 @@
             "jpText": "……青いバラは、お姉さまのおうちの窓辺に\r\n飾られて道ゆく人たちを幸せにしました。",
             "enText": "… blue roses were displayed on the window \nsill of her sister's house to make people on \nthe street happy.",
             "nextBlock": 12,
+            "origClipLength": 71,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 4987206513790304999
+                },
+                {
+                    "origLen": 145,
+                    "pathId": 9032993109090430854
+                }
+            ],
             "pathId": -5261884792624546278,
             "blockIdx": 11
         },
@@ -137,6 +244,17 @@
             "jpText": "ライスね、3年間でいろんなことを知って\r\n……新しい発見をたくさんしたんだ。\nずっと見てた……この絵本にも。",
             "enText": "Rice, realised a lot in the past three years… \ndisovered many new things. Like this… picture \nbook I've always looked at.",
             "nextBlock": 13,
+            "origClipLength": 100,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 5031616795370071023
+                },
+                {
+                    "origLen": 189,
+                    "pathId": -6378989380780944944
+                }
+            ],
             "pathId": 3191406103345978115,
             "blockIdx": 12
         },
@@ -146,6 +264,21 @@
             "jpText": "いままではバラにとって窓辺は……\r\n“1番見られる場所”だって思ってたの。",
             "enText": "I used to think that the windowsill was… \"the \nbest place for roses to be seen\".",
             "nextBlock": 14,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": 2579664173995368460
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 447023510461120503
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1383159011817500464
+                }
+            ],
             "pathId": -4813244606573855921,
             "blockIdx": 13
         },
@@ -155,6 +288,21 @@
             "jpText": "でもね……きっとバラにとって窓辺は、\r\n“1番見える場所”でもあったんだよね。",
             "enText": "But… I'm sure that the window sill was also \nthe \"best place to see\" for roses.",
             "nextBlock": 15,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1549585035446778968
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -6612436509800299345
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 852005232617416127
+                }
+            ],
             "pathId": 4954513919394781402,
             "blockIdx": 14
         },
@@ -164,6 +312,18 @@
             "jpText": "おうちに帰ってくる、お兄さまの姿が。",
             "enText": "I saw my brother coming home.",
             "nextBlock": 16,
+            "origClipLength": 56,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -1689883764077094360
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 8196728564547869272
+                }
+            ],
             "pathId": -3943484910488495143,
             "blockIdx": 15
         },
@@ -173,6 +333,18 @@
             "jpText": "おうちに帰ってくる、お姉さまの姿が。",
             "enText": "I saw my sister coming home.",
             "nextBlock": 17,
+            "origClipLength": 56,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 4650375732991274879
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -6742262538571831827
+                }
+            ],
             "pathId": -1198635746196354251,
             "blockIdx": 16
         },
@@ -182,6 +354,17 @@
             "jpText": "きっとバラは楽しみに待ってたんだと思う。\r\n……1番大切な人と過ごせる時間を。",
             "enText": "I'm sure the roses were looking forward to \nthe time they could spend with their most \ndearest person…",
             "nextBlock": 18,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -5685529873995475777
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5016010556494547712
+                }
+            ],
             "pathId": -8428830338809335408,
             "blockIdx": 17
         },
@@ -191,6 +374,18 @@
             "jpText": "……ねえ、お兄さま。",
             "enText": "… Hey, brother.",
             "nextBlock": 19,
+            "origClipLength": 51,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 8373842446333403141
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 1111197170872053844
+                }
+            ],
             "pathId": 4688115305479013386,
             "blockIdx": 18
         },
@@ -200,6 +395,18 @@
             "jpText": "……ねえ、お姉さま。",
             "enText": "… Hey, sister.",
             "nextBlock": 20,
+            "origClipLength": 51,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 5395775904974194566
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -3837338014362884649
+                }
+            ],
             "pathId": 2813689627851262859,
             "blockIdx": 19
         },
@@ -209,11 +416,22 @@
             "jpText": "ライスは綺麗に咲けましたか？\r\nまだ飾りたいと……思ってくれますか？",
             "enText": "Did you get a beautiful bloom on your Rice? \nDo you still want to… decorate it?",
             "nextBlock": 21,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "もちろん！",
                     "enText": "Of course!",
                     "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 6931339312920167202
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4004117954012202648
                 }
             ],
             "pathId": 806601400386608056,
@@ -225,6 +443,17 @@
             "jpText": "ふふっ……うれしい……っ。",
             "enText": "Phew… glad…",
             "nextBlock": 22,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 5602386086289400471
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 8572449577967124563
+                }
+            ],
             "pathId": 3094060692726715861,
             "blockIdx": 21
         },
@@ -234,8 +463,20 @@
             "jpText": "ライスも……まだまだ\r\n一緒に咲き続けたい、です……！",
             "enText": "Rice also wants to… continue \nto bloom with you…!",
             "nextBlock": -1,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 130209678687838411
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -4778507327657203144
+                }
+            ],
             "pathId": 654456029108438948,
             "blockIdx": 22
         }
-    ]
+    ],
+    "modified": 1669945541
 }

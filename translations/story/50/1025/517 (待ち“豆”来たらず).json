@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BDRUX5DMH5PLX7VCENEZQNVGU3ZQZTUT",
     "type": "story",
     "storyId": "501025517",
@@ -11,6 +11,17 @@
             "jpText": "…………はぁ。",
             "enText": "… Huh.",
             "nextBlock": 2,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -4942177851061005342
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 2014869215773700739
+                }
+            ],
             "pathId": -6597192522760746814,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "マンハッタンカフェが小さくため息をつく。\r\nどうも落ち込んでいるように見える……。",
             "enText": "Manhattan Cafe lets out a small sigh. She\nseems to be depressed…",
             "nextBlock": 3,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "何かあったのか？",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -1531494514020766578
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 5454627492651736738
+                }
+            ],
             "pathId": 3685452537838838015,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "……スペシャルティコーヒーを\r\n発注していたのですが……\n届くのが大幅に遅れると連絡があって……。",
             "enText": "I had placed an order for… specialty\ncoffee, but… was informed that it\nwould be delivered much later…",
             "nextBlock": 4,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -1261470115983909838
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -8590024362740908552
+                }
+            ],
             "pathId": -7747213290733928748,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "…………はぁ。",
             "enText": "… Huh.",
             "nextBlock": 5,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 26931167067930455
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6926964350842173182
+                }
+            ],
             "pathId": 7724490675003477911,
             "blockIdx": 4
         },
@@ -59,8 +103,20 @@
             "jpText": "よほど落胆したのか、\r\nその日のマンハッタンカフェは\n終始調子が悪そうだった……。",
             "enText": "Perhaps she was so discouraged, Manhattan\nCafe looked out of sorts that day…",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -7373589395729768304
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 4048273597764613623
+                }
+            ],
             "pathId": -5679991281354900115,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669946366
 }

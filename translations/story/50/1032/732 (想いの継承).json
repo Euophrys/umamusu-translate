@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "WZK4RXAJJQYGUZGWF7YL6UYA2LZL3KZZ",
     "type": "story",
     "storyId": "501032732",
@@ -11,6 +11,17 @@
             "jpText": "ふわぁ～。",
             "enText": "Wow.",
             "nextBlock": 2,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -7371384531082325121
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 3211199724448314573
+                }
+            ],
             "pathId": 1459301339825425811,
             "blockIdx": 1
         },
@@ -20,6 +31,21 @@
             "jpText": "……っと、私は何故こんなところにいるんだ？",
             "enText": "… and why am I here?",
             "nextBlock": 3,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 4739720039559087528
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -771057751823978927
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -4317349891725401604
+                }
+            ],
             "pathId": -3139109052433497451,
             "blockIdx": 2
         },
@@ -29,6 +55,21 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 4,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -8659420416133879209
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 6806647976645537982
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 1866279188493625136
+                }
+            ],
             "pathId": 2473086427594919565,
             "blockIdx": 3
         },
@@ -38,8 +79,24 @@
             "jpText": "ふぅン。三女神の像ねぇ……。",
             "enText": "Hmm. Statues of the three\ngoddesses…",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 7318699256521935450
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -4269929575123646094
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 7356937115323273972
+                }
+            ],
             "pathId": 6779460724800437574,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945594
 }

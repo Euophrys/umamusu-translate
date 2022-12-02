@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "GFEKKA5W47GZDXVFXUGHRXB5KQ2S2TSE",
     "type": "story",
     "storyId": "501041507",
@@ -11,6 +11,7 @@
             "jpText": "買い出しに商店街へ行くと……\r\n謎の人だかりができていた。",
             "enText": "When I went to the shopping district\nto buy something, I found… a\nmysterious crowd of people.",
             "nextBlock": 2,
+            "origClipLength": 82,
             "pathId": -3794517419601336246,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "清き一票、ありがとうございます！\r\nありがとうございまーす！",
             "enText": "Thank you for the clean vote!\nThank you so much!",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -2769127293645528449
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 6258018955003444714
+                }
+            ],
             "pathId": 7355116385292482022,
             "blockIdx": 2
         },
@@ -29,11 +41,22 @@
             "jpText": "……ちょいちょーい。\r\nこれ、なんの騒ぎよ？",
             "enText": "… a little bit. What's\nall the fuss about?",
             "nextBlock": 4,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "わからない……",
                     "enText": "Don't know…",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 8825594902082168268
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 6750294219952401914
                 }
             ],
             "pathId": -6023800510817892303,
@@ -45,6 +68,17 @@
             "jpText": "こんなとこで政治家さんの演説中かね？\r\nけっこー盛り上がってるみたいだけど……。",
             "enText": "Is this where the politicians are giving\ntheir speeches? It looks like it's pretty\nexciting…",
             "nextBlock": 5,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -4109539038569758373
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 4236164903404054486
+                }
+            ],
             "pathId": 238106281554077103,
             "blockIdx": 4
         },
@@ -54,11 +88,22 @@
             "jpText": "みなさんの応援に応え、\r\nこれからもバクシンして参ります！",
             "enText": "In response to your support,\nI will continue to Bakushin!",
             "nextBlock": 6,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "ちょ、ちょっと行ってくる！",
                     "enText": "Hey, I'll be right back!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 3168273855102637671
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 7967124010343118199
                 }
             ],
             "pathId": 6869081768237053718,
@@ -70,6 +115,17 @@
             "jpText": "あー……なるほど、正体は学級委員長さんか。\r\n人気者のサガだね～。",
             "enText": "Ah… I see, so your true\nidentity is the class president.\nIt's a saga of popularity!",
             "nextBlock": 7,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 1831318588552366218
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 8578984122360836903
+                }
+            ],
             "pathId": -2042812691635085673,
             "blockIdx": 6
         },
@@ -79,6 +135,7 @@
             "jpText": "おや！　トレーナーさんではないですか！\r\n見てください、この清き一票を！",
             "enText": "Oh! Isn't that your trainer!\nLook at this, a clean vote!",
             "nextBlock": 8,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "……うん、ファンレターだな！",
@@ -91,6 +148,24 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 1056881547130638027
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 3379542910158209152
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 774346012977461604
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -3747703249042889926
+                }
+            ],
             "pathId": 255903717016239479,
             "blockIdx": 7
         },
@@ -100,6 +175,17 @@
             "jpText": "そうとも言いますね！！",
             "enText": "Well, you could say that!",
             "nextBlock": 9,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -5878347491872187121
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 1244945753062920370
+                }
+            ],
             "pathId": -7291264319723643164,
             "blockIdx": 8
         },
@@ -109,11 +195,22 @@
             "jpText": "トレーナーさんにも会えるなんて感動だなぁ！\r\nお2人さん、応援してますよっ！",
             "enText": "I'm so excited to meet your trainer\ntoo! I'm rooting for you both!",
             "nextBlock": 10,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "ありがとうございます！",
                     "enText": "Thank you!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 133,
+                    "pathId": -5020795915669366625
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 7674362229047306634
                 }
             ],
             "pathId": -6867966358594338735,
@@ -125,6 +222,17 @@
             "jpText": "ええ、ええっ！\r\nその期待、必ず応えてみせましょう！",
             "enText": "Yes, yes! I'll make sure I live\nup to your expectations!",
             "nextBlock": 11,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -8763223884093175399
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2253158289898620809
+                }
+            ],
             "pathId": 5340243127668982121,
             "blockIdx": 10
         },
@@ -134,6 +242,21 @@
             "jpText": "バクシン的活躍で！！",
             "enText": "It's a Bakushin-like activity!",
             "nextBlock": 12,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 3830408684604657903
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2929489558201797755
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 1585554196225155549
+                }
+            ],
             "pathId": -370551963924655027,
             "blockIdx": 11
         },
@@ -143,6 +266,21 @@
             "jpText": "おお～～……え？\r\nバクシン的……活躍……？",
             "enText": "Oh~…What? Bakushin-like…\nactivities…?",
             "nextBlock": 13,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 7568853965613483513
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 8990289712760282172
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 3258561990971188476
+                }
+            ],
             "pathId": -8338512068467627772,
             "blockIdx": 12
         },
@@ -152,11 +290,26 @@
             "jpText": "おやおや！　みなさんのその顔！\r\nぜひ見たいと言わんばかりですね！？",
             "enText": "Well, well, well! Those faces of yours!\nYou're just saying you'd love to see it!",
             "nextBlock": 14,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "もう、そのくらいに……",
                     "enText": "That's about as far as I've gotten…",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7203398166901715664
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 2899167949963226496
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 3541390857214947463
                 }
             ],
             "pathId": 369071162345270268,
@@ -168,6 +321,17 @@
             "jpText": "むむむ！？\r\n何を言うんですか、トレーナーさん！",
             "enText": "Mmmm! What are you talking about, trainer!",
             "nextBlock": 15,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 4006323366867566147
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 4772086745197267297
+                }
+            ],
             "pathId": -3103547722731910361,
             "blockIdx": 14
         },
@@ -177,6 +341,17 @@
             "jpText": "マニフェストを実現してこそ、学級委員長！\r\nバクシンしてこそ、優等生！",
             "enText": "Manifestos must be realized, class\npresident! You must be an honors student!",
             "nextBlock": 16,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 4385478776475448081
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -7415525987325216662
+                }
+            ],
             "pathId": -6791192616322352705,
             "blockIdx": 15
         },
@@ -186,6 +361,17 @@
             "jpText": "そして何より、嬉しいから走りたい！！\r\nと言うわけで、早速――",
             "enText": "And most importantly, I want to run because\nI'm happy! So, let's get right to it—",
             "nextBlock": 17,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 1923550366003682782
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 9155867024336465110
+                }
+            ],
             "pathId": -8203299571676241770,
             "blockIdx": 16
         },
@@ -195,6 +381,17 @@
             "jpText": "おや！　そこにいるのはネイチャさんでは！？\r\nなんというタイミング！　なんという好機！",
             "enText": "Oh! I think that's Neycha there! What\ntiming! What an opportunity!",
             "nextBlock": 18,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 67907098763552882
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -7506011714519330785
+                }
+            ],
             "pathId": -4245860161351667306,
             "blockIdx": 17
         },
@@ -204,6 +401,17 @@
             "jpText": "へ？",
             "enText": "Huh?",
             "nextBlock": 19,
+            "origClipLength": 47,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 1219324507110892669
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -1937565092605339748
+                }
+            ],
             "pathId": 93631663680511800,
             "blockIdx": 18
         },
@@ -213,6 +421,25 @@
             "jpText": "お！　ネイちゃんも一緒に走るのか！\r\nいいねいいね、いけいけー！",
             "enText": "Oh! You're running with us, Nei!\nGood, good, good. Go, go, go!",
             "nextBlock": 20,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": 305791744909603984
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -1105129571078658673
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 2651756613803791743
+                },
+                {
+                    "origLen": 155,
+                    "pathId": 3449814460787629071
+                }
+            ],
             "pathId": -5684977923787986195,
             "blockIdx": 19
         },
@@ -222,6 +449,25 @@
             "jpText": "走る！？　いや、なんでアタシまで！？\r\nアタシなんてお呼びじゃないでしょ……！？",
             "enText": "Running! No, why are you running? You don't\nwant me here, do you…?",
             "nextBlock": 21,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 673738654179084305
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -8832107833327691469
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 6037026559396501576
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -1584306758538744100
+                }
+            ],
             "pathId": 1538883863223301285,
             "blockIdx": 20
         },
@@ -231,6 +477,25 @@
             "jpText": "フッフッフッ……いいでしょう！\r\nレースでしのぎを削ってこそのバクシンです！",
             "enText": "Hmmm… is good! Bakushin is only as\ngood as the races she competes in!",
             "nextBlock": 22,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 7196923134860575434
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 8177143441943725848
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 7608439481441694668
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 5789462858953508782
+                }
+            ],
             "pathId": -4467583760707856130,
             "blockIdx": 21
         },
@@ -240,6 +505,25 @@
             "jpText": "では行きますよー！！\r\nバーークシン、バクシーーン！！",
             "enText": "Then let's go! Barksin, Bakshian!",
             "nextBlock": 23,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 7581335427276557223
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 5737308397247880653
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -6976900533752201315
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -14888219861299276
+                }
+            ],
             "pathId": 1415026278137908784,
             "blockIdx": 22
         },
@@ -249,6 +533,17 @@
             "jpText": "ちょ！？　そ、そこのトレーナーさん！？\r\nアンタの担当、なんとかしなって！？",
             "enText": "Hey! Hey, you there, trainer! You're in\ncharge, you need to do something!",
             "nextBlock": 24,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -4299364720354964803
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -8817272501611149155
+                }
+            ],
             "pathId": -7546865782284372790,
             "blockIdx": 23
         },
@@ -258,8 +553,20 @@
             "jpText": "暴走するサクラバクシンオーを\r\n慌てて追いかけ……少し行った先で、\n息切れしたところを確保したのだった。",
             "enText": "She hurriedly chased after the runaway\nSakura Bakushin O… A little further on, she\ncaught her when she ran out of breath.",
             "nextBlock": -1,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": -5427000783880375328
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 4169783447000951746
+                }
+            ],
             "pathId": 3771979802648264761,
             "blockIdx": 24
         }
-    ]
+    ],
+    "modified": 1669945713
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "K32J22WA2QAHHNRJ37I27PKCTAT2OID4",
     "type": "story",
     "storyId": "501061519",
@@ -11,6 +11,17 @@
             "jpText": "購買で買い物をしているキングヘイローを\r\n見かけた。",
             "enText": "I saw King Halo shopping at the store.",
             "nextBlock": 2,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -6453124321707198910
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -6594167473981377856
+                }
+            ],
             "pathId": 1515604149964643978,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "……え、あれ？　穴あけパンチ？\r\n確かプリンを探してたはずなのに……。",
             "enText": "… What, what? A hole punch? I'm pretty \nsure I was looking for pudding…",
             "nextBlock": 3,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -2919605871711428816
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5143967557564843950
+                }
+            ],
             "pathId": 8027959120410377445,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "はあ……お昼も食べ損ねたり、\r\nもう、何やってるのかしら、私……。",
             "enText": "I missed lunch and I don't know \nwhat I'm doing…",
             "nextBlock": 4,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "悩み事？",
                     "enText": "What's bothering you?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 6093976592880101895
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 8622008893366447863
                 }
             ],
             "pathId": 8356736481443537789,
@@ -45,6 +78,17 @@
             "jpText": "あら、トレーナー。\r\n……別に、悩んでるとかじゃないけど。",
             "enText": "Oh, my trainer. It's not that I'm \nbothered by… or anything.",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 2553924365067329320
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6379330719438303001
+                }
+            ],
             "pathId": -5986461431687050051,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "ただ、風邪で休んだ後輩たちを\r\nどう叱ってあげようか考えてただけ。",
             "enText": "I was just thinking about how to scold the \njuniors who were absent with colds.",
             "nextBlock": 6,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -6589109481968770834
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -2480063528037449256
+                }
+            ],
             "pathId": 7955176753007312177,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "まったく、体調管理を怠るなんて\r\nキングの後輩として情けないんだから……。",
             "enText": "It's a shame for a junior member of \nKing's staff to neglect her physical \ncondition…",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -8120163164693180750
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2782083648547195787
+                }
+            ],
             "pathId": -8302763408417496549,
             "blockIdx": 6
         },
@@ -72,6 +138,17 @@
             "jpText": "おかげで、私まで調子が\r\n出ないじゃないの……はぁぁ。",
             "enText": "I'm not in the best of shape thanks \nto this… Haha.",
             "nextBlock": 8,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -3919207228233673461
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -926893231217675411
+                }
+            ],
             "pathId": -3794694699068344024,
             "blockIdx": 7
         },
@@ -81,8 +158,20 @@
             "jpText": "どこか元気のない様子でキングヘイローは\r\n嘆息した。",
             "enText": "King Halo sighed, looking somewhat listless.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -4369281753269264039
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -7594597367325072700
+                }
+            ],
             "pathId": -6750574860781111270,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945936
 }

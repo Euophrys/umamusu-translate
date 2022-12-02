@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "F6EJKNAXBTM4MH2ON5NZASYDGKBFM3LH",
     "type": "story",
     "storyId": "501030729",
@@ -11,6 +11,7 @@
             "jpText": "うぅっ、もうちょっとだったのに、\r\n急にアームがぐらぐらって……。",
             "enText": "Ugh, I was so close, and then suddenly \nthe arm was wobbling…",
             "nextBlock": 2,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "ごめん……",
@@ -23,6 +24,20 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 3553126683853932151
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 285114030330547268
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -1655244817836442927
+                }
+            ],
             "pathId": -7273734747907126259,
             "blockIdx": 1
         },
@@ -32,6 +47,21 @@
             "jpText": "う、ううん、違うの。\r\nきっとライスの不幸のせいだから……！",
             "enText": "No, no, no, no. It must be because \nof Rice's misfortune…!",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -3713880603106028507
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2477432955953666858
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -910025424644570010
+                }
+            ],
             "pathId": -8835447663472733600,
             "blockIdx": 2
         },
@@ -41,6 +71,18 @@
             "jpText": "せっかくお兄さまが、\r\nがんばってくれたのに……。",
             "enText": "After all the hard work your brother put in…",
             "nextBlock": 4,
+            "origClipLength": 77,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -290716623109516340
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 4112619572646191506
+                }
+            ],
             "pathId": 6807007033653472136,
             "blockIdx": 3
         },
@@ -50,6 +92,18 @@
             "jpText": "せっかくお姉さまが、\r\nがんばってくれたのに……。",
             "enText": "Your sister did her best, but…",
             "nextBlock": 5,
+            "origClipLength": 77,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -1133891228794272490
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8343215516984456069
+                }
+            ],
             "pathId": 800844246645436941,
             "blockIdx": 4
         },
@@ -59,6 +113,17 @@
             "jpText": "ライスのほうこそ迷惑かけて、\r\nごめんなさい……っ！",
             "enText": "I'm sorry you're having trouble with Rice…!",
             "nextBlock": 6,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 2602708566854688753
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5094528146607579079
+                }
+            ],
             "pathId": -707605007068627190,
             "blockIdx": 5
         },
@@ -68,8 +133,20 @@
             "jpText": "残念な結果に終わった……。",
             "enText": "A disappointing result…",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 1867531955974023750
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1406621632778989030
+                }
+            ],
             "pathId": 2764999167899442838,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945565
 }

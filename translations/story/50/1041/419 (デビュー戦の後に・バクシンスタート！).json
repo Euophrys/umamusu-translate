@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "NA6CZOEWPM6LPWBOU2LLUYAXM3QVIBBP",
     "type": "story",
     "storyId": "501041419",
@@ -11,6 +11,17 @@
             "jpText": "『メイクデビュー』を果たし、自身の実力を\r\n確信したサクラバクシンオーは、勢いに\n乗ってGⅠレースへと乗り込もうとする。",
             "enText": "After making her \"make-a-debut,\" Sakura\nBakushin-o was convinced of her ability\nand was ready to take the momentum\ninto the G1 race.",
             "nextBlock": 2,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -915103879217614395
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 4822120320968322933
+                }
+            ],
             "pathId": -8412295155264643044,
             "blockIdx": 1
         },
@@ -20,10 +31,21 @@
             "jpText": "だが実績のない彼女はGⅠを走れない！\r\nトレーナーは得意な距離で様子を見るべく、\nそれとなく『京王杯ジュニアS』を勧めた。",
             "enText": "But she was unproven and couldn't run in a\nGrade 1 race! The trainer suggested the Keio\nTrophy Junior Stakes to see how she did over\nher favorite distance.",
             "nextBlock": 3,
+            "origClipLength": 124,
             "coloredText": [
                 {
                     "jpText": "京王杯ジュニアS",
                     "enText": "Keio Cup Junior S"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 6992966303247219080
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -3062195998751839656
                 }
             ],
             "pathId": -2888188848545063494,
@@ -35,6 +57,17 @@
             "jpText": "渋るサクラバクシンオーだが、多くの観客に\r\n彼女のスピードを認知させるべきだと説くと、\n一転してやる気を漲らせる。",
             "enText": "Sakura Bakushin O was reluctant, but when\nI explained to her that she needed\nto make the crowd aware of her speed,\nshe turned on a dime.",
             "nextBlock": 4,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 7551293465288851196
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 8598461262021466428
+                }
+            ],
             "pathId": -5493049954583136710,
             "blockIdx": 3
         },
@@ -44,8 +77,20 @@
             "jpText": "こうしてサクラバクシンオーは次の目標を\r\n『京王杯ジュニアS』に定めるのだった。",
             "enText": "Thus, Sakura Bakushin-o set her next goal as\nthe Keio Haihai Junior S.",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -5375300080440569822
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -294307944442075969
+                }
+            ],
             "pathId": -2142896607363564992,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945711
 }

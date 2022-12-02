@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6M6PRU7LLVZFGB46COIM6B2QYEOQPGZF",
     "type": "story",
     "storyId": "501040712",
@@ -11,6 +11,7 @@
             "jpText": "ゴールドシチーが、\r\nトレーニングに現れなかった。",
             "enText": "Gold City did not show up for training.",
             "nextBlock": 2,
+            "origClipLength": 77,
             "pathId": -3040693050507924096,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "……えーっと、ごめん、トレーナー。",
             "enText": "… Um, sorry, trainer.",
             "nextBlock": 3,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -4808356468277458915
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -3994104301294298504
+                }
+            ],
             "pathId": -2642932923360976160,
             "blockIdx": 2
         },
@@ -29,6 +41,17 @@
             "jpText": "よく行くショップから、\r\n『新作入ったよ』って連絡があって……。",
             "enText": "I got a call from a store I frequent saying, \n\"New items have arrived…",
             "nextBlock": 4,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": -559439104250759378
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 3226436024014364454
+                }
+            ],
             "pathId": 1773384676336177354,
             "blockIdx": 3
         },
@@ -38,6 +61,17 @@
             "jpText": "コーデの話してたら盛り上がっちゃって、\r\n時間過ぎてたの、気づかなかったんだ……。",
             "enText": "We were talking about coords and got \nso excited that I didn't realize the \ntime had passed…",
             "nextBlock": 5,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -1577030796349721487
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -8561069414161934599
+                }
+            ],
             "pathId": -7255379061315183039,
             "blockIdx": 4
         },
@@ -47,8 +81,20 @@
             "jpText": "再び『ごめんなさい』と頭を下げる\r\nゴールドシチーに、次から気をつけるよう、\nしっかり注意した。",
             "enText": "Gold City bowed her head and \nsaid, \"I'm sorry,\" again.",
             "nextBlock": -1,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 5026247313017835578
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 8361537544496857005
+                }
+            ],
             "pathId": 2899131772092848494,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945691
 }

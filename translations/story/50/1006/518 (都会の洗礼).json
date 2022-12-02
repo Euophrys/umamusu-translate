@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "VL6JGXCSNADTTADY3D33BVEJ6MORJWUK",
     "type": "story",
     "storyId": "501006518",
@@ -11,6 +11,21 @@
             "jpText": "くっ……はぁ……はぁ……っ！",
             "enText": "Damn… is… is… is…!",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -7631017056407603144
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 2748896530009467541
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -563259901657124874
+                }
+            ],
             "pathId": -8664453234827960236,
             "blockIdx": 1
         },
@@ -20,6 +35,7 @@
             "jpText": "オグリキャップの調子が悪そうだ。\r\n顔色もあまり良くない。",
             "enText": "Oguri Cap is not looking well. Her complexion \ndidn't look good either.",
             "nextBlock": 3,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "大丈夫か？",
@@ -32,6 +48,20 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -1940956233176141711
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -8927723667900593562
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 5451020583497020215
+                }
+            ],
             "pathId": -4692478075142740277,
             "blockIdx": 2
         },
@@ -41,6 +71,21 @@
             "jpText": "ん……。タマと早朝限定メニューのある\r\nスイーツ店に行ったんだが……。",
             "enText": "I'm sure you'll like it… Tama and \nI went to a sweet store that had a \nspecial early morning menu…",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8879336663146135892
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 4979010588764234553
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8643947374334629830
+                }
+            ],
             "pathId": 6070043888922100229,
             "blockIdx": 3
         },
@@ -50,6 +95,17 @@
             "jpText": "その行き帰りで満員電車に遭遇してな。",
             "enText": "On the way there and back, I encountered \na crowded train.",
             "nextBlock": 5,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -682021103243644400
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 2936134002556834856
+                }
+            ],
             "pathId": -3813255671941889923,
             "blockIdx": 4
         },
@@ -59,6 +115,17 @@
             "jpText": "あまりの人の多さと、車内の息苦しさに\r\n気分が悪くなってしまった……。",
             "enText": "Too many people and the suffocating \natmosphere in the car made me feel sick…",
             "nextBlock": 6,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 6967386344297048894
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -2098715259280848031
+                }
+            ],
             "pathId": 6471762986903352073,
             "blockIdx": 5
         },
@@ -68,8 +135,20 @@
             "jpText": "思わぬ気疲れをしたせいか、\r\n今日のオグリキャップはバテ気味だった。",
             "enText": "Perhaps it was because she was unexpectedly \ntired, but today Oguri-cap looked exhausted.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -3967063043278633222
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -5804589046536475574
+                }
+            ],
             "pathId": -5726093796339462082,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669944982
 }

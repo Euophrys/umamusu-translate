@@ -1,8 +1,8 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "RUZMAJ3T56XKIK47Y5TTAHKC3GD4SOBM",
     "type": "story",
-    "storyId": "501008709",
+    "storyId": "501008709 ",
     "title": "レース入着",
     "text": [
         {
@@ -11,6 +11,17 @@
             "jpText": "ふぅ……！　入着だ。\r\n掲示板に載ったぞ、トレーナー。",
             "enText": "Phew…! Incoming. You're \non the board, trainer.",
             "nextBlock": 2,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 8839704450291332901
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 3908644185103923802
+                }
+            ],
             "pathId": 8834206468678313590,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "まあ、悪くはねぇって感じだけどよ。\r\nやっぱり欲を言っちまえば――",
             "enText": "Well, it's not bad, but… \nBut if I wanted to…",
             "nextBlock": 3,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -6556113510924652270
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 130188856244219772
+                }
+            ],
             "pathId": 7463215836347308146,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "ぶっちぎりの1着でゴールして、\r\n文句ナシにカッコよく決めたかったぜ。",
             "enText": "I wanted to finish in first place \nby a landslide and make a cool decision \nwithout complaining.",
             "nextBlock": 4,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "充分カッコよかったぞ！",
@@ -44,6 +67,17 @@
                     "jpText": "次こそ1着を取ろう",
                     "enText": "Next time, I'll take first place.",
                     "nextBlock": 9
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -9130675850101769175
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -6192817574194415006
                 }
             ],
             "pathId": 8692557177995096259,
@@ -55,6 +89,7 @@
             "jpText": "ぶっちぎりの1着でゴールして、\r\n文句ナシにカッコよく決めたかったぜ。",
             "enText": "I wanted to finish in first place \nby a landslide and make a cool decision \nwithout complaining.",
             "nextBlock": 5,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "充分カッコよかったぞ！",
@@ -72,6 +107,17 @@
                     "nextBlock": 9
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 6344431625355518260
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 6127104462101078931
+                }
+            ],
             "pathId": 7686593511081648767,
             "blockIdx": 4
         },
@@ -81,6 +127,17 @@
             "jpText": "そ、そうか？\r\nふーん……。",
             "enText": "Oh, really? Hmmm…",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -2316011800360459659
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 772311078890760088
+                }
+            ],
             "pathId": -3520577593334712709,
             "blockIdx": 5
         },
@@ -90,11 +147,22 @@
             "jpText": "まあ……そう言われちまったら、\r\nもーちょい胸張っていいのかもな。",
             "enText": "Well… if you put it that way, I guess \nI should be a little more proud.",
             "nextBlock": 7,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "うんうん！",
                     "enText": "Yeah, yeah!",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -8703940887620789634
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -4998465308151992561
                 }
             ],
             "pathId": 6884542471751603592,
@@ -106,6 +174,17 @@
             "jpText": "はは、わかったっつーの。\r\nそんじゃ改めて――",
             "enText": "Haha, I get it. So, once again—",
             "nextBlock": 8,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 3885632669377953452
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 9088106230391507162
+                }
+            ],
             "pathId": -6569246964516031984,
             "blockIdx": 7
         },
@@ -115,6 +194,17 @@
             "jpText": "やったぞ、トレーナー！\r\nこれからも期待しててくれ！",
             "enText": "We did it, trainer! Keep up the good work!",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -8054089910628438280
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1297537478666630161
+                }
+            ],
             "pathId": 8823411806538620839,
             "blockIdx": 8
         },
@@ -124,6 +214,17 @@
             "jpText": "ふん……言われるまでもねぇ。\r\nもちろんそのつもりだっつーの！",
             "enText": "I don't need to be told… \nOf course you're going to!",
             "nextBlock": 10,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -244674306567123129
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 8314572637339695763
+                }
+            ],
             "pathId": 424129121382304931,
             "blockIdx": 9
         },
@@ -133,11 +234,22 @@
             "jpText": "今の俺に足りねぇモンは、\r\nこのレースでバッチリわかったしな！",
             "enText": "This race has taught me exactly \nwhat I'm lacking now!",
             "nextBlock": 11,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "頼もしい……！",
                     "enText": "You can count on…!",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -3669797026662734511
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5083265690650467280
                 }
             ],
             "pathId": 4796877173788090066,
@@ -149,6 +261,17 @@
             "jpText": "おう、そーだろそーだろ！\r\nせいぜい大船に乗ったつもりでいやがれ！",
             "enText": "Oh, yeah, yeah, yeah! You think you're \non a big boat, don't you!",
             "nextBlock": 12,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 4891398969357810011
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -6875186029461424724
+                }
+            ],
             "pathId": -9196859804618014721,
             "blockIdx": 11
         },
@@ -158,8 +281,20 @@
             "jpText": "次のレースこそ、必ず――\r\n最高にカッコいい俺を見せてやるッ！！",
             "enText": "Next race, I'll show you the best looking me!",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -8599317386559965612
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 4929335254332481675
+                }
+            ],
             "pathId": 827498785166125786,
             "blockIdx": 12
         }
-    ]
+    ],
+    "modified": 1669945050
 }

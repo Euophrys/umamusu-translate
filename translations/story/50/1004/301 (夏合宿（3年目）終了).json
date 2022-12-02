@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "5Q6STXBRWP6AKQXV3EXDPBZ6UOPLX5W7",
     "type": "story",
     "storyId": "501004301",
@@ -11,6 +11,7 @@
             "jpText": "今日で合宿も終わり、ウマ娘たちは\n名残惜しそうに帰りのバスへと乗り込む――",
             "enText": "The training camp is over, and the girls\nare boarding the bus to go home.",
             "nextBlock": 2,
+            "origClipLength": 94,
             "pathId": -8735307043133941259,
             "blockIdx": 1
         },
@@ -20,11 +21,22 @@
             "jpText": "あっ、見つけた！",
             "enText": "Oh, I found it!",
             "nextBlock": 3,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "見つかった……！！",
                     "enText": "Found it: …!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 3788281118651706013
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -3262542629840858318
                 }
             ],
             "pathId": -8112861493013118702,
@@ -36,6 +48,18 @@
             "jpText": "なんで毎年バスに乗り込もうとするのよ！\nトレーナー君はバスじゃないでしょ！",
             "enText": "Why do you have to try to get on the bus\nevery year? You're not a bus, trainer!",
             "nextBlock": 4,
+            "origClipLength": 94,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 4603399857515491469
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1581610569712246903
+                }
+            ],
             "pathId": 7995437873172749463,
             "blockIdx": 3
         },
@@ -45,6 +69,18 @@
             "jpText": "なんで毎年バスに乗り込もうとするのよ！\nトレーナーちゃんはバスじゃないでしょ！",
             "enText": "Why do you have to try to get on the bus\nevery year? You're not a bus, trainer! ",
             "nextBlock": 5,
+            "origClipLength": 97,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 4625089160469892937
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 1905535722592165805
+                }
+            ],
             "pathId": -1743904868974123016,
             "blockIdx": 4
         },
@@ -54,6 +90,17 @@
             "jpText": "タッちゃんで最高の風を受けながら\n帰るまでが合宿なんだから！",
             "enText": "It's a training camp until we get back to\nTacchan with the best wind in the world!",
             "nextBlock": 6,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -2623318523154172917
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5940936850201620449
+                }
+            ],
             "pathId": 4063539879284985329,
             "blockIdx": 5
         },
@@ -63,6 +110,17 @@
             "jpText": "ほら、急がないと出遅れちゃうっ！\n帰りも大差勝ちするわよ～！",
             "enText": "Come on, hurry up or we'll be late! We'll\nwin by a landslide on the way back!",
             "nextBlock": 7,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 2642577826456483173
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 6490389397967971001
+                }
+            ],
             "pathId": 3682662882173687642,
             "blockIdx": 6
         },
@@ -72,8 +130,20 @@
             "jpText": "こうして、充実した合宿は無事（？）に\n締めくくられたのだった。",
             "enText": "And so, the fruitful training camp was\nsafely (?) concluded. The camp was\nsuccessfully (?) concluded.",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -2278346518832590285
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8579802461139299735
+                }
+            ],
             "pathId": -7728940450776437286,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669944906
 }

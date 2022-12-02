@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "UESMHUFATABC6T5OHZJOP76ILIHJYEGZ",
     "type": "story",
     "storyId": "501006500",
@@ -11,6 +11,21 @@
             "jpText": "トレーニングの休憩中、オグリキャップが\r\n後輩のウマ娘と話をしている。",
             "enText": "During a training break, Oguri-cap is \ntalking to a younger horse girl.",
             "nextBlock": 2,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 205817386739463302
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8256630939152801697
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 3690128127277969384
+                }
+            ],
             "pathId": -5579871584504826828,
             "blockIdx": 1
         },
@@ -20,11 +35,26 @@
             "jpText": "オグリ先輩、ありがとうございました。\r\nでは、失礼します！",
             "enText": "Thank you very much, Oguri-senpai. \nNow, if you'll excuse me!",
             "nextBlock": 3,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "今のは？",
                     "enText": "What was that?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -3102474645465452513
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3522162571265063650
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -5435933706375065368
                 }
             ],
             "pathId": 4735402215774785045,
@@ -36,6 +66,21 @@
             "jpText": "走り方について、相談を受けていたんだ。",
             "enText": "I've been consulting with \nher about how to run.",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 2246167225686836863
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 6549456448567198503
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2356194227140008975
+                }
+            ],
             "pathId": 1011841625761416956,
             "blockIdx": 3
         },
@@ -45,6 +90,17 @@
             "jpText": "誰かに何かを伝えるのは苦手だが、最近は\r\n前より……うん、少しは話せるようになった。",
             "enText": "I'm not very good at communicating anything \nto anyone, but lately I've been able to talk \na little more… than before.",
             "nextBlock": 5,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -1795334309013973847
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7726110916019249789
+                }
+            ],
             "pathId": -7077567277438399905,
             "blockIdx": 4
         },
@@ -54,6 +110,17 @@
             "jpText": "そのおかげか、いまのようにアドバイスを\r\n求められることも増えてきたと思う。",
             "enText": "Perhaps because of this, I have been asked \nfor advice more often than I am now.",
             "nextBlock": 6,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 9148199291600241323
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 212128797978144429
+                }
+            ],
             "pathId": 8869477992268927487,
             "blockIdx": 5
         },
@@ -63,6 +130,17 @@
             "jpText": "トレーナーがいつも、私の話をきちんと\r\n聞いてくれたからだな。……ありがとう。",
             "enText": "I think it's because my trainer always \nlistened to me. Thank you…",
             "nextBlock": 7,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -8797177305090798763
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 5785981491334158342
+                }
+            ],
             "pathId": -300222134603742298,
             "blockIdx": 6
         },
@@ -72,8 +150,20 @@
             "jpText": "オグリキャップのはにかんだ笑みを見て、\r\n改めて彼女のトレーナーで良かったと\n実感した。",
             "enText": "Seeing Oguri-cap's beaming smile, I realized \nhow lucky I was to have her as my trainer.",
             "nextBlock": -1,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 8810219347932892784
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -2801561494627373035
+                }
+            ],
             "pathId": 2509951203378006294,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669944978
 }

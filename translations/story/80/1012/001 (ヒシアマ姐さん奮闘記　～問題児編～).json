@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CNLG7HVZN2HATLKGCREMXJIZO5NBYG24",
     "type": "story",
     "storyId": "801012001",
@@ -11,6 +11,7 @@
             "jpText": "ウマ娘たちの\r\nトレーニング風景を眺めていると、\nヒシアマゾンに声をかけられた。",
             "enText": "While I was watching the Uma Musume \ntraining, I was approached by Hishi Amazon.",
             "nextBlock": 2,
+            "origClipLength": 97,
             "pathId": -8025858213494101665,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "あぁ、アンタ！\r\nスカイの奴を見なかったかい？",
             "enText": "Oh, you! Have you seen Skye?",
             "nextBlock": 3,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "いや、見てないけど……",
@@ -32,6 +34,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 162,
+                    "pathId": -7684510081496585467
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -5728662971599353821
+                }
+            ],
             "pathId": -7850700749979680724,
             "blockIdx": 2
         },
@@ -41,6 +53,17 @@
             "jpText": "そうか。\r\n……アイツまた、補習中に\n逃げ出したみたいなんだよ。",
             "enText": "Oh, yeah… I think she's run off \nduring remedial work again.",
             "nextBlock": 4,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -356629760868559609
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -5522978469490653174
+                }
+            ],
             "pathId": -7132821354587036952,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "だから、美浦の寮長として\r\nお灸をすえてやろうと思ってね。",
             "enText": "So, as the head of the dormitory at Miura, I \nthought I'd give her a good beating.",
             "nextBlock": 5,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 4738990050888681657
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3054968921364535528
+                }
+            ],
             "pathId": -9083896811563721784,
             "blockIdx": 4
         },
@@ -59,6 +93,7 @@
             "jpText": "……って、いた！　スカイだ！\r\nさーて、どうやって捕まえるか。",
             "enText": "There she is…! It's Skye! Well, \nhow do we catch her?",
             "nextBlock": 6,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "挟み撃ちにして捕まえよう",
@@ -71,6 +106,20 @@
                     "nextBlock": 11
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 4076845161633912124
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 1676434981783856371
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -6061786251520672716
+                }
+            ],
             "pathId": 2279467827253990822,
             "blockIdx": 5
         },
@@ -80,6 +129,17 @@
             "jpText": "正面から追いかけるのではなく、挟み撃ちを\r\nした方が有効だろうと提案してみた。",
             "enText": "I suggested that it would be more \neffective to use a pincer movement \nrather than a head-on chase.",
             "nextBlock": 7,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 1828956554073032483
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 2940040534144867374
+                }
+            ],
             "pathId": 6436287755491190783,
             "blockIdx": 6
         },
@@ -89,6 +149,17 @@
             "jpText": "そうだな。\r\n美浦寮の奴らに手伝ってもらって、\nさっさと捕まえてくるよ！",
             "enText": "Yeah, that's right. I'll get the guys from \nthe Miura dormitory to help me get her.",
             "nextBlock": 8,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 6735297055178981727
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -3294371648380582469
+                }
+            ],
             "pathId": -2492722242226400146,
             "blockIdx": 7
         },
@@ -98,6 +169,17 @@
             "jpText": "うぉぉぉぉぉーーー！！\r\nサボリはヒシアマ姐さんが許さないよ！",
             "enText": "Oooohhh! Miss Hishiama won't \nlet you skip out!",
             "nextBlock": 9,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 7002565899709257964
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 8545350435067527175
+                }
+            ],
             "pathId": -8241744219635753895,
             "blockIdx": 8
         },
@@ -107,6 +189,7 @@
             "jpText": "セイウンスカイは挟み撃ちも想定していた\r\nようだが、三重にも四重にも張られた\nウマ娘の包囲網に対し、ついに音を上げた。",
             "enText": "Seiunsukai had been expecting a pincer \nattack, but she finally gave in to \nthe triple and quadruple encirclement \nof the Uma Musume.",
             "nextBlock": 10,
+            "origClipLength": 121,
             "pathId": 2862682532461965492,
             "blockIdx": 9
         },
@@ -116,6 +199,7 @@
             "jpText": "今回の件はセイウンスカイにとって\r\nお灸にもなり、ある種のトレーニングにも\nなったのではないだろうか。",
             "enText": "It was a good opportunity for her to get \nsome training and a bit of moxibustion.",
             "nextBlock": -1,
+            "origClipLength": 111,
             "pathId": 3990029530607431532,
             "blockIdx": 10
         },
@@ -125,6 +209,17 @@
             "jpText": "セイウンスカイがコースまで逃げてくるよう\r\n誘導し、そのまま追いかけっこを続ければ、\n併走トレーニングになるだろうと話した。",
             "enText": "She said that if she could get Seiun Sky to \nrun away to the track and continue to chase \nher, they could train together.",
             "nextBlock": 12,
+            "origClipLength": 125,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 1837402961417654916
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -7495224225595718515
+                }
+            ],
             "pathId": -5378482866209702416,
             "blockIdx": 11
         },
@@ -134,6 +229,17 @@
             "jpText": "必ずしも捕まえる必要はないってことか。\r\n……よーし、乗った！",
             "enText": "So you don't necessarily have to \ncatch them? … Alright, I'm in!",
             "nextBlock": 13,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -7834185478866870928
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7205213317106819766
+                }
+            ],
             "pathId": 6232468895545655123,
             "blockIdx": 12
         },
@@ -143,6 +249,17 @@
             "jpText": "くぉらぁぁぁぁ、スカイ！！\r\n待ちやがれぇぇぇ！！",
             "enText": "Oh, my God, Skye! Wait for me, you bastard!",
             "nextBlock": 14,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -332483428198660351
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -7578459269800866457
+                }
+            ],
             "pathId": -4328454283201204862,
             "blockIdx": 13
         },
@@ -152,8 +269,10 @@
             "jpText": "それからしばらくヒシアマゾンたちの\r\n鬼ごっこは続き、やがて意図に気づいた\nセイウンスカイはひどく悔しがったという。",
             "enText": "They played tag for a while, and when Seiun \nSky realised what they were up to, she was \nvery disappointed.",
             "nextBlock": -1,
+            "origClipLength": 120,
             "pathId": 4477322151545849455,
             "blockIdx": 14
         }
-    ]
+    ],
+    "modified": 1669946164
 }

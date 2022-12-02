@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "UPT4VGTJKPLHTC44NI5QTK6DEFBQZHZ3",
     "type": "story",
     "storyId": "501025420",
@@ -11,6 +11,17 @@
             "jpText": "見事『日本ダービー』を\r\n制覇したマンハッタンカフェ。",
             "enText": "Manhattan Cafe is the winner\nof the Japan Derby.",
             "nextBlock": 2,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -6223664404767304332
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 7537890930138829411
+                }
+            ],
             "pathId": 8777334511162564880,
             "blockIdx": 1
         },
@@ -20,6 +31,33 @@
             "jpText": "同時に体にかかった大きな負担。\r\nトレーナーは、アグネスタキオンと共に\n手厚くケアする……。",
             "enText": "At the same time, a great burden was placed\non the body. The trainer will take good care\nof you along with Agnes Tachyon…",
             "nextBlock": 3,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 4338988424776969505
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 9147643835702084533
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 716086906655095521
+                },
+                {
+                    "origLen": 217,
+                    "pathId": 8265081843048615874
+                },
+                {
+                    "origLen": 166,
+                    "pathId": -6477782417403297024
+                },
+                {
+                    "origLen": 217,
+                    "pathId": 6827439979719612355
+                }
+            ],
             "pathId": -8961599422355403088,
             "blockIdx": 2
         },
@@ -29,8 +67,28 @@
             "jpText": "結果、大事には至らず\r\n秋のレースへ希望が持てたのだった。",
             "enText": "As it turned out, nothing serious happened,\nand I had hope for the fall races.",
             "nextBlock": -1,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 169,
+                    "pathId": -1688198472238133314
+                },
+                {
+                    "origLen": 217,
+                    "pathId": -2007092891314099720
+                },
+                {
+                    "origLen": 166,
+                    "pathId": -2571102013696011340
+                },
+                {
+                    "origLen": 217,
+                    "pathId": -9132523534137272403
+                }
+            ],
             "pathId": 8529345308355913076,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669946361
 }

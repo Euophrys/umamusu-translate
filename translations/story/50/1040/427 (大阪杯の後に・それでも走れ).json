@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ACO3HX7R3KSJGAXGAMCY3LMR7PCR62EF",
     "type": "story",
     "storyId": "501040427",
@@ -11,6 +11,17 @@
             "jpText": "『大阪杯』を走り終えたゴールドシチー。\n彼女の走りは観客を感嘆させたが、\nゴールドシチーの胸にはわだかまりがあった。",
             "enText": "Gold City finished running the \"Osaka \nCup. Although her performance left the \naudience in awe, Gold City had a nagging \nfeeling in her heart.",
             "nextBlock": 2,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 191,
+                    "pathId": -6410531943251937166
+                },
+                {
+                    "origLen": 197,
+                    "pathId": -5493191992487723513
+                }
+            ],
             "pathId": 7590641897821619027,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "レース後、マネージャーはゴールドシチーに\n今のあなたは美しくない、空っぽだと告げた。\nそして、走るのをやめるよう提案する。",
             "enText": "After the race, the manager told Gold City \nthat you are not beautiful now, that \nyou are empty. She then suggests that \nyou stop running.",
             "nextBlock": 3,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 180,
+                    "pathId": -7670943020729976883
+                },
+                {
+                    "origLen": 174,
+                    "pathId": 6398423874145566294
+                }
+            ],
             "pathId": -5998370101198229557,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "だが、トレーナーは本人が『やめたい』と\n言うまでは走らせるべきだと反論した。\n今やめたら、きっと後悔する――",
             "enText": "However, the trainer countered that \nshe should let her run until she said \nshe wanted to quit. If she stops now, \nshe will regret it.",
             "nextBlock": 4,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": 468725964868910466
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -5010963487328296757
+                }
+            ],
             "pathId": 9159808980282593454,
             "blockIdx": 3
         },
@@ -38,14 +71,26 @@
             "jpText": "ゴールドシチーは、自分の未来は自分で\n決めると宣言。『天皇賞（春）』までに\n空っぽの部分を埋めるため動き出すのだった。",
             "enText": "Gold City declares that she will \ndecide her own future and sets out to fill \nthe empty space before the spring Tennou Sho.",
             "nextBlock": -1,
+            "origClipLength": 121,
             "coloredText": [
                 {
                     "jpText": "天皇賞（春）",
                     "enText": "Tennou-sho (Spring)"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": 8609770372471845533
+                },
+                {
+                    "origLen": 170,
+                    "pathId": 2608211652671881791
+                }
+            ],
             "pathId": 8704746519106116861,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945681
 }

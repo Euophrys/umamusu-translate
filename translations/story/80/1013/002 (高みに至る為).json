@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "VSCY3OQRQ5GVENUHJNYJFSM47WSJDXEQ",
     "type": "story",
     "storyId": "801013002",
@@ -11,6 +11,7 @@
             "jpText": "ある日トレーニングコースにやってくると――",
             "enText": "One day you come to a training course…",
             "nextBlock": 2,
+            "origClipLength": 84,
             "pathId": -8586923556160367032,
             "blockIdx": 1
         },
@@ -20,6 +21,21 @@
             "jpText": "ううん、他になにか\r\n改善できそうなところは……。",
             "enText": "No, I don't think there's anything \nelse that could be improved…",
             "nextBlock": 3,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 824571045997189398
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -3904272564731967569
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -2212295946088337413
+                }
+            ],
             "pathId": 5710770001030963934,
             "blockIdx": 2
         },
@@ -29,11 +45,26 @@
             "jpText": "――あら、ごきげんよう。\r\n少しお時間よろしいでしょうか？",
             "enText": "—Good day to you, sir. May I \nhave a moment of your time?",
             "nextBlock": 4,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "大丈夫だよ",
                     "enText": "You'll be fine.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -116502812636701547
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 2103559658971053202
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 5264649811499218779
                 }
             ],
             "pathId": -3857714604123799869,
@@ -45,6 +76,17 @@
             "jpText": "実は最近、記録が伸び悩んでいるんです。\r\nしかし、対策がなかなか思いつかず……。",
             "enText": "Actually, my record has been sluggish \nlately. However, it's hard to come \nup with a solution…",
             "nextBlock": 5,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7798037463375805735
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 4860009069368224975
+                }
+            ],
             "pathId": 3419951810243780788,
             "blockIdx": 4
         },
@@ -54,6 +96,7 @@
             "jpText": "もし貴方が担当ウマ娘にアドバイスするなら、\r\nどんなことを言いますか？",
             "enText": "If you were to give advice to your horse \ngirl, what would you say?",
             "nextBlock": 6,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "スタミナと根性を鍛える",
@@ -66,6 +109,16 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 6862758908663200910
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -4182516610838308329
+                }
+            ],
             "pathId": 8442029799025935012,
             "blockIdx": 5
         },
@@ -75,6 +128,17 @@
             "jpText": "スタミナと根性……ですか。\r\n今までも意識していたつもりでしたが――",
             "enText": "Is it stamina and guts…? I thought I was \naware of this before, but…",
             "nextBlock": 7,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 3855106033103541786
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5386838333347846898
+                }
+            ],
             "pathId": 9097799213461980689,
             "blockIdx": 6
         },
@@ -84,6 +148,17 @@
             "jpText": "確かに、いくら鍛えても\r\n十分だということはありませんものね。",
             "enText": "It's true that no amount of \ntraining is ever enough.",
             "nextBlock": 8,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -1277398117468352095
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -3238923430699295402
+                }
+            ],
             "pathId": -7984058397970113242,
             "blockIdx": 7
         },
@@ -93,6 +168,17 @@
             "jpText": "アドバイスいただきありがとうございます。\r\n早速トレーニングしてみますわ！",
             "enText": "Thank you for your advice. I'll get on with \nmy training straight away!",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 6707370894121769062
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 1920460708404571481
+                }
+            ],
             "pathId": -1928975443772167061,
             "blockIdx": 8
         },
@@ -102,6 +188,17 @@
             "jpText": "……スタートダッシュ、ですか。\r\n確かにそんなに強く意識していませんでした。",
             "enText": "… A good start, eh? I'm sure I didn't \nthink of it that strongly.",
             "nextBlock": 10,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -4493904314185383853
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -6347662378622120051
+                }
+            ],
             "pathId": 5753052593792435506,
             "blockIdx": 9
         },
@@ -111,6 +208,17 @@
             "jpText": "ですが、より高みを目指すにはスタートから\r\nレース展開を考えるのも必要かもしれません。",
             "enText": "However, to get to the next level, you need \nto think about the race from the start.",
             "nextBlock": 11,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 6670989762216576923
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -4509764910666893972
+                }
+            ],
             "pathId": -3646819319415401943,
             "blockIdx": 10
         },
@@ -120,8 +228,20 @@
             "jpText": "アドバイスいただきありがとうございます。\r\n早速トレーニングに組み込みますわ！",
             "enText": "Thanks for the advice. I'll incorporate that \ninto my training as soon as I can!",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -1834323271444470374
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 5581015885013247048
+                }
+            ],
             "pathId": -4510596702743444490,
             "blockIdx": 11
         }
-    ]
+    ],
+    "modified": 1669945949
 }

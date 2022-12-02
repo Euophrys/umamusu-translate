@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DGRTIKEF466DI4OWRBUZKJCB62YBUXTV",
     "type": "story",
     "storyId": "501040718",
@@ -11,6 +11,17 @@
             "jpText": "おはよ、トレーナー。\r\n昨日ぶり。",
             "enText": "Good morning, trainer. It's been \na while since yesterday.",
             "nextBlock": 2,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 1837499083802575615
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -5638399638105206244
+                }
+            ],
             "pathId": -7875152955495205317,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "おかげさまで、体の調子はいい感じだよ。\r\nっつーことで今日は追い込んでくれる？",
             "enText": "Thanks to you, my body feels great. \nSo, will you push me today?",
             "nextBlock": 3,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 4299736045595745626
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 3840995066726070291
+                }
+            ],
             "pathId": -1757120892031773007,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "絶対、この前よりいい結果残してやるしっ！",
             "enText": "I'm going to do better than \nlast time for sure!",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 4852598692099061874
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 3988351155200832103
+                }
+            ],
             "pathId": 7878721178272000290,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945692
 }

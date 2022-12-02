@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "RRFAIFNIMFPJ4XH2OYBN6NRTN4TH2U5T",
     "type": "story",
     "storyId": "501040713",
@@ -11,6 +11,17 @@
             "jpText": "練習中、ケガを負ったゴールドシチーの\r\n手当てを終えると――",
             "enText": "After treating Goldschy, who was injured \nduring a practice session.",
             "nextBlock": 2,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -2747708655546394965
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -1538681229309346321
+                }
+            ],
             "pathId": -3164104426841575022,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "ありがと、トレーナー。たいしたこと\r\nなかったし、練習戻ろ。時間がもったいない。",
             "enText": "Thanks, trainer. It was nothing \nserious, let's go back to practice. \nIt's a waste of time.",
             "nextBlock": 3,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -447090896784954552
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6152710565519947487
+                }
+            ],
             "pathId": -7222631768124001675,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "マネジが迎えに来るまで、\r\nまだ何本かは流せるはずだよね？",
             "enText": "We should still be able to flush a few more \nbefore Manezi comes to pick us up, right?",
             "nextBlock": 4,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "今日の練習は切り上げよう",
@@ -41,6 +64,16 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 5533356024999828757
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 5227328118978919848
+                }
+            ],
             "pathId": -1112347670569545722,
             "blockIdx": 3
         },
@@ -50,11 +83,22 @@
             "jpText": "えっ、なんで？　手当てもしてもらったし、\r\nこのぐらいなら全然走れるってば。",
             "enText": "What? Why? I've been taken care \nof, and I can run like this.",
             "nextBlock": 5,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "悪化したらレースに支障が出るよ",
                     "enText": "If it gets worse, it's not going \nto be good for racing.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 1827138814248246275
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -8896021972787444732
                 }
             ],
             "pathId": 138709541667946197,
@@ -66,6 +110,17 @@
             "jpText": "それは――そうかもだけど……。",
             "enText": "That's―maybe so…",
             "nextBlock": 6,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 368565985603962909
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 6803815585844291741
+                }
+            ],
             "pathId": -5741358325379461994,
             "blockIdx": 5
         },
@@ -75,6 +130,17 @@
             "jpText": "もうっ、ただでさえ時間が限られてるのに！\r\n明日には絶対、練習に復帰してみせるから！",
             "enText": "Damn it, even I'm running out of time! I will \ndefinitely get back to practice tomorrow!",
             "nextBlock": 7,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 641463553801664354
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 7201802731259623186
+                }
+            ],
             "pathId": 6341500783353966626,
             "blockIdx": 6
         },
@@ -84,6 +150,17 @@
             "jpText": "悔しそうにするゴールドシチーをなだめ、\r\nモデルの仕事の時間まで、\n保健室で休ませたのだった。",
             "enText": "She soothed the frustrated Goldschy and had \nher rest in the infirmary until it was time \nfor her modeling job.",
             "nextBlock": -1,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -2501053399987605876
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -1824302188185047078
+                }
+            ],
             "pathId": 8012638559644898399,
             "blockIdx": 7
         },
@@ -93,6 +170,18 @@
             "jpText": "だね。今度はちゃんと集中しないと。\r\nさっきもつい仕事のこと考えちゃって……。",
             "enText": "I guess so. Now I have to concentrate \nproperly. I was thinking about work \nearlier too…",
             "nextBlock": 9,
+            "origClipLength": 95,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 1253230389854497875
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 5974029372697692879
+                }
+            ],
             "pathId": 2458797482456217032,
             "blockIdx": 8
         },
@@ -102,6 +191,18 @@
             "jpText": "ま、油断さえしなければ平気平気。\r\nちょっと捻ったぐらい、チョロイもん――",
             "enText": "Well, as long as you're not careless, \nyou'll be fine. A slight twist is \nnothing to worry about.",
             "nextBlock": 10,
+            "origClipLength": 93,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 5101630436044940846
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4777294084894187082
+                }
+            ],
             "pathId": -4683900406960863178,
             "blockIdx": 9
         },
@@ -111,6 +212,7 @@
             "jpText": "――いったぁ！",
             "enText": "―There it is!",
             "nextBlock": 11,
+            "origClipLength": 57,
             "pathId": 2661301981422107274,
             "blockIdx": 10
         },
@@ -120,6 +222,17 @@
             "jpText": "ウソでしょ……また捻るとか。\r\nアタシ、こんなにぼんやりしてたっけ……。",
             "enText": "No way… twisting it again. I don't \nremember Atashi being this dim…",
             "nextBlock": 12,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5701029179671922714
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -4593783126159629086
+                }
+            ],
             "pathId": 5854080620923126193,
             "blockIdx": 11
         },
@@ -129,6 +242,17 @@
             "jpText": "ゴールドシチーはケガを悪化させて\r\nしまったようだ。今日の練習は休ませる\nことにした。",
             "enText": "Gold City seems to have aggravated her \ninjury. We decided to give her a rest from \ntoday's practice.",
             "nextBlock": -1,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 189,
+                    "pathId": 2806385725770638599
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 1898253670464910717
+                }
+            ],
             "pathId": -5468111629592830397,
             "blockIdx": 12
         },
@@ -138,6 +262,18 @@
             "jpText": "この後の取材、なに聞かれんのかなぁとか。\r\n――って、あ～ダメ！",
             "enText": "I wondered what they would ask me in the \ninterview. ―I was thinking, \"Oh, no!",
             "nextBlock": 14,
+            "origClipLength": 86,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -8309222462073080497
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -722933852498479904
+                }
+            ],
             "pathId": 8216383874524699995,
             "blockIdx": 13
         },
@@ -147,6 +283,17 @@
             "jpText": "モデルの仕事と、走ること。\r\n両方こなすなら切り替えが大事だよね。",
             "enText": "Modeling and running. If you're \ngoing to do both, it's important \nto switch between the two.",
             "nextBlock": 15,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 8715368840935114435
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -3881793281881488583
+                }
+            ],
             "pathId": -8535699286152562094,
             "blockIdx": 14
         },
@@ -156,6 +303,17 @@
             "jpText": "せっかく手当てもしてもらったんだし、\r\n意味のあるトレーニングにしないと！",
             "enText": "Now that I've been treated, I need to get \nsome meaningful training!",
             "nextBlock": 16,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -6046280845540385145
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -4856906022951282625
+                }
+            ],
             "pathId": 1703769154541417457,
             "blockIdx": 15
         },
@@ -165,8 +323,20 @@
             "jpText": "練習に専念したゴールドシチーは、無事に\r\n予定通りのメニューをこなしたのだった。",
             "enText": "GoldsCity, who had devoted herself \nto training, successfully completed \nthe menu as planned.",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 175,
+                    "pathId": 6677280911815094870
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 2138366722276680788
+                }
+            ],
             "pathId": -336866109408814632,
             "blockIdx": 16
         }
-    ]
+    ],
+    "modified": 1669945691
 }

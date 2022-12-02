@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "NAJSSW2GPUDOY7QWFWRG34XOODBZCFWM",
     "type": "story",
     "storyId": "801009002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、\r\nトレーニングコースを通りかかると――",
             "enText": "One day, I was passing a training course…",
             "nextBlock": 2,
+            "origClipLength": 78,
             "pathId": -7950803232770868848,
             "blockIdx": 1
         },
@@ -20,6 +21,21 @@
             "jpText": "……っ！\r\nいったたぁ……！",
             "enText": "…! There it is…!",
             "nextBlock": 3,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 4234585925945046631
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -3235452443926179182
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 552763577249212989
+                }
+            ],
             "pathId": 263993970491103572,
             "blockIdx": 2
         },
@@ -29,6 +45,21 @@
             "jpText": "ダイワスカーレットがコース上で\r\n立ち止まっていた。",
             "enText": "Daiwa Scarlet was standing \nstill on the track.",
             "nextBlock": 4,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 931751526092001513
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 5906430770860731564
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1077321613834151924
+                }
+            ],
             "pathId": -8862626500871501998,
             "blockIdx": 3
         },
@@ -38,11 +69,26 @@
             "jpText": "どこか痛めたのだろうか……？",
             "enText": "Did she hurt herself somewhere?…?",
             "nextBlock": 5,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "大丈夫？",
                     "enText": "A great man?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 2369512266055430603
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -5088727379223189833
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 8165083597780153646
                 }
             ],
             "pathId": 616588908793750042,
@@ -54,6 +100,21 @@
             "jpText": "え？　いや……マメを潰しただけよ。\r\nこのくらい平気。",
             "enText": "What? No, I just squashed a… \nblister. I'm fine like this.",
             "nextBlock": 6,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -7749945303145043842
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -7736069640071075813
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -1979575040084763218
+                }
+            ],
             "pathId": 5241431241477783544,
             "blockIdx": 5
         },
@@ -63,6 +124,17 @@
             "jpText": "ところでアンタ、\r\n絆創膏かなにか持ってない？",
             "enText": "By the way, do you have a \nbandage or something?",
             "nextBlock": 7,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 6015777866157634026
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 171416698254511684
+                }
+            ],
             "pathId": 1581470131913603786,
             "blockIdx": 6
         },
@@ -72,6 +144,7 @@
             "jpText": "まだまだ走り足りないし、\r\nなんとかしたいのよ。",
             "enText": "I don't have enough running left and I want \nto do something about it.",
             "nextBlock": 8,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "テーピングしようか？",
@@ -87,6 +160,17 @@
                     "jpText": "念のため保健室へ行きましょう！",
                     "enText": "Let's go to the infirmary just in case!",
                     "nextBlock": 12
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -8030013649688959960
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 3310691290654619042
                 }
             ],
             "pathId": 892698267837098949,
@@ -98,6 +182,7 @@
             "jpText": "まだまだ走り足りないし、\r\nなんとかしたいのよ。",
             "enText": "I don't have enough running left and I want \nto do something about it.",
             "nextBlock": 9,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "テーピングしようか？",
@@ -115,6 +200,17 @@
                     "nextBlock": 12
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -7123071424237234125
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -1148648886102975987
+                }
+            ],
             "pathId": -5131076640217139251,
             "blockIdx": 8
         },
@@ -124,6 +220,17 @@
             "jpText": "あら、いいわね。\r\n気が利くじゃない。",
             "enText": "Oh, that's nice. That's very thoughtful.",
             "nextBlock": 10,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -6651481086952685289
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -8267155112472710238
+                }
+            ],
             "pathId": -3770683873555247852,
             "blockIdx": 9
         },
@@ -133,6 +240,17 @@
             "jpText": "じゃあお願いしようかしら。\r\nがっちりテーピングしちゃってちょうだい。",
             "enText": "I'll ask you to do it. I'd like to ask you \nto do some taping for me.",
             "nextBlock": 11,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -5404587790339890992
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 428534301043822497
+                }
+            ],
             "pathId": -7289743055271002233,
             "blockIdx": 10
         },
@@ -142,6 +260,21 @@
             "jpText": "ん。これなら走れそうね、ありがと。\r\n多少痛いのは……まあ仕方ないわよね。",
             "enText": "Hmm. I think I can run now, thanks. It hurts \na bit, but that's… to be expected.",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6328541489378700826
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 2246388855491753886
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 797975364860055490
+                }
+            ],
             "pathId": 3024584344360212251,
             "blockIdx": 11
         },
@@ -151,6 +284,21 @@
             "jpText": "だから平気って言ってるじゃない。\r\nまったく。大げさねぇ。",
             "enText": "I told you I'm fine. I'm fine. \nYou're exaggerating.",
             "nextBlock": 13,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -7289487565052159796
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2657761793723005226
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1395708826091409884
+                }
+            ],
             "pathId": 1729048858346155058,
             "blockIdx": 12
         },
@@ -160,6 +308,21 @@
             "jpText": "でもまあ……ちゃんと処置した方が\r\nこの後も安心して走れそうだし……。",
             "enText": "But it's better to take care of it… so that \nyou can run with peace of mind afterwards…",
             "nextBlock": 14,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 418547627451682946
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -1594994810907896286
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 2711557150191001782
+                }
+            ],
             "pathId": 2698493751504182292,
             "blockIdx": 13
         },
@@ -169,8 +332,20 @@
             "jpText": "……はぁ、わかったわ。\r\n診てもらってくる。",
             "enText": "… Huh, okay. I'll go and have a look.",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 983840577337694634
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 3452592206382020675
+                }
+            ],
             "pathId": 5202717529565218282,
             "blockIdx": 14
         }
-    ]
+    ],
+    "modified": 1669945948
 }

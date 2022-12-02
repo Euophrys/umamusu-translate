@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "LPTCB4FN7EH4ZDBEIUDMIQRGNMNFGAJD",
     "type": "story",
     "storyId": "501008700",
@@ -11,6 +11,17 @@
             "jpText": "廊下を歩いていると、ウオッカを見かけた。",
             "enText": "As I walked down the hallway, \nI saw the vodka.",
             "nextBlock": 2,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -3001365859229104645
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 3978621821711172401
+                }
+            ],
             "pathId": 7328097901421378115,
             "blockIdx": 1
         },
@@ -20,6 +31,21 @@
             "jpText": "ふぁぁ……。\r\nったく、まだ頭ん中でチラつきやがるぜ。",
             "enText": "Huh… Damn, it's still \nflickering in my head.",
             "nextBlock": 3,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -4907625347320859852
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -2501387454377804443
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 3229176132771511119
+                }
+            ],
             "pathId": 6730600416204983819,
             "blockIdx": 2
         },
@@ -29,6 +55,21 @@
             "jpText": "あ、トレーナー……。\r\n聞いてくれよ、休みにスカーレットと\n映画を観たんだけどさぁ。",
             "enText": "Oh, trainer… Listen, I saw a movie \nwith Scarlett over the vacations.",
             "nextBlock": 4,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3942672959918792092
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 1981077771304626081
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7995590864120902453
+                }
+            ],
             "pathId": -3576030998858770644,
             "blockIdx": 3
         },
@@ -38,6 +79,17 @@
             "jpText": "偶然選んだのが、れ、恋愛モノで……。\r\n画面越しにイチャイチャしまくっててよぉ。",
             "enText": "I happened to choose… for a romantic \nstory. They were making out with each other \nthrough the screen.",
             "nextBlock": 5,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 31824446077411065
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 6172452376794439400
+                }
+            ],
             "pathId": -3568940994587662171,
             "blockIdx": 4
         },
@@ -47,6 +99,7 @@
             "jpText": "そのシーンがずっと目に焼き付いて、\r\nあんま眠れなかったんだ、くそっ！",
             "enText": "I couldn't sleep very well because that scene \nkept haunting me. Damn it!",
             "nextBlock": 6,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "どんなシーンだったんだ？",
@@ -59,6 +112,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 6830096899931392635
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 3270100266736510424
+                }
+            ],
             "pathId": 2147379984926443073,
             "blockIdx": 5
         },
@@ -68,6 +131,17 @@
             "jpText": "そりゃ、あれだよ……。\r\nこ、恋人同士で……キ……キ……！",
             "enText": "That's what it is… I'm sure \nyou'll be happy to know that the \ntwo of us are lovers…",
             "nextBlock": 7,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -1717234067580817925
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 4276497768815558730
+                }
+            ],
             "pathId": 4970358143758969403,
             "blockIdx": 6
         },
@@ -77,6 +151,17 @@
             "jpText": "ちっきっしょおお！\r\nなに言わすんだよーーーっ！！",
             "enText": "God damn it! What the hell \nare you talking about?",
             "nextBlock": 8,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -104520957046093696
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 7388680124354135308
+                }
+            ],
             "pathId": 5965493220104415959,
             "blockIdx": 7
         },
@@ -86,8 +171,10 @@
             "jpText": "鼻血が出そうになったのか、\r\nウオッカは鼻を手で押さえながら、\nどこかへと去って行った。",
             "enText": "The vodka went away, holding her nose with \nher hand, as if her nose was about to bleed.",
             "nextBlock": -1,
+            "origClipLength": 102,
             "pathId": -1402734990567012365,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945046
 }

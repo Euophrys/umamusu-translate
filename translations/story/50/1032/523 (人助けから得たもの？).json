@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "T7KCWLGQDQ7KCRLV6P4PRP7K4RTGHPLF",
     "type": "story",
     "storyId": "501032523",
@@ -11,6 +11,7 @@
             "jpText": "ある日のこと、\r\nアグネスタキオンに連れられ\nやって来たのは――",
             "enText": "One day, Agnes Tachyon brought me here.",
             "nextBlock": 2,
+            "origClipLength": 65,
             "pathId": 7258781700804647028,
             "blockIdx": 1
         },
@@ -20,11 +21,22 @@
             "jpText": "いやぁ、いい天気だねぇ。\r\nそれじゃあさっそく始めようか！",
             "enText": "It's a beautiful day, isn't\nit? So let's get started!",
             "nextBlock": 3,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "ここはどこ？",
                     "enText": "Where am I?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 4351616508822755575
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -4874091911478431766
                 }
             ],
             "pathId": -2806839866064274694,
@@ -36,6 +48,17 @@
             "jpText": "今日はここで実験をしようかと思ってね。\r\nなーに難しいことじゃない。",
             "enText": "I thought I'd do an experiment here\ntoday. It's not difficult.",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 6304001899494993398
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1394504250732426166
+                }
+            ],
             "pathId": 8580319596499136815,
             "blockIdx": 3
         },
@@ -45,6 +68,17 @@
             "jpText": "とりあえず、君の限界を教えてくれ。\r\n本当の実験はそこからだ。",
             "enText": "In the meantime, tell me what\nyour limits are. That's where\nthe real experiment begins.",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 736730447887321741
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2442780104989559165
+                }
+            ],
             "pathId": 7455162242610969905,
             "blockIdx": 4
         },
@@ -54,6 +88,17 @@
             "jpText": "さぁ、私はゆっくり君について行くから\r\n君は全力で走ってごらん！",
             "enText": "Now, I'm going to follow you slowly, and\nyou're going to run as fast as you can!",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -3438545915734608162
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4625887847039867615
+                }
+            ],
             "pathId": -8571511919910036184,
             "blockIdx": 5
         },
@@ -63,6 +108,17 @@
             "jpText": "アグネスタキオンに言われるまま\r\n砂浜を走った。",
             "enText": "I ran along the beach as Agnes\nTachyon had told me to.",
             "nextBlock": 7,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 1503027855148358628
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -6626108713575717160
+                }
+            ],
             "pathId": -7439250432331641473,
             "blockIdx": 6
         },
@@ -72,6 +128,7 @@
             "jpText": "1時間……2時間……体は段々と重くなり、\r\n踏みしめるように走っていると――",
             "enText": "1 hour…2 hours… body\nbecame heavier and heavier,\nand as I ran to step—",
             "nextBlock": 8,
+            "origClipLength": 69,
             "pathId": 4617120604101659598,
             "blockIdx": 7
         },
@@ -81,6 +138,7 @@
             "jpText": "！　トレーナー君、足元！",
             "enText": "Trainer! Trainer, at your feet!",
             "nextBlock": 9,
+            "origClipLength": 52,
             "pathId": 613465999336558168,
             "blockIdx": 8
         },
@@ -90,6 +148,7 @@
             "jpText": "後ろの方を走っていたアグネスタキオンの\r\n声で足元を見る。そこには――……。",
             "enText": "I'm not sure if it's a good idea, but it's\na good idea. There it is—…",
             "nextBlock": 10,
+            "origClipLength": 69,
             "pathId": 1597240373077373617,
             "blockIdx": 9
         },
@@ -99,6 +158,7 @@
             "jpText": "……ウニ！？\r\nダメだ、避け切れない――！",
             "enText": "… sea urchin! No, I can't avoid it—!",
             "nextBlock": 11,
+            "origClipLength": 58,
             "pathId": 5180197928109410664,
             "blockIdx": 10
         },
@@ -108,6 +168,17 @@
             "jpText": "……トレーナー君、目を開けたまえ。",
             "enText": "… Trainer, open your eyes.",
             "nextBlock": 12,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -9074963717070641462
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -2383792026262599804
+                }
+            ],
             "pathId": 2282727998038398097,
             "blockIdx": 11
         },
@@ -117,6 +188,17 @@
             "jpText": "目を開けると、ウニはすぐ横にあった。\r\nどうやら寸前のところでアグネスタキオンが\n手を引いてくれたらしい。",
             "enText": "When I opened my eyes, the sea urchin\nwas right next to me. Apparently,\nAgnes Tachyon had pulled me out of\nthe way just in time.",
             "nextBlock": 13,
+            "origClipLength": 79,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -5077972701387990753
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 8177735228670653022
+                }
+            ],
             "pathId": 8491913609988446476,
             "blockIdx": 12
         },
@@ -126,11 +208,22 @@
             "jpText": "はーまったく、君は危なっかしいな。\r\n実験以外のことでケガはやめてくれたまえ。",
             "enText": "Oh, my God, you are so dangerous. Please\ndon't hurt yourself doing anything other\nthan experiments.",
             "nextBlock": 14,
+            "origClipLength": 70,
             "choices": [
                 {
                     "jpText": "ありがとう！",
                     "enText": "Thank you!",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 29274699147261357
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 7722682577047129411
                 }
             ],
             "pathId": 6427584739918655443,
@@ -142,6 +235,17 @@
             "jpText": "これは貸しだよ。咄嗟だったから、\r\n私の心拍数がムダに上がって――……。",
             "enText": "You owe me this one. It was a spur of the\nmoment thing, so my heart rate went up\nunnecessarily…",
             "nextBlock": 15,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 8895599429275096966
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7482563909665144386
+                }
+            ],
             "pathId": 2520169315632194292,
             "blockIdx": 14
         },
@@ -151,6 +255,17 @@
             "jpText": "……ん？　いや、待てよ。",
             "enText": "… Hmm? No, wait.",
             "nextBlock": 16,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 5246800477194993517
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -8178452238659863109
+                }
+            ],
             "pathId": 6256867246759672872,
             "blockIdx": 15
         },
@@ -160,6 +275,17 @@
             "jpText": "あの瞬間の感覚……もしや、今研究している\r\n肉体改造に役立つのでは……？",
             "enText": "The sensation of that moment… could\nbe useful for the body modification I'm\ncurrently studying…?",
             "nextBlock": 17,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -677202837374318472
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 2939261177943908225
+                }
+            ],
             "pathId": -4720518976795093884,
             "blockIdx": 16
         },
@@ -169,6 +295,17 @@
             "jpText": "ククッ！　いい仕事をしたね、トレーナー君！\r\nすぐに研究室に戻るぞ！",
             "enText": "Quack! Nice work, Mr. Trainer! We'll be\nback in the lab soon!",
             "nextBlock": 18,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -8837555859389181441
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 81955694422361136
+                }
+            ],
             "pathId": 8368745184922416876,
             "blockIdx": 17
         },
@@ -178,6 +315,17 @@
             "jpText": "あの一瞬……\r\n忘れないうちに、しっかりと残しておかねば！",
             "enText": "That one moment:… I've got to make\nsure I leave it behind before I forget!",
             "nextBlock": 19,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 4992737288971456803
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 549084077273753776
+                }
+            ],
             "pathId": -4694372175129909646,
             "blockIdx": 18
         },
@@ -187,8 +335,20 @@
             "jpText": "咄嗟の動きから何かを得た\r\nアグネスタキオンの走りは、その日から\n格段に磨きがかかったのだった……！",
             "enText": "Agnes Tachyon got something from the\nspur-of-the-moment move, and from\nthat day on, her running became much\nmore polished…",
             "nextBlock": -1,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 769856143914716009
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -6862208110105362129
+                }
+            ],
             "pathId": -1969710009296975447,
             "blockIdx": 19
         }
-    ]
+    ],
+    "modified": 1669945585
 }

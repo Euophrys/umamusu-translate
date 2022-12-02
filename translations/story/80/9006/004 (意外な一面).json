@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MIUAE3LVPUPP34O7YZEVUYVIHO3OIWSU",
     "type": "story",
     "storyId": "809006004",
@@ -11,6 +11,7 @@
             "jpText": "ある日。\r\nふとゲームセンターの前を通りかかると――",
             "enText": "One day. One day, I was passing \nby a game centre.",
             "nextBlock": 2,
+            "origClipLength": 78,
             "pathId": -7836844852158632322,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "はっ、はっ……。",
             "enText": "Ha, ha…",
             "nextBlock": 3,
+            "origClipLength": 70,
             "pathId": 2114132849070651508,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "意外な人物がダンスゲームに熱中していた。\r\n真剣に体を動かしているが……\nよく見るとタイミングが全部ズレている。",
             "enText": "An unexpected person was absorbed in a dance \ngame. She is moving her body seriously, but \n… if you look closely, you can see that her \ntiming is all off.",
             "nextBlock": 4,
+            "origClipLength": 118,
             "pathId": -5293675021975905292,
             "blockIdx": 3
         },
@@ -38,6 +41,17 @@
             "jpText": "はぁ、はぁ、はぁ……。どうすれば……。",
             "enText": "Huh, huh, huh… How can I help…?",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 205,
+                    "pathId": -4216477827554423598
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -3270749164903894948
+                }
+            ],
             "pathId": 752297080544769179,
             "blockIdx": 4
         },
@@ -47,6 +61,21 @@
             "jpText": "そんな姿が少し意外で、目を離せずにいると、\r\nふいに目が合った。",
             "enText": "I couldn't take my eyes off her, which was a \nbit surprising, and suddenly our eyes met.",
             "nextBlock": 6,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -7565194466577526288
+                },
+                {
+                    "origLen": 205,
+                    "pathId": 1398442176090437930
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6894903755841093915
+                }
+            ],
             "pathId": 6112359490652989120,
             "blockIdx": 5
         },
@@ -56,11 +85,26 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 7,
+            "origClipLength": 51,
             "choices": [
                 {
                     "jpText": "…………",
                     "enText": "…",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8854747740730803553
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6640881427725799212
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 2208758390838956789
                 }
             ],
             "pathId": 9133669256608386966,
@@ -72,6 +116,17 @@
             "jpText": "…………。\r\nまずは話を聞いていただきたい。",
             "enText": "… We would like you to listen to us first.",
             "nextBlock": 8,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -2388035289757760139
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 8317510236342143485
+                }
+            ],
             "pathId": 81354268179733821,
             "blockIdx": 7
         },
@@ -81,6 +136,17 @@
             "jpText": "私は、基本的になんでも人並み以上に行える\r\nと自負しています。しかし――",
             "enText": "I pride myself on being able to do basically \neverything as well as anyone else. But…",
             "nextBlock": 9,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -8769748211492147227
+                },
+                {
+                    "origLen": 173,
+                    "pathId": 5864265663958059108
+                }
+            ],
             "pathId": -4494686415062107542,
             "blockIdx": 8
         },
@@ -90,6 +156,21 @@
             "jpText": "1つだけ、不得手なものがあります。\r\n運動です。",
             "enText": "There is one thing I am \nnot good at. Exercise.",
             "nextBlock": 10,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 8472823067085291516
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8944562868364349229
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -4960880665573787126
+                }
+            ],
             "pathId": -4263501488936118399,
             "blockIdx": 9
         },
@@ -99,6 +180,21 @@
             "jpText": "マラソン大会では最下位、ボールは捕れた\r\nためしがなく、跳び箱で追試を受けたことも。",
             "enText": "She came last in the marathon, could \nnever catch a ball, and had to be \ntested on the jumping box.",
             "nextBlock": 11,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 8439315433800800168
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -8507898275001543862
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 2560007356484924109
+                }
+            ],
             "pathId": 4486135292552191482,
             "blockIdx": 10
         },
@@ -108,11 +204,26 @@
             "jpText": "他教科がオール5の中、体育のみが常に2で……\r\n今でも外出後は即睡魔が襲ってきます。",
             "enText": "While all other subjects are 5, only PE is \nalways a 2… I still have trouble sleeping \nimmediately after going out.",
             "nextBlock": 12,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "（そうだったんだ……！）",
                     "enText": "(That's right…!)",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5803149567723296697
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 2540815621874424228
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 4789113729474781799
                 }
             ],
             "pathId": -7642187195755268256,
@@ -124,6 +235,21 @@
             "jpText": "とはいえ、ウマ娘を指導する上で\r\n基礎的な身体能力は不可欠。",
             "enText": "Nevertheless, basic physical skills are \nessential for teaching the girls.",
             "nextBlock": 13,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -5355005188976823252
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -2833728614337940988
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -1085755636366161349
+                }
+            ],
             "pathId": -6551770410965641592,
             "blockIdx": 12
         },
@@ -133,6 +259,21 @@
             "jpText": "現に先日ダンスの指導を頼まれました。",
             "enText": "In fact, the other day I was asked \nto teach a dance class.",
             "nextBlock": 14,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -3740588970986134605
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -7473835048611692415
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -5406540649085951195
+                }
+            ],
             "pathId": 5705394286296572839,
             "blockIdx": 13
         },
@@ -142,6 +283,17 @@
             "jpText": "しかし、私はダンスが出来ませんし、\r\nスクールに通う時間もありません。そこで――",
             "enText": "But I can't dance and I don't have \nthe time to go to school. So…",
             "nextBlock": 15,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -3570024005498346662
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6292891335145157164
+                }
+            ],
             "pathId": -135516713039921174,
             "blockIdx": 14
         },
@@ -151,6 +303,21 @@
             "jpText": "と、堂々たる佇まいで、\r\n『0コンボ』と表示された画面を指さした。",
             "enText": "She pointed at the screen, \nwhich read \"0 Combo\".",
             "nextBlock": 16,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -7491539384256405126
+                },
+                {
+                    "origLen": 170,
+                    "pathId": -3380104115162216282
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2690694764092400712
+                }
+            ],
             "pathId": 2893212664209269946,
             "blockIdx": 15
         },
@@ -160,11 +327,26 @@
             "jpText": "空き時間を利用し、この機械を用いて、\r\nダンスの練習をしていたわけです。",
             "enText": "In her spare time, she used this machine \nto practise her dancing.",
             "nextBlock": 17,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "なるほど……？",
                     "enText": "I see…?",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5691538808916025264
+                },
+                {
+                    "origLen": 170,
+                    "pathId": 204214753294295128
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 2831439262556062554
                 }
             ],
             "pathId": 1473873961604502826,
@@ -176,6 +358,21 @@
             "jpText": "しかしこれが、案外難しく……。\r\n……はぁ……。",
             "enText": "But this is more difficult \nthan it seems … is…",
             "nextBlock": 18,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -5475129391877818434
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -5197552005925063142
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5520738209779581459
+                }
+            ],
             "pathId": 4233180778867383047,
             "blockIdx": 17
         },
@@ -185,6 +382,21 @@
             "jpText": "参考書籍を買い足すか……。しかし、\r\nすでに本棚を圧迫しているし……。",
             "enText": "You can buy more reference books … But \nit's already overwhelming my bookshelf…",
             "nextBlock": 19,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -6493107529936494483
+                },
+                {
+                    "origLen": 137,
+                    "pathId": 8851905280962847821
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1582856115471600007
+                }
+            ],
             "pathId": 4147074666302833572,
             "blockIdx": 18
         },
@@ -194,6 +406,21 @@
             "jpText": "やはり、私には不向きか……？\r\nもっと他の方法が……。",
             "enText": "Is it still not suitable for me…? There are \nmore other ways to do this…",
             "nextBlock": 20,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -454808737922746099
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1375131643961723675
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -7958635822418761548
+                }
+            ],
             "pathId": 2253775059238456232,
             "blockIdx": 19
         },
@@ -203,6 +430,7 @@
             "jpText": "なんでも出来る彼女が困り果てているのは\r\n珍しい。何か力になれないだろうか……。",
             "enText": "It's rare to find a do-it-all \ngirl in trouble. Is there anything \nI can do to help?…",
             "nextBlock": 21,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "まずは体力をつけてみては？",
@@ -220,6 +448,20 @@
                     "nextBlock": 53
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 3359335827261821634
+                },
+                {
+                    "origLen": 176,
+                    "pathId": 8822026801629880576
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -3249614221276188075
+                }
+            ],
             "pathId": -3517615769666557209,
             "blockIdx": 20
         },
@@ -229,6 +471,21 @@
             "jpText": "……たしかに、パフォーマンスを持続する\r\nためには不可欠。盲点でした。",
             "enText": "… Indeed, it is essential for sustained \nperformance. I had a blind spot.",
             "nextBlock": 22,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3678853033292507848
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1831200501060842223
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 6832341710278863069
+                }
+            ],
             "pathId": -433571352650581278,
             "blockIdx": 21
         },
@@ -238,6 +495,17 @@
             "jpText": "であれば、移動が必要ですね。",
             "enText": "If so, you need to move.",
             "nextBlock": 23,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -7720348879699062754
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 7634371358938732397
+                }
+            ],
             "pathId": 5305106580569371878,
             "blockIdx": 22
         },
@@ -247,6 +515,18 @@
             "jpText": "なんとなくその後が気になり、\r\nついていくと――",
             "enText": "I was kind of curious about what happened \nnext, so I followed her.",
             "nextBlock": 24,
+            "origClipLength": 76,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 6903251510268978323
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 3701767149277617491
+                }
+            ],
             "pathId": 6689167653521072597,
             "blockIdx": 23
         },
@@ -256,6 +536,18 @@
             "jpText": "まずは10往復……いや、5往復だ！",
             "enText": "Let's start with 10 round trips \nto… No, 5 round trips!",
             "nextBlock": 25,
+            "origClipLength": 67,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -3544068487877998758
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -6412029130926556611
+                }
+            ],
             "pathId": -2515052633278381566,
             "blockIdx": 24
         },
@@ -265,6 +557,7 @@
             "jpText": "は……！　は……！",
             "enText": "is…! is…!",
             "nextBlock": 26,
+            "origClipLength": 56,
             "pathId": -1065690038875843397,
             "blockIdx": 25
         },
@@ -274,6 +567,7 @@
             "jpText": "彼女のゆっくりとしたランニングは、\r\n夕方まで延々と続いた。",
             "enText": "Her slow run went on and on \nuntil late in the evening.",
             "nextBlock": 27,
+            "origClipLength": 84,
             "pathId": 6087673455040052984,
             "blockIdx": 26
         },
@@ -283,6 +577,7 @@
             "jpText": "はぁ……はぁ……はぁ……。\r\nも、もう……。",
             "enText": "Haha… haha… haha… It's already…",
             "nextBlock": 28,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "もう少しでゴールです！",
@@ -299,6 +594,7 @@
             "jpText": "……！",
             "enText": "…!",
             "nextBlock": 29,
+            "origClipLength": 48,
             "pathId": -277809032823749023,
             "blockIdx": 28
         },
@@ -308,6 +604,21 @@
             "jpText": "はぁ……はぁ……。",
             "enText": "Haha… haha…",
             "nextBlock": 30,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 8906612010830273279
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 8568499813762681391
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 6715134860826379155
+                }
+            ],
             "pathId": -57038152275387603,
             "blockIdx": 29
         },
@@ -317,11 +628,26 @@
             "jpText": "……ご声援、ありがとうございました。\r\nよい刺激になりました。",
             "enText": "Thank you for your support… Thank you for \nyour support, it was very inspiring.",
             "nextBlock": 31,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "いえ、つい",
                     "enText": "No, not really.",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -8726521121267212734
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 2627238043337940184
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 4995728882081538044
                 }
             ],
             "pathId": 3339265574307313913,
@@ -333,6 +659,21 @@
             "jpText": "……大したものではありませんが、\r\n今日はラーメンでも奢らせてください。",
             "enText": "… It's not much, but let me \nbuy you some ramen today.",
             "nextBlock": 32,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 6548928315692838571
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -1188782742264604616
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6241036308509001506
+                }
+            ],
             "pathId": 8489846163205387367,
             "blockIdx": 31
         },
@@ -342,6 +683,17 @@
             "jpText": "その後、ラーメン屋へ入り――",
             "enText": "Then we went into a noodle shop.",
             "nextBlock": 33,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -4532921300050189287
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -4976300644110703894
+                }
+            ],
             "pathId": -3047699939378827323,
             "blockIdx": 32
         },
@@ -351,6 +703,17 @@
             "jpText": "ランニングなど数年ぶりに行いましたが、\r\n心地いいものですね。",
             "enText": "It's been a few years since I've done any \nrunning, but it feels good.",
             "nextBlock": 34,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5846582414038297441
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -9106626218686347515
+                }
+            ],
             "pathId": 2431742160968230126,
             "blockIdx": 33
         },
@@ -360,6 +723,21 @@
             "jpText": "ウマ娘の見ている景色が、\r\n少々理解できたような気がします。",
             "enText": "I think I understand a little bit more what \nUma Musume is looking at.",
             "nextBlock": 35,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -5250263368504179412
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -7261184628678635818
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -4929783648984650806
+                }
+            ],
             "pathId": -1274674662122307841,
             "blockIdx": 34
         },
@@ -369,6 +747,21 @@
             "jpText": "色々なことを語り合ったのだった。",
             "enText": "We had a lot to talk about.",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 7162431777179569559
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 8727376577101251617
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4012664236664511276
+                }
+            ],
             "pathId": 615738932104516280,
             "blockIdx": 35
         },
@@ -378,6 +771,22 @@
             "jpText": "ここでトレーニングを……\r\nと思いましたが、少々雲行きが怪しいですね。",
             "enText": "I thought I'd train here… but \nit's looking a bit iffy.",
             "nextBlock": 37,
+            "origClipLength": 90,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -7160519647083767484
+                },
+                {
+                    "origLen": 293,
+                    "pathId": 926827000666934209
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -6366180006195901398
+                }
+            ],
             "pathId": -9105262756654262257,
             "blockIdx": 36
         },
@@ -387,6 +796,21 @@
             "jpText": "我々が風邪を引くわけにはいきません。\r\n今日は諦めましょう……。",
             "enText": "We can't afford to catch a cold. \nLet's give up today…",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -1193916787801701218
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 846992373737854630
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 3252761115665528654
+                }
+            ],
             "pathId": 3556315102789692174,
             "blockIdx": 37
         },
@@ -396,6 +820,21 @@
             "jpText": "……ええ、そうですね。\r\n努力なくして手に入るものなどありません。",
             "enText": "… Yes, you're right. Nothing \ncomes without effort.",
             "nextBlock": 39,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6578003870924852127
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 981122134073407516
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1849676558933879436
+                }
+            ],
             "pathId": 1501758428154242552,
             "blockIdx": 38
         },
@@ -405,6 +844,17 @@
             "jpText": "弱音は後、今はただ精進あるのみ……！",
             "enText": "Weakness is behind us, now we \njust have to be diligent…!",
             "nextBlock": 40,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5861349224423291871
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -63482644767903494
+                }
+            ],
             "pathId": 8582175221653654573,
             "blockIdx": 39
         },
@@ -414,6 +864,17 @@
             "jpText": "（チャチャチャ・チャ・チャ♪）",
             "enText": "（♪ Cha-cha-cha-cha ♪)",
             "nextBlock": 41,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 3085771081863666667
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 3255586427798343309
+                }
+            ],
             "pathId": 2132908720307249622,
             "blockIdx": 40
         },
@@ -423,6 +884,7 @@
             "jpText": "ふっ、はっ……。そうか、\r\nジャンプとともに右足を上げておけば……。",
             "enText": "Phew, haha… Well, if you keep your \nright foot up as you jump…",
             "nextBlock": 42,
+            "origClipLength": 89,
             "pathId": -3708530847318959787,
             "blockIdx": 41
         },
@@ -432,6 +894,7 @@
             "jpText": "（チャチャチャ・チャ・チャ♪）",
             "enText": "（♪ Cha-cha-cha-cha ♪)",
             "nextBlock": 43,
+            "origClipLength": 64,
             "pathId": -510108699972183060,
             "blockIdx": 42
         },
@@ -441,6 +904,7 @@
             "jpText": "なるほど、こういうことか。\r\n右、右、左、ターン……よし。",
             "enText": "Okay, so this is how it works. Right, \nright, left, turn… good.",
             "nextBlock": 44,
+            "origClipLength": 82,
             "pathId": 417558455740640817,
             "blockIdx": 43
         },
@@ -450,6 +914,17 @@
             "jpText": "努力の甲斐あって、少しずつコツを掴んで\r\nきたようだった。そして、数時間後……。",
             "enText": "It seemed that she was slowly getting \nthe hang of it, thanks to her efforts. \nAnd a few hours later…",
             "nextBlock": 45,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 162,
+                    "pathId": 6548425481117862291
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 1836445802189169330
+                }
+            ],
             "pathId": 5509167457536784634,
             "blockIdx": 44
         },
@@ -459,6 +934,17 @@
             "jpText": "（チャチャチャ・チャーン♪）",
             "enText": "（♪ Cha-cha-cha-cha-cha-cha ♪)",
             "nextBlock": 46,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 162,
+                    "pathId": -5944112946998173612
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -2934916798861479500
+                }
+            ],
             "pathId": 4497770272831545847,
             "blockIdx": 45
         },
@@ -468,11 +954,22 @@
             "jpText": "よし……っ！",
             "enText": "Okay…!",
             "nextBlock": 47,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "おめでとうございます！",
                     "enText": "Congratulations!",
                     "nextBlock": 47
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 7173050857889817897
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -6405647784988567238
                 }
             ],
             "pathId": 6649414280027890480,
@@ -484,6 +981,17 @@
             "jpText": "ああ、いや……騒いで申し訳ない。\r\n……コホン。",
             "enText": "Oh, no… Sorry for the fuss… cohon.",
             "nextBlock": 48,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -970338008014982685
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 228178020226586954
+                }
+            ],
             "pathId": 158275979305200709,
             "blockIdx": 47
         },
@@ -493,6 +1001,17 @@
             "jpText": "だいぶ成長できたのではないでしょうか。\r\n諦めずにいてよかった。",
             "enText": "I think we have grown a lot. \nI'm glad I didn't give up.",
             "nextBlock": 49,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -1860648421442504770
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 1635251048952940779
+                }
+            ],
             "pathId": 73879996274079881,
             "blockIdx": 48
         },
@@ -502,6 +1021,17 @@
             "jpText": "……励ましの言葉、ありがとうございました。\r\nよければ1杯ご馳走させてください。",
             "enText": "Thank you for your words of encouragement … \nI'd be happy to buy you a drink if you like.",
             "nextBlock": 50,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 659459365701419309
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -8960918484856190805
+                }
+            ],
             "pathId": 7431921306923346580,
             "blockIdx": 49
         },
@@ -511,6 +1041,17 @@
             "jpText": "その後、近所の居酒屋へ行き、\r\nご馳走になって帰宅した。",
             "enText": "Afterwards, we went to a nearby pub, \nwhere we were treated to a delicious \nmeal before heading home.",
             "nextBlock": 51,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": -6838737890833863797
+                },
+                {
+                    "origLen": 153,
+                    "pathId": -4259438863803726431
+                }
+            ],
             "pathId": 3605205112000710985,
             "blockIdx": 50
         },
@@ -520,6 +1061,21 @@
             "jpText": "トレーナーと言えど、せめてデビュー曲\r\nくらいは全員踊れなければと考えています。",
             "enText": "Even as trainers, we think that \neveryone should be able to dance \nat least their debut song.",
             "nextBlock": 52,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": 886995268789463814
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1776164621934855720
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 7056766555892673392
+                }
+            ],
             "pathId": 5644995583409759523,
             "blockIdx": 51
         },
@@ -529,6 +1085,21 @@
             "jpText": "やはり、ダンスもトレーナー研修に\r\n組み込むべきか……ふむ……。",
             "enText": "Should dance be included in the \ntraining of trainers?… Hmmm…",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7931616057813006314
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -7177049801989590035
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 3755576383698239021
+                }
+            ],
             "pathId": -8468926309096537382,
             "blockIdx": 52
         },
@@ -538,6 +1109,21 @@
             "jpText": "そうでしたか。\r\n呼び止めてしまい申し訳ない。",
             "enText": "Oh, I see. I'm sorry to have stopped you.",
             "nextBlock": 54,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6251257965789783927
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 7231646851862165289
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -5089437875414432581
+                }
+            ],
             "pathId": -8659885643282799118,
             "blockIdx": 53
         },
@@ -547,8 +1133,20 @@
             "jpText": "それではまた、トレセン学園で。",
             "enText": "See you soon at the Tresemme School.",
             "nextBlock": -1,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 334151210827998998
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -9042506861823420107
+                }
+            ],
             "pathId": -2903640168457124644,
             "blockIdx": 54
         }
-    ]
+    ],
+    "modified": 1669946201
 }

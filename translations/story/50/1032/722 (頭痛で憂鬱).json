@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7IUCEPNASONA4CXSQ4WNM34JOFHQK4ZS",
     "type": "story",
     "storyId": "501032722",
@@ -11,6 +11,7 @@
             "jpText": "トレーナー室で、\r\n書類仕事をしていると――",
             "enText": "I'm in the trainer's office,\ndoing paperwork.",
             "nextBlock": 2,
+            "origClipLength": 59,
             "pathId": 838664249825237425,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "うー……。\r\nトレーナーくーん、助けておくれよ～。",
             "enText": "Woo… Trainer, please help me!",
             "nextBlock": 3,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
@@ -32,6 +34,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -6768928909207718146
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -710621997234442974
+                }
+            ],
             "pathId": 3664262744653355193,
             "blockIdx": 2
         },
@@ -41,6 +53,17 @@
             "jpText": "頭がガンガンするんだよ～。\r\nまともに思考が働かないんだ。",
             "enText": "My head is all over the place!\nI can't think straight.",
             "nextBlock": 4,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -7717518757325838117
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2672513953476899432
+                }
+            ],
             "pathId": 2579372224199663800,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "なぁ、君は私の助手だろ？\r\nこの痛み、どうにかしておくれよ～。",
             "enText": "Hey, you're my assistant, right? Can you\nplease do something about this pain?",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -5458890415123098760
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5786150514876584535
+                }
+            ],
             "pathId": 3405472974505197604,
             "blockIdx": 4
         },
@@ -59,6 +93,17 @@
             "jpText": "あたたた……声を出すのもつらいぞ。\r\nこれじゃ、まともに研究も出来ない……。",
             "enText": "It's hard to even speak out…\nI can't even do proper research\nwith this…",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -5653506543718721758
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -3696147818987675431
+                }
+            ],
             "pathId": 7729419121667585474,
             "blockIdx": 5
         },
@@ -68,6 +113,17 @@
             "jpText": "痛み止めも作れないじゃないか。\r\nはぁ～……もうダメだ……。",
             "enText": "You can't even make painkillers. Huh.\n… I'm screwed…",
             "nextBlock": 7,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 6719706151692292370
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -1875317679498009373
+                }
+            ],
             "pathId": -8867472797196319070,
             "blockIdx": 6
         },
@@ -77,8 +133,20 @@
             "jpText": "アグネスタキオンは、とてもつらそうだ。\r\nどうにかしてあげた方がいいだろう。",
             "enText": "Agnes Tachyon looks like she's in a lot of\npain. We'd better do something about it.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 414877572026317829
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2804327691678004659
+                }
+            ],
             "pathId": 8585956374059084967,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669945593
 }

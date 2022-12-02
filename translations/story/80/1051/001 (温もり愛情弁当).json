@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6Q4BTS37FWTF32TLGBGENTPYI6ZQIMNP",
     "type": "story",
     "storyId": "801051001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、学園を散策していると\r\n聞き覚えのある声が聞こえてきた。",
             "enText": "One day, while walking around the school, I \nheard a familiar voice.",
             "nextBlock": 2,
+            "origClipLength": 61,
             "pathId": 4207826511696643428,
             "blockIdx": 1
         },
@@ -20,6 +21,29 @@
             "jpText": "タ、タキオンさん、携帯食ばかりでなく、\r\nご飯も食べたほうが……。",
             "enText": "Ta-ta-kion, you should not only eat portable \nfood, you should also eat rice…",
             "nextBlock": 3,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": 6169081311392976306
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 8664472589344880237
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -1078415631094022328
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -9219314765275836074
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 3544487912334339
+                }
+            ],
             "pathId": -3011793811897381973,
             "blockIdx": 2
         },
@@ -29,6 +53,29 @@
             "jpText": "あらゆる事象を鑑みて、\r\nこれが最も効率的かつ\n利便性に富んだ選択なのだよ。",
             "enText": "All things considered, this is the most \nefficient and convenient option.",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -8853118417824566724
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 5718874651963109984
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2041208879676674939
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -4609522818601738541
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 9032077943843099503
+                }
+            ],
             "pathId": 9118641746531771661,
             "blockIdx": 3
         },
@@ -38,11 +85,34 @@
             "jpText": "おや、ちょうどいいところに。\r\nそこの君も私と同意見だろ？",
             "enText": "Oh, just in time. You there \nagree with me, don't you?",
             "nextBlock": 5,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "ど、どうだろ……",
                     "enText": "I don't know…",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4484138925511688227
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -7671481203907789233
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -5494024942708308424
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -5463211528177118292
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3653868073026518189
                 }
             ],
             "pathId": 2286122622612919004,
@@ -54,6 +124,29 @@
             "jpText": "ま、待ってくださいっ。\r\n私……お弁当、作ってきたんです！",
             "enText": "Wait, wait, wait! I've… made my lunch!",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -5676378881899613540
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 3993600796305709211
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 7100171524645881435
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -5713556203463229985
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -7765776013764422369
+                }
+            ],
             "pathId": 6961750857005243566,
             "blockIdx": 5
         },
@@ -63,6 +156,29 @@
             "jpText": "ニシノフラワーがお弁当の蓋を開けると、\r\n彩り豊かなおかずがぎっしりと詰まっていた。",
             "enText": "When Nishinoflower opened the lid of her \nlunchbox, it was filled with a variety of \ncolourful dishes.",
             "nextBlock": 7,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -4683046046481802681
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -3675399874982438875
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 3451000383306403193
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -5745328318553835405
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 5328814474378429072
+                }
+            ],
             "pathId": -975631758373135163,
             "blockIdx": 6
         },
@@ -72,6 +188,7 @@
             "jpText": "ふぅン、これは……。",
             "enText": "Hmmm, this is…",
             "nextBlock": 8,
+            "origClipLength": 51,
             "choices": [
                 {
                     "jpText": "可愛いおかずだ",
@@ -92,6 +209,25 @@
                     "jpText": "栄養ありそう",
                     "enText": "Nutritious",
                     "nextBlock": 15
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 6168294440097435418
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 8107202748136547770
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 3991133794237850539
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -3519242420622760507
                 }
             ],
             "pathId": -3861363853700509875,
@@ -103,6 +239,7 @@
             "jpText": "ふぅン、これは……。",
             "enText": "Hmmm, this is…",
             "nextBlock": 9,
+            "origClipLength": 51,
             "choices": [
                 {
                     "jpText": "可愛いおかずだ",
@@ -125,6 +262,25 @@
                     "nextBlock": 15
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -5370756840142914575
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 1635067398487203404
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 598828787872236712
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -5859558634925731711
+                }
+            ],
             "pathId": 3926838973553352994,
             "blockIdx": 8
         },
@@ -134,6 +290,25 @@
             "jpText": "はは！　ハートや星にかたどったにんじんに\r\nタコの形に切り揃えたウインナーだと？",
             "enText": "Ha, ha! Carrots shaped like hearts \nand stars and sausages cut into \nthe shape of octopuses?",
             "nextBlock": 10,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -7824957672819787366
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -5030758047009537842
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 5416868382078103978
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6803435580888847021
+                }
+            ],
             "pathId": 1884750210326212145,
             "blockIdx": 9
         },
@@ -143,6 +318,25 @@
             "jpText": "全く理解できない造形だが……興味深い！",
             "enText": "I don't understand this sculpture \nat all… Interesting!",
             "nextBlock": 11,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 4272727217737445175
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 5093725795409999804
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -8651031245876131744
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -3213393711400491157
+                }
+            ],
             "pathId": -3043881025426054264,
             "blockIdx": 10
         },
@@ -152,6 +346,25 @@
             "jpText": "あぅ、タコさんウインナー、\r\nおいしそうだと思ったんですが……。",
             "enText": "Oh, I thought the octopus sausage \nlooked delicious…",
             "nextBlock": 12,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -3287149282303538562
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1909551060383295905
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 104553491472499736
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4089498563542410218
+                }
+            ],
             "pathId": -1879299732262264312,
             "blockIdx": 11
         },
@@ -161,6 +374,25 @@
             "jpText": "ふぅン、なるほど。視覚効果による\r\n味覚の変化を検証していたのか！",
             "enText": "Hmm, I see. So you were testing \nthe visual effect on taste!",
             "nextBlock": 13,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 2240388649178594704
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 6015169428687836529
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 7939815455754795545
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -4065465272608677154
+                }
+            ],
             "pathId": -6126530869980874384,
             "blockIdx": 12
         },
@@ -170,6 +402,29 @@
             "jpText": "これはこれは、ますます興味がわいてきた。\r\n有益な研究とあらば、私も力を貸そう！",
             "enText": "Well, well, well, I'm getting more \nand more interested. If it is useful \nresearch, I will help you!",
             "nextBlock": 14,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -4179125961739443861
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 1402480673078753550
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 2902647869685814283
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -2766985998091845721
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 754450805418175677
+                }
+            ],
             "pathId": -738766107613944743,
             "blockIdx": 13
         },
@@ -179,6 +434,29 @@
             "jpText": "えと、食べていただけるのでしたら\r\nとってもうれしいです……♪",
             "enText": "Well, I'd be very happy if you could eat it…",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 6483698263799415795
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4911122293370921898
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -4320693509248088213
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -2025614648014165398
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3105780683709250289
+                }
+            ],
             "pathId": -348748033919604335,
             "blockIdx": 14
         },
@@ -188,6 +466,25 @@
             "jpText": "少々βカロテンが過多だな。1日に必要な\r\n摂取量目安を超過しているのではないか？",
             "enText": "A little too much beta-carotene \n- you've exceeded the recommended \ndaily intake, haven't you?",
             "nextBlock": 16,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -1973910203286209415
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1139182010307773857
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 6948209138736948067
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -7585959015983143669
+                }
+            ],
             "pathId": 1613116450025663350,
             "blockIdx": 15
         },
@@ -197,6 +494,25 @@
             "jpText": "はい、にんじんまるごと1本ゆでました！\r\nそのほうが栄養も逃げないらしいので。",
             "enText": "Yes, I boiled a whole carrot! \nBecause I heard that the nutrients \ndon't escape that way.",
             "nextBlock": 17,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 360867112441507535
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -7845320302375143228
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -5952261977517795605
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -4518071482774859981
+                }
+            ],
             "pathId": 2315098080270899011,
             "blockIdx": 16
         },
@@ -206,6 +522,29 @@
             "jpText": "あと、タキオンさんのお口に合うといいな\r\nって、甘く煮付けておきました、えへへ……。",
             "enText": "Also, I've boiled it sweetly in the hope \nthat it will suit Tachyon's palate, ehehe…",
             "nextBlock": 18,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -7151275400081230175
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -7652800096533263563
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 7127940763781708726
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 1318283925925932230
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -2147059571258398053
+                }
+            ],
             "pathId": -2234169278929768634,
             "blockIdx": 17
         },
@@ -215,6 +554,29 @@
             "jpText": "ふぅン、理に叶った調理法だな。\r\n私の味覚へのアプローチも適切で申し分ない。",
             "enText": "Hmmm, a sensible way of cooking. \nThe approach to my taste buds is \nappropriate and perfect.",
             "nextBlock": 19,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 6949473038852546650
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3975202154506503118
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4962923562910828430
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -757443428088957459
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -3263048981656222262
+                }
+            ],
             "pathId": 6200456640822479630,
             "blockIdx": 18
         },
@@ -224,6 +586,29 @@
             "jpText": "なるほど、携帯食とはまた違ったメリットが\r\nあるようだ。これは検討に値する！",
             "enText": "Well, it seems to have a different advantage \nto portable food. It's worth considering!",
             "nextBlock": 20,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -232336746535806781
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2490666839595745811
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7804615416088859072
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 5793955409389875574
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -122312095462389245
+                }
+            ],
             "pathId": -3118117845452206600,
             "blockIdx": 19
         },
@@ -233,8 +618,32 @@
             "jpText": "えっと、えっと……『けんとう』のためにも、\r\n食べていただけるとうれしいです……！",
             "enText": "Well, well, well… I hope you'll eat it for \nthe sake of the 'kento'…!",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -4306667676178686312
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -6641882176943619816
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -8033733959706792420
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -5451378937867275015
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -4350022304023477802
+                }
+            ],
             "pathId": -8312460692047369547,
             "blockIdx": 20
         }
-    ]
+    ],
+    "modified": 1669945965
 }

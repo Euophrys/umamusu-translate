@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "I2RWNC4EHMCVVRPLTOPLQXV53654KNRH",
     "type": "story",
     "storyId": "501041508",
@@ -11,6 +11,7 @@
             "jpText": "サクラバクシンオーとトレーニング中――",
             "enText": "I'm training with Sakura Bakushin O.",
             "nextBlock": 2,
+            "origClipLength": 69,
             "pathId": -5733089264798780419,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "桜餅ーーッ！！！",
             "enText": "Sakura mochi!",
             "nextBlock": 3,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "突然どうした！？",
@@ -32,6 +34,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 8150725706824072438
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 4151778198203135571
+                }
+            ],
             "pathId": 5843723315116692157,
             "blockIdx": 2
         },
@@ -41,6 +53,17 @@
             "jpText": "わかりませんッ！！\r\nただ、無性に桜餅が恋しいのですッ！！",
             "enText": "I don't know! It's just that I'm\npining for sakura mochi!",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 9088445257152006045
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 5146033945356084251
+                }
+            ],
             "pathId": 5754519815630830170,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "じわぁッと染み込む優しい甘さ、\r\n全身が求める癒しの香り……！",
             "enText": "A gentle sweetness that soaks in\nslowly, a healing scent that your\nwhole body needs…!",
             "nextBlock": 5,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 3886183781210431339
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -5210600908210577274
+                }
+            ],
             "pathId": 2400891768724533059,
             "blockIdx": 4
         },
@@ -59,6 +93,17 @@
             "jpText": "バクシン中だというのに、なぜっ！　桜餅に\r\n頭をセンリョーされているのでしょう！？",
             "enText": "I'm in the middle of bakusines, but why! Why\nis my head being senryoed by a cherry cake?",
             "nextBlock": 6,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -6986396147569631511
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1671795532974894519
+                }
+            ],
             "pathId": 2682231132817901534,
             "blockIdx": 5
         },
@@ -68,6 +113,17 @@
             "jpText": "疲れていると、甘いものが欲しくなると聞く。\r\n本人は気づいていないが、どうやら\n疲れが溜まっているようだ。",
             "enText": "It is said that when you are tired, you\ncrave for sweets. She doesn't realize it,\nbut it seems that she is tired.",
             "nextBlock": 7,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 8242566149180247162
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 3644187646932269985
+                }
+            ],
             "pathId": 3652882288202552532,
             "blockIdx": 6
         },
@@ -77,8 +133,20 @@
             "jpText": "今後の出走スケジュールを\r\n見直すべきかもしれない……。",
             "enText": "You may want to rethink your running\nschedule in the future…",
             "nextBlock": -1,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -421217361782766708
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -8373246888383932585
+                }
+            ],
             "pathId": -4503774402534228531,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669945713
 }

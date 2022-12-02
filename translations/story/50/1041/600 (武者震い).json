@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "3C6SC2YLEGR6S3YWWED7YTAEEI2TDLBZ",
     "type": "story",
     "storyId": "501041600",
@@ -11,6 +11,17 @@
             "jpText": "聞こえます、聞こえますよ……！",
             "enText": "I hear you, I hear you…!",
             "nextBlock": 2,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 7025692432177535692
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 2838141183990527358
+                }
+            ],
             "pathId": 3285212344223856507,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "模範的優等生の登場を待ちわびる声がッ！！",
             "enText": "A voice awaits the arrival of\nthe exemplary honor student!",
             "nextBlock": 3,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "最高の走りを見せてこい！",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -6437237865530395236
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -2843264967744759002
+                }
+            ],
             "pathId": 1162189737000171091,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "お・ま・か・せ・くださいっ！！！\r\nゼッコーチョーの学級委員長が参ります！！",
             "enText": "Please let me go! Zekkocho's\nclass president is here!",
             "nextBlock": 4,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 2556700750938969644
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 5662218536666291353
+                }
+            ],
             "pathId": -1077960446825244762,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "宣誓ッ！\r\nワタクシ、学級委員長は――",
             "enText": "Pledge! I, the class president…",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -4713689045593801002
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3504537081675484947
+                }
+            ],
             "pathId": 3603836270181290898,
             "blockIdx": 4
         },
@@ -59,8 +103,20 @@
             "jpText": "ウマ娘シップにのっとり、正々！　堂々！\r\n模範となる大バクシンを誓いますッ！！",
             "enText": "In accordance with the Uma Musume Ship,\nrighteously! Dignified! I pledge to be an\nexemplary daibakushin!",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -4355727020005943314
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -6660687826260847041
+                }
+            ],
             "pathId": -4167771852968364570,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945719
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "F4HZGKCWDDETLQAYCEUGVK5LPPVWRR5S",
     "type": "story",
     "storyId": "801034001",
@@ -11,6 +11,7 @@
             "jpText": "トレーニングコースの近くを歩いていると、\r\n何やら騒ぐ声が聞こえてきた。",
             "enText": "As I walked near the training track, \nI could hear a lot of noise.",
             "nextBlock": 2,
+            "origClipLength": 91,
             "pathId": 5573648335144411184,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "大変だー！　ケンカだ、ケンカ！",
             "enText": "Oh, my God! Fight, fight, fight!",
             "nextBlock": 3,
+            "origClipLength": 64,
             "pathId": -751102696272978252,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "これは放っておくわけにいかない。\r\n慌てて様子を見に駆けつけてみると――",
             "enText": "I couldn't just leave it there. I rushed \nover to see what was going on.",
             "nextBlock": 4,
+            "origClipLength": 91,
             "pathId": 8385517043978179303,
             "blockIdx": 3
         },
@@ -38,6 +41,17 @@
             "jpText": "おうおうおう、威勢がいいねぇ！\r\nどっちも負けるな、意地見せてやんな！",
             "enText": "Whoa, whoa, whoa, whoa, whoa, whoa! \nDon't let either of us down, let's \nshow them what we're made of!",
             "nextBlock": 5,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 197,
+                    "pathId": -2169813311708189501
+                },
+                {
+                    "origLen": 179,
+                    "pathId": 4319515724940599660
+                }
+            ],
             "pathId": 2954626110195107852,
             "blockIdx": 4
         },
@@ -47,6 +61,7 @@
             "jpText": "っと、取っ組み合いは五分五分か。\r\nなら〆は野良レースでいこうじゃねぇか！",
             "enText": "So, it's a 50-50 fight. Then let's \nfinish it with a wild race!",
             "nextBlock": 6,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "無断のレースはよくないぞ",
@@ -59,6 +74,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -920315554255683845
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 6474526785349873352
+                }
+            ],
             "pathId": -6708571667265947226,
             "blockIdx": 5
         },
@@ -68,6 +93,17 @@
             "jpText": "うおっつ、トレーナーさん！？　意地の\r\nぶつかり合いに水かけるたぁ野暮じゃねぇか。",
             "enText": "Whoa, trainer! It's unwise to pour \nwater on a clash of wills.",
             "nextBlock": 7,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 1496507832277711688
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -4504995116691523121
+                }
+            ],
             "pathId": -5333625711338951263,
             "blockIdx": 6
         },
@@ -77,11 +113,22 @@
             "jpText": "ん、そうだ！　野良レースでも、お前さんが\r\n認めりゃ、立派な模擬レースじゃねぇか！",
             "enText": "Yes, yes! Even if it's a wild race, it's \nstill a good mock race if you approve!",
             "nextBlock": 8,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "いや、そんな無茶な……",
                     "enText": "No, that's absurd…",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -1372696755033747162
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -6897882198120430906
                 }
             ],
             "pathId": 3760218303134115678,
@@ -93,6 +140,17 @@
             "jpText": "なんでぇなんでぇケチくせぇ。火事と喧嘩は\r\n江戸の華。模擬レースは学園の華だろうが。",
             "enText": "Why, why, why are you so stingy? Fires and \nfights are the flower of Edo. Mock races are \nthe flower of the school.",
             "nextBlock": 9,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 6224256662085448749
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 1638586195228177262
+                }
+            ],
             "pathId": 2968004583219719570,
             "blockIdx": 8
         },
@@ -102,6 +160,17 @@
             "jpText": "スパッと認めて、勝負させてやんな！\r\nそれが江戸っ子の粋ってもんでい！",
             "enText": "Just admit it and let them have it! \nThat's the Edo boy's style!",
             "nextBlock": 10,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 7126503743312570022
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 6090421734293245347
+                }
+            ],
             "pathId": -7588953809124849923,
             "blockIdx": 9
         },
@@ -111,6 +180,17 @@
             "jpText": "こうして、なし崩しに\r\n模擬レースが始まってしまった――！",
             "enText": "And so, without warning, \nthe mock race begins!",
             "nextBlock": 11,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 625146109838465448
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -2460334904066047601
+                }
+            ],
             "pathId": -7361744161398629093,
             "blockIdx": 10
         },
@@ -120,6 +200,17 @@
             "jpText": "っしゃ！　いいスタート！\r\nチャキチャキ走れよ、お天道様もご照覧だぜ！",
             "enText": "Yes! Good start! Ride hard, and \nthe sun will shine on you!",
             "nextBlock": 12,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -4929330226701053938
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -3970733650903328442
+                }
+            ],
             "pathId": -228007355613437833,
             "blockIdx": 11
         },
@@ -129,6 +220,17 @@
             "jpText": "いけーー、そこだ、差せ差せ！\r\nもう一方も踏ん張れーーーっ！！",
             "enText": "Go, there, go, go! Hold on to the other one!",
             "nextBlock": 13,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 8906400469117211107
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -1220664510510169396
+                }
+            ],
             "pathId": -2507156884308011579,
             "blockIdx": 12
         },
@@ -138,6 +240,17 @@
             "jpText": "いやあハナ差の競り合い、いい喧嘩だった。\r\n見ろ、2人のあの晴れ晴れした顔！",
             "enText": "It was a good fight, a race by a nose. Look \nat the two of them, looking so happy!",
             "nextBlock": 14,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 190,
+                    "pathId": 1953581791256766237
+                },
+                {
+                    "origLen": 205,
+                    "pathId": 6934161372213921606
+                }
+            ],
             "pathId": -1922852086734707800,
             "blockIdx": 13
         },
@@ -147,6 +260,7 @@
             "jpText": "ウマ娘ってのは、こうじゃないといけねぇ。\r\nさて、あとはキレイに締めたいもんだが……。",
             "enText": "That's how a girl should be. Now, I'd like \nto finish it off nicely…",
             "nextBlock": 15,
+            "origClipLength": 101,
             "choices": [
                 {
                     "jpText": "健闘を讃えてあげよう",
@@ -159,6 +273,16 @@
                     "nextBlock": 19
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 2815536948439922135
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -1168545204797180808
+                }
+            ],
             "pathId": 5676864158089603209,
             "blockIdx": 14
         },
@@ -168,6 +292,17 @@
             "jpText": "なるほど。じゃあここはひとつ、\r\n“粋”に手締めにさせてもらおうか！",
             "enText": "I see. Well, let's just do \nit in style, shall we?",
             "nextBlock": 16,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 398083379206517105
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1657218876694423825
+                }
+            ],
             "pathId": 1441777397682734459,
             "blockIdx": 15
         },
@@ -177,6 +312,17 @@
             "jpText": "お互いよく頑張ったぜ。その心意気を称えて、\r\n皆々様のお手を拝借。イヨー！",
             "enText": "We've both done well. And for that spirit, \nI'm gonna need a hand from all of you. Yeah!",
             "nextBlock": 17,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 1315123702203890796
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1196083880748595504
+                }
+            ],
             "pathId": -3513374761990552119,
             "blockIdx": 16
         },
@@ -186,6 +332,17 @@
             "jpText": "（パーン！！）",
             "enText": "(Poof!)",
             "nextBlock": 18,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 8145093920403321366
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 4680822170608204868
+                }
+            ],
             "pathId": -3734268093860013812,
             "blockIdx": 17
         },
@@ -195,6 +352,7 @@
             "jpText": "イナリワンの力強いかけ声と共に、\r\n青空に一本締めの音が響き渡ったのだった――",
             "enText": "Inariwan's powerful call was followed by the \nsound of a single clap in the blue sky.",
             "nextBlock": -1,
+            "origClipLength": 95,
             "pathId": -2500980629422686523,
             "blockIdx": 18
         },
@@ -204,6 +362,17 @@
             "jpText": "なるほど、冷茶でわだかまりも\r\nキレイさっぱり洗い流そうってか！\nありがとな、トレーナーさん。",
             "enText": "Well, I suppose a nice cold cup of \ntea will wash away all the embarrassment! \nThanks a lot, trainer.",
             "nextBlock": 20,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 4971172160457844905
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -6641475645828293147
+                }
+            ],
             "pathId": 634528039583640285,
             "blockIdx": 19
         },
@@ -213,8 +382,20 @@
             "jpText": "おーいお前ら、これでも飲んで疲れ癒しな！",
             "enText": "Hey you guys, have a drink and relax!",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -9180702301168637075
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 1375664804667393323
+                }
+            ],
             "pathId": -8261760550370131112,
             "blockIdx": 20
         }
-    ]
+    ],
+    "modified": 1669946542
 }

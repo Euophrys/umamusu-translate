@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "R6D7NDAVXP342DU62DFWK33YIXWCJKYF",
     "type": "story",
     "storyId": "501008431",
@@ -11,6 +11,17 @@
             "jpText": "大舞台でダイワスカーレットに勝利した\r\nウオッカ。だが彼女は今日のレースに、以前\nほどのアツさを感じることができなかった。",
             "enText": "Vodka won on the big stage against Daiwa \nScarlet. However, she didn't feel the same \nenthusiasm for today's race before.",
             "nextBlock": 2,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -4952252652139241552
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 7634044312744591359
+                }
+            ],
             "pathId": 4362938969018721130,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "このままでは戦っていくことはできないと\r\n感じたウオッカは、目指すべきカッコよさを\n鮮明にし、深めなければと気が付く。",
             "enText": "Feeling she could not race like this, \nshe realised the need to clarify and \ndeepen her idea of cool.",
             "nextBlock": 3,
+            "origClipLength": 121,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -7882506634861307561
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -1448890435745751821
+                }
+            ],
             "pathId": -1859145994889433723,
             "blockIdx": 2
         },
@@ -29,10 +51,21 @@
             "jpText": "トレーナーはそんな彼女に\r\nスピードの真っ向勝負ができるマイルレース、\n『ヴィクトリアマイル』を勧める。",
             "enText": "Her trainer recommended her to run the \nVictoria Mile, a mile race where she can \ncompete head-to-head in speed.",
             "nextBlock": 4,
+            "origClipLength": 112,
             "coloredText": [
                 {
                     "jpText": "ヴィクトリアマイル",
                     "enText": "Victoria Mile"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 3032544247197669590
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 715478970753257138
                 }
             ],
             "pathId": -4838036063781570153,
@@ -44,8 +77,20 @@
             "jpText": "レースまでの間、ウオッカは自分が\r\n何を目指すべきか……\n模索することにしたのだった。",
             "enText": "In the days leading up to the race, Vodka \ndecided to try to figure out what she wanted \nto… achieve.",
             "nextBlock": -1,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -1354700670755537622
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 7353051445745833394
+                }
+            ],
             "pathId": -4537771487445415089,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945040
 }

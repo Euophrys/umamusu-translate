@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PGSSF4UAR2ZNX3HQEYTZI3MYPYV47PCF",
     "type": "story",
     "storyId": "501030700",
@@ -11,11 +11,22 @@
             "jpText": "ふぁ～あ……。",
             "enText": "Huh…",
             "nextBlock": 2,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "寝不足？",
                     "enText": "Not enough sleep?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 8543231888259631403
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -6857797934388268420
                 }
             ],
             "pathId": -1066876164767073036,
@@ -27,6 +38,17 @@
             "jpText": "きゃっ！？",
             "enText": "What the hell?",
             "nextBlock": 3,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -8164737750503358825
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -7444719359331389547
+                }
+            ],
             "pathId": -6746970113391882037,
             "blockIdx": 2
         },
@@ -36,6 +58,18 @@
             "jpText": "はぁ、よかったーお兄さまか～……。",
             "enText": "Huh, thank goodness you're my brother~…",
             "nextBlock": 4,
+            "origClipLength": 56,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -4505071544992342676
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 5503868400238384250
+                }
+            ],
             "pathId": -7208625858136155399,
             "blockIdx": 3
         },
@@ -45,6 +79,18 @@
             "jpText": "はぁ、よかったーお姉さまか～……。",
             "enText": "Huh, thank goodness you're my sister~…",
             "nextBlock": 5,
+            "origClipLength": 56,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -4473288611395316980
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 4326668287648035591
+                }
+            ],
             "pathId": 3960558255989547471,
             "blockIdx": 4
         },
@@ -54,6 +100,17 @@
             "jpText": "実は、昨日寝る前に\r\n怖い本読んじゃって……。",
             "enText": "Actually, I read a scary book last \nnight before I went to bed…",
             "nextBlock": 6,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 671181936944212448
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1202823756595430992
+                }
+            ],
             "pathId": -3082866064891928700,
             "blockIdx": 5
         },
@@ -63,6 +120,17 @@
             "jpText": "机のぬいぐるみの向きが気になったり、\r\n時計の針の音がやけに大きく聞こえたり……。",
             "enText": "The direction of the stuffed animal on your \ndesk is bothering you, and the ticking of the \nclock is getting louder and louder…",
             "nextBlock": 7,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -3259662015356238915
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -9161513552086829951
+                }
+            ],
             "pathId": 4385811011558934985,
             "blockIdx": 6
         },
@@ -72,6 +140,17 @@
             "jpText": "そしたら、全部が気になっちゃって……\r\nぜんぜん眠れなかったの……ふぁ～……。",
             "enText": "Then, everything was bothering me… \nI couldn't sleep at all… Huh~…",
             "nextBlock": 8,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 7591818939220515031
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3888450110056455254
+                }
+            ],
             "pathId": 2647363929299491737,
             "blockIdx": 7
         },
@@ -81,8 +160,20 @@
             "jpText": "どうやら、ライスシャワーは寝不足のようだ。\r\nぐっすり眠れるようになればいいが……。",
             "enText": "Apparently, Rice Shower was tired. Hopefully \nshe'll get a good night's sleep…",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -2556143900208311149
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 3265716679550087522
+                }
+            ],
             "pathId": -3025581913074916479,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945558
 }

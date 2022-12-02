@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "K2KCZSEKRRIIXTVIGS7HUV3H66CC2XNJ",
     "type": "story",
     "storyId": "830038003",
@@ -11,6 +11,17 @@
             "jpText": "ある日のこと、乗り物酔いを克服したか\r\nどうか試したいというサクラチヨノオーに\n付き合い、遊園地へとやってきた。",
             "enText": "One day, I went to an amusement park to \naccompany Sakura Chiyono-o who wanted to see \nif I had overcome my motion sickness.",
             "nextBlock": 2,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 8451209160363955115
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 737366960089580817
+                }
+            ],
             "pathId": 9000338694563468802,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "電車はクリアしました……！\r\nここからが、本番ですっ。",
             "enText": "The train is clear…! This is \nwhere the real work begins.",
             "nextBlock": 3,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "頑張ろう！",
                     "enText": "Let's go!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 4950031953754792951
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 6826131149878647717
                 }
             ],
             "pathId": 7645675409865622864,
@@ -36,6 +58,21 @@
             "jpText": "はい！　これまでの努力……\r\n見届けてください！",
             "enText": "Yes! Our efforts so far: … Please watch!",
             "nextBlock": 4,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 4481858486067540245
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 4982648688013031019
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -3563590565256266994
+                }
+            ],
             "pathId": 940282749399726055,
             "blockIdx": 3
         },
@@ -45,6 +82,21 @@
             "jpText": "それではまずは……観覧車です！",
             "enText": "Let's start with the… Ferris wheel!",
             "nextBlock": 5,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -6509436380083773694
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 6990971350106723698
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 6303315086600591031
+                }
+            ],
             "pathId": 6928991439719984065,
             "blockIdx": 4
         },
@@ -54,6 +106,21 @@
             "jpText": "（ゴウン……ゴウン……）",
             "enText": "(Gowon… Gowon…)",
             "nextBlock": 6,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -1356289482665275576
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 7686107503218898452
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -4222739090732463880
+                }
+            ],
             "pathId": -8983193439924915406,
             "blockIdx": 5
         },
@@ -63,6 +130,7 @@
             "jpText": "ふぉぉおお……た、高いですねっ。\r\nあっ、でも景色が綺麗……！",
             "enText": "Woohoo… it's so expensive! Ah, but \nthe scenery is beautiful…!",
             "nextBlock": 7,
+            "origClipLength": 85,
             "pathId": 4932297786502655187,
             "blockIdx": 6
         },
@@ -72,6 +140,17 @@
             "jpText": "全然、平気でした！\r\nこれは成果が出ているってことですよねっ。",
             "enText": "I was totally fine! This means \nit's paying off, right?",
             "nextBlock": 8,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 188,
+                    "pathId": -7539159686090913398
+                },
+                {
+                    "origLen": 202,
+                    "pathId": 3711509322558975238
+                }
+            ],
             "pathId": -8282721606742074405,
             "blockIdx": 7
         },
@@ -81,6 +160,17 @@
             "jpText": "よーし、それじゃ次は……\r\nジェットコースターです！",
             "enText": "Alright, so next up is… the roller coaster!",
             "nextBlock": 9,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -6439584092383529669
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5951051294089820646
+                }
+            ],
             "pathId": 5158800098209493788,
             "blockIdx": 8
         },
@@ -90,6 +180,17 @@
             "jpText": "（ガタンッ、ガタンッ……）",
             "enText": "(Clatter, clatter…)",
             "nextBlock": 10,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -972103591700916410
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -649429124836958493
+                }
+            ],
             "pathId": 5055743271535334688,
             "blockIdx": 9
         },
@@ -99,6 +200,7 @@
             "jpText": "えっ、えっ、こんな上から落ち、落ち……\r\nあ、あああ……ひょわぁぁぁあ～！？",
             "enText": "What, what, what, what, what, what, what, \nwhat, what, what, what, what, what, what, \nwhat, what, what, what, what?",
             "nextBlock": 11,
+            "origClipLength": 94,
             "pathId": -4595761113282994566,
             "blockIdx": 10
         },
@@ -108,11 +210,22 @@
             "jpText": "……ぐ……ま、まぁ、これは……\r\n酔いというよりも……恐怖ですので……。",
             "enText": "… g… well, well, this is more… \nfear than… drunkenness, so…",
             "nextBlock": 12,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "少し休もうか？",
                     "enText": "You want to get some rest?",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 184,
+                    "pathId": 6959385799491913665
+                },
+                {
+                    "origLen": 166,
+                    "pathId": -1475007859230354837
                 }
             ],
             "pathId": 6985010255725700966,
@@ -124,6 +237,17 @@
             "jpText": "い、いえ、それでは克服したことには\r\nなりませんし……行きましょう！",
             "enText": "No, no, that doesn't mean you've \nconquered it… Let's go!",
             "nextBlock": 13,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 8074016218742693513
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8618118885462238436
+                }
+            ],
             "pathId": 6649228389823546100,
             "blockIdx": 12
         },
@@ -133,6 +257,17 @@
             "jpText": "いよいよ次は、最難関……\r\nコーヒーカップです！！",
             "enText": "Finally, the next step is the most \ndifficult one… coffee cups!",
             "nextBlock": 14,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -4293715955329999055
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -4522761751933841751
+                }
+            ],
             "pathId": -2566215344346667432,
             "blockIdx": 13
         },
@@ -142,6 +277,17 @@
             "jpText": "コーヒーカップが動き出す。\r\n回転し、ゆっくりとスピードを\n上げて、上げて、上げて――",
             "enText": "The coffee cup starts to move. It spins, \nslowly picking up speed, picking up speed, \npicking up speed—",
             "nextBlock": 15,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 3737807884249007336
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -877556162809754583
+                }
+            ],
             "pathId": 2388031336257577035,
             "blockIdx": 14
         },
@@ -151,6 +297,7 @@
             "jpText": "（グルングルン、グルングルン……！！）",
             "enText": "(Grunting, grunting…!!!)",
             "nextBlock": 16,
+            "origClipLength": 69,
             "pathId": -813664525517474494,
             "blockIdx": 15
         },
@@ -160,6 +307,7 @@
             "jpText": "おっ、ふっ……！　と、止め……ッ！！\r\nう、ううううう……！！",
             "enText": "Whoa, phew…! And stop …! Uh-uh-uh-uh…!",
             "nextBlock": 17,
+            "origClipLength": 85,
             "pathId": 5880235653233430609,
             "blockIdx": 16
         },
@@ -169,6 +317,17 @@
             "jpText": "う、うう……肩、貸してくださって\r\nありがとうございました……。",
             "enText": "Ugh, ugh… shoulder, thank you \nfor lending me your…",
             "nextBlock": 18,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": -2108102168900554711
+                },
+                {
+                    "origLen": 229,
+                    "pathId": 4041040271244632064
+                }
+            ],
             "pathId": 6899247249081192980,
             "blockIdx": 17
         },
@@ -178,6 +337,17 @@
             "jpText": "克服には……ほど遠かったですね。\r\nこんなじゃ、まだとても――",
             "enText": "It was as far as… to overcome. \nThis is still very—",
             "nextBlock": 19,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 8096695938384627048
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -1490323635489252461
+                }
+            ],
             "pathId": 4015245471971953912,
             "blockIdx": 18
         },
@@ -187,6 +357,25 @@
             "jpText": "あら。2人とも、こんにちは。\r\nそんなところで、なにをして――",
             "enText": "Hello, you two. What are you doing out here?",
             "nextBlock": 20,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": -7184112637894421964
+                },
+                {
+                    "origLen": 157,
+                    "pathId": -4835806143865161399
+                },
+                {
+                    "origLen": 168,
+                    "pathId": -6795919906866001542
+                },
+                {
+                    "origLen": 408,
+                    "pathId": 5958671230022327521
+                }
+            ],
             "pathId": -7123588867008249649,
             "blockIdx": 19
         },
@@ -196,6 +385,25 @@
             "jpText": "って、大変！　どうしたの！？\r\nチヨちゃん、顔色が悪いわ……！",
             "enText": "Oh, my God! What's wrong with you? Chiyo, \nyou don't look so good…!",
             "nextBlock": 21,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 5266359700944562249
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 4052826096832075020
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 3586749747461481717
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -3026285077556414069
+                }
+            ],
             "pathId": 1620996957430708890,
             "blockIdx": 20
         },
@@ -205,6 +413,25 @@
             "jpText": "あっ……！？　マ、マルゼンさんっ！？\r\nこれは……その、私……あの……。",
             "enText": "Oh…! I'm not sure what to say. \nThis is… that, I… that…",
             "nextBlock": 22,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 3102170345687929708
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2034046948036454977
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4557472943020139900
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -8291542014428554894
+                }
+            ],
             "pathId": -1396901107050068347,
             "blockIdx": 21
         },
@@ -214,6 +441,25 @@
             "jpText": "少しだけ悩んだ後、サクラチヨノオーは\r\n乗り物酔いを克服するために\n色々と試してきたことを話した。",
             "enText": "After a bit of pondering, Sakura Chiyono'o \ntold her she'd tried everything to overcome \nher motion sickness.",
             "nextBlock": 23,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -2118798186503944381
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -4268475531100303173
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 999730182756628396
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2892175026543165541
+                }
+            ],
             "pathId": 6097268265426256491,
             "blockIdx": 22
         },
@@ -223,6 +469,25 @@
             "jpText": "また……情けないところ見せちゃいました。\r\nカッコ悪いですね、私。",
             "enText": "I've shown my… pathetic side \nagain. I'm not cool, am I?",
             "nextBlock": 24,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 397,
+                    "pathId": 4967157995473855213
+                },
+                {
+                    "origLen": 276,
+                    "pathId": 4740082536039623248
+                },
+                {
+                    "origLen": 291,
+                    "pathId": 558753879213986791
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -9056857052502668697
+                }
+            ],
             "pathId": 4582306409266962590,
             "blockIdx": 23
         },
@@ -232,6 +497,25 @@
             "jpText": "そんなことないわ。\r\n努力することは、とっても素敵なことよ。",
             "enText": "That's not true. It's a wonderful \nthing to work hard.",
             "nextBlock": 25,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -4697907368501251867
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 9192985092034056517
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -3487079358390559035
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 2529948431473588762
+                }
+            ],
             "pathId": -8791370679588392036,
             "blockIdx": 24
         },
@@ -241,6 +525,7 @@
             "jpText": "でも……私、マルゼンさんみたいに\r\nカッコよくなりたいのに、これじゃ……。",
             "enText": "But… I want to be as cool as Marzen-san, \nand this is not… that.",
             "nextBlock": 26,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "結果はすぐには出ない",
@@ -256,6 +541,25 @@
                     "jpText": "もう克服は諦める？",
                     "enText": "Give up on getting over it?",
                     "nextBlock": 57
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -3854705247451715180
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6761293552954424407
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6572476505704310537
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -4526637927089163934
                 }
             ],
             "pathId": 3198922217006845461,
@@ -267,6 +571,7 @@
             "jpText": "でも……私、マルゼンさんみたいに\r\nカッコよくなりたいのに、これじゃ……。",
             "enText": "But… I want to be as cool as Marzen-san, \nand this is not… that.",
             "nextBlock": 27,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "結果はすぐには出ない",
@@ -284,6 +589,25 @@
                     "nextBlock": 57
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 4561458196360865548
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -5581206080111561730
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 4913779333055907432
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -3381960974881697403
+                }
+            ],
             "pathId": -7308765463172128740,
             "blockIdx": 26
         },
@@ -293,6 +617,30 @@
             "jpText": "それは……。",
             "enText": "It can be found…",
             "nextBlock": 28,
+            "origClipLength": 77,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -686783072630455368
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 5958199066532625422
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 2695826844722176616
+                },
+                {
+                    "origLen": 144,
+                    "pathId": -8042805506806078851
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 1291591605138234424
+                }
+            ],
             "pathId": -148695194048511515,
             "blockIdx": 27
         },
@@ -302,6 +650,29 @@
             "jpText": "その通りよ。どんなことだって、少しずつ\r\n積み重ねて結果を出していくんだから。",
             "enText": "That's right. You have to do everything \nlittle by little to get results.",
             "nextBlock": 29,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -3398056506365312792
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 6693598994433229749
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -6670173486176681714
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 7886696173407421008
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -4447143684162750250
+                }
+            ],
             "pathId": 7486939968269791557,
             "blockIdx": 28
         },
@@ -311,6 +682,29 @@
             "jpText": "ブリバリ頑張ろうとするのもいいけど、\r\n慌てるのは禁物。自分のペースでいきましょ♪",
             "enText": "It's okay to try to do your best, but don't \npanic. Take it at your own pace.",
             "nextBlock": 30,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -5475300455628422580
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -5225136436256487020
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -177227937816021056
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -6738015175787436964
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -2363040092397324550
+                }
+            ],
             "pathId": 3496339245255864502,
             "blockIdx": 29
         },
@@ -320,6 +714,29 @@
             "jpText": "マルゼンさん……。",
             "enText": "Marzen-san…",
             "nextBlock": 31,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 2105847811608557068
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 4041263989449505515
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 1995606386514995982
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -7836051657616374720
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 2474717943772219255
+                }
+            ],
             "pathId": 4362245545929159554,
             "blockIdx": 30
         },
@@ -329,6 +746,25 @@
             "jpText": "ほら、そんな泣きそうな顔しないで。\r\nああ、髪も服も乱れちゃって。",
             "enText": "Come on, don't look like you're about to \ncry. Oh, my hair and clothes are a mess.",
             "nextBlock": 32,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 2620300992978454038
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4852999116033571932
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -8883101112025503840
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 1142171171457085818
+                }
+            ],
             "pathId": 567565924303957506,
             "blockIdx": 31
         },
@@ -338,6 +774,25 @@
             "jpText": "いらっしゃい、整えてあげる。",
             "enText": "Come on, I'll set you up.",
             "nextBlock": 33,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -984398933800495188
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 4139876198757413617
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -8671126670263766090
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 2367261016013519830
+                }
+            ],
             "pathId": 2192782645003594393,
             "blockIdx": 32
         },
@@ -347,6 +802,25 @@
             "jpText": "はわっ！？",
             "enText": "Huh!",
             "nextBlock": 34,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -2147758894780258613
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -4921807480010281474
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 7752995571103778901
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 2996238741613872019
+                }
+            ],
             "pathId": 4796407983844020287,
             "blockIdx": 33
         },
@@ -356,6 +830,25 @@
             "jpText": "ふふ、髪の毛フワフワね。\r\nなんだか、撫でたくなっちゃう。",
             "enText": "Your hair is so fluffy. It \nmakes me want to pet it.",
             "nextBlock": 35,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 3013759696780895325
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 126994561114423780
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3213339008946615243
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 4869233662858171488
+                }
+            ],
             "pathId": -4236696768296495612,
             "blockIdx": 34
         },
@@ -365,6 +858,7 @@
             "jpText": "はっ、はいっ！　よければ、\r\n好きなだけ、ど、どうぞ……！",
             "enText": "Yes, yes! If you want, you can \ngo to… as much as you like!",
             "nextBlock": 36,
+            "origClipLength": 82,
             "pathId": 5632917786105932840,
             "blockIdx": 35
         },
@@ -374,6 +868,7 @@
             "jpText": "ああ、動いちゃダメよ。\r\nリボンも曲がってる……直してあげるわ。",
             "enText": "Oh, don't move. The ribbon is bent \ntoo. … I'll fix it for you.",
             "nextBlock": 37,
+            "origClipLength": 86,
             "pathId": 2657778662436278466,
             "blockIdx": 36
         },
@@ -383,6 +878,7 @@
             "jpText": "……ッ、はい……！",
             "enText": "… yes…!",
             "nextBlock": 38,
+            "origClipLength": 56,
             "pathId": -3604820863890803983,
             "blockIdx": 37
         },
@@ -392,6 +888,25 @@
             "jpText": "はい、できた。",
             "enText": "Yes, it's done.",
             "nextBlock": 39,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -4420665709909754998
+                },
+                {
+                    "origLen": 161,
+                    "pathId": -4301639440977753750
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 1709418390532023743
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -8095102782857010535
+                }
+            ],
             "pathId": 6652360725434862144,
             "blockIdx": 38
         },
@@ -401,6 +916,25 @@
             "jpText": "あ、ありがとう、ございます……！\r\nでも、私また……ご迷惑をおかけして――",
             "enText": "Oh, thank you, thank you…! But I also \napologize for the inconvenience of…—",
             "nextBlock": 40,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -8964317887360954793
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1870095749695460193
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -7238575775614830945
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -7367970135829912861
+                }
+            ],
             "pathId": -7729151932621626898,
             "blockIdx": 39
         },
@@ -410,6 +944,25 @@
             "jpText": "背筋を伸ばして。かっこよくなりたいのなら、\r\n何度だって、かっこつけましょ。",
             "enText": "Stand up straight. If you want to be cool, \nbe cool again and again.",
             "nextBlock": 41,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 8704117473870030608
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 6540223542944411789
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -4726608093947807637
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 4647767114698328676
+                }
+            ],
             "pathId": -7032419340997739964,
             "blockIdx": 40
         },
@@ -419,6 +972,25 @@
             "jpText": "失敗しても、\r\n自分の望む自分になれるまで……ね。",
             "enText": "Even if you fail, you can go to… until you \nbecome the person you want to be.",
             "nextBlock": 42,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -808056226376234023
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 3727667447270897884
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 7752228337254360858
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 2709673876638293097
+                }
+            ],
             "pathId": -4718886024206291751,
             "blockIdx": 41
         },
@@ -428,6 +1000,25 @@
             "jpText": "マルゼンさん……。",
             "enText": "Marzen-san…",
             "nextBlock": 43,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 9162311764838883932
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 2987515214128740808
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -6265943089926557572
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -4086577133903196774
+                }
+            ],
             "pathId": -1301237473983326157,
             "blockIdx": 42
         },
@@ -437,6 +1028,25 @@
             "jpText": "……ッ、はい……はい！！\r\n私、頑張ります……！",
             "enText": "… yes… yes! I'll do my best…!",
             "nextBlock": 44,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -3113164924760107135
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5294890859520576086
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5670526865152357686
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 3153874524767283753
+                }
+            ],
             "pathId": 5800081144207346918,
             "blockIdx": 43
         },
@@ -446,6 +1056,25 @@
             "jpText": "マルゼンスキーの言葉に何度も頷く\r\nサクラチヨノオー。克服にはまだ至らないが、\nいつかきっと、良い方向へと向かうだろう。",
             "enText": "Sakura Chiyono'o nodded repeatedly to \nMarzenski's words. I'm not quite over it \nyet, but I'm sure that one day, things will \nturn out for the better.",
             "nextBlock": -1,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": 9044563155619099348
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -7726845753829485418
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -4795690150964952579
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 2047124326561323368
+                }
+            ],
             "pathId": 5256008216519773474,
             "blockIdx": 44
         },
@@ -455,6 +1084,26 @@
             "jpText": "ですが……。",
             "enText": "But you can find it…",
             "nextBlock": 46,
+            "origClipLength": 52,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 5549086012641918148
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2759991108577327764
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -3443563965998441861
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 927884392483270872
+                }
+            ],
             "pathId": 2344392885769654144,
             "blockIdx": 45
         },
@@ -464,6 +1113,29 @@
             "jpText": "無理しちゃダメよ。\r\n誰だって苦手なことはあるもの。",
             "enText": "Don't push yourself. We all \nhave our weaknesses.",
             "nextBlock": 47,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -7741624765272876592
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3066794324177223343
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 5632964224861169253
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -3466901755765139007
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -7321585171083724955
+                }
+            ],
             "pathId": 2732667758824600577,
             "blockIdx": 46
         },
@@ -473,11 +1145,30 @@
             "jpText": "……。そう、ですね。\r\n結局、迷惑かけちゃいましたし……。",
             "enText": "… Yes, that's right. I ended \nup annoying her…",
             "nextBlock": 48,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "迷惑なんかじゃないよ",
                     "enText": "It's not a nuisance.",
                     "nextBlock": 48
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -4356302736613841145
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -992446643093941941
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -8199557019704171642
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -1842912895334949305
                 }
             ],
             "pathId": -7922317141187803187,
@@ -489,6 +1180,25 @@
             "jpText": "……ありがとうございます。\r\nウジウジしてちゃ、いけませんね。",
             "enText": "Thank you for… I shouldn't be squirming.",
             "nextBlock": 49,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 3950085303357127818
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -5772900684958196058
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2612482116808616045
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 3293024163269590760
+                }
+            ],
             "pathId": 2450036144621549216,
             "blockIdx": 48
         },
@@ -498,6 +1208,25 @@
             "jpText": "そうだ！　気分転換に、今度一緒に\r\nお買い物でもどうかしら。",
             "enText": "That's right! How about we go shopping \ntogether sometime for a change?",
             "nextBlock": 50,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 8940911634699429375
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -1853982749673545859
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -5774127976910994470
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 3105833715341656797
+                }
+            ],
             "pathId": -7849912581514846794,
             "blockIdx": 49
         },
@@ -507,6 +1236,25 @@
             "jpText": "マルゼンさんと……！？\r\nあっ、でも私、あの……。",
             "enText": "Marzen-san and…! Ah, but I, that…",
             "nextBlock": 51,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 8559982178810555004
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 7553890223442150181
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 7636585977027248061
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -999903111583862297
+                }
+            ],
             "pathId": -6902519013331466290,
             "blockIdx": 50
         },
@@ -516,6 +1264,25 @@
             "jpText": "のんびり散歩しながらウィンドウ\r\nショッピングも楽しいでしょ？",
             "enText": "Isn't it fun to take a leisurely stroll and \ndo some window shopping?",
             "nextBlock": 52,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -5149148483871744961
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 7139482491143022150
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 6422525622413613989
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 1499944658125523298
+                }
+            ],
             "pathId": -6186907664169094255,
             "blockIdx": 51
         },
@@ -525,6 +1292,25 @@
             "jpText": "チヨちゃんに似合うイケイケな\r\nお洋服とか、選ばせてほしいわ！",
             "enText": "I wish you'd let me pick out some cool \nclothes that would suit you, Chiyo!",
             "nextBlock": 53,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 7446724129285991448
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 1803946537116942904
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 8443229685076686995
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 5125236859773667829
+                }
+            ],
             "pathId": -2796361217636402426,
             "blockIdx": 52
         },
@@ -534,6 +1320,25 @@
             "jpText": "マルゼンさん……。",
             "enText": "Marzen-san…",
             "nextBlock": 54,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -120413595755620489
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -2914183553487213824
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -4712941541636625865
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 3960273999479643604
+                }
+            ],
             "pathId": -4141091108108016148,
             "blockIdx": 53
         },
@@ -543,6 +1348,25 @@
             "jpText": "……っ、はい！\r\nぜひ、ご一緒させてください！",
             "enText": "… yes! Please let me join you!",
             "nextBlock": 55,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -2650466459456359994
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -7707996431009293821
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -4857565895224235905
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -1316793742524755556
+                }
+            ],
             "pathId": 6008511582371935972,
             "blockIdx": 54
         },
@@ -552,6 +1376,25 @@
             "jpText": "私、イケイケなお洋服が似合うように……\r\nこれからも精進しますから！",
             "enText": "I'm going to try to look good in cool \nclothes… I'll keep working hard!",
             "nextBlock": 56,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -5457566911777183415
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8921784417107736286
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5763988852993428561
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -7068496070484469557
+                }
+            ],
             "pathId": -72799706919820062,
             "blockIdx": 55
         },
@@ -561,6 +1404,25 @@
             "jpText": "克服はできなかったが、\r\n憧れを目指すサクラチヨノオーの\n足が止まることは、なさそうだ。",
             "enText": "She couldn't overcome it, but that \ndidn't seem to stop Sakura Chiyono'o \nfrom pursuing her dream.",
             "nextBlock": -1,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -4794830073029088752
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -6070199848041772072
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 1770986101943771886
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 3506857293847074676
+                }
+            ],
             "pathId": -3035621854832125672,
             "blockIdx": 56
         },
@@ -570,6 +1432,25 @@
             "jpText": "そ……それはいやです！！\r\n絶対に、絶対にですっ。",
             "enText": "And… I don't want to do that! I'm \nnot going to let that happen.",
             "nextBlock": 58,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": -390987625073057118
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 4006385648122383990
+                },
+                {
+                    "origLen": 204,
+                    "pathId": -8319497738868984686
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -394926249592169928
+                }
+            ],
             "pathId": 1889673772959151808,
             "blockIdx": 57
         },
@@ -579,6 +1460,29 @@
             "jpText": "克服はできなくても、\r\n少しはよくなったんですっ。",
             "enText": "I may not be able to overcome \nit, but I'm a little better.",
             "nextBlock": 59,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 195,
+                    "pathId": 1676078411861698934
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -7456133768807489789
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -5586925107461360044
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -8214992468915604293
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -8396987167726523376
+                }
+            ],
             "pathId": 2328108054008700124,
             "blockIdx": 58
         },
@@ -588,6 +1492,29 @@
             "jpText": "だから……せめて、自分のできる\r\n範囲でだけでも頑張りたい……！",
             "enText": "That's why I'd like to… at least \ntry to do as much as I can…!",
             "nextBlock": 60,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6701353217326112072
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 7870468688543262519
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8116848883185100765
+                },
+                {
+                    "origLen": 274,
+                    "pathId": -4137994287629754058
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -3488852958536744248
+                }
+            ],
             "pathId": -1884495068370238976,
             "blockIdx": 59
         },
@@ -597,6 +1524,29 @@
             "jpText": "ええ、そうね。自分のできる範囲で、\r\nできることを頑張りましょ。",
             "enText": "Yeah, I know. Let's do what we can, \nto the best of our ability.",
             "nextBlock": 61,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 7193448140182514922
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 4151821125226170379
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -8243557880510678827
+                },
+                {
+                    "origLen": 274,
+                    "pathId": 8270851367415366737
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 2001498520409306137
+                }
+            ],
             "pathId": 2067317281617683627,
             "blockIdx": 60
         },
@@ -606,11 +1556,30 @@
             "jpText": "あ……。",
             "enText": "Oh…",
             "nextBlock": 62,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "少しずつでいいんだよ",
                     "enText": "A little at a time, that's all.",
                     "nextBlock": 62
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 1109317714626248161
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 6380333143712717114
+                },
+                {
+                    "origLen": 274,
+                    "pathId": 346697437553294874
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -2951374172128189619
                 }
             ],
             "pathId": -7904211187694522088,
@@ -622,6 +1591,25 @@
             "jpText": "……そう、ですよね。\r\nお2人の言う通りです。",
             "enText": "… Yes, you're right. The \ntwo of you are right.",
             "nextBlock": 63,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -7550613353650592327
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 5581005865990866592
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -7987055698896014389
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 7173253768917747085
+                }
+            ],
             "pathId": 7126566591082482802,
             "blockIdx": 62
         },
@@ -631,6 +1619,29 @@
             "jpText": "そっか……私、克服しなきゃって、\r\n焦ってたんだ。",
             "enText": "I see… I was in such a hurry to get over it.",
             "nextBlock": 64,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 155,
+                    "pathId": -1409228515155793
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7140812246093555681
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -6354510869124643586
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 635236947058132312
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -8500576639304982629
+                }
+            ],
             "pathId": -1203679496365172485,
             "blockIdx": 63
         },
@@ -640,6 +1651,29 @@
             "jpText": "じゃなきゃ、マルゼンさんにドライブに\r\n誘ってもらえないって……。",
             "enText": "Otherwise, she said, she wouldn't have asked \nMarzen to take her for a drive…",
             "nextBlock": 65,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8717192099097303534
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -9050735993426831139
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 3965214340573414077
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 3385160678200303338
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 5720308806739612684
+                }
+            ],
             "pathId": 8512430114301412372,
             "blockIdx": 64
         },
@@ -649,6 +1683,25 @@
             "jpText": "あら！　そんな理由だったの？",
             "enText": "Oh, my! Is that why you're here?",
             "nextBlock": 66,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 223,
+                    "pathId": -5437515734096271988
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3789336175828628589
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -4118303185692650211
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 5789358343425027498
+                }
+            ],
             "pathId": -5360157964829783232,
             "blockIdx": 65
         },
@@ -658,6 +1711,25 @@
             "jpText": "え？　……あっ！？\r\nち、ちが、今のは……！！",
             "enText": "What? It's…! No, no, that was…!",
             "nextBlock": 67,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 3806036164085453664
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -526122767211170208
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 545756318346318375
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -1032965718742500971
+                }
+            ],
             "pathId": 9062010818360948692,
             "blockIdx": 66
         },
@@ -667,6 +1739,25 @@
             "jpText": "ふふっ、かーわいい♪",
             "enText": "Phew, cute…",
             "nextBlock": 68,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 7567460804406943503
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -8665954962039023323
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -108940105474018717
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 7267922377192704916
+                }
+            ],
             "pathId": -3847815310139901123,
             "blockIdx": 67
         },
@@ -676,6 +1767,25 @@
             "jpText": "大丈夫よ。\r\nおねーさんは、いつまででも待つもの！",
             "enText": "It's okay. You can wait as long as you like!",
             "nextBlock": 69,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -5974003176480808664
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 8582710073843375514
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 8328587120032900126
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -1508880940873106308
+                }
+            ],
             "pathId": 8587176039685192887,
             "blockIdx": 68
         },
@@ -685,6 +1795,25 @@
             "jpText": "ドライブはいつか、必ずね。\r\nチヨちゃんと、あたしの約束。",
             "enText": "We'll go for a drive someday, I promise. \nThis is a promise between Chiyo-chan and me.",
             "nextBlock": 70,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -2930599043698048887
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -7219658562035127969
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 3227944325734042824
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -4146989257853697962
+                }
+            ],
             "pathId": -8466251343494014353,
             "blockIdx": 69
         },
@@ -694,6 +1823,25 @@
             "jpText": "！　は、はい……！！",
             "enText": "Yes! Yes, yes…!",
             "nextBlock": 71,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -4724691909589697202
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 633972562753742996
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 4692029183532144107
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 4346748715253549677
+                }
+            ],
             "pathId": 5916664650754530699,
             "blockIdx": 70
         },
@@ -703,6 +1851,25 @@
             "jpText": "私……時間はかかるかもしれませんが、\r\n克服できるように、頑張ります！",
             "enText": "It may take me… some time, but I'll \ntry my best to overcome it!",
             "nextBlock": 72,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 5136606282242619160
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 2501702322378367169
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 1827068260189706817
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 685203912465265620
+                }
+            ],
             "pathId": -7390940896965291318,
             "blockIdx": 71
         },
@@ -712,6 +1879,25 @@
             "jpText": "ええ、それまでは自分たちの脚で\r\nお出かけしましょ。\nそれもきっと、楽しいもの！",
             "enText": "Yeah, until then, let's go out \non our own. It'll be fun!",
             "nextBlock": 73,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -7901863556743775146
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 3005983855360024227
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6627142862863000183
+                },
+                {
+                    "origLen": 284,
+                    "pathId": 6373731579788356999
+                }
+            ],
             "pathId": -3054471710796621028,
             "blockIdx": 72
         },
@@ -721,8 +1907,28 @@
             "jpText": "サクラチヨノオーの青白かった頬に\r\n赤みがさす。2人のウマ娘の笑顔が、\nどこか似ているように見えた。",
             "enText": "Sakura Chiyono's pale cheeks blushed, and \nthe smiles on the faces of the two girls \nlooked somewhat similar.",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -1065720450228252585
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -5663336403584941619
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2051174378980469029
+                },
+                {
+                    "origLen": 284,
+                    "pathId": -8895176995233842826
+                }
+            ],
             "pathId": -3486761068593891382,
             "blockIdx": 73
         }
-    ]
+    ],
+    "modified": 1669946043
 }

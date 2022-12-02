@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "HIKHBFFWW6ED4WNH3X6LEHNIEI5DKU52",
     "type": "story",
     "storyId": "809004002",
@@ -11,6 +11,13 @@
             "jpText": "トレーニングが少し長引いた日の夜、\r\n<chrname>を寮の前まで\n送り届けた直後のこと――",
             "enText": "Just after dropping <chrname> off in front \nof her dormitory on a night when training \nwas a bit long…",
             "nextBlock": 2,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 3687551061662526239
+                }
+            ],
             "pathId": -3639403942601706114,
             "blockIdx": 1
         },
@@ -20,11 +27,22 @@
             "jpText": "<username>トレーナー！\r\nお疲れ様です。今から帰られるんですか？",
             "enText": "Trainer <username>! Thank you for your time. \nAre you going home now?",
             "nextBlock": 3,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "はい",
                     "enText": "Yes",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6877035444335335499
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6496358867138470366
                 }
             ],
             "pathId": -5048519059880862507,
@@ -36,6 +54,17 @@
             "jpText": "そうなんですね！　私もミークを送り届けて、\r\nこれからトレーナー寮へ戻るのですが――",
             "enText": "Oh, I see! I've just dropped Meek off and \nI'm heading back to the trainers' dormitory.",
             "nextBlock": 4,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -8735549814852018100
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5934059186911510347
+                }
+            ],
             "pathId": 1084068071357123816,
             "blockIdx": 3
         },
@@ -45,6 +74,21 @@
             "jpText": "よければ、ご一緒しても構いませんか？",
             "enText": "If you don't mind, I'd like to join you.",
             "nextBlock": 5,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -8249480436794061086
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2598174265080721510
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2809650517693499099
+                }
+            ],
             "pathId": -869622741781932015,
             "blockIdx": 4
         },
@@ -54,11 +98,26 @@
             "jpText": "同期のよしみ……な、なんて言うと、\r\nちょっと馴れ馴れしいかもしれませんが。",
             "enText": "It may sound a bit familiar to say that we \nare all in the same boat…",
             "nextBlock": 6,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "そんなことありません",
                     "enText": "No, it isn't.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -1562842569078614251
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 3645635716668770397
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4470421259251666787
                 }
             ],
             "pathId": -2704177625238360385,
@@ -70,6 +129,21 @@
             "jpText": "<username>トレーナー……\r\nふふ、お優しいんですね。",
             "enText": "Trainer <username>… Hmm, you're very kind.",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -8196814611566848329
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 6247646866265978206
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2174900247468225341
+                }
+            ],
             "pathId": 2362109690635709809,
             "blockIdx": 6
         },
@@ -79,6 +153,21 @@
             "jpText": "それでは、行きましょうか。",
             "enText": "So, let's go, shall we?",
             "nextBlock": 8,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -7238896316591730836
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 8975000800892622977
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1069976500163732563
+                }
+            ],
             "pathId": 3357528353398127041,
             "blockIdx": 7
         },
@@ -88,9 +177,20 @@
             "jpText": "その日の夜は、桐生院トレーナーと\r\n道すがら色々と話しながら帰った。",
             "enText": "That evening I went home with \ntrainer Kiryuin, talking about \nmany things along the way.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -7562140805147255955
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -1350230119202658818
+                }
+            ],
             "pathId": 6260970240242665380,
             "blockIdx": 8
         }
     ],
-    "modified": 1661711800
+    "modified": 1669945978
 }

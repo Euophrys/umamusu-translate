@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "EPFI36MRIKSZB7PRZBJ7NFF4NB2MGTAJ",
     "type": "story",
     "storyId": "501006707",
@@ -11,11 +11,26 @@
             "jpText": "オグリキャップに頼まれて、\r\n神社にやって来たのだが……。",
             "enText": "Oguri Cap asked me to come to the shrine…",
             "nextBlock": 2,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "どうして神社に？",
                     "enText": "What brings you to the shrine?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": -1169059732708424869
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3408399453813428286
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -7737423575196926933
                 }
             ],
             "pathId": -343583458424544739,
@@ -27,6 +42,21 @@
             "jpText": "最近、体が重いんだ……。",
             "enText": "I've been feeling heavy lately…",
             "nextBlock": 3,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 945205234339172195
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -6319378580046476355
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -6848921700669943818
+                }
+            ],
             "pathId": 3667021919885929205,
             "blockIdx": 2
         },
@@ -36,6 +66,17 @@
             "jpText": "何をやってもちょっとしたミスをしたり、\r\nとにかく調子が悪い……。",
             "enText": "No matter what I do, I make a small mistake \nor I'm just not feeling well…",
             "nextBlock": 4,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 4909779816513245722
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 294760812852688477
+                }
+            ],
             "pathId": -3605699190660923591,
             "blockIdx": 3
         },
@@ -45,6 +86,17 @@
             "jpText": "それで、『困った時は神頼みだ』って、\r\nマサさんが言っていたんだ。",
             "enText": "So Masa-san said, \"When in doubt, ask God.",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 7651559470884927319
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 5276116442929322746
+                }
+            ],
             "pathId": 1028444722492184509,
             "blockIdx": 4
         },
@@ -54,6 +106,17 @@
             "jpText": "実際、故郷のレース場の中にある神社で\r\nお祈りしたら、レースで勝てた事もあるんだ。",
             "enText": "In fact, I once won a race by praying \nat a shrine in the middle of a racetrack \nin my hometown.",
             "nextBlock": 6,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -3957123317386054552
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -4760526831678264009
+                }
+            ],
             "pathId": -3762289276455732057,
             "blockIdx": 5
         },
@@ -63,11 +126,22 @@
             "jpText": "だから、神頼みをすることにした。",
             "enText": "So I decided to ask God for help.",
             "nextBlock": 7,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "一緒に神様にお願いするよ",
                     "enText": "We'll ask God together.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 7392212741210317283
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1511129487436151513
                 }
             ],
             "pathId": 4842134920435370210,
@@ -79,6 +153,17 @@
             "jpText": "いいのか……？\r\nありがとう、トレーナー。",
             "enText": "Are you sure?…? Thanks, trainer.",
             "nextBlock": 8,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 694361821306335652
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 4668667856851419807
+                }
+            ],
             "pathId": -4666763238775283676,
             "blockIdx": 7
         },
@@ -88,6 +173,17 @@
             "jpText": "オグリキャップとお祈りをした。",
             "enText": "I prayed with Oguri-cap.",
             "nextBlock": 9,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -9144940132442425600
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4142319637258847747
+                }
+            ],
             "pathId": 6513881947686883949,
             "blockIdx": 8
         },
@@ -97,6 +193,17 @@
             "jpText": "御賽銭もしたし、\r\n頼みを聞いてくれるといいが……。",
             "enText": "I've already made a monetary offering, and I \nhope they'll do me a favor…",
             "nextBlock": 10,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -5144100838226750000
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3548837001602210663
+                }
+            ],
             "pathId": -1057905337551456764,
             "blockIdx": 9
         },
@@ -106,6 +213,21 @@
             "jpText": "……む？\r\n何か、ポケットの中に入っている……。",
             "enText": "…Mu? What's that in your pocket…?",
             "nextBlock": 11,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 8327220356052283576
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 2628410658765518126
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -5347961761375070309
+                }
+            ],
             "pathId": -6788570384520723741,
             "blockIdx": 10
         },
@@ -115,6 +237,22 @@
             "jpText": "――こ、これはラーメン屋の替え玉無料券！\r\nさっそくのご利益だ！",
             "enText": "—Here, it's a free doubled egg ticket from a \nnoodle shop! It's a blessing!",
             "nextBlock": 12,
+            "origClipLength": 86,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -7515939232507325525
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 1210999116546348826
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 2583381894180315311
+                }
+            ],
             "pathId": -1383197396406034535,
             "blockIdx": 11
         },
@@ -124,6 +262,18 @@
             "jpText": "きっと、ラーメンを食べて\r\n元気になれという事なんだろうな……！",
             "enText": "I'm sure they want us to eat ramen \nto cheer ourselves up…!",
             "nextBlock": 13,
+            "origClipLength": 86,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 5290928219143910899
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 1191583255494682724
+                }
+            ],
             "pathId": 8099905111927124094,
             "blockIdx": 12
         },
@@ -133,6 +283,17 @@
             "jpText": "体も軽くなった気もするし……うん。\r\nラーメンを食べに行くか……！",
             "enText": "I feel lighter, too… Yeah. \nLet's go eat some ramen…!",
             "nextBlock": 14,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 1539192364953657508
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -7493820618143155406
+                }
+            ],
             "pathId": 2100294664865280546,
             "blockIdx": 13
         },
@@ -142,6 +303,17 @@
             "jpText": "その後、いただいたご利益を手に、\r\n軽やかな足取りのオグリキャップと、\nラーメンを食べに行ったのであった。",
             "enText": "Afterwards, with the blessings I had received \nin my hands, I went out for ramen with a \nlight-footed Oguri-cap.",
             "nextBlock": -1,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 1696499553726279079
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 2185844942446783113
+                }
+            ],
             "pathId": -4454332249900709504,
             "blockIdx": 14
         },
@@ -151,6 +323,8 @@
             "jpText": "あ、いや……待ってくれ……！",
             "enText": "Oh, no… wait…!",
             "nextBlock": 16,
+            "origClipLength": 63,
+            "trainerGender": "f",
             "pathId": 7149660614779875223,
             "blockIdx": 15
         },
@@ -160,6 +334,7 @@
             "jpText": "期限が切れてしまっている……。",
             "enText": "It has expired…",
             "nextBlock": 17,
+            "origClipLength": 64,
             "pathId": -3907379512102341488,
             "blockIdx": 16
         },
@@ -169,6 +344,21 @@
             "jpText": "私としたことが、せっかくの替え玉を\r\n無駄にしてしまうなんて……はぁ。",
             "enText": "I can't believe I've wasted \nall those doubles on…",
             "nextBlock": 18,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -4318129170907264470
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 4877962470334922677
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 6652613128259665257
+                }
+            ],
             "pathId": -9020236140522507255,
             "blockIdx": 17
         },
@@ -178,8 +368,24 @@
             "jpText": "この調子だと、\r\nあまり幸先は良くなさそうだ……。",
             "enText": "At this rate, it's not looking good for us…",
             "nextBlock": -1,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -8856017470190699354
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2139281123551782955
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 2077290833122157055
+                }
+            ],
             "pathId": -3139066383172658422,
             "blockIdx": 18
         }
-    ]
+    ],
+    "modified": 1669944985
 }

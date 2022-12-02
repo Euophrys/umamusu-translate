@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "SI2HMNEOYQWMEXUHGWRKNECTG3LA24GE",
     "type": "story",
     "storyId": "501006109",
@@ -11,6 +11,7 @@
             "jpText": "世間一般では、今夜はクリスマス。\r\nしかし『有馬記念』という大一番を控えた\nウマ娘たちには、浮かれてもいられない夜だ。",
             "enText": "Tonight is Christmas in the world. But it's \nnot a night to be merry for the Uma girls as \nthey prepare for the big race, Arima Kinen.",
             "nextBlock": 2,
+            "origClipLength": 121,
             "pathId": -8776282420418915314,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "とはいえ、大切な夜であることには違いない。\r\nオグリキャップにも、\n友だちと大いに楽しむよう伝えたのだが――",
             "enText": "However, it was still an important \nnight. I told Oguri-cap to have a \ngreat time with her friends.",
             "nextBlock": 3,
+            "origClipLength": 115,
             "pathId": -8602960131570459328,
             "blockIdx": 2
         },
@@ -29,11 +31,26 @@
             "jpText": "トレーナー、\r\n待っていたぞ。",
             "enText": "Trainer, I've been waiting for you.",
             "nextBlock": 4,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "オグリ！？どうしてここに……",
                     "enText": "Oguri! How did you get here?…",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -9098194329394905375
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 724084946553941542
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5009460413643971077
                 }
             ],
             "pathId": 2634253285758093534,
@@ -45,6 +62,21 @@
             "jpText": "今頃はタマモクロスたちと\r\nパーティー中のはず。\nそれに室内もクリスマス仕様になっている。",
             "enText": "I'm sure she's having a party with the Tamamo \nCrosses right now. And the room has been \ndecorated for Christmas.",
             "nextBlock": 5,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -397911955489132503
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -5462545047806991629
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -2329348889029726919
+                }
+            ],
             "pathId": 89409431877431515,
             "blockIdx": 4
         },
@@ -54,6 +86,7 @@
             "jpText": "すまない、勝手に部屋に入らせてもらった。\r\nサプライズというやつだ。",
             "enText": "I'm sorry, I took the liberty of entering \nyour room. It's called a surprise.",
             "nextBlock": 6,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "パーティーはどうしたんだ？",
@@ -66,6 +99,20 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 59811024735522191
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7883745830381269743
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 6554250751654610808
+                }
+            ],
             "pathId": 5058915263636043754,
             "blockIdx": 5
         },
@@ -75,6 +122,17 @@
             "jpText": "まだ続いてるよ。\r\n私だけ、少し抜けさせてもらったんだ。",
             "enText": "It's still going on. I'm the only \none who got a little time off.",
             "nextBlock": 7,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -7325185604636648371
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 6489369377367320709
+                }
+            ],
             "pathId": -6429901905194977195,
             "blockIdx": 6
         },
@@ -84,6 +142,17 @@
             "jpText": "……このクリスマスは、特別だから。\r\nキミとも一緒に、過ごしたかった。",
             "enText": "… Because this Christmas is special. I \nwanted to spend it with you, too.",
             "nextBlock": 8,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 7329083566261461104
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -5090652889755627965
+                }
+            ],
             "pathId": 8574167437026020859,
             "blockIdx": 7
         },
@@ -93,11 +162,26 @@
             "jpText": "全てが決まる前に……\r\nキミと、語らいたかったんだ。",
             "enText": "Before everything was decided, I \nwanted to talk to you about…",
             "nextBlock": 9,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "オグリ……",
                     "enText": "Oguri…",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 2026365811624523803
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7909071446303281428
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5123485890744703852
                 }
             ],
             "pathId": -5875140621648858082,
@@ -109,6 +193,21 @@
             "jpText": "素直な気持ちを言ったらな、\r\nみんな快く送り出してくれたよ。",
             "enText": "I told them how I really felt, and \nthey were happy to let me go.",
             "nextBlock": 10,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 5914662807899920588
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 1230163867025073485
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -8216298526567428605
+                }
+            ],
             "pathId": 8474283145131742021,
             "blockIdx": 9
         },
@@ -118,6 +217,21 @@
             "jpText": "この飾り付けも、みんなの提案なんだ。\r\n私は、いいライバルに恵まれたな。",
             "enText": "This decoration was also suggested \nby everyone. I've been blessed \nwith good competitors.",
             "nextBlock": 11,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 7761142096670526590
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6827170570170616837
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6354876268139267062
+                }
+            ],
             "pathId": -4179826827911728694,
             "blockIdx": 10
         },
@@ -127,6 +241,21 @@
             "jpText": "それに……いいトレーナーにも、だな。",
             "enText": "And… a good trainer, too, I guess.",
             "nextBlock": 12,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -7237353575134770940
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2755061339401684056
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 4936039838882223791
+                }
+            ],
             "pathId": -5814097728095153602,
             "blockIdx": 11
         },
@@ -136,6 +265,18 @@
             "jpText": "さて、早速私たちのパーティーを始めよう。",
             "enText": "Well, let's get our party started.",
             "nextBlock": 13,
+            "origClipLength": 71,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 6300828929211784226
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6215912836786710154
+                }
+            ],
             "pathId": -8690768049524229934,
             "blockIdx": 12
         },
@@ -145,6 +286,18 @@
             "jpText": "まず……何から食べようか？\r\nクリークたちが色々持たせてくれたんだ。",
             "enText": "Let's start with… where shall we eat? Creek \nand the others let me have some things.",
             "nextBlock": 14,
+            "origClipLength": 89,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 8969447440230040056
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -1569133606471810500
+                }
+            ],
             "pathId": -2881491851977381163,
             "blockIdx": 13
         },
@@ -154,11 +307,22 @@
             "jpText": "確かによく見ると、料理がこんもりある。\r\nケーキにピザ、サラダ、シチュー、ブリ……。",
             "enText": "If you look closely, you will see that there \nis a lot of food. There are cakes, pizzas, \nsalads, stews, and brie…",
             "nextBlock": 15,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "ブリ？",
                     "enText": "Bri?",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 2616251732960570871
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -3225733999849311054
                 }
             ],
             "pathId": -628861302179503261,
@@ -170,6 +334,21 @@
             "jpText": "さすがトレーナー！\r\nそこに目をつけてくれたか！",
             "enText": "That's my trainer! You've got my attention!",
             "nextBlock": 16,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 1334941038127811938
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -4793603043180904971
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 9161062505140027430
+                }
+            ],
             "pathId": -5916331984231346757,
             "blockIdx": 15
         },
@@ -179,6 +358,21 @@
             "jpText": "お祝いごとには旬の寒ブリがいいと、\r\nイナリが用意してくれてな。",
             "enText": "Inari told me that the best way to celebrate \nis with seasonal yellowtail.",
             "nextBlock": 17,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 6651632527221912795
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5676403159495378076
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 3899169301245220006
+                }
+            ],
             "pathId": 5569478324719921672,
             "blockIdx": 16
         },
@@ -188,6 +382,17 @@
             "jpText": "どうだ、身がパンパンで美味しそうだろう？\r\nうん、そうだな、ブリからいこう。",
             "enText": "How does it look? Doesn't it look \ngood with all that meat? Yeah, let's \nstart with the yellowtail.",
             "nextBlock": 18,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 1751785783918237445
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -4925879960673987583
+                }
+            ],
             "pathId": 6374102929787010086,
             "blockIdx": 17
         },
@@ -197,6 +402,7 @@
             "jpText": "まずはお造りにして、頭はかぶと煮にして……\r\nああ、ワクワクしてきた！",
             "enText": "We'll start with sashimi, and then \nthe head will be boiled with kabuto… \nOh, I'm so excited!",
             "nextBlock": 19,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "オグリが捌くのか？",
@@ -209,6 +415,16 @@
                     "nextBlock": 19
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 6811744519762979172
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -4172019922619507811
+                }
+            ],
             "pathId": -4283657575761361213,
             "blockIdx": 18
         },
@@ -218,6 +434,17 @@
             "jpText": "……あっ。",
             "enText": "… Oh.",
             "nextBlock": 20,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 4913524581884228418
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 2521031782223003556
+                }
+            ],
             "pathId": 8679178242730505810,
             "blockIdx": 19
         },
@@ -227,11 +454,22 @@
             "jpText": "私は、捌けない……。\r\nトレーナーは？",
             "enText": "I can't handle… Trainer?",
             "nextBlock": 21,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "一匹まるまる、となると……",
                     "enText": "A whole fish, if you will…",
                     "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -5628242541417330057
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -8411125692936320722
                 }
             ],
             "pathId": 8432507505706399732,
@@ -243,6 +481,21 @@
             "jpText": "……。\r\nいける。",
             "enText": "… You can go there.",
             "nextBlock": 22,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -8323973305944224162
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -6538146953604662738
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -4654574362726456957
+                }
+            ],
             "pathId": 8053411928157141302,
             "blockIdx": 21
         },
@@ -252,6 +505,7 @@
             "jpText": "私なら、きっと丸のみできる……！",
             "enText": "I'm sure I can make it whole…!",
             "nextBlock": 23,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "早まるな！！",
@@ -264,6 +518,20 @@
                     "nextBlock": 23
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5327413142253803219
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -3976113640562003903
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5229434856645507407
+                }
+            ],
             "pathId": 332604335104785257,
             "blockIdx": 22
         },
@@ -273,6 +541,17 @@
             "jpText": "こうして、オグリキャップと過ごす\r\nクリスマスの夜は深まっていった……。",
             "enText": "Thus, the Christmas night \nwith Oguri Cap deepened…",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -7016354067180860571
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -1539854477294303801
+                }
+            ],
             "pathId": -7763612447217214531,
             "blockIdx": 23
         },
@@ -282,6 +561,18 @@
             "jpText": "……思い出すよ。故郷にいた頃も、\r\nクリスマスは毎回楽しく過ごしていた。",
             "enText": "It reminds me of… Even when I was back home, \nwe had a good time every Christmas.",
             "nextBlock": 25,
+            "origClipLength": 91,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 5944118940978252579
+                },
+                {
+                    "origLen": 144,
+                    "pathId": 4812541101503233390
+                }
+            ],
             "pathId": 8510910783766905918,
             "blockIdx": 24
         },
@@ -291,6 +582,17 @@
             "jpText": "みんなが用意してくれる美味しい料理や、\r\n賑やかで優しいお喋り……。",
             "enText": "Everyone prepares delicious food, and the \nconversation is lively and friendly…",
             "nextBlock": 26,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 2319606236560016114
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -7277789562719092988
+                }
+            ],
             "pathId": -6704908859047952741,
             "blockIdx": 25
         },
@@ -300,6 +602,7 @@
             "jpText": "寒さなんて、感じたことはなかった。\r\nみんなの気持ちが、温かかったから。",
             "enText": "I never felt cold. Everyone's \nfeelings were so warm.",
             "nextBlock": 27,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "今夜はどうだ？",
@@ -312,6 +615,16 @@
                     "nextBlock": 27
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 4624536081174663575
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -800249626714817764
+                }
+            ],
             "pathId": 6785196187168707836,
             "blockIdx": 26
         },
@@ -321,6 +634,21 @@
             "jpText": "もちろん、あの頃と同じくらい……\r\n心がポカポカしているよ。",
             "enText": "Of course, my… heart is as fluttery \nas it was back then.",
             "nextBlock": 28,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 7541418025516601849
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -2602702831669167793
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 3707787073875312004
+                }
+            ],
             "pathId": 7451514723116214048,
             "blockIdx": 27
         },
@@ -330,6 +658,17 @@
             "jpText": "緊張とか、疲れとか。\r\n全部、溶かしてくれるみたいだ。",
             "enText": "Tension, exhaustion… It all \nseemed to melt away.",
             "nextBlock": 29,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -243024574988569377
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -6647575207540811978
+                }
+            ],
             "pathId": 7726142753068474066,
             "blockIdx": 28
         },
@@ -339,6 +678,17 @@
             "jpText": "やっぱり、キミと過ごせてよかった。\r\nこの温かい気持ちのまま……。",
             "enText": "I'm glad I got to spend time with you. I'll \nkeep this warm feeling…",
             "nextBlock": 30,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 5754541609834917610
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1341268004548323862
+                }
+            ],
             "pathId": -1106267880087383170,
             "blockIdx": 29
         },
@@ -348,11 +698,22 @@
             "jpText": "――『有馬記念』で、戦える。",
             "enText": "—I can fight in \"Arima Kinen\".",
             "nextBlock": 31,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "全部の思い出を持っていこう！",
                     "enText": "Let's take all the memories with us!",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 4814285665423994582
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 5681463645986534152
                 }
             ],
             "pathId": -8766309397371545297,
@@ -364,6 +725,17 @@
             "jpText": "……うんっ！",
             "enText": "… Yeah!",
             "nextBlock": 32,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -5751265162589380319
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2494417740614545086
+                }
+            ],
             "pathId": -6186597570389089999,
             "blockIdx": 31
         },
@@ -373,6 +745,17 @@
             "jpText": "そうだ、遅れてしまったが……\r\n大事なひとことを忘れていた。",
             "enText": "Yes, I know I'm late, but… I \nforgot one important thing.",
             "nextBlock": 33,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 7693538456105143870
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5306268710686591993
+                }
+            ],
             "pathId": -4923552043979331896,
             "blockIdx": 32
         },
@@ -382,6 +765,17 @@
             "jpText": "トレーナー。\r\n……メリークリスマス！",
             "enText": "Trainer… Merry Christmas!",
             "nextBlock": 34,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 3602149356722798479
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7596988707036108126
+                }
+            ],
             "pathId": 2855600575873744095,
             "blockIdx": 33
         },
@@ -391,8 +785,20 @@
             "jpText": "こうして、オグリキャップと\r\n心温まるクリスマスを過ごした。\n今夜の思い出を胸に――『有馬記念』へ！",
             "enText": "That's how I spent a heartwarming Christmas \nwith Oguri Cap. With tonight's memories in \nmind, we're off to the Arima Kinen!",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 848018346685854383
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 3376182292811529275
+                }
+            ],
             "pathId": -388557172591880922,
             "blockIdx": 34
         }
-    ]
+    ],
+    "modified": 1669944967
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "2OLSOUSKMKEJCBOAR2PPXHL5C3O2Z3JJ",
     "type": "story",
     "storyId": "501041412",
@@ -11,6 +11,17 @@
             "jpText": "このレースを最後にバクシンロードへ\r\n舵を切りたいサクラバクシンオーは――",
             "enText": "Sakura Bakushin O is hoping to use this race\nto turn the tide on Bakushin Road.",
             "nextBlock": 2,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 7706453100398164684
+                },
+                {
+                    "origLen": 171,
+                    "pathId": 4237680103170598073
+                }
+            ],
             "pathId": -5311489338756882385,
             "blockIdx": 1
         },
@@ -20,10 +31,29 @@
             "jpText": "スプリンターならば誰もが憧れる\r\n夢の舞台で……強敵、\nニシノフラワーとぶつかり合う！",
             "enText": "In the dream stage that every sprinter\ndreams of… will clash with the\nformidable enemy, Nishino Flower!",
             "nextBlock": 3,
+            "origClipLength": 101,
             "coloredText": [
                 {
                     "jpText": "ニシノフラワー",
                     "enText": "Nishino Flower"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -591004791432405297
+                },
+                {
+                    "origLen": 211,
+                    "pathId": -3077976703328430700
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -2931586494449828081
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -5258101794286547780
                 }
             ],
             "pathId": -1742013897829196841,
@@ -35,8 +65,28 @@
             "jpText": "トレーナーは、来年……さらに成長した\r\n彼女にこの舞台で走ってもらいたいと\n願いながら、彼女を送り出すのだった。",
             "enText": "The trainer sent her off to… next\nyear, hoping that she would grow even more\nand run on this stage.",
             "nextBlock": -1,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -1774388830768604126
+                },
+                {
+                    "origLen": 211,
+                    "pathId": 920773731563559433
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 4513586553258577061
+                },
+                {
+                    "origLen": 141,
+                    "pathId": 5335122687953610745
+                }
+            ],
             "pathId": -6650027868747934119,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945711
 }

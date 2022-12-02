@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CG3NEDTXB7EXXYMMWZQXG7HYIULXGKXR",
     "type": "story",
     "storyId": "501041408",
@@ -11,10 +11,21 @@
             "jpText": "サクラバクシンオーの\r\n『メイクデビュー』当日。",
             "enText": "The day of Sakura Bakushin-oh's\n\"make-out debut.",
             "nextBlock": 2,
+            "origClipLength": 76,
             "coloredText": [
                 {
                     "jpText": "メイクデビュー",
                     "enText": "Make-up debut"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -739254016112763158
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7601398483627266304
                 }
             ],
             "pathId": -7373582116501462568,
@@ -26,8 +37,20 @@
             "jpText": "観客も“アッッッ！！”と驚くような\r\n鮮烈なデビューを果たすために、\nサクラバクシンオーは会場へ向かっていった。",
             "enText": "Sakura Bakushin O headed for the venue to make a striking debut that would leave the audience stunned.",
             "nextBlock": -1,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -5549663111460918759
+                },
+                {
+                    "origLen": 184,
+                    "pathId": -2020787354347690557
+                }
+            ],
             "pathId": -8425746166440736589,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945711
 }

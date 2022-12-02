@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "YYOUI3L7LIF2I7MK7IRCREGUV336RPKS",
     "type": "story",
     "storyId": "809004001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、ジムで――",
             "enText": "One day, at the gym…",
             "nextBlock": 2,
+            "origClipLength": 50,
             "pathId": 8718649530447728759,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "うーん、あとは\r\nダンベルショルダープレスで三角筋を――",
             "enText": "Hmm, and then there's the dumbbell shoulder \npress for the deltoids—",
             "nextBlock": 3,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 2359677414169808959
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -3706360441442675671
+                }
+            ],
             "pathId": 2657904252532692978,
             "blockIdx": 2
         },
@@ -29,11 +41,26 @@
             "jpText": "あっ、<username>トレーナー！\r\nお疲れ様です。",
             "enText": "Ah, trainer <username>! \nThank you for your time.",
             "nextBlock": 4,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "お疲れ様です。考え事ですか？",
                     "enText": "Thank you for your time. Are you thinking?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 4244782038830962573
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2373190982632141526
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1597213551064987128
                 }
             ],
             "pathId": 7799001672817620547,
@@ -45,6 +72,21 @@
             "jpText": "く、口に出ていましたか？\r\nすみません、あはは……。",
             "enText": "I'm sorry. Sorry, ha ha…",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 700824043526590259
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -2496443325058560896
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2847745518635181469
+                }
+            ],
             "pathId": -2904156483422564284,
             "blockIdx": 4
         },
@@ -54,6 +96,21 @@
             "jpText": "ミーク用の筋力トレーニング、\r\nメニューを少し考え直していたんです。",
             "enText": "I've been rethinking the menu a bit, \nstrength training for Meek.",
             "nextBlock": 6,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -7455807764840470068
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7819752104923922722
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4028790108467870233
+                }
+            ],
             "pathId": -780491327463532804,
             "blockIdx": 5
         },
@@ -63,6 +120,21 @@
             "jpText": "ウマ娘の肉体は可能性の塊ですが……その分、\r\nバランスよく鍛えておかなかった場合の\nリスクも高いですから。",
             "enText": "Uma's body has a lot of potential… but it \nalso has a lot of risk if it is not trained \nin a balanced way.",
             "nextBlock": 7,
+            "origClipLength": 79,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -2238510515906178082
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 339138461497806790
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -5541076892485348644
+                }
+            ],
             "pathId": 3471517795130863898,
             "blockIdx": 6
         },
@@ -72,6 +144,21 @@
             "jpText": "ミークにケガなんか、絶対させられません。",
             "enText": "We can't let Meek get hurt.",
             "nextBlock": 8,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 2982287791337737741
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -7860595987642589587
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2818110129742260748
+                }
+            ],
             "pathId": -5229339083619417690,
             "blockIdx": 7
         },
@@ -81,6 +168,7 @@
             "jpText": "部屋に戻ったら、桐生院家秘伝の\r\n『トレーナー白書』を読み返しつつ、\n熟考に熟考を重ねます！",
             "enText": "When I get back to my room, I'm going to \nreread the Kiryuin family's secret \"White \nBook of Trainers\" and ponder and ponder!",
             "nextBlock": 9,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "あまり無理はなさらずに",
@@ -93,6 +181,20 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -2953369579570290540
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 1019670129431665316
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1496751019570914740
+                }
+            ],
             "pathId": 2940396375097848382,
             "blockIdx": 8
         },
@@ -102,6 +204,17 @@
             "jpText": "はい、自己管理は基本ですから！\r\nウマ娘の手本となれないようではいけません。",
             "enText": "Yes, because self-discipline is fundamental! \nWe must not fail to set a good example \nfor our Umamamus.",
             "nextBlock": 10,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -6259076016980785909
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3891277808681677384
+                }
+            ],
             "pathId": 7124468910527525176,
             "blockIdx": 9
         },
@@ -111,6 +224,17 @@
             "jpText": "実は私、どんなに夜更かししても\r\n隈が出にくい体質なんです！",
             "enText": "The truth is, I don't get dark circles very \noften, no matter how late I stay up!",
             "nextBlock": 11,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4686474808215327686
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7617832605081383230
+                }
+            ],
             "pathId": -154934493067269716,
             "blockIdx": 10
         },
@@ -120,6 +244,17 @@
             "jpText": "ですから担当ウマ娘に心配はかけません。\r\nお任せくださいっ。",
             "enText": "So don't worry about your horse \ngirl. Leave it to us!",
             "nextBlock": 12,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -297555717427351077
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8587369124732296061
+                }
+            ],
             "pathId": 4823345093911616047,
             "blockIdx": 11
         },
@@ -129,6 +264,17 @@
             "jpText": "そういうことではない、と\r\nやる気満々な桐生院トレーナーをなだめた。",
             "enText": "That's not what I meant,\" soothed \nthe motivated trainer.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 5613840779005472731
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5131563999923121812
+                }
+            ],
             "pathId": 3690519704827792703,
             "blockIdx": 12
         },
@@ -138,6 +284,17 @@
             "jpText": "なんと！　<username>トレーナー、\r\n桐生院家の教えに興味が？",
             "enText": "What a surprise! Trainer <username>, \nare you interested in the teachings \nof the Kiryuin family?",
             "nextBlock": 14,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 430448472700607036
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7689073153871887792
+                }
+            ],
             "pathId": -4986945726194931766,
             "blockIdx": 13
         },
@@ -147,6 +304,17 @@
             "jpText": "貴方は貴方のままで、十二分に立派な\r\n育成理論をお持ちとは思いますが……。",
             "enText": "I'm sure you have a more than respectable \ntheory of development as you are…",
             "nextBlock": 15,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5161128489058823250
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7890616839458997548
+                }
+            ],
             "pathId": 5114190033104467672,
             "blockIdx": 14
         },
@@ -156,6 +324,17 @@
             "jpText": "でも、そう仰っていただけたのは嬉しいです！\r\n今持っている1冊でよければお貸ししますよ。",
             "enText": "But I'm glad you said that! If you'd \nlike to borrow one of the books I've \ngot, I'd be happy to.",
             "nextBlock": 16,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1915179059438396857
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2958535311391285573
+                }
+            ],
             "pathId": 8552280735530565795,
             "blockIdx": 15
         },
@@ -165,11 +344,22 @@
             "jpText": "ちなみに……あと40冊ほどありますが、\r\nそちらも後日持って参りましょうか？",
             "enText": "By the way, we have about 40 more books at … \nCan I bring them to you later?",
             "nextBlock": 17,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "……えっ",
                     "enText": "… eh",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -3122975248204482883
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 845525652680125145
                 }
             ],
             "pathId": -4656381259158224860,
@@ -181,6 +371,21 @@
             "jpText": "あ、内容は基本的にすべて記憶しているので、\r\nご返却はいつでも構いませんよ！",
             "enText": "Oh, and we've basically memorised \nall the content, so you can return \nit whenever you like!",
             "nextBlock": 18,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 1824685407167906415
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 6550356779303680391
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5280946398095304534
+                }
+            ],
             "pathId": -4117798525088136561,
             "blockIdx": 17
         },
@@ -190,9 +395,24 @@
             "jpText": "今夜読み返そうと思っていたのも、気合いを\r\n入れ直すための儀式みたいなものですから！",
             "enText": "I've been meaning to go back and read it \ntonight, because it's kind of a ritual to \nget me back into the swing of things!",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1147539714626452612
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7117707438377493151
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3780433818988579019
+                }
+            ],
             "pathId": -3829591522095820683,
             "blockIdx": 18
         }
     ],
-    "modified": 1661711800
+    "modified": 1669945978
 }

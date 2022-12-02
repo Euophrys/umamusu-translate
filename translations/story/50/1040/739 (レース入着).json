@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "L6J2NYXYHRVFHKU65QH2O6NZFNBEXTXM",
     "type": "story",
     "storyId": "501040739",
@@ -11,6 +11,17 @@
             "jpText": "うん、入着できた！\r\nとりま安心ってとこ？",
             "enText": "Yeah, I got in! I guess that's \na relief for now.",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 4679185611162943449
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -2759662255931996233
+                }
+            ],
             "pathId": 3371846974015799540,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "けど、ここじゃ満足できないし。\r\nあーっ、1着とりたかったな……！",
             "enText": "But I'm not satisfied here. Aww, \nI wish I'd gotten one…!",
             "nextBlock": 3,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "でも走ってる君は楽しそうだった",
@@ -40,6 +52,17 @@
                     "jpText": "『次は1着をとる』でしょ？",
                     "enText": "Next time, I'll take the first place,\" right?",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -7395057801022370940
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5180383248058129600
                 }
             ],
             "pathId": -3972626351247326708,
@@ -51,6 +74,7 @@
             "jpText": "けど、ここじゃ満足できないし。\r\nあーっ、1着とりたかったな……！",
             "enText": "But I'm not satisfied here. Aww, \nI wish I'd gotten one…!",
             "nextBlock": 4,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "でも走ってる君は楽しそうだった",
@@ -73,6 +97,17 @@
                     "nextBlock": 8
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 9064135744977184472
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -417177006525354279
+                }
+            ],
             "pathId": 281914269332090542,
             "blockIdx": 3
         },
@@ -82,6 +117,17 @@
             "jpText": "そりゃ楽しいでしょ。\r\nだって走ってんだから！",
             "enText": "That's fun, isn't it? Because we're running!",
             "nextBlock": 5,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 4779734941340179924
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 804542528671234182
+                }
+            ],
             "pathId": 8250347182400985249,
             "blockIdx": 4
         },
@@ -91,6 +137,7 @@
             "jpText": "……待って、今のナシ。\r\nアタシ最近、アホっぽくなってきてね？",
             "enText": "… wait, now pear. I'm starting to feel \nlike an idiot lately, aren't I?",
             "nextBlock": 6,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "けどそれが君だから",
@@ -103,6 +150,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 3844406432514264966
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -3396644356223364257
+                }
+            ],
             "pathId": 3680963065224939623,
             "blockIdx": 5
         },
@@ -112,6 +169,17 @@
             "jpText": "……この流れでそれ、全然嬉しくないわ。",
             "enText": "… that in this vein, \nI'm not happy at all.",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 4180688378209863921
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -8345702294783243725
+                }
+            ],
             "pathId": 367650365905853872,
             "blockIdx": 6
         },
@@ -121,6 +189,17 @@
             "jpText": "やり直しさせて。次のレースは1着とって、\r\nもっと“アタシ”らしーこと言うからさ！",
             "enText": "Let me start over. I'll win the next race and \nsay something more \"me\"!",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 5441564182465335975
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7891719259842789658
+                }
+            ],
             "pathId": 4763394322281987306,
             "blockIdx": 7
         },
@@ -130,6 +209,17 @@
             "jpText": "……！",
             "enText": "…!",
             "nextBlock": 9,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 5271141916313498512
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 1204896097921630833
+                }
+            ],
             "pathId": 5720710278473827558,
             "blockIdx": 8
         },
@@ -139,6 +229,17 @@
             "jpText": "アンタに煽られんの、\r\nなんかすごい不本意。",
             "enText": "I don't like being agitated by you.",
             "nextBlock": 10,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 7007988970623409179
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 930323498766553473
+                }
+            ],
             "pathId": -103166489456540119,
             "blockIdx": 9
         },
@@ -148,6 +249,17 @@
             "jpText": "でも確かに、悔しがるだけじゃダサいわ。\r\nいいよ、お望み通り言ってやる。",
             "enText": "But sure, it's lame to just be contrite. \nOkay, I'll say what you want me to say.",
             "nextBlock": 11,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 7389046311579062830
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 3299393913835308036
+                }
+            ],
             "pathId": -3319204734955407760,
             "blockIdx": 10
         },
@@ -157,8 +269,20 @@
             "jpText": "『次は1着をとる』。だからアンタも、\r\nアタシに最高の走り、させてよね！",
             "enText": "Next time, I'm going to win first place. So, \nplease let me have the best run!",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 3868513139319710706
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2705367167422720425
+                }
+            ],
             "pathId": -6702385102636459265,
             "blockIdx": 11
         }
-    ]
+    ],
+    "modified": 1669945695
 }

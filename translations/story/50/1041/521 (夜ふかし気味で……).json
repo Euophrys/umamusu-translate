@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BCL6P2FDAUS3MAW3KVDCE5YFE3MQNYRN",
     "type": "story",
     "storyId": "501041521",
@@ -11,6 +11,7 @@
             "jpText": "おふぁ……よう、ござい……ます……。",
             "enText": "Oh wow… thank you…",
             "nextBlock": 2,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "眠そうだな",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 1505652526129243119
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 7598282042928675064
+                }
+            ],
             "pathId": 8534371135014233267,
             "blockIdx": 1
         },
@@ -32,6 +43,17 @@
             "jpText": "ええ……ここ数日、\r\n夜が明けるまで考え事をしていまして……。",
             "enText": "Yes… I've been thinking until dawn\nfor the past few days…",
             "nextBlock": 3,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 3848900415722353339
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 1048837665025797737
+                }
+            ],
             "pathId": -743273255000454364,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "でも、おかげで思いつきましたよ……！\r\n来月の学級目標案、100個！",
             "enText": "But thanks to you, I've come up with\n…! Proposed class goals for\nnext month, 100 of them!",
             "nextBlock": 4,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -403749165282615372
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1668195387468858022
+                }
+            ],
             "pathId": -5438976873699293708,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "あとは、1つにするだけ――",
             "enText": "Now we just need to get one—",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -2946531143205973266
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8968802372318127326
+                }
+            ],
             "pathId": 5037745569004411,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "ふわぁぁ～～～～っ……\r\nんんっ……がんばり、ます。",
             "enText": "I'm going to try my best. ～～～～…",
             "nextBlock": 6,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 1230383844864670845
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3724828638283343111
+                }
+            ],
             "pathId": 5903898215637688491,
             "blockIdx": 5
         },
@@ -68,8 +123,20 @@
             "jpText": "学級委員長としてクラスを思うあまり、\r\nあまり眠れていないようだ……。",
             "enText": "As the class president, she cares about the\nclass so much that she doesn't seem to be\nsleeping very well…",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 6551254888992676047
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -4172611088440554110
+                }
+            ],
             "pathId": 9129108874360818285,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945718
 }

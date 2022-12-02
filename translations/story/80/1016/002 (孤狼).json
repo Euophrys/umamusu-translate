@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QX2O2FM5SGCM6J2KZ25KNE3RQL6PXVEX",
     "type": "story",
     "storyId": "801016002",
@@ -11,6 +11,17 @@
             "jpText": "多くの生徒がトレーニングに励む中、\n離れた所でそれを眺める生徒の姿が見えた。",
             "enText": "While many of the students were working out, \nothers were watching from a distance.",
             "nextBlock": 2,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -6930583803323312567
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1025478081299469498
+                }
+            ],
             "pathId": -8671672873784841289,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 3,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 5991435976251547278
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 2418020055599324795
+                }
+            ],
             "pathId": -984532734853400639,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "あのー、これから居残っているみんなで\r\nトレーニングをやるんですけど……。",
             "enText": "Um, we're going to do a training session \nwith all the detainees…",
             "nextBlock": 4,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 3855883998161585767
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6774083571635775856
+                }
+            ],
             "pathId": 6996059721944948008,
             "blockIdx": 3
         },
@@ -38,6 +71,17 @@
             "jpText": "よかったら、一緒にやりませんか？",
             "enText": "If you'd like, you can do it with us.",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 6779197489008914489
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 279938827675500754
+                }
+            ],
             "pathId": 2148843746204329706,
             "blockIdx": 4
         },
@@ -47,6 +91,21 @@
             "jpText": "結構だ。他を当たってくれ。",
             "enText": "No, thank you. You'll have \nto look elsewhere.",
             "nextBlock": 6,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -3957226144382559280
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 1006682894011370173
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 6266395564708076573
+                }
+            ],
             "pathId": 4467582771587021993,
             "blockIdx": 5
         },
@@ -56,6 +115,17 @@
             "jpText": "はい……お邪魔しました。",
             "enText": "Yes… sorry for the inconvenience.",
             "nextBlock": 7,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 4238875051885405540
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -8120596351767690136
+                }
+            ],
             "pathId": 5642473725153840063,
             "blockIdx": 6
         },
@@ -65,6 +135,17 @@
             "jpText": "素っ気ない態度で誘いを断ったが、\n何か走れない理由でもあるのだろうか……。",
             "enText": "I declined the invitation with a curt \nattitude, but I wondered if there was any \nreason why I couldn't run…",
             "nextBlock": 8,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -4507378167174163976
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 2339853377226285112
+                }
+            ],
             "pathId": -6080557821140803670,
             "blockIdx": 7
         },
@@ -74,6 +155,17 @@
             "jpText": "その日の放課後、帰路に就こうとしていると、\nコースで走っている彼女の姿を見かけた。",
             "enText": "As I was walking home after school that day, \nI saw her running on the track.",
             "nextBlock": 9,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": -118249248789762993
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2063035587829685238
+                }
+            ],
             "pathId": -4655099483319961650,
             "blockIdx": 8
         },
@@ -83,6 +175,17 @@
             "jpText": "はぁ、はぁ……。",
             "enText": "Huh, huh…",
             "nextBlock": 10,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 2677778508196990859
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2399814607506574848
+                }
+            ],
             "pathId": 5776455572845278023,
             "blockIdx": 9
         },
@@ -92,11 +195,22 @@
             "jpText": "ん……？\nなんだ……何か用か？",
             "enText": "Hmm…? What's up… what do you want?",
             "nextBlock": 11,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "そういう訳じゃない……",
                     "enText": "It's not like that…",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -7350111058178549738
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 6122522041228946752
                 }
             ],
             "pathId": 266132343751586849,
@@ -108,6 +222,7 @@
             "jpText": "なら失せろ。気が散る。",
             "enText": "Then get lost. It's distracting.",
             "nextBlock": 12,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "無理しないようにな",
@@ -128,6 +243,17 @@
                     "jpText": "1人で走りたかったんだね",
                     "enText": "You wanted to run alone.",
                     "nextBlock": 17
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -7084451590087029459
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6647930471976784644
                 }
             ],
             "pathId": -5344111754590826812,
@@ -139,6 +265,7 @@
             "jpText": "なら失せろ。気が散る。",
             "enText": "Then get lost. It's distracting.",
             "nextBlock": 13,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "無理しないようにな",
@@ -161,6 +288,17 @@
                     "nextBlock": 17
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -7160475417944559030
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5567845775071603497
+                }
+            ],
             "pathId": -8716664002055553008,
             "blockIdx": 12
         },
@@ -170,6 +308,17 @@
             "jpText": "言われなくとも、バランスよくやるつもりだ。",
             "enText": "I'm going to do it in a balanced \nway without being told.",
             "nextBlock": 14,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 1147874303619443851
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -197378677213622478
+                }
+            ],
             "pathId": 1595332017689230488,
             "blockIdx": 13
         },
@@ -179,11 +328,22 @@
             "jpText": "……言いたいことはそれだけか？\nトレーニングに戻りたいんだが？",
             "enText": "… Is that all you have to say? I \nwant to get back to training?",
             "nextBlock": 15,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "気をつけて",
                     "enText": "Take care.",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 2627764459438432647
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7489564466921519566
                 }
             ],
             "pathId": 6979614728410278911,
@@ -195,6 +355,17 @@
             "jpText": "じゃあな……。",
             "enText": "See you…",
             "nextBlock": 16,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -1081137651661246970
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -2919395256086798994
+                }
+            ],
             "pathId": -951400667689291918,
             "blockIdx": 15
         },
@@ -204,6 +375,17 @@
             "jpText": "素っ気なくそう言うと、\r\nナリタブライアンは再び走り出した。",
             "enText": "And with that, Naritabh Ryan \nwas off and running again.",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 7440895889089158523
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -653019052624667489
+                }
+            ],
             "pathId": 3543666148156754653,
             "blockIdx": 16
         },
@@ -213,6 +395,17 @@
             "jpText": "チッ……見てたのか？\n1人の方が集中できる……。",
             "enText": "Tsk, you've been watching…? One \ncan concentrate better…",
             "nextBlock": 18,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -3084051525032657501
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -2390658687335809612
+                }
+            ],
             "pathId": -5541245908776031312,
             "blockIdx": 17
         },
@@ -222,6 +415,17 @@
             "jpText": "だから、集中させてもらえないか？",
             "enText": "So can we please just focus?",
             "nextBlock": 19,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -6590490744427152105
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4207663578362273994
+                }
+            ],
             "pathId": -5993830145734906408,
             "blockIdx": 18
         },
@@ -231,8 +435,20 @@
             "jpText": "そう言うとナリタブライアンは\r\n走り去って行った。",
             "enText": "And with that, Naritabh Ryan rode away.",
             "nextBlock": -1,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -8520001963308617728
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -8065043906777914924
+                }
+            ],
             "pathId": 293721774548073503,
             "blockIdx": 19
         }
-    ]
+    ],
+    "modified": 1669945951
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "SYC6KOYFTNIISVSGYJUZ7VJDDAIQOFJO",
     "type": "story",
     "storyId": "501006419",
@@ -11,6 +11,17 @@
             "jpText": "ＧⅠレースで活躍したご褒美として、\r\n飲食店に連れてきてもらったオグリキャップ。",
             "enText": "Oguri Cap was taken to a restaurant as a \nreward for her success in a Grade 1 race.",
             "nextBlock": 2,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 262,
+                    "pathId": 5207706286091519131
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4773740313515371579
+                }
+            ],
             "pathId": 7536269429860858682,
             "blockIdx": 1
         },
@@ -20,14 +31,26 @@
             "jpText": "次の目標である『天皇賞（秋）』に向け、\r\nたくさん食べて英気を養うのだった。",
             "enText": "She ate a lot of food to regain her energy \nfor her next goal, the Tennou-sho (Autumn).",
             "nextBlock": -1,
+            "origClipLength": 69,
             "coloredText": [
                 {
                     "jpText": "天皇賞（秋）",
                     "enText": "Tennoushou (Autumn)"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 262,
+                    "pathId": 4229692748337684065
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1860456960316378851
+                }
+            ],
             "pathId": 2704833303662052233,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944978
 }

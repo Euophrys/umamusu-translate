@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "IRVZUUYUC2QN7XQTTJRST5UK64ZDZIKW",
     "type": "story",
     "storyId": "501030802",
@@ -11,6 +11,7 @@
             "jpText": "ある日のこと……どうしても\r\nしゃっくりが止まらずに困っていた。",
             "enText": "One day… I was having trouble \nstopping my hiccups.",
             "nextBlock": 2,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "……ひっく",
@@ -27,6 +28,26 @@
             "jpText": "あれ？　お兄さま、しゃっくり？",
             "enText": "Huh? Brother, hiccups?",
             "nextBlock": 3,
+            "origClipLength": 64,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 4110335556565144301
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -5190706002894949510
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -8406472973497032050
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4026820932471649229
+                }
+            ],
             "pathId": -7260566320692141051,
             "blockIdx": 2
         },
@@ -36,6 +57,26 @@
             "jpText": "あれ？　お姉さま、しゃっくり？",
             "enText": "Huh? Sister, hiccups?",
             "nextBlock": 4,
+            "origClipLength": 64,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 2045882107773795806
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -8583191670612972968
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 3962781222043214082
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -4934817256986062755
+                }
+            ],
             "pathId": -7871022797885369692,
             "blockIdx": 3
         },
@@ -45,6 +86,29 @@
             "jpText": "ふふっ、しゃっくりっておもしろいよね。\r\nなにもしてないのに、ひっくひっくって。",
             "enText": "Hiccups are fun, aren't they? Even though I \ndidn't do anything, I just hiccupped.",
             "nextBlock": 5,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -9020481915216840081
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6853358769580947400
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1362331216499097909
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5162538456869012123
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 8611039905778240996
+                }
+            ],
             "pathId": -1638096993845316023,
             "blockIdx": 4
         },
@@ -54,6 +118,29 @@
             "jpText": "油断は大敵です。あまり長く続くと\r\n重大な病気の可能性があると言います。",
             "enText": "Being careless is a big enemy. If it goes on \nfor too long, there is a possibility of \nserious illness.",
             "nextBlock": 6,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 1130287587612314239
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -3433373718071084162
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -2711601894586316375
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -3356709408976139597
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -3345043913329700865
+                }
+            ],
             "pathId": -5113277858782515254,
             "blockIdx": 5
         },
@@ -63,11 +150,35 @@
             "jpText": "ふええぇっ！？　ほ、本当……！？\r\n大変、お兄さま大丈夫……！？",
             "enText": "What the hell? Really…? Oh \nmy god, are you okay…?",
             "nextBlock": 7,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "……ひっく",
                     "enText": "…",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 8551443342375913010
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8270949408880174504
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2725348763529482966
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 1452539689268455850
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -223277946245593806
                 }
             ],
             "pathId": -7766866680379762259,
@@ -79,11 +190,35 @@
             "jpText": "ふええぇっ！？　ほ、本当……！？\r\n大変、お姉さま大丈夫……！？",
             "enText": "What the hell? Really…? Oh my \ngod, sister, are you okay…?",
             "nextBlock": 8,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "……ひっく",
                     "enText": "…",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -8894516166004419083
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 2878947870227976912
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5609687589626104189
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8967378906875701706
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 3617665989397961776
                 }
             ],
             "pathId": 4283027448146182816,
@@ -95,6 +230,26 @@
             "jpText": "あわわっ！　驚けば止まるんだっけ！？\r\nお兄さま驚いて！　わあっ！　う～、わあっ！",
             "enText": "Aww! I thought it would stop if I startled \nit! You startled me! Aah! Aah! Aah!",
             "nextBlock": 9,
+            "origClipLength": 98,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -7142285039691423719
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 164257520336380456
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 6892008683538252655
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 8435949496961962376
+                }
+            ],
             "pathId": 980489952239669095,
             "blockIdx": 8
         },
@@ -104,6 +259,26 @@
             "jpText": "あわわっ！　驚けば止まるんだっけ！？\r\nお姉さま驚いて！　わあっ！　う～、わあっ！",
             "enText": "Aww! I thought it would stop if I startled \nit! Sister, surprise me! Aah! Aah! Aah!",
             "nextBlock": 10,
+            "origClipLength": 98,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 3703940347409344341
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 8202343930058257180
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -1898305317662049551
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -3183542911590788285
+                }
+            ],
             "pathId": 41384410493422730,
             "blockIdx": 9
         },
@@ -113,6 +288,25 @@
             "jpText": "ライスさん、驚かすならもっと意表を突く\r\n方法を推奨します。",
             "enText": "Ms. Rice, if you're going to surprise me, I \nsuggest you do it in a more surprising way.",
             "nextBlock": 11,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 8109555570068658138
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -414345148007311435
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5050401202735329152
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 9188653034871341992
+                }
+            ],
             "pathId": 5982193848526144498,
             "blockIdx": 10
         },
@@ -122,6 +316,25 @@
             "jpText": "そ、そっか……わかった。\r\nライス、がんばって驚かせるからね！",
             "enText": "Oh, I see… Okay. I'll do my best \nto surprise you, Rice!",
             "nextBlock": 12,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -8614798630047403002
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7594030389475897058
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 9098211766995426444
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 3231941150640042788
+                }
+            ],
             "pathId": 4568907034424907724,
             "blockIdx": 11
         },
@@ -131,6 +344,25 @@
             "jpText": "き、来た……すー……はー……\r\nよーし……一気に飛び出して……！",
             "enText": "I'm here… soooo… haha… okay… \njump out at once…!",
             "nextBlock": 13,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 87598494521177263
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -982240330669797119
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 7333708776136480512
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -8992788869365728779
+                }
+            ],
             "pathId": -1207709846839677181,
             "blockIdx": 12
         },
@@ -140,6 +372,17 @@
             "jpText": "うっらら～♪\r\nライスちゃーん！　何してるの～？",
             "enText": "Oh, my gosh! Rice! What are you doing?",
             "nextBlock": 14,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 501167792786344261
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -2990120817790028203
+                }
+            ],
             "pathId": 8111400521323284753,
             "blockIdx": 13
         },
@@ -149,6 +392,21 @@
             "jpText": "あっ、う、ウララちゃん！？",
             "enText": "Oh, Urara!",
             "nextBlock": 15,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -6022894768177824128
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 2581193123485847019
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -178744299378372317
+                }
+            ],
             "pathId": -8487576444344036559,
             "blockIdx": 14
         },
@@ -158,6 +416,21 @@
             "jpText": "あっ、わかった！　かくれんぼでしょ？\r\nまぜてまぜて～！",
             "enText": "Oh, I get it! Hide and seek, right? \nMix it up, mix it up!",
             "nextBlock": 16,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 1401297266102934019
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 2812478320587397250
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -4358212620261959270
+                }
+            ],
             "pathId": -4386629143067704965,
             "blockIdx": 15
         },
@@ -167,6 +440,21 @@
             "jpText": "あわわわ……ま、待ってね。\r\nいまはかくれんぼじゃなくてね……！",
             "enText": "Awwww… Wait, wait, wait. We're not playing \nhide-and-seek right now…!",
             "nextBlock": 17,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -7893292470854869511
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 6327903681746208205
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8252036035112132530
+                }
+            ],
             "pathId": -8861107395586224781,
             "blockIdx": 16
         },
@@ -176,6 +464,33 @@
             "jpText": "ば、ばぁ～……！",
             "enText": "Baa, Baa~…!",
             "nextBlock": 18,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -3123931129881743695
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 4676418851069158740
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 3352058896709140899
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 746613239978042273
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -4013602492588473339
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 6092929208655104090
+                }
+            ],
             "pathId": -7290636491908685149,
             "blockIdx": 17
         },
@@ -185,11 +500,26 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 19,
+            "origClipLength": 51,
             "choices": [
                 {
                     "jpText": "……ひっく",
                     "enText": "…",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3032104507136189619
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 6470412545972748205
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 1833801607793453795
                 }
             ],
             "pathId": 6111268008829254836,
@@ -201,6 +531,17 @@
             "jpText": "あ、あれ！？　なんで止まらないの……！？\r\nううっ、止まって、止まって……！",
             "enText": "Oh, that! Why aren't you stopping…! \nUgh, stop, stop…!",
             "nextBlock": 20,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 8637896136301922475
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -6960480980730804828
+                }
+            ],
             "pathId": -5234684355497450977,
             "blockIdx": 19
         },
@@ -210,6 +551,25 @@
             "jpText": "状況解析、『迫力不足』と判断。\r\nステータス『びっくり』のために、\n勢いと声量を求めます。",
             "enText": "Situation analyzed. Conclusion; insufficient \nimpact. Status \"Surprise\" requires additional \nvigour and volume.",
             "nextBlock": 21,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -5289566615782465054
+                },
+                {
+                    "origLen": 150,
+                    "pathId": -5770273480776086720
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 5032456003737140137
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -133477810430666679
+                }
+            ],
             "pathId": 5036552535558161210,
             "blockIdx": 20
         },
@@ -219,6 +579,25 @@
             "jpText": "ふえぇ……。",
             "enText": "Whew…",
             "nextBlock": 22,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 1161620761692878706
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 3709374245712996286
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 3833806919751612102
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -4187466645410620337
+                }
+            ],
             "pathId": 3449500566216809805,
             "blockIdx": 21
         },
@@ -228,6 +607,26 @@
             "jpText": "今度こそ大丈夫……お兄さまが来たら、\r\n倉庫から一気に飛び出して……！",
             "enText": "This time you'll be fine… When your \nbrother arrives, you'll jump out \nof the warehouse at once…!",
             "nextBlock": 23,
+            "origClipLength": 90,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7110547210091381151
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6552812330613688758
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8579133692484762196
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2926408917871540233
+                }
+            ],
             "pathId": -1341197916844344113,
             "blockIdx": 22
         },
@@ -237,6 +636,26 @@
             "jpText": "今度こそ大丈夫……お姉さまが来たら、\r\n倉庫から一気に飛び出して……！",
             "enText": "This time you'll be fine… When your \nsister arrives, you'll jump out of \nthe warehouse at once…!",
             "nextBlock": 24,
+            "origClipLength": 90,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8784495072848835258
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8657529708947675460
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2939376510545743822
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2997082816073367474
+                }
+            ],
             "pathId": 7851945419623166120,
             "blockIdx": 23
         },
@@ -246,6 +665,7 @@
             "jpText": "（ガタガタッ！　ガタッ！）",
             "enText": "(Clatter! (Rumble!)",
             "nextBlock": 25,
+            "origClipLength": 61,
             "pathId": -8330405165261291415,
             "blockIdx": 24
         },
@@ -255,6 +675,7 @@
             "jpText": "あ、あれ？　扉が開かない……！？\r\nふぇぇ、なんで～……！？",
             "enText": "Oh, what? The door won't \nopen. …! Whew, why~…!",
             "nextBlock": 26,
+            "origClipLength": 84,
             "pathId": 2590249291277653316,
             "blockIdx": 25
         },
@@ -264,6 +685,25 @@
             "jpText": "どうしよう、ぜんぜんびっくりさせられない\r\n……ライス、だめな子だ……。",
             "enText": "What should I do? I can't surprise you at \nall… Rice, you're a bad boy…",
             "nextBlock": 27,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": 5075667350109327869
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 3282722569044356908
+                },
+                {
+                    "origLen": 174,
+                    "pathId": -6114886798893319459
+                },
+                {
+                    "origLen": 200,
+                    "pathId": -6545394288225219534
+                }
+            ],
             "pathId": -8267063524132105308,
             "blockIdx": 26
         },
@@ -273,6 +713,25 @@
             "jpText": "……ライスさん、少々こちらへ。\r\n作戦の成功率を上げようと思います。",
             "enText": "… Rice, come here for a moment. I'm trying to \nincrease the success rate of the operation.",
             "nextBlock": 28,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -8772154255214325518
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 294123145225855691
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 1264447245853961165
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1574471220786869122
+                }
+            ],
             "pathId": 6158723403109823410,
             "blockIdx": 27
         },
@@ -282,11 +741,30 @@
             "jpText": "ライスさんのトレーナーさん。\r\nお待たせいたしました。",
             "enText": "Ms. Rice's trainer. Thank you for waiting.",
             "nextBlock": 29,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "あれ、ライスは？",
                     "enText": "Hey, where's the Rice?",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -2063276316743313772
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 2907208771205144184
+                },
+                {
+                    "origLen": 138,
+                    "pathId": -9099636959803376946
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 5704288058917331612
                 }
             ],
             "pathId": -7006106620742664788,
@@ -298,6 +776,17 @@
             "jpText": "先ほどから拝見させていただいた結果、\r\nライスさんは優しさゆえに本気であなたを\n驚かすことができないのだと判断しました。",
             "enText": "As a result of what I've just seen, \nI've decided that Ms. Rice is too \nkind to really surprise you.",
             "nextBlock": 30,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": -721983399237725162
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 4955936560368730837
+                }
+            ],
             "pathId": -6962499898860830905,
             "blockIdx": 29
         },
@@ -307,6 +796,17 @@
             "jpText": "ゆえに、改造を受けてもらいます。",
             "enText": "Hence, you will receive a modification.",
             "nextBlock": 31,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -4946973652776984342
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 5942491078215191737
+                }
+            ],
             "pathId": 76820698985100385,
             "blockIdx": 30
         },
@@ -316,11 +816,26 @@
             "jpText": "サイボーグとなり、鋼の心を持った\r\nライスさんならば、本作戦の成功率は\n格段に上がるはずです。",
             "enText": "The success rate of this mission should be \nmuch higher if Rice has become a cyborg and \nhas a heart of steel.",
             "nextBlock": 32,
+            "origClipLength": 106,
             "choices": [
                 {
                     "jpText": "……冗談だよね？",
                     "enText": "… You're kidding, right?",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 3454954655139610030
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -3557149807093308513
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 3684063186361601247
                 }
             ],
             "pathId": 1929477196055321058,
@@ -332,6 +847,21 @@
             "jpText": "……はい。やはり驚きませんね。\r\n大仰すぎる設定が原因と判断。\nミッション失敗です。",
             "enText": "… Yes. I'm still not surprised. I decided it \nwas due to an overly exaggerated setting. \nMission failed.",
             "nextBlock": 33,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -2732411175622366234
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 6468159274250529952
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -2316199909699204573
+                }
+            ],
             "pathId": 1943737988691911959,
             "blockIdx": 32
         },
@@ -341,11 +871,38 @@
             "jpText": "ど、どっかーん！",
             "enText": "Boom, boom!",
             "nextBlock": 34,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "っ！？",
                     "enText": "Oh, my God!",
                     "nextBlock": 34
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -7890034193312882867
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -4266549515923206801
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 429205114829279712
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -7672704595329005539
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -8275796302588451598
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4548049937134904149
                 }
             ],
             "pathId": -7021029065403022493,
@@ -357,6 +914,7 @@
             "jpText": "……なんて……ライス、だけど……\r\nびっくり、した……？\nしゃっくり……どう、かな？",
             "enText": "How… Rice, but… Surprised…? \nHiccups…How about that?",
             "nextBlock": 35,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "止まった、ありがとう！",
@@ -369,6 +927,28 @@
                     "nextBlock": 42
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -4800239398064914098
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -5994259742412873035
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 1662288937363233023
+                },
+                {
+                    "origLen": 162,
+                    "pathId": -1814946031143783939
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -8272378347656247591
+                }
+            ],
             "pathId": 5322589595975567678,
             "blockIdx": 34
         },
@@ -378,6 +958,29 @@
             "jpText": "ほ、本当に？\r\nよかったぁ……！",
             "enText": "Oh, really? Good for you…!",
             "nextBlock": 36,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 2467393951262944401
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -2471574930415766269
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 8790967720578304098
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7597816234417892529
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6152259965577669100
+                }
+            ],
             "pathId": 3530998217258546328,
             "blockIdx": 35
         },
@@ -387,6 +990,29 @@
             "jpText": "気が抜けた瞬間、不意を突く奇襲作戦\r\n――ミッションコンプリートです。",
             "enText": "The moment you get distracted, a \nsurprise attack will catch you off \nguard — mission complete.",
             "nextBlock": 37,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 9003873207259855475
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -6537091900091741717
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -2194835802875423472
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -2016410109100302329
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8641603885580491521
+                }
+            ],
             "pathId": -6296148838449111161,
             "blockIdx": 36
         },
@@ -396,6 +1022,29 @@
             "jpText": "ブルボンさんのおかげだよ。\r\n作戦を提案してくれてありがとう……！",
             "enText": "Thanks to Ms. Bourbon. Thanks for \nsuggesting the strategy…!",
             "nextBlock": 38,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 2627391827266247996
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -6504098534923220399
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 367084426374088270
+                },
+                {
+                    "origLen": 163,
+                    "pathId": 5663860815109625544
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4860876309613801332
+                }
+            ],
             "pathId": 1728744023166751735,
             "blockIdx": 37
         },
@@ -405,6 +1054,30 @@
             "jpText": "ライス1人だったら、お兄さまはこのまま……\r\nずっと、しゃっくり止まらなかったかも……。",
             "enText": "If Rice had been alone, she might \nhave… never stopped hiccupping.",
             "nextBlock": 39,
+            "origClipLength": 102,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 4092314280966036878
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 7517208472888271411
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -8663728839397238700
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -3694823699104697246
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -2480680690525531719
+                }
+            ],
             "pathId": -127359747032636926,
             "blockIdx": 38
         },
@@ -414,6 +1087,30 @@
             "jpText": "ライス1人だったら、お姉さまはこのまま……\r\nずっと、しゃっくり止まらなかったかも……。",
             "enText": "If Rice had been alone, she would have … \nnever stopped hiccupping.",
             "nextBlock": 40,
+            "origClipLength": 102,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 6599620657747663079
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 603238751355303395
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 2843301058231272436
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 1329292366936369266
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 3068627959218002179
+                }
+            ],
             "pathId": -8429700996131228057,
             "blockIdx": 39
         },
@@ -423,6 +1120,29 @@
             "jpText": "ぐすっ、よかったぁ……！\r\nブルボンさん、本当にありがとぉ……！",
             "enText": "Gosh, thank goodness…! Thank \nyou so much, Bourbon…!",
             "nextBlock": 41,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2316698182386121346
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3876559294495521521
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 3902256652552008775
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 6644880777503913161
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8858605408937601515
+                }
+            ],
             "pathId": -4110276997161424339,
             "blockIdx": 40
         },
@@ -432,6 +1152,25 @@
             "jpText": "しゃっくりという些細な出来事にも\r\nかかわらず、心配して頑張ってくれた2人に、\n心から感謝をしたのだった……。",
             "enText": "I thanked them from the bottom of my heart \nfor their concern and hard work in spite of \nthe minor incident of hiccups…",
             "nextBlock": -1,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1779565954751536809
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5468750846965951254
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6587277666776594432
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4591732691082107187
+                }
+            ],
             "pathId": -3097676492962102466,
             "blockIdx": 41
         },
@@ -441,6 +1180,29 @@
             "jpText": "ふえぇ……！？\r\nお、驚かせすぎちゃった……！？",
             "enText": "Huh…! Oh, I've surprised you too much…!",
             "nextBlock": 43,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -45506276440066165
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 2544589122273003267
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 4923143312565078829
+                },
+                {
+                    "origLen": 144,
+                    "pathId": 3125725053631154265
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 7398172188634745181
+                }
+            ],
             "pathId": -3724460130967500645,
             "blockIdx": 42
         },
@@ -450,6 +1212,25 @@
             "jpText": "こういうときはどうすればいいの……！？\r\n驚かすの逆ってなに……！？",
             "enText": "What should I do in this situation…! What's \nthe opposite of surprising…!",
             "nextBlock": 44,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 7769037641897467345
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -1957801681875225564
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -9032927624151400641
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -1256487513822022199
+                }
+            ],
             "pathId": 3870730312824251757,
             "blockIdx": 43
         },
@@ -459,6 +1240,25 @@
             "jpText": "安堵をもたらす――でしょうか。",
             "enText": "It brings relief - doesn't it?",
             "nextBlock": 45,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 4667334852044792080
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -5843114874056896382
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -2747908686866540531
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8561003943272993478
+                }
+            ],
             "pathId": -2957587311905203169,
             "blockIdx": 44
         },
@@ -468,6 +1268,25 @@
             "jpText": "クリークさんが仰っていました。\r\nいいこいいこをしたり、いないいないばあを\nするのがよいとのことです。",
             "enText": "Ms. Creek said that it is good to play \ngoody-goody and play \"Peek-a-boo\". It is good \nto play \"goody-goody\" and \"peek-a-boo\".",
             "nextBlock": 46,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -6602899229988583987
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 32024744262151701
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 1947340320946915589
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -7568244456603089056
+                }
+            ],
             "pathId": 8519126385733735089,
             "blockIdx": 45
         },
@@ -477,6 +1296,25 @@
             "jpText": "わ、わかった、クリークさんみたいに……\r\nいいこ、いいこ……いいこ、いいこ……！",
             "enText": "Wow, okay, just like Creek… Good boy, good \nboy… Good boy, good boy…!",
             "nextBlock": 47,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 309961408864437169
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 8343032651244564992
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2254970893641749411
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -1844467509027378659
+                }
+            ],
             "pathId": 7788638843962714063,
             "blockIdx": 46
         },
@@ -486,8 +1324,28 @@
             "jpText": "今度は気持ちを落ち着かせようと、\r\n必死になるライスシャワーなのだった。",
             "enText": "This time, Rice Shower struggled \nto compose herself.",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -3896645170963301605
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2692045297986961984
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -7483956868670218010
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 3683717266284619018
+                }
+            ],
             "pathId": -8652036120728098378,
             "blockIdx": 47
         }
-    ]
+    ],
+    "modified": 1669946287
 }

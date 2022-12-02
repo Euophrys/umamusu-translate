@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "FM6FBUEHOYYSE3X2VEQNY47RS56A52IZ",
     "type": "story",
     "storyId": "501032116",
@@ -11,6 +11,7 @@
             "jpText": "ハッ、ハッ、ハッ、ハッ―――！",
             "enText": "Ha, ha, ha, ha—!",
             "nextBlock": 2,
+            "origClipLength": 54,
             "pathId": -4948733126447426154,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "もっと、もっとだ……！\r\n限界は！　まだまだ！　まだまだ先に――！！",
             "enText": "More, much more…! The sky's the\nlimit! Still more! There's more to come!",
             "nextBlock": 3,
+            "origClipLength": 67,
             "pathId": 7570417629305996381,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "『月桂杯』に出ると決めた日から、\r\nアグネスタキオンは毎日新記録を\nたたき出していた。",
             "enText": "Since the day she decided to run in the\nGekke Cup, Agnes Tachyon has been setting\nnew records every day.",
             "nextBlock": 4,
+            "origClipLength": 73,
             "pathId": -8486385420695287684,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "タキオン、元々速かったけど、\r\n最近ヤバくない！？",
             "enText": "Tachyon was always fast, but lately\nshe's been in trouble!",
             "nextBlock": 5,
+            "origClipLength": 61,
             "pathId": 2805351149703730038,
             "blockIdx": 4
         },
@@ -47,6 +51,7 @@
             "jpText": "気合い入ってるよねー！\r\n『月桂杯』が楽しみ！",
             "enText": "I'm so excited! I'm looking\nforward to the Gekkei Cup!",
             "nextBlock": 6,
+            "origClipLength": 60,
             "pathId": -6399446949360966483,
             "blockIdx": 5
         },
@@ -56,6 +61,7 @@
             "jpText": "憑き物が落ちたかのように\r\nグラウンドを駆け抜ける背中は、\n目覚めた天才のそれだった。",
             "enText": "The back that ran across the ground as if\nthe possession had fallen off was that of\nan awakened genius.",
             "nextBlock": 7,
+            "origClipLength": 73,
             "pathId": -3614544760770199798,
             "blockIdx": 6
         },
@@ -65,11 +71,22 @@
             "jpText": "フー……！",
             "enText": "Hu…!",
             "nextBlock": 8,
+            "origClipLength": 48,
             "choices": [
                 {
                     "jpText": "感動したよ……タキオン！",
                     "enText": "I'm impressed… Tachyon!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 2050632277438816234
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 1425178712426263456
                 }
             ],
             "pathId": -3043286341059755327,
@@ -81,6 +98,17 @@
             "jpText": "ああ。そうだろうね。顔に書いている。",
             "enText": "Yeah. I'm sure it is. It's\nwritten on your face.",
             "nextBlock": 9,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 2457074783836051836
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8563891603025295950
+                }
+            ],
             "pathId": 1912361605179814371,
             "blockIdx": 8
         },
@@ -90,6 +118,7 @@
             "jpText": "しかし、彼女の急な変化に、\r\n戸惑いもあった。",
             "enText": "However, the sudden change in\nher was a bit disconcerting.",
             "nextBlock": 10,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "でも……急にどうしたんだ？",
@@ -102,6 +131,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 7683350159184508385
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5145537947264167949
+                }
+            ],
             "pathId": 3108211565623365888,
             "blockIdx": 9
         },
@@ -111,6 +150,17 @@
             "jpText": "あえて言うなら『選択』をしたのさ。\r\n君だってするだろう。特別なことじゃない。",
             "enText": "I dare say I made a choice. You\ndo. It's nothing special.",
             "nextBlock": 11,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 2292235763624780554
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 2570480833955612966
+                }
+            ],
             "pathId": -843504547397504999,
             "blockIdx": 10
         },
@@ -120,6 +170,17 @@
             "jpText": "――さて、もう1本行こうか！\r\nタイムは正確に計っておくれよ！",
             "enText": "—Okay, let's go for another one! Make\nsure you time it right!",
             "nextBlock": 12,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -4232562045185231086
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -1673532496916597386
+                }
+            ],
             "pathId": -533975509128818369,
             "blockIdx": 11
         },
@@ -129,11 +190,22 @@
             "jpText": "……何はともあれ、アグネスタキオンに\r\n大きな心の変化があったのは確かだ。",
             "enText": "… At any rate, it's clear that Agnes\nTachyon had a major change of heart.",
             "nextBlock": 13,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "（彼女を支えるのがトレーナーの役目だ！）",
                     "enText": "(It's the trainer's job to support her!)",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -7117629902975058165
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -1125289687818990686
                 }
             ],
             "pathId": -4239689944464194599,
@@ -145,6 +217,7 @@
             "jpText": "その日の夜、『月桂杯』に\r\nやる気を見せる、彼女のために\n出来ることを考えていた。",
             "enText": "That night, I was thinking about what I\ncould do for her to motivate her to play\nfor the laurel cup.",
             "nextBlock": 14,
+            "origClipLength": 71,
             "pathId": -4180963771177107665,
             "blockIdx": 13
         },
@@ -154,6 +227,7 @@
             "jpText": "トレーナーだからこそ出来ることが、\r\nきっと何かあるはずだ。",
             "enText": "There must be something that\nonly a trainer can do.",
             "nextBlock": 15,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "（……そうだ！）",
@@ -170,6 +244,7 @@
             "jpText": "『月桂杯』の出走者リストと\r\n過去の資料を片っ端から開き――\n気づけば夜が明けていた。",
             "enText": "I opened up the list of runners for the\nGekkei Cup and all the past documents, and\nbefore I knew it, dawn had fallen.",
             "nextBlock": 16,
+            "origClipLength": 73,
             "pathId": 951761005609122941,
             "blockIdx": 15
         },
@@ -179,6 +254,17 @@
             "jpText": "天候、バ場状態、癖、他の競走相手、\r\n彼女たちの性格から家族関係、ライバル、\n得意なコース、不得意なコース……。",
             "enText": "Weather, backyard conditions, habits,\nother competitors, their personalities\nto family relationships, rivals, courses\nthey are good at, courses they are not\ngood at…",
             "nextBlock": 17,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 197,
+                    "pathId": 1660129920712338236
+                },
+                {
+                    "origLen": 147,
+                    "pathId": -1358753921791618167
+                }
+            ],
             "pathId": 3013836688607340698,
             "blockIdx": 16
         },
@@ -188,11 +274,26 @@
             "jpText": "ひと晩でこれを……\r\nということは、君、寝てないな？",
             "enText": "I did this in one night:… So you\nhaven't slept, have you?",
             "nextBlock": 18,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "つい、張り切っちゃって……",
                     "enText": "I got carried away…",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -2524915557232518042
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2782926955221076157
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4678815185025729404
                 }
             ],
             "pathId": 128523486097334220,
@@ -204,6 +305,21 @@
             "jpText": "クックック、私にやる気があることが\r\nそんなに嬉しいのかい、うん？",
             "enText": "You're so happy that I'm motivated, hmm?",
             "nextBlock": 19,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6401402473150770383
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -4603033151952424249
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -8970713424663022012
+                }
+            ],
             "pathId": 7511809636212660000,
             "blockIdx": 18
         },
@@ -213,6 +329,17 @@
             "jpText": "――にしても、この細かいデータ！\r\n『月桂杯』で役に立ちそうだ！",
             "enText": "—Even so, this detailed data! It's going\nto be useful in the laurel cup!",
             "nextBlock": 20,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 9125454874974888362
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4910475805041255983
+                }
+            ],
             "pathId": -455124923500603960,
             "blockIdx": 19
         },
@@ -222,6 +349,17 @@
             "jpText": "貴重なデータが取れる、大切なレースなんだ。\r\n出来る準備は全てしておかねばね！",
             "enText": "This is an important race, where\nwe can get valuable data. We must\nbe ready for anything!",
             "nextBlock": 21,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -7378871002247077017
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 1059200122152381145
+                }
+            ],
             "pathId": -967882983861697475,
             "blockIdx": 20
         },
@@ -231,6 +369,7 @@
             "jpText": "そう言って、アグネスタキオンは、\r\n熱心にデータを眺めた。",
             "enText": "Agnes Tachyon looked at the data intently.",
             "nextBlock": 22,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "（彼女が熱心に、俺のデータを……！）",
@@ -243,6 +382,16 @@
                     "nextBlock": 22
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 6196245516685498181
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6377572975098688361
+                }
+            ],
             "pathId": 2129728980006711112,
             "blockIdx": 21
         },
@@ -252,11 +401,22 @@
             "jpText": "ンー？　なんだい、嬉しそうにして。",
             "enText": "Hmm? What is it, you look so happy.",
             "nextBlock": 23,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "他に何か、出来ることはある！？",
                     "enText": "What else can I do, what else can I do!",
                     "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -8606707873851737756
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 6677550987960419467
                 }
             ],
             "pathId": -1924299902334329206,
@@ -268,6 +428,17 @@
             "jpText": "おいおい！　随分張り切っているな！",
             "enText": "Hey, hey! You're getting all worked up!",
             "nextBlock": 24,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 7875193740638085283
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 6757592546346009434
+                }
+            ],
             "pathId": -2050319470832232903,
             "blockIdx": 23
         },
@@ -277,6 +448,17 @@
             "jpText": "そうか、じゃあ……\r\n10日ほど監禁させてくれないかい。\n実験にどうしても必要でね。ククク。",
             "enText": "Well, then,…, let me lock you up for\nten days. I really need it for my\nexperiments. Kukuku.",
             "nextBlock": 25,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 5895380899559980656
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 5837953908806509517
+                }
+            ],
             "pathId": -1621547774759712589,
             "blockIdx": 24
         },
@@ -286,6 +468,7 @@
             "jpText": "彼女の限界を見られるのなら、\r\nと、考えるより先に返事がでた。",
             "enText": "If only I could see her limits, I replied\nbefore I could even think about it.",
             "nextBlock": 26,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "いいぞ！",
@@ -298,6 +481,16 @@
                     "nextBlock": 26
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -743134195476530742
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2536159710473885368
+                }
+            ],
             "pathId": -4242468456099115917,
             "blockIdx": 25
         },
@@ -307,6 +500,17 @@
             "jpText": "……！",
             "enText": "…!",
             "nextBlock": 27,
+            "origClipLength": 46,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -646672406220895574
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -1736869330118592241
+                }
+            ],
             "pathId": 3783855883631655806,
             "blockIdx": 26
         },
@@ -316,6 +520,17 @@
             "jpText": "『またウマ娘の薬を飲んでもいい』\r\n『どんな実験にも付き合うよ』\nとにかく思いつく限りの提案をすると――",
             "enText": "\"You can take your medicine again, and\nI'll go along with any experiments you\nwant to do,\" she said, making as many\nsuggestions as she could think of.",
             "nextBlock": 28,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -391143238823033322
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2461016788489853374
+                }
+            ],
             "pathId": -5052432189778676222,
             "blockIdx": 27
         },
@@ -325,6 +540,17 @@
             "jpText": "クク、ハハハ……！　君、ヤバいぞ！\r\n監禁は冗談だよ！　法に触れるだろう？",
             "enText": "Kuk, hahahaha…! You're in trouble!\nLocking me up is a joke! It's against\nthe law, right?",
             "nextBlock": 29,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -4676055538093876964
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2714100325856417263
+                }
+            ],
             "pathId": 2170781665436513774,
             "blockIdx": 28
         },
@@ -334,11 +560,22 @@
             "jpText": "はぁ、しかし……ククク……！\r\n一体何がそうさせるのか、不思議でならない！",
             "enText": "Huh, but… kuku kuku…!\nNo wonder what in the world would\nmake you do that!",
             "nextBlock": 30,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "（そんなの、あんな姿を見たら……！）",
                     "enText": "(That's not true, if you see\nme like that,…!)",
                     "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 1752649540871712562
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2340735432065351765
                 }
             ],
             "pathId": -735791757109096284,
@@ -350,11 +587,22 @@
             "jpText": "本気を出した彼女の魅力を伝えようとしたが、\r\nいい言葉が浮かばなかった。",
             "enText": "I tried to tell her how attractive she\nreally was, but I couldn't come up with\nthe right words.",
             "nextBlock": 31,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "（グラウンドで見た、彼女の姿――）",
                     "enText": "(I saw her on the field…)",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -5677512579200400708
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 4474165193500322014
                 }
             ],
             "pathId": -6264060387011749137,
@@ -366,6 +614,17 @@
             "jpText": "もっと、もっとだ……！\r\n限界は！　まだまだ！　まだまだ先に――！！",
             "enText": "More, much more…! The sky's the\nlimit! Still more! There's more to come!",
             "nextBlock": 32,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 5112920385820777884
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 7479963239990556399
+                }
+            ],
             "pathId": 2378622185067121458,
             "blockIdx": 31
         },
@@ -375,11 +634,22 @@
             "jpText": "土埃、足音、遠ざかる背中。\r\nその全てが、光を放ち、目を奪われた――",
             "enText": "Dust, footsteps, a distant back. All of it\nshone with light, and I was transfixed.",
             "nextBlock": 33,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "なんだってしてあげたいんだ！",
                     "enText": "I'd do anything for you!",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 147,
+                    "pathId": 2391335495935999578
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 7801862879735466403
                 }
             ],
             "pathId": -3405277486261803099,
@@ -391,6 +661,17 @@
             "jpText": "……何？",
             "enText": "… What?",
             "nextBlock": 34,
+            "origClipLength": 47,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -6026081661190766366
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 7796783345307141154
+                }
+            ],
             "pathId": -7191456143012615937,
             "blockIdx": 33
         },
@@ -400,6 +681,22 @@
             "jpText": "『君と一緒に、限界の先へ行くためなら』\r\nそう続けると、彼女が珍しく黙り込んだ。",
             "enText": "I'd like to go beyond the limits with\nyou,\" she continued, and then she fell\nunusually silent.",
             "nextBlock": 35,
+            "origClipLength": 71,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -7434327937563850882
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 7383846531612943255
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -4293761910487383873
+                }
+            ],
             "pathId": 2137541108099337525,
             "blockIdx": 34
         },
@@ -409,6 +706,22 @@
             "jpText": "『貴方と一緒に、限界の先へ行くためなら』\r\nそう続けると、彼女が珍しく黙り込んだ。",
             "enText": "I'd be happy to go beyond the limits\nwith you,\" she continued, then\nfell unusually silent.",
             "nextBlock": 36,
+            "origClipLength": 71,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -2438949301008956634
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 1074482092014957813
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -7972583583343557407
+                }
+            ],
             "pathId": -7054440020571482000,
             "blockIdx": 35
         },
@@ -418,11 +731,26 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 37,
+            "origClipLength": 46,
             "choices": [
                 {
                     "jpText": "……タキオン？",
                     "enText": "… Tachyon?",
                     "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5597616208177330807
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -5881338628951914817
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -5163240856836838152
                 }
             ],
             "pathId": -6621247670891250155,
@@ -434,11 +762,22 @@
             "jpText": "……なんだそれ。",
             "enText": "… What's that?",
             "nextBlock": 38,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "え？",
                     "enText": "What?",
                     "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -7419427871988924011
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 6749936113535219341
                 }
             ],
             "pathId": -7875709226459852805,
@@ -450,6 +789,17 @@
             "jpText": "ああ、そうか！\r\n……君は変わっていないんだな。",
             "enText": "Oh, I see!… you haven't\nchanged, have you?",
             "nextBlock": 39,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -1059142373697831908
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 7002376983551582232
+                }
+            ],
             "pathId": -1800310324993610824,
             "blockIdx": 38
         },
@@ -459,6 +809,22 @@
             "jpText": "『俺も、一緒に“果て”が見たい』",
             "enText": "\"I want to see the end with you.\"",
             "nextBlock": 40,
+            "origClipLength": 55,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 1871642689382983899
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -3260075609079081247
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 4105857916456850002
+                }
+            ],
             "pathId": 3094971412390317830,
             "blockIdx": 39
         },
@@ -468,6 +834,22 @@
             "jpText": "『私も、一緒に“果て”が見たい』",
             "enText": "\"I want to see the end with you.\"",
             "nextBlock": 41,
+            "origClipLength": 55,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -8827539484523492751
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -6369518713383033798
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -5150180222147217434
+                }
+            ],
             "pathId": -6732124879355035589,
             "blockIdx": 40
         },
@@ -477,6 +859,21 @@
             "jpText": "……そんなことを、\r\n私をスカウトした時にも言っていたろう。",
             "enText": "… That's what you said\nwhen you recruited me.",
             "nextBlock": 42,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 9168189828043728031
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 70780913148594294
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -5212129566227210056
+                }
+            ],
             "pathId": -1799756868812441924,
             "blockIdx": 41
         },
@@ -486,6 +883,17 @@
             "jpText": "私の担当トレーナーになるために、\r\n奇妙な色味の薬を、3本飲んだ日だ。",
             "enText": "That was the day I took three bottles of a\nstrange colored drug to become my trainer.",
             "nextBlock": 43,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -4494777205581511140
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1211382587024155957
+                }
+            ],
             "pathId": 2545204173385108362,
             "blockIdx": 42
         },
@@ -495,6 +903,17 @@
             "jpText": "……クク、ハハハ！\r\n衝撃的だったな、あれは。\n大したモルモットだと思った。",
             "enText": "… Kuk, hahaha! That was\nshocking, that was. I thought\nI was a great guinea pig.",
             "nextBlock": 44,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -7108118249177162801
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -3398196613655393159
+                }
+            ],
             "pathId": 734737778840468373,
             "blockIdx": 43
         },
@@ -504,6 +923,17 @@
             "jpText": "懐かしむように、彼女は目を細めた。",
             "enText": "She narrowed her eyes in nostalgia.",
             "nextBlock": 45,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -9016607017970634150
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8311336320601162816
+                }
+            ],
             "pathId": 2721218279992719099,
             "blockIdx": 44
         },
@@ -513,6 +943,17 @@
             "jpText": "そうだ。あの時、夕日に照らされた\r\n君は、随分狂った色の瞳をしていた。",
             "enText": "That's right. You had some\npretty crazy-colored eyes in\nthe sunset that time.",
             "nextBlock": 46,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -960237767974765642
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3742772166611330894
+                }
+            ],
             "pathId": 7361924497863796081,
             "blockIdx": 45
         },
@@ -522,6 +963,17 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 47,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -2918557002085406420
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -4215904358255407773
+                }
+            ],
             "pathId": -3732548378706593369,
             "blockIdx": 46
         },
@@ -531,6 +983,17 @@
             "jpText": "――いや、違うな。訂正しよう。",
             "enText": "—No, you're not. Let me correct that.",
             "nextBlock": 48,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 8503878940453949354
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -8206436971381577272
+                }
+            ],
             "pathId": -8324008179449492710,
             "blockIdx": 47
         },
@@ -540,6 +1003,17 @@
             "jpText": "そう言うとアグネスタキオンは、\r\nこちらをじっと見据えた。",
             "enText": "Agnes Tachyon stared at me as I said this.",
             "nextBlock": 49,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -7083516019949985055
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -2312979462605702485
+                }
+            ],
             "pathId": -8277322048553058731,
             "blockIdx": 48
         },
@@ -549,11 +1023,22 @@
             "jpText": "君は今も……\r\n『随分狂った色の瞳をしている』",
             "enText": "You still… \"have pretty\ncrazy colored eyes.",
             "nextBlock": 50,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "……？",
                     "enText": "…?",
                     "nextBlock": 50
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -4392910405600837549
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5526254963347930572
                 }
             ],
             "pathId": -8334399430102358549,
@@ -565,6 +1050,17 @@
             "jpText": "……私は奇妙なものに惹かれる質でね。",
             "enText": "… I'm a sucker for the weird.",
             "nextBlock": 51,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 5743412031389793244
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -9157911590204262943
+                }
+            ],
             "pathId": -7499004582419893216,
             "blockIdx": 50
         },
@@ -574,6 +1070,21 @@
             "jpText": "――と、彼女は小さくため息をついた。",
             "enText": "— and she let out a small sigh.",
             "nextBlock": 52,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -80918383773332573
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 7330179237760961363
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 912433464290044794
+                }
+            ],
             "pathId": 6101266976176816836,
             "blockIdx": 51
         },
@@ -583,11 +1094,26 @@
             "jpText": "全く、覚悟を決めたばかりだったんだ。\r\nカッコ悪いことこの上ないぞ。",
             "enText": "I was just getting ready\nto go. That's not cool.",
             "nextBlock": 53,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "……何の話？",
                     "enText": "… What are you talking about?",
                     "nextBlock": 53
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7450645619900281313
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2927904413413144028
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -8256484270438650862
                 }
             ],
             "pathId": 2756462176922649832,
@@ -599,6 +1125,17 @@
             "jpText": "可能性がゼロでないのならば、\r\n諦めるのはまだ早いってことさ。",
             "enText": "If it's not a possibility, then it's not\ntoo early to give up.",
             "nextBlock": 54,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -3368135810642079306
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3961078970847814226
+                }
+            ],
             "pathId": -8242653802548822316,
             "blockIdx": 53
         },
@@ -608,11 +1145,22 @@
             "jpText": "ならば、さらなる実験に付き合ってもらおう。\r\nモルモット君。",
             "enText": "Then you will have to accompany me for\nfurther experiments. Guinea pig.",
             "nextBlock": 55,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "だから、何の話！？",
                     "enText": "So, what are you talking about!",
                     "nextBlock": 55
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -6787579768125767832
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 3819795840032097233
                 }
             ],
             "pathId": -8604367657166168492,
@@ -624,11 +1172,22 @@
             "jpText": "これから起こるトラブルの半分は、\r\n君のせいだってことさ。",
             "enText": "Half the trouble that's going to happen is\ngoing to be your fault.",
             "nextBlock": 56,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "！？",
                     "enText": "What?",
                     "nextBlock": 56
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 1506752767466876983
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -5453333096312337414
                 }
             ],
             "pathId": 1051601058757062175,
@@ -640,6 +1199,17 @@
             "jpText": "そしてその日、彼女は3週間ぶりに\r\nトレーニングをさぼった。",
             "enText": "And that day, for the first time in three\nweeks, she skipped her training.",
             "nextBlock": 57,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 5793074295722027320
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 1332281731666930411
+                }
+            ],
             "pathId": -1674871723658802653,
             "blockIdx": 56
         },
@@ -649,6 +1219,17 @@
             "jpText": "翌日――",
             "enText": "The next day—",
             "nextBlock": 58,
+            "origClipLength": 47,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -7748673985894280212
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 1841540524902152271
+                }
+            ],
             "pathId": 1016361130136576629,
             "blockIdx": 57
         },
@@ -658,6 +1239,17 @@
             "jpText": "トレーナー君。話がある。朗報だよ。",
             "enText": "Trainer. I need to talk to\nyou. I have good news.",
             "nextBlock": 59,
+            "origClipLength": 100,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 2251403477987615040
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 8831217722687826884
+                }
+            ],
             "pathId": 1095372793734595084,
             "blockIdx": 58
         },
@@ -667,11 +1259,22 @@
             "jpText": "『月桂杯』への参加は取りやめだ。",
             "enText": "I'm not going to participate\nin the Gekkei Cup.",
             "nextBlock": 60,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "え！？",
                     "enText": "What?",
                     "nextBlock": 60
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -2492128357640575222
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -6311999264347093225
                 }
             ],
             "pathId": -6876069799678582314,
@@ -683,6 +1286,17 @@
             "jpText": "彼女は詳しいことは話さず……\r\nまた、研究室に籠ってしまった。",
             "enText": "She didn't give any details, but…\nlocked herself in the lab again.",
             "nextBlock": 61,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -7178168715822050362
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2723961470459540095
+                }
+            ],
             "pathId": 6011180613241043891,
             "blockIdx": 60
         },
@@ -692,6 +1306,7 @@
             "jpText": "その後、宣言通り\r\n『月桂杯』への出走は辞退――",
             "enText": "After that, she withdrew from the Gekkei\nCup as she had declared.",
             "nextBlock": 62,
+            "origClipLength": 60,
             "pathId": 3796441608369523235,
             "blockIdx": 61
         },
@@ -701,8 +1316,10 @@
             "jpText": "アグネスタキオンの急で一方的な判断は、\r\n各所に大きく報じられることとなった。",
             "enText": "Agnes Tachyon's sudden and unilateral\ndecision was widely reported.",
             "nextBlock": -1,
+            "origClipLength": 70,
             "pathId": -7643377864221976107,
             "blockIdx": 62
         }
-    ]
+    ],
+    "modified": 1669946129
 }

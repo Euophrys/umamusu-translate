@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PSIRKWTXL6O353M4ABXTCX25IEDIZVGC",
     "type": "story",
     "storyId": "501050415",
@@ -11,6 +11,7 @@
             "jpText": "とうとう『三強対決』が行われる\n『天皇賞（秋）』がやってきた。",
             "enText": "At last, the Tennou-sho (autumn), where the \n\"top three teams\" will face off, has arrived.",
             "nextBlock": 2,
+            "origClipLength": 85,
             "pathId": -5524439484087690089,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "それまでの“BNW”はというと、3人一緒に\r\nいつも通りの時間を過ごしていたようだ。",
             "enText": "Up to that point, the three \"BNWs\" seemed to \nbe spending their time together as usual.",
             "nextBlock": 3,
+            "origClipLength": 99,
             "pathId": -5877756608834624837,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "彼女たちが想いをぶつけ合うのは\nレースの上――",
             "enText": "The girls will be competing against each \nother on the race track.",
             "nextBlock": 4,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 319,
+                    "pathId": -5037324551070238143
+                },
+                {
+                    "origLen": 307,
+                    "pathId": -389035056390997352
+                }
+            ],
             "pathId": 5878200474935833294,
             "blockIdx": 3
         },
@@ -38,8 +51,20 @@
             "jpText": "ナリタタイシンは静かな闘志を秘め、\n勝負の場へと足を運ぶのだった。",
             "enText": "Narita Taishin, with a quiet fighting \nspirit in her heart, went to the \narena of competition.",
             "nextBlock": -1,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 319,
+                    "pathId": -3946460436529010818
+                },
+                {
+                    "origLen": 307,
+                    "pathId": -4287024454597653342
+                }
+            ],
             "pathId": -5601852538940999984,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945807
 }

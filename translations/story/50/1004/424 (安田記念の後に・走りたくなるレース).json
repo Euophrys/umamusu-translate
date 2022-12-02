@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "EHLODW6GBSLEA5DOGY2XSSSLIZ74O2OC",
     "type": "story",
     "storyId": "501004424",
@@ -11,6 +11,25 @@
             "jpText": "マルゼンスキーは、\r\nグラスワンダーとの激戦を制した。",
             "enText": "Maruzensky won a fierce battle\nwith Glass Wonder.",
             "nextBlock": 2,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -3732499404528274039
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8958902868262647044
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 8582740103640456306
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 4517736035956839267
+                }
+            ],
             "pathId": 8857938444190472597,
             "blockIdx": 1
         },
@@ -20,10 +39,29 @@
             "jpText": "後輩と繰り広げた楽しいレースの勢いに\r\n乗って、次のレースを\n『天皇賞（秋）』へと定める。",
             "enText": "Riding on the momentum of the fun race she\nhad with her juniors, she set her next\nrace as \"Tennou-sho (Autumn)\".",
             "nextBlock": 3,
+            "origClipLength": 103,
             "coloredText": [
                 {
                     "jpText": "天皇賞（秋）",
                     "enText": "Tennoushou (Autumn)"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -3017738040978593732
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -2666401273812256470
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -5294897046706464752
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -1231668224781140740
                 }
             ],
             "pathId": -8133950745322439153,
@@ -35,8 +73,28 @@
             "jpText": "2人のレースを目の前で観戦していた\r\nスペシャルウィークは、以前のような焦り\nとは違う、熱い想いがこみ上げるのだった。",
             "enText": "Special Week, who was watching the race in\nfront of him, was filled with passion, not\nthe same impatience as before.",
             "nextBlock": -1,
+            "origClipLength": 121,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -1833013091277098299
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 374455362539238408
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -990148088192884923
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -7296833649116942019
+                }
+            ],
             "pathId": 854119543819184843,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944911
 }

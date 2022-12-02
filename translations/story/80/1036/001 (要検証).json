@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6PJSU3ALP4POGAIUNJP5DX526T5HADYI",
     "type": "story",
     "storyId": "801036001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、河川敷を歩いていると……。",
             "enText": "One day, I was walking along \na riverbed and I saw…",
             "nextBlock": 2,
+            "origClipLength": 78,
             "pathId": -1005281270381438604,
             "blockIdx": 1
         },
@@ -20,11 +21,22 @@
             "jpText": "チッ……計算式間違ったか？\r\n違う、ありえねェ。ならデータの方か……。",
             "enText": "Did I get the… formula wrong? No, it can't \nbe. Then it's the data…",
             "nextBlock": 3,
+            "origClipLength": 87,
             "choices": [
                 {
                     "jpText": "どうかした？",
                     "enText": "What's wrong?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 363704792504010672
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -7060462731161427691
                 }
             ],
             "pathId": -2494193957503789427,
@@ -36,6 +48,17 @@
             "jpText": "あ？　お前には関係な――",
             "enText": "What? It's none of your business.",
             "nextBlock": 4,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 8326567580528646011
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -4068555372902027267
+                }
+            ],
             "pathId": 5329408836078986078,
             "blockIdx": 3
         },
@@ -45,6 +68,17 @@
             "jpText": "いや、検討すべきデータが足りねェのかもな。\r\nオイ、お前の意見聞かせろ。",
             "enText": "No, maybe there's not enough data to \nconsider. Hey, let me know what you think.",
             "nextBlock": 5,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 9017416328659226625
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 8724581760964733366
+                }
+            ],
             "pathId": -8565440411066667609,
             "blockIdx": 4
         },
@@ -54,6 +88,17 @@
             "jpText": "今、心拍数のデータをもとに\r\nシミュレーションしてるトコなンだが、\n求める結果が出ねェ。",
             "enText": "I'm running a simulation based on \nmy heart rate data, but I'm not \ngetting the results I want.",
             "nextBlock": 6,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 5099656226353520017
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -5849459303403419518
+                }
+            ],
             "pathId": 7733782860428989939,
             "blockIdx": 5
         },
@@ -63,6 +108,17 @@
             "jpText": "具体的には――",
             "enText": "Specifically—",
             "nextBlock": 7,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 5222904765836299020
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5297353634101372611
+                }
+            ],
             "pathId": 4160673868356105560,
             "blockIdx": 6
         },
@@ -72,6 +128,17 @@
             "jpText": "その後、具体的な数式の話をされたが、\r\n専門外だった……。",
             "enText": "She then talked about specific formulas, but \nthis was outside her area of expertise…",
             "nextBlock": 8,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -8492929215430055278
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -7466641503071907225
+                }
+            ],
             "pathId": 1444960741022898399,
             "blockIdx": 7
         },
@@ -81,6 +148,7 @@
             "jpText": "あー、もういいわ。やっぱこの方面での\r\nアプローチをやめる。今決めた。",
             "enText": "Oh, forget it. I'm going to stop approaching \nyou in this direction. I've just decided.",
             "nextBlock": 9,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "式を組みなおしたらどうかと伝える",
@@ -93,6 +161,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -6504108036691662549
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -437697232840551031
+                }
+            ],
             "pathId": -3433178101218738089,
             "blockIdx": 8
         },
@@ -102,6 +180,17 @@
             "jpText": "アア？　ハナからそのつもりだ。\r\n『この方面』はやめるっつったろ。",
             "enText": "Oh, yeah? That's the plan all along. I told \nyou I'm not going in this direction.",
             "nextBlock": 10,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -4882955212130164029
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -8691654393022666248
+                }
+            ],
             "pathId": 4130696978774735096,
             "blockIdx": 9
         },
@@ -111,6 +200,17 @@
             "jpText": "自分の方程式を立証できねェで、\r\nハンパに終わらせるわけねェだろ。",
             "enText": "If you can't prove your equation, \nyou can't end up in the hamper.",
             "nextBlock": 11,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -1682463458505517953
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -3758289646933351235
+                }
+            ],
             "pathId": -3743204546543251243,
             "blockIdx": 10
         },
@@ -120,6 +220,17 @@
             "jpText": "固執すンのも危険だがな。\r\n今回は確信あるし、当然組みなおす。じゃ。",
             "enText": "It's dangerous to be too attached, though. \nThis time we're sure, and of course we'll \nreassemble. So long.",
             "nextBlock": 12,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 8739133945954784558
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5987448132353360400
+                }
+            ],
             "pathId": -914591616859858553,
             "blockIdx": 11
         },
@@ -129,6 +240,17 @@
             "jpText": "エアシャカールは早速頭を切り替えた様子で、\r\nタブレットを持って去って行った。\n腰を据えて、答えを求めるつもりなのだろう。",
             "enText": "Air Shakur seems to have changed her mind \nquickly and leaves with the tablet. She's \ngoing to sit down and get some answers.",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -3269855454577992999
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -5637696464326005496
+                }
+            ],
             "pathId": 7416672659222183541,
             "blockIdx": 12
         },
@@ -138,6 +260,17 @@
             "jpText": "ア？　オレの検証が不十分ってか？\r\n必要な回数は試行したっての。",
             "enText": "What? You think I'm not doing enough? I've \ntried as many times as I need to.",
             "nextBlock": 14,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -8441077067441046083
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2812263741840173493
+                }
+            ],
             "pathId": -4625781315218289855,
             "blockIdx": 13
         },
@@ -147,6 +280,17 @@
             "jpText": "つか、根拠ナシに可能性だけ求めて\r\n思考停止して進み続けるとか、アホくさ――",
             "enText": "I mean, it's stupid to stop thinking and \njust keep going, looking for possibilities \nwithout any evidence.",
             "nextBlock": 15,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -2913258418653467062
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2072569216008860397
+                }
+            ],
             "pathId": -2568208326737935643,
             "blockIdx": 14
         },
@@ -156,6 +300,17 @@
             "jpText": "ああ……試行回数の条件付けが甘かったか？\r\n入力しなおして走ってみっか……。",
             "enText": "Oh… did I not condition the number \nof attempts correctly? Let's re-type \nit and run it…",
             "nextBlock": 16,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -2736643371390969764
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 5461532675213767302
+                }
+            ],
             "pathId": -2249391095179512056,
             "blockIdx": 15
         },
@@ -165,8 +320,20 @@
             "jpText": "その後彼女の様子を見ていると、\r\nどうやら満足のいく結果が出たようだ。",
             "enText": "Afterwards, I looked at her, and apparently \nshe was satisfied with the results.",
             "nextBlock": -1,
+            "origClipLength": 87,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -1825898663841948391
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -3357188216284419013
+                }
+            ],
             "pathId": -2039558608994632197,
             "blockIdx": 16
         }
-    ]
+    ],
+    "modified": 1669945958
 }

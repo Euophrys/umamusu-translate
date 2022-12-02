@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MHTPHI2RG4WBV5ZZMWOJ5QSXONDVTXJ5",
     "type": "story",
     "storyId": "501061203",
@@ -11,6 +11,7 @@
             "jpText": "なあ！　今回のダービー、誰が勝つと思う！？",
             "enText": "Hey! Who do you think is going \nto win this derby?",
             "nextBlock": 2,
+            "origClipLength": 86,
             "pathId": -2713448613248542449,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "やっぱりあの三強の誰かじゃない？\r\nだってテレビでも言ってたし！",
             "enText": "Isn't it one of the top three? Because \nthat's what they said on TV!",
             "nextBlock": 3,
+            "origClipLength": 65,
             "pathId": -8958491407806662982,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "だったら俺はあの例のお嬢さんに1票！\r\nなんて言ったって、伝説のウマ娘の娘だぜ？",
             "enText": "Then I vote for that girl! After \nall, she's the daughter of the legendary \nUma Musume, right?",
             "nextBlock": 4,
+            "origClipLength": 71,
             "pathId": 8737977157267838139,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "えー、じゃあ私はスペシャルウィークに\r\n勝ってほしい！　だってこの前特集で――",
             "enText": "Well, then I want Special Week to \nwin! Because the other day, in the feature…",
             "nextBlock": 5,
+            "origClipLength": 70,
             "pathId": -2128856214258793918,
             "blockIdx": 4
         },
@@ -47,6 +51,17 @@
             "jpText": "……来たわね、ダービー。",
             "enText": "… Here you are, Darby.",
             "nextBlock": 6,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 1094687591628477277
+                },
+                {
+                    "origLen": 161,
+                    "pathId": -380621239491788551
+                }
+            ],
             "pathId": 1970747613163926889,
             "blockIdx": 5
         },
@@ -56,11 +71,26 @@
             "jpText": "…………。\r\n……。",
             "enText": "…",
             "nextBlock": 7,
+            "origClipLength": 51,
             "choices": [
                 {
                     "jpText": "緊張してる？",
                     "enText": "Are you nervous?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 3632636527581146862
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -1790154725706909440
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -3702871075852739833
                 }
             ],
             "pathId": -8977877263429743654,
@@ -72,6 +102,21 @@
             "jpText": "は、はぁ！？　そ、そんなわけないでしょう！\r\nキングは、い、いい……いつも通りだわ！",
             "enText": "Huh? Huh? No, of course not! King is, \nyes, fine… as usual!",
             "nextBlock": 8,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3062090424340706102
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -673662797000228138
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 8731214830438526611
+                }
+            ],
             "pathId": 3327297920730731556,
             "blockIdx": 7
         },
@@ -81,6 +126,17 @@
             "jpText": "ぜんっぜん余裕なんだから！\r\nあなたは『皐月賞』の私を見てるでしょうっ？",
             "enText": "I have no problem at all! You've seen me at \nthe Satsuki-sho, haven't you?",
             "nextBlock": 9,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -4565750501025331225
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 5704079533105415942
+                }
+            ],
             "pathId": 6888131948553236702,
             "blockIdx": 8
         },
@@ -90,6 +146,17 @@
             "jpText": "何も案ずることはないわ！\r\n今日は私が勝つ、それだけよ！",
             "enText": "There's nothing to worry about! I'm \ngoing to win today, that's all!",
             "nextBlock": 10,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 4193066102958737255
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4080650259286838470
+                }
+            ],
             "pathId": 7129925404474554492,
             "blockIdx": 9
         },
@@ -99,6 +166,17 @@
             "jpText": "たとえダービーのレースであっても！\r\nいいえ、これがダービーだからこそ……！",
             "enText": "Even if it is a derby race! No, only because \nthis is the Derby…!",
             "nextBlock": 11,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -3762601199110771591
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -8972914155382227958
+                }
+            ],
             "pathId": 7223793400716913788,
             "blockIdx": 10
         },
@@ -108,6 +186,17 @@
             "jpText": "私は絶対にレースに勝って……。",
             "enText": "I absolutely won the race and…",
             "nextBlock": 12,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 592752195017714824
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 2533758403614914004
+                }
+            ],
             "pathId": -7332329059871797877,
             "blockIdx": 11
         },
@@ -117,6 +206,17 @@
             "jpText": "……必ず、お母さまに、\r\n認められるんだから……っ！",
             "enText": "… I'm sure your mother \nwill approve of me…",
             "nextBlock": 13,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 1797022111593723252
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -1638027683526519239
+                }
+            ],
             "pathId": 5498334504547974307,
             "blockIdx": 12
         },
@@ -126,6 +226,17 @@
             "jpText": "――それから、5分後。",
             "enText": "—then, five minutes later.",
             "nextBlock": 14,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 984030215032367379
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -1824637750076378837
+                }
+            ],
             "pathId": 3083328164485019891,
             "blockIdx": 13
         },
@@ -135,6 +246,17 @@
             "jpText": "……この先、目の前に転がっているのは\r\nにんじん。にんじんがいっぱいの畑だわ。",
             "enText": "… Just ahead, lying in front of us, are \ncarrots. It's a field full of carrots.",
             "nextBlock": 15,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -3509670092014654052
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -4242053963003437846
+                }
+            ],
             "pathId": 7238738281678843757,
             "blockIdx": 14
         },
@@ -144,6 +266,17 @@
             "jpText": "大丈夫、大丈夫よ、私。\r\n何も心配することなんて――",
             "enText": "I'm fine. I'm fine. There's \nnothing to worry about.",
             "nextBlock": 16,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -8237943305250359676
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2684212282709851316
+                }
+            ],
             "pathId": 605037952935076489,
             "blockIdx": 15
         },
@@ -153,6 +286,17 @@
             "jpText": "（ワァァアアアアーーーーッ！）",
             "enText": "(Waaaaaaaaaaaaaah!)",
             "nextBlock": 17,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -8192526838332368753
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 5715790410519032150
+                }
+            ],
             "pathId": 3631224314114194234,
             "blockIdx": 16
         },
@@ -162,6 +306,17 @@
             "jpText": "んもう！　うるさいわね……。\r\nキングがこれから出るって言うのに……。",
             "enText": "Oh, my God! Shut up… \nKing is about to leave…",
             "nextBlock": 18,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8554401709364717458
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7029936458182896854
+                }
+            ],
             "pathId": -7046842903464721601,
             "blockIdx": 17
         },
@@ -171,6 +326,17 @@
             "jpText": "？　……待って。じゃあ今、\r\nこの大歓声を浴びているのは……。",
             "enText": "Wait. … Wait. Then the one who's getting \nall the cheers right now is…",
             "nextBlock": 19,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -1401588506593387908
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7406314265391736890
+                }
+            ],
             "pathId": -5252342144200171037,
             "blockIdx": 18
         },
@@ -180,6 +346,25 @@
             "jpText": "わぁ……！　応援ありがとうございます！",
             "enText": "Wow…! Thanks for the support!",
             "nextBlock": 20,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": -2561009307033585553
+                },
+                {
+                    "origLen": 10,
+                    "pathId": -8561147051011557323
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 2590934886334125200
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 4408931712068163736
+                }
+            ],
             "pathId": -2389724415451145152,
             "blockIdx": 19
         },
@@ -189,6 +374,17 @@
             "jpText": "私、このレース絶対に負けません！\r\nみんなの応援を力にして走ります！",
             "enText": "I'm not going to lose this race! I will run \nwith the power of your support!",
             "nextBlock": 21,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -3710939390143649149
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7113096547711756226
+                }
+            ],
             "pathId": -3959847975695957810,
             "blockIdx": 20
         },
@@ -198,6 +394,17 @@
             "jpText": "このダービーに勝って、私は……\r\n……みんなの誇りになりたいですから！",
             "enText": "Because I want to win this derby and make \n… everyone proud!",
             "nextBlock": 22,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 6184310860233701389
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1124254188585046152
+                }
+            ],
             "pathId": -4998239536319829157,
             "blockIdx": 21
         },
@@ -207,6 +414,17 @@
             "jpText": "育ててくれたお母ちゃんのためにも、\r\n生んでくれたお母ちゃんのためにも……！",
             "enText": "For the mother who raised me, for the mother \nwho gave birth to me…!",
             "nextBlock": 23,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 2892104664624851198
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4669066710343080472
+                }
+            ],
             "pathId": -5144891066651779055,
             "blockIdx": 22
         },
@@ -216,8 +434,20 @@
             "jpText": "私、日本一のウマ娘になりたいですっ！",
             "enText": "I want to be the best horse girl in Japan!",
             "nextBlock": -1,
+            "origClipLength": 83,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8011001259318365784
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -7306740887050373849
+                }
+            ],
             "pathId": -5540125262024578643,
             "blockIdx": 23
         }
-    ]
+    ],
+    "modified": 1669945920
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4JHSVGPQJQUKN2C7B7TEPS7B4IQVSB7L",
     "type": "story",
     "storyId": "501008712",
@@ -11,6 +11,7 @@
             "jpText": "時間になっても練習にやってこない\r\nウオッカを探していると――",
             "enText": "I'm looking for Vodka, who hasn't \nshown up for practice yet.",
             "nextBlock": 2,
+            "origClipLength": 85,
             "pathId": 886455734883850250,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "くっそー、\r\nあともうちょっとだったのになー！",
             "enText": "Damn it, we were so close!",
             "nextBlock": 3,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -3280171019491669700
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 7468067406532200404
+                }
+            ],
             "pathId": 6554642226058533554,
             "blockIdx": 2
         },
@@ -29,6 +41,7 @@
             "jpText": "やっぱコーナーで攻めすぎたか、\r\n次はもう少しスピード落とさねぇとな。",
             "enText": "I guess I was too aggressive in the corner, \nI'll have to slow down a bit next time.",
             "nextBlock": 4,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "それは惜しかったな",
@@ -41,6 +54,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -1670358142806091596
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8999365464557626870
+                }
+            ],
             "pathId": 8797706600380998509,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "ま、久々にゲームやれて楽しかったけどよ。\r\nあー、早く本物のバイクにも乗りてぇー。",
             "enText": "It's been a while since I played a \ngame, but it was fun. Oh, I can't wait \nto ride a real motorcycle.",
             "nextBlock": 5,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 6923498191406998210
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -2137822958056554756
+                }
+            ],
             "pathId": -2327931597889041584,
             "blockIdx": 4
         },
@@ -59,11 +93,22 @@
             "jpText": "って、トレーナー！？\r\nなんでこんなところに……？",
             "enText": "I mean, trainer! Why are you here…?",
             "nextBlock": 6,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "トレーニングの時間だから",
                     "enText": "It's time to train.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -5834763867678798492
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -706984339064958478
                 }
             ],
             "pathId": -7752354033791128419,
@@ -75,6 +120,17 @@
             "jpText": "えっ…………？",
             "enText": "What?…?",
             "nextBlock": 7,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -114521161818441262
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -198602137184044073
+                }
+            ],
             "pathId": -2311735928499171805,
             "blockIdx": 6
         },
@@ -84,6 +140,17 @@
             "jpText": "あぁーーーーーっ！",
             "enText": "Aaahhhh!",
             "nextBlock": 8,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 412620975860371507
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -5585947173063136844
+                }
+            ],
             "pathId": -7723881436616031567,
             "blockIdx": 7
         },
@@ -93,6 +160,17 @@
             "jpText": "わ、わりぃ、トレーナー。\r\nもうちょいでハイスコア更新だったもんで、\nつい夢中に……！",
             "enText": "Sorry, trainer. I was so close to beating my \nhigh score that I got carried away…!",
             "nextBlock": 9,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -1823128206345246536
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -7856331317442262785
+                }
+            ],
             "pathId": -2398874197304658990,
             "blockIdx": 8
         },
@@ -102,6 +180,17 @@
             "jpText": "今度から気をつけるからっ！\r\nあばよ～～～～～！",
             "enText": "I'll be careful next time! Abayo～～～～～!",
             "nextBlock": 10,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -8512171174719361106
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 1174989305599516935
+                }
+            ],
             "pathId": -2187849133398856242,
             "blockIdx": 9
         },
@@ -111,8 +200,20 @@
             "jpText": "逃げ出そうとするウオッカを\r\nすんでのところで捕まえて、\nきちんとお説教をしたのだった。",
             "enText": "She almost caught Vodka as she tried to run \naway and gave her a proper lecture.",
             "nextBlock": -1,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -7297105108431512416
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -4135571968251569394
+                }
+            ],
             "pathId": 6657186828055401219,
             "blockIdx": 10
         }
-    ]
+    ],
+    "modified": 1669945050
 }

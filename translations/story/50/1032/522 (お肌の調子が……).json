@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OAELTQJKBWFTXVSN5ZNUWKCV2CM3WMVL",
     "type": "story",
     "storyId": "501032522",
@@ -11,6 +11,17 @@
             "jpText": "うーん……どうにも、肌が荒れているようだ。\r\n恐らくは実験のせいだろうが。",
             "enText": "Hmmm,… I don't know, my skin seems\nto be getting rough. Probably because of\nthe experiment, though.",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 1112007441270926199
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1849115853412100501
+                }
+            ],
             "pathId": -4994101770060979788,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "薬品の取り扱いには、\r\nそれなりに注意していたんだがねぇ。",
             "enText": "I was very careful with\nthe chemicals, though.",
             "nextBlock": 3,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "大丈夫なのか？",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -206259600622073989
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6208662585357719988
+                }
+            ],
             "pathId": 2525057452438005989,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "荒れているだけで、害はないよ。",
             "enText": "It's just a rough one, no harm done.",
             "nextBlock": 4,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -3108854182924879440
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 3380270550640721075
+                }
+            ],
             "pathId": -6056680787878714129,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "君が気づかない程度なら、\r\n大したこともないだろう。",
             "enText": "If you don't notice, it's no big deal.",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -3841130649028990001
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -896887220533826069
+                }
+            ],
             "pathId": -8418101928547046902,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "忘れてくれたまえ。\r\nひどくなるようなら、塗り薬でも作るさ。",
             "enText": "Forget it. If it gets worse, I'll\nmake you some ointment.",
             "nextBlock": 6,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -5276188130125103392
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 3111921056547473883
+                }
+            ],
             "pathId": 6025280674327229694,
             "blockIdx": 5
         },
@@ -68,8 +123,20 @@
             "jpText": "忘れろとは言われたが、僅かに痛みか\r\n痒みがあるのか、アグネスタキオンは\n少し気にしている様子だった……。",
             "enText": "I was told to forget about it, but Agnes\nTachyon seemed a little bothered by the\nslight pain or itching…",
             "nextBlock": -1,
+            "origClipLength": 79,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -5297107125247906837
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 8046195193310275252
+                }
+            ],
             "pathId": -4223962691979167932,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945585
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "AWD7X7M7ERL6IBXPLFBYG3F3RVOFPNGW",
     "type": "story",
     "storyId": "501040735",
@@ -11,6 +11,17 @@
             "jpText": "入着か……。",
             "enText": "Please contact us for more information \non arrival or…",
             "nextBlock": 2,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -1128062501082083622
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -5606204710241789934
+                }
+            ],
             "pathId": -3530508848322553258,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "こんな気分でも、\r\n掲示板入れんだね。",
             "enText": "I guess you can still enter the board \neven if you are in this mood.",
             "nextBlock": 3,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "積み重ねてきた努力の結果だ",
@@ -37,6 +49,20 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -6889475720933497399
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1609734318974937433
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -93639074591911358
+                }
+            ],
             "pathId": -559452389918819330,
             "blockIdx": 2
         },
@@ -46,6 +72,21 @@
             "jpText": "地力がついてるんだって、\r\n言いたいの？",
             "enText": "Are you trying to tell me that you're strong?",
             "nextBlock": 4,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -3144742068409386369
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 8074049372517711749
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -7252665657919543268
+                }
+            ],
             "pathId": -6365611410757865502,
             "blockIdx": 3
         },
@@ -55,6 +96,17 @@
             "jpText": "そんなの……。\r\n力つけてたって……結局同じじゃん。",
             "enText": "That's what… is for. Even if you're \nputting on the power… it's still the \nsame in the end.",
             "nextBlock": 5,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 8013609718208176583
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 9054935693242033119
+                }
+            ],
             "pathId": 8551229694125452579,
             "blockIdx": 4
         },
@@ -64,6 +116,17 @@
             "jpText": "……でも、そっか。",
             "enText": "… but I see.",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 2277019333795763281
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5807070021158711538
+                }
+            ],
             "pathId": -2069071671436014200,
             "blockIdx": 5
         },
@@ -73,6 +136,17 @@
             "jpText": "そっかぁ……。",
             "enText": "I see…",
             "nextBlock": -1,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -2204617816646373121
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -5816343982771543718
+                }
+            ],
             "pathId": 4108557838773237365,
             "blockIdx": 6
         },
@@ -82,6 +156,21 @@
             "jpText": "ムリに決まってんじゃん。\r\nどうしても前向きにさせたいなら――",
             "enText": "Of course it's impossible. If you really want \nto make me look forward to it…",
             "nextBlock": 8,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -7414207330873152736
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -3738198816565284524
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 1049534261704273418
+                }
+            ],
             "pathId": -924452175419574284,
             "blockIdx": 7
         },
@@ -91,11 +180,22 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 9,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "シチー？",
                     "enText": "Siti?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 5232121965506006219
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1982318906943209809
                 }
             ],
             "pathId": 8698263800514708470,
@@ -107,8 +207,24 @@
             "jpText": "……気分変えなきゃなの、\r\nわかってる。わかってるから……。",
             "enText": "…I need a change of scenery, \nI know. I know, I know…",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 1355266554439193333
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 6129422954145836690
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 908854379152791998
+                }
+            ],
             "pathId": -939383759639391028,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945694
 }

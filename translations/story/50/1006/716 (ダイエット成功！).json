@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OHVWF77NKYCU7W4WGPIX4IHOTHHXUJE6",
     "type": "story",
     "storyId": "501006716",
@@ -11,6 +11,17 @@
             "jpText": "ふぅ……水辺を走るのは気持ちがいいな。\r\n風が冷たくて、いい香りが――……？",
             "enText": "Whew… it's nice to run along the water. The \nwind is cool and it smells good—…?",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -2376853045828087712
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5902278347368503479
+                }
+            ],
             "pathId": 3487296859621370372,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "ト、トレーナー！　大変だ……！\r\n向こうに、ケバブの屋台が見えるっ！",
             "enText": "Trainer! Oh my god…! I see \na kebab stall over there!",
             "nextBlock": 3,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 2345649503425676353
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4583583140606764860
+                }
+            ],
             "pathId": 1050514221457699803,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "くっ、なんという香ばしい匂いだ……。\r\nトレーナー、私はどうすれば……！",
             "enText": "Damn, what a fragrant smell… \nTrainer, what should I do…!",
             "nextBlock": 4,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "走り抜けよう！",
                     "enText": "Let's run through it!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 4510123478264779209
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4565113978355382380
                 }
             ],
             "pathId": -8041712405117860879,
@@ -45,6 +78,17 @@
             "jpText": "うっ、うう……わかった、行こう！",
             "enText": "Ugh, ugh… Okay, let's go!",
             "nextBlock": 5,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -1514740201755608328
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 5918233806936508805
+                }
+            ],
             "pathId": -3234259833895021497,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "この香りが遠ざかり、私の記憶から\r\n薄れるまで……走り続けるぞっ！",
             "enText": "I'll keep running… until this scent \nfades away from my memory!",
             "nextBlock": 6,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 3297134045271486742
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 4265732212871864050
+                }
+            ],
             "pathId": 1311599385110781791,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "またいつか、必ず会おう……！",
             "enText": "I'll see you again someday, I promise…!",
             "nextBlock": 7,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -2689678227109029898
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 5679706988191468397
+                }
+            ],
             "pathId": -2908530111893078141,
             "blockIdx": 6
         },
@@ -72,8 +138,20 @@
             "jpText": "汗と涙を流しながら、オグリキャップは\r\nひたすら走り続けた……結果、\n体重はすっかり元に戻っていたのだった。",
             "enText": "Sweating and crying, Oguri-cap continued \nto run… and as a result, she had regained \nall of her weight.",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 4070598637157389297
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -2836642632379892629
+                }
+            ],
             "pathId": -3644324219521241594,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669944987
 }

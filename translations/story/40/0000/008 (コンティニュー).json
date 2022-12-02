@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "3HHJ6AHLD4SYGRQRUQGQ5S6UPXBQB4PX",
     "type": "story",
     "storyId": "400000008",
@@ -11,6 +11,7 @@
             "jpText": "（ジリリリリ……）",
             "enText": "(Jiririri…)",
             "nextBlock": 2,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "はっ……なんだ、夢か",
@@ -32,8 +33,10 @@
             "jpText": "今日は大切なレースの日。夢のことは忘れて、\r\n早く<chrname>のところへ行こう――",
             "enText": "Today is the big race day. Let's forget the\ndreams and meet up with <chrname> quickly.",
             "nextBlock": -1,
+            "origClipLength": 73,
             "pathId": 8760813359455161494,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944802
 }

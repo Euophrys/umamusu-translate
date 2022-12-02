@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CNAC3BUVU7HLNQ7ELSD74THDLIP3O6CS",
     "type": "story",
     "storyId": "501061206",
@@ -11,6 +11,7 @@
             "jpText": "ねね、見た見た？\r\n今回レースに出る子たちの名前！！",
             "enText": "Hey, did you see that? The names of the kids \nwho will be racing this time!",
             "nextBlock": 2,
+            "origClipLength": 93,
             "pathId": 4899984694558528817,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "見た！　海外生まれの子が\r\n参加してるんだろ？",
             "enText": "I saw it! There's a kid born overseas \nwho's participating, right?",
             "nextBlock": 3,
+            "origClipLength": 140,
             "pathId": 3505469363402105297,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "違うよー。あの子の名前があったんだって！\r\nこの前もテレビに出ててさー。\nあたし、すっごい好きなんだよねー。",
             "enText": "No, it's not! She has a name! She was on TV \nthe other day. I like her a lot.",
             "nextBlock": 4,
+            "origClipLength": 80,
             "pathId": 4924851815776789891,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "テレビ？　……って、この名前！\r\nこの子、このレースに出るのか！？",
             "enText": "TV? … that's the name! She's \ngoing to be in this race!",
             "nextBlock": 5,
+            "origClipLength": 66,
             "pathId": 4306405120629876350,
             "blockIdx": 4
         },
@@ -47,6 +51,7 @@
             "jpText": "俺、スペシャルウィーク追ってたからさ、\r\nいやー懐かしいな。なんか最近、\n見ないなーとは思ってたんだけど……。",
             "enText": "I used to follow Special Week. \nI've been thinking that I haven't \nseen her lately…",
             "nextBlock": 6,
+            "origClipLength": 80,
             "pathId": 8645604340839004615,
             "blockIdx": 5
         },
@@ -56,6 +61,7 @@
             "jpText": "えーなに言ってるの！　今話題じゃん！\r\nというかスぺちゃんと同期なの！？",
             "enText": "What are you talking about? You're \nthe talk of the town! I mean, you \nand Spe are the same age?",
             "nextBlock": 7,
+            "origClipLength": 68,
             "pathId": -8375380168814204176,
             "blockIdx": 6
         },
@@ -65,6 +71,7 @@
             "jpText": "あははっ。あの子、面白いってイメージ\r\nだったけど、意外とすごい子なんだね！",
             "enText": "Hahaha. I thought she was funny, \nbut she's a lot more than that!",
             "nextBlock": 8,
+            "origClipLength": 69,
             "pathId": -4251144839382263543,
             "blockIdx": 7
         },
@@ -74,6 +81,17 @@
             "jpText": "ねえ、聞いた？　今回の『安田記念』、\r\n外国からのゲストも出走するらしいわ。",
             "enText": "Hey, did you hear? I heard that this year's \nYasuda Kinen will have a guest from abroad.",
             "nextBlock": 9,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -8334075061923972269
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7366947887868576206
+                }
+            ],
             "pathId": -5342264431027797722,
             "blockIdx": 8
         },
@@ -83,6 +101,7 @@
             "jpText": "まあ誰が相手だろうが、私には関係ないけど。",
             "enText": "Well, it doesn't matter to \nme who I'm dealing with.",
             "nextBlock": 10,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "君が勝つだけだから",
@@ -95,6 +114,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 4,
+                    "pathId": -8711447516778356577
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 4377452742149826552
+                }
+            ],
             "pathId": -8499960497120471145,
             "blockIdx": 9
         },
@@ -104,6 +133,17 @@
             "jpText": "おーっほっほっほ！　その通り！\r\n私の道に邪魔者など不要なの。",
             "enText": "Oh-ho-ho! That's right! I don't \nneed anyone getting in my way.",
             "nextBlock": 11,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 3689297527669526894
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1512539324088344772
+                }
+            ],
             "pathId": 833645945858863856,
             "blockIdx": 10
         },
@@ -113,8 +153,20 @@
             "jpText": "全員、この脚で蹴散らしてきてあげるわっ！！",
             "enText": "I'm going to kick them all with my legs!",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 4569081987811278098
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -8996100493178869231
+                }
+            ],
             "pathId": 2096848236440633869,
             "blockIdx": 11
         }
-    ]
+    ],
+    "modified": 1669945921
 }

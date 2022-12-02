@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "L7FKMVTMIZGOZHUFETVRMGAHRCUIFZZQ",
     "type": "story",
     "storyId": "501041710",
@@ -11,6 +11,17 @@
             "jpText": "ガガーンッ！！\r\nこ、この私が……なんとブザマな走りを！！",
             "enText": "Gagaan! What a mess I've made\nof this… run!",
             "nextBlock": 2,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -6572664652542677099
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 756817242593770393
+                }
+            ],
             "pathId": -5254809302786603694,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "あんなの、全然ッ！\r\n模範となる走りじゃありません！",
             "enText": "That's not even close! That's\nnot an exemplary run!",
             "nextBlock": 3,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -5620081525679835763
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2114991431501865457
+                }
+            ],
             "pathId": -2868222062602008157,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "あれは落第生の走りですっ！！\r\n今の私は、不良へと大バクシン中ですーッ！！",
             "enText": "That was the run of a flunk! Now I'm on the\nroad to becoming a delinquent!",
             "nextBlock": 4,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -5874658531451115131
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1468378673327470734
+                }
+            ],
             "pathId": -5656251324224160937,
             "blockIdx": 3
         },
@@ -38,6 +71,7 @@
             "jpText": "……ガクッ。",
             "enText": "… gulp.",
             "nextBlock": 5,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "失敗は悪いことじゃない",
@@ -50,6 +84,16 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -6544043989809979105
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 4961240635209545016
+                }
+            ],
             "pathId": 7566508483397420856,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "失敗から立ち上がれるか。\r\nそれこそが成功への鍵なのだと話した。",
             "enText": "Can you get up from failure? That\nis the key to success, she said.",
             "nextBlock": 6,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -5476570000734404605
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -547137718004523389
+                }
+            ],
             "pathId": 1547465076771856785,
             "blockIdx": 5
         },
@@ -68,11 +123,22 @@
             "jpText": "……つまり、私は今この瞬間も、栄光の\r\n優等生ロードをバクシン中なのですね！？",
             "enText": "… So, I'm still blazing down the\nglorious honors road at this very moment!",
             "nextBlock": 7,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "そういうこと！",
                     "enText": "That's what I'm talking about!",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 4177280124699283414
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 3854752855824240833
                 }
             ],
             "pathId": -6060626119236709289,
@@ -84,6 +150,17 @@
             "jpText": "なるほどー！　……こうしてはおられません！\r\nすぐにトレーニングを始めましょう！！",
             "enText": "I see! … We can't let this happen!\nLet's start training right away!",
             "nextBlock": 8,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -3137378939607727447
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7469386382480347617
+                }
+            ],
             "pathId": 967361702210772516,
             "blockIdx": 7
         },
@@ -93,6 +170,21 @@
             "jpText": "みなさんのお手本に、立ち止まってる時間は\r\nありませんからねッ！！",
             "enText": "We don't have time to stand still\nand follow your example!",
             "nextBlock": -1,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 7388692188632920278
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3286956701933390434
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5758624154576751143
+                }
+            ],
             "pathId": 2358750280434549621,
             "blockIdx": 8
         },
@@ -102,6 +194,7 @@
             "jpText": "と、トレーナーさぁん……！",
             "enText": "And, trainer…!",
             "nextBlock": 10,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "みんなのお手本になるんだろ？",
@@ -114,6 +207,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 8532730840668648281
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 295010804507647843
+                }
+            ],
             "pathId": 9130285611477672036,
             "blockIdx": 9
         },
@@ -123,6 +226,17 @@
             "jpText": "……そうです、私はまだ学級委員長を\r\nジショクしたわけではありません……！",
             "enText": "… Yes, I have not yet jeopardized my\nclass president…!",
             "nextBlock": 11,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7183275706906926383
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 5983749561799423091
+                }
+            ],
             "pathId": 3361248927463021634,
             "blockIdx": 10
         },
@@ -132,6 +246,17 @@
             "jpText": "みなさんを導く使命、ゼンシンゼンレーで\r\n最後まで務めなければ！！",
             "enText": "The mission to lead you all, Zensin Zenley,\nmust be carried out to the end!",
             "nextBlock": 12,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 7051952146285346277
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -4809834639562574722
+                }
+            ],
             "pathId": -2382925708277402791,
             "blockIdx": 11
         },
@@ -141,8 +266,20 @@
             "jpText": "揺りかごから墓場まで模範生！！\r\nそれが、サクラバクシンオーなのですからッ！",
             "enText": "A model student from cradle to grave!\nBecause that's what Sakura Bakushin O is!",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 7244627585604213243
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8801194234895543850
+                }
+            ],
             "pathId": -7893543535026900411,
             "blockIdx": 12
         }
-    ]
+    ],
+    "modified": 1669945723
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "M42F6WPL7FTOQSSD55MJP2XL3HPC7MSB",
     "type": "story",
     "storyId": "801041001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、廊下で……。",
             "enText": "One day, in the hallway…",
             "nextBlock": 2,
+            "origClipLength": 88,
             "pathId": 8923052391551583044,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ああ！　こんな名案をひらめくとは！\r\n優等生の自分が恐ろしい！！",
             "enText": "Oh! I never thought I'd come up \nwith such a good idea! I'm afraid \nI'm an honours student!",
             "nextBlock": 3,
+            "origClipLength": 86,
             "pathId": -5644529031856898415,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "日課の清掃活動とトレーニングを\r\n組み合わせる……これぞまさに、一石二鳥！",
             "enText": "Combine your training with your \ndaily clean-up… and you've killed \ntwo birds with one stone!",
             "nextBlock": 4,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -2084734789606047477
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -3199948102459433354
+                }
+            ],
             "pathId": -872138668621656391,
             "blockIdx": 3
         },
@@ -38,6 +51,17 @@
             "jpText": "あとはどうやるかを考えるだけです！\r\nうーん、バクシンが磨けそうな清掃活動……。",
             "enText": "Now we just need to figure out how to do it! \nHmmm, a clean-up activity that could polish \nup your Bakushin…",
             "nextBlock": 5,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 9077556446278641574
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -5321116496462454514
+                }
+            ],
             "pathId": 6172357934518709709,
             "blockIdx": 4
         },
@@ -47,6 +71,17 @@
             "jpText": "さっぱり思い浮かびませんね！！",
             "enText": "I can't think of any!",
             "nextBlock": 6,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -443972069576109501
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 5886525886386926939
+                }
+            ],
             "pathId": -8406516692205923184,
             "blockIdx": 5
         },
@@ -56,6 +91,7 @@
             "jpText": "むむ！　通りすがりの貴方！\r\nいかがですか！？　何か妙案は！？",
             "enText": "Mmm! You're just passing through! What do \nyou think? What do you have in mind?",
             "nextBlock": 7,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "雑巾がけで、スピード強化！",
@@ -68,6 +104,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -2414866891033032368
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 5802497457224038203
+                }
+            ],
             "pathId": -8590200964138965888,
             "blockIdx": 6
         },
@@ -77,6 +123,17 @@
             "jpText": "スピード……！？　つまり雑巾がけで、\r\n更なるスピードのバクシンを手にできると！",
             "enText": "Speed…! That means you can get even more \nBakushin speed by dusting!",
             "nextBlock": 8,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 6806813051294066106
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 8944603905569198928
+                }
+            ],
             "pathId": 6856555034923353844,
             "blockIdx": 7
         },
@@ -86,6 +143,17 @@
             "jpText": "なんと素晴らしい妙案！\r\nすぐにでも取り掛かりましょう！",
             "enText": "What a great idea! Let's get right on it!",
             "nextBlock": 9,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -7123365834220047609
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 279830567089476452
+                }
+            ],
             "pathId": 2917844408920504636,
             "blockIdx": 8
         },
@@ -95,6 +163,17 @@
             "jpText": "バクシンバクシーーーン！！",
             "enText": "Bakushin O baxiene!",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -4127401226265323490
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -7415425733132096161
+                }
+            ],
             "pathId": 6353258168212172981,
             "blockIdx": 9
         },
@@ -104,6 +183,17 @@
             "jpText": "おお！　整理整頓をバクシンしながらやれば\r\n……パワフルなバクシンが手にできると！？",
             "enText": "Oh! You're telling me that if I do my \ntidying while I'm Bakushin, I'll get… \npowerful Bakushin!",
             "nextBlock": 11,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 3148297457125133006
+                },
+                {
+                    "origLen": 153,
+                    "pathId": -2198141697549235797
+                }
+            ],
             "pathId": -6491254278186998420,
             "blockIdx": 10
         },
@@ -113,6 +203,17 @@
             "jpText": "うおぉぉー！　任せてください！\r\n整理整頓は優等生のたしなみですからーッ！",
             "enText": "Ooooh! Leave it to me! Tidying up is an \nhonours student's duty!",
             "nextBlock": 12,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -4134641492382320292
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 5267380288189312760
+                }
+            ],
             "pathId": -8568878623612162750,
             "blockIdx": 11
         },
@@ -122,6 +223,7 @@
             "jpText": "（ドッターン！　バタバタバターッ！）",
             "enText": "(BANG! (Flap, flap, flap, flap!)",
             "nextBlock": 13,
+            "origClipLength": 68,
             "pathId": -8117987710396872970,
             "blockIdx": 12
         },
@@ -131,8 +233,10 @@
             "jpText": "……すさまじい物音が聞こえてきたが、\r\nとにかく悩みは解決できたようだ。",
             "enText": "… I heard a tremendous noise, but I think \nI've solved my problem anyway.",
             "nextBlock": -1,
+            "origClipLength": 91,
             "pathId": -5031553001532843492,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669945960
 }

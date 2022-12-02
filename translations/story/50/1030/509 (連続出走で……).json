@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "YCNBZ6ROGTFOQNVQ5ADLXQTSB27V425E",
     "type": "story",
     "storyId": "501030509",
@@ -11,6 +11,7 @@
             "jpText": "トレーニング中、ライスシャワーが、\r\nうずくまってしまった……。",
             "enText": "During training, Rice Shower made me cringe…",
             "nextBlock": 2,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "大丈夫か？",
@@ -32,6 +33,21 @@
             "jpText": "う、うん……ライスは平気……だから、\r\n次のレースに向けて、がんばらなきゃ……。",
             "enText": "Umm, yeah… Rice is fine… so I have to work \nhard… for the next race.",
             "nextBlock": 3,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 6604400263656090860
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2775812884605906126
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -7403340443235097339
+                }
+            ],
             "pathId": -2355556992508666799,
             "blockIdx": 2
         },
@@ -41,6 +57,17 @@
             "jpText": "いっぱいレースに出て……、\r\nみんなに喜んでもらいたいから……。",
             "enText": "I want to race a lot and make people \nhappy, so I'm going to…",
             "nextBlock": 4,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -6016846935252611074
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8270072607769811092
+                }
+            ],
             "pathId": -801288540778558655,
             "blockIdx": 3
         },
@@ -50,8 +77,20 @@
             "jpText": "どうやら無理をさせているようだ。\r\nレースの出走スケジュールを\n見直した方がいいかもしれない……。",
             "enText": "It looks like she's pushing herself \ntoo hard. You might want to rethink \nyour race running schedule…",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -354599942219057626
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -2697004141530640666
+                }
+            ],
             "pathId": -2678626318175362852,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945554
 }

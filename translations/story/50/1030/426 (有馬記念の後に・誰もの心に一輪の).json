@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "FC2WLXCGWNTVMJSN6IVPMFGEBTOYGGTN",
     "type": "story",
     "storyId": "501030426",
@@ -11,6 +11,17 @@
             "jpText": "栄光の『有馬記念』を制した\r\nライスシャワーに、\n割れんばかりの大喝采が降り注いだ！",
             "enText": "Rice Shower, winner of the glorious Arima \nKinen, received a resounding ovation!",
             "nextBlock": 2,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 166,
+                    "pathId": -1465991631865260098
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 1497703674735693784
+                }
+            ],
             "pathId": -6970656826105056247,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "今回の“主役”として、ライスシャワーは\r\n観客たちを笑顔にする最高のレースを\n届けたのだった。",
             "enText": "As the \"star\" of the race, Rice Shower \ndelivered a great race that brought smiles to \nthe faces of the spectators.",
             "nextBlock": -1,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 166,
+                    "pathId": -7516744016692736054
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 7537820574759073507
+                }
+            ],
             "pathId": 6114861379316291125,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945553
 }

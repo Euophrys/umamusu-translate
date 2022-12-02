@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7LFIW7VXUI75MTTOIGCL3327MHALNZWN",
     "type": "story",
     "storyId": "501025202",
@@ -11,6 +11,7 @@
             "jpText": "『菊花賞』の前哨戦『セントライト記念』。\r\n春から待ち続けた日がやってきた。",
             "enText": "The day I've been waiting for since spring\nhas arrived. The day I had been waiting for\nsince spring had arrived.",
             "nextBlock": 2,
+            "origClipLength": 94,
             "pathId": -6189051807853849208,
             "blockIdx": 1
         },
@@ -20,6 +21,29 @@
             "jpText": "ほぅ、カフェのこの体重は……。\r\n春より大幅に増えている……。",
             "enText": "Huh, this weight at the cafe is\n… It's a significant increase\nfrom the spring…",
             "nextBlock": 3,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 293,
+                    "pathId": -6869354927084764882
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 1536981243145266998
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -910717819981518549
+                },
+                {
+                    "origLen": 235,
+                    "pathId": -748419866230878592
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 1463191015610258807
+                }
+            ],
             "pathId": 9063293677850445030,
             "blockIdx": 2
         },
@@ -29,6 +53,33 @@
             "jpText": "だがこれは……。ククク、怪異とは一線を\r\n画する。物理的な上積みが圧倒的なら……。",
             "enText": "But this is… It's not the same thing\nas a monster. If the physical overlay is\noverwhelming, you can go to…",
             "nextBlock": 4,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -4260529066937432335
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -4795457752725355576
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 6750248029921157267
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3761776180580127599
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -5235093452477167714
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 4075596742081383285
+                }
+            ],
             "pathId": -7707976085466617648,
             "blockIdx": 3
         },
@@ -38,6 +89,33 @@
             "jpText": "トレーナーさん、前とは……\r\n身体の奥の感じが違います……。",
             "enText": "Trainer, I feel different… in the back\nof my body than before.",
             "nextBlock": 5,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -3786248423859493462
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -9044168918976503675
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 1357971386890994379
+                },
+                {
+                    "origLen": 149,
+                    "pathId": 4067105453201799746
+                },
+                {
+                    "origLen": 186,
+                    "pathId": 954646028892270237
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 8353279301501156149
+                }
+            ],
             "pathId": -2399145678766080880,
             "blockIdx": 4
         },
@@ -47,6 +125,7 @@
             "jpText": "妙な蠢きがなくて……。私の体は、\r\nちゃんと私のもの、という感覚が……。",
             "enText": "There is no strange stirring… I feel\nthat my body belongs to me…",
             "nextBlock": 6,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "そうか、よかった",
@@ -59,6 +138,20 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -4654949916016743489
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3368101537451319943
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4331586920885309527
+                }
+            ],
             "pathId": -4007159212594938269,
             "blockIdx": 5
         },
@@ -68,6 +161,17 @@
             "jpText": "1番得体の知れない時期はどうやら\r\n乗り切れたようだが……。",
             "enText": "I think I've gotten through the most\nunpredictable period of my life…",
             "nextBlock": 7,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 160,
+                    "pathId": 8406383400489648164
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -221413515155636014
+                }
+            ],
             "pathId": 2411040792516559014,
             "blockIdx": 6
         },
@@ -77,6 +181,17 @@
             "jpText": "この手ごたえのままに走れたら……。",
             "enText": "If I can run with this feeling…",
             "nextBlock": 8,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -5130429984303628407
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1645443261548551266
+                }
+            ],
             "pathId": 7346256621346045225,
             "blockIdx": 7
         },
@@ -86,11 +201,22 @@
             "jpText": "ここをしっかり乗り越えられたら……\r\n『菊花賞』行けるでしょうか……？",
             "enText": "If you can get through this, you can go to\n… \"Kikka-sho\"…?",
             "nextBlock": 9,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "…………",
                     "enText": "…",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -7088298533513222657
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 2984406540262537632
                 }
             ],
             "pathId": 8963013816818089031,
@@ -102,6 +228,17 @@
             "jpText": "即答はできなかった。\r\nマンハッタンカフェの体には\nまだ見えない部分が多すぎる。",
             "enText": "She couldn't give an immediate answer. There\nwere still too many parts of Manhattan\nCafe's body that she couldn't see.",
             "nextBlock": 10,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 1175342517956682479
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -7344427434164872468
+                }
+            ],
             "pathId": 986174780622450866,
             "blockIdx": 9
         },
@@ -111,6 +248,29 @@
             "jpText": "フフ、実験前に実験結果について\r\n語り合うのはナンセンスだね。",
             "enText": "Huh, it's nonsense to discuss the results of\nan experiment before it's done.",
             "nextBlock": 11,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 155,
+                    "pathId": -4692102591716585740
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -2177923160235606733
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -5357891340493495656
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -3381857701610419898
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 3174207320753540450
+                }
+            ],
             "pathId": 3370289378840169459,
             "blockIdx": 10
         },
@@ -120,6 +280,29 @@
             "jpText": "ターフで結果を見ようじゃないか。\r\nカフェという試験紙が何色に染まるのか。",
             "enText": "Let's see the results on the turf.\nWhat color will the test paper called\n\"cafe\" be stained?",
             "nextBlock": 12,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 1507315899538411923
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 1567017599028822805
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8842082421489705139
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -665125741127486626
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -4602296052126660168
+                }
+            ],
             "pathId": 7127071461458097331,
             "blockIdx": 11
         },
@@ -129,6 +312,29 @@
             "jpText": "……………………。",
             "enText": "…",
             "nextBlock": 13,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 7406569078322485719
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -2409802935995531863
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 2397272985284864975
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 912847315426858220
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 4819199794249234573
+                }
+            ],
             "pathId": -7253288260666444836,
             "blockIdx": 12
         },
@@ -138,8 +344,32 @@
             "jpText": "明るい色に染まると信じたい。\r\n今日こそは、目に見えないぬかるみから、\nどうにか抜け出さなければ。",
             "enText": "I want to believe that it will turn\nbrighter. Today is the day I must somehow\nget out of this invisible slime.",
             "nextBlock": -1,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -497004418786327873
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7123794306362046154
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2067447178812499973
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1058220503335083540
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 420946034911741839
+                }
+            ],
             "pathId": 6861564134976219364,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669946352
 }

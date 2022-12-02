@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "I3P3TKIL44DR5H5RIJ6TBO2ZWZRZ5AIW",
     "type": "story",
     "storyId": "501030508",
@@ -11,6 +11,7 @@
             "jpText": "ライスシャワーとトレーニングを\r\nしていたのだが、どうにも動きが悪い……。",
             "enText": "I've been working out with a Rice Shower, \nbut I can't seem to move…",
             "nextBlock": 2,
+            "origClipLength": 69,
             "pathId": 6374563417883960052,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "はぁっ、はぁ……。",
             "enText": "Hah, hah…",
             "nextBlock": 3,
+            "origClipLength": 92,
             "choices": [
                 {
                     "jpText": "調子が悪いのか？",
@@ -32,6 +34,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -756672117551173928
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 2830887778482673054
+                }
+            ],
             "pathId": -3261080112170002809,
             "blockIdx": 2
         },
@@ -41,6 +53,18 @@
             "jpText": "ご、ごめんなさい……お兄さま。\r\n前のレースで張り切り過ぎちゃったかも……。",
             "enText": "I'm sorry… brother. I think I may have \noverstretched myself in the last race…",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -5222443457041770176
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7485280380755109423
+                }
+            ],
             "pathId": 6423435042632752021,
             "blockIdx": 3
         },
@@ -50,6 +74,18 @@
             "jpText": "ご、ごめんなさい……お姉さま。\r\n前のレースで張り切り過ぎちゃったかも……。",
             "enText": "I'm sorry… sister. I think I may have \noverstretched myself in the last race…",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 8768591317338566969
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 8457461189704761951
+                }
+            ],
             "pathId": -5208980985491382844,
             "blockIdx": 4
         },
@@ -59,6 +95,18 @@
             "jpText": "えっと、でも……大丈夫だから！\r\nお兄さまは心配しないで……！",
             "enText": "Um, but… is fine! Don't worry \nabout your brother…!",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -1022949061566840593
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2513984612203245819
+                }
+            ],
             "pathId": -319041004388313112,
             "blockIdx": 5
         },
@@ -68,6 +116,18 @@
             "jpText": "えっと、でも……大丈夫だから！\r\nお姉さまは心配しないで……！",
             "enText": "Um, but… is fine! Don't worry \nabout your sister…!",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -5895851238403530035
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2036545172363432890
+                }
+            ],
             "pathId": -4370536603546786241,
             "blockIdx": 6
         },
@@ -77,8 +137,20 @@
             "jpText": "レースの疲れが残っているようだ。\r\n無理をさせているのかもしれない。\n気をつけなければ……。",
             "enText": "I think she's still tired from the \nrace. Maybe I'm pushing her too hard. \nI have to be careful…",
             "nextBlock": -1,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 1106888101766677396
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -642636251576691562
+                }
+            ],
             "pathId": -2576755561854507830,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669945554
 }

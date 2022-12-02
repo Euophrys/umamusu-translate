@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "K6JW4HWEFRYYQ2PQ57RHHFEYHFSHIBGQ",
     "type": "story",
     "storyId": "501032422",
@@ -11,6 +11,17 @@
             "jpText": "堂々とした走りで『日本ダービー』を\r\n走り切ったアグネスタキオン。",
             "enText": "Agnes Tachyon ran a magnificent\nrace in the Japan Derby.",
             "nextBlock": 2,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": 9138422998097032113
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 6340771126189205414
+                }
+            ],
             "pathId": 2669984431074959863,
             "blockIdx": 1
         },
@@ -20,10 +31,21 @@
             "jpText": "三冠路線の走破まで、残すは『菊花賞』のみ。\r\nだがアグネスタキオンは\n期待するなと言い残して帰宅してしまう。",
             "enText": "There is only the Kikka-sho left to\ncomplete the Triple Crown route. But Agnes\nTachyon tells him not to get her hopes up\nand goes home.",
             "nextBlock": 3,
+            "origClipLength": 115,
             "coloredText": [
                 {
                     "jpText": "菊花賞",
                     "enText": "Chrysanthemum Awards"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": -3944382966088375685
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 5203233503501507109
                 }
             ],
             "pathId": -6094569922089270872,
@@ -35,8 +57,20 @@
             "jpText": "気まぐれな彼女が本当に『菊花賞』へ\r\n出走してくれるのか……不安が残るまま、\n次の目標へ向けた日々が始まろうとしていた。",
             "enText": "I was still wondering if she would\nreally run in the \"Kikka-sho\"…,\nbut I was about to start my days\ntowards my next goal.",
             "nextBlock": -1,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": 4906232310013505654
+                },
+                {
+                    "origLen": 155,
+                    "pathId": -5501644603071979074
+                }
+            ],
             "pathId": 5890562694303949122,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945581
 }

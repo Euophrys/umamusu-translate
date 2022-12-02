@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "2HPFDWVWSHCTKPS6T7ST7NEREMMWJDWD",
     "type": "story",
     "storyId": "501040426",
@@ -11,6 +11,17 @@
             "jpText": "ゴールドシチーは惜しくもタマモクロスに\n敗れてしまった。タマモクロスの強さを\n賞賛する声が観客席から溢れている。",
             "enText": "Gold City lost to Tamamo Cross. The \ncrowd was full of praise for the \nstrength of Tamamo Cross.",
             "nextBlock": 2,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 169,
+                    "pathId": 4843906060849647410
+                },
+                {
+                    "origLen": 172,
+                    "pathId": 1624657395439250920
+                }
+            ],
             "pathId": 1227881973069263537,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "ゴールドシチーは羨望すると同時に失望した。\n彼女のこれまでの実績は話題にも上がらない。\nいくら走っても認められないんだ、と――",
             "enText": "Gold City was both envious and disappointed. \nHer previous achievements are not even \ntalked about. No matter how much she runs, \nshe'll never be recognized, and―",
             "nextBlock": 3,
+            "origClipLength": 127,
+            "animData": [
+                {
+                    "origLen": 181,
+                    "pathId": -6104831457160661160
+                },
+                {
+                    "origLen": 190,
+                    "pathId": -5940609848592385019
+                }
+            ],
             "pathId": -993377655229949482,
             "blockIdx": 2
         },
@@ -29,6 +51,25 @@
             "jpText": "タマモクロスはゴールドシチーの腑抜けた\n走りに怒り、『何のために走るのか』と問う。\n……ゴールドシチーは答えられなかった。",
             "enText": "Tumamocross was angered by Gold City's \nfeckless running and asked, 'What are you \nrunning for? Gold City could not answer.",
             "nextBlock": 4,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 182,
+                    "pathId": 7887280306750263485
+                },
+                {
+                    "origLen": 246,
+                    "pathId": -3481040627171311002
+                },
+                {
+                    "origLen": 187,
+                    "pathId": -7751818288698319914
+                },
+                {
+                    "origLen": 186,
+                    "pathId": 5605093839186923374
+                }
+            ],
             "pathId": -338299507241376236,
             "blockIdx": 3
         },
@@ -38,6 +79,29 @@
             "jpText": "ゴールドシチーはトレーナーに、\n何をやっても評価は変えられないと零す。\nだが、走るのを止めるかと訊いても頷かない。",
             "enText": "Gold City told the trainer that no matter \nwhat she did, she could not change her \nreputation. But when I asked her if she \nwanted to stop running, she wouldn't nod.",
             "nextBlock": 5,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -575375389918616893
+                },
+                {
+                    "origLen": 179,
+                    "pathId": 1615524845736639362
+                },
+                {
+                    "origLen": 203,
+                    "pathId": 921180621154986035
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 3394656612524104725
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 2877945538217768120
+                }
+            ],
             "pathId": 7672160695821043533,
             "blockIdx": 4
         },
@@ -47,14 +111,30 @@
             "jpText": "彼女は走るのを諦めたいわけじゃない――\n察したトレーナーは春シニア三冠を目標に\n『大阪杯』への出走を決めた。",
             "enText": "She doesn't want to give up running, and her \ntrainer, sensing this, decides to run her in \nthe \"Osaka Cup\" with the goal of winning the \nSenior Triple Crown in the spring.",
             "nextBlock": -1,
+            "origClipLength": 115,
             "coloredText": [
                 {
                     "jpText": "大阪杯",
                     "enText": "Osaka Cup"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -3585916404484037789
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 3576258539191250171
+                },
+                {
+                    "origLen": 204,
+                    "pathId": 4163075684052802094
+                }
+            ],
             "pathId": -6031016938353490959,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945681
 }

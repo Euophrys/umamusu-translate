@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "IARPDJIRFVGZ6L4TWFJ7EFJ44R6LIGWP",
     "type": "story",
     "storyId": "501040729",
@@ -11,6 +11,17 @@
             "jpText": "……トレーナー。もういいから。\r\n取るのは諦めなって。",
             "enText": "… trainer. Just let it \ngo. Give up taking it.",
             "nextBlock": 2,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -6788850927625935873
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -6161929523677675320
+                }
+            ],
             "pathId": 1177481801387601087,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "別にケース越しからでも見られるし。\r\n最初っからその予定だったでしょ？",
             "enText": "I can see it through the case. That was the \nplan all along, wasn't it?",
             "nextBlock": 3,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -2621720050062626372
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1605043966027654594
+                }
+            ],
             "pathId": 9044286137397967019,
             "blockIdx": 2
         },
@@ -29,6 +51,21 @@
             "jpText": "アンタの気概は充分に伝わってるから。\r\nほら、次の人に替わってあげなよ。",
             "enText": "Your spirit is well understood. Go ahead, put \nthe next person in charge.",
             "nextBlock": 4,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 3577592699436298917
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -3194975805743067000
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8925229639751067707
+                }
+            ],
             "pathId": 8157466566266478939,
             "blockIdx": 3
         },
@@ -38,8 +75,24 @@
             "jpText": "残念な結果に終わった……。",
             "enText": "The disappointing results \ncan be found…",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -1579976888884112158
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 4450903944360251291
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2378164350745862237
+                }
+            ],
             "pathId": 8817315865881501778,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945694
 }

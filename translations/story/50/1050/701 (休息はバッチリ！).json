@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "EYUF3RZI37EJA4STGVAKRAFTSUDJXYFU",
     "type": "story",
     "storyId": "501050701",
@@ -11,6 +11,7 @@
             "jpText": "……♪",
             "enText": "…♪",
             "nextBlock": 2,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "しっかり休めたみたいだな！",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -430154724217420903
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -5345611379531744961
+                }
+            ],
             "pathId": 1696938207600182001,
             "blockIdx": 1
         },
@@ -32,6 +43,17 @@
             "jpText": "うわ、アンタか。\r\n……まあ、ね。",
             "enText": "Wow, anta… Well, yeah.",
             "nextBlock": 3,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -4887384879699511141
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -495833017381342614
+                }
+            ],
             "pathId": 5133446916163782342,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "昨日なんとなく寄った公園、\r\n全然人がいなくてさ。\nはー、いい昼寝ができた。",
             "enText": "I dropped by a park yesterday, but there were \nno people there at all. I had a nice nap.",
             "nextBlock": 4,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -6069234344665907618
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 4311195890748094817
+                }
+            ],
             "pathId": 636287517245551435,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "朝イチに見るのが暑っ苦しいアンタの顔でも、\r\nま、今日は許してあげる。",
             "enText": "Even if it's hot to see your face \nfirst thing in the morning, well, \nI'll forgive you today.",
             "nextBlock": 5,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -4316274022750458428
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -9131815775215602630
+                }
+            ],
             "pathId": -4198494032426984998,
             "blockIdx": 4
         },
@@ -59,8 +103,20 @@
             "jpText": "ナリタタイシンはとても元気になれたようだ！",
             "enText": "Narita Taishin looks so much better!",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -2555734411288329355
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 589397204230395494
+                }
+            ],
             "pathId": -5877683636645521752,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945815
 }

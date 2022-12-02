@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ZYP654F2CCPKLGLHHYEMA75JUTB5JNUJ",
     "type": "story",
     "storyId": "501041712",
@@ -11,6 +11,7 @@
             "jpText": "サクラバクシンオーが練習に現れなかった、\r\n翌朝……トレーナー室へ行くと、\n不思議な声が聞こえてきた。",
             "enText": "When I went to the trainer's office at\n… the next morning after Sakura\nBakushin-o failed to show up for practice, I\nheard a strange voice.",
             "nextBlock": 2,
+            "origClipLength": 111,
             "pathId": -8594042159363380168,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "セイッ！　セイッ！　セ・イ・イーーッ！",
             "enText": "Say it! Say it! Say-eee!",
             "nextBlock": 3,
+            "origClipLength": 69,
             "pathId": 3401968130476842482,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "ようこそ、トレーナーさん！\r\nちょうど会見の横断幕ができたところです！",
             "enText": "Welcome, trainer! We just finished the\nbanners for the press conference!",
             "nextBlock": 4,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -648032971501578857
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -4644738942279884865
+                }
+            ],
             "pathId": 200054356792498030,
             "blockIdx": 3
         },
@@ -38,11 +51,22 @@
             "jpText": "驚いて彼女の足元を見えると……\r\n『サクラバクシンオー、謝罪会見！』と\n書かれた横断幕が広げられていた。",
             "enText": "When I looked at her feet in surprise, I saw\na banner that read… \"Sakura Bakushin O,\nApology Conference! A banner with the words\n\"Sakura Bakushin O apologizes!",
             "nextBlock": 5,
+            "origClipLength": 112,
             "choices": [
                 {
                     "jpText": "そこまでしなくても……",
                     "enText": "You don't have to go that far…",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -5481552748380771332
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 7757365615502548900
                 }
             ],
             "pathId": 1667424443790445055,
@@ -54,6 +78,17 @@
             "jpText": "いえ！　模範生たるべき学級委員長として、\r\nけじめはつけなければッ！",
             "enText": "No! As the exemplary class president, I have\nto show some discipline!",
             "nextBlock": 6,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -1992947557682470032
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 7029523883250328713
+                }
+            ],
             "pathId": -1914518266042419215,
             "blockIdx": 5
         },
@@ -63,6 +98,17 @@
             "jpText": "では、謝罪会見を始めさせていただきます！\r\nこの度は誠に……申し訳ございませんッ！",
             "enText": "Now, let me begin my apology conference! I\nsincerely apologize for the…!",
             "nextBlock": 7,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -1291159256437606723
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1884977595724021820
+                }
+            ],
             "pathId": -6526369633346298920,
             "blockIdx": 6
         },
@@ -72,6 +118,7 @@
             "jpText": "バクシンしがいのある直線道路に……\r\n我を忘れ、走り出し……気づけば、夜に……！",
             "enText": "Forgetting… myself on the challenging\nstraight road, I started running… and\nbefore I knew it, it was night…!",
             "nextBlock": 8,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "わかった、次は気をつけてな",
@@ -84,6 +131,16 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -1221447155532213437
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -4963945037241428390
+                }
+            ],
             "pathId": -1859507462469632708,
             "blockIdx": 7
         },
@@ -93,6 +150,17 @@
             "jpText": "約束ですッ！\r\nもう2度と誘惑されませんとも！",
             "enText": "I promise! You will never be tempted again!",
             "nextBlock": 9,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -7310378236535734237
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 2997177720132986998
+                }
+            ],
             "pathId": -8342231132014533609,
             "blockIdx": 8
         },
@@ -102,6 +170,17 @@
             "jpText": "かくなるうえは！\r\nこの横断幕を掛け布団にする所存ですッ！！",
             "enText": "And now! I'm going to use\nthis banner as a quilt!",
             "nextBlock": 10,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -1350706644936467024
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -980818670839983701
+                }
+            ],
             "pathId": -5095643125237726770,
             "blockIdx": 9
         },
@@ -111,8 +190,20 @@
             "jpText": "……反省の気持ちは充分伝わったので、\r\nそこまではしなくていいと止めたのだった。",
             "enText": "… I felt enough remorse that I stopped\nher from going that far.",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -6355478396482514809
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 4069873299498376356
+                }
+            ],
             "pathId": 2534267122163922878,
             "blockIdx": 10
         }
-    ]
+    ],
+    "modified": 1669945724
 }

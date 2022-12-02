@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "SRMQ6K2EZEJ7MON2W6PMLLUCONJY3INT",
     "type": "story",
     "storyId": "801053001",
@@ -11,6 +11,7 @@
             "jpText": "体育館を通りかかると――",
             "enText": "As I walked past the gymnasium…",
             "nextBlock": 2,
+            "origClipLength": 60,
             "pathId": -4634253174373051260,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "くっ、もうちょっとでライアンの記録にも\r\n届いたのにっ！",
             "enText": "Damn, I almost beat Ryan's record!",
             "nextBlock": 3,
+            "origClipLength": 81,
             "pathId": -8093913884558899833,
             "blockIdx": 2
         },
@@ -29,11 +31,22 @@
             "jpText": "ん？　そこにいるのは……\r\n学園のトレーナーさんっスよね！",
             "enText": "Hmm? You're the trainer of… \nschool, aren't you?",
             "nextBlock": 4,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "バスケットボールの練習？",
                     "enText": "Basketball practice?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -7426567062640503300
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -2999569673296654553
                 }
             ],
             "pathId": 8287222062427505188,
@@ -45,6 +58,21 @@
             "jpText": "はい、フリースローの特訓っス。\r\n――メジロライアンに勝つための！",
             "enText": "Yes, I'm training for free throws. —I'm \ngoing to win the medal!",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 467480270863144259
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -2397899168432720968
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 8476354377427132048
+                }
+            ],
             "pathId": 8899454232421988201,
             "blockIdx": 4
         },
@@ -54,6 +82,17 @@
             "jpText": "ライアンは、連続フリースローを\r\nアタシよりもたくさん決めたっス。",
             "enText": "Ryan made more free throws \nin a row than I did.",
             "nextBlock": 6,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -7154033220083855811
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5530819165796855175
+                }
+            ],
             "pathId": 4107481458568152301,
             "blockIdx": 5
         },
@@ -63,6 +102,7 @@
             "jpText": "これはもう……\r\n――倒すべき39人目のライバルっス！",
             "enText": "This is now… — the 39th rival to beat!",
             "nextBlock": 7,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "ライバル多すぎ！？",
@@ -75,6 +115,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -1470024117686614724
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -1261652581123251875
+                }
+            ],
             "pathId": 6768904752141959110,
             "blockIdx": 6
         },
@@ -84,11 +134,22 @@
             "jpText": "え、そうっスか？\r\n別にこれくらい普通じゃ……。",
             "enText": "Oh, really? No, it's normal…",
             "nextBlock": 8,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "他のライバルは？",
                     "enText": "Who are your other competitors?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7852718737595784874
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 3885507725226428980
                 }
             ],
             "pathId": 3112379786734764076,
@@ -100,6 +161,17 @@
             "jpText": "レースでライバルのオグリ先輩、\r\n委員長ライバルのバクシンオー、\nあと学園の平和を守るライバルのビコー……。",
             "enText": "Oguri-senpai, my rival in the race, \nBakushin O, my rival for the chairmanship, \nand Biko, my rival for the peace \nof the school…",
             "nextBlock": 9,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 1572281978793279026
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -4628944351706162299
+                }
+            ],
             "pathId": -3542475891488441738,
             "blockIdx": 8
         },
@@ -109,6 +181,17 @@
             "jpText": "それから、アイスの当たり棒を先に引く\r\nライバルのフクキタルとかっスね！",
             "enText": "And then there's my rival Fukkital, who \npulls the winning stick of ice cream first!",
             "nextBlock": 10,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -7345120792388133323
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -2638184104733301159
+                }
+            ],
             "pathId": 7617097691176112710,
             "blockIdx": 9
         },
@@ -118,6 +201,17 @@
             "jpText": "って、今日フクキタルと当たり棒早引き対決\r\nの予定が！　危うく忘れるところだったっス。",
             "enText": "I almost forgot, I was supposed \nto have a quick draw with Fukukital \ntoday! I almost forgot.",
             "nextBlock": 11,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 5723977000424500755
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -5708339282505959350
+                }
+            ],
             "pathId": 8309852042500002156,
             "blockIdx": 10
         },
@@ -127,6 +221,17 @@
             "jpText": "そういうわけなんで、アタシはこれで！\r\nでは、失礼しまっスー！！",
             "enText": "So, that's it for me! Now, \nif you'll excuse me!",
             "nextBlock": 12,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 8725481936050427108
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6182569798173390320
+                }
+            ],
             "pathId": -832375186918555777,
             "blockIdx": 11
         },
@@ -136,6 +241,17 @@
             "jpText": "バンブーメモリーは急いでボールの\r\n後片づけをして、出口へと走り去っていった。",
             "enText": "Bamboo Memory hurriedly cleaned up the ball \nand ran towards the exit.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 6049438122069962805
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -4954710676963997238
+                }
+            ],
             "pathId": -4301010643631011986,
             "blockIdx": 12
         },
@@ -145,6 +261,17 @@
             "jpText": "そうっスね。やる以上は勝ちたいっス！",
             "enText": "That's right. If I'm going to \ndo this, I want to win!",
             "nextBlock": 14,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 2538656081960715039
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 7026273609948467529
+                }
+            ],
             "pathId": -4194328452912584220,
             "blockIdx": 13
         },
@@ -154,6 +281,17 @@
             "jpText": "けど、ただ勝負して勝てばいいってのも\r\n少し違うっスね……。",
             "enText": "But it's not enough to just play and win…",
             "nextBlock": 15,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 2622083721985624854
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -603776499921863482
+                }
+            ],
             "pathId": 5734270619043112172,
             "blockIdx": 14
         },
@@ -163,6 +301,17 @@
             "jpText": "激しく切磋琢磨して、お互いの全てを出して\r\nぶつかり合い、掴んだものこそ本当の勝利――",
             "enText": "It's all about friendly rivalry, about \ngiving it your all and winning.",
             "nextBlock": 16,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 1834404679135360678
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -5167300585660203721
+                }
+            ],
             "pathId": 2838964808984421757,
             "blockIdx": 15
         },
@@ -172,11 +321,22 @@
             "jpText": "そう！　そういう勝利こそ\r\nヴィクトリー！！！！　っス。",
             "enText": "Yes! That kind of victory is what Victory \n！！！！ That's what Victory is all about.",
             "nextBlock": 17,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "（勝利こそヴィクトリー……！？）",
                     "enText": "(Victory is Victory…!)",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 1530261633177565904
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -2767712182256508272
                 }
             ],
             "pathId": 1629021681074104252,
@@ -188,6 +348,17 @@
             "jpText": "って、未熟者のくせして、一丁前に\r\n偉そうなこと語ってました！",
             "enText": "I'm a bit inexperienced, but \nI'm not afraid to speak up!",
             "nextBlock": 18,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 1381369120435057571
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5127120581772988492
+                }
+            ],
             "pathId": -6671677397557217631,
             "blockIdx": 17
         },
@@ -197,6 +368,17 @@
             "jpText": "くっ、アタシとしたことが不覚！\r\n――サーセンしたっ！！",
             "enText": "I'm sorry, I'm sorry. —I'm sorry!",
             "nextBlock": 19,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 6707314081581160696
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -6796270874264992615
+                }
+            ],
             "pathId": -3850196616639967943,
             "blockIdx": 18
         },
@@ -206,8 +388,20 @@
             "jpText": "バンブーメモリーは、出口へと\r\n脱兎のごとく走り去っていった。",
             "enText": "Bamboo Memory ran like a \nrabbit for the exit.",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -6437031574167799379
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -8306581202884165746
+                }
+            ],
             "pathId": 1333346727206494505,
             "blockIdx": 19
         }
-    ]
+    ],
+    "modified": 1669945965
 }

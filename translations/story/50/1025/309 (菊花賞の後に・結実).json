@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "Z2OCHWE47YLNBTRPQ5JT446J7OBP4O2R",
     "type": "story",
     "storyId": "501025309",
@@ -11,6 +11,7 @@
             "jpText": "マンハッタン、マンハッタンカフェ！\r\nスルスルっと上がってきて、ゴール！",
             "enText": "Manhattan, Manhattan Cafe! She's coming up\nfast! She's coming up fast!",
             "nextBlock": 2,
+            "origClipLength": 91,
             "pathId": -7578665187203367728,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "おおおおおお……。",
             "enText": "Oh, oh, oh…",
             "nextBlock": 3,
+            "origClipLength": 56,
             "pathId": -7089214803708957584,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "快走……いや、怪走！\r\n場内は何とも言えないどよめき……！",
             "enText": "A fast run… No, a monster\nrun! There was an indescribable\nbuzz in the hall…!",
             "nextBlock": 4,
+            "origClipLength": 82,
             "pathId": -6745190108788126581,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "これまでにない、確かな足取りでのゴール。",
             "enText": "The goal was scored with a sure-footedness\nnever seen before.",
             "nextBlock": 5,
+            "origClipLength": 71,
             "pathId": 2992422705416206610,
             "blockIdx": 4
         },
@@ -47,6 +51,7 @@
             "jpText": "春夏の……日々の積み重ねが\r\nついにここで実を結んだ。",
             "enText": "The accumulation of the spring\nand summer… days has finally\ncome to fruition here.",
             "nextBlock": 6,
+            "origClipLength": 80,
             "pathId": 7558483255492324769,
             "blockIdx": 5
         },
@@ -56,6 +61,17 @@
             "jpText": "トレーナーさん……！　『お友だち』が……。\r\n『お友だち』が……！",
             "enText": "Your trainer is…! Your friend is\n… My friend is…!",
             "nextBlock": 7,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -7498458267444287419
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -7127759279339000317
+                }
+            ],
             "pathId": 6500605020866271858,
             "blockIdx": 6
         },
@@ -65,11 +81,26 @@
             "jpText": "私の……すぐ前まで……！\r\nレースであんなに近づけたことは……！",
             "enText": "My… right up to…! I've never\nbeen that close in a race before…!",
             "nextBlock": 8,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "おめでとう、顔は見えた？",
                     "enText": "Congratulations. Did you see her face?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 6410210826405194508
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 6875690044377499528
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 7659328708700852888
                 }
             ],
             "pathId": 1292830928069061875,
@@ -81,6 +112,21 @@
             "jpText": "そこまでは……。でも……。",
             "enText": "You can find it there at…\nBut you can also go to…",
             "nextBlock": 9,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -7151797444770544700
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 3909147204283023175
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -9204604581200441791
+                }
+            ],
             "pathId": 5047022001708444268,
             "blockIdx": 8
         },
@@ -90,6 +136,17 @@
             "jpText": "とっても惜しかった……です。それに今日は、\r\n走り終わっても全然苦しくなくて……。",
             "enText": "It was very close… And today,\nI didn't feel any pain at all after\nthe run…",
             "nextBlock": 10,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -7071659718047777865
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -9077673087405599102
+                }
+            ],
             "pathId": -2243596177509018629,
             "blockIdx": 9
         },
@@ -99,6 +156,21 @@
             "jpText": "これが私……。\r\nこれが……。",
             "enText": "This is me at… This is me at…",
             "nextBlock": 11,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -5484929328706969217
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 1131545280657009030
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -3024337596315691858
+                }
+            ],
             "pathId": 4040279068522497833,
             "blockIdx": 10
         },
@@ -108,6 +180,21 @@
             "jpText": "信じられないようにつぶやく。\r\nその言葉に確信を得た。",
             "enText": "She murmured incredulously. I\nwas convinced by her words.",
             "nextBlock": 12,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -8515271673200544442
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 595432520425007815
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 5462620351009277448
+                }
+            ],
             "pathId": -2796229341956834451,
             "blockIdx": 11
         },
@@ -117,6 +204,21 @@
             "jpText": "マンハッタンカフェを脅かし続けた\r\n体の怪異は、ようやく去ったのだと。",
             "enText": "She believed that the physical anomaly\nthat had been threatening Manhattan\nCafe was finally gone.",
             "nextBlock": 13,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6354185055695204431
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1971363115514032202
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6922349630507258132
+                }
+            ],
             "pathId": -3710531418841280905,
             "blockIdx": 12
         },
@@ -126,6 +228,29 @@
             "jpText": "ククク、ハッハッハ！　よしよし、いいぞ。\r\nこれでいい！",
             "enText": "Kukuk, ha-ha-ha! All right, all\nright, all right. There we go!",
             "nextBlock": 14,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -7739519722780432400
+                },
+                {
+                    "origLen": 129,
+                    "pathId": -2177593591079677776
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 8307428023786890497
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -8285278147165976898
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -7342959812695802895
+                }
+            ],
             "pathId": -1071789459823508105,
             "blockIdx": 13
         },
@@ -135,6 +260,29 @@
             "jpText": "全て想定通りじゃないか！　私は弁を握り、\r\n開閉を繰り返す！　力加減も申し分ない！",
             "enText": "It's all going according to plan! I grab the\nvalve, open and close it repeatedly! The\nforce is perfect!",
             "nextBlock": 15,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -1712647648674115194
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 3872153863112735984
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 9009944921388146171
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -4693548993011558342
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -8276360289009643528
+                }
+            ],
             "pathId": -142886940013287229,
             "blockIdx": 14
         },
@@ -144,6 +292,25 @@
             "jpText": "そうだろう、カフェ！？",
             "enText": "I know, right, cafe!",
             "nextBlock": 16,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -7821798890534128239
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 1147876155155615509
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -3294689792064271097
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -5507151340206339821
+                }
+            ],
             "pathId": -4652029199707614176,
             "blockIdx": 15
         },
@@ -153,6 +320,29 @@
             "jpText": "……………………。",
             "enText": "…",
             "nextBlock": 17,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -573433179248911134
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 6491015147319780496
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 5598535828099128463
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -5143061176336215818
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8453102894759843381
+                }
+            ],
             "pathId": 2757615847511729703,
             "blockIdx": 16
         },
@@ -162,6 +352,33 @@
             "jpText": "アナタのこと、信じたわけじゃありません。",
             "enText": "It's not that I believed you.",
             "nextBlock": 18,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 8898736699949381536
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 8360662639560553820
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -4046118735709626783
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -2564000300337393211
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -628171842473366994
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 3465869624372057284
+                }
+            ],
             "pathId": -9016818874701845214,
             "blockIdx": 17
         },
@@ -171,6 +388,29 @@
             "jpText": "でも言う通り……春は無理しないで\r\nよかった。アナタは自分勝手ですが……。",
             "enText": "But you're right… I'm glad\nI didn't overdo it in the spring.\nAnata is selfish, but…",
             "nextBlock": 19,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 9079794543774654171
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 3779950802273743628
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -3382026467295847011
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2160531680581511708
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -8510642306782403888
+                }
+            ],
             "pathId": 555411011161681352,
             "blockIdx": 18
         },
@@ -180,6 +420,33 @@
             "jpText": "その自分の中に……私も含めて考えていて\r\nくれていた。それを今日……感じました。",
             "enText": "She was thinking about me, including…\nme in her mind. I felt that today…",
             "nextBlock": 20,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": -3699559017343074506
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5894099664182258469
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -2320390788779241522
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -6147661716438193205
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 1288662268303840511
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -2223420197638796315
+                }
+            ],
             "pathId": -5142410186547816355,
             "blockIdx": 19
         },
@@ -189,6 +456,33 @@
             "jpText": "ふぅン、それは謝意と取っていいのかな？",
             "enText": "Hmm, can I take that as an acknowledgement?",
             "nextBlock": 21,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 968084426223579467
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -3405899132084838325
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7464233213429104379
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3703237587328962999
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -6208441233281171936
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 8950157035666216572
+                }
+            ],
             "pathId": -567993148359620023,
             "blockIdx": 20
         },
@@ -198,6 +492,29 @@
             "jpText": "まぁいい。とにかくこの調子で\r\nいこうじゃないか。",
             "enText": "That's okay. Let's just keep\ngoing like this, shall we?",
             "nextBlock": 22,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2637094670169811697
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3051364582168254650
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -6984963729006094301
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -106506627519306300
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -790641606122021267
+                }
+            ],
             "pathId": -2251369513648826157,
             "blockIdx": 21
         },
@@ -207,6 +524,29 @@
             "jpText": "ハハハハハ、ここから加速だ！\r\nさらなる加速だよ！",
             "enText": "Ha-ha-ha-ha. Here comes the acceleration!\nMore acceleration!",
             "nextBlock": 23,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 3088733400713106649
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 9210922957583911637
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 6079985298505071846
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -130760168909190675
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -8324452097680589121
+                }
+            ],
             "pathId": 4554160909332103386,
             "blockIdx": 22
         },
@@ -216,6 +556,21 @@
             "jpText": "トレーナー室に凱旋し、次の計画を\r\n練ることにした。",
             "enText": "I returned triumphantly to the trainer's\noffice to plan my next move.",
             "nextBlock": 24,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 4235549849861552740
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 3787987322771414288
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7533654387389628920
+                }
+            ],
             "pathId": 1647252418085711125,
             "blockIdx": 23
         },
@@ -225,6 +580,41 @@
             "jpText": "正直……体はなんともありません。\r\n3000mを走り切った、今もなお……。",
             "enText": "To be honest, my… body is nothing. I\nran 3000m, and still… do.",
             "nextBlock": 25,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 9103127958951415695
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 2419810599301831614
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -3449369503860924259
+                },
+                {
+                    "origLen": 178,
+                    "pathId": -1471974465021128913
+                },
+                {
+                    "origLen": 169,
+                    "pathId": -5360287079868989062
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 5430892549452275854
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 7480656223301774668
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -5657588506680239615
+                }
+            ],
             "pathId": 8349129974870884653,
             "blockIdx": 24
         },
@@ -234,6 +624,29 @@
             "jpText": "いけると思います。\r\nこの秋にでも、冬にでも……。",
             "enText": "I think you can do it. Please visit…\nin the fall or winter.",
             "nextBlock": 26,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 8250331585810078906
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 9186033456035281361
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 3839772387127271288
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 8817625797578493146
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 1332540755928393101
+                }
+            ],
             "pathId": -9189244526625478272,
             "blockIdx": 25
         },
@@ -243,6 +656,29 @@
             "jpText": "たくましくなったものだねぇ、\r\nあのカフェが。",
             "enText": "That café has gotten tough.",
             "nextBlock": 27,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -3729987603443612971
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 5999094913256079118
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 5022554610634026870
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 1830684930129981642
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -4117575142814394774
+                }
+            ],
             "pathId": 4714477469761284605,
             "blockIdx": 26
         },
@@ -252,6 +688,29 @@
             "jpText": "どうする、トレーナー？　菊花賞と同時に\r\nクラシックロードも終わったわけだが……。",
             "enText": "What do you think, trainer? So the classic\nroad ended at the same time as the\nKikka-sho…",
             "nextBlock": 28,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6376875860681743072
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -8720669412401924822
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -5899241418432203909
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -5439694842418525691
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -5899220593111525511
+                }
+            ],
             "pathId": 525869980640187763,
             "blockIdx": 27
         },
@@ -261,6 +720,7 @@
             "jpText": "やるかね？　やってみるのもアリだねぇ。\r\nシニア級の頂点にぶつける。とすると\n直近の『ジャパンカップ』……。",
             "enText": "Do you want to do it? It's a good\nidea to try. I'm going to hit the\ntop of the senior class. The most\nrecent \"Japan Cup\" is…",
             "nextBlock": 29,
+            "origClipLength": 115,
             "choices": [
                 {
                     "jpText": "いや、もう少し先の『有馬記念』にしよう",
@@ -283,6 +743,24 @@
                     "enText": "Japan Cup"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 7158229004729766421
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -3641573218066098633
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -6187473541040457514
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -4921742439631126247
+                }
+            ],
             "pathId": -5968336840574321438,
             "blockIdx": 28
         },
@@ -292,11 +770,30 @@
             "jpText": "ほぅ、その心は？",
             "enText": "Oh, what's in your heart?",
             "nextBlock": 30,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "少しでも休ませたいから",
                     "enText": "I just want her to get some rest.",
                     "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 7354957122043630530
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 3829031363048213080
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -5097825251842640159
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 1361166069600450316
                 }
             ],
             "pathId": -7776301365042846920,
@@ -308,6 +805,25 @@
             "jpText": "トレーナーさん……。",
             "enText": "Trainer…",
             "nextBlock": 31,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -2650824111640274105
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 3774577610171939493
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -8697205061709924971
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -227413504496550428
+                }
+            ],
             "pathId": -5052403721331243569,
             "blockIdx": 30
         },
@@ -317,6 +833,29 @@
             "jpText": "休ませたいのに加え、今日のレースを見ると\r\n距離は少しでも長い方がいいように思えた。",
             "enText": "In addition to wanting to rest her, today's\nrace made it seem like the distance should\nbe as long as possible.",
             "nextBlock": 32,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 883169760808612081
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 5488706460054734975
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -8245140412015586781
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -4804789230009991052
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 8062412051704762188
+                }
+            ],
             "pathId": 3085612273090986052,
             "blockIdx": 31
         },
@@ -326,10 +865,33 @@
             "jpText": "『ジャパンカップ』の2400mと\r\n『有馬記念』の2500m。わずか100mが、\n大きな差となるかもしれない。",
             "enText": "A mere 100 meters could make a big\ndifference between the 2,400 meters\nof the Japan Cup and the 2,500 meters\nof the Arima Kinen.",
             "nextBlock": 33,
+            "origClipLength": 116,
             "coloredText": [
                 {
                     "jpText": "有馬記念",
                     "enText": "Yuuma Memorial"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": 9166362407723817511
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -8083001818576896645
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -9131754452720145912
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -7029793533622318458
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 5761212000142785773
                 }
             ],
             "pathId": -701640358306492250,
@@ -341,6 +903,33 @@
             "jpText": "ほぅ、いいねいいね、トレーナー……！\r\n策謀の揺らめく目。私の知性が、\n脳に移植されたようじゃないか。",
             "enText": "Huh, good one, good one, trainer…!\nFlickering eyes of intrigue. It's\nas if my intellect has been implanted\ninto your brain.",
             "nextBlock": 34,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -5660020857977992458
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -5957953299598628840
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 8962576305788540112
+                },
+                {
+                    "origLen": 174,
+                    "pathId": -6287099607282783795
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 5729843167521547254
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -3491449134511962177
+                }
+            ],
             "pathId": 3174220994688412802,
             "blockIdx": 33
         },
@@ -350,6 +939,29 @@
             "jpText": "わかりました……。『有馬記念』……。\r\nどんな相手が出てくるかわかりませんけれど。",
             "enText": "Okay… Arima Kinen… I don't\nknow what kind of opponent I'm going to get.",
             "nextBlock": 35,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 8314553705898938760
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -1831895652204592254
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -686201212383932663
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -5396131698576249656
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -7083122216312639941
+                }
+            ],
             "pathId": 4480739605861708897,
             "blockIdx": 34
         },
@@ -359,6 +971,29 @@
             "jpText": "そこで『お友だち』に追いつきます。今年の\r\n締めくくりとして、きっと2人の夢を……。",
             "enText": "That's where I'll catch up with my \"friend\".\nAs the year comes to a close, I'm sure\nyou'll both dream of…",
             "nextBlock": 36,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": 7961338528283599131
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 683913972754815826
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -2582747563921476295
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7213232238613400517
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 8610367911865617037
+                }
+            ],
             "pathId": 6338333292018101158,
             "blockIdx": 35
         },
@@ -368,6 +1003,29 @@
             "jpText": "『お友だち』か……。まぁ夢を追うのは\r\nいいが、有馬は手ごわいよ。",
             "enText": "Friends or… Well, it's all well and\ngood to follow your dreams, but Arima is a\ntough nut to crack.",
             "nextBlock": 37,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": 5773475070182927295
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -3028417035301046210
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 3415316680104277817
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 3138701845193040862
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4418294318482613554
+                }
+            ],
             "pathId": -8058274035152337835,
             "blockIdx": 36
         },
@@ -377,6 +1035,33 @@
             "jpText": "全盛期を迎えたウマ娘。あれを同じ生物と\r\nいうのは……ハッ、どうなんだか。",
             "enText": "I'm not sure if you can call them the same\ncreature. I don't know if you can call that\nthe same creature as… Ha.",
             "nextBlock": 38,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3606533362233526456
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8971368962717558575
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -7968738259888226093
+                },
+                {
+                    "origLen": 147,
+                    "pathId": 6750574185246971008
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -1737502459769967654
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -119877020017899276
+                }
+            ],
             "pathId": 2988967855774820500,
             "blockIdx": 37
         },
@@ -386,11 +1071,38 @@
             "jpText": "とくに『有馬記念』では――\r\nあの2人が出てくるだろうからね。",
             "enText": "Especially in \"Arima Kinen\" — those two\nwill be there, you know.",
             "nextBlock": 39,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "あの2人？",
                     "enText": "Those two?",
                     "nextBlock": 39
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 4013713792168647210
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -9163304351911680603
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 7141484232211277815
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7947898945596864075
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4339282665016115754
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -1980802516383739768
                 }
             ],
             "pathId": -1732919450743279152,
@@ -402,6 +1114,29 @@
             "jpText": "今シニア級を牽引している2人。\r\n何度も1、2フィニッシュを繰り返している\nあの2人さ。",
             "enText": "The two guys who are leading the\nsenior class right now. They are\nthe two guys who have finished first\nand second so many times.",
             "nextBlock": 40,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8368432773617707648
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 4633162499948593832
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -2313632023410285998
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -1123586819178246999
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 5338609798406943100
+                }
+            ],
             "pathId": -6748520321157572316,
             "blockIdx": 39
         },
@@ -411,6 +1146,29 @@
             "jpText": "……………………。",
             "enText": "…",
             "nextBlock": 41,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -3777455112219873570
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 2341593172051293016
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -9039142262582327085
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8682206951898390318
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 881163680341994169
+                }
+            ],
             "pathId": 5620302934345638641,
             "blockIdx": 40
         },
@@ -420,6 +1178,29 @@
             "jpText": "ファッ……！　ファッ……！\r\nファッ……！",
             "enText": "F*ck…! F*ck…! F*ck…!",
             "nextBlock": 42,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4361817709231676454
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1336204021506104409
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 941089505158947251
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3134971215478151773
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3888232323602413513
+                }
+            ],
             "pathId": 3632791025355151314,
             "blockIdx": 41
         },
@@ -429,6 +1210,29 @@
             "jpText": "ファーハッハッハッハ！",
             "enText": "Fah-hah-hah!",
             "nextBlock": 43,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": -8972401680886528831
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 5399924136055082414
+                },
+                {
+                    "origLen": 156,
+                    "pathId": -7392926411201302460
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 2877700659595765622
+                },
+                {
+                    "origLen": 150,
+                    "pathId": -6198182317648214627
+                }
+            ],
             "pathId": -2466177374285730784,
             "blockIdx": 42
         },
@@ -438,10 +1242,33 @@
             "jpText": "ひゃあああっ、おおオペラオーさん、\r\nなんですかぁ、今の？　くしゃみ～？",
             "enText": "Oh, Ms. Opera O, what was that? A sneeze?",
             "nextBlock": 44,
+            "origClipLength": 91,
             "coloredText": [
                 {
                     "jpText": "オペラオー",
                     "enText": "opera house"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -8673925343411598425
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 1479516357272364033
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1138266339658762679
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 529203315866719322
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7938474261195807707
                 }
             ],
             "pathId": 8441002014163429335,
@@ -453,6 +1280,25 @@
             "jpText": "クシャミに見せかけた、スタイリッシュ\r\n高笑いさ。誰かがボクたちのウワサを\nしているようだね。",
             "enText": "It's a stylish smile disguised\nas a sneeze. It looks like someone's\nbeen talking about us.",
             "nextBlock": 45,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -7243353867342670008
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -3395380711136618029
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -7746732240575622032
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 1768239789126140400
+                }
+            ],
             "pathId": -2041591959842928425,
             "blockIdx": 44
         },
@@ -462,6 +1308,25 @@
             "jpText": "ファンかと思ったが――そうではないようだ。\r\nどうも異質な気配がする。",
             "enText": "I thought she was a fan, but she wasn't.\nThere was a sense of alienation.",
             "nextBlock": 46,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -1360119592266971090
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -841486917634312076
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 224654685402690008
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1305224443297768169
+                }
+            ],
             "pathId": 2751537394718906878,
             "blockIdx": 45
         },
@@ -471,6 +1336,29 @@
             "jpText": "ふぇ？　異質って……。",
             "enText": "Huh? Different is…",
             "nextBlock": 47,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -6432821002375468033
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -7017613060726903530
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -5846130536337049870
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -7159887807470200702
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -765801973282554316
+                }
+            ],
             "pathId": 1070765001567292513,
             "blockIdx": 46
         },
@@ -480,6 +1368,29 @@
             "jpText": "トゥインクル・シリーズ！\r\nボクらの舞い踊る煌びやかな劇場の下には\n潜んでいるものさ。",
             "enText": "The Twinkle Series! Underneath the\nglittering theater where we dance, there's\nsomething lurking.",
             "nextBlock": 48,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -5043048418889908777
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 6749721217287635880
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 6341080131300261544
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -3490831101276098465
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -8812260146208755386
+                }
+            ],
             "pathId": -5419345731319473569,
             "blockIdx": 47
         },
@@ -489,6 +1400,29 @@
             "jpText": "得体の知れない“ファントム”が。\r\n――舞台の転覆を狙ってね。",
             "enText": "An unidentified phantom. —It's\ntrying to overthrow the stage.",
             "nextBlock": 49,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -6380470271447124136
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5263568988226743458
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 2605687506083884501
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6582449839455888523
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -3432402401565598084
+                }
+            ],
             "pathId": 3466181505820969926,
             "blockIdx": 48
         },
@@ -498,8 +1432,32 @@
             "jpText": "『有馬記念』。軌道に乗り始めた\r\nマンハッタンカフェを\n新たなライバルたちが待ち受ける。",
             "enText": "\"Arima Kinen\". Manhattan Cafe is starting to\nget back on track, but new rivals await her.",
             "nextBlock": -1,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4331288250642336444
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4285614932737419240
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 697219849328563479
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5912620759054805129
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1393998034398078297
+                }
+            ],
             "pathId": -6628296488568258298,
             "blockIdx": 49
         }
-    ]
+    ],
+    "modified": 1669946357
 }

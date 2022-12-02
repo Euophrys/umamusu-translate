@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "GBHT7DAIPMFZB6ZF6DGPIP6M2TR3XCCX",
     "type": "story",
     "storyId": "501004702",
@@ -11,6 +11,17 @@
             "jpText": "マルゼンスキーと一緒に出かけた帰り、\n道に迷ってしまった……。",
             "enText": "On the way back from an outing with\nMaruzensky, I got lost…",
             "nextBlock": 2,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 2105454643998272350
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 3289155368040596064
+                }
+            ],
             "pathId": -155164156348139090,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "う～ん、まいっちんぐ……。\nなかなか知ってる道に戻れないわね～。",
             "enText": "Hmmm, Maicchingu … It's hard\nto go back to the road I know!",
             "nextBlock": 3,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -3270669131000489844
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5865148532567172296
+                }
+            ],
             "pathId": -889097263117934490,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "ちょっと気まぐれで寄り道しただけで、\nこんなことになるなんて……ウカツっ！",
             "enText": "I can't believe I got into this mess\njust on a whim… Ugly!",
             "nextBlock": 4,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "スマホで地図を調べてみよう",
                     "enText": "Let's look up the map on your phone.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -2636089173056964957
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 2508563431359328567
                 }
             ],
             "pathId": 5575995154812441255,
@@ -45,6 +78,18 @@
             "jpText": "ああ、待ってトレーナー君！\nこういう時は、もっといい方法があるわ！",
             "enText": "Oh, wait, Mr. Trainer! There's a better\nway to do this kind of thing!",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 3028140029918722159
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -8910564307159952014
+                }
+            ],
             "pathId": 4680808233408190791,
             "blockIdx": 4
         },
@@ -54,6 +99,18 @@
             "jpText": "ああ、待ってトレーナーちゃん！\nこういう時は、もっといい方法があるわ！",
             "enText": "Oh, wait, trainer-chan! There's a better\nway to do this kind of thing!",
             "nextBlock": 6,
+            "origClipLength": 90,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 5248475505959909301
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 1812473754092812354
+                }
+            ],
             "pathId": -9186639113720522540,
             "blockIdx": 5
         },
@@ -63,6 +120,21 @@
             "jpText": "ほら、ちょうどあそこに交番があるでしょ？\nおまわりさんに聞いてみましょっ。",
             "enText": "See, there's a police box right over\nthere, right? Let's ask the policeman.",
             "nextBlock": 7,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 3956304961821193045
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -6942892809958871681
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1998998540044950134
+                }
+            ],
             "pathId": 3184118798548871654,
             "blockIdx": 6
         },
@@ -72,6 +144,21 @@
             "jpText": "すみませ～ん。\nちょっとお聞きしたいんですけど～……。",
             "enText": "I'm sorry. I'd like to ask\nyou a few questions~ …",
             "nextBlock": 8,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -5676062427727183035
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 138623354355219175
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 487090700242845751
+                }
+            ],
             "pathId": -5740348738470727586,
             "blockIdx": 7
         },
@@ -81,6 +168,7 @@
             "jpText": "交番で道を聞いて、\n見知った場所まで戻ってくることができた。",
             "enText": "I was able to get directions at\nthe police station and make my way\nback to a familiar place.",
             "nextBlock": 9,
+            "origClipLength": 84,
             "pathId": -2555284834428665543,
             "blockIdx": 8
         },
@@ -90,6 +178,17 @@
             "jpText": "ふう、これで一件落着ね。\nおまわりさんに聞いて正解だったわ！",
             "enText": "Phew, I guess that settles it. It was\na good thing I asked the policeman!",
             "nextBlock": 10,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 5393438426998977497
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 7454079354140601192
+                }
+            ],
             "pathId": -6414725341946578417,
             "blockIdx": 9
         },
@@ -99,6 +198,17 @@
             "jpText": "スマホを使えば、地図も簡単に調べられる\nらしいけど。人に聞くのもいいでしょ？",
             "enText": "I've heard that it's easy to look up maps\non your phone. Why don't you ask someone?",
             "nextBlock": 11,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -6932801744416170111
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1378485349240609396
+                }
+            ],
             "pathId": -688018761153517403,
             "blockIdx": 10
         },
@@ -108,11 +218,22 @@
             "jpText": "それにこれは、お父さんたちからの教えを\nしっかり守っているからでもあるの！",
             "enText": "And it's also because I'm following what\nmy fathers taught me!",
             "nextBlock": 12,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "教えって？",
                     "enText": "What do you teach?",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 7759990928938063394
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 6177755145441083125
                 }
             ],
             "pathId": -5731831856212150533,
@@ -124,6 +245,17 @@
             "jpText": "困った時に誰かを頼るのは、\n恥じることじゃないんだよ、って。",
             "enText": "She told me that there is no shame in\nturning to someone in times of trouble.",
             "nextBlock": 13,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -1330353702005014497
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 4693196813215805313
+                }
+            ],
             "pathId": 9096257989457904450,
             "blockIdx": 12
         },
@@ -133,6 +265,17 @@
             "jpText": "だって、どんなにすごい人でも、\n1人でなんでもできるわけじゃないでしょ？",
             "enText": "Because no matter how great you are, you\ncan't do everything by yourself, right?",
             "nextBlock": 14,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 4479793384574102292
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7457117949784232586
+                }
+            ],
             "pathId": -5632601434234169929,
             "blockIdx": 13
         },
@@ -142,6 +285,17 @@
             "jpText": "なにかにぶつかった時、自分だけで抱え\n込んで行き詰まっちゃうかもしれない……。",
             "enText": "When you run into a problem, you might\nget stuck on your own…",
             "nextBlock": 15,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 3154677430921032873
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 635046266786729370
+                }
+            ],
             "pathId": -2360183526586401394,
             "blockIdx": 14
         },
@@ -151,11 +305,22 @@
             "jpText": "そうならないように、みんなとの繋がりを\n大事にしましょう。そんな感じね。",
             "enText": "To prevent that from happening, we should\ncherish our connections with others.\nThat's how I feel.",
             "nextBlock": 16,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "いい心がけだね",
                     "enText": "That's a good point.",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 9083173531086738940
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -7146017277699326936
                 }
             ],
             "pathId": 7020816728957583228,
@@ -167,6 +332,17 @@
             "jpText": "でしょう？　そう言ってもらえると、\nあたしも嬉しいわ。",
             "enText": "Isn't that right? It makes me\nhappy to hear you say that.",
             "nextBlock": 17,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -4355761650979655156
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 7950829783524225494
+                }
+            ],
             "pathId": -1599957706235175316,
             "blockIdx": 16
         },
@@ -176,6 +352,17 @@
             "jpText": "頼るだけでも、頼られるだけでもなくて、\nお互いの支え合いが大事ってこと……。",
             "enText": "It's not just about relying on each\nother or being relied on, it's about\nsupporting each other…",
             "nextBlock": 18,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 6050922963522636335
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -2769822063873183291
+                }
+            ],
             "pathId": 2856604435410016628,
             "blockIdx": 17
         },
@@ -185,6 +372,7 @@
             "jpText": "あたしと君も、そんな関係で\nいられたらいいなって思うの。",
             "enText": "I wish we could have that kind of\nrelationship, you and I.",
             "nextBlock": 19,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "もっと頼ってもらえるよう、俺も頑張るよ",
@@ -205,6 +393,17 @@
                     "jpText": "私も貴方に支えられてるよ",
                     "enText": "You've been a big help to me, too.",
                     "nextBlock": 29
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -9180008487479921928
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -6322794792063723291
                 }
             ],
             "pathId": 4939927324999267297,
@@ -216,6 +415,7 @@
             "jpText": "あたしとあなたも、そんな関係で\nいられたらいいなって思うの。",
             "enText": "I wish we could have that kind of\nrelationship, you and I.",
             "nextBlock": 20,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "もっと頼ってもらえるよう、俺も頑張るよ",
@@ -238,6 +438,17 @@
                     "nextBlock": 29
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7563021580429156927
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 603195624794863132
+                }
+            ],
             "pathId": -4759384450688789212,
             "blockIdx": 19
         },
@@ -247,6 +458,22 @@
             "jpText": "そうね。でもトレーナー君は今でも十分、\n頼りがいのある人だって思うわ。",
             "enText": "I know. But I still think you're\na very dependable trainer.",
             "nextBlock": 21,
+            "origClipLength": 90,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -5646767998886664119
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 2319348655417092881
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 2377840003811227151
+                }
+            ],
             "pathId": -226296542098179128,
             "blockIdx": 20
         },
@@ -256,6 +483,22 @@
             "jpText": "そうね。でもトレーナーちゃんは今でも十分、\n頼りがいのある人だって思うわ。",
             "enText": "I know. But I think your trainer is\nstill a very reliable person.",
             "nextBlock": 22,
+            "origClipLength": 93,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -6849601191795316497
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 8374190823743527225
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -5203037551806951314
+                }
+            ],
             "pathId": 8743533009384283923,
             "blockIdx": 21
         },
@@ -265,6 +508,17 @@
             "jpText": "普段のトレーニングでも、\n大一番のレースでも、いつも助けられてるし。",
             "enText": "They always help me in my training\nand in the big races.",
             "nextBlock": 23,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7552364942282509256
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3081483076211890740
+                }
+            ],
             "pathId": -5446874171249903824,
             "blockIdx": 22
         },
@@ -274,6 +528,18 @@
             "jpText": "なにより、あたしが気持ちよく走れるのは\nトレーナー君のおかげだもの♪",
             "enText": "Above all, it is thanks to your trainer\nthat I can run comfortably.",
             "nextBlock": 24,
+            "origClipLength": 89,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 2078771868534162392
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1439867196960772530
+                }
+            ],
             "pathId": 3383803758439511664,
             "blockIdx": 23
         },
@@ -283,6 +549,18 @@
             "jpText": "なにより、あたしが気持ちよく走れるのは\nトレーナーちゃんのおかげだもの♪",
             "enText": "The most important thing is that I can\nrun comfortably thanks to my trainer.",
             "nextBlock": 25,
+            "origClipLength": 91,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 6331730022866364584
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -5296929421944059150
+                }
+            ],
             "pathId": -7798316059904549072,
             "blockIdx": 24
         },
@@ -292,6 +570,18 @@
             "jpText": "つまり君は、このあたしが認めるくらい\r\n立派な頼れるお兄さんなのよ！",
             "enText": "In other words, you're such a great and\nreliable older brother that even I can\nrecognize you!",
             "nextBlock": 26,
+            "origClipLength": 90,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 4763713514994144162
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8607504404789266713
+                }
+            ],
             "pathId": -1072046048623913804,
             "blockIdx": 25
         },
@@ -301,6 +591,18 @@
             "jpText": "つまりあなたは、このあたしが認めるくらい\n立派な頼れるお姉さんなのよ！",
             "enText": "In other words, you're such a great and\nreliable older sister that even I can\nrecognize you!",
             "nextBlock": 27,
+            "origClipLength": 90,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -191102734824005943
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -7634978884973100811
+                }
+            ],
             "pathId": -3201314437004657340,
             "blockIdx": 26
         },
@@ -310,6 +612,17 @@
             "jpText": "あたしのお墨付き、胸を張っていいからね♪",
             "enText": "My seal of approval, you\ncan be proud of it.",
             "nextBlock": 28,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -3608876897534041224
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 8140270272941569646
+                }
+            ],
             "pathId": 478529102649736942,
             "blockIdx": 27
         },
@@ -319,6 +632,17 @@
             "jpText": "マルゼンスキーの言葉に、嬉しさだけでなく\n誇らしさも沸き上がってくるのだった……。",
             "enText": "Maruzensky's words made me not only\nhappy, but proud as well…",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -5301832428843435281
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 8106275318323841377
+                }
+            ],
             "pathId": 6022969156756851430,
             "blockIdx": 28
         },
@@ -328,6 +652,17 @@
             "jpText": "あら、嬉しい♪\n改めて聞くと、励みになるわね。",
             "enText": "Oh, I'm so glad… It's encouraging\nto hear it again.",
             "nextBlock": 30,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 4285259926937641191
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -6104120415954743289
+                }
+            ],
             "pathId": 5382250907582008625,
             "blockIdx": 29
         },
@@ -337,6 +672,18 @@
             "jpText": "あたしもトレーナー君のことを\n応援したいって、いつも思ってるのよ。",
             "enText": "I've always wanted to support\nyou, Trainer.",
             "nextBlock": 31,
+            "origClipLength": 88,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -1298312031481141566
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 5244631978035804490
+                }
+            ],
             "pathId": -6474206039654494087,
             "blockIdx": 30
         },
@@ -346,6 +693,18 @@
             "jpText": "あたしもトレーナーちゃんのことを\n応援したいって、いつも思ってるのよ。",
             "enText": "I've always wanted to support\nyou too, Trainer.",
             "nextBlock": 32,
+            "origClipLength": 90,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -1715229252721811935
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 5276191352612428667
+                }
+            ],
             "pathId": 6164458329270129185,
             "blockIdx": 31
         },
@@ -355,6 +714,18 @@
             "jpText": "トレーナー君は真面目だけど、\nたまに頑張り過ぎちゃうところもあるし。",
             "enText": "My trainer is very serious, but\nsometimes she tries too hard.",
             "nextBlock": 33,
+            "origClipLength": 89,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -7632808318861213598
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -1354073662861728092
+                }
+            ],
             "pathId": -5486897583056181071,
             "blockIdx": 32
         },
@@ -364,6 +735,18 @@
             "jpText": "トレーナーちゃんは真面目だけど、\nたまに頑張り過ぎちゃうところもあるし。",
             "enText": "My trainer is very serious, but\nsometimes she tries too hard.",
             "nextBlock": 34,
+            "origClipLength": 91,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 2900636980332800595
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -2190201363541566478
+                }
+            ],
             "pathId": 9210451821354339756,
             "blockIdx": 33
         },
@@ -373,6 +756,17 @@
             "jpText": "でもそんな時も、\n助け合いの心があればへっちゃら！",
             "enText": "But even in such a situation, if we help\neach other, it won't be a problem!",
             "nextBlock": 35,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -8026402787638433294
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 8987957224274402016
+                }
+            ],
             "pathId": 4734030144690420297,
             "blockIdx": 34
         },
@@ -382,11 +776,22 @@
             "jpText": "ウマ娘とトレーナーってだけじゃなくて、\n力を合わせて一緒に頑張っていきましょ♪",
             "enText": "It's not just about being a trainer and a\ntrainee, it's about working together to\nmake a difference.",
             "nextBlock": 36,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "支え合っていこう",
                     "enText": "Let's support each other.",
                     "nextBlock": 36
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -7292883905989656597
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 4917533725233963689
                 }
             ],
             "pathId": 1144578233540512007,
@@ -398,8 +803,20 @@
             "jpText": "ええ……大事なパートナー同士、ね♪\n改めてよろしくっ！",
             "enText": "Yeah, … is a great partner.",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 7951186829814043925
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -276767217453546336
+                }
+            ],
             "pathId": 3426805355816863791,
             "blockIdx": 36
         }
-    ]
+    ],
+    "modified": 1669944918
 }

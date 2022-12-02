@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6RQ5RHOJZZTYJI25IVK53MNUJ4KM4UBR",
     "type": "story",
     "storyId": "501041522",
@@ -11,6 +11,7 @@
             "jpText": "ある朝のこと――",
             "enText": "One morning—",
             "nextBlock": 2,
+            "origClipLength": 55,
             "pathId": 6566817270780837198,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "こらぁー！　始業時間ギリギリですよ！\r\n遅刻は不良の始まり！　気を付けましょう！",
             "enText": "Hey! You're just in time for the start of\nschool! Being late is the beginning of bad\nbehavior! Be careful!",
             "nextBlock": 3,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -7226464243567461093
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 1360739012634842906
+                }
+            ],
             "pathId": -8794176301116050476,
             "blockIdx": 2
         },
@@ -29,6 +41,17 @@
             "jpText": "もー。そう毎日プリプリしないしない！\r\nほら、いいんちょ肌荒れちゃってるよ？",
             "enText": "Oh, no. I'm not going to preen every day!\nLook, my good friend, your skin is rough.",
             "nextBlock": 4,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -5176378910190089914
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -6878803693438059991
+                }
+            ],
             "pathId": 8759532181227692789,
             "blockIdx": 3
         },
@@ -38,6 +61,17 @@
             "jpText": "え！？　肌荒れ！？！？\r\nそ、そんな……。",
             "enText": "What! Skin irritation! Oh, no…",
             "nextBlock": 5,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6710803393948876275
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3134541982881398413
+                }
+            ],
             "pathId": 5751763508892601631,
             "blockIdx": 4
         },
@@ -47,6 +81,17 @@
             "jpText": "不摂生は不良の始まり！\r\n私、このままでは不良に……！？",
             "enText": "Inactivity is the beginning of delinquency!\nI'm going to be a delinquent…!",
             "nextBlock": 6,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -3116723011773842845
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -967438154197415149
+                }
+            ],
             "pathId": -3915673333759800862,
             "blockIdx": 5
         },
@@ -56,6 +101,17 @@
             "jpText": "え！　じゃあ、あたし完璧じゃん！\r\nスキンケアちゃんとしてるし♪",
             "enText": "What! Then I'm perfect! I'm taking\ngood care of my skin.",
             "nextBlock": 7,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 8351210557341955713
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -4664012210912928852
+                }
+            ],
             "pathId": -7950180301074366420,
             "blockIdx": 6
         },
@@ -65,6 +121,17 @@
             "jpText": "なんと！？　ということは、\r\n不良なのは……この私の……方……！？",
             "enText": "What? So, it is… this… of mine\nthat is defective…!",
             "nextBlock": 8,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -4034958560402126948
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -225622793620082143
+                }
+            ],
             "pathId": -1570025265885590441,
             "blockIdx": 7
         },
@@ -74,6 +141,17 @@
             "jpText": "えーっと……よくわかんないけど、\r\n元気だしなって！　ドンマイドンマイ！",
             "enText": "Well, I don't know… but I hope\nyou're well! Don't worry, don't worry!",
             "nextBlock": 9,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -8115703559737476958
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 4574164028047025871
+                }
+            ],
             "pathId": -8848360448935506954,
             "blockIdx": 8
         },
@@ -83,8 +161,20 @@
             "jpText": "肌荒れにショックを受ける\r\nサクラバクシンオーなのであった……。",
             "enText": "Sakura Bakushin O was shocked\nby the rough skin…",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 2522295563115340980
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6867760616854992385
+                }
+            ],
             "pathId": 2237300731853208120,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945718
 }

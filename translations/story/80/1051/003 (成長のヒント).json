@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "UP623S2BC467XRMTBNWWKPW2HB74MNFF",
     "type": "story",
     "storyId": "801051003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nニシノフラワーが話していた。",
             "enText": "After training, <chrname> and \nNishino Flower were talking.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3695742447156696759
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5417371635257955439
+                }
+            ],
             "pathId": -8656806332500453520,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946278
 }

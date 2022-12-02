@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "L3TEADHYD7C545ST3PP5PVICQ5WHJKNO",
     "type": "story",
     "storyId": "501030704",
@@ -11,6 +11,17 @@
             "jpText": "お出かけの後、すっかり日が暮れてしまい、\r\n寮までライスシャワーを送ろうとした所――",
             "enText": "After our outing, the sun had already \ncompletely set. And as I took Rice Shower \nback to the dorms—",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -1181324900342519677
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 7824074285271644395
+                }
+            ],
             "pathId": -1705612071952967253,
             "blockIdx": 1
         },
@@ -20,6 +31,18 @@
             "jpText": "お兄さま……\r\nお願いがあるの。",
             "enText": "Brother… I have a favor to ask of you.",
             "nextBlock": 3,
+            "origClipLength": 55,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 115637651406187921
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -4193940166632266912
+                }
+            ],
             "pathId": -2026241582256993232,
             "blockIdx": 2
         },
@@ -29,6 +52,18 @@
             "jpText": "お姉さま……\r\nお願いがあるの。",
             "enText": "Sister… do me a favor.",
             "nextBlock": 4,
+            "origClipLength": 55,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 1170328192403644728
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 4445528087827703105
+                }
+            ],
             "pathId": -3995259801511889652,
             "blockIdx": 3
         },
@@ -38,6 +73,17 @@
             "jpText": "トレーナー室で、ちょっとだけ、\r\n待っててもらえないかな……。",
             "enText": "Could you wait in the trainer's \noffice for a moment, please?…",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 8552622282660039095
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5842062960341051178
+                }
+            ],
             "pathId": 1910245198825297949,
             "blockIdx": 4
         },
@@ -47,11 +93,23 @@
             "jpText": "お兄さまに、見せたいものがあって……。",
             "enText": "I wanted to show something to my brother…",
             "nextBlock": 6,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "わかった",
                     "enText": "Okay, okay.",
                     "nextBlock": 7
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 5183323888806639127
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 8426464641965448836
                 }
             ],
             "pathId": 4266564798922586663,
@@ -63,11 +121,23 @@
             "jpText": "お姉さまに、見せたいものがあって……。",
             "enText": "I wanted to show something to your sister…",
             "nextBlock": 7,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "わかった",
                     "enText": "Okay, okay.",
                     "nextBlock": 7
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 7196082931187087355
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 6523855417468804319
                 }
             ],
             "pathId": 1334896960541287946,
@@ -79,6 +149,17 @@
             "jpText": "あ、ありがとう！\r\nすぐいくから、少しだけ、待ってて……！",
             "enText": "Oh, thank you! I'll be right there. \nJust give me a minute…!",
             "nextBlock": 8,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 4026469725426331995
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -4766796619420451052
+                }
+            ],
             "pathId": 5473705970665632575,
             "blockIdx": 7
         },
@@ -88,6 +169,17 @@
             "jpText": "見せたいものとは一体、何だろうか？\r\n2人分のお茶を淹れて、待っていると――",
             "enText": "What exactly is it that you want to show me? \nI made tea for the two of us and waited…",
             "nextBlock": 9,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -8895990413515168078
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -1005152678905624236
+                }
+            ],
             "pathId": -1818790806998902762,
             "blockIdx": 8
         },
@@ -97,6 +189,18 @@
             "jpText": "――お待たせ、お兄さま。",
             "enText": "—Hey, brother.",
             "nextBlock": 10,
+            "origClipLength": 52,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -8988454094811088903
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -5313059211433675765
+                }
+            ],
             "pathId": 5884256254862247494,
             "blockIdx": 9
         },
@@ -106,6 +210,18 @@
             "jpText": "――お待たせ、お姉さま。",
             "enText": "—Hey, sister.",
             "nextBlock": 11,
+            "origClipLength": 52,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 5935618885337565702
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 2745652824883822588
+                }
+            ],
             "pathId": 3833510751037921637,
             "blockIdx": 10
         },
@@ -115,6 +231,17 @@
             "jpText": "……見て欲しかったのは、これなの。",
             "enText": "This is what I wanted you to see…",
             "nextBlock": 12,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -6533905483215663025
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -1985778274690972960
+                }
+            ],
             "pathId": -3687400306406931293,
             "blockIdx": 11
         },
@@ -124,6 +251,17 @@
             "jpText": "ライスシャワーが、\r\n1冊の本を自分に差し出してきた。",
             "enText": "Rice Shower held out a book to me.",
             "nextBlock": 13,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -6589058788002383303
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 5720868723433750462
+                }
+            ],
             "pathId": 6845073770603891348,
             "blockIdx": 12
         },
@@ -133,6 +271,17 @@
             "jpText": "黒い表紙には、一文だけ――\r\n『たいようと、かげのこ』と書かれている。",
             "enText": "On the black cover, there is only one \nsentence: \"Taiyou to Kagenoko.",
             "nextBlock": 14,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -6224009610685861144
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -6967731147015209966
+                }
+            ],
             "pathId": -7555832796203502102,
             "blockIdx": 13
         },
@@ -142,11 +291,23 @@
             "jpText": "それね……ライスが作った絵本なの。\r\nお兄さまに……読んで欲しいな。",
             "enText": "It's a picture book made by… Rice. I'd like \nyou to read… it to your brother.",
             "nextBlock": 15,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "今、読んでもいいのかな？",
                     "enText": "Is it okay if I read this now?",
                     "nextBlock": 16
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -970981272835478124
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2692478821337663297
                 }
             ],
             "pathId": -1013821987903027480,
@@ -158,11 +319,23 @@
             "jpText": "それね……ライスが作った絵本なの。\r\nお姉さまに……読んで欲しいな。",
             "enText": "It's a picture book made by… Rice. I want you \nto read… it to your sister.",
             "nextBlock": 16,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "今、読んでもいいのかな？",
                     "enText": "Is it okay if I read this now?",
                     "nextBlock": 16
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 5145821951456624392
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1629548274742575263
                 }
             ],
             "pathId": 4211673348134710411,
@@ -174,6 +347,17 @@
             "jpText": "……うん。",
             "enText": "… Yeah.",
             "nextBlock": 17,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -7414355710076894144
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -4789152089980906163
+                }
+            ],
             "pathId": -6223666194349417617,
             "blockIdx": 16
         },
@@ -183,6 +367,17 @@
             "jpText": "微笑む彼女の前で、絵本を開く。",
             "enText": "I open the picture book in front \nof her smiling face.",
             "nextBlock": 18,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -4730876603076592694
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 4445947882437634969
+                }
+            ],
             "pathId": -1460762824084738881,
             "blockIdx": 17
         },
@@ -192,6 +387,17 @@
             "jpText": "その絵本には、文章がなかった。\r\n最初は、真っ暗闇から始まる。",
             "enText": "There was no text in that picture book. It \nstarted out in total darkness.",
             "nextBlock": 19,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 3243653684736189067
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 7290104058630392673
+                }
+            ],
             "pathId": 1529291065203858000,
             "blockIdx": 18
         },
@@ -201,6 +407,7 @@
             "jpText": "その闇の中心に、蹲る黒い何かがいた。\r\n姿形はどこか――ライスシャワーに似ている。",
             "enText": "In the center of the darkness, there was \nsomething black crouching. Its shape somewhat \nresembled that of a Rice Shower.",
             "nextBlock": 20,
+            "origClipLength": 71,
             "pathId": 2460934856666261182,
             "blockIdx": 19
         },
@@ -210,6 +417,7 @@
             "jpText": "黒い何かは、暗闇の中で涙を流している。\r\n悲しそうに、寂しそうに……。",
             "enText": "Something black is shedding tears in the \ndarkness. It looks sad and lonely…",
             "nextBlock": 21,
+            "origClipLength": 67,
             "pathId": -1077464830139472788,
             "blockIdx": 20
         },
@@ -219,6 +427,7 @@
             "jpText": "あるとき突然、闇の中に、細い光が差した。\r\n黒い何かは、光が差してくる方へ歩き出す。",
             "enText": "Suddenly, a thin light shines \nin the darkness. Something black \nwalks towards the light.",
             "nextBlock": 22,
+            "origClipLength": 72,
             "pathId": 80812707010565910,
             "blockIdx": 21
         },
@@ -228,6 +437,7 @@
             "jpText": "黒い何かが進むにつれて、光はどんどん強く、\r\n眩しいものへと変わっていき、やがて――",
             "enText": "As the black something progressed, the light \nbecame stronger and brighter, until…",
             "nextBlock": 23,
+            "origClipLength": 72,
             "pathId": -6951951880297334870,
             "blockIdx": 22
         },
@@ -237,6 +447,7 @@
             "jpText": "――光は、太陽に変わる。\r\n闇は晴れ、世界が、照らされていく。",
             "enText": "—The light turns into the sun. The darkness \nclears and the world is illuminated.",
             "nextBlock": 24,
+            "origClipLength": 65,
             "pathId": -1992331068710121603,
             "blockIdx": 23
         },
@@ -246,6 +457,17 @@
             "jpText": "黒い何かは、太陽の温かな光に照らされ、\r\n闇に紛れていた自分の姿形を取り戻す。",
             "enText": "Something black is illuminated by the warm \nlight of the sun and regains its form, which \nhad been lost in the darkness.",
             "nextBlock": 25,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 8197873610656388280
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -1835538385058334285
+                }
+            ],
             "pathId": 5435909086655231251,
             "blockIdx": 24
         },
@@ -255,6 +477,17 @@
             "jpText": "彼女は、光に満ちた世界を、\r\n楽し気に駆け回っていく――",
             "enText": "She runs happily through a \nworld filled with light.",
             "nextBlock": 26,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -1280322229771403399
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 7748886563158737342
+                }
+            ],
             "pathId": 7624787887811972650,
             "blockIdx": 25
         },
@@ -264,6 +497,7 @@
             "jpText": "……この絵本ね。\r\nお兄さまに、1番最初に見せたかったの。",
             "enText": "… This is the book. I wanted to \nshow it to my brother first.",
             "nextBlock": 27,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "1番最初だなんて、光栄だな",
@@ -289,6 +523,17 @@
                     "jpText": "私は、この太陽みたいになりたいな",
                     "enText": "I wish I could be like this sun.",
                     "nextBlock": 47
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": -8844329563180928093
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -3318918615595996773
                 }
             ],
             "pathId": 8783763838921075741,
@@ -300,6 +545,7 @@
             "jpText": "……この絵本ね。\r\nお姉さまに、1番最初に見せたかったの。",
             "enText": "… This is the book. I wanted to \nshow it to my sister first.",
             "nextBlock": 28,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "1番最初だなんて、光栄だな",
@@ -327,6 +573,17 @@
                     "nextBlock": 47
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 362267040117080630
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -1283901604877202711
+                }
+            ],
             "pathId": 793890693561829563,
             "blockIdx": 27
         },
@@ -336,6 +593,17 @@
             "jpText": "……ライスをいつも、1番近くで、\r\n優しく、温かく見守ってくれる。",
             "enText": "She is always watching over… Rice most \nclosely, gently, and warmly.",
             "nextBlock": 29,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -1470675948692421752
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 3488266559465296516
+                }
+            ],
             "pathId": -652908794914732,
             "blockIdx": 28
         },
@@ -345,6 +613,18 @@
             "jpText": "そんなお兄さまに……\r\nライスの気持ちを、見せたかったの。",
             "enText": "I wanted to show my brother \nhow I felt about… Rice.",
             "nextBlock": 30,
+            "origClipLength": 63,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -6610280266121473940
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2668989454542847632
+                }
+            ],
             "pathId": 8266844596702279769,
             "blockIdx": 29
         },
@@ -354,6 +634,18 @@
             "jpText": "そんなお姉さまに……\r\nライスの気持ちを、見せたかったの。",
             "enText": "I wanted to show my sister \nhow I felt about… Rice.",
             "nextBlock": 31,
+            "origClipLength": 63,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 7972357320832211032
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8112482717014786090
+                }
+            ],
             "pathId": -4803316372694422565,
             "blockIdx": 30
         },
@@ -363,6 +655,17 @@
             "jpText": "大事な、大事な……ライスの幸せ。",
             "enText": "The happiness of the important, \nimportant… Rice.",
             "nextBlock": 32,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -6523862635113782841
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 2071007118231118470
+                }
+            ],
             "pathId": -487202012557060352,
             "blockIdx": 31
         },
@@ -372,6 +675,18 @@
             "jpText": "お兄さま――",
             "enText": "Brother—",
             "nextBlock": 33,
+            "origClipLength": 48,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -8595793389774657508
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -4232563502917910655
+                }
+            ],
             "pathId": -6502315101780739638,
             "blockIdx": 32
         },
@@ -381,6 +696,18 @@
             "jpText": "お姉さま――",
             "enText": "Sister—",
             "nextBlock": 34,
+            "origClipLength": 48,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -225339095172662838
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -8035776476942685823
+                }
+            ],
             "pathId": -7177400378192155339,
             "blockIdx": 33
         },
@@ -390,6 +717,17 @@
             "jpText": "ライスのこと、これからも……\r\nずっと、見守っていてね。",
             "enText": "Please keep watching over Rice…",
             "nextBlock": 35,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 4015983045946044702
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3013587556205638512
+                }
+            ],
             "pathId": -6085019768036425042,
             "blockIdx": 34
         },
@@ -399,6 +737,17 @@
             "jpText": "力強く頷いてみせると、\r\n彼女は、とても幸せそうに、笑った。",
             "enText": "I nodded vigorously, and she \nsmiled, looking very happy.",
             "nextBlock": -1,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -2944991324212201964
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 8214074118068340321
+                }
+            ],
             "pathId": -8757602384970264226,
             "blockIdx": 35
         },
@@ -408,6 +757,17 @@
             "jpText": "……えへへ。\r\nとってもうれしい。",
             "enText": "… hehe. I'm very happy.",
             "nextBlock": 37,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 7389632523240252699
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -5516872764885197674
+                }
+            ],
             "pathId": -8346108949075872460,
             "blockIdx": 36
         },
@@ -417,6 +777,17 @@
             "jpText": "だって、この絵本は――\r\nライスの感じる幸せを、形にしたものだから。",
             "enText": "Because this book is a form of \nhappiness that Rice feels.",
             "nextBlock": 38,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -803809063933412197
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7799578017044838401
+                }
+            ],
             "pathId": 5235115404849555838,
             "blockIdx": 37
         },
@@ -426,11 +797,23 @@
             "jpText": "それって、ライスの幸せが、\r\nお兄さまにも伝わったってことだもんね。",
             "enText": "That means Rice's happiness has been passed \non to her brother, right?",
             "nextBlock": 39,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "その幸せは、もっと沢山の人に伝えられるよ",
                     "enText": "You can share that happiness \nwith many more people.",
                     "nextBlock": 40
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 2795179556923681195
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5991611126607275629
                 }
             ],
             "pathId": 4968262372690027016,
@@ -442,11 +825,23 @@
             "jpText": "それって、ライスの幸せが、\r\nお姉さまにも伝わったってことだもんね。",
             "enText": "That means your sister can feel \nRice's happiness, right?",
             "nextBlock": 40,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "その幸せは、もっと沢山の人に伝えられるよ",
                     "enText": "You can share that happiness \nwith many more people.",
                     "nextBlock": 40
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 7702917407570928239
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -5934267226996848107
                 }
             ],
             "pathId": 8621280823866118161,
@@ -458,6 +853,17 @@
             "jpText": "……うん！",
             "enText": "… Yeah!",
             "nextBlock": 41,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 1247885440582089248
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -5428517821613368248
+                }
+            ],
             "pathId": -5181260363918536904,
             "blockIdx": 40
         },
@@ -467,6 +873,18 @@
             "jpText": "お兄さま、私ね――\r\n応援してくれるみんなを、幸せにしたい。",
             "enText": "Brother, it's me— I want to make \neveryone who supports me happy.",
             "nextBlock": 42,
+            "origClipLength": 64,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 6423642046198247780
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -7797649281247945588
+                }
+            ],
             "pathId": -8475310828311712938,
             "blockIdx": 41
         },
@@ -476,6 +894,18 @@
             "jpText": "お姉さま、私ね――\r\n応援してくれるみんなを、幸せにしたい。",
             "enText": "Sister, it's me— I want to make everyone \nwho supports me happy.",
             "nextBlock": 43,
+            "origClipLength": 64,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -526661960255398505
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -3055189334157236683
+                }
+            ],
             "pathId": -5586432804109562977,
             "blockIdx": 42
         },
@@ -485,6 +915,7 @@
             "jpText": "この本を作って、その気持ちが、夢が、\r\nライスの中でどんどん、大きくなっているの。",
             "enText": "After making this book, that feeling, that \ndream, is growing bigger and bigger in Rice.",
             "nextBlock": 44,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "そのライスの夢を応援したい",
@@ -497,6 +928,16 @@
                     "nextBlock": 45
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -5223343777682520348
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6672903197368114999
+                }
+            ],
             "pathId": -4026705566981677928,
             "blockIdx": 43
         },
@@ -506,6 +947,18 @@
             "jpText": "うん。\r\nお兄さまとなら、きっと――",
             "enText": "Yes. I'm sure you and your brother can—",
             "nextBlock": 45,
+            "origClipLength": 56,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 2394869333513891461
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 3567716315423722359
+                }
+            ],
             "pathId": -6197927546773898463,
             "blockIdx": 44
         },
@@ -515,6 +968,18 @@
             "jpText": "うん。\r\nお姉さまとなら、きっと――",
             "enText": "Yes. I'm sure I can do it with you.",
             "nextBlock": 46,
+            "origClipLength": 56,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -5246197060656907810
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 2936722562309269672
+                }
+            ],
             "pathId": 5814343277615551926,
             "blockIdx": 45
         },
@@ -524,6 +989,17 @@
             "jpText": "自分が必ず、彼女の夢を叶える。\r\nそう心に固く誓うのであった。",
             "enText": "I will make her dream come true. I will make \nher dreams come true,\" she vowed firmly.",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 5361422288817145467
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5732213680328170823
+                }
+            ],
             "pathId": 3966414886544190217,
             "blockIdx": 46
         },
@@ -533,6 +1009,18 @@
             "jpText": "お兄さまは、ずっと前から……。",
             "enText": "Your brother has been on … for a long time.",
             "nextBlock": 48,
+            "origClipLength": 54,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 1992868389200224759
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 7566937155853878842
+                }
+            ],
             "pathId": -4748458854195754761,
             "blockIdx": 47
         },
@@ -542,6 +1030,18 @@
             "jpText": "お姉さまは、ずっと前から……。",
             "enText": "Your sister has been… for a long time.",
             "nextBlock": 49,
+            "origClipLength": 54,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 770550845957756533
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6085560939068648797
+                }
+            ],
             "pathId": -6435449110118226000,
             "blockIdx": 48
         },
@@ -551,6 +1051,17 @@
             "jpText": "――ライスにとっての、太陽だよ？",
             "enText": "—for Rice, the sun, you know?",
             "nextBlock": 50,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -6588448209152802519
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 2151261434529514992
+                }
+            ],
             "pathId": -4173456731086930123,
             "blockIdx": 49
         },
@@ -560,6 +1071,18 @@
             "jpText": "この絵本はね、お兄さまがライスを、\r\n応援してくれて、信じてくれて……。",
             "enText": "This picture book is for you, Rice, because \nyou support and believe in me…",
             "nextBlock": 51,
+            "origClipLength": 68,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 6439486154707526739
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -5577815948076511126
+                }
+            ],
             "pathId": -2796886251622072838,
             "blockIdx": 50
         },
@@ -569,6 +1092,18 @@
             "jpText": "この絵本はね、お姉さまがライスを、\r\n応援してくれて、信じてくれて……。",
             "enText": "This picture book, you know, your sister \nsupports Rice and believes in her…",
             "nextBlock": 52,
+            "origClipLength": 68,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 698272977003828119
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -8705534662877524795
+                }
+            ],
             "pathId": 3054117335025563351,
             "blockIdx": 51
         },
@@ -578,6 +1113,17 @@
             "jpText": "そのおかげで、ライスが少しずつ、変わる\r\nことができて……できたって思えて……。",
             "enText": "Thanks to this, Rice was able to change \nlittle by little, and I felt that \nI was able to… do that.",
             "nextBlock": 53,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -260289615711777193
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -9076660839354080050
+                }
+            ],
             "pathId": 5100230153632024508,
             "blockIdx": 52
         },
@@ -587,6 +1133,17 @@
             "jpText": "そんな、ひとつひとつの幸せを、\r\n大切に思い出しながら、形にしたものなの。",
             "enText": "I made this while carefully remembering each \nof those happy moments.",
             "nextBlock": 54,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -5327990193694256588
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -9188665674208560484
+                }
+            ],
             "pathId": 5573000622947366682,
             "blockIdx": 53
         },
@@ -596,11 +1153,23 @@
             "jpText": "……いつもありがとう、お兄さま。",
             "enText": "… Thanks for everything, brother.",
             "nextBlock": 55,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "今度はライスが、みんなの太陽になろう",
                     "enText": "This time, Rice will be the \nsunshine for everyone!",
                     "nextBlock": 56
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 3460259003317393308
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -5720913672387964213
                 }
             ],
             "pathId": -7685916475583096385,
@@ -612,11 +1181,23 @@
             "jpText": "……いつもありがとう、お姉さま。",
             "enText": "… Thanks again, sister.",
             "nextBlock": 56,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "今度はライスが、みんなの太陽になろう",
                     "enText": "This time, Rice will be the \nsunshine for everyone!",
                     "nextBlock": 56
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 1031263225162503834
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 5680489392520712954
                 }
             ],
             "pathId": -9098172922576506225,
@@ -628,6 +1209,17 @@
             "jpText": "ライスが――みんなの、太陽？",
             "enText": "Rice is the—the sunshine for everyone?",
             "nextBlock": 57,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -740075706971526192
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -2417637683717490096
+                }
+            ],
             "pathId": 3659368219128859091,
             "blockIdx": 56
         },
@@ -637,6 +1229,17 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 58,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 827706529334021846
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -2159278867199229291
+                }
+            ],
             "pathId": 7985690060006796945,
             "blockIdx": 57
         },
@@ -646,6 +1249,17 @@
             "jpText": "……目指して、みたい。",
             "enText": "Aim for… like.",
             "nextBlock": 59,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 7862013126016116021
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7627696701386985318
+                }
+            ],
             "pathId": 5278024700565651952,
             "blockIdx": 58
         },
@@ -655,6 +1269,17 @@
             "jpText": "みんなを照らす……みんなを幸せにする……\r\n太陽に――",
             "enText": "Light up everyone… Make everyone \nhappy… To the sun—",
             "nextBlock": 60,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -3111645091140768435
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 9199278958873509635
+                }
+            ],
             "pathId": -5201867548163385775,
             "blockIdx": 59
         },
@@ -664,11 +1289,22 @@
             "jpText": "ライスは、なりたい……！",
             "enText": "Rice wants to be…!",
             "nextBlock": 61,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "その夢を、一緒にかなえよう",
                     "enText": "Let's make that dream come true together.",
                     "nextBlock": 61
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 2480428510431303681
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 5225706631916484350
                 }
             ],
             "pathId": -2834019660105219278,
@@ -680,6 +1316,17 @@
             "jpText": "――――うん！",
             "enText": "— Yeah!",
             "nextBlock": 62,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": -6674985322890530536
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1729983058596959025
+                }
+            ],
             "pathId": 5694644406004155021,
             "blockIdx": 61
         },
@@ -689,8 +1336,20 @@
             "jpText": "ライスシャワーの瞳に、\r\n太陽のように眩い夢が宿った瞬間を見た――",
             "enText": "I saw the moment when a dream dazzled like \nthe sun in Rice Shower's eyes.",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -2888899295148309265
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 88377080564925082
+                }
+            ],
             "pathId": -1326525130659458863,
             "blockIdx": 62
         }
-    ]
+    ],
+    "modified": 1669945560
 }

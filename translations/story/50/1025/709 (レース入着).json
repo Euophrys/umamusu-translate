@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "2Q2I2HDEPNEONMSMWGXZUKRGEW5YPPHJ",
     "type": "story",
     "storyId": "501025709",
@@ -11,6 +11,7 @@
             "jpText": "……入着でした…………。",
             "enText": "It was a… arrival…",
             "nextBlock": 2,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "頑張ったな",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 8813321258233346133
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -6353808682858502342
+                }
+            ],
             "pathId": -4173263959354389125,
             "blockIdx": 1
         },
@@ -32,6 +43,17 @@
             "jpText": "……そうですね。\r\n今の私の実力は……出せたかと……。",
             "enText": "… Yes, you're right. I was wondering\nif I could… out what I'm capable\nof now…",
             "nextBlock": 3,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 1338772690653482738
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -2463980915987274599
+                }
+            ],
             "pathId": -7204246317495570973,
             "blockIdx": 2
         },
@@ -41,11 +63,22 @@
             "jpText": "…………でも……私は……。",
             "enText": "… but… I'm…",
             "nextBlock": 4,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "1着がよかった？",
                     "enText": "Would you have preferred to wear one?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -1449128796305597221
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 349763798797340385
                 }
             ],
             "pathId": -4702531983063043126,
@@ -57,6 +90,7 @@
             "jpText": "……はい。\r\n目指すべき目標は……その先にあるので……。",
             "enText": "… Yes. The goal we should be aiming for\nis… because it is beyond…",
             "nextBlock": 5,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "次こそ1着だ！",
@@ -77,6 +111,17 @@
                     "jpText": "もっと頑張らないとね",
                     "enText": "We'll have to try harder.",
                     "nextBlock": 9
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 797041694327332616
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -6654227411169295421
                 }
             ],
             "pathId": -3716417879025091801,
@@ -88,6 +133,7 @@
             "jpText": "……はい。\r\n目指すべき目標は……その先にあるので……。",
             "enText": "… Yes. The goal we should be aiming for\nis… because it is beyond…",
             "nextBlock": 6,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "次こそ1着だ！",
@@ -110,6 +156,17 @@
                     "nextBlock": 9
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 4841629506460916291
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -7762085443834892094
+                }
+            ],
             "pathId": -7622264585412329388,
             "blockIdx": 5
         },
@@ -119,6 +176,17 @@
             "jpText": "……はい。\r\nこのまま、立ち止まってはいられませんね。",
             "enText": "… Yes. We can't just stand\naround like this, can we?",
             "nextBlock": 7,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 5955628402006808858
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -2647376420851436482
+                }
+            ],
             "pathId": 8461497323936362124,
             "blockIdx": 6
         },
@@ -128,6 +196,17 @@
             "jpText": "……トレーナーさん。\r\n改めて……よろしくお願いします……！",
             "enText": "… Trainer. Once again, thank you…\nfor your time…!",
             "nextBlock": 8,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -342380961818339253
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -7289464751894355321
+                }
+            ],
             "pathId": 5881969368226222397,
             "blockIdx": 7
         },
@@ -137,6 +216,17 @@
             "jpText": "共に辿り着きましょう……勝利のその先へ――",
             "enText": "Let's get there together.\n… Beyond Victory—",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2302919072250506954
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3274819630908110730
+                }
+            ],
             "pathId": 462209599926999502,
             "blockIdx": 8
         },
@@ -146,6 +236,17 @@
             "jpText": "……もっと…………。\r\nそうですね……。",
             "enText": "… more… Yes…",
             "nextBlock": 10,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 1414700605867039120
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6863525969629052399
+                }
+            ],
             "pathId": -716452385401849018,
             "blockIdx": 9
         },
@@ -155,6 +256,7 @@
             "jpText": "……速くなるには……\r\n今以上の努力を……私がしなければ。",
             "enText": "To get… faster, I have to work\n… harder than I am now.",
             "nextBlock": 11,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "一緒に頑張ろうな",
@@ -167,6 +269,16 @@
                     "nextBlock": 11
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 8068202070408052287
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1672330387096560886
+                }
+            ],
             "pathId": -118644808541567895,
             "blockIdx": 10
         },
@@ -176,6 +288,17 @@
             "jpText": "ふふっ……はい。\r\n一緒に、1着を取りましょう……。",
             "enText": "Phew… Yes. Together,\nlet's get one…",
             "nextBlock": 12,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 1148797578011228313
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5583763875495936033
+                }
+            ],
             "pathId": 5192528544465876305,
             "blockIdx": 11
         },
@@ -185,6 +308,17 @@
             "jpText": "（ガタンッ）",
             "enText": "(clatter)",
             "nextBlock": 13,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 7024957129296869594
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 9047953895366869428
+                }
+            ],
             "pathId": 1834403180780028403,
             "blockIdx": 12
         },
@@ -194,6 +328,7 @@
             "jpText": "……あ…………。",
             "enText": "… あ…",
             "nextBlock": 14,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "“みんな”一緒に、だな",
@@ -206,6 +341,16 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -2241033362421378952
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 621547615210625305
+                }
+            ],
             "pathId": -4805876764887565868,
             "blockIdx": 13
         },
@@ -215,8 +360,20 @@
             "jpText": "……ええ……！\r\n心強いです、とても。",
             "enText": "… Yeah…! That's reassuring,\nvery reassuring.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -6078845550935561348
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 693310785475265154
+                }
+            ],
             "pathId": 7948050998130123845,
             "blockIdx": 14
         }
-    ]
+    ],
+    "modified": 1669946371
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CWOYJIKYZITOGVJBSZIH64XDSPEJJ3G7",
     "type": "story",
     "storyId": "501004711",
@@ -11,6 +11,17 @@
             "jpText": "うぅ、また負けちゃった……。",
             "enText": "Ugh, I lost again: …",
             "nextBlock": 2,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 6906164433999559995
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 1992206707561597213
+                }
+            ],
             "pathId": 181858224937299885,
             "blockIdx": 1
         },
@@ -20,6 +31,21 @@
             "jpText": "今度こそ、\r\nヤングの意地を見せたかったんだけど――",
             "enText": "I wanted to show Young what\nI could do this time, but…",
             "nextBlock": 3,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 1759700186112213192
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 2582170112159775729
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2741312172579468070
+                }
+            ],
             "pathId": -3695156106661406260,
             "blockIdx": 2
         },
@@ -29,6 +55,7 @@
             "jpText": "こんな成績じゃチョベリバよね。\r\nマルゼン、頑張るっ！",
             "enText": "It's Choveriba with a score like this.\nMarzen, hang in there!",
             "nextBlock": 4,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "ゆっくりやっていこう",
@@ -44,6 +71,21 @@
                     "jpText": "むしろイケイケドンドンだよ！",
                     "enText": "I'd rather be on the move!",
                     "nextBlock": 12
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 4159226263530813876
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 6268975184991103265
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -2512713375831056355
                 }
             ],
             "pathId": 13906012746331437,
@@ -55,6 +97,7 @@
             "jpText": "こんな成績じゃチョベリバよね。\r\nマルゼン、頑張るっ！",
             "enText": "It's Choveriba with a score like this.\nMarzen, hang in there!",
             "nextBlock": 5,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "ゆっくりやっていこう",
@@ -72,6 +115,21 @@
                     "nextBlock": 12
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -8724474862103494699
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -8061539379960269500
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 3826631853123511297
+                }
+            ],
             "pathId": -4353969494465128784,
             "blockIdx": 4
         },
@@ -81,6 +139,22 @@
             "jpText": "ありがとう、トレーナー君。",
             "enText": "Thank you, trainer.",
             "nextBlock": 6,
+            "origClipLength": 61,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 1390820700773358073
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -4851018346335826625
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2631920120015323210
+                }
+            ],
             "pathId": -2895668920655324061,
             "blockIdx": 5
         },
@@ -90,6 +164,22 @@
             "jpText": "ありがとう、トレーナーちゃん。",
             "enText": "Thank you, trainer. ",
             "nextBlock": 7,
+            "origClipLength": 64,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -6629841164332201029
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 6018124036610335325
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3113701605237110042
+                }
+            ],
             "pathId": 1794541780249842013,
             "blockIdx": 6
         },
@@ -99,6 +189,17 @@
             "jpText": "そうね、焦ってばかりじゃ、\r\nいい結果は出ないもの！",
             "enText": "Yeah, well, you can't keep rushing things.",
             "nextBlock": 8,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -8088264022812511114
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 9201747017601086239
+                }
+            ],
             "pathId": -3072762016858750584,
             "blockIdx": 7
         },
@@ -108,6 +209,17 @@
             "jpText": "よし、今日はもうお休み！\r\n着替えてイタ飯でも食べに行きましょう。",
             "enText": "Okay, I'm off for the day! Let's get\ndressed and go out for some italian food.",
             "nextBlock": 9,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 2194039425654391805
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 6905957711929450005
+                }
+            ],
             "pathId": 7359286980843066369,
             "blockIdx": 8
         },
@@ -117,11 +229,23 @@
             "jpText": "トレーナー君、\r\nよかったら一緒にどう？",
             "enText": "Trainer, would you like to join us?",
             "nextBlock": 10,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "喜んで！",
                     "enText": "With pleasure!",
                     "nextBlock": 11
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -5610694685091330773
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -128273743876157705
                 }
             ],
             "pathId": 5089553731901568485,
@@ -133,11 +257,23 @@
             "jpText": "トレーナーちゃん、\r\nよかったら一緒にどう？",
             "enText": "Trainer, would you like to join us?",
             "nextBlock": 11,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "喜んで！",
                     "enText": "With pleasure!",
                     "nextBlock": 11
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 5843625145377853567
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -5306766216570208180
                 }
             ],
             "pathId": -4394061101875930620,
@@ -149,6 +285,17 @@
             "jpText": "こうして気分転換を挟みながら\r\nコンディションを整え、\n次のレースに向けて準備を進めたのだった。",
             "enText": "With this change of scenery, she was able\nto improve her condition and prepare for\nthe next race.",
             "nextBlock": -1,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -3400137158842346918
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 8054344621688518795
+                }
+            ],
             "pathId": -4785300794217270649,
             "blockIdx": 11
         },
@@ -158,11 +305,26 @@
             "jpText": "えっ？",
             "enText": "What?",
             "nextBlock": 13,
+            "origClipLength": 48,
             "choices": [
                 {
                     "jpText": "逆境を打ち破ってみんなを驚かせよう！",
                     "enText": "Surprise everyone by overcoming adversity!",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4023929919682852367
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 3200217266097559039
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -4667103718640429518
                 }
             ],
             "pathId": 7332913191936409837,
@@ -174,6 +336,17 @@
             "jpText": "そ、そうね！",
             "enText": "Yeah, I know!",
             "nextBlock": 14,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -2653810107797865491
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -5866674938177676440
+                }
+            ],
             "pathId": -6614226102417776642,
             "blockIdx": 13
         },
@@ -183,6 +356,17 @@
             "jpText": "お母さんの好きな\r\n『メラメラ☆熱血トレーナー』\nでも、言われてたわ。",
             "enText": "That's what my mom said in her favorite\nmovie, \"Mera Mera☆Hot Blood Trainer.",
             "nextBlock": 15,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -6768613831015323599
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -6017016508990531244
+                }
+            ],
             "pathId": -6280077808493318102,
             "blockIdx": 14
         },
@@ -192,6 +376,21 @@
             "jpText": "『高い壁ほど越えた時に成長できる。\r\n全身でぶつかって行け！』って。",
             "enText": "\"The higher the wall, the more you grow\nwhen you go over it. Just go at it with\neverything you've got! She said.",
             "nextBlock": 16,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 9180801202526932800
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8941208007345697218
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -982612651855565740
+                }
+            ],
             "pathId": -5971270680750294602,
             "blockIdx": 15
         },
@@ -201,6 +400,17 @@
             "jpText": "よし！　帰ったらさっそくトレーニングよ！\r\n夕日へ向かってレッツラゴー！",
             "enText": "All right! Let's get back to training!\nLet's head off into the sunset!",
             "nextBlock": 17,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 1310906179515936804
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8554419477242967041
+                }
+            ],
             "pathId": 2555239517368136322,
             "blockIdx": 16
         },
@@ -210,8 +420,20 @@
             "jpText": "勝ったらナタデココジュースで祝杯を――\r\nそう約束して、厳しいトレーニングに\n取り組んだのだった。",
             "enText": "She promised herself that she would\ncelebrate with a glass of nata de coco\njuice if she won the race, and worked hard\nat her training.",
             "nextBlock": -1,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -348364502237536666
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 3666139826507828528
+                }
+            ],
             "pathId": -4140445133638169298,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669944922
 }

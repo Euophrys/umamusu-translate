@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "5AHSCAWJI3VDOK5DV4ZJY6OHFBLG4VCL",
     "type": "story",
     "storyId": "501004732",
@@ -11,6 +11,17 @@
             "jpText": "さーて、トレーニングも終わったし、\r\n帰りもブイブイ言わせちゃおうかしら♪",
             "enText": "Now that I've finished my training,\nI'm ready to get back on the road.",
             "nextBlock": 2,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -2234085612052629670
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 2921970162018983393
+                }
+            ],
             "pathId": 7382223614051690887,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "……って、あら？\r\nいま誰かに呼ばれたような……。",
             "enText": "…, oh my? I think someone just called me …",
             "nextBlock": 3,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -3340405460515463784
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -5109669286686659092
+                }
+            ],
             "pathId": 5206959153417273673,
             "blockIdx": 2
         },
@@ -29,6 +51,21 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 4,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 5830354979516805905
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -2419721805052169692
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 5307186099924822694
+                }
+            ],
             "pathId": -8086477983255048310,
             "blockIdx": 3
         },
@@ -38,8 +75,24 @@
             "jpText": "三女神の像……？\r\nまさか――",
             "enText": "Statues of the three goddesses: …? No way.",
             "nextBlock": -1,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 2621964342335014898
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -2025544863159644125
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -4627694968229070570
+                }
+            ],
             "pathId": -6230430229651894824,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669944926
 }

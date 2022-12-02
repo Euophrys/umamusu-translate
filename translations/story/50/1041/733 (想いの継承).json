@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DU35LCU3PM5RCM7A4PV3R2BQ5AXEJN4R",
     "type": "story",
     "storyId": "501041733",
@@ -11,6 +11,17 @@
             "jpText": "ななななんとーーーっ！？",
             "enText": "What the hell?",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 7603376464115891014
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -174401492995710829
+                }
+            ],
             "pathId": 1512643215497095444,
             "blockIdx": 1
         },
@@ -20,6 +31,21 @@
             "jpText": "どんどん力が溢れてきますッ！！\r\n今なら無限にバクシンできそうです！",
             "enText": "I'm overflowing with power! I feel like I\ncan Bakushin endlessly now!",
             "nextBlock": 3,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -1338269063879791165
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -545027103625671242
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8141069905981395770
+                }
+            ],
             "pathId": 6676867165039074892,
             "blockIdx": 2
         },
@@ -29,8 +55,24 @@
             "jpText": "レッツ・バクシーーーーーーンッ！！",
             "enText": "Let's baxiwn!",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -1775699054325796766
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -9132985035971464134
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -8230277607564892339
+                }
+            ],
             "pathId": 2962432966620275734,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945727
 }

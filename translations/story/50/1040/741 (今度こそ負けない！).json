@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MQGKB5Q2HENCTWUKRSXEBE5LMJ7UQMOK",
     "type": "story",
     "storyId": "501040741",
@@ -11,6 +11,17 @@
             "jpText": "……っ。\r\nまた、負けたの？　アタシ……。",
             "enText": "… Did you lose again? Atashi…",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -2695727027492293618
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -6850162293651637336
+                }
+            ],
             "pathId": -2643830379184855151,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "なんで？　もう周りの声とか、\r\nリミッターかかってないのに。",
             "enText": "Why? I don't have a limiter on me anymore.",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -7103226769543800864
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -1920719025379302505
+                }
+            ],
             "pathId": -3402603740357849132,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "全部自分で、走ってるのに。\r\nこれじゃ楽しくないじゃん……！",
             "enText": "All by myself, even though I'm running. \nThis isn't fun…!",
             "nextBlock": 4,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "それでも君は走るんだろ？",
@@ -49,6 +72,21 @@
                     "jpText": "全部、貴方次第だよ",
                     "enText": "It's all up to you.",
                     "nextBlock": 10
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 3574596273998149650
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2598751902837242269
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -9187285361769493725
                 }
             ],
             "pathId": -3589713761056890716,
@@ -60,6 +98,7 @@
             "jpText": "全部自分で、走ってるのに。\r\nこれじゃ楽しくないじゃん……！",
             "enText": "All by myself, even though I'm running. \nThis isn't fun…!",
             "nextBlock": 5,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "それでも君は走るんだろ？",
@@ -82,6 +121,21 @@
                     "nextBlock": 10
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -7997436698319649647
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -3205382340033626095
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 1096977917304504901
+                }
+            ],
             "pathId": 243774121888994652,
             "blockIdx": 4
         },
@@ -91,6 +145,21 @@
             "jpText": "……決まってる。\r\nアタシはもう、選んだんだ。",
             "enText": "… It's obvious. I've \nalready made my choice.",
             "nextBlock": 6,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -6422849363819283371
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1577369517475009680
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -5603517716183233761
+                }
+            ],
             "pathId": 2712295831742744392,
             "blockIdx": 5
         },
@@ -100,6 +169,7 @@
             "jpText": "何回負けたって関係ない。\r\nどんなにダサくても、勝つまでやる……！",
             "enText": "It doesn't matter how many times you \nlose. No matter how lame it is, we'll \ndo it until we win…!",
             "nextBlock": 7,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "君はその執念をちゃんと抱えてる",
@@ -112,6 +182,16 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -4138329669036454227
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 3679000893257920334
+                }
+            ],
             "pathId": -7657736699669890226,
             "blockIdx": 6
         },
@@ -121,6 +201,17 @@
             "jpText": "……っ！",
             "enText": "…!",
             "nextBlock": 8,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -4050235863178520874
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -4120818563143157734
+                }
+            ],
             "pathId": -4266809662350955105,
             "blockIdx": 7
         },
@@ -130,6 +221,17 @@
             "jpText": "わかってんじゃん。\r\nそうだよ、アタシは勝ちたいんだ。",
             "enText": "You know what I mean. Yes, I want to win.",
             "nextBlock": 9,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -4906640153826897545
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -1816153647245111995
+                }
+            ],
             "pathId": 1176877747416069062,
             "blockIdx": 8
         },
@@ -139,6 +241,17 @@
             "jpText": "ただアタシが、そうしたいから。\r\n走っていたいから……！",
             "enText": "Just because I want to. Because \nI want to run…!",
             "nextBlock": -1,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 1802045943566908957
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -2900789130510597048
+                }
+            ],
             "pathId": -4015717256530178780,
             "blockIdx": 9
         },
@@ -148,11 +261,26 @@
             "jpText": "……っ！",
             "enText": "…!",
             "nextBlock": 11,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "楽しめないから、やめる？",
                     "enText": "Stop because you don't enjoy it?",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 4071100465404053265
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 7363709539993738441
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 3102833840716650385
                 }
             ],
             "pathId": 4544048163778483967,
@@ -164,6 +292,21 @@
             "jpText": "それは絶対ない！\r\nアンタもわかってんでしょ！？",
             "enText": "That will never happen! You know \nwhat I'm talking about!",
             "nextBlock": 12,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 8259187735780915763
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3784095464734395968
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5689645420382058990
+                }
+            ],
             "pathId": 8493362704667634824,
             "blockIdx": 11
         },
@@ -173,6 +316,17 @@
             "jpText": "負けたら、悔しくてムカつくよ。\r\nけどそれがレースなんだ。",
             "enText": "When I lose, I get frustrated and \npissed off. But that's racing.",
             "nextBlock": 13,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 3874161339301401086
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -6258674243464514960
+                }
+            ],
             "pathId": 5496500892033422602,
             "blockIdx": 12
         },
@@ -182,6 +336,7 @@
             "jpText": "アタシの選んだレースなんだ。\r\nだから絶対やめない！",
             "enText": "It's the race I chose. That's \nwhy I will never stop!",
             "nextBlock": 14,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "ならやることはひとつだな",
@@ -194,6 +349,16 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 8023324975034957202
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7342731786496626577
+                }
+            ],
             "pathId": -6092375807725445538,
             "blockIdx": 13
         },
@@ -203,6 +368,17 @@
             "jpText": "……トレーナー、反省会やろ。\r\n今まで負けたレース全部振り返るよ。",
             "enText": "… trainer, you're a reflective person. \nI'll look back at all the races I've lost.",
             "nextBlock": 15,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": -4535160028022300945
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 5301284736998313399
+                }
+            ],
             "pathId": 5553198879558079956,
             "blockIdx": 14
         },
@@ -212,8 +388,20 @@
             "jpText": "ダサい走りしてんの、見たくないけど。\r\n走り抜くだけじゃ、もう満足できないから！",
             "enText": "I don't want to see you running lame. I just \ncan't get enough of running through it!",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 3147944312892292448
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 9169533401015640889
+                }
+            ],
             "pathId": -7733214730162876869,
             "blockIdx": 15
         }
-    ]
+    ],
+    "modified": 1669945695
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "FAXWQ4ZAIOAZAYRW6VEWKEIQHWJ2JK76",
     "type": "story",
     "storyId": "501050600",
@@ -11,6 +11,17 @@
             "jpText": "…………っし。行くか。",
             "enText": "… Let's go.",
             "nextBlock": 2,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 75968708302536081
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 7088735582601619884
+                }
+            ],
             "pathId": -7006555632320550316,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "今日のナリタタイシンからは、\r\nなんだかいつも以上に気迫が感じられる……！",
             "enText": "Today's Narita Taishin somehow seems to have \nmore spirit than usual…!",
             "nextBlock": 3,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "気合い入ってるな！",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 6772377616113322434
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 5795298913261481896
+                }
+            ],
             "pathId": 3085159895951428457,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "は？　別に……いつも通りだけど。",
             "enText": "Huh? Not really… as usual.",
             "nextBlock": 4,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 4221890274043731808
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 6869416681551524158
+                }
+            ],
             "pathId": -4360853325452082448,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "チケットみたいな熱血バカじゃあるまいし、\r\n無駄に燃えたりなんかしないから。",
             "enText": "I'm not a hot-blooded idiot like Ticket, I \ndon't burn for nothing.",
             "nextBlock": 5,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 5483296962154897593
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 5966013123458548507
+                }
+            ],
             "pathId": -8213621408466158776,
             "blockIdx": 4
         },
@@ -59,8 +103,20 @@
             "jpText": "……ただ、絶対勝つ。それだけ。",
             "enText": "… just win for sure. That's all.",
             "nextBlock": -1,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -8270115324051728474
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6810444364515778458
+                }
+            ],
             "pathId": -8184934929973977831,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945815
 }

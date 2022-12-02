@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OOK5HOZ2KJNTGFBGGAN2CMD6TRMOPBPU",
     "type": "story",
     "storyId": "501030519",
@@ -11,6 +11,17 @@
             "jpText": "こんなにいい天気なのに……\r\nライスは……はぁ。",
             "enText": "It's such a beautiful day, \nbut … Rice is… haha.",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 8007128773836353227
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -4505186041581441198
+                }
+            ],
             "pathId": 5642100922923256146,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "休日に公園を歩いていると、\r\n肩を落とすライスシャワーを見かけた。",
             "enText": "While walking through the park on \nmy day off, I saw a Rice Shower \nwith its shoulders slumped.",
             "nextBlock": 3,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "イヤな事でもあったのか？",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 3091765333308380500
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 133043463460798357
+                }
+            ],
             "pathId": 2891532612578048666,
             "blockIdx": 2
         },
@@ -41,6 +63,18 @@
             "jpText": "あ、お兄さま……。\r\nえっと、たいしたことじゃないんだけど……。",
             "enText": "Oh, brother… Um, it's not a big deal, but…",
             "nextBlock": 4,
+            "origClipLength": 65,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 8085917175118500297
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1779646220833965395
+                }
+            ],
             "pathId": -6399279567344508669,
             "blockIdx": 3
         },
@@ -50,6 +84,18 @@
             "jpText": "あ、お姉さま……。\r\nえっと、たいしたことじゃないんだけど……。",
             "enText": "Oh, sister… Um, it's not a big deal, but…",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -5050109420130044294
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2927075501025431920
+                }
+            ],
             "pathId": -6250973928855102038,
             "blockIdx": 4
         },
@@ -59,6 +105,17 @@
             "jpText": "風景をスケッチしようと思って来たのに、\r\nスケッチブックを忘れちゃって……。",
             "enText": "I came here with the intention of sketching \nthe scenery, but I forgot my sketchbook…",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 4964364791910179025
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3625778665763948243
+                }
+            ],
             "pathId": -4321846934143678861,
             "blockIdx": 5
         },
@@ -68,6 +125,17 @@
             "jpText": "仕方ないから、買おうと思ってお店を\r\nまわったのに、どこも売り切れで……はぁ。",
             "enText": "I had no choice but to go around to the \nstores to buy it, but they were all sold out…",
             "nextBlock": 7,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 4192912875471267540
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5496641496049298514
+                }
+            ],
             "pathId": 8541152337022282715,
             "blockIdx": 6
         },
@@ -77,8 +145,20 @@
             "jpText": "ライスシャワーは落ち込んだ様子で、\r\n太陽が反射する美しい水面を\n眺めるのであった……。",
             "enText": "Rice Shower looked depressed as it gazed at \nthe beautiful water reflecting the sun…",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 8954487157544322364
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 3794994088122797438
+                }
+            ],
             "pathId": -4640679391867176688,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669945557
 }

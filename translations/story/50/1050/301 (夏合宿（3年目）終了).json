@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BNBNMI7IMIHJEMGKBFNTTOKSCL7LP6V2",
     "type": "story",
     "storyId": "501050301",
@@ -11,6 +11,17 @@
             "jpText": "…………疲れた。",
             "enText": "I'm tired of…",
             "nextBlock": 2,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 8641414684376574075
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -217060741025057691
+                }
+            ],
             "pathId": 7519796227986468614,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "タンホイザとの砂浜併走、\r\n何回やったかわかんないし。\nネイチャは止めてくれないし。",
             "enText": "I don't know how many times I ran \nwith Tannhäuser on the beach. And \nNecha won't stop me.",
             "nextBlock": 3,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 7355516702820140054
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 1413104483099804123
+                }
+            ],
             "pathId": -4532340591671721879,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "ウララは勝手に無人島行くし。\r\nライスは泣くし。",
             "enText": "Urara goes to a desert island \non her own. Rice cries.",
             "nextBlock": 4,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -1593246866954666876
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 2726566091373138075
+                }
+            ],
             "pathId": 4155529341125246346,
             "blockIdx": 3
         },
@@ -38,6 +71,7 @@
             "jpText": "……入学して1番、疲れた合宿だった。",
             "enText": "It was the most tiring camp since \nI enrolled…",
             "nextBlock": 5,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "でも、いい顔してるぞ！",
@@ -50,6 +84,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7696881817808764519
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 2520718333136693169
+                }
+            ],
             "pathId": -4837694508385415170,
             "blockIdx": 4
         },
@@ -59,6 +103,21 @@
             "jpText": "はぁ？　……蹴っ飛ばされたいわけ？",
             "enText": "Huh? Do you want to get kicked off…?",
             "nextBlock": 6,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 2860085204585029396
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -4313398068315211485
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6366276235381833756
+                }
+            ],
             "pathId": 7463419304756048122,
             "blockIdx": 5
         },
@@ -68,8 +127,24 @@
             "jpText": "――こうして、『天皇賞（秋）』の前に\r\n実りある日々が過ごせたのだった！",
             "enText": "―And so, we had a fruitful day before \nthe Tennou-sho (Autumn)!",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 7467054684945871896
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 9127180385139891311
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 5121076797804793022
+                }
+            ],
             "pathId": -7462520050141703096,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945800
 }

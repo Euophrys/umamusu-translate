@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7CVDU3WHGXVOJG6VBOYOQDMH2WHTU6MG",
     "type": "story",
     "storyId": "501025732",
@@ -11,6 +11,17 @@
             "jpText": "……声。\r\nどこから……？",
             "enText": "… voice. From where…?",
             "nextBlock": 2,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -7817668488024784266
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2527802107770608389
+                }
+            ],
             "pathId": -3419800135801739518,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "『お友だち』じゃない……。\r\nもっと何か、大きな――――",
             "enText": "It's not a \"friend\"… Something more,\nsomething bigger: —",
             "nextBlock": 3,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 2350592115892940500
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 7337706847142873818
+                }
+            ],
             "pathId": -5917896553261206238,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "…………三女神様。\r\nもしかして……アナタたちですか？",
             "enText": "… Three female gods.\nCould it be… you guys?",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 5608024821508447236
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -1615688185765653541
+                }
+            ],
             "pathId": 4464725173159728184,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669946376
 }

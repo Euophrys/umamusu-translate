@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "AXUU7XABPYEZ4SZVNVKNKVYXPZZYPOMP",
     "type": "story",
     "storyId": "501025701",
@@ -11,6 +11,7 @@
             "jpText": "あ、トレーナーさん……。",
             "enText": "Oh, trainer…",
             "nextBlock": 2,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "元気そうだな",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -2981666889098962574
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 9216536183651160593
+                }
+            ],
             "pathId": 4655422763242591712,
             "blockIdx": 1
         },
@@ -32,6 +43,17 @@
             "jpText": "ええ……\r\n昨夜、楽しい夢を見られたので……。",
             "enText": "Yeah… I had a pleasant\ndream last night…",
             "nextBlock": 3,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 5394538026452499405
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 5966375323734346850
+                }
+            ],
             "pathId": -5261771382965415792,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "瑠璃色の空に、らせん階段が伸びていて……\r\nその下には、黄金の海が広がっていて――",
             "enText": "A spiral staircase stretches across the\nlapis lazuli sky… At the bottom of\nthe spiral staircase is a golden sea.",
             "nextBlock": 4,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -5494670920515425291
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 8180390643358478583
+                }
+            ],
             "pathId": -3058620406384635599,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "そこで、私は『お友だち』と一緒に\r\nどこまでも走っていくんです……。",
             "enText": "That's where I'm going to run with my\n\"friends\" to wherever they are…",
             "nextBlock": 5,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -9173532415745924425
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3090792504611504047
+                }
+            ],
             "pathId": -268861270910583768,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "また、見られるといいな……。\r\n……ふふ。",
             "enText": "Hope to see you again at\n… Hmmm.",
             "nextBlock": 6,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -3400611597000700376
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 6577158333423775417
+                }
+            ],
             "pathId": 7831640836088103192,
             "blockIdx": 5
         },
@@ -68,8 +123,20 @@
             "jpText": "楽しい夢を見られて、\r\nリフレッシュできたようだ！",
             "enText": "It's refreshing to have a pleasant dream!",
             "nextBlock": -1,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -833748109144379796
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -1906493263751165095
+                }
+            ],
             "pathId": -3505174909114774877,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669946368
 }

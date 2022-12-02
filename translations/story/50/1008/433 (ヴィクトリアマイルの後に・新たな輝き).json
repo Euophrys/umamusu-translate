@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "76HEPNTOFE55UPT35LVOGOER2JMOZZWU",
     "type": "story",
     "storyId": "501008433",
@@ -11,6 +11,17 @@
             "jpText": "『ヴィクトリアマイル』、最後の直線。\r\nウオッカは驚異のダッシュ力を見せ、\n会場を沸かせた。",
             "enText": "In the final stretch of \"Victoria Mile\", \nVodka showed amazing dashing power and \nexcited the audience.",
             "nextBlock": 2,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 4079094178314003136
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 3407267883016251852
+                }
+            ],
             "pathId": 8813068414953004291,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "他のウマ娘たちを一瞬で抜き去る\r\nカッコよさにウオッカは痺れ、魅了される。",
             "enText": "Vodka is fascinated by the coolness \nof the way she instantly surpasses \nthe other horse girls.",
             "nextBlock": 3,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -1028586512720040450
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 4006429279631517541
+                }
+            ],
             "pathId": 3071150467300630445,
             "blockIdx": 2
         },
@@ -29,14 +51,26 @@
             "jpText": "このダッシュ力こそが、探していた武器と\r\n見定めたウオッカ。彼女はその力をさらに\n磨きあげるため、『安田記念』へと進む！",
             "enText": "Vodka confirms this power is the weapon \nshe's been looking for, and sets her sights \non the Yasuda Kinen to further refine it!",
             "nextBlock": -1,
+            "origClipLength": 123,
             "coloredText": [
                 {
                     "jpText": "安田記念",
                     "enText": "Yasuda Kinen"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -1499637101650326767
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -7727314108427150491
+                }
+            ],
             "pathId": 8405993420698221859,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945040
 }

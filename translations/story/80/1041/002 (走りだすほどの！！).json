@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4H2D5ZFUU4QKFKDD6COEYOEJC5MTOBZZ",
     "type": "story",
     "storyId": "801041002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、公園で――",
             "enText": "One day, in the park…",
             "nextBlock": 2,
+            "origClipLength": 94,
             "pathId": -4497878593406542312,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "バクシンバクシーーーン！！",
             "enText": "Bakushin O baxiene!",
             "nextBlock": 3,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "……君もトレーニング中？",
@@ -32,6 +34,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 1542212064576155594
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4183611934985695274
+                }
+            ],
             "pathId": 4649072316552554089,
             "blockIdx": 2
         },
@@ -41,6 +53,17 @@
             "jpText": "いえ！　読書中です！！\r\nスピードアップのコツが載っている本を！",
             "enText": "No! I'm reading! I need a book with tips on \nhow to speed things up!",
             "nextBlock": 4,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 5039454421647397137
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -6411422703710532765
+                }
+            ],
             "pathId": 3208048374288393823,
             "blockIdx": 3
         },
@@ -50,6 +73,7 @@
             "jpText": "これが本当にいい本でして！\r\n読むだけで、こうして走りだすほどに！",
             "enText": "And this is a really good book! \nSo much so that I just read it and \nstarted running like this!",
             "nextBlock": 5,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "読み終わったら借りてもいいか？",
@@ -70,6 +94,17 @@
                     "jpText": "参考に、走りを見せてもらえる？",
                     "enText": "Can you show us your run, for reference?",
                     "nextBlock": 9
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3570100490932095575
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -5108730478913059652
                 }
             ],
             "pathId": -8987896907176452,
@@ -81,6 +116,7 @@
             "jpText": "これが本当にいい本でして！\r\n読むだけで、こうして走りだすほどに！",
             "enText": "And this is a really good book! \nSo much so that I just read it and \nstarted running like this!",
             "nextBlock": 6,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "読み終わったら借りてもいいか？",
@@ -103,6 +139,17 @@
                     "nextBlock": 9
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4132451328214551227
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 8028003719203380565
+                }
+            ],
             "pathId": 7093384818934449954,
             "blockIdx": 5
         },
@@ -112,6 +159,17 @@
             "jpText": "もちろんです！\r\nむしろ今すぐお貸しして差し上げます！！",
             "enText": "Of course you can! In fact, we'll \nlend it to you right now!",
             "nextBlock": 7,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1611642453127691611
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -5838025405229026084
+                }
+            ],
             "pathId": 6238655130526538265,
             "blockIdx": 6
         },
@@ -121,6 +179,17 @@
             "jpText": "私はすっかり極意を知りましたから！\r\nええ！　目次を読んで、すっかりと！",
             "enText": "I've got it all figured out! Yes! I've read \nthe table of contents and I'm all in!",
             "nextBlock": 8,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7270747533508876206
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 4598449259428492642
+                }
+            ],
             "pathId": 8214558628870004167,
             "blockIdx": 7
         },
@@ -130,6 +199,17 @@
             "jpText": "サクラバクシンオーから本を借り、\r\n読み進めた。",
             "enText": "I borrowed a book from Sakura Bakushin \nOho and read through it.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 4168580788775248583
+                },
+                {
+                    "origLen": 19,
+                    "pathId": -375838952382654395
+                }
+            ],
             "pathId": 8461272243898424163,
             "blockIdx": 8
         },
@@ -139,6 +219,17 @@
             "jpText": "おお！　おおおお～～っ！！\r\n私を手本にしたいと！？　大いに結構！！",
             "enText": "Oh! Oh! Oh, oh, oh, oh! You want me to be \nyour role model? Oh, yes!",
             "nextBlock": 10,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -252891914045656103
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 6106566603582880559
+                }
+            ],
             "pathId": -9090159532391379581,
             "blockIdx": 9
         },
@@ -148,6 +239,17 @@
             "jpText": "習うより慣れよ！　読書よりバクシン！\r\nぜひ！　私のバクシンをご覧ください！！",
             "enText": "Better to get used to it than to \nlearn it! Bakushin Over reading! \nPlease! Come and see my Bakushin!",
             "nextBlock": 11,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 3395068209324822386
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -624513455351392824
+                }
+            ],
             "pathId": 6431415885603131928,
             "blockIdx": 10
         },
@@ -157,6 +259,17 @@
             "jpText": "バクシンバクシーーン！！",
             "enText": "Bakshin Bakshian!",
             "nextBlock": 12,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -2945472508157623112
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -8623307895069410136
+                }
+            ],
             "pathId": 7695501745183502823,
             "blockIdx": 11
         },
@@ -166,8 +279,10 @@
             "jpText": "サクラバクシンオーの走りに、\r\n参考になる点をいくつも見つけた。",
             "enText": "I found a lot to like in the \nway Sakura Bakushin O O ran.",
             "nextBlock": -1,
+            "origClipLength": 86,
             "pathId": -7659412794523656442,
             "blockIdx": 12
         }
-    ]
+    ],
+    "modified": 1669945961
 }

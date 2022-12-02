@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DXMV5FFGIJCEU4OTVTZAMSB5N7W4WENX",
     "type": "story",
     "storyId": "501004722",
@@ -11,6 +11,7 @@
             "jpText": "……ふう。",
             "enText": "… style.",
             "nextBlock": 2,
+            "origClipLength": 51,
             "choices": [
                 {
                     "jpText": "どうした？",
@@ -23,6 +24,20 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 8831106490185237653
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 6554954367102900478
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 3330154590118669213
+                }
+            ],
             "pathId": 7980255041330440515,
             "blockIdx": 1
         },
@@ -32,6 +47,21 @@
             "jpText": "あ、ううん、なんでもないわ。\nちょっと頭痛がしただけ。",
             "enText": "Oh, no, it's nothing. I\njust had a headache.",
             "nextBlock": 3,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -7316745188136262189
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -8807279350841875665
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -3640905203564072926
+                }
+            ],
             "pathId": 5070999512966326287,
             "blockIdx": 2
         },
@@ -41,6 +71,17 @@
             "jpText": "だけど、美ウマ娘薄命って言葉もあるし、\n心配になってきちゃったわ……。",
             "enText": "But there's a saying that beautiful\nwomen don't live forever, and I'm\nstarting to worry…",
             "nextBlock": 4,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -131282680804596150
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 5502266418860924064
+                }
+            ],
             "pathId": 203021490089848936,
             "blockIdx": 3
         },
@@ -50,6 +91,17 @@
             "jpText": "なんちて☆\nうっそぴょーん☆",
             "enText": "What a lie!",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 6894165248162836836
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 7993440138336992151
+                }
+            ],
             "pathId": 1940916229377750964,
             "blockIdx": 4
         },
@@ -59,6 +111,21 @@
             "jpText": "……っ。\nいたたた……。",
             "enText": "… I'm sorry, I can't help it…",
             "nextBlock": 6,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -6310783859457394207
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 9112348623117650447
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 5971834642221510375
+                }
+            ],
             "pathId": 2230428929606770856,
             "blockIdx": 5
         },
@@ -68,8 +135,24 @@
             "jpText": "明るく振る舞うものの、\n頭痛が辛そうなマルゼンスキーだった……。",
             "enText": "Despite her cheerful demeanor, Maruzensky\nseemed to be suffering from a headache…",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -2088381133056830784
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6263841387051147552
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -3870401037759842720
+                }
+            ],
             "pathId": -4545403531943343090,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669944925
 }

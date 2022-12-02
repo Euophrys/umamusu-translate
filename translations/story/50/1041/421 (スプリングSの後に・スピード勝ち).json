@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "5AWI2S6GDLDGNSSRNVHKFE7NTV6OIXTP",
     "type": "story",
     "storyId": "501041421",
@@ -11,6 +11,17 @@
             "jpText": "苦手な距離をものともせずに勝利を手にし、\r\nこれでクラシックへ進めると意気込む\nサクラバクシンオー。",
             "enText": "Sakura Bakushin O was enhtusiatic about advancing to Classic, having just won a race in an unfavored distance.",
             "nextBlock": 2,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -8573098865885824772
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -8913545094643875174
+                }
+            ],
             "pathId": 4000451970333992955,
             "blockIdx": 1
         },
@@ -20,10 +31,21 @@
             "jpText": "だが、彼女のスピードを活かしたい\r\nトレーナーは『葵ステークス』へ出走させる\nためにサクラバクシンオーを説き伏せる。",
             "enText": "However, her trainer, who wanted to take\nadvantage of her speed, persuaded Sakura\nBakushin-o to let her run in the Aoi Stakes.",
             "nextBlock": 3,
+            "origClipLength": 120,
             "coloredText": [
                 {
                     "jpText": "葵ステークス",
                     "enText": "Aoi Stakes"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -7851938102506433285
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 2527922914384059308
                 }
             ],
             "pathId": -6817395765419418354,
@@ -35,8 +57,20 @@
             "jpText": "速さを追求したいというトレーナーの言葉に\r\nいたく感動したサクラバクシンオーは次の\n目標を『葵ステークス』に定めるのだった。",
             "enText": "Sakura Bakushin O was so moved by\nher trainer's speed-seeking words that she set her next\ngoal to the Aoi Stakes.",
             "nextBlock": -1,
+            "origClipLength": 125,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 6771675649014172437
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 7293392233651057315
+                }
+            ],
             "pathId": -3343488316454066514,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945712
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QUIZWVTPQ6XKPUWUYIDJ2SJMODBMXVZ6",
     "type": "story",
     "storyId": "501050718",
@@ -11,11 +11,22 @@
             "jpText": "休日後、ナリタタイシンが\r\nトレーナー室にやって来た。",
             "enText": "After the holiday, Narita Taishin \ncame to the trainer's office.",
             "nextBlock": 2,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "休日はどうだった？",
                     "enText": "How was your holiday?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -3666584899241676494
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 1476297956966347761
                 }
             ],
             "pathId": -6929904743901344670,
@@ -27,6 +38,17 @@
             "jpText": "は？\r\nアンタに関係……は、あるか。",
             "enText": "Huh? Do you have… to do with you?",
             "nextBlock": 3,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 2932752693965436865
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4360423007417502527
+                }
+            ],
             "pathId": -4341808917018943929,
             "blockIdx": 2
         },
@@ -36,6 +58,17 @@
             "jpText": "別に、いつも通り。\r\n普通に休んで、ゆっくりできた。",
             "enText": "Nothing, as usual. I could \nrest and relax as usual.",
             "nextBlock": 4,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -1962255391796532255
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1183540784672497102
+                }
+            ],
             "pathId": -3598555168368952016,
             "blockIdx": 3
         },
@@ -45,8 +78,20 @@
             "jpText": "ナリタタイシンはきちんと休めたようだ。",
             "enText": "Narita Taishin looks properly rested.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -5476671080184809025
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3984578528927702084
+                }
+            ],
             "pathId": -7319849332705027518,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945821
 }

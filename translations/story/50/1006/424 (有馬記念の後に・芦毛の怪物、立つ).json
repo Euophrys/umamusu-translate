@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "UJD6SBVXGYDTXUF6XHHY5AP3TD4BMUWV",
     "type": "story",
     "storyId": "501006424",
@@ -11,6 +11,17 @@
             "jpText": "傑物ぞろいの『有馬記念』。\r\nその頂点に立ったのはオグリキャップだった。",
             "enText": "The \"Arima Kinen\" was full of outstanding \nriders. It was Oguri Cap who stood \nat the top.",
             "nextBlock": 2,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 358,
+                    "pathId": -8112229652004602524
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 8690660586565598557
+                }
+            ],
             "pathId": 8855114909936086585,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "割れんばかりの大歓声が、\r\n時代の覇者であるオグリキャップに降り注ぐ。",
             "enText": "The cheers of the crowd poured down on the \nchampion of the era, Oguri Cap.",
             "nextBlock": 3,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -5797043530250992923
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3527528243930894760
+                }
+            ],
             "pathId": 7277766595164474677,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "『応援してくれてありがとう』\r\n――そのたった一言に、\n彼女の万感の想いが込められていた。",
             "enText": "Thank you for your support\" - that single \nword contained her heartfelt feelings.",
             "nextBlock": -1,
+            "origClipLength": 74,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 6872477811397147633
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3020070575185294648
+                }
+            ],
             "pathId": 2886733159978849910,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944978
 }

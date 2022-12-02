@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "X2KC22OOFQWEVFRXDZJX2J2PCTPFO67K",
     "type": "story",
     "storyId": "501008711",
@@ -11,6 +11,17 @@
             "jpText": "……くっそぉ。",
             "enText": "… Damn.",
             "nextBlock": 2,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 7926285236475174504
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -5789527430273190167
+                }
+            ],
             "pathId": -922655009090680017,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "また……また負けちまった。\r\nなんてザマだ、カッコ悪ぃ……！",
             "enText": "I've lost again… again. What \na mess, not cool…!",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 1554194315363894133
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 7221708868437255236
+                }
+            ],
             "pathId": -5185042770972614160,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "こんなんじゃ……俺の求めるカッコよさに、\r\nいつまで経っても辿り着けねぇ……ッ！",
             "enText": "You'll never get to the coolness I'm looking \nfor with… this way…!",
             "nextBlock": 4,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "いつか絶対に勝てる！",
@@ -49,6 +72,17 @@
                     "jpText": "カッコ悪いままでいいの？",
                     "enText": "Are you sure you want to stay uncool?",
                     "nextBlock": 12
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 8788334422171962
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 7847337177443508218
                 }
             ],
             "pathId": -728250467453340880,
@@ -60,6 +94,7 @@
             "jpText": "こんなんじゃ……俺の求めるカッコよさに、\r\nいつまで経っても辿り着けねぇ……ッ！",
             "enText": "You'll never get to the coolness I'm looking \nfor with… this way…!",
             "nextBlock": 5,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "いつか絶対に勝てる！",
@@ -82,6 +117,17 @@
                     "nextBlock": 12
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 2077580659115844028
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -5598593372573410445
+                }
+            ],
             "pathId": 2342358823158158524,
             "blockIdx": 4
         },
@@ -91,6 +137,17 @@
             "jpText": "っ……！？　なんで……！\r\nなんで、そんなこと言えんだよ！",
             "enText": "Why…? Why…! Why, \nyou can't say that!",
             "nextBlock": 6,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -4445480427931341077
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 8514058217129265997
+                }
+            ],
             "pathId": 6371732528927391000,
             "blockIdx": 5
         },
@@ -100,11 +157,22 @@
             "jpText": "こんなに負けまくってんのに……。\r\n根拠はあんのかッ！？",
             "enText": "I'm losing so much money on this \n… Do you have any proof?",
             "nextBlock": 7,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "ウオッカの努力を知ってるから！",
                     "enText": "Because I know what Vodka is trying to do!",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 121022733807224661
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 8421984142505630339
                 }
             ],
             "pathId": -2367091047159992183,
@@ -116,6 +184,17 @@
             "jpText": "――！！！",
             "enText": "—!",
             "nextBlock": 8,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -6761994780954150801
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 2176066611861884577
+                }
+            ],
             "pathId": 2692538022966894236,
             "blockIdx": 7
         },
@@ -125,6 +204,17 @@
             "jpText": "……効いたよ、トレーナー。\r\nおかげで……バカな弱気が吹っ飛んだぜ。",
             "enText": "It… worked, trainer. It blew away my \n… stupid weakness.",
             "nextBlock": 9,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8825582706087310504
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 6980228421243217605
+                }
+            ],
             "pathId": 772599271817291025,
             "blockIdx": 8
         },
@@ -134,6 +224,17 @@
             "jpText": "いつも俺を見ててくれるアンタに、\r\nこんだけ背中押してもらっといて――",
             "enText": "You're always looking out for me, \nand you've been so supportive.",
             "nextBlock": 10,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -4632400201908809108
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 2694629356581712208
+                }
+            ],
             "pathId": -3728139450627041300,
             "blockIdx": 9
         },
@@ -143,6 +244,17 @@
             "jpText": "いつまでもウジウジしてやがったら！\r\n負けるより、ずっとカッコ悪ぃってモンだ！！",
             "enText": "You can't keep dwelling on this! \nIt's much worse than losing!",
             "nextBlock": 11,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 2325883467690489063
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -1743987115541575071
+                }
+            ],
             "pathId": 1771287842928420361,
             "blockIdx": 10
         },
@@ -152,6 +264,17 @@
             "jpText": "いつか……いつか絶対にッ！\r\nカッコよく、勝利を掴み取ってやらぁ！！",
             "enText": "Someday… Someday, definitely! I'm \ngoing to be cool, and I'm going to win!",
             "nextBlock": -1,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 7716926395943851298
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 6250118151080629245
+                }
+            ],
             "pathId": -8599997190142167484,
             "blockIdx": 11
         },
@@ -161,6 +284,17 @@
             "jpText": "そ……そんなの……！\r\nいいワケ、ねぇだろ……！！",
             "enText": "That… is not…! \nIt's not okay…!",
             "nextBlock": 13,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -2309815973780168679
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 985764504008984736
+                }
+            ],
             "pathId": -4816360399338817588,
             "blockIdx": 12
         },
@@ -170,6 +304,17 @@
             "jpText": "俺はまだ、これっぽっちも……\r\n応援してくれてるみんなやアンタに――",
             "enText": "I'm not even close to… the \npeople who support me or you.",
             "nextBlock": 14,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -4735195109113259721
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -645003023881215305
+                }
+            ],
             "pathId": 1542136118449902215,
             "blockIdx": 13
         },
@@ -179,11 +324,22 @@
             "jpText": "誰よりも、俺自身のカッコよさに！！\r\n応えられちゃいねぇんだからよっ！！",
             "enText": "More than anyone, my own coolness! \nI can't live up to that!",
             "nextBlock": 15,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "なら、また何度でも頑張ろう！",
                     "enText": "Then we'll try again, and again!",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -4429251508088075667
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -978819107951694203
                 }
             ],
             "pathId": -6442697524196755003,
@@ -195,6 +351,17 @@
             "jpText": "――……ッ！！！",
             "enText": "—…!!!!",
             "nextBlock": 16,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 8121933184780536717
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 2113903940710833474
+                }
+            ],
             "pathId": 8466141960771564557,
             "blockIdx": 15
         },
@@ -204,6 +371,17 @@
             "jpText": "そうだ……そうだよな！\r\n泣き言なんざ、俺らしくねぇっての！",
             "enText": "That's right… That's right! \nIt's not like me to whine!",
             "nextBlock": 17,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 6439566380427012808
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5584933330744582617
+                }
+            ],
             "pathId": 8972346432539125658,
             "blockIdx": 16
         },
@@ -213,6 +391,17 @@
             "jpText": "今の実力じゃ足りねぇってんなら、\r\nどこまでも喰らいついてきゃいいんだ！",
             "enText": "If what you're doing now isn't good \nenough, then you'll just have to \nkeep coming back for more!",
             "nextBlock": 18,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 4796365565608271325
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -1447824801953478928
+                }
+            ],
             "pathId": 169167782892055645,
             "blockIdx": 17
         },
@@ -222,8 +411,20 @@
             "jpText": "待ってろよ、トレーナー！　俺は絶対に――\r\n最高にカッコいい姿を見せつけてやるぜッ！！",
             "enText": "Hold on, trainer! I'm going to show \nyou how to be the coolest!",
             "nextBlock": -1,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 808770597627785126
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -3125232459628893463
+                }
+            ],
             "pathId": 8707718770183077122,
             "blockIdx": 18
         }
-    ]
+    ],
+    "modified": 1669945050
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "RJO6UYA74RKYVGCJISSKWHVWXH2WJC2A",
     "type": "story",
     "storyId": "501025115",
@@ -11,6 +11,7 @@
             "jpText": "マンハッタンカフェの夢は、\r\n日本ダービー制覇ではない。それでも――",
             "enText": "Manhattan Cafe's dream is not to win the\nJapanese Derby. Still…",
             "nextBlock": 2,
+            "origClipLength": 89,
             "pathId": -6831103680214647900,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "一生に1度しか見られない夢への誘惑は\r\n大きかった。",
             "enText": "The temptation to dream, a dream that could\nonly be seen once in a lifetime, was great.",
             "nextBlock": 3,
+            "origClipLength": 78,
             "pathId": -7284057810195664772,
             "blockIdx": 2
         },
@@ -29,6 +31,21 @@
             "jpText": "はぁ、はぁ……。トレーナーさん、\r\nこのラップタイムなら……。",
             "enText": "Huh, huh… Trainer, this\nlap time can be…",
             "nextBlock": 4,
+            "origClipLength": 159,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 7561168623619836492
+                },
+                {
+                    "origLen": 223,
+                    "pathId": 2025310447363884919
+                },
+                {
+                    "origLen": 189,
+                    "pathId": -1438303042233030218
+                }
+            ],
             "pathId": 5605728389888428642,
             "blockIdx": 3
         },
@@ -38,11 +55,22 @@
             "jpText": "ダービー……行けるのではないでしょうか。\r\n勝てれば……きっと『お友だち』にも……。",
             "enText": "I'm sure you can go to the Derby… If\nyou win… I'm sure you'll be able to\n… your 'friends'.",
             "nextBlock": 5,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "体は大丈夫？",
                     "enText": "Are you okay?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 5814306027011980329
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -4754717509214021578
                 }
             ],
             "pathId": -4547060839065230471,
@@ -54,6 +82,17 @@
             "jpText": "はい……。万全とは言えませんが……\r\nそれは、いつものこと……。",
             "enText": "Yes… It's not all that great…\nThat's always the case…",
             "nextBlock": 6,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": -4776390863165055911
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -4718788918703986287
+                }
+            ],
             "pathId": -2854481706191996586,
             "blockIdx": 5
         },
@@ -63,6 +102,17 @@
             "jpText": "ダービーに出るか出ないかは……\r\n正直、難しい判断となる。",
             "enText": "To be honest, it will be a difficult\ndecision whether to attend the\nDerby or not…",
             "nextBlock": 7,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1749994544873240524
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -984858960926273283
+                }
+            ],
             "pathId": 2583021482383603324,
             "blockIdx": 6
         },
@@ -72,6 +122,7 @@
             "jpText": "それでも双方が希望を持っていれば、\r\n見込みはある。道を決めるのは\nもう少し先でいい。",
             "enText": "Still, if both sides have hope, there's a\nchance. It's just a matter of time before we\ndecide which way to go.",
             "nextBlock": 8,
+            "origClipLength": 101,
             "pathId": -5149376216189890424,
             "blockIdx": 7
         },
@@ -81,11 +132,26 @@
             "jpText": "もうひと追い、お願いします。\r\n今度は先ほどよりもキツめに……。",
             "enText": "One more pass, please. This time, make it\ntighter than before…",
             "nextBlock": 9,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "わかっ……",
                     "enText": "Okay…",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": 2986154169204884075
+                },
+                {
+                    "origLen": 182,
+                    "pathId": -3671440524852737125
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -8302253410512176741
                 }
             ],
             "pathId": 7488889423614723920,
@@ -97,6 +163,21 @@
             "jpText": "――やめたまえ。",
             "enText": "—Don't do it.",
             "nextBlock": 10,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 6542319476573296028
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -7867528656106397217
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 1982243697364142979
+                }
+            ],
             "pathId": -7500329180743450938,
             "blockIdx": 9
         },
@@ -106,6 +187,17 @@
             "jpText": "竹を割るような明快な声が、指示を遮った。",
             "enText": "A clear voice, like splitting bamboo,\ninterrupted the instructions.",
             "nextBlock": 11,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 3564507656531969986
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 4640568017720464726
+                }
+            ],
             "pathId": 3314280238375411143,
             "blockIdx": 10
         },
@@ -115,6 +207,25 @@
             "jpText": "非科学的な夢を見るのはいいが、砕けた後に\r\n非科学的だったと知るのは、愚かな話さ。",
             "enText": "It's fine to dream unscientific dreams, but\nit's silly to find out after they've been\nshattered that they were unscientific.",
             "nextBlock": 12,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 4939825029510311320
+                },
+                {
+                    "origLen": 177,
+                    "pathId": -825772605263542185
+                },
+                {
+                    "origLen": 191,
+                    "pathId": 1954875518009644570
+                },
+                {
+                    "origLen": 153,
+                    "pathId": 67380513751647785
+                }
+            ],
             "pathId": -8559005126738171875,
             "blockIdx": 11
         },
@@ -124,6 +235,29 @@
             "jpText": "『日本ダービー』に出るな――とは言わない。\r\nだが追い込みはそこそこにしておきたまえ。",
             "enText": "I'm not saying don't go to the Japan Derby.\nI'm not going to tell you to run in the\n\"Japan Derby,\" but I will tell you to leave\nthe chasing to the side.",
             "nextBlock": 13,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 3406383037521701420
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -7891947661440238099
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 2287216609927679240
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -2715443195280372411
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -2624836675704534064
+                }
+            ],
             "pathId": 54525991402512756,
             "blockIdx": 12
         },
@@ -133,6 +267,33 @@
             "jpText": "カフェ、今の君には厳しいトレーニングに\r\n耐えうる土台はない。",
             "enText": "Café, you don't have the foundation to\nwithstand the rigorous training you're going\nthrough right now.",
             "nextBlock": 14,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -7364196751260958119
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -1461371968000991160
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 8937472162194532926
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 3409487362480347195
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 4635953619386364123
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -8077117311332027390
+                }
+            ],
             "pathId": -4794697056716791812,
             "blockIdx": 13
         },
@@ -142,6 +303,33 @@
             "jpText": "タキオンさん……。\r\nアナタに……何が……。",
             "enText": "Tachyon… Anata to\n… what is…",
             "nextBlock": 15,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -1031979253807736766
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1257104107102445211
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 1414002412544993436
+                },
+                {
+                    "origLen": 138,
+                    "pathId": -3116797057303210280
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 350583649237803693
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 5722394698889392956
+                }
+            ],
             "pathId": 8487246742341132488,
             "blockIdx": 14
         },
@@ -151,6 +339,33 @@
             "jpText": "……わかるとも。私はウマ娘を辞めて、\r\nヒマ娘になったんだ。",
             "enText": "… I know what you mean. I quit being a\nhorse girl and became a Himamusume.",
             "nextBlock": 16,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 8373852664775875579
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -162239000458615581
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -8698472429482542712
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3878177156138291456
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -6613828409759584678
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 5946919243972074369
+                }
+            ],
             "pathId": 7946717346751574239,
             "blockIdx": 15
         },
@@ -160,6 +375,29 @@
             "jpText": "毎日やることと言えば、君の研究ばかり。\r\n朝から翌朝まで、壮大なヒマ潰しだよ。",
             "enText": "Every day, all I do is your research.\nFrom morning till the next morning,\nit's a grand slog.",
             "nextBlock": 17,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -1505373897868279285
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 5329661759096793702
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -6278398541476588502
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -7600390647514312681
+                },
+                {
+                    "origLen": 193,
+                    "pathId": 5888352045884341891
+                }
+            ],
             "pathId": -5083706091639455334,
             "blockIdx": 16
         },
@@ -169,6 +407,17 @@
             "jpText": "だが、おかげで見えたこともある。今\r\n優先すべきはやせ細った体の酷使ではなく\n回復。質量の復元だ。",
             "enText": "But it also helped me to see things. My\npriority now is not to overwork my emaciated\nbody, but to recover. Restore the mass.",
             "nextBlock": 18,
+            "origClipLength": 128,
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": 8475843966016861786
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -8606170107148883871
+                }
+            ],
             "pathId": 7838783185799388683,
             "blockIdx": 17
         },
@@ -178,6 +427,33 @@
             "jpText": "どうしてもハードなトレーニングが\r\nしたいというなら、試してみるがいい。\n――今から坂路を3本。",
             "enText": "If you really want to train hard, give it a\ntry. —I'm going to do three hill runs now.",
             "nextBlock": 19,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 215,
+                    "pathId": -9085236181278223282
+                },
+                {
+                    "origLen": 251,
+                    "pathId": 5552932872398845716
+                },
+                {
+                    "origLen": 164,
+                    "pathId": 1925609514211979935
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8627466176194809613
+                },
+                {
+                    "origLen": 148,
+                    "pathId": -5470728133132341669
+                },
+                {
+                    "origLen": 191,
+                    "pathId": 5794395581366191776
+                }
+            ],
             "pathId": -3716776793616765000,
             "blockIdx": 18
         },
@@ -187,6 +463,29 @@
             "jpText": "1本と4/7を上がり切ったところが\r\n君のゴールだ。",
             "enText": "Your goal is to reach the end\nof the first run and 4/7.",
             "nextBlock": 20,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": -3352427051202538777
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -7422521988308598940
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 9185493183506438299
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1958696754149104048
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7673511561570792671
+                }
+            ],
             "pathId": -5074082760022673996,
             "blockIdx": 19
         },
@@ -196,6 +495,29 @@
             "jpText": "はぁ、はぁ、はぁ……。",
             "enText": "Ha, ha, ha…",
             "nextBlock": 21,
+            "origClipLength": 159,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 845472292527988648
+                },
+                {
+                    "origLen": 329,
+                    "pathId": 7411400474992582058
+                },
+                {
+                    "origLen": 274,
+                    "pathId": -5367127979814659399
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -6952564736430257030
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -7361826360948022236
+                }
+            ],
             "pathId": -4331813849008298596,
             "blockIdx": 20
         },
@@ -205,6 +527,21 @@
             "jpText": "結果は――言った通りだった。\r\n1本と半分を上がり切ったところで、\nマンハッタンカフェの脚は止まってしまった。",
             "enText": "The result was just as I said it would be.\nOne and a half miles into the race,\nManhattan Cafe's legs came to a halt.",
             "nextBlock": 22,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 4210653267707644808
+                },
+                {
+                    "origLen": 329,
+                    "pathId": -3260967887182530709
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -8450963010368136026
+                }
+            ],
             "pathId": -3053439691878097812,
             "blockIdx": 21
         },
@@ -214,6 +551,21 @@
             "jpText": "ほらね。まぁ、こうなる。",
             "enText": "See? Well, here's what happens.",
             "nextBlock": 23,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 2090775532119953614
+                },
+                {
+                    "origLen": 329,
+                    "pathId": 1277651116994685335
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -7116878358803033738
+                }
+            ],
             "pathId": -484972948395082403,
             "blockIdx": 22
         },
@@ -223,6 +575,29 @@
             "jpText": "予知能力がなくても当たる、つまらない\r\n予定調和さ。じつに質が悪いね。",
             "enText": "It's a boring scheme that comes\ntrue even without precognition.\nIt's a very bad quality.",
             "nextBlock": 24,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 5695370280881258797
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 7598614304987427084
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 2614631258416518256
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 4559592773328572225
+                },
+                {
+                    "origLen": 184,
+                    "pathId": -267317313783407689
+                }
+            ],
             "pathId": -2936359468807044292,
             "blockIdx": 23
         },
@@ -232,6 +607,29 @@
             "jpText": "一応言うと、これはテストでもあったのさ。\r\n間違っていれば、トレーナーの賭けにも\n正当性は出るからね。",
             "enText": "In case you're wondering, it was\nalso a test. If I'm wrong, the trainer's\nbet will be justified.",
             "nextBlock": 25,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": 5014919004504096997
+                },
+                {
+                    "origLen": 161,
+                    "pathId": -7610163610868007002
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -3554082866362738259
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -3140914388809887660
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -7836388460363862158
+                }
+            ],
             "pathId": -2770225862734219895,
             "blockIdx": 24
         },
@@ -241,6 +639,29 @@
             "jpText": "……………………。",
             "enText": "…",
             "nextBlock": 26,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1107084879260992579
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 5254521716048666231
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8499927085960903497
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 936541410184248687
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -3646108737197988966
+                }
+            ],
             "pathId": -4570883310886382126,
             "blockIdx": 25
         },
@@ -250,6 +671,29 @@
             "jpText": "これで証明はできた。\r\n無理にダービーを勝ちにいくことはない。\n真っ当な夢を見る必要は。",
             "enText": "Now I've proved it. You don't have to force\nyourself to win the Derby. You don't need to\ndream a legitimate dream.",
             "nextBlock": 27,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -3293325620483692397
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 4872524288192454236
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -4820528095634848494
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 2774640523510160136
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 5282148806786206830
+                }
+            ],
             "pathId": 8390719651127935434,
             "blockIdx": 26
         },
@@ -259,6 +703,29 @@
             "jpText": "どうせ私たちは変わり者チームじゃないか。\r\n元からイカれているのだから、\n常人のフリはやめにしよう。",
             "enText": "We're a team of freaks, after all. We're\ncrazy from the start, so let's not pretend\nto be normal people.",
             "nextBlock": 28,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -9024481264700144702
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1757938945613438574
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 1498423076555371045
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 6043163412133307224
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 4049483768614313773
+                }
+            ],
             "pathId": -8295225272590390832,
             "blockIdx": 27
         },
@@ -268,6 +735,29 @@
             "jpText": "元からイカれている……。\r\nでも……。",
             "enText": "It's… which is crazy from\nthe get-go. But…",
             "nextBlock": 29,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7529696143038621476
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -2424717576088186652
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7260142579009541214
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7076826454869088344
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 9215148822209497682
+                }
+            ],
             "pathId": 8575230926594063811,
             "blockIdx": 28
         },
@@ -277,6 +767,25 @@
             "jpText": "アナタ……ほどでは……。",
             "enText": "Not as much as Anata…",
             "nextBlock": 30,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 3523499321868026082
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 8124910095706995474
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1529264848567508289
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5010706410660539409
+                }
+            ],
             "pathId": 635738053282348737,
             "blockIdx": 29
         },
@@ -286,6 +795,25 @@
             "jpText": "クククク、ハハハハ！　違いない！\r\n少しは元気になったじゃないか！",
             "enText": "Kukukuk, hahahahaha! That's right! You're\nlooking a little better!",
             "nextBlock": 31,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -6066565758666849466
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4339625604246000074
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -2944888921178607416
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 6817974667740197323
+                }
+            ],
             "pathId": -7981871044750534927,
             "blockIdx": 30
         },
@@ -295,6 +823,29 @@
             "jpText": "賛同してくれるね、カフェ、トレーナー？\r\n今は急ぐべきじゃないと。",
             "enText": "You agree with me, don't you, Cafe, Trainer?\nThat we shouldn't rush into anything now.",
             "nextBlock": 32,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -1722541272308744867
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 3022829274837993338
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5764682783511869
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -8413978230662190000
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 5605759375366439097
+                }
+            ],
             "pathId": -175745636285747221,
             "blockIdx": 31
         },
@@ -304,6 +855,29 @@
             "jpText": "……………………。",
             "enText": "…",
             "nextBlock": 33,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 4267281626684031805
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -6408271648536451148
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 5294909969502575431
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -3994686707029742965
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 5527706593499075094
+                }
+            ],
             "pathId": 4253918591529090874,
             "blockIdx": 32
         },
@@ -313,6 +887,29 @@
             "jpText": "完全に考えを変えろと言っている\r\nわけじゃない。ただ……。",
             "enText": "I'm not suggesting that you change\nyour mind completely. I'm just suggesting\nthat you visit…",
             "nextBlock": 34,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 3331159184634860743
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -8792528928554731420
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 7755940814626464243
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 8392902141622101195
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -7376655472928369575
+                }
+            ],
             "pathId": 6964835987884557692,
             "blockIdx": 33
         },
@@ -322,6 +919,29 @@
             "jpText": "天秤の皿に、視認できた事実が乗っただけさ。\r\nだろう、トレーナー？",
             "enText": "It's just a fact of visibility on a balance\nsheet. Right, trainer?",
             "nextBlock": 35,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 8615237032384503569
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 7736617190657767261
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4242815428070648353
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -3168169558706057233
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1085650976743851196
+                }
+            ],
             "pathId": -7672749777474849528,
             "blockIdx": 34
         },
@@ -331,11 +951,34 @@
             "jpText": "決断を促され……マンハッタンカフェを見る。",
             "enText": "I was prompted to make a decision and look\nat… Manhattan Cafe.",
             "nextBlock": 36,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "……どうする？",
                     "enText": "… What do we do?",
                     "nextBlock": 36
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -1053192038542783039
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3658215531328157294
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -6123682543077525588
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 7796081322234068866
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -276026733288582621
                 }
             ],
             "pathId": 3054745436715739093,
@@ -347,6 +990,29 @@
             "jpText": "そう……ですね……。少しゆるめるという\r\n考え方も……まあ……。",
             "enText": "Yes, it's… There\nis also the idea of loosening up\na little… well…",
             "nextBlock": 37,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2014655043915225359
+                },
+                {
+                    "origLen": 155,
+                    "pathId": -2243961458947644898
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6797518433252848628
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1535524117166689334
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -1462214894761375072
+                }
+            ],
             "pathId": -2790838564791314631,
             "blockIdx": 36
         },
@@ -356,11 +1022,30 @@
             "jpText": "マンハッタンカフェが\r\n納得してくれるなら……。",
             "enText": "If Manhattan Cafe can be convinced…",
             "nextBlock": 38,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "わかった。慎重に考えるよ",
                     "enText": "All right. I'll think it over.",
                     "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 6277707684417217119
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 391804910645115028
+                },
+                {
+                    "origLen": 161,
+                    "pathId": 5142051589050695408
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5947957184551625889
                 }
             ],
             "pathId": 4420623272479732712,
@@ -372,6 +1057,25 @@
             "jpText": "フフ、聡明な判断だ。まぁ君にも\r\nわかっていただろうし、君がわかっていた\nことも、私にはわかっていたが。",
             "enText": "Well, you knew that, and I knew that you\nknew that. Well, you knew that, and I knew\nthat you knew that.",
             "nextBlock": 39,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 4877087686572226917
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 1092760629587244923
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 5229688269878552098
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -4459460298226467502
+                }
+            ],
             "pathId": -2384890945780319381,
             "blockIdx": 38
         },
@@ -381,6 +1085,7 @@
             "jpText": "ではトレーナーさん……。しばらくは……\r\nそれなりのペースで……。",
             "enText": "Now, trainer… For a while,\n… at a reasonable pace.",
             "nextBlock": 40,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "……ああ",
@@ -393,6 +1098,24 @@
                     "nextBlock": 40
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -2623102513454314842
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1263715193111265586
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 4746600625677224964
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -6404792301078273935
+                }
+            ],
             "pathId": 7320399017475277495,
             "blockIdx": 39
         },
@@ -402,8 +1125,28 @@
             "jpText": "アグネスタキオンの加入で、\r\n重要な判断の精度はあがった。\nきっと秋への追い風となるだろう。",
             "enText": "With the addition of Agnes Tachyon,\nthe accuracy of important decisions\nhas improved. This will surely be\na tailwind for the fall.",
             "nextBlock": -1,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3094087543735964740
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4322855867559491823
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 369482072966488699
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5305399053111973330
+                }
+            ],
             "pathId": -3738492956219581058,
             "blockIdx": 40
         }
-    ]
+    ],
+    "modified": 1669946350
 }

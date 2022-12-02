@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "W4IV4CQWFZ6CGVQ5XT6JFBSJ4BSHUTUA",
     "type": "story",
     "storyId": "501006423",
@@ -11,6 +11,25 @@
             "jpText": "観客からのコールがパドックに響き渡る。\r\nタマモクロス、スーパークリーク、そして――",
             "enText": "The calls from the crowd echoed through the \npaddock. Tamamo Cross, Super Creek, and—",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 311,
+                    "pathId": -6496209467085771741
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8369919946033130363
+                },
+                {
+                    "origLen": 270,
+                    "pathId": -6140793867945607634
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8490136619382175290
+                }
+            ],
             "pathId": 4094250702434004363,
             "blockIdx": 1
         },
@@ -20,10 +39,37 @@
             "jpText": "決意を新たにレースへと挑む、\r\n地方から来た怪物・オグリキャップ。",
             "enText": "Oguri Cap, a monster from the countryside, \nheads into the race with renewed \ndetermination.",
             "nextBlock": 3,
+            "origClipLength": 66,
             "coloredText": [
                 {
                     "jpText": "怪物",
                     "enText": "monster"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 866787084866421460
+                },
+                {
+                    "origLen": 161,
+                    "pathId": 1044469674133403217
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -8498950470290156932
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 8398690124160820700
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -4299602570138790069
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 3807154187389734085
                 }
             ],
             "pathId": -2077570574143102150,
@@ -35,8 +81,20 @@
             "jpText": "それぞれの想いが交差する頂上決戦が\r\nいよいよ幕を開けようとしていた。",
             "enText": "The curtain is about to rise on a summit \nbattle where the thoughts and feelings of \neach person intersect.",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -4869227279240580125
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5635527813555998861
+                }
+            ],
             "pathId": -6299816733567505765,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944978
 }

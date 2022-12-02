@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "SR3EHQK7QFARR24P462P534RPS4M42BL",
     "type": "story",
     "storyId": "801046001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、ダンススタジオで――",
             "enText": "One day, in a dance studio…",
             "nextBlock": 2,
+            "origClipLength": 73,
             "pathId": 8360927937396843346,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "ねぇねぇ！　ちょっとだけ、\r\nライブのお客さんになってもらえない！？",
             "enText": "Hey, hey! I was wondering if \nyou'd be interested in being \na live audience for a bit!",
             "nextBlock": 3,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 7518861475923069615
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 4808899792075079427
+                }
+            ],
             "pathId": 3022045746585033780,
             "blockIdx": 2
         },
@@ -29,6 +41,17 @@
             "jpText": "突如話しかけてきた彼女の手練手管により、\r\n1人で彼女の観客役をする事になった。",
             "enText": "Suddenly she speaks to me, and I find myself \nacting as her audience.",
             "nextBlock": 4,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -6989883087435534253
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 1195106352197971558
+                }
+            ],
             "pathId": 7147767281207912306,
             "blockIdx": 3
         },
@@ -38,6 +61,17 @@
             "jpText": "キラキラ栗毛がトレードマーク☆\r\nいつでもかわいいみんなのウマドル！",
             "enText": "Glittering chestnut hair is her trademark ☆ \nShe's always cute and everyone's Umadol!",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 2382438997150110528
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -2208422983263119850
+                }
+            ],
             "pathId": 7411826762961865401,
             "blockIdx": 4
         },
@@ -47,11 +81,22 @@
             "jpText": "ファル子こと、スマートファルコンです♪\r\nファル子って呼んでね～！",
             "enText": "I'm Smart Falcon, aka Falco… Call me Falco!",
             "nextBlock": 6,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "……！",
                     "enText": "…!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 5300320665158343551
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 3165010312805686878
                 }
             ],
             "pathId": 1295926976393808257,
@@ -63,6 +108,17 @@
             "jpText": "次はお待ちかね、コーレスタイム☆\r\nお返事は『ファル子！』っでお願いだよっ！",
             "enText": "Next is the long awaited chorus time☆ The \nanswer is \"Falco! And please!",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 8226442267611680137
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 4847855670278080354
+                }
+            ],
             "pathId": -3717976473814787173,
             "blockIdx": 6
         },
@@ -72,11 +128,22 @@
             "jpText": "ふぁるふぁるふぁるふぁる～？\r\n……ッハイ！",
             "enText": "Fluffy Fluffy Fluffy~?…ッHi!",
             "nextBlock": 8,
+            "origClipLength": 59,
             "choices": [
                 {
                     "jpText": "……！？",
                     "enText": "…!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 1547409590069442416
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 2511951016694802458
                 }
             ],
             "pathId": 3909126415121217428,
@@ -88,6 +155,17 @@
             "jpText": "あれれ、ちょーっぴり照れちゃったかな？\r\nもっかいいくよーっ！",
             "enText": "Oh, I'm a bit shy, aren't \nI? I'll do it again!",
             "nextBlock": 9,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -8668522770624097299
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 5417501471831269671
+                }
+            ],
             "pathId": -5822393896751103710,
             "blockIdx": 8
         },
@@ -97,6 +175,7 @@
             "jpText": "ふぁるふぁるふぁるふぁる～！？\r\n……ッハイ！！",
             "enText": "Fluffy Fluffy Fluffy~!…ッhai!",
             "nextBlock": 10,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "ファ・ル・子～～～っ！",
@@ -109,6 +188,16 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -6983681154009495589
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5493462469537057713
+                }
+            ],
             "pathId": 2759667383959109441,
             "blockIdx": 9
         },
@@ -118,6 +207,17 @@
             "jpText": "いえーいっ！　ありがとーっ☆",
             "enText": "Yes! Thank you!",
             "nextBlock": 11,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -8640780497273213238
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 284174158934134894
+                }
+            ],
             "pathId": -2224358207740993612,
             "blockIdx": 10
         },
@@ -127,6 +227,17 @@
             "jpText": "えへへっ、やっぱコーレスって気持ちい～！\r\nどーせならもっと長いのも欲しいなぁ～！",
             "enText": "Hehehe, it feels so good to be a chorress! I \nwish I had a longer one!",
             "nextBlock": 12,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -3086649933432662302
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 356935494949057264
+                }
+            ],
             "pathId": 5538998305229775653,
             "blockIdx": 11
         },
@@ -136,6 +247,17 @@
             "jpText": "『レッツプリティ？』『ファ・ル・子～！』\r\n『キラキラウマドル？』『ファ・ル・子～！』",
             "enText": "\"Let's Pretty?\" Let's Pretty! \"Glittery \nUma-Doll?\" Let's Pretty!",
             "nextBlock": 13,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -7954544034459775161
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 3469202069143726444
+                }
+            ],
             "pathId": 460021586738467073,
             "blockIdx": 12
         },
@@ -145,6 +267,17 @@
             "jpText": "……みたいな！？　きゃーっ天才！",
             "enText": "Like…! Geez, genius!",
             "nextBlock": 14,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5520261968264168225
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -1813097153660880166
+                }
+            ],
             "pathId": 5253244486918642297,
             "blockIdx": 13
         },
@@ -154,6 +287,17 @@
             "jpText": "メモメモ～っ！",
             "enText": "Memo memo~!",
             "nextBlock": 15,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 516050746387760612
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -3014887495594496725
+                }
+            ],
             "pathId": 6829563777994817154,
             "blockIdx": 14
         },
@@ -163,6 +307,7 @@
             "jpText": "その後、図書室で熱心にノートを埋める\r\n彼女を見たという噂を聞いた。",
             "enText": "Later, I heard a rumour that she \nhad seen her in the library, diligently \nfilling in her notes.",
             "nextBlock": -1,
+            "origClipLength": 67,
             "pathId": 7148705474292713349,
             "blockIdx": 15
         },
@@ -172,6 +317,17 @@
             "jpText": "そっかぁ……！",
             "enText": "I see…!",
             "nextBlock": 17,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 6990676831588671479
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -5751659444694455890
+                }
+            ],
             "pathId": -52799158124717831,
             "blockIdx": 16
         },
@@ -181,6 +337,17 @@
             "jpText": "でもライブに照れはNG！\r\n照れなくなるまで頑張ろーねっ！",
             "enText": "But there's no need to be shy at live shows! \nLet's work hard until we're not shy anymore!",
             "nextBlock": 18,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -8776059401698668726
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6169168087772623511
+                }
+            ],
             "pathId": 2051282194721521880,
             "blockIdx": 17
         },
@@ -190,6 +357,17 @@
             "jpText": "ファル子がいーっぱい盛り上げるから、\r\n勇気出して、ノってこーっ！",
             "enText": "Falko is going to give you a lot of fun, so \nbe brave and come and join us!",
             "nextBlock": 19,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 1368571473326915375
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -2274724955833289909
+                }
+            ],
             "pathId": -6314813599360567126,
             "blockIdx": 18
         },
@@ -199,6 +377,17 @@
             "jpText": "いっくよ～っ☆",
             "enText": "Here I come!",
             "nextBlock": 20,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 4038252070273450554
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 8144606376205151803
+                }
+            ],
             "pathId": -6198773296857503541,
             "blockIdx": 19
         },
@@ -208,8 +397,20 @@
             "jpText": "その後、彼女の創意工夫により、\r\nいつの間にか楽しくレスポンスを\n返せるようになっていた。",
             "enText": "Then, with her ingenuity, before long she \nwas happily returning responses.",
             "nextBlock": -1,
+            "origClipLength": 74,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 5471596924026993472
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -709946846630743359
+                }
+            ],
             "pathId": -5693872888840092365,
             "blockIdx": 20
         }
-    ]
+    ],
+    "modified": 1669945963
 }

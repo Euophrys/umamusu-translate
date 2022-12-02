@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BX3RNJ5SAP2CGFEDE2FGB3FQMVVZLWU5",
     "type": "story",
     "storyId": "501030103",
@@ -11,6 +11,17 @@
             "jpText": "今日から『夏合宿』！\r\n実力向上のため強化トレーニングが始まる。",
             "enText": "Summer training camp\" starts today! \nStrengthening training begins to \nimprove our abilities.",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -1567350686673137407
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4834987497781821520
+                }
+            ],
             "pathId": -5125569488626127705,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "……はわわ、どうしよう。\r\nライス、合宿に来ちゃった。",
             "enText": "… Hawa, what should I do? Rice, \nI'm here for the camp.",
             "nextBlock": 3,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -4884933981169758735
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -7550039694190764690
+                }
+            ],
             "pathId": 1093377090304635611,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "たくさんのウマ娘さんがいるのに。\r\nもしライスのせいで不幸が起きたら――",
             "enText": "Even though there are a lot of huma \ngirls. If something unfortunate \nhappens because of Rice—",
             "nextBlock": 4,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "今、考えるべきことは違うよ？",
@@ -41,6 +64,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -469378700407251766
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4904102762082460518
+                }
+            ],
             "pathId": 5651242563304320250,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "……は！　うん！\r\nえっと……。",
             "enText": "… is! Yeah! Let's see…",
             "nextBlock": 5,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 2787284314985512746
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 7789477655271595538
+                }
+            ],
             "pathId": 8444025425894798934,
             "blockIdx": 4
         },
@@ -59,11 +103,22 @@
             "jpText": "次の『菊花賞』で、ブルボンさんに\r\n追いつけるようにがんばる……だよね。",
             "enText": "I'll do my best to catch up with \nBourbon at the next Kikka-sho…",
             "nextBlock": 6,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "上出来！",
                     "enText": "Get out on!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 4382435472022310510
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -6298727034583910889
                 }
             ],
             "pathId": -4363416831726807666,
@@ -75,6 +130,17 @@
             "jpText": "え、えへへ……。\r\nそんな、目標を言っただけだよ。",
             "enText": "Eh, eh… Oh no, I just said my goal.",
             "nextBlock": 7,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 3906487108394262547
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -7581754908312457146
+                }
+            ],
             "pathId": -8014987393296709953,
             "blockIdx": 6
         },
@@ -84,6 +150,17 @@
             "jpText": "ふふっ、よーし……合宿でも\r\nがんばれライス、がんばれー……！",
             "enText": "Hmm, okay… training camp. Good \nluck, Rice, good luck…!",
             "nextBlock": 8,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -968486659035351793
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 2267975069946795527
+                }
+            ],
             "pathId": -6739535447105516835,
             "blockIdx": 7
         },
@@ -93,6 +170,17 @@
             "jpText": "おーっ！",
             "enText": "Ooh!",
             "nextBlock": 9,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -6337128516471573315
+                },
+                {
+                    "origLen": 142,
+                    "pathId": 6321467940248324619
+                }
+            ],
             "pathId": 7539116542177756180,
             "blockIdx": 8
         },
@@ -102,8 +190,20 @@
             "jpText": "そして、ライスシャワーとの\r\n夏合宿がスタートした！！",
             "enText": "And so began the summer \ncamp with Rice Shower!",
             "nextBlock": -1,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 4047682520667549663
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -8517554848849044333
+                }
+            ],
             "pathId": -7328963118642397024,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945538
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PJPI7M5H52YSTXWVGOW3QO6AJNIRUTNA",
     "type": "story",
     "storyId": "501040600",
@@ -11,6 +11,7 @@
             "jpText": "すっごい熱気……\r\nファッションショーの時以上じゃん。",
             "enText": "That's a lot of heat… It's \nmore than at a fashion show.",
             "nextBlock": 2,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "みんな君の走りを観に来ている",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -3866749530033527173
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -7304509424992159170
+                }
+            ],
             "pathId": 6698598363124056693,
             "blockIdx": 1
         },
@@ -32,6 +43,17 @@
             "jpText": "アタシの走り、か……。",
             "enText": "Atashi's Run, or…",
             "nextBlock": 3,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -2012669691346289932
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -7776379790120572802
+                }
+            ],
             "pathId": -486014784186623641,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "……ダサい走り、できないし。\r\nこっからは上げてかないと。",
             "enText": "… lame run, and I can't do it. \nI have to raise it from here.",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -4112000194349918116
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -7092978809544772398
+                }
+            ],
             "pathId": -6885308128076163826,
             "blockIdx": 3
         },
@@ -50,8 +83,20 @@
             "jpText": "このランウェイ、\r\n全力で駆け抜ける……！",
             "enText": "I'm going to run as fast as I \ncan on this runway…!",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -779190981938759515
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5364441450566302578
+                }
+            ],
             "pathId": 1124793369815692056,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945687
 }

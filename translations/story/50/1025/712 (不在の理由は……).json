@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "TNBI3VBAZEO5K4BZO7G2S2KQO6ZPSOZL",
     "type": "story",
     "storyId": "501025712",
@@ -11,6 +11,21 @@
             "jpText": "トレーニングに来ないマンハッタンカフェを\r\n心配して探していたところ、\n虚空に向かって手を振る彼女を見つけた……。",
             "enText": "I was looking for Manhattan Cafe, who hadn't\nshown up for training, out of concern, and\nfound her waving at the void…",
             "nextBlock": 2,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 1880217065284935131
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 6340817356787690603
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 2865263878297412376
+                }
+            ],
             "pathId": -8900073222546077869,
             "blockIdx": 1
         },
@@ -20,11 +35,26 @@
             "jpText": "…………さようなら。\r\n……寄り道せず帰ってね……。",
             "enText": "Goodbye… Don't stop\nby… and go home…",
             "nextBlock": 3,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "……誰に声を？",
                     "enText": "… Who are you talking to?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -1261985828915170486
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4090390871818865182
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6242057068639422713
                 }
             ],
             "pathId": -2475099558566930394,
@@ -36,6 +66,21 @@
             "jpText": "……ああ、トレーナーさん……。\r\n迷子の子がいたので、道案内を…………。",
             "enText": "… Oh, trainer… There\nwas a lost child, so I gave her\ndirections…",
             "nextBlock": 4,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 867336272270961754
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 506826219145024695
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 778762594095908848
+                }
+            ],
             "pathId": 2869225115671683100,
             "blockIdx": 3
         },
@@ -45,11 +90,22 @@
             "jpText": "……では、\r\nトレーニングへ向かいましょうか……。",
             "enText": "Let's head to… for training…",
             "nextBlock": 5,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "もう時間は過ぎてるよ……",
                     "enText": "It's already past time…",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -6851215627537399056
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -7586659622609955475
                 }
             ],
             "pathId": 4330462984751257468,
@@ -61,6 +117,17 @@
             "jpText": "…………日が暮れてる……？",
             "enText": "… The sun is setting…?",
             "nextBlock": 6,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -8207046531712531439
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5581045163367039183
+                }
+            ],
             "pathId": 5893052665528974569,
             "blockIdx": 5
         },
@@ -70,6 +137,17 @@
             "jpText": "…………話したのは、数秒のはずですが……。",
             "enText": "I talked to… for what should\nhave been a few seconds…",
             "nextBlock": 7,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -7514416575642372846
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 8210531329554542608
+                }
+            ],
             "pathId": -266752241436706588,
             "blockIdx": 6
         },
@@ -79,6 +157,17 @@
             "jpText": "…………いえ、関係ありませんね。\r\nすみません……以後、気をつけます……。",
             "enText": "… No, it's not related.\nI'm sorry… I'll be careful\nafter that…",
             "nextBlock": 8,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -3930738260855479464
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 6344868641037461835
+                }
+            ],
             "pathId": -6225420906528854277,
             "blockIdx": 7
         },
@@ -88,8 +177,20 @@
             "jpText": "彼女はとても反省しているようだ。\r\nそれに、気をつけるとの事なので、\nこれ以上詳しく聞くのはやめておこう……。",
             "enText": "She seems to be very remorseful. She also\nsaid she would be careful, so I'll stop\nasking her any more details…",
             "nextBlock": -1,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 2492046409587983858
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 7969802955067656546
+                }
+            ],
             "pathId": -1569728911442678887,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669946372
 }

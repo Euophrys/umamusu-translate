@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "YX74C4EJWL6K6JRNX737R7CTSJVHPZHV",
     "type": "story",
     "storyId": "501008400",
@@ -11,6 +11,7 @@
             "jpText": "幼き⽇に観戦した『⽇本ダービー』の熱戦に\r\n憧れを抱き、カッコいいウマ娘になりたいと\n燃えるウオッカ。",
             "enText": "Vodka is fascinated by the Japanese Derby, \nwhich she watched on her childhood days, and \nwants to become a cool horse girl.",
             "nextBlock": 2,
+            "origClipLength": 111,
             "coloredText": [
                 {
                     "jpText": "⽇本ダービー",
@@ -19,6 +20,16 @@
                 {
                     "jpText": "ウオッカ",
                     "enText": "vodka"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -4983487435564113846
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 3776391309045423650
                 }
             ],
             "pathId": 3570320583635462043,
@@ -30,6 +41,7 @@
             "jpText": "憧れのナリタブライアンに認められ、\r\n妙に絡んでくるダイワスカーレットを\nはねのけるために――",
             "enText": "To win the approval of the adored Naritabu \nRyan, and to fend off the strangely \nentangled Daiwa Scarlet.",
             "nextBlock": 3,
+            "origClipLength": 106,
             "coloredText": [
                 {
                     "jpText": "ナリタブライアン",
@@ -38,6 +50,16 @@
                 {
                     "jpText": "ダイワスカーレット",
                     "enText": "Daiwa Scarlet"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 4282807485870701858
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -4880454296474675804
                 }
             ],
             "pathId": -3959080929692969935,
@@ -49,14 +71,26 @@
             "jpText": "トゥインクル・シリーズという\r\nスタートラインに立ったウオッカは、\n盛大に、心のエンジンをふかすのだった。",
             "enText": "Standing at the starting line of the Twinkle \nSeries, Vodka fired up the engine of her \nheart with a bang.",
             "nextBlock": -1,
+            "origClipLength": 114,
             "coloredText": [
                 {
                     "jpText": "トゥインクル・シリーズ",
                     "enText": "Twinkle Series"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": -7904561466595970066
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 5138007700862006811
+                }
+            ],
             "pathId": -6189510477457101886,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945038
 }

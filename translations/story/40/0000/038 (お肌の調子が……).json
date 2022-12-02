@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BUEB35K4CEDW5TUOBXGLHZ2JZ6BCRY77",
     "type": "story",
     "storyId": "400000038",
@@ -11,6 +11,13 @@
             "jpText": "<chrname>が洗面台の前で\r\n困った顔をしている……。",
             "enText": "<chrname> is at the sink, looking troubled…",
             "nextBlock": 2,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 3155020962288884001
+                }
+            ],
             "pathId": -7112598346947975168,
             "blockIdx": 1
         },
@@ -20,8 +27,16 @@
             "jpText": "どうやら、お肌の調子が悪いみたいだ……。",
             "enText": "Apparently, her skin is not in good shape…",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -490871910875015103
+                }
+            ],
             "pathId": 7131726909450543316,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944803
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "R6E4XZ2RTLPDSYUOH5LMD3DNK7CCKIBW",
     "type": "story",
     "storyId": "501006417",
@@ -11,6 +11,7 @@
             "jpText": "『天皇賞（春）』のレースは、\r\nタマモクロスの独壇場となった。",
             "enText": "The race for Tennou-shou (Spring) \nwas Tamamo Cross' sole domain.",
             "nextBlock": 2,
+            "origClipLength": 65,
             "coloredText": [
                 {
                     "jpText": "天皇賞（春）",
@@ -26,8 +27,20 @@
             "jpText": "疾風迅雷の如き走りを目にし、\r\nオグリキャップは闘志を燃やすのだった。",
             "enText": "Oguri Cap was fired up by the sight of such \na fast and furious run.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": 3706015230614391694
+                },
+                {
+                    "origLen": 220,
+                    "pathId": 253919472686596522
+                }
+            ],
             "pathId": 6651695169177765119,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944978
 }

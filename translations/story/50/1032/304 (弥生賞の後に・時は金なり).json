@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "XCPOR2OUD6LAE4QFBWPXFVVZS2SISTSO",
     "type": "story",
     "storyId": "501032304",
@@ -11,11 +11,22 @@
             "jpText": "フー……。",
             "enText": "Hu…",
             "nextBlock": 2,
+            "origClipLength": 48,
             "choices": [
                 {
                     "jpText": "タキオン、いい走りだった！",
                     "enText": "Tachyon, that was a great run!",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -6629727949295498775
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -73054649933332094
                 }
             ],
             "pathId": 4775708611890015527,
@@ -27,6 +38,17 @@
             "jpText": "ああ、トレーナー君！\r\nここまではまぁ、ね。",
             "enText": "Oh, my trainer! So far, so good.",
             "nextBlock": 3,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -4310068132144336997
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 8361506972468934519
+                }
+            ],
             "pathId": 7510558637339986034,
             "blockIdx": 2
         },
@@ -36,6 +58,7 @@
             "jpText": "しかし、次は『皐月賞』か……。\r\nそれなりに準備が必要だな。",
             "enText": "However, the next step is \"Satsuki-sho\" or\n… I'll need to prepare accordingly.",
             "nextBlock": 4,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "ああ、トレーニング、頑張ろう！",
@@ -48,6 +71,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 8240303026127362596
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 7158083405115607791
+                }
+            ],
             "pathId": 5203562940043929509,
             "blockIdx": 3
         },
@@ -57,11 +90,22 @@
             "jpText": "トレーニングというか……\r\nまぁ、君はそうだろうな。",
             "enText": "It's called training…\nWell, I guess you are.",
             "nextBlock": 5,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "……？",
                     "enText": "…?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3202567878413330896
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 4041344620615153540
                 }
             ],
             "pathId": 6597863765956386437,
@@ -73,6 +117,17 @@
             "jpText": "いや、気にするな。こちらの話さ。",
             "enText": "No, don't worry about it.\nI'm talking to you.",
             "nextBlock": 6,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 2863549754327998076
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -303368572151573667
+                }
+            ],
             "pathId": -5198182098990462686,
             "blockIdx": 5
         },
@@ -82,8 +137,20 @@
             "jpText": "さーて、タイム・イズ・マネーだ！\r\nさっさと帰って研究研究！",
             "enText": "Okay, time is money! Now go\nhome and do your research!",
             "nextBlock": -1,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 5937382670428354321
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4701158545264736686
+                }
+            ],
             "pathId": -4190058559820650169,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945578
 }

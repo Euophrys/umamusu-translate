@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "UVGHQT234XLX2BOVTZVF5EYCLMIUURMC",
     "type": "story",
     "storyId": "820009001",
@@ -11,6 +11,17 @@
             "jpText": "ふと、ジムで黙々とトレーニングをこなす\r\nミホノブルボンに気づいた。",
             "enText": "I noticed Michonobourbon in the \ngym, working out in silence.",
             "nextBlock": 2,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 8473963064890880105
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 1219623180851103824
+                }
+            ],
             "pathId": -7717422369665308780,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "ふっ……ふっ……ふっ……ふっ……。",
             "enText": "Phew… phew… phew … phew…",
             "nextBlock": 3,
+            "origClipLength": 117,
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -6492391033556870309
+                },
+                {
+                    "origLen": 164,
+                    "pathId": -2712721120111072718
+                }
+            ],
             "pathId": -9184265463991969253,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "とてもハードなトレーニングを、\r\n休まずに2時間近く続けている気がする。",
             "enText": "I feel like I've been training very hard for \nnearly two hours without a break.",
             "nextBlock": 4,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "そろそろ休憩を取ったら？",
                     "enText": "It's time to take a break.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 6557967245689598375
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4539357103039385416
                 }
             ],
             "pathId": -2811539944045858703,
@@ -45,6 +78,17 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 5,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 2605837652551608985
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5932370545299556533
+                }
+            ],
             "pathId": -792126140374660517,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "お声がけ感謝します。\r\n思考に没入していました。",
             "enText": "Thanks for the call. I was \nimmersed in thought.",
             "nextBlock": 6,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 5870930394777738606
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5882245658108438415
+                }
+            ],
             "pathId": 7036005176940910263,
             "blockIdx": 5
         },
@@ -63,11 +118,22 @@
             "jpText": "――ひとつ確認事項があります。\r\nあなたは私に恐怖を感じていますか？",
             "enText": "—There is one thing to check. \nDo you feel fear for me?",
             "nextBlock": 7,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "怖くはないけど……どうして？",
                     "enText": "I'm not scared, but… why?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -6292032986586492590
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3581159899292369842
                 }
             ],
             "pathId": -180960031352712531,
@@ -79,6 +145,17 @@
             "jpText": "私は以前から、学園内の生徒たちから、\r\nサイボーグなのではと噂されていました。",
             "enText": "I have long been rumoured to be a cyborg by \nthe students of the school.",
             "nextBlock": 8,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 1134229583506937024
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 4650370819909641822
+                }
+            ],
             "pathId": 9023841902917456986,
             "blockIdx": 7
         },
@@ -88,6 +165,17 @@
             "jpText": "突拍子もない話に驚きつつも、\r\n少し気になったので、\n詳しい話を聞くことにした。",
             "enText": "I was surprised by the unexpected story, but \na little curious, so I decided to ask for \nmore information.",
             "nextBlock": 9,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 775005105960330874
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 107646630446717537
+                }
+            ],
             "pathId": 3421108766860115360,
             "blockIdx": 8
         },
@@ -97,6 +185,17 @@
             "jpText": "否定も肯定もせずにいたところ、\r\n噂に尾ひれがついてしまい……。",
             "enText": "After neither denying nor confirming it, the \nrumours started to grow…",
             "nextBlock": 10,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -62817436521653785
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 7990762782108697842
+                }
+            ],
             "pathId": 3047089615943358647,
             "blockIdx": 9
         },
@@ -106,6 +205,17 @@
             "jpText": "聞いた！？　ミホノブルボンさんって、\r\n目からビーム出せるんだって！",
             "enText": "Did you hear? Miho Bourbon \ncan beam out of her eyes!",
             "nextBlock": 11,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 2666918691081427312
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -778515243388532230
+                }
+            ],
             "pathId": 8055043964619129451,
             "blockIdx": 10
         },
@@ -115,6 +225,7 @@
             "jpText": "マジで！？\r\n口からロケットも出せるんでしょ！？",
             "enText": "Seriously! I thought you could shoot \nrockets out of your mouth!",
             "nextBlock": 12,
+            "origClipLength": 76,
             "pathId": -1383441109644373256,
             "blockIdx": 11
         },
@@ -124,6 +235,7 @@
             "jpText": "噂は噂を呼び、より巨大なものへと\r\n変化していきました。",
             "enText": "Rumour followed rumour, which turned into \nsomething much bigger.",
             "nextBlock": 13,
+            "origClipLength": 81,
             "pathId": -14796493011435713,
             "blockIdx": 12
         },
@@ -133,6 +245,7 @@
             "jpText": "そしてついには、\r\n落としたタオルを渡しただけで――",
             "enText": "And finally, just for handing \nover a dropped towel…",
             "nextBlock": 14,
+            "origClipLength": 78,
             "pathId": 7524508954281357260,
             "blockIdx": 13
         },
@@ -142,6 +255,7 @@
             "jpText": "許してください！！！\r\nビームだけは！！　ビームだけは～～～！！！",
             "enText": "Please forgive me! Only the \nbeam! Only the beam~!",
             "nextBlock": 15,
+            "origClipLength": 88,
             "pathId": -7912532297667367733,
             "blockIdx": 14
         },
@@ -151,6 +265,17 @@
             "jpText": "私は、他人からの評価は気になりません。",
             "enText": "I don't care what others think of me.",
             "nextBlock": 16,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -736437604047228039
+                },
+                {
+                    "origLen": 160,
+                    "pathId": 2405967448672305997
+                }
+            ],
             "pathId": 743991010374609191,
             "blockIdx": 15
         },
@@ -160,6 +285,21 @@
             "jpText": "ただ不本意とはいえ、恐怖を与えている点は\r\n気にすべきことだと判断しています。",
             "enText": "However, we have decided that we should be \nconcerned about the fact that we are causing \nfear, albeit unwillingly.",
             "nextBlock": 17,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 713254387296905290
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -2715281032428689616
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 279544367948428541
+                }
+            ],
             "pathId": -8440652180779800098,
             "blockIdx": 16
         },
@@ -169,6 +309,21 @@
             "jpText": "先ほどは、これらの解決方法を\r\n模索していたところだったのです。",
             "enText": "Earlier, we were looking for solutions \nto these problems.",
             "nextBlock": 18,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8257721148820535245
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 4506327419559882191
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6641013259044671002
+                }
+            ],
             "pathId": 4118867951470037844,
             "blockIdx": 17
         },
@@ -178,6 +333,7 @@
             "jpText": "もし、あなたがよい解決方法をご存知なら、\r\nご教示いただけないでしょうか。",
             "enText": "If you know of a better solution, \nplease let us know.",
             "nextBlock": 19,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "表情筋を鍛えよう！",
@@ -190,6 +346,16 @@
                     "nextBlock": 27
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -7490514177688938338
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -9160170810854786094
+                }
+            ],
             "pathId": 7715384156735249078,
             "blockIdx": 18
         },
@@ -199,6 +365,17 @@
             "jpText": "なるほど、無表情の克服ですか。",
             "enText": "I see, overcoming the expressionlessness.",
             "nextBlock": 20,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 1439292713715011237
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 8296569685390470637
+                }
+            ],
             "pathId": 8446368242776491964,
             "blockIdx": 19
         },
@@ -208,6 +385,17 @@
             "jpText": "確かに、私は表情が薄いという評価を\r\n非常に高い確率で受けてきました。",
             "enText": "Indeed, I have had a very high rate of \nreputation for being faceless.",
             "nextBlock": 21,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -3397800648627930825
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -4840342064134159899
+                }
+            ],
             "pathId": 7298757856802867345,
             "blockIdx": 20
         },
@@ -217,6 +405,21 @@
             "jpText": "貴重な助言、感謝いたします。早急に、\r\n表情筋トレーニングを開始いたします。",
             "enText": "Thank you very much for your valuable \nadvice. I will start working on my facial \nmuscles as soon as possible.",
             "nextBlock": 22,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 4888382548292224591
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6268103115757441256
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -5152888143802378751
+                }
+            ],
             "pathId": -8122475433814067645,
             "blockIdx": 21
         },
@@ -226,6 +429,17 @@
             "jpText": "その後、彼女が黙々と\r\n表情筋トレーニングをしている姿が見られ――",
             "enText": "Afterwards, she's seen quietly doing \nfacial muscle training—",
             "nextBlock": 23,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -4923901073111765958
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 4686869075532100914
+                }
+            ],
             "pathId": 8061788673538089664,
             "blockIdx": 22
         },
@@ -235,6 +449,17 @@
             "jpText": "皆さん、お疲れ様です。",
             "enText": "Thank you all for your hard work.",
             "nextBlock": 24,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -1882708659797222119
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4873071570332118004
+                }
+            ],
             "pathId": 6500531557168943509,
             "blockIdx": 23
         },
@@ -244,6 +469,17 @@
             "jpText": "か、かわいい笑顔……。\r\n本当にサイボーグ……？",
             "enText": "Ka, cute smile… Are you really a cyborg…?",
             "nextBlock": 25,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 2302296842042739107
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -837638770696245176
+                }
+            ],
             "pathId": -8131672871844133053,
             "blockIdx": 24
         },
@@ -253,6 +489,17 @@
             "jpText": "全然怖くないよ……！\r\nやっぱ普通にウマ娘じゃん……！",
             "enText": "It's not scary at all…! I knew it, \nit's just a normal Uma Musume…!",
             "nextBlock": 26,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 2628044020051981252
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 3227676324697568278
+                }
+            ],
             "pathId": -5991126927683304332,
             "blockIdx": 25
         },
@@ -262,6 +509,17 @@
             "jpText": "誤解は無事解けたようだった。",
             "enText": "The misunderstanding seemed to have been \nsuccessfully resolved.",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -3790250457102681459
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2635582340512779428
+                }
+            ],
             "pathId": 7136481175504732010,
             "blockIdx": 26
         },
@@ -271,6 +529,17 @@
             "jpText": "抑揚……声の調子を上げ下げすることですね。\r\nなるほど。",
             "enText": "Inflection… It's the raising and lowering of \nthe tone of your voice. I see.",
             "nextBlock": 28,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 2834173480422738950
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 4182075593762916664
+                }
+            ],
             "pathId": 5697728594467610576,
             "blockIdx": 27
         },
@@ -280,6 +549,17 @@
             "jpText": "無機質な声色が誤解の根幹にあった可能性は\r\n十分にあります。",
             "enText": "It is quite possible that the inorganic tone \nof voice was at the root of the \nmisunderstanding.",
             "nextBlock": 29,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 2966051983954577522
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 490962105891651436
+                }
+            ],
             "pathId": -5974360643066210271,
             "blockIdx": 28
         },
@@ -289,6 +569,21 @@
             "jpText": "状況を把握、抑揚をインプット。\r\n貴重な助言、感謝いたします。",
             "enText": "Understand the situation and input \nthe inflection. Thank you for \nyour valuable advice.",
             "nextBlock": 30,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 3345608806561240901
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 5916872110464943888
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -8766205205274404996
+                }
+            ],
             "pathId": 8587549171072690844,
             "blockIdx": 29
         },
@@ -298,6 +593,17 @@
             "jpText": "そしてミホノブルボンは、\r\n自分なりに抑揚をつけ始めた。しかし――",
             "enText": "And so Mihonobourbon began to make \nher own intonations. But…",
             "nextBlock": 31,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -3115536718798927566
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -883465913912619195
+                }
+            ],
             "pathId": 7940398118831459283,
             "blockIdx": 30
         },
@@ -307,6 +613,17 @@
             "jpText": "皆さん～～～～ん～～～ん～～～。\r\nおつかれ～～～さま～～～で～～～す～～～。",
             "enText": "Ladies and gentlemen, ～～～～ hmmm~~~. Good \nnight~sama~sama~de~sama~de~sama~de~sama",
             "nextBlock": 32,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": 8187103130589403762
+                },
+                {
+                    "origLen": 129,
+                    "pathId": -6071988599478138310
+                }
+            ],
             "pathId": 486445756575252667,
             "blockIdx": 31
         },
@@ -316,6 +633,17 @@
             "jpText": "……。\r\nなんで吟じてるの……？",
             "enText": "… Why are you examining…?",
             "nextBlock": 33,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 1389189047514620829
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3650100967216854058
+                }
+            ],
             "pathId": -434567372951722281,
             "blockIdx": 32
         },
@@ -325,6 +653,17 @@
             "jpText": "わ、わかんない……。\r\nアップデートしたのかな……。",
             "enText": "Wha, I don't know… Have you updated…?",
             "nextBlock": 34,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7662627090875793934
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8720836791681899907
+                }
+            ],
             "pathId": 8284471553832334243,
             "blockIdx": 33
         },
@@ -334,6 +673,17 @@
             "jpText": "さらに怯えさせる結果となってしまった。",
             "enText": "The result was to frighten them even more.",
             "nextBlock": 35,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 3485942482151406458
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6864070091591690181
+                }
+            ],
             "pathId": 1152710973227355879,
             "blockIdx": 34
         },
@@ -343,6 +693,21 @@
             "jpText": "……。\r\n新たな解決方法の模索を開始します。",
             "enText": "… We will start looking for new solutions.",
             "nextBlock": 36,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -9087777943487734159
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 4140299610908723611
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -7104215116881589813
+                }
+            ],
             "pathId": -1036471443413995309,
             "blockIdx": 35
         },
@@ -352,8 +717,24 @@
             "jpText": "その後、別の解決方法を考えるあまり、\r\nトレーニングに身が入らなかったようだった。",
             "enText": "Afterwards, she seemed to have lost interest \nin training because she was thinking of \nother solutions.",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 6170221725317264386
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -2517314029656963622
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7945510889823511760
+                }
+            ],
             "pathId": 3399042334905467613,
             "blockIdx": 36
         }
-    ]
+    ],
+    "modified": 1669945987
 }

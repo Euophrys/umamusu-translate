@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DYR2VBOUJ65SRNO4DGZ4KSOUHRQ7FXAB",
     "type": "story",
     "storyId": "809004010",
@@ -11,6 +11,7 @@
             "jpText": "トレーニングも終わり、\r\n1人廊下を歩いていると――",
             "enText": "My training is over and I'm walking \nalone down the corridor.",
             "nextBlock": 2,
+            "origClipLength": 61,
             "pathId": -1797632403445838492,
             "blockIdx": 1
         },
@@ -20,11 +21,22 @@
             "jpText": "<username>トレーナー！\r\nお疲れ様です！",
             "enText": "Trainer <username>! Good work!",
             "nextBlock": 3,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "桐生院トレーナー、お疲れ様です",
                     "enText": "Thank you for your hard \nwork, Trainer Kiryuin!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -339768597290947595
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 6143977168775700123
                 }
             ],
             "pathId": -7852999256137926536,
@@ -36,6 +48,17 @@
             "jpText": "それにしても……\r\nこの3年間、色々なことがありましたね。",
             "enText": "Nevertheless… a lot has happened \nin the last three years.",
             "nextBlock": 4,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3343847092938039230
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2392532340491882411
+                }
+            ],
             "pathId": 8480270380497076382,
             "blockIdx": 3
         },
@@ -45,6 +68,21 @@
             "jpText": "短いながらも、これまで生きてきて\r\n1番思い出に残る3年間だったと思います。",
             "enText": "It has been a short but memorable \nthree years of my life.",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 7113752368559193920
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8473543016528980833
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8087471492167589116
+                }
+            ],
             "pathId": 6567877354490693702,
             "blockIdx": 4
         },
@@ -54,6 +92,21 @@
             "jpText": "正直、こんなに話せる仲間ができるとは、\r\n思ってもいなかったので。",
             "enText": "To be honest, I never thought I'd have so \nmany people to talk to.",
             "nextBlock": 6,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 3242476628047764523
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -8802080632126364843
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -2400810992447586074
+                }
+            ],
             "pathId": -4891026190045481679,
             "blockIdx": 5
         },
@@ -63,6 +116,21 @@
             "jpText": "おかげで、多くを学べました。\r\n本当に、ありがとうございます。",
             "enText": "I have learnt a lot thanks to \nyou. Thank you very much.",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -3266804279265251770
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5442870794702537583
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4430485055732375206
+                }
+            ],
             "pathId": -711792629032862288,
             "blockIdx": 6
         },
@@ -72,11 +140,22 @@
             "jpText": "<username>トレーナー。改めて、\r\nこれからも、どうぞよろしくお願いします！",
             "enText": "Trainer <username>. Once again, I look \nforward to working with you!",
             "nextBlock": 8,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "こちらこそ！",
                     "enText": "Me too!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 8315332060454918621
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5312794953524514712
                 }
             ],
             "pathId": 8312204238138834310,
@@ -88,6 +167,21 @@
             "jpText": "同じトレーナーとして、\r\n今後も力を合わせて頑張りましょうっ。",
             "enText": "As trainers, we will continue \nto work together.",
             "nextBlock": 9,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 3482725182974862762
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 6215575192725031569
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2893120936050052492
+                }
+            ],
             "pathId": 5816409265326369081,
             "blockIdx": 8
         },
@@ -97,6 +191,21 @@
             "jpText": "それであの、もしよければこれから\r\nミークと<chrname>さんも\n誘って……。",
             "enText": "So, um, if you'd like to join \nMeek and <chrname>…",
             "nextBlock": 10,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -5961642057348322468
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -104689367882459595
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3805468948291892990
+                }
+            ],
             "pathId": -1078241833854187663,
             "blockIdx": 9
         },
@@ -106,6 +215,21 @@
             "jpText": "お疲れ様パーティーと言いますか\r\n……ええっと……。",
             "enText": "We call it a good night party … uh…",
             "nextBlock": 11,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 4323158050042553304
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1262307015546378714
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5369633699154711139
+                }
+            ],
             "pathId": 7042052067668768155,
             "blockIdx": 10
         },
@@ -115,6 +239,21 @@
             "jpText": "一緒に、カラオケなどいかがでしょうかっ。\r\n僭越ながら、お店は調べてあるんですっ。",
             "enText": "Would you like to join us for karaoke? I'm \nsorry to be presumptuous, but I've already \nchecked out the place.",
             "nextBlock": 12,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -2980552542809478782
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4514624019369122342
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5216592571635996427
+                }
+            ],
             "pathId": -229126611159741897,
             "blockIdx": 11
         },
@@ -124,11 +263,26 @@
             "jpText": "食事も美味しく、若者に流行りのお店を！\r\nきっとあの子たちにも喜んでもらえるかと！",
             "enText": "Good food, trendy place for youngsters! I'm \nsure those boys will love it!",
             "nextBlock": 13,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "行きましょう！",
                     "enText": "Let's go!",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -1004281737642767822
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 1850179380621504624
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4753689723409541011
                 }
             ],
             "pathId": 6111625063626800021,
@@ -140,6 +294,22 @@
             "jpText": "はいっ！　リモコン操作はバッチリですっ。\r\nお食事をご注文の際は、お気軽にどうぞ！",
             "enText": "Yes! The remote control operation is \nperfect. Feel free to order your meal!",
             "nextBlock": 14,
+            "origClipLength": 71,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 8092790928923315851
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -9155515765809576949
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2029749163637371338
+                }
+            ],
             "pathId": 6414881337008484582,
             "blockIdx": 13
         },
@@ -149,6 +319,30 @@
             "jpText": "<chrname>とハッピーミークを\r\n呼び出し、みんなで歌と食事を楽しんだ。",
             "enText": "We called up <chrname> and Happy Meek, and \neveryone enjoyed a song and a meal together.",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 1623704932330680967
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -1028910055769569025
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -7687998053011448588
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -6108507045429396771
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -5638955560932183074
+                }
+            ],
             "pathId": 8631014410778905559,
             "blockIdx": 14
         },
@@ -158,9 +352,33 @@
             "jpText": "<chrname>とハッピーミークを\r\n呼び出し、みんなで歌と食事を楽しんだ。",
             "enText": "We called up <chrname> and Happy Meek, and \neveryone enjoyed a song and a meal together.",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -3151402306693072689
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -9183288372582521657
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 2141115306619509890
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 7274306986095174641
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 4837829904466115902
+                }
+            ],
             "pathId": 3066562975319514796,
             "blockIdx": 15
         }
     ],
-    "modified": 1661711800
+    "modified": 1669945981
 }

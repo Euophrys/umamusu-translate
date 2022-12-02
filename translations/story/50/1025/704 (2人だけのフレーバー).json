@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "5X2UAR76L45T6TPCFNNPIZN2ZICMQWBH",
     "type": "story",
     "storyId": "501025704",
@@ -11,6 +11,17 @@
             "jpText": "マンハッタンカフェとのお出かけの後、\r\n学園の校門まで帰ってくると――",
             "enText": "I was walking back to the school gate after\na day out with Manhattan Cafe.",
             "nextBlock": 2,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -6821636529285897633
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 1937873506434506828
+                }
+            ],
             "pathId": -4301902326032074039,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "……トレーナーさん。",
             "enText": "… Trainer.",
             "nextBlock": 3,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 7797833037664790651
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -655611912092173798
+                }
+            ],
             "pathId": 6971866235950856844,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "よかったらこの後また……\r\nコーヒー、いかがですか……。",
             "enText": "If you'd like, I'll see you later at…\nCoffee, if you'd like…",
             "nextBlock": 4,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -6445748816326100348
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 3569621213241817572
+                }
+            ],
             "pathId": -1495289343353575117,
             "blockIdx": 3
         },
@@ -38,11 +71,22 @@
             "jpText": "トレーナーさんに……\r\n味わってほしい豆があるんです……。",
             "enText": "I have some beans that I want my\ntrainer to… taste…",
             "nextBlock": 5,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "いただこうかな",
                     "enText": "I'll take that.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -5471619762806797041
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -2017600351211437617
                 }
             ],
             "pathId": -7631949309006505013,
@@ -54,6 +98,17 @@
             "jpText": "……ありがとうございます。",
             "enText": "Thank you for…",
             "nextBlock": 6,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7690287295202001522
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4974814938195353028
+                }
+            ],
             "pathId": 9084604388908366511,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "では、しっかりと私を見て……\r\nついてきてください……。",
             "enText": "Now, look at me closely…\nand follow me…",
             "nextBlock": 7,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -1960627802976819878
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 3845082671251403417
+                }
+            ],
             "pathId": 2645518995218411473,
             "blockIdx": 6
         },
@@ -72,6 +138,17 @@
             "jpText": "マンハッタンカフェに案内されたのは、\r\n学園内の彼女の私的スペースであった。",
             "enText": "She was led to the Manhattan Cafe, her\nprivate space on campus.",
             "nextBlock": 8,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": -2600105258126649194
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -968639308554977485
+                }
+            ],
             "pathId": -690928079355815443,
             "blockIdx": 7
         },
@@ -81,6 +158,21 @@
             "jpText": "さっき言った豆は、これです……。",
             "enText": "The beans I mentioned earlier\nare these…",
             "nextBlock": 9,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -1614829363142074286
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3914284439504727659
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -773967377819976497
+                }
+            ],
             "pathId": 4897079518114218229,
             "blockIdx": 8
         },
@@ -90,6 +182,21 @@
             "jpText": "マンハッタンカフェはそう言って、\r\n卓上に透明な瓶に入れて置かれた\nまだ挽かれてない状態の豆を示す。",
             "enText": "The Manhattan Cafe said, showing me the\nunground beans in a clear jar on the table.",
             "nextBlock": 10,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": 3599635640994824448
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -6011895682991954593
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 4517001794815366424
+                }
+            ],
             "pathId": 8620936913320971221,
             "blockIdx": 9
         },
@@ -99,11 +206,26 @@
             "jpText": "これは……私のコーヒーノキから……\r\n収穫した豆を……私が焙煎したものです……。",
             "enText": "This is… beans harvested from my\ncoffee tree… and roasted by me…",
             "nextBlock": 11,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "それって――",
                     "enText": "Is that—",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6530518330324151669
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 5046242008561247027
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 1163487480171808869
                 }
             ],
             "pathId": 5748531351961669245,
@@ -115,6 +237,17 @@
             "jpText": "1本のコーヒーノキが……\r\n実が収穫できるぐらいに成長するのには……\n早くても……3年、かかります。",
             "enText": "It can take up to…3 years for a\nsingle coffee tree to grow to the point\nwhere it can be harvested.",
             "nextBlock": 12,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 167,
+                    "pathId": 4694796115199548435
+                },
+                {
+                    "origLen": 183,
+                    "pathId": -1839173814361424743
+                }
+            ],
             "pathId": -2217910003389811987,
             "blockIdx": 11
         },
@@ -124,6 +257,17 @@
             "jpText": "それに、収穫できるのは……\r\n1年に1回だけで……。",
             "enText": "Besides, it can only be harvested…\nonce a year and…",
             "nextBlock": 13,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -1926006076983687952
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7413394244630480247
+                }
+            ],
             "pathId": 2294776739322212222,
             "blockIdx": 12
         },
@@ -133,6 +277,7 @@
             "jpText": "これは、マンハッタンカフェが自分で育てた\r\nコーヒーノキから収穫し加工した\n貴重な豆に違いなかった。",
             "enText": "These must have been the precious beans that\nManhattan Cafe harvested and processed from\nthe coffee tree that they grew themselves.",
             "nextBlock": 14,
+            "origClipLength": 110,
             "choices": [
                 {
                     "jpText": "……こんな貴重なもの、いいのか？",
@@ -145,6 +290,16 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": 5537697300589658065
+                },
+                {
+                    "origLen": 207,
+                    "pathId": 7822861049294050754
+                }
+            ],
             "pathId": -1542979202423971448,
             "blockIdx": 13
         },
@@ -154,6 +309,17 @@
             "jpText": "……貴重だからこそ、です。",
             "enText": "It's because… is valuable.",
             "nextBlock": 15,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 391425722317174803
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -5271170075670172795
+                }
+            ],
             "pathId": 7794057895875947303,
             "blockIdx": 14
         },
@@ -163,6 +329,17 @@
             "jpText": "トレーナーさんの好みに合わせて……\r\n私が焙煎しました……。\nきっと……飲みやすいと思います。",
             "enText": "I roasted… my own to suit the\ntrainer's taste… I'm sure it will be\n… easy to drink.",
             "nextBlock": 16,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -5987138674124036417
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 4280079065367326569
+                }
+            ],
             "pathId": 1837919619365777432,
             "blockIdx": 15
         },
@@ -172,6 +349,17 @@
             "jpText": "だから――――",
             "enText": "So —",
             "nextBlock": 17,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 4552785998166473106
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6954759747200543026
+                }
+            ],
             "pathId": 5628025816430209312,
             "blockIdx": 16
         },
@@ -181,11 +369,22 @@
             "jpText": "……………………一緒に、飲みませんか。",
             "enText": "… Let's\nhave a drink together.",
             "nextBlock": 18,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "喜んで！",
                     "enText": "With pleasure!",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 1567256889734900721
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7395409178670981319
                 }
             ],
             "pathId": -2241515724042564705,
@@ -197,6 +396,17 @@
             "jpText": "――――",
             "enText": "—",
             "nextBlock": 19,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 7541312061367671236
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -7438081194985721737
+                }
+            ],
             "pathId": 4162570671113678270,
             "blockIdx": 18
         },
@@ -206,6 +416,17 @@
             "jpText": "すぐ、淹れますね……\r\n少しの間、待っていてください……。",
             "enText": "I'll brew it right up…\nPlease wait a moment…",
             "nextBlock": 20,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7433424939892196563
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 6796705819351244955
+                }
+            ],
             "pathId": 1359329381861021871,
             "blockIdx": 19
         },
@@ -215,6 +436,17 @@
             "jpText": "室内に、マンハッタンカフェが\r\nコーヒーを淹れる音が静かに響いている……。",
             "enText": "The sound of the Manhattan Cafe brewing\ncoffee echoed quietly in the room…",
             "nextBlock": 21,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -8538364486629126186
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -8081587404182242878
+                }
+            ],
             "pathId": 4154636091935343271,
             "blockIdx": 20
         },
@@ -224,6 +456,7 @@
             "jpText": "私の両親も、コーヒーノキを育てていて……\r\n1年に1度、家族みんなで……\n集まって飲むんです……。",
             "enText": "My parents also grow coffee trees… and\nonce a year, the whole family… gathers\ntogether to drink it…",
             "nextBlock": 22,
+            "origClipLength": 108,
             "pathId": -1500256772975867869,
             "blockIdx": 21
         },
@@ -233,6 +466,7 @@
             "jpText": "その時間は、いつだって朧月の夜みたいに……\r\n優しくて……心地よくて……。",
             "enText": "The time is always as… gentle\nand… comfortable as a night\nin a hazy moon.",
             "nextBlock": 23,
+            "origClipLength": 93,
             "pathId": 3647982017110215306,
             "blockIdx": 22
         },
@@ -242,6 +476,7 @@
             "jpText": "トレーナーさんとも……\r\nそんな時間をと……思って………。",
             "enText": "I've been thinking about… such time\nwith my trainer and…",
             "nextBlock": 24,
+            "origClipLength": 82,
             "pathId": -5797881613393271266,
             "blockIdx": 23
         },
@@ -251,6 +486,7 @@
             "jpText": "…………お待たせしました。\r\nどうぞ――――",
             "enText": "… Thank you for your\npatience. Please go to —",
             "nextBlock": 25,
+            "origClipLength": 73,
             "pathId": 2035595640020240664,
             "blockIdx": 24
         },
@@ -260,6 +496,17 @@
             "jpText": "淹れられたコーヒーを口に含む。\r\nすると、その風味と温かさが、\n心身に染み渡っていく。",
             "enText": "I sipped the brewed coffee. As you sip the\nbrewed coffee, its flavor and warmth\npermeate your body and soul.",
             "nextBlock": 26,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 171,
+                    "pathId": -4856515107258431246
+                },
+                {
+                    "origLen": 179,
+                    "pathId": -2562633399026260939
+                }
+            ],
             "pathId": -2743641205943698557,
             "blockIdx": 25
         },
@@ -269,6 +516,17 @@
             "jpText": "……その後はマンハッタンカフェと\r\n向かい合い、2人で静かに\nコーヒーを堪能する――",
             "enText": "… Then we'll head to the Manhattan Cafe\nand enjoy a quiet cup of coffee together.",
             "nextBlock": 27,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -74133026499518716
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 3888455718142219219
+                }
+            ],
             "pathId": 8435027456711669119,
             "blockIdx": 26
         },
@@ -278,6 +536,17 @@
             "jpText": "…………結局、お互い一言も発することなく、\r\nコーヒーを飲み終えた。\nその余韻が残る中――――",
             "enText": "… In the end, we finished our\ncoffee without saying a word to each other.\nIn the aftermath, —",
             "nextBlock": 28,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": 6351975526446430024
+                },
+                {
+                    "origLen": 197,
+                    "pathId": 8479664720782847740
+                }
+            ],
             "pathId": 622163303144877574,
             "blockIdx": 27
         },
@@ -287,6 +556,7 @@
             "jpText": "……………………どう、でしたか？",
             "enText": "… How did it go?",
             "nextBlock": 29,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "こんな美味しいコーヒー初めてだ",
@@ -312,6 +582,17 @@
                     "jpText": "私もカフェに、コーヒーを淹れてあげたい",
                     "enText": "I want to make a cup of coffee for the cafe.",
                     "nextBlock": 43
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 3999849922978317748
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4659264275016656900
                 }
             ],
             "pathId": 6014089317267808235,
@@ -323,6 +604,7 @@
             "jpText": "……………………どう、でしたか？",
             "enText": "… How did it go?",
             "nextBlock": 30,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "こんな美味しいコーヒー初めてだ",
@@ -350,6 +632,17 @@
                     "nextBlock": 43
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -7460158031158191163
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2659447824065922883
+                }
+            ],
             "pathId": 3232289064691080063,
             "blockIdx": 29
         },
@@ -359,6 +652,17 @@
             "jpText": "…………大袈裟、です。",
             "enText": "… Overreacting, that is.",
             "nextBlock": 31,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -1259306656572513985
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -4858695021952786745
+                }
+            ],
             "pathId": 8241261032402930988,
             "blockIdx": 30
         },
@@ -368,6 +672,17 @@
             "jpText": "でも――――",
             "enText": "But —",
             "nextBlock": 32,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 8264692898042453577
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7597048355542452531
+                }
+            ],
             "pathId": -5356053069734455590,
             "blockIdx": 31
         },
@@ -377,6 +692,17 @@
             "jpText": "…………私も同じ、です。",
             "enText": "… I'm the same, too.",
             "nextBlock": 33,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 2183612959994188953
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -1152793641160580355
+                }
+            ],
             "pathId": 5186923176781011645,
             "blockIdx": 32
         },
@@ -386,6 +712,17 @@
             "jpText": "幾千の言葉より濃密な時間がこめられた一杯。\r\nその味を自分はこれから先も\n忘れないだろうと思える夜になった――――",
             "enText": "A cup that contains more time than thousands\nof words. It was a night that I will never\nforget the taste of. —",
             "nextBlock": -1,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 5951700339103784567
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 3031287725058358359
+                }
+            ],
             "pathId": -3608351415001745139,
             "blockIdx": 33
         },
@@ -395,6 +732,17 @@
             "jpText": "…………私の方こそ、です。",
             "enText": "… It's me, too.",
             "nextBlock": 35,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -6600214393392820346
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 2237763938839824389
+                }
+            ],
             "pathId": 3211813547535707497,
             "blockIdx": 34
         },
@@ -404,6 +752,17 @@
             "jpText": "トレーナーさん……\r\nありがとうございます……。",
             "enText": "Trainer… Thank you…",
             "nextBlock": 36,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 4532513885323708017
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 7912474334412196354
+                }
+            ],
             "pathId": -5819177770418047615,
             "blockIdx": 35
         },
@@ -413,6 +772,17 @@
             "jpText": "…………また……。",
             "enText": "… and also…",
             "nextBlock": 37,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 7964437503718059861
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 2535498325190089273
+                }
+            ],
             "pathId": 7073670228879155430,
             "blockIdx": 36
         },
@@ -422,6 +792,17 @@
             "jpText": "また来年も…………\r\nこんな風に一緒に――――",
             "enText": "See you next year…\nTogether like this: —",
             "nextBlock": 38,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 4884383251124726356
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -1673585498979817314
+                }
+            ],
             "pathId": -5026177082705466003,
             "blockIdx": 37
         },
@@ -431,11 +812,22 @@
             "jpText": "コーヒーを、飲んでくれますか……？",
             "enText": "Would you like a cup of coffee…?",
             "nextBlock": 39,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "来年も、再来年も、また飲もう",
                     "enText": "We'll drink again next year,\nand the year after that.",
                     "nextBlock": 39
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 8102545202320987613
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -5362910231102938291
                 }
             ],
             "pathId": 82974258443652503,
@@ -447,6 +839,17 @@
             "jpText": "――――",
             "enText": "—",
             "nextBlock": 40,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 2277816878484233710
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 5415221975226264851
+                }
+            ],
             "pathId": -1389434635998570356,
             "blockIdx": 39
         },
@@ -456,6 +859,17 @@
             "jpText": "……はい。",
             "enText": "… Yes.",
             "nextBlock": 41,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8392006082361253072
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -4099495660811167366
+                }
+            ],
             "pathId": -7521820550596198632,
             "blockIdx": 40
         },
@@ -465,6 +879,17 @@
             "jpText": "来年も……再来年も……\r\nまた……。",
             "enText": "Next year… and the year after\nthat… again…",
             "nextBlock": 42,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 6622466733575233449
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 5283575960307252358
+                }
+            ],
             "pathId": 5543373938867729020,
             "blockIdx": 41
         },
@@ -474,6 +899,17 @@
             "jpText": "彼女と来年飲むコーヒーはどんな味だろうか？\r\nそんな、少し遠くの未来に\n思いを馳せる夜になったのだった――",
             "enText": "I wondered what coffee would taste like next\nyear with her. It was a night that made me\nthink about the future, a little far away.",
             "nextBlock": -1,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -8904261183800247517
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -665117814877663477
+                }
+            ],
             "pathId": -5967717202274032791,
             "blockIdx": 42
         },
@@ -483,6 +919,17 @@
             "jpText": "――――",
             "enText": "—",
             "nextBlock": 44,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -2423903733212135085
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -7806164721067122459
+                }
+            ],
             "pathId": -4928737240776932884,
             "blockIdx": 43
         },
@@ -492,6 +939,17 @@
             "jpText": "…………………。\r\nそれでしたら…………。",
             "enText": "… If that's\nthe case, go to…",
             "nextBlock": 45,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 1798353118110326163
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 5142053697769261286
+                }
+            ],
             "pathId": -217347991985367087,
             "blockIdx": 44
         },
@@ -501,6 +959,17 @@
             "jpText": "一緒に、育ててみますか……？\r\n………コーヒーノキ。",
             "enText": "Together, would you like to grow…?\n… coffee tree.",
             "nextBlock": 46,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 5965433820311907211
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2628970640322766588
+                }
+            ],
             "pathId": 4144388629044007073,
             "blockIdx": 45
         },
@@ -510,11 +979,22 @@
             "jpText": "新しく植えるとなると……\r\n3年以上は、かかりますが――――",
             "enText": "If you want to plant a new one, it will take\nmore than… three years. —",
             "nextBlock": 47,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "その時を楽しみにして頑張るよ",
                     "enText": "I'll look forward to that\ntime and do my best.",
                     "nextBlock": 47
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -4422101693956235358
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -3694291401754783180
                 }
             ],
             "pathId": -2695244938343517499,
@@ -526,6 +1006,17 @@
             "jpText": "…………ふふっ。",
             "enText": "… Hmmm.",
             "nextBlock": 48,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 3419268429165027859
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -8443967103820823639
+                }
+            ],
             "pathId": -6317598799407931918,
             "blockIdx": 47
         },
@@ -535,6 +1026,17 @@
             "jpText": "……先の長い話に、なっちゃいましたね。\r\n……でも――――",
             "enText": "… It's a long way off,\nisn't it?… but —",
             "nextBlock": 49,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -662838355107386280
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3374342437802277077
+                }
+            ],
             "pathId": 8394216870832320697,
             "blockIdx": 48
         },
@@ -544,6 +1046,17 @@
             "jpText": "……私も、楽しみにしています……。",
             "enText": "… I, too, am looking forward to…",
             "nextBlock": 50,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 5101895705233377124
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6194185179080180672
+                }
+            ],
             "pathId": 3425572772722360346,
             "blockIdx": 49
         },
@@ -553,6 +1066,17 @@
             "jpText": "きっと、その豆で淹れるコーヒーは、\r\n今日飲んだものよりも美味しいに違いない。",
             "enText": "I'm sure the coffee made from those beans\nwill be better than the one I had today.",
             "nextBlock": 51,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 6180142775224117809
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 6939385308046364646
+                }
+            ],
             "pathId": -3471621541380714967,
             "blockIdx": 50
         },
@@ -562,8 +1086,10 @@
             "jpText": "そんな――――\r\n夜よりも黒く、香り深い未来に、\n2人で思いを馳せる時間になった。",
             "enText": "Such as — It was time for both of us to\ncontemplate a future that was blacker and\nmore fragrant than the night.",
             "nextBlock": -1,
+            "origClipLength": 98,
             "pathId": -1647764749895325218,
             "blockIdx": 51
         }
-    ]
+    ],
+    "modified": 1669946369
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CBOKKC3DUJVX673P5RZHEIVPWK5N5OW4",
     "type": "story",
     "storyId": "830057001",
@@ -11,6 +11,7 @@
             "jpText": "昼休み、廊下を歩いていると、\n踊り場の方から騒がしい声が聞こえてきた。",
             "enText": "As I was walking down the hallway during \nlunch break, I heard a noisy voice coming \nfrom the landing.",
             "nextBlock": 2,
+            "origClipLength": 90,
             "pathId": -1610096368844904343,
             "blockIdx": 1
         },
@@ -20,6 +21,25 @@
             "jpText": "我は世界の頂点、ウマ王ゴルシなり！\n頭がたかぁ～い！！　控えおろう！！",
             "enText": "I am Golshi, the Horse King, the top of the \nworld! My head is too big! Hold back!",
             "nextBlock": 3,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 4048709923692951199
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -1443057451967365391
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 3507175890863045466
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -2985862640692529932
+                }
+            ],
             "pathId": -5203810308353761247,
             "blockIdx": 2
         },
@@ -29,6 +49,7 @@
             "jpText": "ノー！　エルは配下じゃありませーん！",
             "enText": "No! Elle is not one of my men!",
             "nextBlock": 4,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "な、何してるんだ？",
@@ -41,6 +62,24 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -2567048680356267192
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 7447341421684508203
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -520543617128136853
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -5577064043282761417
+                }
+            ],
             "pathId": -4035759746956481518,
             "blockIdx": 3
         },
@@ -50,6 +89,29 @@
             "jpText": "おおっ、よくぞ聞いてくれました！\nゴルシさんは今、ウマ王様なんデース。",
             "enText": "Oh, I'm so glad you asked! Ms. Golusi \nis now the King of Uma.",
             "nextBlock": 5,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 938022764569257369
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -386211728170971723
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -4322572532896998191
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 1256489674716039255
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 3950578747747999573
+                }
+            ],
             "pathId": -7389369281116576676,
             "blockIdx": 4
         },
@@ -59,6 +121,29 @@
             "jpText": "人気のロールプレイングゲームにハマって、\n朝からずっと、この調子デス！",
             "enText": "I'm addicted to a popular role-playing game, \nand I've been doing this all morning!",
             "nextBlock": 6,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 1383387445447248066
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 3166331210327789710
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -5115306516247026295
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1632333898672381176
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 5530000199007627135
+                }
+            ],
             "pathId": -2445879761879367865,
             "blockIdx": 5
         },
@@ -68,6 +153,29 @@
             "jpText": "ウマ王……それは頂きに立つ者！　頂点だ！！\nよし、そこのアンタ！",
             "enText": "King Uma… is the one who stands at the top! \nIt's the top! Okay, you there!",
             "nextBlock": 7,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -3822090318957641131
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 4422800923468641735
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -3960775667348314790
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -3059789673954819659
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2304399244286898732
+                }
+            ],
             "pathId": 9198986338995467376,
             "blockIdx": 6
         },
@@ -77,11 +185,38 @@
             "jpText": "頂点とは最強！　最強とは頂点！　そこに\n立つにはどうすればいいのか、答えてみろ！",
             "enText": "The best is the strongest! The strongest \nis the top! So tell me, what does \nit take to get there?",
             "nextBlock": 8,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "えっと……",
                     "enText": "Let's see…",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -6546252137042556335
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 5646100665625170079
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 3227876522575802759
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1565555120294804694
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 5759827700785945736
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -1997550244658979630
                 }
             ],
             "pathId": -875881053201285522,
@@ -93,6 +228,29 @@
             "jpText": "ち、頂点とは最強……！？　最強とは頂点！？\nエル、わかりました！！",
             "enText": "Chi, the pinnacle is the strongest …! The \nstrongest is the apex! Elle, I understand!",
             "nextBlock": 9,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -6909118813833244568
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1082500655718780084
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 631592394248235295
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 100406353254960421
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 5434491587263274063
+                }
+            ],
             "pathId": -147091050809151735,
             "blockIdx": 8
         },
@@ -102,6 +260,29 @@
             "jpText": "必要なのは、屈せぬ心！\n熱い魂！　燃える闘志デェェェス！！",
             "enText": "All you need is an unyielding heart! Hot \nspirit! A burning fighting spirit!",
             "nextBlock": 10,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 7430552059963251672
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6549293820452395203
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 744152892136340554
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -7020526310395822556
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 5716566634802231736
+                }
+            ],
             "pathId": 2271097417322152318,
             "blockIdx": 9
         },
@@ -111,6 +292,29 @@
             "jpText": "おいおい、なに熱くなってんだ？\nガキじゃねぇんだ、落ち着けよ……。",
             "enText": "Hey, hey, hey, what are you getting all \nworked up about? I'm not a kid, calm down…",
             "nextBlock": 11,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -2078466596624892098
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 1593696927521754501
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5891486477444968431
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -6792354481551074838
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 8750318700825011581
+                }
+            ],
             "pathId": 2317566672409130046,
             "blockIdx": 10
         },
@@ -120,6 +324,29 @@
             "jpText": "ケ！？",
             "enText": "Que?",
             "nextBlock": 12,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5233539412211560603
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 6077305057164899299
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -405674478032059396
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 4042537622781786078
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -8640799444140299944
+                }
+            ],
             "pathId": -8614624738680384895,
             "blockIdx": 11
         },
@@ -129,6 +356,25 @@
             "jpText": "アンタらは、なにもわかっちゃいねぇ！\n教えてやるぜ、ついてきな！",
             "enText": "You don't know what you're talking about! \nI'll teach you. Follow me!",
             "nextBlock": 13,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -7785748331605381606
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 8545730357114781130
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 8182587372411337322
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -9060257580806822827
+                }
+            ],
             "pathId": -426301618408017957,
             "blockIdx": 12
         },
@@ -138,6 +384,29 @@
             "jpText": "ここに城を建てる！！",
             "enText": "We'll build a castle here!",
             "nextBlock": 14,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 6425115212003500473
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 865894731369927763
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -4901428496447167985
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -5460116802673737619
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -7170291705420966504
+                }
+            ],
             "pathId": 5097150335644346855,
             "blockIdx": 13
         },
@@ -147,6 +416,29 @@
             "jpText": "頂点っつったら、城だ！　城を建てて、\n1番上に立つんだよ！　それが最強！！",
             "enText": "The top point is the castle! Build a castle \nand stand at the top! That's the best!",
             "nextBlock": 15,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -1484620289679583775
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -3302478035360940942
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7058829355530145798
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 7953672281829489833
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 7370241477882957298
+                }
+            ],
             "pathId": 7938202554811265358,
             "blockIdx": 14
         },
@@ -156,6 +448,33 @@
             "jpText": "それが……最強……！\nなるほど、一理あります！！",
             "enText": "That's the… strongest…! \nWell, you have a point!",
             "nextBlock": 16,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -3048656357644721191
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -2626580753006418545
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 4511109518273051606
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -4659002713624393284
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2396447618292956935
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -1408828865221119580
+                }
+            ],
             "pathId": -7292149279636535827,
             "blockIdx": 15
         },
@@ -165,6 +484,29 @@
             "jpText": "あれ？　でも、高いところに立つだけなら、\n学園の屋上とかでもいいんじゃ……。",
             "enText": "What? But if you just want to stand \non a high place, you can do it on \nthe roof of the school…",
             "nextBlock": 17,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -8879393950670918833
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -5268874897930803545
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1033362807803424919
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -7836326814478960410
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 5737400680397018775
+                }
+            ],
             "pathId": -8707746939801397952,
             "blockIdx": 16
         },
@@ -174,6 +516,29 @@
             "jpText": "エルコンドルパサー！\nオマエは頂点を獲りたくないのか！？",
             "enText": "El Condor Passer! Don't you \nwant to win the top prize?",
             "nextBlock": 18,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 1149790848917073267
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -7873433354033127135
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 721746041790844981
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -5105004022039179496
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -124935618086544144
+                }
+            ],
             "pathId": 2973043635847114860,
             "blockIdx": 17
         },
@@ -183,6 +548,25 @@
             "jpText": "！？",
             "enText": "What?",
             "nextBlock": 19,
+            "origClipLength": 47,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 2708477702448894322
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -4567203015699689890
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -2650897456552127688
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 2073788099585061535
+                }
+            ],
             "pathId": 8147244688816044006,
             "blockIdx": 18
         },
@@ -192,6 +576,25 @@
             "jpText": "コンドルならば、空を目指せ！\r\n青き頂……最強の座が欲しいだろう！？",
             "enText": "If you are a condor, take to the skies! \nYou want the blue peak… the most powerful \nseat in the world!",
             "nextBlock": 20,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -5721557229108086753
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2455869727185376794
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5560233355544633366
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -3732952331206605864
+                }
+            ],
             "pathId": -3152633968815582321,
             "blockIdx": 19
         },
@@ -201,6 +604,25 @@
             "jpText": "おおおっ……最強の座！　欲しいデース！",
             "enText": "Oh, wow… is the strongest! I want it!",
             "nextBlock": 21,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 674931609594279074
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 6430705249147791041
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -6049689317682703159
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6507477883078926959
+                }
+            ],
             "pathId": -2978720689564091540,
             "blockIdx": 20
         },
@@ -210,6 +632,25 @@
             "jpText": "だったら、城だ！　城を作り、\nその頂点をゴルシ様から奪ってみろ！！",
             "enText": "Then build a castle! Build a castle and take \nthe top of it from Master Golshi!",
             "nextBlock": 22,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 1992343092195258602
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4760087603392605220
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -6561638440765637206
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 8936366022618360804
+                }
+            ],
             "pathId": 6297052520163134878,
             "blockIdx": 21
         },
@@ -219,6 +660,33 @@
             "jpText": "この世は弱肉強食……すべてを乗り越えた\n強いヤツだけが、世界を変えられるんだ！",
             "enText": "The world is a world of the weak and the \nstrong… Only the strong who overcome \neverything can change the world!",
             "nextBlock": 23,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -1722169499072890489
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -16756167799646685
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -4853471079194741447
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 7117802772695014033
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -6392131377792307403
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -5085319070835183519
+                }
+            ],
             "pathId": -4448050213608074592,
             "blockIdx": 22
         },
@@ -228,11 +696,38 @@
             "jpText": "くぅう！　強者！　超越！　頂上決戦！！\n熱い展開になりそうデェェェス！！",
             "enText": "Unh! The mighty! Transcendence! Summit \nbattle! It's gonna be hot!",
             "nextBlock": 24,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "ええっ……？",
                     "enText": "What?…?",
                     "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -7434279360848615617
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4876717796048148266
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2563351516405720046
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -5347994395439661237
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 986306612859263805
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4401384861184660531
                 }
             ],
             "pathId": -7618743768474778994,
@@ -244,6 +739,33 @@
             "jpText": "では、さっそく始めましょう！\nでも、城なんて一体どうすれば？",
             "enText": "So let's get started! But how \nthe hell do I get a castle?",
             "nextBlock": 25,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 3724365221116129976
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -7463026550840430003
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -2309909367461841838
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 7936749120223010392
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 8404362676172252546
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -2020100711505010398
+                }
+            ],
             "pathId": 7229795177926676460,
             "blockIdx": 24
         },
@@ -253,6 +775,7 @@
             "jpText": "エルコンドルパサーはゴールドシップの\n勢いに流されてしまったようだ……。\nとりあえず、アドバイスをするとしたら――",
             "enText": "El Condor Passer seems to have been swept \naway by Goldship's momentum… In the \nmeantime, if I could give you some advice—",
             "nextBlock": 26,
+            "origClipLength": 119,
             "choices": [
                 {
                     "jpText": "資金を集めるとか……？",
@@ -265,6 +788,32 @@
                     "nextBlock": 34
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -7117291438773693028
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -2186703103047453413
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -8458978853100572618
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -5359998152087685856
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 5444028745507967152
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 1488910751708730161
+                }
+            ],
             "pathId": 15145834650496535,
             "blockIdx": 25
         },
@@ -274,6 +823,33 @@
             "jpText": "んじゃ漁船だな！　大砲ついてるヤツ！！\n大王イカ倒して、漁師王になろうぜ！",
             "enText": "A fishing boat, then! The one with the \ncannon! Let's defeat the Giant Squid and \nbecome the King of Fishermen!",
             "nextBlock": 27,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": 1402191544078961339
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 1786064741380749754
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 8610622631259431572
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -4153808962052581725
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 5532536624282690376
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -8317507854162843403
+                }
+            ],
             "pathId": -5250163053639160332,
             "blockIdx": 26
         },
@@ -283,6 +859,33 @@
             "jpText": "いや、だったら宝探した方が早くね？\nんじゃ海賊王だな！！",
             "enText": "No, it's faster to find the treasure, right? \nThen you're the pirate king!",
             "nextBlock": 28,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 8970622012825456078
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 59548448079046322
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -1499582429937142693
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1841187870824137611
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -3071700840286456634
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -7596520300082045486
+                }
+            ],
             "pathId": -934094701353934039,
             "blockIdx": 27
         },
@@ -292,6 +895,33 @@
             "jpText": "！？　ウマ王はどうしたんデスか！？",
             "enText": "What's going on? What's going \non with the Uma King?",
             "nextBlock": 29,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 2708052116572858599
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -671894685407748908
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1686931541247658041
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8401528910405338452
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 8819360932916581409
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8886085874526072524
+                }
+            ],
             "pathId": -421330911324013966,
             "blockIdx": 28
         },
@@ -301,6 +931,29 @@
             "jpText": "ほら、来いよ！\nゴルシ様の船に乗せてやる！！",
             "enText": "Come on, come on! I'll take you \nto Master Gorci's ship!",
             "nextBlock": 30,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1044250929624264061
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -4564211526008331877
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -6103835528851332042
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 8600292479629145463
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -839314193737481501
+                }
+            ],
             "pathId": 7321358470948034260,
             "blockIdx": 29
         },
@@ -310,6 +963,25 @@
             "jpText": "えっ、ちょ……！？",
             "enText": "What, wait…!",
             "nextBlock": 31,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 3260083527135505367
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -4051977092162104423
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3946655330347577553
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 502672656757210156
+                }
+            ],
             "pathId": 2446875838078711451,
             "blockIdx": 30
         },
@@ -319,6 +991,25 @@
             "jpText": "大海がオレたちを待っている！\n伝説の島を目指して……出航ー！！",
             "enText": "The ocean awaits us! Let's set sail \nfor the legendary island of…!",
             "nextBlock": 32,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 6555602956320622360
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -5140837418622849759
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -4697730396838226803
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -7217539509171284010
+                }
+            ],
             "pathId": -2413677515306238251,
             "blockIdx": 31
         },
@@ -328,6 +1019,7 @@
             "jpText": "ケ！？　い、行きません！！\nエルが目指したいのは海じゃ……あああー！？",
             "enText": "Que? No, I'm not going! What Elle wants to \ngo for is the ocean… Ahhh!",
             "nextBlock": 33,
+            "origClipLength": 90,
             "pathId": 5749031361264064362,
             "blockIdx": 32
         },
@@ -337,6 +1029,7 @@
             "jpText": "……抵抗するエルコンドルパサーを担いで、\nゴールドシップは走り去った。\n遠く……海へと旅立つために……。",
             "enText": "Carrying the resisting… El Condor \nPasser, Goldship rode away. To travel \nfar … away to the sea.",
             "nextBlock": -1,
+            "origClipLength": 112,
             "pathId": -8812335466092110131,
             "blockIdx": 33
         },
@@ -346,6 +1039,33 @@
             "jpText": "だったら、アレだな！！",
             "enText": "Then it's that thing!",
             "nextBlock": 35,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -7522264154574884921
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2272018839043923762
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 614807992597839621
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 4302228470939536785
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -1241097700994088287
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 3994028759060172497
+                }
+            ],
             "pathId": 151107433215385098,
             "blockIdx": 34
         },
@@ -355,6 +1075,29 @@
             "jpText": "ゴールドシップはジャングルジムへと\n駆けていくと、その1番上に登り、\n高々と手を上げた。",
             "enText": "Goldship ran to the jungle gym, climbed to \nthe top, and raised her hands in the air.",
             "nextBlock": 36,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -8088731340317522892
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 167228067703592989
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 6138592943637148019
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 7563472559808845898
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 4118589249410993177
+                }
+            ],
             "pathId": 1159600461769671468,
             "blockIdx": 35
         },
@@ -364,6 +1107,7 @@
             "jpText": "ふははは！　我はウマ王ゴルシ！\n英雄エルコンドルパサー、かかってこい！",
             "enText": "Ha-ha-ha! I am Gorci, the Horse King! Come \non, you heroic El Condor Passer!",
             "nextBlock": 37,
+            "origClipLength": 90,
             "pathId": 1603681604457023020,
             "blockIdx": 36
         },
@@ -373,6 +1117,7 @@
             "jpText": "！　英雄……！！",
             "enText": "! Hero…!!!",
             "nextBlock": 38,
+            "origClipLength": 55,
             "pathId": 3729094939862587173,
             "blockIdx": 37
         },
@@ -382,6 +1127,17 @@
             "jpText": "いいでしょう！　最強の英雄エルが、\nその座から引きずり降ろしてあげます！",
             "enText": "All right! Elle, the mightiest of heroes, \nwill drag you down from your throne!",
             "nextBlock": 39,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": -7009428159033331718
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 6809528635001746701
+                }
+            ],
             "pathId": -3116138328935379245,
             "blockIdx": 38
         },
@@ -391,6 +1147,17 @@
             "jpText": "おねーちゃんたち、なにしてるのー？",
             "enText": "What are you doing, ladies?",
             "nextBlock": 40,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -262049871764549201
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6868102022805552757
+                }
+            ],
             "pathId": 1187890117480507095,
             "blockIdx": 39
         },
@@ -400,6 +1167,21 @@
             "jpText": "いいなー！　わたしたちもまぜてー！",
             "enText": "I like it! Let us join you!",
             "nextBlock": 41,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 234,
+                    "pathId": -6404487952284229524
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1623958797574289196
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4639662933900647667
+                }
+            ],
             "pathId": 2188894662154397235,
             "blockIdx": 40
         },
@@ -409,6 +1191,21 @@
             "jpText": "お、子分を引き連れてきやがったな！？\nいいぜ、捕まえてみろ！　とぉ！！",
             "enText": "Oh, you've brought your henchmen with you! \nAll right, go get 'em! Whoa!",
             "nextBlock": 42,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 8874828079998708074
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6087179206038542741
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -2827944112874565777
+                }
+            ],
             "pathId": -227446982316414082,
             "blockIdx": 41
         },
@@ -418,11 +1215,22 @@
             "jpText": "おい、アンタは兵士Aな！\nセリフは、わかってんだろ？",
             "enText": "Hey, you're soldier A! You know \nthe lines, don't you?",
             "nextBlock": 43,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "『ここはゴルシ城です』",
                     "enText": "\"This is Castle Golshi.\"",
                     "nextBlock": 43
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 190609354719042160
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -7096350338118200518
                 }
             ],
             "pathId": 7651921611516981796,
@@ -434,6 +1242,17 @@
             "jpText": "よし！！",
             "enText": "Okay!",
             "nextBlock": 44,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 1330123295338356128
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 3888161316659238523
+                }
+            ],
             "pathId": 5813815309872814323,
             "blockIdx": 43
         },
@@ -443,8 +1262,20 @@
             "jpText": "それからしばらく、\nゴールドシップとエルコンドルパサーによる\nウマ王と英雄たちの戦いを見守ったのだった。",
             "enText": "For the rest of the day, I watched the \nbattle between the horse king and her \nheroes, Goldship and El Condor Passer.",
             "nextBlock": -1,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 8994269897646191979
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -2402267007073895733
+                }
+            ],
             "pathId": -9101658569072411876,
             "blockIdx": 44
         }
-    ]
+    ],
+    "modified": 1669946055
 }

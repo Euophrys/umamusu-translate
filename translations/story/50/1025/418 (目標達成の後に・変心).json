@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "K3273S2ET34VVTATO4TJ7TCKLVO2ETI7",
     "type": "story",
     "storyId": "501025418",
@@ -11,6 +11,17 @@
             "jpText": "マンハッタンカフェは\r\n体の不調と付き合いながら、\n及第の成績を収めることができた。",
             "enText": "Manhattan Cafe has been dealing with\nsome health issues, but has been\nable to perform admirably.",
             "nextBlock": 2,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": 8235761588890188557
+                },
+                {
+                    "origLen": 183,
+                    "pathId": 7746702711116999168
+                }
+            ],
             "pathId": -3631864482808501721,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "次の目標をどうしようか考えていると、\r\nマンハッタンカフェから『弥生賞』を\n走りたいという提案があった。",
             "enText": "As I was thinking about my next\ngoal, Manhattan Cafe suggested that\nI run in the Yayoi-sho.",
             "nextBlock": 3,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": 3183254874749066000
+                },
+                {
+                    "origLen": 152,
+                    "pathId": 350260689127231963
+                }
+            ],
             "pathId": 5425184999601613532,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "このレースでアグネスタキオンと\r\n走ることを『お友だち』が望んでいるらしい。",
             "enText": "My friend wants me to run with\nAgnes Tachyon in this race.",
             "nextBlock": 4,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": 3191538014129139339
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 1988191803698900794
+                }
+            ],
             "pathId": 3509469675469126320,
             "blockIdx": 3
         },
@@ -38,14 +71,26 @@
             "jpText": "ここで結果を出せばGⅠにも繋がる。\r\nマンハッタンカフェの提案通り、\n次走を『弥生賞』に定めたのだった。",
             "enText": "If she could get a result here, it would\nlead to the G1. As per Manhattan Cafe's\nsuggestion, they decided on Yayoi-sho\nas her next race.",
             "nextBlock": -1,
+            "origClipLength": 112,
             "coloredText": [
                 {
                     "jpText": "GⅠ",
                     "enText": "G I"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": -4968191715903739267
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 6761982442736962479
+                }
+            ],
             "pathId": -8096895400829706381,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669946361
 }

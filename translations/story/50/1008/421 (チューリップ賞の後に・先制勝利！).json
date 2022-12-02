@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "Y4EADTEARNAAKSUVZEHI4SIJZCSNQLXP",
     "type": "story",
     "storyId": "501008421",
@@ -11,6 +11,25 @@
             "jpText": "ダイワスカーレットを破ったウオッカ。\r\n2人はお互いの成長を感じながら\n再戦の約束を交わした。",
             "enText": "Vodka defeated Daiwa Scarlet. The \ntwo of them promised to fight again, \nfeeling each other's growth.",
             "nextBlock": 2,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -8503954217524270496
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -6782604995708357642
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 4946169782893956343
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 6885201983232944699
+                }
+            ],
             "pathId": -1793003942120304808,
             "blockIdx": 1
         },
@@ -20,6 +39,33 @@
             "jpText": "だが、ティアラ路線を進む\r\nダイワスカーレットと勝負するには、\nクラシック三冠路線を諦めなければならない。",
             "enText": "But if she wants to compete with Daiwa \nScarlet, who is on the Tiara track, she'll \nhave to give up the Triple Crown Classic.",
             "nextBlock": 3,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -8826907340260351200
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -6993580151639641719
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 7087974640629129777
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -5683003846502164731
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 7683985088628237395
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 2623965642297344048
+                }
+            ],
             "pathId": -4859749769078217804,
             "blockIdx": 2
         },
@@ -29,6 +75,17 @@
             "jpText": "ティアラ路線に進んだ後、途中で進路を\r\n変更するのは普通ならありえない……。",
             "enText": "It's not normal to go the tiara route and \nthen change course halfway through…",
             "nextBlock": 4,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -8197027868017781631
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 6298710714094022786
+                }
+            ],
             "pathId": -8576738291598451339,
             "blockIdx": 3
         },
@@ -38,14 +95,26 @@
             "jpText": "ライバルとの対決と夢を追うこと……\r\nどちらも諦めたくないウオッカは、\n選択を保留にして『桜花賞』へ進むのだった。",
             "enText": "Vodka, not wanting to give up either her \nrivalry or her dream… puts her choice \non hold and moves on to the \"Sakurahana-sho\".",
             "nextBlock": -1,
+            "origClipLength": 119,
             "coloredText": [
                 {
                     "jpText": "桜花賞",
                     "enText": "Cherry Blossom Award"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -5952331178150933300
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 7451635609666487647
+                }
+            ],
             "pathId": 8395906615425506740,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945039
 }

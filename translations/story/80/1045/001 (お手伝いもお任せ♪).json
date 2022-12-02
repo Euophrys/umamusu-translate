@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "72LMOGWA6DXRVYZ2LBLHJVOR44FUSXWU",
     "type": "story",
     "storyId": "801045001",
@@ -11,6 +11,7 @@
             "jpText": "トレーニング中。<chrname>に\r\n休憩を指示した後のこと……。",
             "enText": "In training. After instructing \n<chrname> to take a break…",
             "nextBlock": 2,
+            "origClipLength": 67,
             "pathId": 937855445015711032,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "お疲れさまです～。",
             "enText": "Thank you for your hard work!",
             "nextBlock": 3,
+            "origClipLength": 50,
             "pathId": 8219620360018832336,
             "blockIdx": 2
         },
@@ -29,11 +31,22 @@
             "jpText": "おふたりとも、とっても頑張ってましたね。",
             "enText": "You both worked very hard.",
             "nextBlock": 4,
+            "origClipLength": 83,
             "choices": [
                 {
                     "jpText": "あ、ありがとう……？",
                     "enText": "Oh, thank you…?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 1841809316667604292
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 477087367684543492
                 }
             ],
             "pathId": -5282432939542792266,
@@ -45,6 +58,17 @@
             "jpText": "ふふっ、突然驚かせてしまって\r\nすみません～。",
             "enText": "I'm sorry to have startled you so suddenly.",
             "nextBlock": 5,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 3403703999382394221
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 4030125392219813943
+                }
+            ],
             "pathId": -4599182218473396679,
             "blockIdx": 4
         },
@@ -54,6 +78,17 @@
             "jpText": "でも、誰かが頑張ってる姿を見ると、\r\nなんだか応援したくなっちゃって。",
             "enText": "But when I see someone working hard, I feel \nlike cheering them on.",
             "nextBlock": 6,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -6825239629654826346
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7644374866361695614
+                }
+            ],
             "pathId": -2468602629714080223,
             "blockIdx": 5
         },
@@ -63,11 +98,22 @@
             "jpText": "そうだ！　私にお手伝いできることがあれば、\r\nなんでも言ってくださいね～。",
             "enText": "Yes! If there's anything I can do \nto help, please let me know!",
             "nextBlock": 7,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "いや、悪いよ",
                     "enText": "No, I'm sorry.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -7459933840402789085
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 217728206969462397
                 }
             ],
             "pathId": 4891864821329371335,
@@ -79,6 +125,17 @@
             "jpText": "そう仰らずに♪\r\nさあ、さあ、さあ～♪",
             "enText": "Don't say that. ♪ Come on, \ncome on, come on ♪",
             "nextBlock": 8,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -4919623148684401734
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 609416255940494105
+                }
+            ],
             "pathId": -8465859284875824820,
             "blockIdx": 7
         },
@@ -88,6 +145,17 @@
             "jpText": "……えらく期待を込めた目を向けられて、\r\n無下に断るのも忍びなくなってきた。",
             "enText": "… I'm getting to the point where I can't \nbear to turn her down out of hand when she \nlooks at me with such anticipation.",
             "nextBlock": 9,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -2306037773413053014
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7612235823609865738
+                }
+            ],
             "pathId": 4179103985779000729,
             "blockIdx": 8
         },
@@ -97,6 +165,7 @@
             "jpText": "頼みたいことといえば、なんだろうか……？",
             "enText": "What would you like to ask me to do?…?",
             "nextBlock": 10,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "トレーニングのコツを教えて",
@@ -109,6 +178,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 6548781978167118271
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 402673428949114192
+                }
+            ],
             "pathId": 9160412525565275039,
             "blockIdx": 9
         },
@@ -118,6 +197,17 @@
             "jpText": "コツ、ですか？\r\nそうですね～……。",
             "enText": "The trick, is it? That's right -…",
             "nextBlock": 11,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -8421531534523110350
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -4122963796058421623
+                }
+            ],
             "pathId": 2008001877503062471,
             "blockIdx": 10
         },
@@ -127,6 +217,17 @@
             "jpText": "適度に甘やかしてあげること、でしょうか？",
             "enText": "A little indulgence, perhaps?",
             "nextBlock": 12,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -6899971333107638945
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 6685416268757366381
+                }
+            ],
             "pathId": -7544767196859336078,
             "blockIdx": 11
         },
@@ -136,6 +237,17 @@
             "jpText": "頑張るのは大切ですけど、\r\n厳しすぎると最後まで頑張れませんから♪",
             "enText": "It's important to work hard, but if you're \ntoo strict, you won't make it to the end.",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -422563863207852470
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -8038940567488084090
+                }
+            ],
             "pathId": 9086962712591670743,
             "blockIdx": 12
         },
@@ -145,6 +257,17 @@
             "jpText": "はいっ、喜んで♪　よかったら、\r\n私と一緒のメニューをしましょう。",
             "enText": "I'd be happy to do the menu with you.",
             "nextBlock": 14,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -192587963711224497
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 521292204702575139
+                }
+            ],
             "pathId": -8992444475386567524,
             "blockIdx": 13
         },
@@ -154,6 +277,17 @@
             "jpText": "ダンベルの準備をしておきますね～。",
             "enText": "I'll get the dumbbells ready for you!",
             "nextBlock": 15,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -816542218290982504
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2890499701255375044
+                }
+            ],
             "pathId": 1139592753341268992,
             "blockIdx": 14
         },
@@ -163,8 +297,10 @@
             "jpText": "スーパークリークと一緒にかなりの重量で\r\nトレーニングを行うことになった。",
             "enText": "I had to train with Supercreeks \nwith a lot of weight.",
             "nextBlock": -1,
+            "origClipLength": 69,
             "pathId": -5450379537146349341,
             "blockIdx": 15
         }
-    ]
+    ],
+    "modified": 1669945962
 }

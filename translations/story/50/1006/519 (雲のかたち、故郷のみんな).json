@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "SNRNO6436LFA2U6AA5TSB7TSVCUH6EPI",
     "type": "story",
     "storyId": "501006519",
@@ -11,6 +11,17 @@
             "jpText": "オグリキャップが屋上に佇み、\r\n遠くの景色をじっと見つめている。",
             "enText": "Oguri Cap is standing on a rooftop, staring \nat the distant landscape.",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -1749035315390090522
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 5530939988723416018
+                }
+            ],
             "pathId": -2748350626317289765,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "……トレーナー、か。",
             "enText": "… trainer, huh?",
             "nextBlock": 3,
+            "origClipLength": 51,
             "choices": [
                 {
                     "jpText": "こんなところで何をしていたんだ？",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 8115304769841232018
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -302613943684524744
+                }
+            ],
             "pathId": -3923314707818076251,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "故郷のことを考えていた。\r\nみんなは元気にしているだろうか……。",
             "enText": "I was thinking about my hometown. I hope \neveryone is doing well…",
             "nextBlock": 4,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -2369378111513200450
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5285264115901270369
+                }
+            ],
             "pathId": 8405102789768459583,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "ん……あの雲の形、\r\nどこかシゲさんに似ているな。",
             "enText": "… The shape of that cloud is somewhat \nsimilar to Shige's, isn't it?",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 4668120354547189561
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4097664913615791711
+                }
+            ],
             "pathId": 667640253802443185,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "あっちは、トメさんで……\r\n向こうは……どて煮。はぁ……。",
             "enText": "The other side is the tome and… the other \nside is the… dote. Huh…",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 8424501213532114711
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3298601350873193200
+                }
+            ],
             "pathId": 2804126095715822478,
             "blockIdx": 5
         },
@@ -68,8 +123,20 @@
             "jpText": "ホームシックのせいか、今日の\r\nオグリキャップは調子が悪そうだった。",
             "enText": "Perhaps it was because she was homesick, but \ntoday Oguri Cap looked out of sorts.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 682515776042450708
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7976843349632025365
+                }
+            ],
             "pathId": 2637571703197888723,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669944982
 }

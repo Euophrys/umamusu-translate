@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "IMJFMMNGMJAXHWVAKOCRPZSET7PPTIPL",
     "type": "story",
     "storyId": "501025711",
@@ -11,6 +11,17 @@
             "jpText": "……また……\r\n負けてしまいました…………。",
             "enText": "… also… I lost…",
             "nextBlock": 2,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 4245544328651645774
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 7882446198366495022
+                }
+            ],
             "pathId": 1625886633812885646,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "（バチンッ！）",
             "enText": "(bang! )",
             "nextBlock": 3,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -8368084023973699241
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -8644228199109889024
+                }
+            ],
             "pathId": -501514659371029357,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "突然、部屋の隅辺りで、\r\n何かが鳴る音が響いた……。",
             "enText": "Suddenly, I heard something ringing in the\ncorner of the room…",
             "nextBlock": 4,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -8530451499600585203
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7376395226529254571
+                }
+            ],
             "pathId": -8053959810259701877,
             "blockIdx": 3
         },
@@ -38,11 +71,22 @@
             "jpText": "……うん。\r\nわかってる……けど…………そうだね……。",
             "enText": "… Yeah. I know… but\n… yes…",
             "nextBlock": 5,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "『お友だち』？",
                     "enText": "\"Friends\"?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -756395738352217988
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -2643453176005629588
                 }
             ],
             "pathId": -8412085271210701957,
@@ -54,6 +98,17 @@
             "jpText": "……はい。\r\n私を心配してくれているみたいです…………。",
             "enText": "… Yes. They seem to be concerned\nabout me…",
             "nextBlock": 6,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 6702530968370645552
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -2284795813439059577
+                }
+            ],
             "pathId": -8250781664610059252,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "……すみません。トレーナーさんにも、\r\n『お友だち』にも、心配をかけてしまい……。",
             "enText": "I'm sorry… I'm so sorry\nthat my trainer and my friends\nare worried about me…",
             "nextBlock": 7,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 543982027873553561
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -6236442950966269318
+                }
+            ],
             "pathId": 8575206117295053611,
             "blockIdx": 6
         },
@@ -72,6 +138,7 @@
             "jpText": "……こんな事では……\r\nダメだとわかっているのですが……。",
             "enText": "… I know I can't… do this\nkind of thing, but…",
             "nextBlock": 8,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "君なら大丈夫！",
@@ -87,6 +154,17 @@
                     "jpText": "自分に負けちゃダメ",
                     "enText": "Don't let yourself be defeated.",
                     "nextBlock": 16
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -8372555349699477358
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 957317633514332191
                 }
             ],
             "pathId": 9005909131539420798,
@@ -98,6 +176,7 @@
             "jpText": "……こんな事では……\r\nダメだとわかっているのですが……。",
             "enText": "… I know I can't… do this\nkind of thing, but…",
             "nextBlock": 9,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "君なら大丈夫！",
@@ -115,6 +194,17 @@
                     "nextBlock": 16
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 7022048354247880730
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 7322133064515150543
+                }
+            ],
             "pathId": 6662291267651263289,
             "blockIdx": 8
         },
@@ -124,6 +214,17 @@
             "jpText": "……そう、でしょうか……。",
             "enText": "… So, is it…",
             "nextBlock": 10,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 5541136322098604494
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 4159915860738489852
+                }
+            ],
             "pathId": 4969300235738141835,
             "blockIdx": 9
         },
@@ -133,6 +234,7 @@
             "jpText": "（バチンッ！）",
             "enText": "(bang! )",
             "nextBlock": 11,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "ほら、『お友だち』もそう言ってるぞ！",
@@ -145,6 +247,16 @@
                     "nextBlock": 11
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -8490387930562323020
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6272646555485459602
+                }
+            ],
             "pathId": -6515916785111452810,
             "blockIdx": 10
         },
@@ -154,11 +266,22 @@
             "jpText": "…………ふふっ……。\r\nそうですね……その通りかもしれません……。",
             "enText": "… Hmmm… Yes…\nyou may be right…",
             "nextBlock": 12,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "え、本当にそう言ってるの？",
                     "enText": "Oh, you're really saying that?",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -1143079732912534942
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1693109746125903204
                 }
             ],
             "pathId": 7552385810453447060,
@@ -170,6 +293,17 @@
             "jpText": "……まあ…………概ねは同じかと……。",
             "enText": "… Well… I thought it was\ngenerally the same…",
             "nextBlock": 13,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -2515949389409934760
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 9185520121050849273
+                }
+            ],
             "pathId": -8507089077756345932,
             "blockIdx": 12
         },
@@ -179,6 +313,17 @@
             "jpText": "もっとも……意味合いは、関係ありません。\r\n……2人が、私を信頼してくれている……。",
             "enText": "The more… meaningful, the\nless relevant. The…2 people\ntrust me to do the…",
             "nextBlock": 14,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 7343834597042699862
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -1369138883063995391
+                }
+            ],
             "pathId": 5116171844923873917,
             "blockIdx": 13
         },
@@ -188,6 +333,17 @@
             "jpText": "それだけで……私には充分なのです……。",
             "enText": "That's enough for… me…",
             "nextBlock": 15,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -3716893515252444812
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2711013917219240397
+                }
+            ],
             "pathId": -7031149744317835958,
             "blockIdx": 14
         },
@@ -197,6 +353,17 @@
             "jpText": "ありがとうございます……2人とも……。\r\n私、次こそは……勝ちます……！",
             "enText": "Thank you…2 for all your help…\nI'm going to… win next time…!",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -8518254041209621776
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6709603605614641605
+                }
+            ],
             "pathId": -854429958573580414,
             "blockIdx": 15
         },
@@ -206,6 +373,17 @@
             "jpText": "……自分に…………。",
             "enText": "… is self-segregating on…",
             "nextBlock": 17,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -2897758313440646776
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 1903088208585634284
+                }
+            ],
             "pathId": -4087753740118740940,
             "blockIdx": 16
         },
@@ -215,6 +393,7 @@
             "jpText": "そう、ですよね……。内なる闇にまで……\r\n屈するわけにはいきませんよね……。",
             "enText": "Yes, that's right… We can't\n… give in to the darkness\nwithin, can we?…",
             "nextBlock": 18,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "その意気だ！",
@@ -227,6 +406,16 @@
                     "nextBlock": 18
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 7325859063489933932
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 3529602819228672971
+                }
+            ],
             "pathId": -440398888941240099,
             "blockIdx": 17
         },
@@ -236,6 +425,17 @@
             "jpText": "（バチンッ！）",
             "enText": "(bang! )",
             "nextBlock": 19,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -7429782106221373894
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 4322318701105251711
+                }
+            ],
             "pathId": -2358623496888696286,
             "blockIdx": 18
         },
@@ -245,6 +445,17 @@
             "jpText": "……ふふっ。2人に同じことを\r\n言われてしまったら……やるしかないですね。",
             "enText": "If two people say the same thing to me, I\nhave no choice but to… do it.",
             "nextBlock": 20,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 7851125828342044818
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6687526520032543692
+                }
+            ],
             "pathId": -3891533069613279867,
             "blockIdx": 19
         },
@@ -254,8 +465,20 @@
             "jpText": "ありがとうございます……2人とも……。\r\n私、頑張ります……。",
             "enText": "Thank you…2 people…\nI'll do my best…",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -5230538413271731631
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 9105569853406997223
+                }
+            ],
             "pathId": 4858173121237092324,
             "blockIdx": 20
         }
-    ]
+    ],
+    "modified": 1669946372
 }

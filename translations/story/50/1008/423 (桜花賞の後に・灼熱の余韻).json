@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "HLCC2CUUGCV4XCEPQSSUREJ4J3G5BCBE",
     "type": "story",
     "storyId": "501008423",
@@ -11,6 +11,25 @@
             "jpText": "初めてのクラシックレースを走り切り\r\nダイワスカーレットに勝利したウオッカ。",
             "enText": "Vodka ran her first classic race \nand defeated Daiwa Scarlet.",
             "nextBlock": 2,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 8601868606920013470
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -4880013104945668767
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 8759533657612997847
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -5337116298938478034
+                }
+            ],
             "pathId": 3385745452497979976,
             "blockIdx": 1
         },
@@ -20,6 +39,25 @@
             "jpText": "全力を出し切った2人は口喧嘩をしながらも\r\n再戦の約束を交わす。だが……ウオッカの\n次走予定は本命の『日本ダービー』",
             "enText": "After giving it their all, the two quarrel, \nbut promise to fight again. But… \nVodka's next race is the \"Japan Derby\".",
             "nextBlock": 3,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -5063678358929397985
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -3487691089587320579
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -231179157993023631
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 5583549960584850561
+                }
+            ],
             "pathId": 3445366749828951623,
             "blockIdx": 2
         },
@@ -29,10 +67,37 @@
             "jpText": "ライバルと対決をするには、\r\n『日本ダービー』を諦め、ティアラ路線の\n『オークス』へ進まなければならない。",
             "enText": "In order to compete with her rivals, she \nwould have to give up the Japan Derby and \nmove on to the Oaks, a tiara race.",
             "nextBlock": 4,
+            "origClipLength": 114,
             "coloredText": [
                 {
                     "jpText": "オークス",
                     "enText": "oaks"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 5699263710123389600
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -6321029956864629391
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 6136822748147942076
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 4487146133092691399
+                },
+                {
+                    "origLen": 152,
+                    "pathId": -2545432030854327565
+                },
+                {
+                    "origLen": 152,
+                    "pathId": -6406008595869544218
                 }
             ],
             "pathId": -303021033426827898,
@@ -44,8 +109,20 @@
             "jpText": "どちらを選ぶべきか……\r\nウオッカは迷い、揺れるのだった。",
             "enText": "Which one should I choose… \nVodka was lost and shaken.",
             "nextBlock": -1,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 3870215126243509934
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 4995010391901134289
+                }
+            ],
             "pathId": 3500320676667870602,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945040
 }

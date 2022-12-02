@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "2IXKCDR22LMA42MIPHLC4BXXL6CJGBYP",
     "type": "story",
     "storyId": "501004416",
@@ -11,6 +11,17 @@
             "jpText": "スペシャルウィークと競う\r\n『天皇賞（秋）』の当日がやってきた。",
             "enText": "The day of the \"Tennou-shou (Autumn)\", the\nrace against Special Week, has arrived.",
             "nextBlock": 2,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 863617836560349938
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -8911603200695416186
+                }
+            ],
             "pathId": 8073648334763274577,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "ようやく実現した彼女との勝負。\r\n楽しいレースになることは間違いないと……\nマルゼンスキーは勝負へと向かっていった！",
             "enText": "It was finally possible to compete with\nher. It was going to be a fun race, and …\nMaruzensky was going to win!",
             "nextBlock": -1,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 4774919429708951228
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 2118002588425439267
+                }
+            ],
             "pathId": -7411304674302904449,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944910
 }

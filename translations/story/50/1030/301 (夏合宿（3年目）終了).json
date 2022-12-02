@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "K67ZYWW4DQYJMIKIKKCKXGO3KDNUDHYW",
     "type": "story",
     "storyId": "501030301",
@@ -11,6 +11,7 @@
             "jpText": "――夏合宿最終日。帰りの支度をする\r\nライスシャワーをベンチで待っていると……。",
             "enText": "—The last day of summer camp. Getting \nready to leave. Waiting on the bench \nfor Rice Shower…",
             "nextBlock": 2,
+            "origClipLength": 71,
             "pathId": 611738301147619892,
             "blockIdx": 1
         },
@@ -20,6 +21,18 @@
             "jpText": "おっ、お兄さま～～っ！\r\n待たせちゃってごめんなさ～い……！",
             "enText": "Oh, brother~! I'm sorry for \nmaking you wait~!…!",
             "nextBlock": 3,
+            "origClipLength": 96,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -2479822338266493500
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5749654867005865707
+                }
+            ],
             "pathId": -5539276145670253353,
             "blockIdx": 2
         },
@@ -29,6 +42,18 @@
             "jpText": "おっ、お姉さま～～っ！\r\n待たせちゃってごめんなさ～い……！",
             "enText": "Oh, sis~! I'm sorry for making you wait~!…!",
             "nextBlock": 4,
+            "origClipLength": 96,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -7541925069371156602
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5236176767358487764
+                }
+            ],
             "pathId": -403488475322627153,
             "blockIdx": 3
         },
@@ -38,11 +63,22 @@
             "jpText": "はふぅ……えへへ。\r\nいろいろお手伝いをしてたら\n遅くなっちゃって……。",
             "enText": "Huh… hehe. I've been helping out \na lot and it's gotten late…",
             "nextBlock": 5,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "お手伝い？",
                     "enText": "Helping?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -5670696920118182214
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6435688021809724294
                 }
             ],
             "pathId": -6222351989592795148,
@@ -54,6 +90,17 @@
             "jpText": "うんっ。ここの合宿所も\r\nすごくお世話になったでしょ？",
             "enText": "Yes. You've taken good care of \nus here at the camp, right?",
             "nextBlock": 6,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -8081818567538524891
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -3693096838128496761
+                }
+            ],
             "pathId": 7214337620710254282,
             "blockIdx": 5
         },
@@ -63,6 +110,7 @@
             "jpText": "だから管理人さんにね、ライスが\r\nできることないですかって聞いたの。\n……ほんの少ししか時間なかったけど。",
             "enText": "So I asked the manager if there was anything \nRice could do. I only had time for a little…",
             "nextBlock": 7,
+            "origClipLength": 79,
             "choices": [
                 {
                     "jpText": "優しいな",
@@ -75,6 +123,16 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -1354918474560986852
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 2711860028951290746
+                }
+            ],
             "pathId": 3028207884392805028,
             "blockIdx": 6
         },
@@ -84,6 +142,17 @@
             "jpText": "そ、そんなことないよ……だって、\r\nちょっとしたことしかしてないもん。",
             "enText": "No, I don't think so… Because \nI've only done a few things.",
             "nextBlock": 8,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 8198072641847444689
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4681152283618491572
+                }
+            ],
             "pathId": -1966151123586958125,
             "blockIdx": 7
         },
@@ -93,11 +162,22 @@
             "jpText": "お花のお水をあげたり……\r\nベンチのペンキを塗り替えたりとか――",
             "enText": "Watering the flowers… repainting \nthe benches, etc.",
             "nextBlock": 9,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "……ベンチのペンキ？",
                     "enText": "… paint on the bench?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -7837859644071359387
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3244895878469702793
                 }
             ],
             "pathId": -1751093219235535824,
@@ -109,6 +189,18 @@
             "jpText": "うん！　いま、お兄さまが\r\n休んでるベンチを――",
             "enText": "Yeah! The bench where your brother \nis resting right now.",
             "nextBlock": 10,
+            "origClipLength": 60,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 5585621736074697777
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5025521199207070797
+                }
+            ],
             "pathId": -3562511179951259471,
             "blockIdx": 9
         },
@@ -118,6 +210,18 @@
             "jpText": "うん！　いま、お姉さまが\r\n休んでるベンチを――",
             "enText": "Yeah! The bench where your sister \nis resting right now.",
             "nextBlock": 11,
+            "origClipLength": 60,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 1453162367736623632
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -8376442650664694870
+                }
+            ],
             "pathId": 2305168596127400611,
             "blockIdx": 10
         },
@@ -127,6 +231,18 @@
             "jpText": "……お兄さまっ！？",
             "enText": "… Oh brother!",
             "nextBlock": 12,
+            "origClipLength": 50,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 7297144669406689152
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -779461636411573704
+                }
+            ],
             "pathId": 3854817835304137990,
             "blockIdx": 11
         },
@@ -136,6 +252,18 @@
             "jpText": "……お姉さまっ！？",
             "enText": "… Sis!",
             "nextBlock": 13,
+            "origClipLength": 50,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -8041080029243173927
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -4984233340360266647
+                }
+            ],
             "pathId": -6334883166196620108,
             "blockIdx": 12
         },
@@ -145,6 +273,17 @@
             "jpText": "（ベリベリベリベリッ！！）",
             "enText": "(BELLY BELLY BELLY!)",
             "nextBlock": 14,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 4646834809738066899
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 6788107512753941768
+                }
+            ],
             "pathId": -3937568469044730005,
             "blockIdx": 13
         },
@@ -154,6 +293,17 @@
             "jpText": "……慌てて立ち上がったが、\r\nべったりとペンキがついてしまっていた……。",
             "enText": "I got up… in a hurry, but the \npaint was all over me…",
             "nextBlock": 15,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -1474416856826111810
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -5794126861036207337
+                }
+            ],
             "pathId": 8347040589108709325,
             "blockIdx": 14
         },
@@ -163,6 +313,17 @@
             "jpText": "ごっ、ごめんなさい！　ライスが\r\n注意書きしてなかったから……！",
             "enText": "Gosh, I'm sorry! Rice didn't \ngive me a heads up…!",
             "nextBlock": 16,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 394658887945546573
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -971976986475232175
+                }
+            ],
             "pathId": -3786109136256182737,
             "blockIdx": 15
         },
@@ -172,11 +333,23 @@
             "jpText": "はわわわ……どうしよう。\r\nお兄さま。あうぅぅ～……。",
             "enText": "Hawa Hawa… What should I \ndo? Oh brother. Aww~…",
             "nextBlock": 17,
+            "origClipLength": 62,
             "choices": [
                 {
                     "jpText": "またペンキを塗り直そうか",
                     "enText": "Let's get another coat of paint.",
                     "nextBlock": 18
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 6645457979758117639
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 1759595898640812620
                 }
             ],
             "pathId": 5724279752395108525,
@@ -188,11 +361,23 @@
             "jpText": "はわわわ……どうしよう。\r\nお姉さま。あうぅぅ～……。",
             "enText": "Hawa Hawa… What should I do? Sister. Aww~…",
             "nextBlock": 18,
+            "origClipLength": 62,
             "choices": [
                 {
                     "jpText": "またペンキを塗り直そうか",
                     "enText": "Let's get another coat of paint.",
                     "nextBlock": 18
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 1448584903923847985
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 5697419516285245780
                 }
             ],
             "pathId": 4154846133362284957,
@@ -204,6 +389,17 @@
             "jpText": "う、うん……はぁ……。\r\n本当にごめんなさい……。",
             "enText": "Umm, yeah… haha… I'm really sorry…",
             "nextBlock": 19,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -4550001989705093731
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 4152603821435621064
+                }
+            ],
             "pathId": 7744091193950767953,
             "blockIdx": 18
         },
@@ -213,6 +409,17 @@
             "jpText": "それじゃあ管理人さんにも\r\nごめんなさい、してくるね。",
             "enText": "I'll go apologize to the janitor, then.",
             "nextBlock": 20,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 3849200352189851118
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -5418601938620375522
+                }
+            ],
             "pathId": -3041271721484415814,
             "blockIdx": 19
         },
@@ -222,6 +429,17 @@
             "jpText": "あと、ペンキも借りて。\r\nどうすればいいのかを確認して……。",
             "enText": "Also, borrow some paint. Check \nout … to see what you can do.",
             "nextBlock": 21,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 4822997645554466425
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 4697853335165607872
+                }
+            ],
             "pathId": 4004344162577526268,
             "blockIdx": 20
         },
@@ -231,8 +449,20 @@
             "jpText": "――誰にだって変わらない所はある。\r\nしかし、着実に成長している部分もある。\nそんなことを感じた最終日だった。",
             "enText": "—Everyone has parts that don't change. \nHowever, others are steadily growing. That \nwas how  I felt on this final day.",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 5912507428120294842
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -3391184607500621135
+                }
+            ],
             "pathId": -3011625348051552371,
             "blockIdx": 21
         }
-    ]
+    ],
+    "modified": 1669945547
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4ERYECMRBEYGSKML6M3N4QQ2MZPEH3MR",
     "type": "story",
     "storyId": "501061400",
@@ -11,6 +11,7 @@
             "jpText": "ウマ娘界において伝説的な存在の母親を持ち、\r\n自身も“黄金世代”の1人に名を連ねて\n活躍が期待されるお嬢様・キングヘイロー。",
             "enText": "With a mother who is a legend in the horse \ngirl world, King Halo is expected to be one \nof the \"golden generation\" of horse girls.",
             "nextBlock": 2,
+            "origClipLength": 125,
             "coloredText": [
                 {
                     "jpText": "黄金世代",
@@ -19,6 +20,16 @@
                 {
                     "jpText": "キングヘイロー",
                     "enText": "King Halo"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -7688533247406821457
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 7813367072325274497
                 }
             ],
             "pathId": 7052504000305877512,
@@ -30,6 +41,17 @@
             "jpText": "勝利するために何度でも立ち上がり\r\n挑み続ける強い意志を持っている……のだが。\n高飛車な言動と行動に、周囲は振り回される。",
             "enText": "She has the will to get up and challenge \nherself again and again to win… But her speech \nand attitude are rather haughty.",
             "nextBlock": 3,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 8200670583290890518
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 7057251493527049932
+                }
+            ],
             "pathId": 819703328650828525,
             "blockIdx": 2
         },
@@ -39,14 +61,26 @@
             "jpText": "そんなワガママお嬢様と共に、\r\nトゥインクル・シリーズを目指す\n挑戦の日々が始まったのだった。",
             "enText": "With such a selfish young lady, I began my \nchallenge to win the Twinkle Series.",
             "nextBlock": -1,
+            "origClipLength": 106,
             "coloredText": [
                 {
                     "jpText": "トゥインクル・シリーズ",
                     "enText": "Twinkle Series"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 667788676152910200
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -6005389369418935962
+                }
+            ],
             "pathId": -7094360917193443271,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945930
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "EX4RGSCMSVNHQC5ZW2VVEDJVYP67DHT5",
     "type": "story",
     "storyId": "501032700",
@@ -11,6 +11,21 @@
             "jpText": "ふぁ～あ……。",
             "enText": "Huh…",
             "nextBlock": 2,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -1833415516754146604
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 634191855207198665
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 2049404399886783419
+                }
+            ],
             "pathId": -1769969613574700769,
             "blockIdx": 1
         },
@@ -20,6 +35,21 @@
             "jpText": "ううん……。\r\n今日の実験だがね、トレーナー君……。",
             "enText": "No… Today's experiment,\nMr. Trainer, is…",
             "nextBlock": 3,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7509742317558094479
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -8824033914951524203
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -8398207637004054072
+                }
+            ],
             "pathId": -2474088753399639187,
             "blockIdx": 2
         },
@@ -29,6 +59,7 @@
             "jpText": "……ええっと、なんだったかな。\r\n確か今朝までかかって用意したものが……。",
             "enText": "… uh, I don't know what it was. I'm\npretty sure it took me until this morning\nto prepare it…",
             "nextBlock": 4,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "眠そうだな",
@@ -41,6 +72,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 1665893513833918444
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3384598443435730914
+                }
+            ],
             "pathId": 4299035325481111538,
             "blockIdx": 3
         },
@@ -50,6 +91,17 @@
             "jpText": "研究の途中で、思考を停止させるわけには\r\nいかなかったんだよ……。",
             "enText": "I couldn't let my thinking stop in the\nmiddle of my research…",
             "nextBlock": 5,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 8264589108738959284
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 8123220810631626062
+                }
+            ],
             "pathId": -4169975701764607058,
             "blockIdx": 4
         },
@@ -59,6 +111,17 @@
             "jpText": "大丈夫さ……実験体は君だし、\r\n何の問題も……ない……。",
             "enText": "It's okay… You're the experiment,\nand there's nothing… wrong\nwith you…",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -5874449485488597718
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 474233797536426958
+                }
+            ],
             "pathId": -2422463700818402736,
             "blockIdx": 5
         },
@@ -68,8 +131,20 @@
             "jpText": "アグネスタキオンは終始、\r\nウトウトとしていた。\nどうやらあまり休めなかったようだ。",
             "enText": "Agnes Tachyon was drowsy throughout the\nrace. Apparently, she didn't get much rest.",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -8728769612843539894
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -2955566445924134407
+                }
+            ],
             "pathId": 639879237847979650,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945587
 }

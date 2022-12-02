@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "X6DG2ZOWNDD6C774AQZEIYQVCBIZ4N7S",
     "type": "story",
     "storyId": "501030200",
@@ -11,10 +11,21 @@
             "jpText": "ついにライスシャワーの\r\n『メイクデビュー』の日がやってきた。",
             "enText": "Finally, the day came for \nRice Shower's \"debut\".",
             "nextBlock": 2,
+            "origClipLength": 65,
             "coloredText": [
                 {
                     "jpText": "メイクデビュー",
                     "enText": "Make-up debut"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 2709364740471306823
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8943643669917807970
                 }
             ],
             "pathId": 3934359111736435657,
@@ -26,6 +37,17 @@
             "jpText": "……外に出れば、\r\nライスのレースが始まる。",
             "enText": "Once outside… Rice's race will begin.",
             "nextBlock": 3,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 9216372119170855486
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -8319433610024420652
+                }
+            ],
             "pathId": 6419247149579601211,
             "blockIdx": 2
         },
@@ -35,11 +57,22 @@
             "jpText": "こんなに、ドキドキするんだね。\r\nえへへ……すごく怖い、かも。",
             "enText": "It's so exciting, isn't it? Ehehe… \nmight be very scary.",
             "nextBlock": 4,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "ライスなら大丈夫",
                     "enText": "Rice will do.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 6677521167531036684
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3370944831108640405
                 }
             ],
             "pathId": -432527617948893718,
@@ -51,6 +84,17 @@
             "jpText": "……っ。うん、がんばってくる。\r\n怖がってばかりじゃいけないもんね。",
             "enText": "… Yeah, I'll do my best. You can't \nbe afraid all the time, can you?",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 1845303295540227613
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1616930353579892702
+                }
+            ],
             "pathId": 3323696666842717996,
             "blockIdx": 4
         },
@@ -60,8 +104,20 @@
             "jpText": "それじゃあ……いってきます！",
             "enText": "Well then, I'm off to…!",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -2714957639807236502
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -5578611071166735743
+                }
+            ],
             "pathId": 5702889416623335030,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945545
 }

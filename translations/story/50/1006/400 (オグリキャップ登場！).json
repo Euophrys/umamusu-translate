@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ZBRTDPCS2YYXVB7QHGON3B2JMB5WMEOY",
     "type": "story",
     "storyId": "501006400",
@@ -11,10 +11,21 @@
             "jpText": "これからオグリキャップとの\r\n本格的なトレーニングがスタートする。",
             "enText": "Now the real training with \nOguri-cap will begin.",
             "nextBlock": 2,
+            "origClipLength": 66,
             "coloredText": [
                 {
                     "jpText": "オグリキャップ",
                     "enText": "Oguri cap"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -7291738846859150339
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8621967177043918491
                 }
             ],
             "pathId": -6467595257317417150,
@@ -26,6 +37,17 @@
             "jpText": "『中央で活躍し、故郷の人達の期待に応える』\r\nという夢を掲げる彼女は、\n日常生活でも静かな闘志を覗かせていた。",
             "enText": "\"To compete in the city, to meet her hometown's \nexpectations\". Holding this dream, she shows a \nquiet fighting spirit even in daily life.",
             "nextBlock": 3,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 211,
+                    "pathId": 7309734682153512558
+                },
+                {
+                    "origLen": 231,
+                    "pathId": 4801119459693420507
+                }
+            ],
             "pathId": 1423861192089488522,
             "blockIdx": 2,
             "skip": true
@@ -36,8 +58,20 @@
             "jpText": "まずはデビュー戦を目指し――\r\nオグリキャップの伝説が今、始まる。",
             "enText": "The legend of Oguri Cap begins now, as she \naims to make her debut.",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 211,
+                    "pathId": 7899007252176058651
+                },
+                {
+                    "origLen": 231,
+                    "pathId": -6554091844449369963
+                }
+            ],
             "pathId": -3927650743778215170,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944977
 }

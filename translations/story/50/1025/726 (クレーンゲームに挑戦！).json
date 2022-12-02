@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "WXKO7IC3VPO45DZJKR6P5RUWKJQHDRYO",
     "type": "story",
     "storyId": "501025726",
@@ -11,6 +11,17 @@
             "jpText": "ある日、\r\nマンハッタンカフェと出かけた先で――",
             "enText": "One day, on a trip with Manhattan Cafe…",
             "nextBlock": 2,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 2584530875432085188
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -1098741815645875087
+                }
+            ],
             "pathId": -1407826064809343587,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "……あ……あのクレーンゲーム……。",
             "enText": "… ah… that crane game…",
             "nextBlock": 3,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -8650635239111490456
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1811941049056467091
+                }
+            ],
             "pathId": -4466335971508345096,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "マンハッタンカフェの視線を辿ると、\r\nウマ娘たちをモチーフにしたぬいぐるみが\n入った、クレーンゲームがあった。",
             "enText": "I followed the Manhattan Cafe's gaze to a\ncrane game with stuffed animals featuring\nthe Uma Musume girls.",
             "nextBlock": 4,
+            "origClipLength": 116,
             "choices": [
                 {
                     "jpText": "取ってあげようか？",
                     "enText": "You want me to get it for you?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 5615309073418499097
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -521314881282743402
                 }
             ],
             "pathId": -7754024113517691027,
@@ -45,6 +78,17 @@
             "jpText": "いいんですか……ありがとうございます。",
             "enText": "Is that okay?… Thank you.",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -1966913595136828329
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 458914730567896114
+                }
+            ],
             "pathId": -4164240086345223511,
             "blockIdx": 4
         },
@@ -54,11 +98,22 @@
             "jpText": "それに……あの愛らしいぬいぐるみなら……\r\n髪の毛……勝手に伸びなそう……。",
             "enText": "Besides… that adorable stuffed\nanimal would not… hair…\ngrow on its own.",
             "nextBlock": 6,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "え……？",
                     "enText": "え…?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 2721837153300188510
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -4722794208591849585
                 }
             ],
             "pathId": -6855321234700301656,
@@ -70,6 +125,21 @@
             "jpText": "いえ……昔の話です……\r\nそれよりも……頑張ってください。",
             "enText": "No… that was a long time ago…\nBetter yet… good luck with that.",
             "nextBlock": 7,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5792720095589533372
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 312559926153120298
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 3356012632770387586
+                }
+            ],
             "pathId": -3756285251504529371,
             "blockIdx": 6
         },
@@ -79,8 +149,20 @@
             "jpText": "――このゲーム、負けられない！！",
             "enText": "—This game, you can't lose!",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 8368001294656757400
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7551924033622988587
+                }
+            ],
             "pathId": 3910739214814829925,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669946375
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ZMYZVV37YZTK7UBXWT7RA5WUFQN6C25R",
     "type": "story",
     "storyId": "830024002",
@@ -11,6 +11,17 @@
             "jpText": "――この日は<chrname>のため、\r\nレース場の下見に来ていたのだが……。",
             "enText": "—I had come to preview the racetrack \nthat day for <chrname>…",
             "nextBlock": 2,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -2936538048359560259
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 9100244503938409183
+                }
+            ],
             "pathId": 4908011312236348418,
             "blockIdx": 1
         },
@@ -20,6 +31,21 @@
             "jpText": "いやぁ、オグリさん聞きましたよ！\r\nぬいぐるみの制作＆発売を記念して\nイベントが開催されるとか！",
             "enText": "Well, Oguri-san, I heard about it! I heard \nthere's going to be an event to celebrate \nthe creation & release of the plushie!",
             "nextBlock": 3,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 4474755898458132799
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -6096523103847394836
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -2520796247433912391
+                }
+            ],
             "pathId": -3049892854606565966,
             "blockIdx": 2
         },
@@ -29,6 +55,21 @@
             "jpText": "……あ、ありがとう。",
             "enText": "… Oh, thank you.",
             "nextBlock": 4,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -6861130751065863024
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -8807710991964218688
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -1329181604303088169
+                }
+            ],
             "pathId": 3762959868829719827,
             "blockIdx": 3
         },
@@ -38,6 +79,21 @@
             "jpText": "さすがスター。ご家族も喜んでいるでしょう！\r\nで、いつお会いになるんです？\nぜひ、感動のコメントを独占でいただきたい！",
             "enText": "That's the star. Your family must be so \nhappy! So, when are you going to meet them? \nI'd love to have an exclusive commentary on \nyour excitement!",
             "nextBlock": 5,
+            "origClipLength": 121,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4898070461886048379
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -2764393297815466563
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -4479702489300835409
+                }
+            ],
             "pathId": 6877479675323118602,
             "blockIdx": 4
         },
@@ -47,6 +103,21 @@
             "jpText": "いや。両親は故郷にいるので――",
             "enText": "No, I don't. My parents are back home, so…",
             "nextBlock": 6,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 2040916619677776906
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 7362826351615374257
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4589384883072278475
+                }
+            ],
             "pathId": -3918280658022018506,
             "blockIdx": 5
         },
@@ -56,6 +127,17 @@
             "jpText": "おっと、ではお電話でも結構です！\r\nそうですね～……まずはぜひご実家の\n電話番号を教えていただけますと……。",
             "enText": "Oops, you can call me then! Yes~… \nif you could please give me your \nparents' phone number first…",
             "nextBlock": 7,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 2264028329494223088
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 9109086993129029864
+                }
+            ],
             "pathId": -2087637926025275199,
             "blockIdx": 6
         },
@@ -65,6 +147,17 @@
             "jpText": "で、電話か？\r\nええっと、それなら……0――",
             "enText": "So, you're calling? Well, that's…0—",
             "nextBlock": 8,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -7160160010162053377
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 7903506524072643748
+                }
+            ],
             "pathId": 5454406255761094944,
             "blockIdx": 7
         },
@@ -74,11 +167,22 @@
             "jpText": "……さすがに取材だとしても、\r\n個人情報を聞き出すのは度が過ぎている。\nこれ以上は学園関係者として見過ごせない。",
             "enText": "… Even if it is indeed an interview, \nasking for personal information is \ntoo much. I'm not sure what to make \nof it, but it's a good idea.",
             "nextBlock": 9,
+            "origClipLength": 118,
             "choices": [
                 {
                     "jpText": "以降の質問は、学園を通してください",
                     "enText": "Subsequent questions should be \ndirected through the school.",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 5434626107031809127
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 5567108544527593733
                 }
             ],
             "pathId": -764935525669635300,
@@ -90,6 +194,17 @@
             "jpText": "え、あなたは？　……はっ、そのバッジ！\r\nあ、あはは。学園の方でしたか！\nこれは失礼しました～……！",
             "enText": "What about you? … haha, that badge! \nAh, haha. You're from the academy! \nI'm sorry about this~…!",
             "nextBlock": 10,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": -1441787469185064747
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -3293859817851843959
+                }
+            ],
             "pathId": 8899688525632399171,
             "blockIdx": 9
         },
@@ -99,11 +214,22 @@
             "jpText": "……助けてくれてありがとう。\r\nやはり彼は記者として、\nよくない人だったんだな。",
             "enText": "… Thanks for the help. I guess she wasn't a \ngood reporter after all.",
             "nextBlock": 11,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "怪しいと思ったらすぐ断ろう",
                     "enText": "If something seems fishy, \nturn it down right away.",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 7235853664475922192
+                },
+                {
+                    "origLen": 137,
+                    "pathId": -4237949363338283895
                 }
             ],
             "pathId": 1350217996032311071,
@@ -115,6 +241,17 @@
             "jpText": "それは……そうなんだが。",
             "enText": "That's… true.",
             "nextBlock": 12,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -1895319158661928758
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5503953273766028332
+                }
+            ],
             "pathId": 4764411586165789903,
             "blockIdx": 11
         },
@@ -124,6 +261,17 @@
             "jpText": "……実は先ほど、あの記者に、\r\n私はスターウマ娘だと言われたんだ。",
             "enText": "… Actually, that reporter told me earlier \nthat I was a star horse girl.",
             "nextBlock": 13,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 1122161419210222764
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2664858205309751821
+                }
+            ],
             "pathId": -2699797568858306361,
             "blockIdx": 12
         },
@@ -133,6 +281,17 @@
             "jpText": "『スターならば質問に答える義務がある。\r\nファンもそれを望んでいる』……と。",
             "enText": "'If you're a star, you have to answer \nquestions. The fans want that, too.\"…",
             "nextBlock": 14,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5851513235114735850
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 6333391729986496681
+                }
+            ],
             "pathId": -5756318332926396468,
             "blockIdx": 13
         },
@@ -142,6 +301,17 @@
             "jpText": "ならば質問を断ってしまったら――",
             "enText": "Then if you turn down the question—",
             "nextBlock": 15,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -504525409739042294
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -611203046008518595
+                }
+            ],
             "pathId": -8846734004974107334,
             "blockIdx": 14
         },
@@ -151,6 +321,17 @@
             "jpText": "……私はみんなの期待を\r\n裏切ることになるんじゃないか？",
             "enText": "… I'm going to disappoint \neveryone, aren't I?",
             "nextBlock": 16,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -535947109607021917
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -6638582179274335583
+                }
+            ],
             "pathId": 4878719785068276827,
             "blockIdx": 15
         },
@@ -160,6 +341,7 @@
             "jpText": "……話を聞くに彼女はとてもファン想いの\r\nウマ娘のようだ。ならば、なおさら――",
             "enText": "I've heard of… and she seems to be a very \nfanatical Uma girl. And even more so.",
             "nextBlock": 17,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "きちんと断らないとダメだ",
@@ -172,6 +354,16 @@
                     "nextBlock": 17
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -4501514232292613640
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -1660678879623997854
+                }
+            ],
             "pathId": 4659342564004130393,
             "blockIdx": 16
         },
@@ -181,6 +373,7 @@
             "jpText": "……しかし……。",
             "enText": "… but…",
             "nextBlock": 18,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "ファンも君を大切にしたいはず",
@@ -193,6 +386,16 @@
                     "nextBlock": 18
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -7377318415005152908
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -5847188071522499660
+                }
+            ],
             "pathId": 717851535269208145,
             "blockIdx": 17
         },
@@ -202,6 +405,17 @@
             "jpText": "……！",
             "enText": "…!",
             "nextBlock": 19,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -1453823576708321375
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 756043218711968651
+                }
+            ],
             "pathId": 1403615507259116728,
             "blockIdx": 18
         },
@@ -211,6 +425,17 @@
             "jpText": "……そうか、そうだな。\r\nトメさんやシゲさんもよく言っていた。",
             "enText": "… Oh, yeah, that's right. Tomi \nand Shige used to say that.",
             "nextBlock": 20,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -8599084748484492639
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 24917695196756047
+                }
+            ],
             "pathId": -5475747023637971732,
             "blockIdx": 19
         },
@@ -220,6 +445,17 @@
             "jpText": "『オグリちゃんは私たちの宝』と。\r\n私も守るべきだったんだな……その宝を。",
             "enText": "You are our treasure. I guess I should have \nprotected… that treasure, too.",
             "nextBlock": 21,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -4644377930773857392
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -3036990521887921071
+                }
+            ],
             "pathId": 5422453031050084762,
             "blockIdx": 20
         },
@@ -229,6 +465,17 @@
             "jpText": "うん。わかった。\r\n次からは断ることにしよう。",
             "enText": "Yeah. I understand. I'll say no next time.",
             "nextBlock": 22,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -7659914870089444133
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -1020011759226427508
+                }
+            ],
             "pathId": 6963763374974238695,
             "blockIdx": 21
         },
@@ -238,6 +485,7 @@
             "jpText": "……だが、うまく断れるだろうか。",
             "enText": "… but will I be able to say no successfully?",
             "nextBlock": 23,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "その時は大人を頼って",
@@ -250,6 +498,16 @@
                     "nextBlock": 30
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 2813666911667319205
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -902929858327020750
+                }
+            ],
             "pathId": 3313147277829395821,
             "blockIdx": 22
         },
@@ -259,6 +517,17 @@
             "jpText": "……なるほど。",
             "enText": "… I see.",
             "nextBlock": 24,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -5413051852302167048
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -5913705584824143987
+                }
+            ],
             "pathId": -2860429397871001247,
             "blockIdx": 23
         },
@@ -268,6 +537,7 @@
             "jpText": "では今後もよろしく頼む。",
             "enText": "So, please keep up the good work.",
             "nextBlock": 25,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "俺？",
@@ -280,6 +550,16 @@
                     "nextBlock": 25
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -3652859501588067423
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6252382378691202592
+                }
+            ],
             "pathId": -6869058867782389414,
             "blockIdx": 24
         },
@@ -289,6 +569,21 @@
             "jpText": "ああ。先ほどのキミの対応は素晴らしかった。\r\nそれに幸いなことにキミは学園の関係者だ。",
             "enText": "Yeah. You did a great job earlier. \nAnd fortunately for you, you're \naffiliated with the school.",
             "nextBlock": 26,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 2009875354390196848
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 3746830092602494893
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 7594618558930949192
+                }
+            ],
             "pathId": -7385823337739858221,
             "blockIdx": 25
         },
@@ -298,6 +593,17 @@
             "jpText": "……だから頼ってもよいのだろう？",
             "enText": "It's… so we can rely on it, right?",
             "nextBlock": 27,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 4736354960454637149
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -1001985942588593789
+                }
+            ],
             "pathId": 6732598442084435231,
             "blockIdx": 26
         },
@@ -307,6 +613,7 @@
             "jpText": "……何とも素直な回答が来てしまったが\r\n彼女の言い分はまさしく正しい。しかし――",
             "enText": "… What a straightforward answer I got, but \nshe's exactly right. But—",
             "nextBlock": 28,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "君は素直すぎる所があるな",
@@ -319,6 +626,16 @@
                     "nextBlock": 28
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 8545968624317338006
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 386066748298686051
+                }
+            ],
             "pathId": 7313944675010667563,
             "blockIdx": 27
         },
@@ -328,6 +645,17 @@
             "jpText": "ああ、らしいな。\r\n母からもよくそう褒められていた。",
             "enText": "Yeah, that's typical. That's what my mother \nused to praise me for.",
             "nextBlock": 29,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7945523103061613607
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6592090555890705715
+                }
+            ],
             "pathId": -3812962135163727052,
             "blockIdx": 28
         },
@@ -337,6 +665,17 @@
             "jpText": "その後、学園の大人たちにオグリキャップが\r\n率直に質問する姿を見かけたのだった。",
             "enText": "Afterwards, she saw Oguri-cap asking \nthe adults at the school a few straightforward \nquestions.",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -7102911402443077096
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 4431691337219240760
+                }
+            ],
             "pathId": 6480968900335344787,
             "blockIdx": 29
         },
@@ -346,11 +685,22 @@
             "jpText": "……魔法の言葉？",
             "enText": "… Magic words?",
             "nextBlock": 31,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "『学園を通してください』",
                     "enText": "\"Please go through the school.\"",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 6692881392903155878
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -5152409989483208080
                 }
             ],
             "pathId": 68346585592059941,
@@ -362,6 +712,17 @@
             "jpText": "それは……さっきキミが言っていた……！？",
             "enText": "That's the… you were talking about earlier…!",
             "nextBlock": 32,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -8329939659329685846
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 120895685796732633
+                }
+            ],
             "pathId": -1838192960742897503,
             "blockIdx": 31
         },
@@ -371,6 +732,17 @@
             "jpText": "なるほど。あの記者もそれを聞くと、\r\nすぐに逃げて行ってしまったな。ふむ……。",
             "enText": "I see. That reporter ran away as \nsoon as she heard that. Hmm…",
             "nextBlock": 33,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 6021181110120260602
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 2490958283918226480
+                }
+            ],
             "pathId": 5062907884798924596,
             "blockIdx": 32
         },
@@ -380,6 +752,17 @@
             "jpText": "その時、1人の女性が\r\nこちらに駆け寄ってきた。",
             "enText": "At that moment, a woman came \nrunning towards me.",
             "nextBlock": 34,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 5200599532421701231
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4935886381748839059
+                }
+            ],
             "pathId": 2134277045290367531,
             "blockIdx": 33
         },
@@ -389,6 +772,21 @@
             "jpText": "あ、いたいた。オグリさーん！\r\nぬいぐるみの件でお話を――",
             "enText": "Oh, there you are. Ms. Oguri! I need to talk \nto you about the stuffed animal.",
             "nextBlock": 35,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -6641562635158502415
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -2793164887064284012
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -8831254866119467828
+                }
+            ],
             "pathId": 4070382644932627183,
             "blockIdx": 34
         },
@@ -398,6 +796,21 @@
             "jpText": "その質問、学園を通してください！",
             "enText": "That question, please go through the school!",
             "nextBlock": 36,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -3558995210869239215
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -5227900061761796455
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 5870363169935734000
+                }
+            ],
             "pathId": -2909247280017019332,
             "blockIdx": 35
         },
@@ -407,6 +820,17 @@
             "jpText": "へっ？　あれれっ！？　ぬいぐるみ製作の\r\n打ち合わせ、今日する予定でした……よね？",
             "enText": "Huh? What the hell? We were supposed to have \na meeting today to discuss the plushie \nproduction… right?",
             "nextBlock": 37,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 8847575506462420336
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -2028303225059189806
+                }
+            ],
             "pathId": -4247814704797278625,
             "blockIdx": 36
         },
@@ -416,6 +840,17 @@
             "jpText": "あ。それは聞いていた……。\r\nす……すまない。",
             "enText": "Oh. I had heard that… I'm sorry about the…",
             "nextBlock": 38,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -3024864095007984560
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 7434969811002766549
+                }
+            ],
             "pathId": -6759452328475080307,
             "blockIdx": 37
         },
@@ -425,8 +860,20 @@
             "jpText": "魔法の言葉を使いこなすには、\r\nもう少し練習が必要なようだ……。",
             "enText": "It seems that it takes a little more \npractice to master the magic words…",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 156320764403328045
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 3154381555649172926
+                }
+            ],
             "pathId": 2123209558532848461,
             "blockIdx": 38
         }
-    ]
+    ],
+    "modified": 1669946027
 }

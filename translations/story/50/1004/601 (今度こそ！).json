@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4RUJLLRZ4IPPNJLPKEOOUX4BMVSMQ2HD",
     "type": "story",
     "storyId": "501004601",
@@ -11,6 +11,17 @@
             "jpText": "今日はあたし頑張っちゃうわよ！",
             "enText": "I'm going to do my best today!",
             "nextBlock": 2,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -1790770786911177637
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4563612318546810556
+                }
+            ],
             "pathId": 5862721844426868266,
             "blockIdx": 1
         },
@@ -20,6 +31,18 @@
             "jpText": "前回はトレーナー君や後輩ちゃんたちに、\n不甲斐ないとこ見せちゃったからね。",
             "enText": "Last time, I showed my trainers and\njuniors that I wasn't good enough.",
             "nextBlock": 3,
+            "origClipLength": 93,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 4513302975133026362
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 8023369526136135274
+                }
+            ],
             "pathId": 584236216575176500,
             "blockIdx": 2
         },
@@ -29,6 +52,18 @@
             "jpText": "前回はトレーナーちゃんや後輩ちゃんたちに、\n不甲斐ないとこ見せちゃったからね。",
             "enText": "Last time, I showed my trainers and\njuniors that I wasn't good enough. ",
             "nextBlock": 4,
+            "origClipLength": 95,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 5311850673118757005
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 5689095534584750693
+                }
+            ],
             "pathId": -2512107479237283041,
             "blockIdx": 3
         },
@@ -38,6 +73,7 @@
             "jpText": "今日のレースは、みんながビックラ\nこいちゃうくらい、かっ飛ばしてやるわ！",
             "enText": "In today's race, I'm going to kick so hard\nthat everyone will be surprised!",
             "nextBlock": 5,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "君ならできる！",
@@ -50,6 +86,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 5962719608770824008
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -5700848489572564806
+                }
+            ],
             "pathId": 4546135548743573838,
             "blockIdx": 4
         },
@@ -59,6 +105,18 @@
             "jpText": "ありがと、トレーナー君！\nよーし、いくわよー！",
             "enText": "Thanks, trainer! All right, let's go!",
             "nextBlock": 6,
+            "origClipLength": 75,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 4823454073419957422
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -8040386392607179112
+                }
+            ],
             "pathId": 4151566830507314400,
             "blockIdx": 5
         },
@@ -68,8 +126,21 @@
             "jpText": "ありがと、トレーナーちゃん！\nよーし、いくわよー！",
             "enText": "Thanks, trainer! All right, let's go! ",
             "nextBlock": -1,
+            "origClipLength": 77,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -7516914274399450470
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 7809282726522237796
+                }
+            ],
             "pathId": -3992868743857080028,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669944918
 }

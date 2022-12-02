@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6O7TLFHCZSFWV2ODKNTZUTSMTJCP4VFE",
     "type": "story",
     "storyId": "501050601",
@@ -11,6 +11,7 @@
             "jpText": "前回は負けたけど……\r\n今度こそ絶対勝ってやる！",
             "enText": "We lost last time, but… we're \ngonna win this time for sure!",
             "nextBlock": 2,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "やる気だな",
@@ -23,6 +24,20 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -319729833205292560
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -1009056193000674449
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -2461666817981204754
+                }
+            ],
             "pathId": -3072117903859113140,
             "blockIdx": 1
         },
@@ -32,6 +47,21 @@
             "jpText": "当たり前。\r\nナメられっぱなしなんてごめんだし。",
             "enText": "Of course. I don't want to \nbe taken advantage of.",
             "nextBlock": 3,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 3430978708703272997
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 1522005415215726125
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -4848082470205560035
+                }
+            ],
             "pathId": 6812197321245704912,
             "blockIdx": 2
         },
@@ -41,6 +71,17 @@
             "jpText": "目ぇ逸らせない走りして、\r\n1着でゴールして――",
             "enText": "You're going to have to run like \nyou can't look away. You're going \nto have to finish first.",
             "nextBlock": 4,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 1010276564867927602
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -9116021262608902213
+                }
+            ],
             "pathId": 5287957836320389063,
             "blockIdx": 3
         },
@@ -50,8 +91,20 @@
             "jpText": "アタシはやれるんだって、\r\n証明してやる……！",
             "enText": "I'm going to prove that I can do it…!",
             "nextBlock": -1,
+            "origClipLength": 92,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 3142971669477783306
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 8859444866759208502
+                }
+            ],
             "pathId": 8754183616802872107,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945815
 }

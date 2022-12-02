@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "FIRWHFUSKVFL7HUJUSLCHPVVDVHKGSPS",
     "type": "story",
     "storyId": "501004401",
@@ -11,10 +11,21 @@
             "jpText": "『朝日杯FS』が迫る中、\r\nマルゼンスキーはトレーニングを積む\n日々を楽しみながら過ごしていた。",
             "enText": "As the Asahi Haihai FS approached,\nMaruzensky was enjoying her training days.",
             "nextBlock": 2,
+            "origClipLength": 107,
             "coloredText": [
                 {
                     "jpText": "朝日杯FS",
                     "enText": "Asahi Cup FS"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": -4604434536096167734
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -1481115818054827341
                 }
             ],
             "pathId": -3610665189846605469,
@@ -26,6 +37,7 @@
             "jpText": "そんなある日、マルゼンスキーの背中を追う\r\nスペシャルウィークとグラスワンダーが\n彼女と併走をしたいと申し出る。",
             "enText": "Then one day, Special Week and Glass\nWonder, who are following Maruzensky's\nback, offer to run with her.",
             "nextBlock": 3,
+            "origClipLength": 118,
             "coloredText": [
                 {
                     "jpText": "スペシャルウィーク",
@@ -34,6 +46,32 @@
                 {
                     "jpText": "グラスワンダー",
                     "enText": "Glass Wonder"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -1419657287628563473
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 6705871211480642617
+                },
+                {
+                    "origLen": 156,
+                    "pathId": -898208045707194221
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 2901662681164476285
+                },
+                {
+                    "origLen": 170,
+                    "pathId": 4383087875664365125
+                },
+                {
+                    "origLen": 156,
+                    "pathId": 8412075359798671549
                 }
             ],
             "pathId": -1778822337884123847,
@@ -45,8 +83,28 @@
             "jpText": "マルゼンスキーはそんな熱い想いを\r\n受け取り……『朝日杯FS』にむけて\n更に気力を増すのだった。",
             "enText": "Maruzensky received such passionate\nfeelings and … further increased her\nenergy for the \"Asahihai FS\".",
             "nextBlock": -1,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": 6818864374049974853
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 3440360398118818241
+                },
+                {
+                    "origLen": 165,
+                    "pathId": -3235708173573922073
+                },
+                {
+                    "origLen": 156,
+                    "pathId": 8002398023920238677
+                }
+            ],
             "pathId": -5737981591477165703,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944909
 }

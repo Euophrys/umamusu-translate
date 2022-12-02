@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "KVO5N37OLWK342ET6JSCDY3RGHFB35MD",
     "type": "story",
     "storyId": "501032201",
@@ -11,10 +11,21 @@
             "jpText": "ふぅン。ＧⅡレース『弥生賞』か。\r\nそこそこのメンバーが揃っているようだね。",
             "enText": "Hmm, the G2 race \"Yayoi-sho\". It looks\nlike there's a good lineup.",
             "nextBlock": 2,
+            "origClipLength": 69,
             "coloredText": [
                 {
                     "jpText": "ＧⅡ",
                     "enText": "G II"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -3326729219689844189
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2549515333114294946
                 }
             ],
             "pathId": 5140099256306875757,
@@ -26,6 +37,17 @@
             "jpText": "まぁでも……\r\nデータを取るにはいささか足りないな。",
             "enText": "Well, but it's not enough to\nget the data from…",
             "nextBlock": 3,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 7538434577356896024
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5137641610846191879
+                }
+            ],
             "pathId": -6647800089834027262,
             "blockIdx": 2
         },
@@ -35,6 +57,7 @@
             "jpText": "アグネスタキオンの言葉に、\r\n一抹の不安が襲う。",
             "enText": "Agnes Tachyon's words were met\nwith a hint of anxiety.",
             "nextBlock": 4,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "ちゃんと走るよな……？",
@@ -47,6 +70,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -7783932998375609879
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -8511487225617297414
+                }
+            ],
             "pathId": -2631703270831278983,
             "blockIdx": 3
         },
@@ -56,6 +89,17 @@
             "jpText": "もちろん、\r\nこれは『皐月賞』に繋がるレースだ。\n選択肢は減らすべきじゃない。",
             "enText": "Of course, this is the race that\nleads to Satsuki-sho. We should\nnot reduce our options.",
             "nextBlock": 5,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 8369376264644414879
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 7685634783170531165
+                }
+            ],
             "pathId": -1734346181179666878,
             "blockIdx": 4
         },
@@ -65,14 +109,26 @@
             "jpText": "それに、ＧⅠではないにせよ、そうナメて\r\nかかれるようなレースでもないだろう。",
             "enText": "And even though it's not a Grade 1 race,\nit's not a race to be taken lightly.",
             "nextBlock": -1,
+            "origClipLength": 70,
             "coloredText": [
                 {
                     "jpText": "ＧⅠ",
                     "enText": "G I"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -2836543423773631104
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 3354297296899734979
+                }
+            ],
             "pathId": -1355974456259539444,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945575
 }

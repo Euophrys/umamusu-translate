@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "YEPQDSNOABXSW3YNVEYBKH62G3IFVI5C",
     "type": "story",
     "storyId": "501041402",
@@ -11,10 +11,21 @@
             "jpText": "年の瀬の大一番、『有馬記念』の観戦に\r\nやってきたサクラバクシンオーとトレーナー。",
             "enText": "Sakura Bakushin O and her trainer\ncame to watch the big race of the\nyear, \"Arima Kinen\".",
             "nextBlock": 2,
+            "origClipLength": 98,
             "coloredText": [
                 {
                     "jpText": "有馬記念",
                     "enText": "Yuuma Memorial"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 7561772148617349018
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 3462270265817725188
                 }
             ],
             "pathId": 7096793855165652400,
@@ -26,6 +37,17 @@
             "jpText": "サクラバクシンオーは『有馬記念』こそ\r\n委員長たる自分が出るに\nふさわしいレースだと胸を膨らませる。",
             "enText": "Sakura Bakushin O is excited that the Arima\nKinen is the perfect race for her to run as\nthe chairman of the committee.",
             "nextBlock": 3,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 8519651967408326653
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 6893081951404748816
+                }
+            ],
             "pathId": 5197203450213965519,
             "blockIdx": 2
         },
@@ -35,6 +57,17 @@
             "jpText": "彼女の適性的に『有馬記念』を\r\n走るのは不可能に近い……とはいえ、\nこのやる気は有効活用できそうだ。",
             "enText": "Even though it's nearly impossible for her\nto run Arima Kinen due to her aptitude,\n… she can make good use of this\nmotivation.",
             "nextBlock": 4,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 3030716370592897057
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -2674697021565643458
+                }
+            ],
             "pathId": -8546316057720009762,
             "blockIdx": 3
         },
@@ -44,8 +77,20 @@
             "jpText": "トレーナーはサクラバクシンオーに\r\nさらなるスピードを求め、\n彼女はそれに応えるのだった。",
             "enText": "The trainer wanted more speed from Sakura\nBakushin-o, and she responded.",
             "nextBlock": -1,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -4762188934275531062
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -6550700929455111435
+                }
+            ],
             "pathId": -5195749218542055974,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945710
 }

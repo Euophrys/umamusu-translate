@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OOELRR7SCLZZPSTDZ5GEYW3CPUT2OLQJ",
     "type": "story",
     "storyId": "501032401",
@@ -11,6 +11,17 @@
             "jpText": "デビューから変わらず、\r\n研究第一に行動するアグネスタキオン。",
             "enText": "Since her debut, Agnes Tachyon has always\nput her research first.",
             "nextBlock": 2,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -6117847818690311803
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 9046358575093183134
+                }
+            ],
             "pathId": -6008391474989083220,
             "blockIdx": 1
         },
@@ -20,10 +31,21 @@
             "jpText": "トレーナーはそんな彼女を\r\nクラシック路線で活躍させるために、\n3年分の出走計画を練りあげた。",
             "enText": "Her trainer had developed a three-year\nrunning plan for her to compete in the\nclassic races.",
             "nextBlock": 3,
+            "origClipLength": 106,
             "coloredText": [
                 {
                     "jpText": "クラシック",
                     "enText": "Classic"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -5701332496376038865
+                },
+                {
+                    "origLen": 129,
+                    "pathId": -71582019435522381
                 }
             ],
             "pathId": 8824107563224414989,
@@ -35,6 +57,17 @@
             "jpText": "そのプランを見た彼女は研究を優先するため、\r\nどのレースへ出るかは\n自分自身で決めると明言する。",
             "enText": "When she saw the plan, she made it clear\nthat she would prioritize her research and\nwould decide for herself which race she\nwould participate in.",
             "nextBlock": 4,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 1572555798195063349
+                },
+                {
+                    "origLen": 129,
+                    "pathId": -1097803072510453512
+                }
+            ],
             "pathId": -7000537815053032407,
             "blockIdx": 3
         },
@@ -44,14 +77,26 @@
             "jpText": "だが、トレーナーの努力は彼女の意識を\r\nクラシックレースと、その前哨戦として走る\n『弥生賞』へ向けることに成功したのだった。",
             "enText": "However, the trainer's efforts succeeded\nin turning her attention to the classic\nrace and its prelude, the Yayoi-sho.",
             "nextBlock": -1,
+            "origClipLength": 125,
             "coloredText": [
                 {
                     "jpText": "弥生賞",
                     "enText": "Yayoi Award"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -2732224248428639302
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -6384528849839357753
+                }
+            ],
             "pathId": 2220969466976257162,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945580
 }

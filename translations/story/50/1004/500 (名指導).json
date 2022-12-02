@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BONW64SMEXKDVQSCFYERV7LPJ37W3ZID",
     "type": "story",
     "storyId": "501004500",
@@ -11,6 +11,7 @@
             "jpText": "うふふ、素敵ねタッちゃん。\nピカピカになったわ～♪",
             "enText": "It's so nice, isn't it, Tacchan?\nI'm all shiny and new.",
             "nextBlock": 2,
+            "origClipLength": 78,
             "pathId": -3558241335119144706,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "マルゼンスキーが愛車のタッちゃんを\n磨いている。",
             "enText": "Maruzensky is polishing\nher beloved Tacchan.",
             "nextBlock": 3,
+            "origClipLength": 77,
             "pathId": 1672818581652788366,
             "blockIdx": 2
         },
@@ -29,11 +31,23 @@
             "jpText": "あら、トレーナー君。\nこんにちは、いい天気ね♪",
             "enText": "Oh, hey, trainer. Hello.\nIt's a beautiful day.",
             "nextBlock": 4,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "タッちゃんのお手入れ中？",
                     "enText": "Are you taking care of Tacchan?",
                     "nextBlock": 5
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -9137350433751840603
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -6736888482276807357
                 }
             ],
             "pathId": -899034505966398604,
@@ -45,11 +59,23 @@
             "jpText": "あら、トレーナーちゃん。\nこんにちは、いい天気ね♪",
             "enText": "Oh, hey, trainer. Hello.\nIt's a beautiful day.",
             "nextBlock": 5,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "タッちゃんのお手入れ中？",
                     "enText": "Are you taking care of Tacchan?",
                     "nextBlock": 5
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 2305027019849658615
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 7395643280038009932
                 }
             ],
             "pathId": 4542364302455415099,
@@ -61,6 +87,7 @@
             "jpText": "ええ、時間があったから。\nちょうど今終わったところよ♪",
             "enText": "Yeah, I had time. I'm just finishing up.",
             "nextBlock": 6,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "ゴキゲンみたいだな",
@@ -73,6 +100,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -4228694368452444256
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 8596498043086632770
+                }
+            ],
             "pathId": 9082656993956307020,
             "blockIdx": 5
         },
@@ -82,6 +119,17 @@
             "jpText": "ふふ、モチのロンよ。大事なパートナーと\n触れ合う、大切な時間だものね～。",
             "enText": "Of course, of course. It's an important\ntime to get in touch with your precious\npartner, isn't it?",
             "nextBlock": 7,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -773801276101128118
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 1993549526779326780
+                }
+            ],
             "pathId": 2877117637318363616,
             "blockIdx": 6
         },
@@ -91,6 +139,17 @@
             "jpText": "愛情込めてお手入れすれば、応えてくれる。\nそういうの、いいと思わない？",
             "enText": "If you take care of it with love,\nit will respond to you. Don't you\nthink that's a good thing?",
             "nextBlock": 8,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 3158587867325021052
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4923498458039484316
+                }
+            ],
             "pathId": -902610165248509550,
             "blockIdx": 7
         },
@@ -100,6 +159,18 @@
             "jpText": "なんて、わざわざ説明しなくても、\nトレーナー君ならよくわかってるかしら。",
             "enText": "I don't have to explain it to you. I'm\nsure your trainer knows exactly what I'm\ntalking about.",
             "nextBlock": 9,
+            "origClipLength": 93,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -7881452182898489030
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 1703201763848575803
+                }
+            ],
             "pathId": -7694036050122371757,
             "blockIdx": 8
         },
@@ -109,6 +180,18 @@
             "jpText": "なんて、わざわざ説明しなくても、\nトレーナーちゃんならよくわかってるかしら。",
             "enText": "I don't have to explain it to you. I'm\nsure your trainer knows exactly what I'm\ntalking about. ",
             "nextBlock": 10,
+            "origClipLength": 95,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 5282780740302154495
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 6448286244281460954
+                }
+            ],
             "pathId": -5100689414292212243,
             "blockIdx": 9
         },
@@ -118,6 +201,21 @@
             "jpText": "だってあたしも、この子と同じだもの……。",
             "enText": "Because I'm just like her…",
             "nextBlock": 11,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 5566200991881044544
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -9213885078759295008
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -7254707667882138252
+                }
+            ],
             "pathId": 5735688933723428153,
             "blockIdx": 10
         },
@@ -127,6 +225,22 @@
             "jpText": "あたしが思いっきり走れるのも、\n君が支えていてくれるおかげ。",
             "enText": "I can run as hard as I can\nbecause of your support.",
             "nextBlock": 12,
+            "origClipLength": 85,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 6242684421292088085
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -8792527227674101459
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -3577054071488570406
+                }
+            ],
             "pathId": -4453041128786302105,
             "blockIdx": 11
         },
@@ -136,6 +250,22 @@
             "jpText": "あたしが思いっきり走れるのも、\nあなたが支えていてくれるおかげ。",
             "enText": "I can run as hard as I can\nbecause of your support. ",
             "nextBlock": 13,
+            "origClipLength": 88,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 8494226424962402687
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 5056340203389740798
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3389587257995839142
+                }
+            ],
             "pathId": 3089729890726491730,
             "blockIdx": 12
         },
@@ -145,6 +275,18 @@
             "jpText": "君が上手に導いてくれるからこそ、\nあたしも全力で応えたくなるのよ。",
             "enText": "You're so good at guiding me that I want\nto do everything I can to respond.",
             "nextBlock": 14,
+            "origClipLength": 89,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -101076246753564372
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -1778876263826976389
+                }
+            ],
             "pathId": 6351936865280380093,
             "blockIdx": 13
         },
@@ -154,6 +296,18 @@
             "jpText": "あなたが上手に導いてくれるからこそ、\nあたしも全力で応えたくなるのよ。",
             "enText": "It's because you're so good at\nguiding me that I want to do everything\nI can to help you.",
             "nextBlock": 15,
+            "origClipLength": 91,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 3519570536257694817
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -3688591138341813060
+                }
+            ],
             "pathId": -2723208629760965118,
             "blockIdx": 14
         },
@@ -163,6 +317,18 @@
             "jpText": "さて、タッちゃんもバッチリ綺麗にできたし。\n次は君に頑張ってもらう番よ。",
             "enText": "Now that Tacchan is all cleaned\nup, it's your turn. Now it's time\nfor you to do your part.",
             "nextBlock": 16,
+            "origClipLength": 91,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -8344749770717105886
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -2802113558981765974
+                }
+            ],
             "pathId": -362412873545142210,
             "blockIdx": 15
         },
@@ -172,6 +338,18 @@
             "jpText": "さて、タッちゃんもバッチリ綺麗にできたし。\n次はあなたに頑張ってもらう番よ。",
             "enText": "Now that Tacchan is all cleaned\nup, it's your turn. Now it's time\nfor you to do your best.",
             "nextBlock": 17,
+            "origClipLength": 94,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 5932292852000026117
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 1371114048882021141
+                }
+            ],
             "pathId": 3987549237207882934,
             "blockIdx": 16
         },
@@ -181,6 +359,7 @@
             "jpText": "あたしが気持ちよく走れるよう、\n真心こめたサポート、よろしくね。",
             "enText": "Please give me your wholehearted support\nso that I can run comfortably.",
             "nextBlock": 18,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "任せてくれ",
@@ -193,6 +372,16 @@
                     "nextBlock": 18
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 5343998978167970665
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1412729177844469515
+                }
+            ],
             "pathId": -7165465325925726767,
             "blockIdx": 17
         },
@@ -202,6 +391,17 @@
             "jpText": "ええ、信じてるわ。名トレーナーさん♪",
             "enText": "Yeah, I believe you. Great trainer.",
             "nextBlock": 19,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -8556135071641825375
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 8865123930481290983
+                }
+            ],
             "pathId": 6936722049053032878,
             "blockIdx": 18
         },
@@ -211,8 +411,20 @@
             "jpText": "いつも以上に気合いを入れ、\r\nトレーニングに取り組んだ……。",
             "enText": "… worked out with even more\nenthusiasm than usual.",
             "nextBlock": -1,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -206099802852080400
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -8769629456508948895
+                }
+            ],
             "pathId": -682089926260913066,
             "blockIdx": 19
         }
-    ]
+    ],
+    "modified": 1669944911
 }

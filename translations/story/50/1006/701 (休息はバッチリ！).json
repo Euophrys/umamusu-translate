@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "EY2AIPRZ22U53UF43F52VZI6NCH6RAG6",
     "type": "story",
     "storyId": "501006701",
@@ -11,6 +11,7 @@
             "jpText": "トレーナー……！",
             "enText": "Trainer…!",
             "nextBlock": 2,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "元気だな、オグリ",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -99786289822304704
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -253446092386926265
+                }
+            ],
             "pathId": -8053958446393061878,
             "blockIdx": 1
         },
@@ -32,6 +43,21 @@
             "jpText": "昨日は夕飯をしっかり食べて、\r\nいつもよりも早めに寝たからな。",
             "enText": "I ate a good dinner last night and went to \nbed earlier than usual.",
             "nextBlock": 3,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 7418364080159305604
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 8555053111051272318
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4419662959470646897
+                }
+            ],
             "pathId": -1108091090128072134,
             "blockIdx": 2
         },
@@ -41,6 +67,17 @@
             "jpText": "『早寝早起きは三文の徳』だと故郷でも\r\nよく言われた。",
             "enText": "In my hometown, people used to say, \n\"Early to bed, early to rise is the \nvirtue of three sentences.",
             "nextBlock": 4,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 8420448102657460078
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -1344301453085827093
+                }
+            ],
             "pathId": -6435716035279536552,
             "blockIdx": 3
         },
@@ -50,6 +87,17 @@
             "jpText": "ラジオ体操もやれば、さらに元気に\r\nなれるぞ。",
             "enText": "You'll feel even more energetic \nif you do the radio exercises.",
             "nextBlock": 5,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -2390522188495049848
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6084091458681529881
+                }
+            ],
             "pathId": -2454132664027992032,
             "blockIdx": 4
         },
@@ -59,6 +107,17 @@
             "jpText": "今度トレーナーもやってみるといい。",
             "enText": "You can try the trainer next time.",
             "nextBlock": 6,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -7482517489277871764
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 1832632822941285908
+                }
+            ],
             "pathId": -8161822216879550521,
             "blockIdx": 5
         },
@@ -68,8 +127,20 @@
             "jpText": "活力にあふれたオグリキャップを見て、\r\n安心したのだった。",
             "enText": "She was relieved to see Oguri-cap \nso full of vitality.",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -4860411025223910652
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3968369395123171503
+                }
+            ],
             "pathId": -1776950085114623327,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669944983
 }

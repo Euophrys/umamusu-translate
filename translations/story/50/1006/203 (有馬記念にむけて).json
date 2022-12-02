@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ISKAM6DPWB2ZF7FJBA75RMY4BYU63D2R",
     "type": "story",
     "storyId": "501006203",
@@ -11,6 +11,7 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 2,
+            "origClipLength": 48,
             "choices": [
                 {
                     "jpText": "緊張してるんだな",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 6091953158985056393
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -7337621944397231861
+                }
+            ],
             "pathId": -2027348667908545815,
             "blockIdx": 1
         },
@@ -32,11 +43,22 @@
             "jpText": "……わかるのか？",
             "enText": "Do you know…?",
             "nextBlock": 3,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "いつもと雰囲気が違うから",
                     "enText": "Because the atmosphere is \ndifferent from usual.",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 2088862831113177339
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 2640766007528756781
                 }
             ],
             "pathId": -415204977733447002,
@@ -48,6 +70,17 @@
             "jpText": "……ドキドキしているんだ。\r\nうん……ただ、ドキドキしてる。",
             "enText": "I'm… thrilled. Yeah… I'm just thrilled.",
             "nextBlock": 4,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 2925743945193515998
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4532938088698688224
+                }
+            ],
             "pathId": -3883787930817626898,
             "blockIdx": 3
         },
@@ -57,6 +90,17 @@
             "jpText": "クリークが相手だから？\r\nたくさんの期待をかけられているから？",
             "enText": "Because we're dealing with Creek? Because \nthey're expecting a lot from you?",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 4384318534045990072
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3153505451466581164
+                }
+            ],
             "pathId": 6960618666958245520,
             "blockIdx": 4
         },
@@ -66,6 +110,17 @@
             "jpText": "わからない。\r\nだけど……。",
             "enText": "I don't know. But…",
             "nextBlock": 6,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5432415572518142110
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 1266644212797484726
+                }
+            ],
             "pathId": 6311873633362715552,
             "blockIdx": 5
         },
@@ -75,6 +130,17 @@
             "jpText": "……去年キミと見た『有馬記念』。\r\nあの熱を、あの声を、あの興奮を――",
             "enText": "… Last year, I saw \"Arima Kinen\" with you. \nI'm sure you've heard of it.",
             "nextBlock": 7,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 8219208489487873959
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -2079704211073040089
+                }
+            ],
             "pathId": 8880611440060583392,
             "blockIdx": 6
         },
@@ -84,6 +150,21 @@
             "jpText": "――今日は、私が全てもらう。\r\nそれだけは、間違いない。",
             "enText": "—I'll take it all today. That's for sure.",
             "nextBlock": 8,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 1293765195489172610
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 1904996345282373835
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -1470504515518450251
+                }
+            ],
             "pathId": -4310443093732959257,
             "blockIdx": 7
         },
@@ -93,6 +174,7 @@
             "jpText": "私の走りで、\r\nみんなを盛り上げてみせる！",
             "enText": "I'm going to run, and I'm going \nto get you all excited!",
             "nextBlock": 9,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "勝ってこい、オグリ！",
@@ -105,6 +187,20 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4776712885207345816
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2327791506281324073
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -180927885914748736
+                }
+            ],
             "pathId": 3399678612879757673,
             "blockIdx": 8
         },
@@ -114,8 +210,20 @@
             "jpText": "ああ！\r\n行ってくる！",
             "enText": "Aah! I'm going!",
             "nextBlock": -1,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 223527542220117570
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -1062619323002790074
+                }
+            ],
             "pathId": 116333180582598671,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669944972
 }

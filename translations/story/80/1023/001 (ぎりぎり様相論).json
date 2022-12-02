@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ASTVXWG4IKHK7DU27FGF4EY6G2MQB32U",
     "type": "story",
     "storyId": "801023001",
@@ -11,6 +11,7 @@
             "jpText": "模擬レースの観戦にやって来た。\r\n次のレース開始を待っていると……。",
             "enText": "I came to watch a mock race. While waiting \nfor the next race to start, I went to…",
             "nextBlock": 2,
+            "origClipLength": 81,
             "pathId": 6044072161116950664,
             "blockIdx": 1
         },
@@ -20,11 +21,22 @@
             "jpText": "失礼。良ければ参考までに\r\n意見を聞かせて欲しいのだが。",
             "enText": "Excuse me. I'd like to ask your \nopinion, if you don't mind.",
             "nextBlock": 3,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "何か困りごと？",
                     "enText": "What's your problem?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -1753520057624763790
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -5763247419069318771
                 }
             ],
             "pathId": -5041036414469172583,
@@ -36,6 +48,17 @@
             "jpText": "ああ。天候やコースの状態、\r\n対戦相手の過去の戦績を鑑みての\n仕掛けどころの確認……。",
             "enText": "Yes. The weather, the course and your \nopponent's track record are all factors in \ndetermining where to start…",
             "nextBlock": 4,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 8584439656036345719
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -4127460039682718477
+                }
+            ],
             "pathId": 2824121802014113497,
             "blockIdx": 3
         },
@@ -45,6 +68,17 @@
             "jpText": "不測の事態にも対処できるような\r\n走行時における位置取りの目論見等――",
             "enText": "Contingency plans for driving \npositions, etc.",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -5085636913908924570
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 2812851028750555382
+                }
+            ],
             "pathId": -1943453260844226090,
             "blockIdx": 4
         },
@@ -54,6 +88,21 @@
             "jpText": "このレースに臨むにあたっての準備は\r\n万全のはずだが、まだ何かある気がする……。",
             "enText": "I'm sure I'm well prepared for this \nrace, but I still feel like there's \nsomething more to it…",
             "nextBlock": 6,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 8792159100894970598
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -1679665204594020920
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 3799876401743492827
+                }
+            ],
             "pathId": -5367767135900794095,
             "blockIdx": 5
         },
@@ -63,6 +112,21 @@
             "jpText": "1％でも勝率をあげることができるならば、\r\n私はその可能性を突き詰めたい。",
             "enText": "If I can improve my odds by even 1%, I'd \nlike to explore that possibility.",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -124772360712905700
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7271845800829969609
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3922586840356965001
+                }
+            ],
             "pathId": 6896324398973439001,
             "blockIdx": 6
         },
@@ -72,6 +136,7 @@
             "jpText": "君にとって、レース前にすべき重要な事とは\r\nなんだ？　考えを聞かせて欲しい。",
             "enText": "What's the most important thing \nfor you to do before a race? I'd \nlike to hear your thoughts.",
             "nextBlock": 8,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "ぎりぎりまでトレーニング",
@@ -84,6 +149,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 3937623024579604943
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -337790048722736417
+                }
+            ],
             "pathId": -6073921205176502129,
             "blockIdx": 7
         },
@@ -93,6 +168,21 @@
             "jpText": "それはもちろんやったさ……\r\nいや、もっとやれと、そういう事か？",
             "enText": "I did that, of course… No, you want \nme to do more, is that it?",
             "nextBlock": 9,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -8810905657902090195
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -5003484208660881610
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1122254789059648983
+                }
+            ],
             "pathId": -484745798572270174,
             "blockIdx": 8
         },
@@ -102,6 +192,21 @@
             "jpText": "なるほど、ぎりぎりまで己を鍛える……\r\n私は思い至らなかったな……新しい見地だ。",
             "enText": "I see, train yourself to the very last… I \nhadn't thought of that … new perspective.",
             "nextBlock": 10,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8766395508260909322
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -8180950901863835468
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6392830968609553096
+                }
+            ],
             "pathId": 3813012687392577084,
             "blockIdx": 9
         },
@@ -111,6 +216,21 @@
             "jpText": "今からできることは……筋トレくらいか。\r\nよし、これからジムに行ってくるとしよう。",
             "enText": "The only thing I can do now is … strength \ntraining. Okay, I'm off to the gym now.",
             "nextBlock": 11,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -3726492422973318170
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 195752827819894960
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -8894431946940359430
+                }
+            ],
             "pathId": -1380179355786697517,
             "blockIdx": 10
         },
@@ -120,6 +240,21 @@
             "jpText": "いずれにせよ、体を温めておくというのは、\r\n無駄ではないだろうからな。",
             "enText": "In any case, it's not a waste of \ntime to keep yourself warm.",
             "nextBlock": 12,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -392280170514752172
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 6637404839086098771
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6271320946465367454
+                }
+            ],
             "pathId": -8747582766418831759,
             "blockIdx": 11
         },
@@ -129,6 +264,17 @@
             "jpText": "斬新な観点からのアドバイス感謝する。\r\nそれでは。",
             "enText": "Thanks for the fresh perspective. \nSee you soon.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -2179315262364331884
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 6701947165294230464
+                }
+            ],
             "pathId": -8119348877712760152,
             "blockIdx": 12
         },
@@ -138,6 +284,17 @@
             "jpText": "それを忘れるわけないだろう。論じるのに、\r\n比較研究は絶対だ。過去レースの分析等――",
             "enText": "How could we forget that? In order \nto make an argument, comparative \nresearch is absolutely essential. \nAnalysis of past races…",
             "nextBlock": 14,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 4332363568454398825
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 8746627424652003400
+                }
+            ],
             "pathId": -1294594710152973864,
             "blockIdx": 13
         },
@@ -147,6 +304,21 @@
             "jpText": "いや……直前のコースを確認しろという事か？\r\n確かに、芝の状態等は推論に必要だが……。",
             "enText": "No. Are you asking me to check the course \njust before…? Sure, the condition of the \ngrass and other factors are necessary for \ninference, but…",
             "nextBlock": 15,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -5889759692890482755
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 2226250223259970606
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -344502946249362391
+                }
+            ],
             "pathId": 4319212845264690751,
             "blockIdx": 14
         },
@@ -156,6 +328,21 @@
             "jpText": "しかし、多角的には視認できない。監視塔に\r\n登らせてもらうか？　いや、さすがにな……。",
             "enText": "But it's not visible from all angles. \nDo you want me to climb the watchtower? \nNo, that's a good idea…",
             "nextBlock": 16,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7811698360284711417
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 5191582649712539333
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 8002543440274923478
+                }
+            ],
             "pathId": -6825519004463739891,
             "blockIdx": 15
         },
@@ -165,8 +352,20 @@
             "jpText": "あ……1人でぶつぶつとすまない。\r\nともかくありがとう。検討させてもらう。",
             "enText": "Oh…1 sorry for the bumping by myself. \nAnyway, thanks. I'll look into it.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 2457882897404882781
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3249071872636013776
+                }
+            ],
             "pathId": 1929979353578849451,
             "blockIdx": 16
         }
-    ]
+    ],
+    "modified": 1669945954
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QSE5UBCOUVAIVFTMJ7FAAMF2VYHMASYM",
     "type": "story",
     "storyId": "501006713",
@@ -11,6 +11,17 @@
             "jpText": "……この程度なら、問題ない。",
             "enText": "… This level is not a problem.",
             "nextBlock": 2,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 8965810527310556858
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -5519159776974116746
+                }
+            ],
             "pathId": 1471990925858888232,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "軽症にも満たないだろう。\r\n走る分も問題なさそうだ。",
             "enText": "It's probably no more than a minor injury. I \ndon't think I'll have any problem running.",
             "nextBlock": 3,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "でもちゃんと休もう",
@@ -32,6 +44,16 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 90460798924529639
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 640369505290538193
+                }
+            ],
             "pathId": -1784605711946666139,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "なぜだ……？　ケガなど痛いところに、\r\nつばをつけておけば治るはずだろう？",
             "enText": "Why…? If you put a spit on something \nthat hurts, like an injury, it \nshould heal, right?",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1769816288664157161
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -6774549305475780798
+                }
+            ],
             "pathId": 5281850068751980643,
             "blockIdx": 3
         },
@@ -50,11 +83,22 @@
             "jpText": "故郷でもこんなもの日常茶飯事だったしな。",
             "enText": "This kind of thing was a daily \noccurrence in my hometown.",
             "nextBlock": 5,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "のちのちに響くかもしれないから",
                     "enText": "Because it might affect you later on.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6149749287303579805
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 4855722786157306010
                 }
             ],
             "pathId": -6166208715800089935,
@@ -66,6 +110,17 @@
             "jpText": "む……そうか、わかった。\r\nレースに出られなくなるのは、困る。",
             "enText": "No… Oh, okay. I can't afford \nto miss the race.",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5878141061903001649
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 8896424896580870070
+                }
+            ],
             "pathId": -5911246694462917071,
             "blockIdx": 5
         },
@@ -75,6 +130,17 @@
             "jpText": "手当てを終えた後、\r\nその日は休養させることにした。",
             "enText": "After treating her, I decided \nto let her rest for the day.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": 1042440571042447673
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -4090920739314988967
+                }
+            ],
             "pathId": -1099975154769989178,
             "blockIdx": 6
         },
@@ -84,6 +150,18 @@
             "jpText": "ああ。森の中で走っていた時は、\r\nこの程度のケガなど当たり前で――",
             "enText": "Oh. When I was running in the woods, injuries \nlike this were commonplace.",
             "nextBlock": 8,
+            "origClipLength": 66,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 8915009714787998100
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 3204651757852673347
+                }
+            ],
             "pathId": 2178302104902957134,
             "blockIdx": 7
         },
@@ -93,6 +171,7 @@
             "jpText": "……む？",
             "enText": "… Mm?",
             "nextBlock": 9,
+            "origClipLength": 47,
             "choices": [
                 {
                     "jpText": "どうした？",
@@ -105,6 +184,17 @@
                     "nextBlock": 9
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7049324717488560362
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -2792966830791393591
+                }
+            ],
             "pathId": 1977199585551066929,
             "blockIdx": 8
         },
@@ -114,6 +204,21 @@
             "jpText": "いや……やはり、痛みが少し気になるな。",
             "enText": "No… I'm still a little concerned \nabout the pain.",
             "nextBlock": 10,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 1918893074817846986
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 7832721328512343458
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 3737395240136429632
+                }
+            ],
             "pathId": -863637003363314237,
             "blockIdx": 9
         },
@@ -123,6 +228,21 @@
             "jpText": "気にならなかったことが気になるのは、\r\n良くない兆候かもしれない。",
             "enText": "Maybe it's a bad sign that something that \nnever bothered you is bothering you.",
             "nextBlock": 11,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1930594776763519456
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 6059795980733431510
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -341093152578342594
+                }
+            ],
             "pathId": -7807046720630324,
             "blockIdx": 10
         },
@@ -132,6 +252,17 @@
             "jpText": "手当てを終えた後、\r\nその日は休養させることにした。",
             "enText": "After treating her, I decided \nto let her rest for the day.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 542229326954605709
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -1619933959604654201
+                }
+            ],
             "pathId": 1794603437116232302,
             "blockIdx": 11
         },
@@ -141,11 +272,23 @@
             "jpText": "……まあ、いま崖を飛び越えろと\r\n言われたら少し難しいが……。",
             "enText": "… Well, if you were to ask me to \njump over a cliff right now, it \nwould be a little difficult…",
             "nextBlock": 13,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "なぜ崖？",
                     "enText": "Why the cliff?",
                     "nextBlock": 13
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 733831390389410974
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 8534045865626776308
                 }
             ],
             "pathId": -4198550505554017184,
@@ -157,6 +300,17 @@
             "jpText": "いや、昔そういう自主トレもやったんだ。\r\n違うなら、問題ない。",
             "enText": "No, I used to do that kind of voluntary \ntraining. If not, no problem.",
             "nextBlock": 14,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 4976286666852096706
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 8260693089216797991
+                }
+            ],
             "pathId": 7632421790029199574,
             "blockIdx": 13
         },
@@ -166,6 +320,17 @@
             "jpText": "さあ、もう1度やろう。\r\nトレーナー。",
             "enText": "Come on, let's do it again. Trainer.",
             "nextBlock": 15,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 925948165268397518
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 5116703909267206150
+                }
+            ],
             "pathId": 5504182911539686382,
             "blockIdx": 14
         },
@@ -175,8 +340,20 @@
             "jpText": "手当てを終えた後、オグリキャップの希望で\r\nトレーニングを再開することにした。",
             "enText": "After she was patched up, we decided to \nresume training at Oguri Cap's request.",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 713650535217632114
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -4462578106704169642
+                }
+            ],
             "pathId": -1433760669625191574,
             "blockIdx": 15
         }
-    ]
+    ],
+    "modified": 1669944986
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DIYIAIO6ARUIERWIZI37GCDCIB2JBCCR",
     "type": "story",
     "storyId": "830064002",
@@ -11,6 +11,29 @@
             "jpText": "廊下を歩いていたら、すれ違いざまに\r\nタマモクロスに声をかけられた。",
             "enText": "As I was walking down the hallway, I was \napproached by Tamamo Cross as I passed her.",
             "nextBlock": 2,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -7200363120973723316
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 4715346134213832811
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -4971330505349818789
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3468613616467563386
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5644430525861112779
+                }
+            ],
             "pathId": 8983168585768722119,
             "blockIdx": 1
         },
@@ -20,11 +43,34 @@
             "jpText": "ああ、アンタ。もし困ってるオグリを\r\n見かけたら、手ぇ貸したってくれへんか？",
             "enText": "Oh, you. If you see Oguri in trouble, \ncould you give her a hand?",
             "nextBlock": 3,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "構わないけど……どういうこと？",
                     "enText": "I don't mind, but what does… mean?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -8171323143138943476
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 4113176361748482631
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -8707871170056653325
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 7882991949978734031
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -8278043792538583216
                 }
             ],
             "pathId": 4341622734308647994,
@@ -36,6 +82,33 @@
             "jpText": "私たち、この前お話ししたお化け屋敷\r\n『ミイラハント』の練習中なんです～。",
             "enText": "We're practicing for the haunted house \n\"Mummy Hunt\" that I told you about before.",
             "nextBlock": 4,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 3238292279130658827
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 5631655052828821003
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6743489693648422832
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8089698856979854051
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -7456189701022103076
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 8380182154766368543
+                }
+            ],
             "pathId": 4013049754612999814,
             "blockIdx": 3
         },
@@ -45,6 +118,29 @@
             "jpText": "で、ウチらはミイラ、オグリはハンターやろ。\r\n敵のウチらが助けるわけにはいかへんねん。",
             "enText": "We are the mummies, and Oguri is the hunter. \nWe, the enemy, can't help her.",
             "nextBlock": 5,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3188708337422911163
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 9111133526602053663
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 6562203126114404694
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 6375182540844803096
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 1634496789891019165
+                }
+            ],
             "pathId": -406474275768872127,
             "blockIdx": 4
         },
@@ -54,6 +150,37 @@
             "jpText": "どうにも敵同士でなれ合っちまって\r\n緊迫感が出ねぇんで、その対策さ。\nんじゃ、いっちょ頼まぁ！",
             "enText": "The enemies are getting too close \nto each other and there's no sense \nof urgency, so I'm working on that. \nWell then, do me a favor!",
             "nextBlock": 6,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": 3062028293925496476
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3320342788257821784
+                },
+                {
+                    "origLen": 175,
+                    "pathId": -7225398306715888366
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -9014690504113807870
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -8945979556043987645
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -4627933962952365232
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 1478418084851961446
+                }
+            ],
             "pathId": 4805351134350476723,
             "blockIdx": 5
         },
@@ -63,6 +190,7 @@
             "jpText": "む……小学校は、この場所に階段がないのか。\r\n外へ行くにはどうしたら……。",
             "enText": "No… elementary school does not have stairs \nin this place? How can I go outside…?",
             "nextBlock": 7,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "もしかして、道に迷ったのか？",
@@ -75,6 +203,36 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -1629237018581603041
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 1665842004477166920
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -3610831612824606591
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 3423867709891547301
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -5167507167203565265
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 2329101696233406192
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -7218386072983008975
+                }
+            ],
             "pathId": -7670705114893638168,
             "blockIdx": 6
         },
@@ -84,6 +242,17 @@
             "jpText": "ああ。お化け屋敷の練習で、学園内を\r\n本番の小学校校舎に見立てているんだ。\nそれで迷ってしまって――",
             "enText": "Oh. We're rehearsing for the haunted \nhouse, and we're pretending the school \nis a real elementary school building. \nI got lost in it.",
             "nextBlock": 8,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -1474806542552240296
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -1771877921110475273
+                }
+            ],
             "pathId": 7888033752085230941,
             "blockIdx": 7
         },
@@ -93,6 +262,25 @@
             "jpText": "ヴガァアアアア！！",
             "enText": "Vgaaaaaaah!",
             "nextBlock": 9,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 3863642595414208669
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -2913493369908817773
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -8122980863339346221
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 7252395312651903775
+                }
+            ],
             "pathId": -2738627963212085055,
             "blockIdx": 8
         },
@@ -102,6 +290,29 @@
             "jpText": "ああ、イナリ。道がわからなくて……\r\nゴールまではどの道を通ればいいんだ？",
             "enText": "Oh, Inari. I don't know the way… Which road \nshould I take to get to the goal?",
             "nextBlock": 10,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 3781110855559874510
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6486849245191862561
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -8744489453859329691
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 669657294610696694
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -484512896581192528
+                }
+            ],
             "pathId": -7125090843426658862,
             "blockIdx": 9
         },
@@ -111,6 +322,33 @@
             "jpText": "って、なんであたしに聞くんでぇ！\r\nあたしは敵だろぃ！！",
             "enText": "I don't know why you're asking \nme! I'm your enemy!",
             "nextBlock": 11,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 4207456806918521212
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -5771310121430992946
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -7295271193845003240
+                },
+                {
+                    "origLen": 143,
+                    "pathId": 842593254575714471
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -2503055050421971516
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -4718640089657413453
+                }
+            ],
             "pathId": -6416779498241873723,
             "blockIdx": 10
         },
@@ -120,6 +358,45 @@
             "jpText": "せめてそこのトレーナーに聞けや。\r\nウチらとはバチバチやらなあかんねんで。",
             "enText": "At least ask the trainer there. You'll \nhave to work hard with us.",
             "nextBlock": 12,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 147,
+                    "pathId": -8249156217835270313
+                },
+                {
+                    "origLen": 175,
+                    "pathId": -9135845477856999227
+                },
+                {
+                    "origLen": 180,
+                    "pathId": -7708149981380865192
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -6062558237889439912
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -597428246543797623
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 82525569886921295
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7254891278492839108
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -4095627660831487618
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 4795515474557502537
+                }
+            ],
             "pathId": 2004597023224693051,
             "blockIdx": 11
         },
@@ -129,6 +406,33 @@
             "jpText": "タマたちは頼りになるから……。\r\nそれに、3対1はずるい。2対2にしよう。",
             "enText": "You can count on your balls… Besides, \nthree against one is not fair, let's \nmake it two against two.",
             "nextBlock": 13,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -7706567254507098656
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -747485366062898275
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 5830042582901435027
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -1282982847688052977
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -478092627544780369
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -8849625424253521324
+                }
+            ],
             "pathId": -8976768647961647055,
             "blockIdx": 12
         },
@@ -138,6 +442,33 @@
             "jpText": "ったく……無茶言いよるで。\r\n――ならこうしよか。ハンターが\nミイラに勝ったら、2対2にしちゃる。",
             "enText": "Oh my god… you're being absurd. —I'll tell \nyou what. If the hunter beats the mummy, \nI'll make it two against two.",
             "nextBlock": 14,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 8748940599883927790
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 7303410072265290554
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 4985310478741455095
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 6095526065465985
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -419680296433220254
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -855252722858125765
+                }
+            ],
             "pathId": -2341049171449967357,
             "blockIdx": 13
         },
@@ -147,6 +478,29 @@
             "jpText": "ハンターの武器……おもちゃの鉄砲で\r\nウチらを倒してミイラを全滅させるか、\nゴールの三女神像まで逃げ切るか。どや？",
             "enText": "Hunter's Weapon… You can use the toy gun to \ndefeat us and annihilate the mummies, or you \ncan run away to the goal, the statue of the \nthree goddesses. What do you think?",
             "nextBlock": 15,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": -8372523417262842157
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 7195705628495227308
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -1951592348280498595
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -6139737053650698302
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 6340284037291361175
+                }
+            ],
             "pathId": 6548201204833252243,
             "blockIdx": 14
         },
@@ -156,6 +510,33 @@
             "jpText": "……勝てばいいんだな？",
             "enText": "You want me to win…?",
             "nextBlock": 16,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": -9072985438050696636
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 8375648595004455515
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -6690989212203257022
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -8758878682017297879
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 6621987817100384362
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 7434453399084213144
+                }
+            ],
             "pathId": 2698249607341571556,
             "blockIdx": 15
         },
@@ -165,6 +546,29 @@
             "jpText": "おーおー、ずいぶん簡単にゆうてくれるやん？\r\nウチはゴールでアンタを待ち伏せて襲うで。\nってことは、三女神像まではレースになるな？",
             "enText": "I'm going to ambush you at the finish line. \nI'm going to ambush you at the finish line \nand attack you. So, it's a race to the \nstatue of the three goddesses, right?",
             "nextBlock": 17,
+            "origClipLength": 129,
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": 1720304279827881388
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -3492522160311633701
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -1467149870159679377
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 8459839042027570772
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -7135475935330316416
+                }
+            ],
             "pathId": 2458222645285180685,
             "blockIdx": 16
         },
@@ -174,6 +578,29 @@
             "jpText": "アンタがレースでウチに勝てるわけないやろ！",
             "enText": "There's no way you can beat me in a race!",
             "nextBlock": 18,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": 5659853490088357228
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 4359538594093703597
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 760155094886239335
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3032278796993438689
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3593644540363696802
+                }
+            ],
             "pathId": -5573215231341671967,
             "blockIdx": 17
         },
@@ -183,6 +610,33 @@
             "jpText": "…………レースなら…………勝つのは私だ！！",
             "enText": "If it's a… race… I'm the one who wins!",
             "nextBlock": 19,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -1714156631995234793
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -6808818684265787087
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -5905296893235780594
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2404540265099977470
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 7382627092398941412
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 969940835322250549
+                }
+            ],
             "pathId": 8587736890997463783,
             "blockIdx": 18
         },
@@ -192,6 +646,33 @@
             "jpText": "オグリちゃーん！\r\nそっちじゃなくて、こっちですよー！",
             "enText": "Hey, Oguri! Not that way, this way!",
             "nextBlock": 20,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -365372033603013485
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 4254761593134142167
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 4849710435543523094
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -6660305413973330137
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -183627721852866955
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -1432195151709088505
+                }
+            ],
             "pathId": 6281392240707891864,
             "blockIdx": 19
         },
@@ -201,6 +682,33 @@
             "jpText": "バン！！\r\n……弾が当たった。クリーク、撃破だ！",
             "enText": "Bang! The… bullet hit it. Creek, destroy it!",
             "nextBlock": 21,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 8230349000151784055
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 7342096513154032345
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 6990679155632892446
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -4898627570561055160
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 5217412779049623910
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5841373507196798794
+                }
+            ],
             "pathId": 6039565768390381044,
             "blockIdx": 20
         },
@@ -210,6 +718,33 @@
             "jpText": "っとォ、オグリのヤツ、やるじゃねぇか！\r\nようやくマジになったみてぇだな。",
             "enText": "Well, Oguri's up to it! It looks like she's \nfinally getting serious.",
             "nextBlock": 22,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1000692182711522715
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 4192802339474748065
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 6433269411210432828
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8336582311929530393
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 305501754368140198
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -3544238792762725080
+                }
+            ],
             "pathId": 4378174891703410816,
             "blockIdx": 21
         },
@@ -219,6 +754,33 @@
             "jpText": "やっぱアイツを焚きつけるには\r\nレースが1番ってことや…………なッ！",
             "enText": "I guess racing is the best \nway to get her fired up…",
             "nextBlock": 23,
+            "origClipLength": 109,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6534907706694607025
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -860765012732061946
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -890625817300480998
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2047292397468850915
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -5616273583510572971
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -2022834149120668975
+                }
+            ],
             "pathId": 1183913761009950681,
             "blockIdx": 22
         },
@@ -228,6 +790,17 @@
             "jpText": "はぁ……っ、待て！！",
             "enText": "Huh… wait!",
             "nextBlock": 24,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -4936433757476221001
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 5640526462580123576
+                }
+            ],
             "pathId": 389173078237158977,
             "blockIdx": 23
         },
@@ -237,6 +810,17 @@
             "jpText": "感じるでぇ……！\r\nこの圧、オグリが迫ってきとる！！\nけど、1着は――",
             "enText": "I can feel it…! This pressure, Oguri is \nclosing in! But the first place—",
             "nextBlock": 25,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1102557061001947175
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4995343649821864011
+                }
+            ],
             "pathId": -979980916050682418,
             "blockIdx": 24
         },
@@ -246,6 +830,7 @@
             "jpText": "はあああああああっ！！",
             "enText": "Haaaaaaah!",
             "nextBlock": 26,
+            "origClipLength": 59,
             "pathId": 1960840118408995830,
             "blockIdx": 25
         },
@@ -255,6 +840,7 @@
             "jpText": "ウチのモンや！！！",
             "enText": "It's ours!",
             "nextBlock": 27,
+            "origClipLength": 56,
             "pathId": 3184596342970900596,
             "blockIdx": 26
         },
@@ -264,6 +850,29 @@
             "jpText": "ウチらの勝ちや、オグリ！　完全勝利や！！",
             "enText": "We've won, Oguri! Total victory!",
             "nextBlock": 28,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 3362658025671336047
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -7136910112868710455
+                },
+                {
+                    "origLen": 137,
+                    "pathId": 1155531617693216364
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -1560088677577336472
+                },
+                {
+                    "origLen": 142,
+                    "pathId": 2402245837163630078
+                }
+            ],
             "pathId": -4158011703040671069,
             "blockIdx": 27
         },
@@ -273,6 +882,33 @@
             "jpText": "はぁ、はぁ…………くっ！",
             "enText": "Haha, haha… stick!",
             "nextBlock": 29,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -2710990201176269775
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 1076969498831932738
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -2698197360024475803
+                },
+                {
+                    "origLen": 137,
+                    "pathId": -3844972714079231968
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 9101608077572614119
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -9053144148248590336
+                }
+            ],
             "pathId": 5218161126707534799,
             "blockIdx": 28
         },
@@ -282,6 +918,41 @@
             "jpText": "タマにばかり気ィ取られてたみてぇだが、\r\nあたしもお前さんの背中に触れたからなぁ！\nお前さんのゴールより早かったろぃ！",
             "enText": "I know you've been preoccupied with your \nballs, but I've touched your back too! I was \nfaster than your goal!",
             "nextBlock": 30,
+            "origClipLength": 121,
+            "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": -3204935920411331139
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -6663787000759337659
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 3526790196523921767
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 2661460428156871523
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 8637730834538935811
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -1522304338239535717
+                },
+                {
+                    "origLen": 164,
+                    "pathId": 3056773151172404412
+                },
+                {
+                    "origLen": 160,
+                    "pathId": -7713437654118852886
+                }
+            ],
             "pathId": -6231115921462635870,
             "blockIdx": 29
         },
@@ -291,6 +962,37 @@
             "jpText": "走りで負けて、ゲームでも負けて……\r\n弱すぎやんなあ、オグリ？",
             "enText": "You lose at running, you lose at games. … \nYou're too weak, aren't you, Oguri?",
             "nextBlock": 31,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -1078390330036738967
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 8628763368475398406
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -2238678886603265547
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -489076024069460936
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -5427960184343113278
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 3162134242832713902
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -1187973774376986045
+                }
+            ],
             "pathId": 468670276558219413,
             "blockIdx": 30
         },
@@ -300,6 +1002,33 @@
             "jpText": "……もう、負けない！！\r\nタマたちに勝つ方法を考える！　絶対に勝つ！",
             "enText": "… No more losing! I'm going to figure out a \nway to beat my testicles! We will win!",
             "nextBlock": 32,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -5494920906585189070
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 654518197605467356
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 4968150536059384869
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -25098201260649095
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6244744730784787392
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8630587821428238936
+                }
+            ],
             "pathId": -4566153878251367163,
             "blockIdx": 31
         },
@@ -309,6 +1038,33 @@
             "jpText": "それでええ。ハンターはお客さんを導き、\r\nお客さんと協力するんや。ウチらやない。",
             "enText": "That's fine. Hunters are supposed to guide \nyou, work with you. Not us.",
             "nextBlock": 33,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 4064425438577231976
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 5384677083991109216
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -2941112101113131401
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5704716304927469068
+                },
+                {
+                    "origLen": 153,
+                    "pathId": -5368072552543558180
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 2430357488396433333
+                }
+            ],
             "pathId": 4707222934599564221,
             "blockIdx": 32
         },
@@ -318,6 +1074,37 @@
             "jpText": "うふふ、オグリちゃん、よくできましたね～。\r\nいいこ、いいこ～♪",
             "enText": "Good job, Oguri-chan! Good boy, good boy~♪",
             "nextBlock": 34,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -4713698445774049886
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -8959424562363063909
+                },
+                {
+                    "origLen": 137,
+                    "pathId": 4299798292624721337
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 2794167012770277821
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -5037538838716585640
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -6478201574920579809
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 6949039534741732869
+                }
+            ],
             "pathId": -862111390034042178,
             "blockIdx": 33
         },
@@ -327,8 +1114,32 @@
             "jpText": "～～～～ッ、クリーク！！\r\nアンタは特訓続行、練習中の甘やかし厳禁や！",
             "enText": "～～～～, Creek! You continue to train, but do \nnot indulge during practice!",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1006339322594453557
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4803886082389994535
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1760484829601175416
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5063641278810241340
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3465849461136446411
+                }
+            ],
             "pathId": 8084814916917713882,
             "blockIdx": 34
         }
-    ]
+    ],
+    "modified": 1669946292
 }

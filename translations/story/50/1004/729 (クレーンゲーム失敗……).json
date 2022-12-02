@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BRGDRBUQEBRYPZPJ3FUQTNKMCAMHF2NS",
     "type": "story",
     "storyId": "501004729",
@@ -11,6 +11,7 @@
             "jpText": "あらら、残念……。",
             "enText": "Oops, too bad…",
             "nextBlock": 2,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "ごめん……",
@@ -23,6 +24,20 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -4229185838838997597
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 5580094902050153280
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8176719098582909198
+                }
+            ],
             "pathId": 3135773740595398886,
             "blockIdx": 1
         },
@@ -32,6 +47,21 @@
             "jpText": "そんな謝らないで。全然気にしてないから。",
             "enText": "Don't be so apologetic.\nI don't mind at all.",
             "nextBlock": 3,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -2742641280444711349
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2473680505804061972
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5398349210637717951
+                }
+            ],
             "pathId": -6713928543670908873,
             "blockIdx": 2
         },
@@ -41,6 +71,18 @@
             "jpText": "いつでもうまくいくとは限らないものよ。\nどんまい、トレーナー君！",
             "enText": "It's not always going to work.\nThanks a lot, trainer!",
             "nextBlock": 4,
+            "origClipLength": 86,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1262179710180709208
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -7602318158061713049
+                }
+            ],
             "pathId": -5406854634277392502,
             "blockIdx": 3
         },
@@ -50,6 +92,18 @@
             "jpText": "いつでもうまくいくとは限らないものよ。\nどんまい、トレーナーちゃん！",
             "enText": "It's not always going to work.\nThanks a lot, trainer! ",
             "nextBlock": 5,
+            "origClipLength": 89,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 6242217819854338562
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 6249059907540029616
+                }
+            ],
             "pathId": 8097172746533287425,
             "blockIdx": 4
         },
@@ -59,8 +113,20 @@
             "jpText": "残念な結果に終わった……。",
             "enText": "A disappointing result: …",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 2717470058780684305
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4284851886198917193
+                }
+            ],
             "pathId": -5290546803225973364,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669944925
 }

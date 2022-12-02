@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "X7URTZWKYFGFNW7MA2PHZGO4LEX7S5LZ",
     "type": "story",
     "storyId": "501041500",
@@ -11,6 +11,7 @@
             "jpText": "朝トレーナー室へやってくると、\r\n机の上に1枚の紙が置かれていた……。",
             "enText": "When I came to the trainer's office\nin the morning, I found a piece of\npaper on my desk…",
             "nextBlock": 2,
+            "origClipLength": 67,
             "pathId": -2061187312943904919,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "『体育館にて、待つ！\r\n　　　　　　　　　　　　学級委員長より！』",
             "enText": "\"Waiting in the gym!             From\nthe class president!",
             "nextBlock": 3,
+            "origClipLength": 66,
             "pathId": -7961208626057262708,
             "blockIdx": 2
         },
@@ -29,11 +31,22 @@
             "jpText": "待っていましたよ、トレーナーさん。\r\n……覚悟はよろしいですか。",
             "enText": "I've been waiting for you, trainer.\nAre you ready for…?",
             "nextBlock": 4,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "か、覚悟！？",
                     "enText": "Are you ready?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -343826117600378507
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 5446792457539724475
                 }
             ],
             "pathId": 77979426879820745,
@@ -45,6 +58,17 @@
             "jpText": "なにか腹に据えかねた事でもあるのだろうか？\r\n少し動揺しながら、身構えていると――",
             "enText": "Is there something that is upsetting her? A\nlittle flustered, I braced myself…",
             "nextBlock": 5,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 4904489324007095140
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -3199133616913469085
+                }
+            ],
             "pathId": 1232279848375576770,
             "blockIdx": 4
         },
@@ -54,11 +78,26 @@
             "jpText": "表彰状！\r\n<username>トレーナー殿！",
             "enText": "Certificate of commendation!\n<username> Dear Trainer!",
             "nextBlock": 6,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "……え？",
                     "enText": "… What?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -6121061010085136872
+                },
+                {
+                    "origLen": 190,
+                    "pathId": 3603294995397965658
+                },
+                {
+                    "origLen": 196,
+                    "pathId": 4681763408610359683
                 }
             ],
             "pathId": -4260332353522321913,
@@ -70,6 +109,21 @@
             "jpText": "貴殿は卓越した指導力を発揮し、\r\nこの私の才覚を磨いてくださっています！",
             "enText": "You have demonstrated outstanding leadership\nskills and have honed my talents!",
             "nextBlock": 7,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -3272499247384353763
+                },
+                {
+                    "origLen": 190,
+                    "pathId": -3274281912308658921
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -1602783065063497056
+                }
+            ],
             "pathId": 7984202679874597019,
             "blockIdx": 6
         },
@@ -79,6 +133,21 @@
             "jpText": "そう！　おかげで最近、\r\nますますバクシンに磨きがかかりました！！",
             "enText": "Yes! Thanks to you, I've been getting more\nand more polished with my bakshin lately!",
             "nextBlock": 8,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 6697156332277311394
+                },
+                {
+                    "origLen": 190,
+                    "pathId": 583011049174679224
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -4642869870044901815
+                }
+            ],
             "pathId": 4413617877061621764,
             "blockIdx": 7
         },
@@ -88,11 +157,26 @@
             "jpText": "そんなこんなで、\r\nバクシンの意を表しますッ！",
             "enText": "And so, I give you my word, Bakushin!",
             "nextBlock": 9,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "（バクシンの、意！！）",
                     "enText": "(Bakushin's meaning!)",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -4944957427902790210
+                },
+                {
+                    "origLen": 190,
+                    "pathId": 2071359399422702639
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -6567667440605606632
                 }
             ],
             "pathId": 3830607488731305257,
@@ -104,6 +188,21 @@
             "jpText": "フフ……私は優等生の中の優等生ですが、\r\n貴方はトレーナーの中のトレーナーです！",
             "enText": "Huh… I'm an honors student\namong honors students, but you're\na trainer among trainers!",
             "nextBlock": 10,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -5794245678594620328
+                },
+                {
+                    "origLen": 190,
+                    "pathId": -2509877588640961314
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -2133005745272954213
+                }
+            ],
             "pathId": -4093621963786430085,
             "blockIdx": 9
         },
@@ -113,6 +212,21 @@
             "jpText": "これはそんな貴方への敬意を表する手紙……\r\nもとい表彰状！　お受け取りください！",
             "enText": "This is a letter of respect to\nyou… or a letter of commendation! Please\naccept it!",
             "nextBlock": 11,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8182133611495240010
+                },
+                {
+                    "origLen": 190,
+                    "pathId": 119406262979275712
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -2307220191697513377
+                }
+            ],
             "pathId": -3216569914596762488,
             "blockIdx": 10
         },
@@ -122,8 +236,20 @@
             "jpText": "いつも破天荒な彼女の心温まる手紙――\r\n……表彰状に、涙腺が少しゆるむのだった。",
             "enText": "The heartwarming letter from the always\nunprecedented… commendation letter\nmade my tear glands loosen a little.",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": -7334527702983162553
+                },
+                {
+                    "origLen": 10,
+                    "pathId": -4531737894912718458
+                }
+            ],
             "pathId": 5964164903169508753,
             "blockIdx": 11
         }
-    ]
+    ],
+    "modified": 1669945713
 }

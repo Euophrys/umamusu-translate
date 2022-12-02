@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "KI3R44POQJPYQNQOV24QKIJH6LR7LCOV",
     "type": "story",
     "storyId": "501040418",
@@ -11,6 +11,17 @@
             "jpText": "いよいよ迎えた『ジャパンC』。\r\nゴールドシチーはトレーナーに尋ねた。\nなぜここまで走らせてくれたのか、と。",
             "enText": "The \"Japan C\" has finally arrived. \nGold City asked her trainer. Why \ndid you let me run this far?",
             "nextBlock": 2,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -502474531852909865
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 2767489298571307287
+                }
+            ],
             "pathId": 4471442450761458884,
             "blockIdx": 1
         },
@@ -20,6 +31,18 @@
             "jpText": "君が走りたがっているとわかっていたからだ。\nトレーナーが答えると、ゴールドシチーは\nどうかしていると呆れたように笑った。",
             "enText": "I knew you wanted to run. When the trainer \nreplied, Goldschy laughed like a fool.",
             "nextBlock": 3,
+            "origClipLength": 123,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": 5176931893397996224
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 8393855549159678397
+                }
+            ],
             "pathId": -5086422403989261169,
             "blockIdx": 2
         },
@@ -29,6 +52,18 @@
             "jpText": "貴方が走りたがっているとわかっていたから。\nトレーナーが答えると、ゴールドシチーは\nどうかしていると呆れたように笑った。",
             "enText": "I knew you wanted to run. When the trainer \nreplied, Goldschy laughed like a fool.",
             "nextBlock": 4,
+            "origClipLength": 123,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": 3296339695897913201
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 3109898223805428112
+                }
+            ],
             "pathId": 832072366637896753,
             "blockIdx": 3
         },
@@ -38,8 +73,20 @@
             "jpText": "『アンタをトレーナーにしてよかった』。\nそう告げた彼女は、自分らしく走ると宣言し\n強豪の待つレースへ向かっていった……！",
             "enText": "I'm glad I chose you as my trainer. She \ndeclared that she would run as herself, and \nheaded off to the race where the best were \nwaiting for her…!",
             "nextBlock": -1,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": 4817009424240963602
+                },
+                {
+                    "origLen": 148,
+                    "pathId": -4929065994820600253
+                }
+            ],
             "pathId": -613282024121432182,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945681
 }

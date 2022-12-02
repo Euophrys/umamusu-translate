@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "JXAPPGTS7K54OJELQ4FUYIHT3RDESMAD",
     "type": "story",
     "storyId": "501030420",
@@ -11,6 +11,25 @@
             "jpText": "『菊花賞』を勝利で飾ったライスシャワー。\r\n感慨に浸る彼女の元に、\nミホノブルボンがやってくる。",
             "enText": "Rice Shower wins the Kikka-sho. She \nis deeply moved by her victory, but \nthen Mihono Bourbon arrives.",
             "nextBlock": 2,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": 5554430139852418758
+                },
+                {
+                    "origLen": 172,
+                    "pathId": 8493800251079065997
+                },
+                {
+                    "origLen": 184,
+                    "pathId": 2842442213071443562
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -7439555633858953322
+                }
+            ],
             "pathId": 1815166392463813263,
             "blockIdx": 1
         },
@@ -20,6 +39,25 @@
             "jpText": "負けた悔しさを語った彼女は、\r\nライスシャワーをライバルと認め、\n勝負を挑む。",
             "enText": "She expresses her frustration at losing, but \nrecognizes Rice Shower as her rival and \nchallenges her to a match.",
             "nextBlock": 3,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": -5879584647031095170
+                },
+                {
+                    "origLen": 172,
+                    "pathId": -5971220270210058223
+                },
+                {
+                    "origLen": 184,
+                    "pathId": -1830158890394175434
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -8957145815655750868
+                }
+            ],
             "pathId": -8117756826205411118,
             "blockIdx": 2
         },
@@ -29,6 +67,25 @@
             "jpText": "ライスシャワーはその勝負を受けて立ち、\r\n会場中に聞こえるような大きな声で、\n『次も勝つ』と、宣言するのだった。",
             "enText": "Rice Shower accepted the challenge, and \ndeclared in a voice loud enough to be heard \nthroughout the hall, \"I'm going to win again.",
             "nextBlock": 4,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": -827857716640751656
+                },
+                {
+                    "origLen": 172,
+                    "pathId": -5470734007965076650
+                },
+                {
+                    "origLen": 184,
+                    "pathId": -42437570230948075
+                },
+                {
+                    "origLen": 198,
+                    "pathId": 2963326343556923919
+                }
+            ],
             "pathId": -7631426002799235997,
             "blockIdx": 3
         },
@@ -38,14 +95,34 @@
             "jpText": "……彼女の才能がもっと花開くためにも。\r\n『日経賞』を次の目標候補としたのだった。",
             "enText": "… in order for her talent to blossom further. \nIn order for her talent to flourish further, \nshe made the Nikkei Prize her next target.",
             "nextBlock": -1,
+            "origClipLength": 98,
             "coloredText": [
                 {
                     "jpText": "日経賞",
                     "enText": "Nikkei Award"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -1881425171981159726
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 1823781563639797320
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 2183183617206797775
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -3420396398520501740
+                }
+            ],
             "pathId": -2988225907141334402,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945553
 }

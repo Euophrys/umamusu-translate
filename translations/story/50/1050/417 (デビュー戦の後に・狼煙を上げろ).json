@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "X6BYCA5JBVTGH2KUZLSEWNTOTHRDPTH2",
     "type": "story",
     "storyId": "501050417",
@@ -11,6 +11,17 @@
             "jpText": "デビューを果たしたナリタタイシンだが、\n彼女の挑戦はまだまだここから――",
             "enText": "Narita Taishin has made her debut, but her \nchallenge is far from over.",
             "nextBlock": 2,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 147,
+                    "pathId": 3914904182313500752
+                },
+                {
+                    "origLen": 166,
+                    "pathId": 1783158580159545881
+                }
+            ],
             "pathId": 5060982258141219369,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "誰もが認める存在になるためには\n最強の舞台で勝つしかない。",
             "enText": "To be recognized by everyone, you have to win \non the most powerful stage.",
             "nextBlock": 3,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": 7309014665840791864
+                },
+                {
+                    "origLen": 166,
+                    "pathId": -3771476495675116462
+                }
+            ],
             "pathId": 3371512580851991823,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "来年の大目標を『クラシック三冠』に定め、\r\nそのためにまず『ホープフルステークス』で\n経験を積むことになったのだった。",
             "enText": "She had set her sights on the \"Classic Triple \nCrown\" next year, and in order to achieve \nthis goal, she decided to gain experience in \nthe \"Hopeful Stakes\" first.",
             "nextBlock": -1,
+            "origClipLength": 121,
             "coloredText": [
                 {
                     "jpText": "クラシック",
@@ -39,8 +62,19 @@
                     "enText": "Hopeful Stakes"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 174,
+                    "pathId": -6047507641593841356
+                },
+                {
+                    "origLen": 177,
+                    "pathId": -8608122234912368225
+                }
+            ],
             "pathId": 6021894346148508442,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945807
 }

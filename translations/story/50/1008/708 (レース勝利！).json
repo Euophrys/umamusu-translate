@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "F7DJPV62IS5RSJZ6H5EFQKUE4T67DWTP",
     "type": "story",
     "storyId": "501008708",
@@ -11,6 +11,17 @@
             "jpText": "――勝ったッ！！",
             "enText": "—I won!",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 4081485464363763090
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 8940999613532849426
+                }
+            ],
             "pathId": 2831905662011419440,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "勝ったぞ、トレーナー！！\r\n1着を掴み取ったんだ！！",
             "enText": "We won, trainer! You grabbed first place!",
             "nextBlock": 3,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -2957084067988729047
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8577646092851991788
+                }
+            ],
             "pathId": -344805971063507682,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "しっかり目に焼き付けただろーな！\r\n最高にカッコいい……俺の姿を！",
             "enText": "I hope you got a good look at me! I'm the \ncoolest… you'll ever see!",
             "nextBlock": 4,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "ああ、今夜は盛大に乾杯しよう！",
@@ -49,6 +72,17 @@
                     "jpText": "次のレースでも魅せてね！",
                     "enText": "Let's see you in the next race!",
                     "nextBlock": 11
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 3507776830351559297
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5273686477996281258
                 }
             ],
             "pathId": 3625224829947821741,
@@ -60,6 +94,7 @@
             "jpText": "しっかり目に焼き付けただろーな！\r\n最高にカッコいい……俺の姿を！",
             "enText": "I hope you got a good look at me! I'm the \ncoolest… you'll ever see!",
             "nextBlock": 5,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "ああ、今夜は盛大に乾杯しよう！",
@@ -82,6 +117,17 @@
                     "nextBlock": 11
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -4606867387519939473
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5842176453234651974
+                }
+            ],
             "pathId": 4648145119885045843,
             "blockIdx": 4
         },
@@ -91,6 +137,21 @@
             "jpText": "勝利の美酒ってヤツか！\r\nうんうん、イカした響きだな！",
             "enText": "It's a victory drink! Yeah, \nyeah, that sounds cool!",
             "nextBlock": 6,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -2715492639390872135
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -4392984292620933250
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 8333132630444198077
+                }
+            ],
             "pathId": 5627174300847051541,
             "blockIdx": 5
         },
@@ -100,6 +161,17 @@
             "jpText": "けどよ……。\r\nひとつ言っとくぜ、トレーナー。",
             "enText": "But hey… I'll tell \nyou one thing, trainer.",
             "nextBlock": 7,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 8421214875030669636
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 7993585543319161857
+                }
+            ],
             "pathId": 3906337543474549508,
             "blockIdx": 6
         },
@@ -109,11 +181,22 @@
             "jpText": "こんくらいでハデに喜んでちゃあ、\r\n体がいくつあっても足りねーぞ？",
             "enText": "You can't have too many bodies if \nyou're too happy about this.",
             "nextBlock": 8,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "ど、どういう意味？",
                     "enText": "What do you mean?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -5222391349148280656
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -8559133718159265578
                 }
             ],
             "pathId": -2613653493380285152,
@@ -125,6 +208,17 @@
             "jpText": "ふふん……この勝利も、\r\n単なる通過点に過ぎねーってこった。",
             "enText": "Hmmm… This victory \nis just a passing phase.",
             "nextBlock": 9,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 2173389553880255484
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 5278681154462705082
+                }
+            ],
             "pathId": -4686394445349526082,
             "blockIdx": 8
         },
@@ -134,6 +228,17 @@
             "jpText": "カッコよさを磨く道に――\r\n終わりなんざ、ねぇんだからよ！",
             "enText": "There's no end in sight to \nthe road to coolness!",
             "nextBlock": 10,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -5048851874980162516
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 7105671169222998362
+                }
+            ],
             "pathId": 6518508895357631927,
             "blockIdx": 9
         },
@@ -143,6 +248,17 @@
             "jpText": "俺はどこまでも走り続けてやるぜ！\r\nエンジン吹かして、アクセル全開でなッ！！",
             "enText": "I'm going to keep driving! I'm \ngoing to keep driving!",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 5587261723518019050
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -4097252988907026398
+                }
+            ],
             "pathId": 3975205710647129220,
             "blockIdx": 10
         },
@@ -152,6 +268,17 @@
             "jpText": "おいおい、トレーナー。\r\nなーに当然のこと言ってやがんだ。",
             "enText": "Hey, hey, hey, trainer. What the \nhell are you talking about?",
             "nextBlock": 12,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 1849994206940873887
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -8349915845582312338
+                }
+            ],
             "pathId": -8207927973061047460,
             "blockIdx": 11
         },
@@ -161,6 +288,7 @@
             "jpText": "こっからは、俺の独壇場だぜ！\r\nイカした走りで勝ちまくってやらぁ！",
             "enText": "From here on out, it's all about \nme! I'm going to ride like a man \nand I'm going to win!",
             "nextBlock": 13,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "すごい自信だな！",
@@ -173,6 +301,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 5496881494042475921
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 7351983116271783672
+                }
+            ],
             "pathId": 3898545239246854753,
             "blockIdx": 12
         },
@@ -182,6 +320,17 @@
             "jpText": "ま、自分への誓いみてーなモンさ。\r\nもし俺が負けちまったら――",
             "enText": "Well, it's kind of like a vow \nto myself. If I lose…",
             "nextBlock": 14,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 230128348503365073
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2932976584534254691
+                }
+            ],
             "pathId": 8410858859215325633,
             "blockIdx": 13
         },
@@ -191,6 +340,17 @@
             "jpText": "アンタや応援してくれてるヤツら、\r\n全員の期待を裏切ることになる。",
             "enText": "I'll be failing you and everyone \nwho's been supporting me.",
             "nextBlock": 15,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -3665684668702435354
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1178256739039623657
+                }
+            ],
             "pathId": 1478463268665050635,
             "blockIdx": 14
         },
@@ -200,6 +360,17 @@
             "jpText": "そんなダセぇザマは、\r\n絶対に晒したくねぇからな！",
             "enText": "I don't want to be exposed \nto that kind of nonsense!",
             "nextBlock": 16,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -9087478838356794715
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 8589291516591452387
+                }
+            ],
             "pathId": -2418510540310901054,
             "blockIdx": 15
         },
@@ -209,8 +380,20 @@
             "jpText": "楽しみにしてろよ、トレーナー！\r\n俺はずっと……カッコよくあり続けるぜッ！！",
             "enText": "Looking forward to it, trainer! \nI'll always be… cool!",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -7379538690031007872
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 3590963510398970972
+                }
+            ],
             "pathId": -7205207179758750492,
             "blockIdx": 16
         }
-    ]
+    ],
+    "modified": 1669945050
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "H4WVHIWTGPO4WYVCPEM25QCC3FX5B2PL",
     "type": "story",
     "storyId": "830031001",
@@ -11,6 +11,7 @@
             "jpText": "昼食をとりにカフェテリアに向かったところ、\r\nメニュー表をぼーっと眺めている\nユキノビジンが目に入った。",
             "enText": "When I went to the cafeteria for \nlunch, I saw Yukinovidin staring \nblankly at the menu list.",
             "nextBlock": 2,
+            "origClipLength": 112,
             "choices": [
                 {
                     "jpText": "ずいぶん熱心に見てるな",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 4904919037093259664
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -5001868181821790546
+                }
+            ],
             "pathId": -6789803812081026655,
             "blockIdx": 1
         },
@@ -32,6 +43,17 @@
             "jpText": "へっ！？\r\nいや、そンなわけじゃ……！",
             "enText": "Huh? No, not like that…!",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5710102642125848528
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 524328073909672892
+                }
+            ],
             "pathId": 3364179184093507542,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "限定メニューに『大盛そば』ってあったンで\r\n地元のわんこそばを思い出してしまって――",
             "enText": "There was a limited menu item called \n\"Large Soba,\" which reminded me of \nthe local soba noodles.",
             "nextBlock": 4,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 4449049693579174713
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 2819538256783619041
+                }
+            ],
             "pathId": 8883616952836716193,
             "blockIdx": 3
         },
@@ -50,6 +83,25 @@
             "jpText": "わんこそば……だと……！？",
             "enText": "Wanko soba… is…!",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -4973377631599283161
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 8920254198335270602
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -5995692918333235260
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -6126700996168017358
+                }
+            ],
             "pathId": 6967306458434803600,
             "blockIdx": 4
         },
@@ -59,11 +111,30 @@
             "jpText": "確か、故郷は盛岡だったな。\r\nということは本場か…………ごくり。",
             "enText": "I'm pretty sure my hometown is Morioka. So \nthat's the real place… Gokuri.",
             "nextBlock": 6,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "（目がすごくギラギラしてる……）",
                     "enText": "(Her eyes are so glittery…)",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 3691871651927608159
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8898846715114507822
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 7526710533438740535
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 1469358345133756681
                 }
             ],
             "pathId": -774347253644965048,
@@ -75,6 +146,37 @@
             "jpText": "こらこらオグリ！\r\nおふたりさんビックリしとるやろ！",
             "enText": "Hey, hey, Oguri! You two scared \nthe hell out of me!",
             "nextBlock": 7,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 2003676797656812404
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 9157738439945909912
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 1282476198420675329
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 3275061680875150351
+                },
+                {
+                    "origLen": 331,
+                    "pathId": 4631881121780843782
+                },
+                {
+                    "origLen": 150,
+                    "pathId": -798368129521528778
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 8078508955695572701
+                }
+            ],
             "pathId": -728228203628843154,
             "blockIdx": 6
         },
@@ -84,6 +186,37 @@
             "jpText": "すまない、わんこそばが気になってしまって\r\n……よければ話を聞かせてくれないか？",
             "enText": "Sorry, I'm just curious about the \nwanker. … If you don't mind, I'd \nlike to talk to you about it.",
             "nextBlock": 8,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -1005245907558101615
+                },
+                {
+                    "origLen": 149,
+                    "pathId": -123307835223746234
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 4343068489152693464
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6463815833367646052
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 8065935617332151094
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 5007718813981125558
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -6086572141999500125
+                }
+            ],
             "pathId": -5977592284382898010,
             "blockIdx": 7
         },
@@ -93,11 +226,30 @@
             "jpText": "あたしでよければ……っていっても、\r\nお給仕くらいしかやったことないンですけど。",
             "enText": "If it's okay with me, I can go to… but I've \nonly worked as a waiter.",
             "nextBlock": 9,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "お給仕って、わんこそばをお椀に入れる係？",
                     "enText": "What do you mean by \"serving\"? Are you in \ncharge of putting wanko soba into bowls?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 1246625591471127483
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -5761848594160445944
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -4533771886540563097
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -1326641922551556284
                 }
             ],
             "pathId": 5076818470664968629,
@@ -109,6 +261,25 @@
             "jpText": "はい、楽しいですよ～。『はいどんどん』\r\n『はいじゃんじゃん』っておそば入れて――",
             "enText": "Yes, it's fun! \"Here you go!\" \"Here you go!\" \n\"Here you go!\" \"Here you go!",
             "nextBlock": 10,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -598628766218141603
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7504334599001658447
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -3455909258164815770
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 9153722144414885769
+                }
+            ],
             "pathId": -7411032420637313407,
             "blockIdx": 9
         },
@@ -118,6 +289,25 @@
             "jpText": "初めは慣れなくて、お店のおばちゃんに\r\n助けてもらってばかりでしたけどね。",
             "enText": "At first, I had a hard time getting \nused to it and had to ask for help \nfrom the lady at the store.",
             "nextBlock": 11,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -2278881711279791708
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 4748310192462398045
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6401836123223565532
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1319540980733298522
+                }
+            ],
             "pathId": -4604983454234960009,
             "blockIdx": 10
         },
@@ -127,6 +317,25 @@
             "jpText": "いい話を聞かせてもらった……これからは\r\nユキノに頼めばわんこそばが食べられるのか。",
             "enText": "I was told a good story… From now on, I can \neat wanko soba if I ask Yukino?",
             "nextBlock": 12,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 4753191487147570864
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -8030305444903781288
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 2448920716229767134
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 9004857128990130663
+                }
+            ],
             "pathId": 4160663620708059718,
             "blockIdx": 11
         },
@@ -136,6 +345,37 @@
             "jpText": "んなわけあるかーい！\r\nお給仕だけって言うとったやろが！",
             "enText": "Of course not! You said you'd only serve!",
             "nextBlock": 13,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -5201343550142400956
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -5376207498529463567
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 6847651787494744040
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -8862452226859890661
+                },
+                {
+                    "origLen": 153,
+                    "pathId": -2470709203124133181
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 8155663647636785166
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -8307222973431495711
+                }
+            ],
             "pathId": 4737293398616484985,
             "blockIdx": 12
         },
@@ -145,6 +385,29 @@
             "jpText": "あはは、あたしはお出しできませンけど、\r\n盛岡のわんこそばはほんとに美味しいですよ！",
             "enText": "Haha, I can't serve it, but the wanko soba \nin Morioka is really good!",
             "nextBlock": 14,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 5300564718501860827
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7124697559211226733
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 4644311804858642992
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -3588606712304694216
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -1285489536041310023
+                }
+            ],
             "pathId": 1408252995764103460,
             "blockIdx": 13
         },
@@ -154,6 +417,7 @@
             "jpText": "他にも食べものや楽しいもの、\r\nいっぱいあるンで、ぜひ来てくださいね～。",
             "enText": "There are lots of other things to eat and \nhave fun, so please come and visit us!",
             "nextBlock": 15,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "たとえばどんなもの？",
@@ -169,6 +433,25 @@
                     "jpText": "わんこそばが食べたくなってきた",
                     "enText": "I'm starting to feel like eating wanko soba.",
                     "nextBlock": 27
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -6250237558639197609
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 4007615901309266715
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6123430169308347983
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7049897521544426109
                 }
             ],
             "pathId": -6774530011074685760,
@@ -180,6 +463,7 @@
             "jpText": "他にも食べものや楽しいもの、\r\nいっぱいあるンで、ぜひ来てくださいね～。",
             "enText": "There are lots of other things to eat and \nhave fun, so please come and visit us!",
             "nextBlock": 16,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "たとえばどんなもの？",
@@ -197,6 +481,25 @@
                     "nextBlock": 27
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 3469012761348293957
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -3909391613863244980
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -509686419110858096
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 3377551114950155259
+                }
+            ],
             "pathId": 4989523037941285892,
             "blockIdx": 15
         },
@@ -206,6 +509,25 @@
             "jpText": "そうですねぇ～。有名なのは、\r\n『盛岡さんさ踊り』ってお祭りでしょうか？",
             "enText": "That's right. The most famous festival is \n\"Morioka Sansa Odori\", right?",
             "nextBlock": 17,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 506250470381999870
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 4596648341561689288
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 7155501243911307305
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 177341645658174364
+                }
+            ],
             "pathId": 2383529087504334474,
             "blockIdx": 16
         },
@@ -215,6 +537,7 @@
             "jpText": "太鼓を叩いたり、笛を吹いたり、踊ったり\r\nして、みんなで通りをパレードするンです！",
             "enText": "Everyone parades down the street playing \ndrums, blowing flutes, and dancing!",
             "nextBlock": 18,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "それって準備が大変じゃないか？",
@@ -227,6 +550,24 @@
                     "nextBlock": 18
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 399040310274500349
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 8451482590794832421
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 2288760765990829665
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1091486797511019004
+                }
+            ],
             "pathId": -1007490906231583644,
             "blockIdx": 17
         },
@@ -236,6 +577,29 @@
             "jpText": "むしろ、いろいろ鍛えられて\r\nいい経験になりました！",
             "enText": "Rather, it's been a great experience, \ntraining me in many ways!",
             "nextBlock": 19,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6201716421840505700
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 7851071369691700737
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 915881107635795512
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2011914676561861793
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 229681364239188708
+                }
+            ],
             "pathId": 476090146199657511,
             "blockIdx": 18
         },
@@ -245,6 +609,25 @@
             "jpText": "地元のみんなも孫みたいによくしてくれて\r\n準備するの、すンごく楽しかったです。",
             "enText": "The local people treated me like a \ngrandchild, and it was a lot of fun \npreparing for the event.",
             "nextBlock": 20,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 4910870875573014977
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 5730499253551284856
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -4333602146610267143
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -425361828599142255
+                }
+            ],
             "pathId": -3078505154908735098,
             "blockIdx": 19
         },
@@ -254,6 +637,29 @@
             "jpText": "ええ地元やなぁ。\r\nオグリんとこもそんな感じやったっけ？",
             "enText": "It's a nice hometown. Was Oguri's \nplace like that too?",
             "nextBlock": 21,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 4168641991356406796
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -897121231375736280
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 8417713401047909869
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6595466876086744088
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -148177408996404756
+                }
+            ],
             "pathId": 5541791251408913415,
             "blockIdx": 20
         },
@@ -263,6 +669,37 @@
             "jpText": "ああ。私も笠松音頭をトメさんたちに\r\n教わった……みんな元気にしているだろうか？",
             "enText": "Oh. I also learned the Kasamatsu Ondo from \nTomes… I hope everyone is doing well.",
             "nextBlock": 22,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -1548074097374795413
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 265252756343678001
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 5800312949986136148
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -9058340209888023383
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5064784119262869276
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -3484606703025932877
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -2099430540335076030
+                }
+            ],
             "pathId": 4337088075346137205,
             "blockIdx": 21
         },
@@ -272,6 +709,25 @@
             "jpText": "あたしも故郷が恋しくなってきちゃいました。\r\n……今度お手紙でも書こうかな。",
             "enText": "I'm starting to miss my hometown too. I'm \nthinking of writing a letter to her…",
             "nextBlock": 23,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -494264646842470982
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 4278932669624045666
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 3828896928843921333
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 772157855227292048
+                }
+            ],
             "pathId": 2035078948665627267,
             "blockIdx": 22
         },
@@ -281,6 +737,29 @@
             "jpText": "どうせならいいお便りを書きたいし、\r\nトレーニングがんばらないとですね！",
             "enText": "I want to write a good letter anyway, \nand I need to train hard!",
             "nextBlock": 24,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -9001464097038301628
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6680929469269394133
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6557055584429743444
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8067412936311141092
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 3742064305736786176
+                }
+            ],
             "pathId": -2180549100924045057,
             "blockIdx": 23
         },
@@ -290,6 +769,29 @@
             "jpText": "同感だ。そのためにはまず、\r\n充分に腹ごしらえをしないとな。",
             "enText": "I agree. But first, we need to \nmake sure we're well fed.",
             "nextBlock": 25,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8321425994557565971
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5944107258934821067
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 4503037051109987409
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 4568760413977647696
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5798607965538591350
+                }
+            ],
             "pathId": -7544612581083973335,
             "blockIdx": 24
         },
@@ -299,6 +801,25 @@
             "jpText": "故郷への想いは、\r\nトレーニングのモチベーションにつながる――",
             "enText": "The thought of home motivates \nme to train harder.",
             "nextBlock": 26,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 3376173611459849781
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 1658545113439893632
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -8219053280674340220
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -223330372979448772
+                }
+            ],
             "pathId": 5774876953507372122,
             "blockIdx": 25
         },
@@ -308,6 +829,25 @@
             "jpText": "オグリキャップの腹の音を聞きながら、\r\n再確認したのだった。",
             "enText": "As she listened to the sound of Oguri-cap's \nstomach, she reaffirmed her belief.",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -7028877789398954525
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 8104642280107589249
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -8822580063893903390
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 7697617967651308187
+                }
+            ],
             "pathId": -2248246057720743308,
             "blockIdx": 26
         },
@@ -317,6 +857,33 @@
             "jpText": "奇遇だな、私もだ……！",
             "enText": "Odd, me too…!",
             "nextBlock": 28,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -4075556646273329051
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 269538985939702483
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 8833241405444251716
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -578827169121098293
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 754901932332533671
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 6728963843044952588
+                }
+            ],
             "pathId": 1745556802195277639,
             "blockIdx": 27
         },
@@ -326,6 +893,25 @@
             "jpText": "あ、近くにわんこそばのお店があるンで、\r\nご紹介しましょうか？",
             "enText": "Oh, there's a soba noodle store nearby. \nShall I introduce it to you?",
             "nextBlock": 29,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -1062722148599306655
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5998591026103643467
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2361884782054286902
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 551475869986770973
+                }
+            ],
             "pathId": 4141734169241498235,
             "blockIdx": 28
         },
@@ -335,6 +921,25 @@
             "jpText": "地元でお給仕を教えてくれたおばちゃんが\r\n出してるお店なンで、味は保証しますよ～！",
             "enText": "This restaurant is run by a local \nwoman who taught me how to serve, \nso I can vouch for the taste!",
             "nextBlock": 30,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 1920858129326150968
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 3117052140436081217
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4856963438007897663
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 2161249816501963003
+                }
+            ],
             "pathId": 8161662422123536669,
             "blockIdx": 29
         },
@@ -344,6 +949,25 @@
             "jpText": "んん～！　あいかわらず、\r\nおばちゃんのおそばはうンめぇなぁ～。",
             "enText": "Hmm~! As usual, Obaachan's \nsoba is delicious!",
             "nextBlock": 31,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -1860184312369116065
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -5247132301411534879
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -6300522050572251115
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -664827655709523874
+                }
+            ],
             "pathId": -6495321800254529855,
             "blockIdx": 30
         },
@@ -353,6 +977,7 @@
             "jpText": "ああ……。\r\nいつまでも食べていられそうだ……！",
             "enText": "Oh… I could eat this forever…!",
             "nextBlock": 32,
+            "origClipLength": 76,
             "pathId": 6905258106166620977,
             "blockIdx": 31
         },
@@ -362,6 +987,25 @@
             "jpText": "……はぁ、これが本場の味か。",
             "enText": "… Huh, so this is the real taste.",
             "nextBlock": 33,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 8280508722658806067
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -740504341125943863
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2122331039466498896
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5789374701138763813
+                }
+            ],
             "pathId": 7067825149441977573,
             "blockIdx": 32
         },
@@ -371,6 +1015,25 @@
             "jpText": "あ、おそば少なくなってきましたね。\r\nおばちゃん、あたし手伝いましょうか？",
             "enText": "Oh, we're running low on soba, aren't we? \nCan I help you, Obaachan?",
             "nextBlock": 34,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7886265643080267547
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1402115089899716216
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6037945700697243845
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 762884143022112236
+                }
+            ],
             "pathId": -8889865832568129818,
             "blockIdx": 33
         },
@@ -380,6 +1043,29 @@
             "jpText": "いいンかい、ユキノちゃん？\r\nお客さんとして来てくれたのに……。",
             "enText": "Are you sure, Yukino? You're \nhere as a guest…",
             "nextBlock": 35,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 8887812453902856237
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -3554460498435871050
+                },
+                {
+                    "origLen": 280,
+                    "pathId": 7465460170675462020
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6708313147387769996
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6348118216920690685
+                }
+            ],
             "pathId": -5132414180737107402,
             "blockIdx": 34
         },
@@ -389,6 +1075,29 @@
             "jpText": "はい！\r\nお給仕はまかせてください！",
             "enText": "Yes, sir! I'll take care of the serving!",
             "nextBlock": 36,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 6468751657755247071
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 1467466484732295889
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3469957327870867032
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 5377387718006324218
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6232469941408280735
+                }
+            ],
             "pathId": -774928849856273686,
             "blockIdx": 35
         },
@@ -398,6 +1107,25 @@
             "jpText": "はいどんどん！\r\nはいじゃんじゃん！",
             "enText": "Keep it coming! Yes!",
             "nextBlock": 37,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 2582385372883427739
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -8140730150075238149
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -5765863638025270340
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -4328342902892255534
+                }
+            ],
             "pathId": 366427611667111357,
             "blockIdx": 36
         },
@@ -407,6 +1135,25 @@
             "jpText": "相変わらずバケモン級の胃袋やな、オグリ。\r\n食い放題とはいえ、悪い気してきたわ……。",
             "enText": "You still have the stomach of a monster, \nOguri. Even though it's all you can eat, I'm \nstarting to feel bad…",
             "nextBlock": 38,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": -4398617246428086411
+                },
+                {
+                    "origLen": 182,
+                    "pathId": -3899115562362131992
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -1325851973851667625
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -8046179392482699777
+                }
+            ],
             "pathId": 4520975452825693236,
             "blockIdx": 37
         },
@@ -416,6 +1163,29 @@
             "jpText": "大丈夫ですよ～。たくさん食べて、\r\n満足してもらうのが喜びですから。",
             "enText": "It's okay. It's my pleasure to have you eat \na lot and be satisfied.",
             "nextBlock": 39,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 2151001876892880571
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2638426011654564307
+                },
+                {
+                    "origLen": 196,
+                    "pathId": 8365274724749814199
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 4626115188172298966
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 8806063439005552767
+                }
+            ],
             "pathId": 6734813194126855013,
             "blockIdx": 38
         },
@@ -425,6 +1195,29 @@
             "jpText": "ユキノちゃんもほんとにありがとう。\r\nもう一人前のお給仕さんだねぇ～。",
             "enText": "Thank you so much, Yukino-chan. You're a \nfull-fledged waiter now!",
             "nextBlock": 40,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -9200022573762066774
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 4903004872264498481
+                },
+                {
+                    "origLen": 175,
+                    "pathId": 7466844099799300201
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8037660496839752411
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -690813893525380690
+                }
+            ],
             "pathId": 4088578925897171799,
             "blockIdx": 39
         },
@@ -434,6 +1227,29 @@
             "jpText": "昔はちっちゃい体でお盆運んで、みんな\r\nはらはらしながら見守ってたンだけど……。",
             "enText": "I used to carry a tray with my tiny body, \nand everyone watched me with trepidation…",
             "nextBlock": 41,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 5181432746932429104
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 4033460389953590209
+                },
+                {
+                    "origLen": 160,
+                    "pathId": -8010587606577903910
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 7095552146733493641
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 6997559076336052108
+                }
+            ],
             "pathId": -4373486730341133991,
             "blockIdx": 40
         },
@@ -443,6 +1259,29 @@
             "jpText": "お、おばちゃんってばも～！",
             "enText": "Oh, my auntie!",
             "nextBlock": 42,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -4447054082432329536
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -6053828061629993185
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 6183038387352088594
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 5375270702850187927
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8710403029601414316
+                }
+            ],
             "pathId": -7080057067186689293,
             "blockIdx": 41
         },
@@ -452,8 +1291,28 @@
             "jpText": "その後、オグリキャップが満腹になるまで\r\nユキノビジンは給仕を続けた……。\nある意味、いいトレーニングになっただろう。",
             "enText": "After that, Yukino Bijin continued to serve \nuntil Oguri Cap was full… In a way, it \nwould have been a good training.",
             "nextBlock": -1,
+            "origClipLength": 121,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 3131090615527863409
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 6876825176016415073
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 8590452967872108746
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -1965421259587042104
+                }
+            ],
             "pathId": 2715943707142776314,
             "blockIdx": 42
         }
-    ]
+    ],
+    "modified": 1669946037
 }

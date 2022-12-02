@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "V2JZITEU65KELKADH2K7XRZYSVRVNZ4R",
     "type": "story",
     "storyId": "501006729",
@@ -11,6 +11,7 @@
             "jpText": "むぅ……難しいんだな。",
             "enText": "Mmm… It's difficult, isn't it?",
             "nextBlock": 2,
+            "origClipLength": 59,
             "choices": [
                 {
                     "jpText": "ごめん……",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 4036101253345585345
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6601928478024201007
+                }
+            ],
             "pathId": -4445741142777763429,
             "blockIdx": 1
         },
@@ -32,6 +43,17 @@
             "jpText": "気にしなくていい。\n私もきっと失敗すると思う。",
             "enText": "Don't worry about it. I'm sure \nI'll make mistakes too.",
             "nextBlock": 3,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 4227532738177939317
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6003765473906596605
+                }
+            ],
             "pathId": 2135920329335080334,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "それに、あの真剣な表情で、\nトレーナーの一生懸命な気持ちは伝わった。",
             "enText": "Besides, I could tell by the serious \nexpression on the trainer's face that she \nwas trying her best.",
             "nextBlock": 4,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -3879942240481648667
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 559222340838991553
+                }
+            ],
             "pathId": 75863026101710543,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "ぬいぐるみがなくても、私はそれで充分だ。",
             "enText": "Even without a stuffed animal, \nit's good enough for me.",
             "nextBlock": 5,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 8115999679688835416
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3023891200006324459
+                }
+            ],
             "pathId": -5436969471188013045,
             "blockIdx": 4
         },
@@ -59,8 +103,20 @@
             "jpText": "残念な結果に終わった……。",
             "enText": "A disappointing result…",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 4237561992994078223
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8034361539138062947
+                }
+            ],
             "pathId": 5535761328469287889,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669944989
 }

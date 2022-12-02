@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7N6YS6QQZRNMODKS74DCB2CVQX7BI5UG",
     "type": "story",
     "storyId": "501030711",
@@ -11,6 +11,17 @@
             "jpText": "また……負けちゃった……。\r\nごめんなさい……ごめんなさい……。",
             "enText": "I lost… again… I'm sorry. … I'm sorry…",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 662551385601891088
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2202608068897865234
+                }
+            ],
             "pathId": 5128280158942824387,
             "blockIdx": 1
         },
@@ -20,6 +31,18 @@
             "jpText": "ライス……またお兄さまを、\r\nがっかりさせちゃってるよね……。",
             "enText": "Rice… you're disappointing \nyour brother again…",
             "nextBlock": 3,
+            "origClipLength": 65,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 4890659522080779763
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4570403299227494683
+                }
+            ],
             "pathId": 5940679754929174025,
             "blockIdx": 2
         },
@@ -29,6 +52,18 @@
             "jpText": "ライス……またお姉さまを、\r\nがっかりさせちゃってるよね……。",
             "enText": "Rice… you're letting your sister down again…",
             "nextBlock": 4,
+            "origClipLength": 65,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 3793890510618051497
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1131691203471645450
+                }
+            ],
             "pathId": 8260293847600943750,
             "blockIdx": 3
         },
@@ -38,6 +73,7 @@
             "jpText": "だけど、もうがっかりさせない……。\r\n次は絶対、負けない……！",
             "enText": "But I won't let you down again… \nNext time, we won't lose…!",
             "nextBlock": 5,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "慎重にいこう",
@@ -53,6 +89,17 @@
                     "jpText": "一緒に頑張ろう！",
                     "enText": "We're in this together!",
                     "nextBlock": 11
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -4742736873244191578
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 5550952671007768805
                 }
             ],
             "pathId": -6326604187607334957,
@@ -64,6 +111,7 @@
             "jpText": "だけど、もうがっかりさせない……。\r\n次は絶対、負けない……！",
             "enText": "But I won't let you down again… \nNext time, we won't lose…!",
             "nextBlock": 6,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "慎重にいこう",
@@ -81,6 +129,17 @@
                     "nextBlock": 11
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -1138145707555187628
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -1642699196315144563
+                }
+            ],
             "pathId": 8022040932154442537,
             "blockIdx": 5
         },
@@ -90,11 +149,23 @@
             "jpText": "だけど、お兄さま……！\r\nこれ以上負けたら、ライスは……！",
             "enText": "But, brother…! If you lose \nany more, Rice will be…!",
             "nextBlock": 7,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "ケガしたら元も子もない",
                     "enText": "If you get hurt, there's nothing you can do.",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 4938866700041431969
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4571627750911006136
                 }
             ],
             "pathId": 4588257870210613472,
@@ -106,11 +177,23 @@
             "jpText": "だけど、お姉さま……！\r\nこれ以上負けたら、ライスは……！",
             "enText": "But, sister…! If you lose \nany more, Rice will be…!",
             "nextBlock": 8,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "ケガしたら元も子もない",
                     "enText": "If you get hurt, there's nothing you can do.",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 886695693992506481
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6798759685349942056
                 }
             ],
             "pathId": 665963533457017516,
@@ -122,6 +205,17 @@
             "jpText": "それは……そうだけど……。",
             "enText": "It's… yes, but…",
             "nextBlock": 9,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -3825681280501193629
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 5849259541714486079
+                }
+            ],
             "pathId": -7225267866995907612,
             "blockIdx": 8
         },
@@ -131,6 +225,18 @@
             "jpText": "わかった……でも、次は勝つから……\r\n見ててね、お兄さま……。",
             "enText": "Okay… but I'll win next time… \nWatch me, brother…",
             "nextBlock": 10,
+            "origClipLength": 65,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8553998548423065826
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -186893332152148205
+                }
+            ],
             "pathId": -4184243317338847425,
             "blockIdx": 9
         },
@@ -140,6 +246,18 @@
             "jpText": "わかった……でも、次は勝つから……\r\n見ててね、お姉さま……。",
             "enText": "Okay… but I'll win next time… \nWatch me, sister…",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 2961289014510976553
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -1481718123507739841
+                }
+            ],
             "pathId": 623953707016059695,
             "blockIdx": 10
         },
@@ -149,6 +267,18 @@
             "jpText": "お兄さま……ライス、どんなトレーニング\r\nでもやる……もう負けたくない。",
             "enText": "Brother… Rice, I'll do any training \n… I don't want to lose anymore.",
             "nextBlock": 12,
+            "origClipLength": 68,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 5768060126441022275
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2334159116773134187
+                }
+            ],
             "pathId": -7395332706667747605,
             "blockIdx": 11
         },
@@ -158,6 +288,18 @@
             "jpText": "お姉さま……ライス、どんなトレーニング\r\nでもやる……もう負けたくない。",
             "enText": "Sister… Rice, I'll do any training \n… I don't want to lose anymore.",
             "nextBlock": 13,
+            "origClipLength": 68,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 118889236122940405
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -1614719386315616757
+                }
+            ],
             "pathId": 809375645345438817,
             "blockIdx": 12
         },
@@ -167,8 +309,20 @@
             "jpText": "だから……お願い。\r\nライスを導いて……！",
             "enText": "So… please. Lead Rice to…!",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -1184498991647115337
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 3189051196859528489
+                }
+            ],
             "pathId": 6011552639738387130,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669945562
 }

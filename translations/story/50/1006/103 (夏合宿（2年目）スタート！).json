@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "35QZBRZZQPZ5AFQ72GSY742NNQIL2QYP",
     "type": "story",
     "storyId": "501006103",
@@ -11,6 +11,17 @@
             "jpText": "今日から『夏合宿』――\r\n実力向上のため強化トレーニングが始まる。",
             "enText": "Today is the start of the \"summer \ntraining camp\" - a training program \nto improve our skills.",
             "nextBlock": 2,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 5965665690646041992
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -7578757884168935975
+                }
+            ],
             "pathId": 2874639038292704196,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "ここが合宿所……。\r\nトレーナー、聞きたいことがあるんだが。",
             "enText": "This is the training camp… Trainer, \nI have a question for you.",
             "nextBlock": 3,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "なんだ？",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 5254216786746721848
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 3396315379755876029
+                }
+            ],
             "pathId": 2802634930487104208,
             "blockIdx": 2
         },
@@ -41,6 +63,7 @@
             "jpText": "ここの合宿所に……\r\nバイキングはあるのだろうか？",
             "enText": "Do they have a… buffet at the camp here?",
             "nextBlock": 4,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "……合宿だってこと忘れてないか？",
@@ -53,6 +76,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -5210129335335172287
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3985207117322632762
+                }
+            ],
             "pathId": 6736321392337834699,
             "blockIdx": 3
         },
@@ -62,6 +95,17 @@
             "jpText": "いや、忘れていない。\r\nこの合宿が、とても大事なことも。",
             "enText": "No, I haven't forgotten. I also remembered \nthat this camp was very important.",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 872581582009361746
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 8949963347758611294
+                }
+            ],
             "pathId": 4458125968186362999,
             "blockIdx": 4
         },
@@ -71,6 +115,17 @@
             "jpText": "全てのレースで勝つために、\r\nしっかり鍛えていくつもりだ。",
             "enText": "I'm going to train hard to win every race.",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -3803162974802309203
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6190350472785088339
+                }
+            ],
             "pathId": -2039098510002065639,
             "blockIdx": 5
         },
@@ -80,6 +135,17 @@
             "jpText": "大丈夫だ。私は頑張る。\r\n……ただ食事も大事だと思うんだ。",
             "enText": "It's okay. I'll do my best… I just think \nit's important to eat, too.",
             "nextBlock": 7,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 3869717763306886521
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 7152431518089968452
+                }
+            ],
             "pathId": 3516694057350061064,
             "blockIdx": 6
         },
@@ -89,8 +155,20 @@
             "jpText": "――オグリキャップとの\r\n熱い夏合宿がスタートした！",
             "enText": "—The hot summer camp with \nOguri-cap has begun!",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 5053597637101572622
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -8781242245969701344
+                }
+            ],
             "pathId": 2521817681458691562,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669944965
 }

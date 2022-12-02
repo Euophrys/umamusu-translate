@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BXIXU3V7MIHE33DLGSRT4UW3S7VPE5KE",
     "type": "story",
     "storyId": "501004420",
@@ -11,6 +11,17 @@
             "jpText": "マルゼンスキーは『皐月賞』をバッチリ\r\n走り切った。そのうえで、追われる立場\nとして全力を尽くすと宣言した。",
             "enText": "Maruzensky ran a perfect race in\nSatsuki-sho. She also declared that she\nwould do her best as the one being chased.",
             "nextBlock": 2,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": 3035903863447308718
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 7041970736503052154
+                }
+            ],
             "pathId": -643200686660373835,
             "blockIdx": 1
         },
@@ -20,10 +31,41 @@
             "jpText": "マルゼンスキーの走りを見た\r\nスペシャルウィークとグラスワンダーは、\n彼女の背中に追いつきたいと語り――",
             "enText": "After watching Maruzensky run, Special\nWeek and Glass Wonder said they wanted\nto catch up with her.",
             "nextBlock": 3,
+            "origClipLength": 85,
             "coloredText": [
                 {
                     "jpText": "日本ダービー",
                     "enText": "Japan Derby"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -7983989498260139630
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 890765088112167761
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 7960290725333390863
+                },
+                {
+                    "origLen": 175,
+                    "pathId": -6211429142005868609
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 7938648748868719019
+                },
+                {
+                    "origLen": 187,
+                    "pathId": 5385007986836903922
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -1674311121288619352
                 }
             ],
             "pathId": 3660354505648325101,
@@ -35,14 +77,38 @@
             "jpText": "その期待に応えるべく、\r\n『日本ダービー』で最高の走りをすると\nマルゼンスキーは微笑むのだった。",
             "enText": "To live up to her expectations, Maruzensky\nsmiled and said she would run her best in\nthe \"Japan Derby.",
             "nextBlock": -1,
+            "origClipLength": 120,
             "coloredText": [
                 {
                     "jpText": "日本ダービー",
                     "enText": "Japan Derby"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -7036446801163072370
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -74838113436842612
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -1049671516705532157
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -77507393167600191
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -6224636945399568425
+                }
+            ],
             "pathId": -144818119390454549,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944911
 }

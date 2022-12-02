@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "EPI5QUGLYS7LTCWNTXNEA636MILW3RAO",
     "type": "story",
     "storyId": "501030521",
@@ -11,6 +11,17 @@
             "jpText": "ライスシャワーと\r\nトレーニングをしていたのだが……。",
             "enText": "I had a Rice Shower and some training…",
             "nextBlock": 2,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 8823418690365976294
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -8354994223441332591
+                }
+            ],
             "pathId": 773741682696675137,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "うぅ～……ん。",
             "enText": "Ugh~…",
             "nextBlock": 3,
+            "origClipLength": 49,
             "choices": [
                 {
                     "jpText": "大丈夫か？",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 2157302352349412934
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4306464588930774029
+                }
+            ],
             "pathId": 4188035852966223542,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "最近、怖い夢を見るの……黒い影に囲まれて、\r\nよくわからない言葉をライスに――",
             "enText": "Lately, I've been having scary dreams. … I'm \nsurrounded by black shadows, and I'm saying \nunfamiliar words to Rice.",
             "nextBlock": 4,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 3479107614101393887
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5992659360488072764
+                }
+            ],
             "pathId": 7025044890429240845,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "それが続くから……、\r\n寝るのも怖くなっちゃって……はぁ。",
             "enText": "I was afraid to go to sleep because \nit kept happening… Haha.",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": -3843955188183171423
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4935051274564048952
+                }
+            ],
             "pathId": 5200124588425727144,
             "blockIdx": 4
         },
@@ -59,8 +103,20 @@
             "jpText": "ライスシャワーは苦しんでいるようだ。\r\nなんとかしてあげられればいいのだが……。",
             "enText": "Rice Shower seems to be suffering. I wish I \ncould do something about it…",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 9198350552369741252
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 4186957889448864798
+                }
+            ],
             "pathId": -4631624157039289858,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945557
 }

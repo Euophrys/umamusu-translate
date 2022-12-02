@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "HYABXVA7HSXLCEKHIKX7R6X4AUSFHIPL",
     "type": "story",
     "storyId": "501041700",
@@ -11,6 +11,17 @@
             "jpText": "ふわぁぁぁ～～～……。",
             "enText": "Fluffy~…",
             "nextBlock": 2,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 1903445769889787091
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -7376102592156172911
+                }
+            ],
             "pathId": 5738675833944890534,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "んん……打ち合わせ中に、失礼しました。\r\nインテリのヘイガイ……みたいな、もので。",
             "enText": "I'm sorry, I was in a… meeting. I'm an\nintellectual hegai… kind of thing.",
             "nextBlock": 3,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "インテリの、弊害……？",
                     "enText": "What is the harm… of intellectuals?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -2112034207080931461
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 87919426556098745
                 }
             ],
             "pathId": -6813247922422156825,
@@ -36,6 +58,17 @@
             "jpText": "ええ……昨夜、思考をバクシンする飲料……\r\nコーヒーを、飲みすぎてしまって。",
             "enText": "Yeah, I drank too much… coffee\nlast night, which is a beverage that\nmakes you think…",
             "nextBlock": 4,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -4044721240124311027
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -4095235073058175092
+                }
+            ],
             "pathId": 6128940888271806974,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "『シャキッと眠気知らず！』とラベルに\r\nありましたが……まさか、ここまでとは……。",
             "enText": "The label says, \"Crisp and sleepless! The\nlabel said… but I didn't expect it\nto go this far…",
             "nextBlock": 5,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -8741042843048955928
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 2216455935549599433
+                }
+            ],
             "pathId": -4859718603165539283,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "ふわぁ～……。\r\nトレーナーさんも、コーヒーにご注意を。",
             "enText": "Wow… Trainers, please\nbe careful with the coffee.",
             "nextBlock": 6,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 548938731226937421
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 63517796358180847
+                }
+            ],
             "pathId": -202367831605540729,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "1杯で、この効果ですから……。\r\n……私も……今日は半分に、します。",
             "enText": "It's only one cup, and it has this effect.\n… I'm also… halfway through\ntoday, will do.",
             "nextBlock": 7,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 3229807910222439932
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -2960085835899118572
+                }
+            ],
             "pathId": -6927137595917192556,
             "blockIdx": 6
         },
@@ -72,8 +138,20 @@
             "jpText": "素直すぎる性格のせいか、\r\nたった1杯だけで寝不足になってしまう\nサクラバクシンオーなのであった……。",
             "enText": "Perhaps because of her overly honest nature,\nSakura Bakushin-o is unable to sleep well\nafter just one drink…",
             "nextBlock": -1,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -5092866403970464476
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -2445195395817672688
+                }
+            ],
             "pathId": -7610677501424014952,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669945719
 }

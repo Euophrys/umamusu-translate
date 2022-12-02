@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QAKHKU6V23JZYT2PCMAVBCC75PP3KKPS",
     "type": "story",
     "storyId": "501041509",
@@ -11,6 +11,17 @@
             "jpText": "バク、シン……\r\nバ、ク……シィィ……ぐふっ！",
             "enText": "Bak, sin… bak, k…\nsii… guffaw!",
             "nextBlock": 2,
+            "origClipLength": 174,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 8686379562161313605
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -2258151189373750020
+                }
+            ],
             "pathId": 3625119546821609980,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "……ご、5歩進むのが限界、\r\nですとぉ……！？",
             "enText": "… you can't go more than\nfive steps. Oh…?",
             "nextBlock": 3,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -3575072771665532416
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -1134189796773309695
+                }
+            ],
             "pathId": 5267952426430188528,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "こ、こんな姿、みなさんに\r\n見られるわけには……！",
             "enText": "I can't let you guys see\nme like this…!",
             "nextBlock": 4,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 2522819941343772726
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -8810817273694359130
+                }
+            ],
             "pathId": 551825384993666521,
             "blockIdx": 3
         },
@@ -38,6 +71,17 @@
             "jpText": "学級委員長は、\r\nバクシンしてこそぉ……ぐふっ！！",
             "enText": "The class president must be\na buckshot… Gosh!",
             "nextBlock": 5,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 3249150986688787845
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -8531203093534498668
+                }
+            ],
             "pathId": 7115158049696246278,
             "blockIdx": 4
         },
@@ -47,8 +91,20 @@
             "jpText": "相当疲労がたまっているようだ。\r\n今後の出走スケジュールを\n見直したほうがいいだろう……。",
             "enText": "It seems that she is very tired. It would\nbe better to review her running schedule\nin the future…",
             "nextBlock": -1,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -4733367219847219117
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -227930580588506428
+                }
+            ],
             "pathId": -2571321349007784973,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945713
 }

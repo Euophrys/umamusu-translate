@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "74PXURVV5FMZZSZKE4VVC3HY3OYA3F6V",
     "type": "story",
     "storyId": "830060002",
@@ -11,6 +11,7 @@
             "jpText": "ある穏やかな昼下がりのこと――",
             "enText": "It was a calm afternoon.",
             "nextBlock": 2,
+            "origClipLength": 64,
             "pathId": 6625276391153191974,
             "blockIdx": 1
         },
@@ -20,11 +21,30 @@
             "jpText": "――トレーナーさん、見つけたっ！！\r\nターボ、やったれい！",
             "enText": "—Trainer, I found it! Turbo, we did it!",
             "nextBlock": 3,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "！？",
                     "enText": "What?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -5181210020644301930
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -251079959074059329
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2825444595371595505
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 5940223754262695417
                 }
             ],
             "pathId": -8723729371213462076,
@@ -36,6 +56,25 @@
             "jpText": "あいあいさー！\r\nオマエ、じっとしてろー！",
             "enText": "Aisya! You, stay still!",
             "nextBlock": 4,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -5245179913539566881
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -4650047916344481134
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 4850598648195370666
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 1667169009696343504
+                }
+            ],
             "pathId": -6916156099401202378,
             "blockIdx": 3
         },
@@ -45,6 +84,25 @@
             "jpText": "（すぽ！）",
             "enText": "(Supo!)",
             "nextBlock": 5,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": -9135900335480051335
+                },
+                {
+                    "origLen": 10,
+                    "pathId": -4358926333224045368
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 6084755278202553519
+                },
+                {
+                    "origLen": 10,
+                    "pathId": -1672502767258613747
+                }
+            ],
             "pathId": -1029813076229678819,
             "blockIdx": 4
         },
@@ -54,11 +112,30 @@
             "jpText": "完成！　ちゃくよー型、\r\n『トレセン学園よいとこ1度はおいで』看板！",
             "enText": "Completed! It's a Chakuyo-type sign that \nsays, \"Come to Tracen Academy at least once!",
             "nextBlock": 6,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "！？何これ！？",
                     "enText": "What is this? What the hell is this?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -5216381340368145135
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -3875518215213560248
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 781159611016227157
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 979574363693412126
                 }
             ],
             "pathId": -3468861523145169157,
@@ -70,11 +147,46 @@
             "jpText": "『せんでん』隊の、着られる看板です！\r\n私がぬいぬい頑張りましたっ。",
             "enText": "This is a wearable sign for the \"Senden\" \nteam! I did the hard work of sewing it.",
             "nextBlock": 7,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "『せんでん』隊……？",
                     "enText": "The \"Senden\" team…?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3991063353637698428
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3265389276889376572
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8198514286850333967
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7742401748870092731
+                },
+                {
+                    "origLen": 171,
+                    "pathId": 7732422181493611112
+                },
+                {
+                    "origLen": 129,
+                    "pathId": -4872000332937238734
+                },
+                {
+                    "origLen": 182,
+                    "pathId": 2278857868208385764
+                },
+                {
+                    "origLen": 172,
+                    "pathId": -1836265467289217213
                 }
             ],
             "pathId": 455908586560138301,
@@ -86,6 +198,25 @@
             "jpText": "はい。ターボさん発案の学園の宣伝部隊です。\r\n本日は、その活動日となっております。",
             "enText": "Yes, sir. This is the school's advertising \nunit, the brainchild of Turbo. Today is the \nday of its activity.",
             "nextBlock": 8,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7060795861788446514
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 8542963215330570666
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -6653046406672094641
+                },
+                {
+                    "origLen": 172,
+                    "pathId": -7302427039465521494
+                }
+            ],
             "pathId": 5607086131382617554,
             "blockIdx": 7
         },
@@ -95,6 +226,33 @@
             "jpText": "これでじゅんびばんぜん！\r\n『せんでん』隊、しゅっぱつしんこーだー！",
             "enText": "That's it for the first day! The \"Senden\" \nteam is ready to launch!",
             "nextBlock": 9,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 9047098128520442086
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -3154964148253706251
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 8772687413949941785
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 290733317130927845
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2048202930540694712
+                },
+                {
+                    "origLen": 172,
+                    "pathId": -1079446275934537625
+                }
+            ],
             "pathId": 5993383002618626151,
             "blockIdx": 8
         },
@@ -104,6 +262,33 @@
             "jpText": "トレセン～学園～、よ・い・と・こ～♪\r\nいっちどは～、おいで～よ～♪♪",
             "enText": "♪ Come on, come on, come on, \ncome on, come on, come on ♪",
             "nextBlock": 10,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": 3168151544819093673
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 5999499043545537230
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -5637339340593967729
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 4789430245793633460
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 5155358779482111054
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -8236330386940332467
+                }
+            ],
             "pathId": -238346450748235342,
             "blockIdx": 9
         },
@@ -113,6 +298,33 @@
             "jpText": "ぷふっ……なんじゃその歌。\r\nアンタらといると飽きないわー。",
             "enText": "Pfft… What is that song? I can't \nget enough of you guys.",
             "nextBlock": 11,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 578069424818916940
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -7949241505451292901
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 2605208668589888650
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 4675427673265537663
+                },
+                {
+                    "origLen": 8,
+                    "pathId": -1154303646396916977
+                },
+                {
+                    "origLen": 8,
+                    "pathId": -6142969055059016265
+                }
+            ],
             "pathId": 4685470113248393443,
             "blockIdx": 10
         },
@@ -122,6 +334,25 @@
             "jpText": "こうして、突然始まった『せんでん』隊活動。\r\n悪いことではないので、見守りも兼ねて\n大人しく付き合っていると……。",
             "enText": "Thus, the \"Senden\" team activities suddenly \nstarted. It's not a bad thing, so I've been \nkeeping a watchful eye on it and going along \nwith it quietly…",
             "nextBlock": 12,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 2074402980689842479
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 8743507434387466582
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 8447427391776571581
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 5526350053423195657
+                }
+            ],
             "pathId": 6675620971875370072,
             "blockIdx": 11
         },
@@ -131,6 +362,33 @@
             "jpText": "あっ！　あそこのお店の看板！！\r\nターボたちのより目立ってる！！",
             "enText": "Ah! That's the store's sign! It \nstands out more than Turbo's!",
             "nextBlock": 13,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -2686736616977939513
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 4317454291771439784
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -1244751327754270109
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -1489498876301587796
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 5040365383558930197
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 4659328605204816800
+                }
+            ],
             "pathId": 8254034691696027327,
             "blockIdx": 12
         },
@@ -140,11 +398,30 @@
             "jpText": "くやしい～～！！\r\nトレーナー、あの看板倒してきて！",
             "enText": "I'm so sorry! Trainer, go \ntake down that sign!",
             "nextBlock": 14,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "！？",
                     "enText": "What?",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -4802660921968966993
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -5032482346609916170
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -3171471008502643724
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -8163196829072649293
                 }
             ],
             "pathId": 1408616591445646096,
@@ -156,11 +433,30 @@
             "jpText": "お待ちください。この先を考えると、我々の\r\n看板をより目立たせる方が早いかと。",
             "enText": "Please wait. Thinking about the future, I \nthought it would be quicker to make our sign \nmore prominent.",
             "nextBlock": 15,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "！？！？",
                     "enText": "What?",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 6096259096817390301
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -5178246393246538176
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 8648890256697985317
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 5983389271021704490
                 }
             ],
             "pathId": 3517152898381457640,
@@ -172,6 +468,33 @@
             "jpText": "むむ、目立たせる……目立たせる……。\r\n音を……出す……とか……？",
             "enText": "Mmm, make it stand out… make it stand out… \nPutting out sound… out … or…?",
             "nextBlock": 16,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -8717169405288320963
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -4883488628957139800
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 4420487483029363469
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -1410619890534568327
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -2418039653774927093
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -6735207971759546711
+                }
+            ],
             "pathId": -1544510881830744010,
             "blockIdx": 15
         },
@@ -181,6 +504,25 @@
             "jpText": "音！！！！\r\nターボに任せてー！！",
             "enText": "Sound ！！！！Leave it to Turbo!!!",
             "nextBlock": 17,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -5875287006714482787
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -6800404789767570866
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 7688262649814678368
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -148008415456769843
+                }
+            ],
             "pathId": -8014468409871327082,
             "blockIdx": 16
         },
@@ -190,6 +532,33 @@
             "jpText": "連れてきた！！",
             "enText": "I've got her!",
             "nextBlock": 18,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 1011006625971340935
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2157612263504447486
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 6279004245210692757
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 8684158018963339961
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 6792784424469948353
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -2714375976156533109
+                }
+            ],
             "pathId": 3420974840481351782,
             "blockIdx": 17
         },
@@ -199,6 +568,25 @@
             "jpText": "ちーっす。宣伝用の演奏っすよね？\r\n楽しそうなんで協力しますよ～！",
             "enText": "Hey. You're playing for publicity, right? It \nlooks like fun, so I'll help!",
             "nextBlock": 19,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -2519879467457713839
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 4622189377413988142
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5195832407904198089
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1597652799594820726
+                }
+            ],
             "pathId": 7065420759712243973,
             "blockIdx": 18
         },
@@ -208,6 +596,25 @@
             "jpText": "えーと……こんにちは？\r\nいや、いいのかこれは？",
             "enText": "Let's see… Hello? No, is this okay?",
             "nextBlock": 20,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 3920390206217779770
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -8831693636516706174
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5789326142279984890
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 2823771669723667576
+                }
+            ],
             "pathId": 779883242341810666,
             "blockIdx": 19
         },
@@ -217,6 +624,33 @@
             "jpText": "音を出すのは、許可が必要なのでダメですね。\r\nですが、この場合は……。",
             "enText": "You can't make a sound, because you \nneed permission to do so. But in \nthis case, you can use…",
             "nextBlock": 21,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 1994338382926127901
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -6746756219434918685
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -4720452680177340736
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 4954476355833919518
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 1862303436951232735
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 6519592762880629767
+                }
+            ],
             "pathId": 878932080819736365,
             "blockIdx": 20
         },
@@ -226,6 +660,25 @@
             "jpText": "ターボさん。この方々は、\r\nどこから連れてきたのですか？",
             "enText": "Ms. Turbo. Where did you bring \nall these people from?",
             "nextBlock": 22,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 5499736841179796494
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -3039585289653360108
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -7006906895234409894
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 2136336488136487880
+                }
+            ],
             "pathId": -8036025592478523832,
             "blockIdx": 21
         },
@@ -235,6 +688,33 @@
             "jpText": "――さあ、大盛り上がりの\r\n『ストリートライブフェス』！\n皆さん楽しんでますかーっ！",
             "enText": "—The \"Street Live Festival\" is in full \nswing! Is everyone having fun?",
             "nextBlock": 23,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": 2018585216359268769
+                },
+                {
+                    "origLen": 153,
+                    "pathId": 4409009243953233962
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 7966032184511415081
+                },
+                {
+                    "origLen": 149,
+                    "pathId": 7109113717938149385
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 8390770450935176806
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 2637707669283370404
+                }
+            ],
             "pathId": 7798087725082978275,
             "blockIdx": 22
         },
@@ -244,6 +724,25 @@
             "jpText": "ここでなんと！　あのトレセン学園から\r\nウマ娘バンドが飛び入り参加だー！！",
             "enText": "What a surprise! The Umamamusume band from \nTracen Academy has jumped in!",
             "nextBlock": 24,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -5820509890494607980
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -8546997025214073949
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -3542581327380267972
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -4074758571424053158
+                }
+            ],
             "pathId": -4244866453557050638,
             "blockIdx": 23
         },
@@ -253,6 +752,25 @@
             "jpText": "はいはいっ！　ターボたち、\r\n『せんでん』隊バンドだー！",
             "enText": "Yes, sir! Turbo and her band, \nthe \"Senden\" Corps!",
             "nextBlock": 25,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -7305100553976359619
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -8590778978941687312
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7185122254456013319
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 8901475205359699569
+                }
+            ],
             "pathId": -568749484709210856,
             "blockIdx": 24
         },
@@ -262,6 +780,25 @@
             "jpText": "ボーカル、ターボ！　ボーカル、ネイチャ！\r\nボーカル、イクノ！　ボーカル、マチタン！",
             "enText": "Vocal, Turbo! Vocals, Nature! Vocal, \nIkuno! Vocal, Machitan!",
             "nextBlock": 26,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -2034645059327360463
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -1440156743967686093
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -1851845059983024488
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 1645826967325287433
+                }
+            ],
             "pathId": 1152443160117048753,
             "blockIdx": 25
         },
@@ -271,6 +808,25 @@
             "jpText": "あとのぜんぶの楽器、知らない人たち！\r\n看板、トレーナー！　曲は――",
             "enText": "All the rest of the instruments, the \nstrangers! Signs, trainers! The song—",
             "nextBlock": 27,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -167664658910519036
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2662166671911794352
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -5329907745339779856
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -1983248831412157737
+                }
+            ],
             "pathId": -3835489690530919123,
             "blockIdx": 26
         },
@@ -280,6 +836,25 @@
             "jpText": "『トレセン学園よいとこ1度はおいで』！！",
             "enText": "\"Come to Tracen Academy at least once\"!",
             "nextBlock": 28,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1309604841913977702
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -2053626738748968302
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3079090594983905759
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1019866112986773099
+                }
+            ],
             "pathId": -4820481985319516495,
             "blockIdx": 27
         },
@@ -289,6 +864,25 @@
             "jpText": "トレセン～学園～、よ・い・と・こ～♪\r\nいっちどは～、おいで～よ～♪♪",
             "enText": "♪ Come on, come on, come on, \ncome on, come on, come on ♪",
             "nextBlock": 29,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 6833523141801171289
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 4028781320178094950
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -7554227512623608560
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -4465211077519820145
+                }
+            ],
             "pathId": -6039455313752147429,
             "blockIdx": 28
         },
@@ -298,6 +892,25 @@
             "jpText": "わははっ！　いいぞ、\r\nトレセン学園～～～～っ！！！！",
             "enText": "Hahaha! Way to go, Tracen Academy. ～～～～ ！！！！",
             "nextBlock": 30,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -8041039568872133611
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 4500719672031150242
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 6444180303298758398
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -9067163788195218148
+                }
+            ],
             "pathId": -8507469997733435330,
             "blockIdx": 29
         },
@@ -307,6 +920,41 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 31,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -5176700258955023793
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8228814714826448422
+                },
+                {
+                    "origLen": 8,
+                    "pathId": 6186008425898109918
+                },
+                {
+                    "origLen": 8,
+                    "pathId": 3563444151385726897
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -1086976289108470665
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 5771924185171011703
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -119288190790523894
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 2341503389399188690
+                }
+            ],
             "pathId": 9182387440666592463,
             "blockIdx": 30
         },
@@ -316,6 +964,25 @@
             "jpText": "なんじゃこりゃっ！？",
             "enText": "What the hell is this?",
             "nextBlock": 32,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -5565674127662230356
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -661413216313039580
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 6556055046248619915
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -8072032179346179887
+                }
+            ],
             "pathId": -2286710378569295271,
             "blockIdx": 31
         },
@@ -325,6 +992,29 @@
             "jpText": "折よくステージを使える催しがあり、\r\n助かりました。これで効率よく宣伝できます。",
             "enText": "We were fortunate to have an event where we \ncould use the stage. We can now advertise \nmore efficiently.",
             "nextBlock": 33,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 4631521594784535416
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 1381402546165228905
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -7901227698066915781
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -8915057413462818560
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5884324567663730643
+                }
+            ],
             "pathId": -966638956466986515,
             "blockIdx": 32
         },
@@ -334,11 +1024,30 @@
             "jpText": "適応力高すぎない！？\r\nちょ、トレーナーさんもなんか言って――",
             "enText": "I think you're too adaptable! Wait, what did \nyou say to the trainer?",
             "nextBlock": 34,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "…………",
                     "enText": "…",
                     "nextBlock": 34
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -2013288942137907530
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -8752695664378697787
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 9009458741372152712
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 220907552369101730
                 }
             ],
             "pathId": 5932285723905919648,
@@ -350,6 +1059,25 @@
             "jpText": "看板になりきってる！？",
             "enText": "I'm becoming a billboard!",
             "nextBlock": 35,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 8257837220926131325
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 8341334312011650332
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3633510802512047675
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 9124361781017650190
+                }
+            ],
             "pathId": 8442227417093232088,
             "blockIdx": 34
         },
@@ -359,6 +1087,33 @@
             "jpText": "ほら～ネイチャの番だよ！\r\n歌って歌って～♪",
             "enText": "It's your turn, Nature! Sing, sing, sing…",
             "nextBlock": 36,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 818670726214009211
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -991541788626886684
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 2273219254809428764
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5016152467979665604
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 4122249181675450670
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 3193648518349844002
+                }
+            ],
             "pathId": 7555373391365341310,
             "blockIdx": 35
         },
@@ -368,6 +1123,25 @@
             "jpText": "ちょ！　こっちに\r\n絡まなくていいから！！",
             "enText": "Hey! You don't need to be here!",
             "nextBlock": 37,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -544369951215285882
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3684049549847578443
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6456556321580084176
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2577302851919233401
+                }
+            ],
             "pathId": 218732393823984746,
             "blockIdx": 36
         },
@@ -377,6 +1151,33 @@
             "jpText": "ネイチャ！　『せんでん』隊のおしごとだぞ！\r\nみんな待ってるよ！　歌って歌ってー！！",
             "enText": "Nature! It's time for the Senden team! We're \nwaiting for you! Sing, sing, sing!",
             "nextBlock": 38,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -872954829148211621
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 9187845054720094113
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -2506118591025627733
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -2653998438769075648
+                },
+                {
+                    "origLen": 11,
+                    "pathId": 5939182553743312862
+                },
+                {
+                    "origLen": 11,
+                    "pathId": 3070618790059210041
+                }
+            ],
             "pathId": -8793752535194355101,
             "blockIdx": 37
         },
@@ -386,6 +1187,25 @@
             "jpText": "ぐっ、視線……！　くそぉ、\r\n傍観しようとした罰か、これが……！",
             "enText": "Gosh, look…! Damn, that's what you get for \ntrying to watch from the sidelines…!",
             "nextBlock": 39,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7212433387387228133
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 107770085183662762
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 2101350701591689675
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -9201733900873300091
+                }
+            ],
             "pathId": -8131267318046667221,
             "blockIdx": 38
         },
@@ -395,6 +1215,25 @@
             "jpText": "もうっ、こうなりゃ\r\nヤケじゃーっ！！",
             "enText": "I've had it! I've had it!",
             "nextBlock": 40,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -1058692564705937041
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 6869956414856407403
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -4113033556920063242
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -314659136347765239
+                }
+            ],
             "pathId": -3685849061515745236,
             "blockIdx": 39
         },
@@ -404,6 +1243,25 @@
             "jpText": "トレセン～学園～、よ・い・と・こ～♪\r\nいっちどは～、おいで～よ～♪♪",
             "enText": "♪ Come on, come on, come on, \ncome on, come on, come on ♪",
             "nextBlock": 41,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -3625790813536196717
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 450328513668879858
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 1423234674844435255
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -1548119028083643414
+                }
+            ],
             "pathId": 1224963684666112495,
             "blockIdx": 40
         },
@@ -413,8 +1271,28 @@
             "jpText": "こうして、『せんでん』隊のステージは\r\n大盛り上がり。見事、学園の楽しさを\n伝えることに成功したのだっ……た？",
             "enText": "In this way, the \"Senden\" team's stage was a \ngreat success. They succeeded in conveying \nthe fun of the school…?",
             "nextBlock": -1,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -7045907493845993422
+                },
+                {
+                    "origLen": 144,
+                    "pathId": -5297021202663544941
+                },
+                {
+                    "origLen": 186,
+                    "pathId": -2798484110488492099
+                },
+                {
+                    "origLen": 164,
+                    "pathId": 6917037281747064541
+                }
+            ],
             "pathId": 3369447366365874367,
             "blockIdx": 41
         }
-    ]
+    ],
+    "modified": 1669946059
 }

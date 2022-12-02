@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "RAGJ54P2NLD2S6TP4ZOLZEBWRKSDRXVM",
     "type": "story",
     "storyId": "501032420",
@@ -11,6 +11,17 @@
             "jpText": "データの収集を兼ねた『弥生賞』を\r\n走り終えたアグネスタキオン。",
             "enText": "Agnes Tachyon finished the \"Yayoi-sho\",\nwhich was also a data collection race.",
             "nextBlock": 2,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -2853529580503627918
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -1734088982342837831
+                }
+            ],
             "pathId": 8959851504398786651,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "彼女はレースの結果から、『皐月賞』に\r\nむけてしっかりとした準備をしなければ\nならないと呟き、帰宅してしまう。",
             "enText": "She mumbles to herself that she must\nprepare well for the \"Satsuki-sho\" based\non the results of the race, and goes home.",
             "nextBlock": 3,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 5929016548380960251
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 8869757821677114556
+                }
+            ],
             "pathId": 2292973734922051998,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "考えを巡らせている様子のアグネスタキオン。\r\nだが、彼女が何を考えているのか……\nトレーナーに明かされることはなかった。",
             "enText": "Agnes Tachyon seemed to be lost in\nthought. But what she was thinking about\nwas never revealed to the… trainer.",
             "nextBlock": -1,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 186,
+                    "pathId": 6039575262405063451
+                },
+                {
+                    "origLen": 170,
+                    "pathId": -3386575333695698907
+                }
+            ],
             "pathId": -7417897096252783440,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945581
 }

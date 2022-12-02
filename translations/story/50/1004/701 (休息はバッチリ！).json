@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "R4APLIF2MJUSBDIGI5ALWTEDK4FHL6KB",
     "type": "story",
     "storyId": "501004701",
@@ -11,6 +11,7 @@
             "jpText": "やっほー、トレーナー君！",
             "enText": "Yay, Mr. Trainer!",
             "nextBlock": 2,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "気分よさそうだな",
@@ -21,6 +22,17 @@
                     "jpText": "気分よさそうだね",
                     "enText": "You look good.",
                     "nextBlock": 3
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 9106613272579874313
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -5693723578643907864
                 }
             ],
             "pathId": -7818986330466869055,
@@ -32,6 +44,7 @@
             "jpText": "やっほー、トレーナーちゃん！",
             "enText": "Yay, little trainer!",
             "nextBlock": 3,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "気分よさそうだな",
@@ -44,6 +57,17 @@
                     "nextBlock": 3
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 8880216689997115192
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -874256559191126652
+                }
+            ],
             "pathId": -5988387811994117713,
             "blockIdx": 2
         },
@@ -53,6 +77,17 @@
             "jpText": "モチのロン！\n昨日はとっても良く寝られたの。",
             "enText": "Of course! I slept really well last night.",
             "nextBlock": 4,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 2506378367299235339
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3296434145282770879
+                }
+            ],
             "pathId": 7956594018149698271,
             "blockIdx": 3
         },
@@ -62,6 +97,17 @@
             "jpText": "早く起きて、\nちょっとドライブしてきちゃったわ♪",
             "enText": "I woke up early. I went\nfor a little drive.",
             "nextBlock": 5,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -4275912204549487444
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -4977937415963159103
+                }
+            ],
             "pathId": 8635458978663741902,
             "blockIdx": 4
         },
@@ -71,6 +117,17 @@
             "jpText": "朝の気持ちいい風をいっぱい浴びたから、\nさらに元気モリモリよ！",
             "enText": "I'm even more energetic now that\nI've had a nice morning breeze!",
             "nextBlock": 6,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 5298090789237466493
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 7090665347357042721
+                }
+            ],
             "pathId": 438210539549885244,
             "blockIdx": 5
         },
@@ -80,8 +137,20 @@
             "jpText": "さあ、今日もかっ飛ばすわよ！",
             "enText": "Come on, we've got a big day ahead of us!",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 478104343766485462
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -9045518978979063006
+                }
+            ],
             "pathId": -6673520506275230710,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669944918
 }

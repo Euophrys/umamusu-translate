@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "W6NVRIUBYS75EGOPEEBFCW5VSRVPAXRN",
     "type": "story",
     "storyId": "801009001",
@@ -11,6 +11,7 @@
             "jpText": "朝トレの時間。\r\nひと足早くトレーニングコースへ行くと――",
             "enText": "Time for morning training. I went to the \ntraining course early.",
             "nextBlock": 2,
+            "origClipLength": 98,
             "pathId": -2636053103039524991,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "ふふっ、今日もアタシが1番乗り！\r\nやっぱりなんでも1番っていい気分ね～♪",
             "enText": "I'll be first again today! It feels so good \nto be first in everything!",
             "nextBlock": 3,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -3838370369700112681
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 8878366032834617060
+                }
+            ],
             "pathId": -4645560573462641055,
             "blockIdx": 2
         },
@@ -29,6 +41,17 @@
             "jpText": "さて、さっそく着替えてきて！\r\n思いっきり走るわよ！",
             "enText": "Now, go and get changed! We're going \nto run as fast as we can!",
             "nextBlock": 4,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -4062629943553228265
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1071163119421900880
+                }
+            ],
             "pathId": 7398589569447779453,
             "blockIdx": 3
         },
@@ -38,11 +61,22 @@
             "jpText": "ご機嫌な様子で\r\nダイワスカーレットが登校してきた。",
             "enText": "Daiwa Scarlet came to school in a good mood.",
             "nextBlock": 5,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "おはよう。朝早いね",
                     "enText": "Good morning. You're up early.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3563146300424870426
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8376574681917834636
                 }
             ],
             "pathId": -5892627724040709953,
@@ -54,6 +88,17 @@
             "jpText": "おはよ！\r\n……って、え？",
             "enText": "Good morning!… eh?",
             "nextBlock": 6,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -4644286239363321511
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3485663509813295251
+                }
+            ],
             "pathId": -2808226718354596196,
             "blockIdx": 5
         },
@@ -63,6 +108,17 @@
             "jpText": "ア、アンタ……\r\nこのアタシより先に……？",
             "enText": "Oh, you're… ahead of me here…?",
             "nextBlock": 7,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 5152043949326651822
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3119327700065172532
+                }
+            ],
             "pathId": -1047011336465775515,
             "blockIdx": 6
         },
@@ -72,6 +128,7 @@
             "jpText": "くっ……！　1番乗りだと思ったのに……！\r\nまさか2番になっちゃうなんて……！",
             "enText": "Damn it…! I thought I'd be first on the \nlist…! I never thought I'd be number two…!",
             "nextBlock": 8,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "いつもこんなに早いのか？",
@@ -87,6 +144,17 @@
                     "jpText": "2番でも充分偉いよ",
                     "enText": "Even number two is great enough.",
                     "nextBlock": 12
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 5944745112488137862
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -509790627379055124
                 }
             ],
             "pathId": -8457887284976863955,
@@ -98,6 +166,7 @@
             "jpText": "くっ……！　1番乗りだと思ったのに……！\r\nまさか2番になっちゃうなんて……！",
             "enText": "Damn it…! I thought I'd be first on the \nlist…! I never thought I'd be number two…!",
             "nextBlock": 9,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "いつもこんなに早いのか？",
@@ -115,6 +184,17 @@
                     "nextBlock": 12
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -5315988982143836430
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 5592407615190211409
+                }
+            ],
             "pathId": 2265704194159628329,
             "blockIdx": 8
         },
@@ -124,6 +204,17 @@
             "jpText": "……そうよ。朝活ってやつね。\r\n今日はアンタに先越されちゃったけど。",
             "enText": "… That's right. It's a morning activity. You \nbeat me to it today, though.",
             "nextBlock": 10,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 2419395765110194019
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -480389210904799859
+                }
+            ],
             "pathId": 365697365676412165,
             "blockIdx": 9
         },
@@ -133,6 +224,17 @@
             "jpText": "ほら、朝は1番集中できる時間だし、\r\n人目を気にしないで思いっきり走れるでしょ。",
             "enText": "You see, mornings are the best time to \nconcentrate and you can run as hard as you \nwant without being seen.",
             "nextBlock": 11,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 7087466097558584288
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -8572478208120411426
+                }
+            ],
             "pathId": -8722687449248936055,
             "blockIdx": 10
         },
@@ -142,6 +244,17 @@
             "jpText": "アタシは1番を目指してるんだから。\r\n1番早く登校して、1番たくさん走りたいの。",
             "enText": "I want to be the best. I want to \nbe the first to arrive at school \nand I want to run the most.",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 1040430530313782347
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5094964016261830264
+                }
+            ],
             "pathId": -3900513974742172065,
             "blockIdx": 11
         },
@@ -151,6 +264,17 @@
             "jpText": "ダメ……！　ダメよ2番なんて！\r\n1番じゃないと意味ないわ！",
             "enText": "No…! No, you can't be number two! \nYou have to be number one!",
             "nextBlock": 13,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -8316595858215850482
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 2660257903695282110
+                }
+            ],
             "pathId": 4421909208296050943,
             "blockIdx": 12
         },
@@ -160,6 +284,17 @@
             "jpText": "アタシは1番じゃないと満足できないの！\r\nああ～っ、悔しい悔しい悔しい！",
             "enText": "I can't be satisfied unless I'm number \none! Ohhhh, the frustration, the frustration, \nthe frustration!",
             "nextBlock": 14,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 1561487074917756244
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4475636928798758046
+                }
+            ],
             "pathId": 1308583314714383730,
             "blockIdx": 13
         },
@@ -169,8 +304,20 @@
             "jpText": "明日は負けないわ！\r\n絶対アタシが1番乗りしてみせるんだから！",
             "enText": "I'm not going to lose tomorrow! I'm going to \nbe the first one there!",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -342666583500165636
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -5456753464645421547
+                }
+            ],
             "pathId": 9026070144258002168,
             "blockIdx": 14
         }
-    ]
+    ],
+    "modified": 1669945948
 }

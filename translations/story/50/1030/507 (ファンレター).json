@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "RS56SF3T5PKI7MS4E6GIRYEU424T6WQ5",
     "type": "story",
     "storyId": "501030507",
@@ -11,6 +11,17 @@
             "jpText": "ある日、ライスシャワーに\r\nファンレターが届いた――",
             "enText": "One day, a fan letter arrived at Rice Shower.",
             "nextBlock": 2,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8545128395940738335
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -992915438845508209
+                }
+            ],
             "pathId": -5203902330148006561,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "ライスに、ファンレター……。",
             "enText": "To Rice, fan letter…",
             "nextBlock": 3,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "よかったね！",
                     "enText": "Good for you!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 6905913308643089219
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 8787224633037081695
                 }
             ],
             "pathId": 8352751078945737178,
@@ -36,6 +58,17 @@
             "jpText": "う、うん……！",
             "enText": "Umm, yeah…!",
             "nextBlock": 4,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": 6598416629153766101
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -736210991097246518
+                }
+            ],
             "pathId": 2104899324041046816,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "でも……。\r\n…………。",
             "enText": "But…",
             "nextBlock": 5,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -8378518938892568769
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2496174368745387269
+                }
+            ],
             "pathId": 5789552711588905094,
             "blockIdx": 4
         },
@@ -54,11 +98,22 @@
             "jpText": "嬉しそうなライスシャワーの表情が、\r\nどこか不安なものに変わってしまう……。",
             "enText": "The happy expression on the Rice shower's \nface turns into a somewhat anxious one…",
             "nextBlock": 6,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "どうかしたの？",
                     "enText": "What's wrong with you?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 1235355492183113162
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7022147893815243534
                 }
             ],
             "pathId": 5444396803429360606,
@@ -70,6 +125,17 @@
             "jpText": "……ときどき、思っちゃうの。",
             "enText": "… Sometimes, I think.",
             "nextBlock": 7,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 8465012631198563224
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 3122104792850182851
+                }
+            ],
             "pathId": -693037162090525811,
             "blockIdx": 6
         },
@@ -79,6 +145,17 @@
             "jpText": "ライスを応援したせいで、\r\nこの人が不幸にならないかって――",
             "enText": "I'm just worried that rooting for Rice is \ngoing to make her unhappy.",
             "nextBlock": 8,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -1531725014792181831
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -6866079392700376598
+                }
+            ],
             "pathId": -2526500319121463500,
             "blockIdx": 7
         },
@@ -88,6 +165,17 @@
             "jpText": "ライス、そんなのイヤで……\r\n考えたくもないのに、つい……。",
             "enText": "Rice, doesn't want to do that… I don't even \nwant to think about it, but I just… do.",
             "nextBlock": 9,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 4900402468481322853
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -5497097811556951254
+                }
+            ],
             "pathId": -47682576554100713,
             "blockIdx": 8
         },
@@ -97,11 +185,23 @@
             "jpText": "お兄さま、\r\nライスはどうしたらいいのかな……。",
             "enText": "Brother, what should I do about the Rice?…",
             "nextBlock": 10,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "ファンレターの中身、みてごらん",
                     "enText": "Look at the contents of the fan letter.",
                     "nextBlock": 11
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -7540667633601113850
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -8969923677679919661
                 }
             ],
             "pathId": 5405707625787021816,
@@ -113,11 +213,23 @@
             "jpText": "お姉さま、\r\nライスはどうしたらいいのかな……。",
             "enText": "Sister, what should I do about the Rice?…",
             "nextBlock": 11,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "ファンレターの中身、みてごらん",
                     "enText": "Look at the contents of the fan letter.",
                     "nextBlock": 11
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -4540147800426760645
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -4858123762763612517
                 }
             ],
             "pathId": -1181321652637802374,
@@ -129,6 +241,17 @@
             "jpText": "中身……う、うん。",
             "enText": "What's inside… Umm, yeah.",
             "nextBlock": 12,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 4989553382004459506
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -8638900747798395810
+                }
+            ],
             "pathId": -7437770403972726256,
             "blockIdx": 11
         },
@@ -138,6 +261,17 @@
             "jpText": "……『レースでライスちゃんのがんばる姿に、\r\nたくさん勇気をもらいました』",
             "enText": "… \"Rice's efforts in the race \ngave me a lot of courage.",
             "nextBlock": 13,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -6810974695816153456
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5818031046436579467
+                }
+            ],
             "pathId": 2732044030285257339,
             "blockIdx": 12
         },
@@ -147,6 +281,17 @@
             "jpText": "『ライスちゃんの笑顔を見ると』……\r\n『いつでも温かい気持ちになれます』……。",
             "enText": "When I see Rice's smile… I always feel warm…",
             "nextBlock": 14,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -8609370238426338302
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -7823527307850497948
+                }
+            ],
             "pathId": -5193989441799554588,
             "blockIdx": 13
         },
@@ -156,6 +301,17 @@
             "jpText": "ライスの、がんばる姿……。\r\nライスの、笑顔……。",
             "enText": "Rice's hard work… Rice's, smiling face…",
             "nextBlock": 15,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 1438150587207053170
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 6141302353758407248
+                }
+            ],
             "pathId": 7972757243842971920,
             "blockIdx": 14
         },
@@ -165,6 +321,17 @@
             "jpText": "……そっか。\r\nそれを喜んでくれる人が、いるんだね。",
             "enText": "… I see. So there are people \nwho are happy about that.",
             "nextBlock": 16,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -1104853999846705622
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 372678584885225829
+                }
+            ],
             "pathId": 3044613291665438153,
             "blockIdx": 15
         },
@@ -174,6 +341,18 @@
             "jpText": "お兄さま。\r\n私、もっともっと、努力する……！",
             "enText": "Brother. I, more and more, will try…!",
             "nextBlock": 17,
+            "origClipLength": 60,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -2947370950870064957
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -1603573691032168193
+                }
+            ],
             "pathId": -9020031619229841195,
             "blockIdx": 16
         },
@@ -183,6 +362,18 @@
             "jpText": "お姉さま。\r\n私、もっともっと、努力する……！",
             "enText": "Sister. I, more and more, will try…!",
             "nextBlock": 18,
+            "origClipLength": 60,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -6057888417574411455
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -515541002889566250
+                }
+            ],
             "pathId": -3706757920225018648,
             "blockIdx": 17
         },
@@ -192,6 +383,17 @@
             "jpText": "応援してくれる人が、\r\n喜んでくれるように――",
             "enText": "I'm just trying to please the \npeople who support me.",
             "nextBlock": 19,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -8629348042841984765
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -5851396315096434433
+                }
+            ],
             "pathId": -4216757397189496619,
             "blockIdx": 18
         },
@@ -201,8 +403,20 @@
             "jpText": "ライスシャワーの瞳に\r\nやる気の炎が灯ったようだ……！",
             "enText": "I think I've lit a flame of motivation \nin Rice Shower's eyes…!",
             "nextBlock": -1,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -3218230009298632454
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 4386951948532834873
+                }
+            ],
             "pathId": -6912762985665380734,
             "blockIdx": 19
         }
-    ]
+    ],
+    "modified": 1669945554
 }

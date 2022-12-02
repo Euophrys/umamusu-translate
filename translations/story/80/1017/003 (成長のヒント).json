@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MNV6YO6I7QRFCR74E7H4MYXI7VMZPATI",
     "type": "story",
     "storyId": "801017003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nシンボリルドルフが話していた。",
             "enText": "After training, <chrname> and \nSymboli Rudolf were talking.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3550694248249660570
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4850193855188057388
+                }
+            ],
             "pathId": 8255057459057376956,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946278
 }

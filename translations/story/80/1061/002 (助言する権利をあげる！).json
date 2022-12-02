@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "SOZL77WKIQ46J7E67MXZH3PXCBPSSAB6",
     "type": "story",
     "storyId": "801061002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、トレーニングコースで――",
             "enText": "One day, on a training course—",
             "nextBlock": 2,
+            "origClipLength": 78,
             "pathId": -8957298783820906537,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "ちょっと、そこのあなた！",
             "enText": "Hey, you there!",
             "nextBlock": 3,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -5802269528254042954
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8302430360366187451
+                }
+            ],
             "pathId": 7296173670100619010,
             "blockIdx": 2
         },
@@ -29,6 +41,17 @@
             "jpText": "さっきからいい指導をしてるじゃない。\r\n見ているポイントが的確。",
             "enText": "You've been giving good guidance for a while \nnow. You know exactly what to look for.",
             "nextBlock": 4,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 2888681104941171303
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 6145456050468706917
+                }
+            ],
             "pathId": -3480673691379264584,
             "blockIdx": 3
         },
@@ -38,11 +61,22 @@
             "jpText": "だから特別に私にアドバイスをする権利を\r\nあげる。さ、身になる話を1分で済ませて？",
             "enText": "So you have a special right to give me some \nadvice. Now, do you have a minute to tell me \nsomething useful?",
             "nextBlock": 5,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "こっちもトレーニング中なんだけど……",
                     "enText": "I'm training over here too…",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 415106886981656593
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 3110159270005931746
                 }
             ],
             "pathId": 6512936383850883613,
@@ -54,6 +88,17 @@
             "jpText": "あら。このキングとディベート\r\nできるなんて滅多にない機会よ？",
             "enText": "Oh, my. It's not every day you get \nto debate the King, is it?",
             "nextBlock": 6,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 2881169406933835405
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 529867819000366762
+                }
+            ],
             "pathId": -3780851898416273524,
             "blockIdx": 5
         },
@@ -63,6 +108,17 @@
             "jpText": "その機会を逃すなんて……\r\nあるまじき行動だと思わない？",
             "enText": "To miss out on that opportunity is… \nunbecoming behaviour, don't you think?",
             "nextBlock": 7,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -2558855428333040508
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 5822156599051308827
+                }
+            ],
             "pathId": -5097148520517573292,
             "blockIdx": 6
         },
@@ -72,6 +128,7 @@
             "jpText": "なにかアドバイスをするまで彼女から\r\n解放されなさそうだ。それなら――",
             "enText": "I don't think I can get rid of her until \nI've given her some advice. Then—",
             "nextBlock": 8,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "昨今の根性論について討論する",
@@ -84,6 +141,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": -6563965313499177958
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 6402719788362715430
+                }
+            ],
             "pathId": -3812463045270946854,
             "blockIdx": 7
         },
@@ -93,6 +160,17 @@
             "jpText": "へぇ……いいわね。\r\nその内容は、確かに興味があるわ。",
             "enText": "Heh… I like that. I'm certainly interested \nin what it has to say.",
             "nextBlock": 9,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 5546738583558982915
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -5913762843915536712
+                }
+            ],
             "pathId": 4685066115607163968,
             "blockIdx": 8
         },
@@ -102,6 +180,17 @@
             "jpText": "そしてキングヘイローとしばらく話し合った。",
             "enText": "Then I talked to King Halo for a while.",
             "nextBlock": 13,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 554915304357045078
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 6771215023859415816
+                }
+            ],
             "pathId": 5185751487380180063,
             "blockIdx": 9
         },
@@ -111,6 +200,17 @@
             "jpText": "……あら、着眼点は悪くないわね。\r\n仕掛けと言えば末脚！",
             "enText": "… Oh, that's not a bad point of view. And \nspeaking of tricks, the last leg!",
             "nextBlock": 11,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 2294150055112106125
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -5213623960857764878
+                }
+            ],
             "pathId": 6441943265103065561,
             "blockIdx": 10
         },
@@ -120,6 +220,17 @@
             "jpText": "そして、このキングの武器も末脚！\r\nさあお互いに、語り合いましょう！",
             "enText": "And the King's weapon of choice is her legs! \nNow let's talk to each other!",
             "nextBlock": 12,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 1803437956602712883
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 3178601549013624957
+                }
+            ],
             "pathId": -5377781544424760115,
             "blockIdx": 11
         },
@@ -129,6 +240,17 @@
             "jpText": "そしてキングヘイローとしばらく話し合った。",
             "enText": "Then I talked to King Halo for a while.",
             "nextBlock": 13,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -5710648564143526998
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 3463882244911025862
+                }
+            ],
             "pathId": -442897143780297179,
             "blockIdx": 12
         },
@@ -138,8 +260,20 @@
             "jpText": "あら、もうこんな時間なの？\r\nそれじゃ、失礼するわね。",
             "enText": "Oh, is it that time already? If you'll \nexcuse me, I have to go.",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6739864261647728460
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 596690407733780339
+                }
+            ],
             "pathId": -8007797524796668267,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669945969
 }

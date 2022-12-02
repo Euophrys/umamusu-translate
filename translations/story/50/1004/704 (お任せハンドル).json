@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ZYRY47LNG6IO2S7C22JMVM5XIXMLVNF2",
     "type": "story",
     "storyId": "501004704",
@@ -11,6 +11,17 @@
             "jpText": "マルゼンスキーと出かけた帰り……。",
             "enText": "On the way back from an outing\nwith Maruzensky: …",
             "nextBlock": 2,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 5002965251024117730
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5312968702171021628
+                }
+            ],
             "pathId": 560456640481284518,
             "blockIdx": 1
         },
@@ -20,6 +31,21 @@
             "jpText": "あら？　あんなところに、\nレンタカーのお店なんてあったのね。",
             "enText": "Oh? I didn't know there was\na car rental store there.",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 3387796826313814330
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -7750251756054778939
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 8090870063440603785
+                }
+            ],
             "pathId": -6208024222167946699,
             "blockIdx": 2
         },
@@ -29,6 +55,21 @@
             "jpText": "彼女の視線の先には、様々な車が\n置かれているレンタカーショップがあった。",
             "enText": "She saw a car rental store\nwith a variety of cars.",
             "nextBlock": 4,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -3207095790614291805
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7611507141617097856
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7603360090384108670
+                }
+            ],
             "pathId": 7412559141005726094,
             "blockIdx": 3
         },
@@ -38,6 +79,21 @@
             "jpText": "あたしにはタッちゃんがいるから、\nあんまり気にしたことなかったわ。",
             "enText": "I have Tacchan, so I never really paid\nmuch attention to it.",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 838318246660724210
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1902373395237442532
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1806887537810356253
+                }
+            ],
             "pathId": -3628676283015364719,
             "blockIdx": 4
         },
@@ -47,6 +103,21 @@
             "jpText": "レンタカーかぁ……。",
             "enText": "Renting a car…",
             "nextBlock": 6,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 6762900825987767352
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 5525490262307944645
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 584942462001103921
+                }
+            ],
             "pathId": -2537270145561881409,
             "blockIdx": 5
         },
@@ -56,6 +127,21 @@
             "jpText": "……そうだ！",
             "enText": "… That's right!",
             "nextBlock": 7,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -1515730601334791960
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -5965501263702407607
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -8615822988523135515
+                }
+            ],
             "pathId": -1377694803519966556,
             "blockIdx": 6
         },
@@ -65,6 +151,7 @@
             "jpText": "ねえトレーナー君、\n車を借りて運転してみない？",
             "enText": "Hey, trainer, why don't you\nrent a car and drive it?",
             "nextBlock": 8,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "俺が？",
@@ -75,6 +162,17 @@
                     "jpText": "私が？",
                     "enText": "I do?",
                     "nextBlock": 9
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 232286025836277820
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -6626669221068522564
                 }
             ],
             "pathId": -7070492616669641646,
@@ -86,6 +184,7 @@
             "jpText": "ねえトレーナーちゃん、\n車を借りて運転してみない？",
             "enText": "Hey, Trainer, why don't you\nrent a car and drive it?",
             "nextBlock": 9,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "俺が？",
@@ -98,6 +197,17 @@
                     "nextBlock": 9
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 5251794304506491259
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 6448072816945501617
+                }
+            ],
             "pathId": 8243325512381345147,
             "blockIdx": 8
         },
@@ -107,6 +217,18 @@
             "jpText": "そう！　たまにはトレーナー君の運転で、\nドライブしてみたいな～って♪",
             "enText": "Yes! I'd like to go for a drive\nwith my trainer sometimes…",
             "nextBlock": 10,
+            "origClipLength": 89,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -811719952903565530
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2993619478313069782
+                }
+            ],
             "pathId": 8816223336404215781,
             "blockIdx": 9
         },
@@ -116,6 +238,18 @@
             "jpText": "そう！　たまにはトレーナーちゃんの運転で、\nドライブしてみたいな～って♪",
             "enText": "Yes! I'd like to go for a\ndrive with my trainer.",
             "nextBlock": 11,
+            "origClipLength": 91,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -7147995029690104561
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 3249704335399844361
+                }
+            ],
             "pathId": 5088679685236814505,
             "blockIdx": 10
         },
@@ -125,6 +259,7 @@
             "jpText": "少し意外だった。ドライブの時は必ず\n彼女が運転してくれるので、ハンドルは\n譲りたくないのだと思っていたが……。",
             "enText": "I was a little surprised. I thought she\ndidn't want to take the wheel because she\nalways drives me when we go for a drive…",
             "nextBlock": 12,
+            "origClipLength": 116,
             "choices": [
                 {
                     "jpText": "運転してもいいのか？",
@@ -137,6 +272,16 @@
                     "nextBlock": 12
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -6470974449519602609
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -3423022960082140973
+                }
+            ],
             "pathId": -4149324914299334661,
             "blockIdx": 11
         },
@@ -146,6 +291,17 @@
             "jpText": "モチのロン！",
             "enText": "Of course!",
             "nextBlock": 13,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -3131722112551222595
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -755841293441933756
+                }
+            ],
             "pathId": -623651829539738919,
             "blockIdx": 12
         },
@@ -155,6 +311,17 @@
             "jpText": "運転は当然大好きだけど、\n乗ってるだけなのも同じくらい好きよ。",
             "enText": "I love driving, of course, but I love\njust being in the car just as much.",
             "nextBlock": 14,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 633334292188555359
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -487872073542834393
+                }
+            ],
             "pathId": 6411532715956745390,
             "blockIdx": 13
         },
@@ -164,11 +331,26 @@
             "jpText": "お父さんの運転で色々出かけたのが、\nドライブ好きの原点だったりするしね！",
             "enText": "My dad drove me around a lot, and that's\nwhen my love of driving began!",
             "nextBlock": 15,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "……スピード好きの原点だったりもする？",
                     "enText": "… Is it also the origin of your love of speed?",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -4810384190773932900
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6092719790012219937
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -5804992891572121218
                 }
             ],
             "pathId": -1410825491790044035,
@@ -180,6 +362,17 @@
             "jpText": "ビンゴ！\nお父さんから受け継いだ性質ってわけ♪",
             "enText": "Bingo! It's a trait I inherited\nfrom my father.",
             "nextBlock": 16,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 7000450920861030933
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -8610406271445684502
+                }
+            ],
             "pathId": 5845749762331929069,
             "blockIdx": 15
         },
@@ -189,6 +382,21 @@
             "jpText": "お父さんの運転、アトラクションみたいで、\nどんな娯楽より楽しかったわ～。",
             "enText": "Dad's driving was like an attraction,\nmore fun than any entertainment.",
             "nextBlock": 17,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -9062655316537543685
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 5006741489880531377
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -3825211031586759193
+                }
+            ],
             "pathId": 1387418637901544015,
             "blockIdx": 16
         },
@@ -198,6 +406,21 @@
             "jpText": "あ、けど渋滞も好きだったな。\nその分、たくさんお喋りできるでしょ？",
             "enText": "Oh, but I liked the traffic. That\nway, we could talk a lot, right?",
             "nextBlock": 18,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -5931526017834158953
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 8545798199005793466
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -610630678723699291
+                }
+            ],
             "pathId": -91086327624408274,
             "blockIdx": 17
         },
@@ -207,6 +430,17 @@
             "jpText": "大切な人とのドライブなら、\n一緒に乗ってるだけで幸せなのよね。",
             "enText": "When you're driving with someone\nyou love, you're happy just being\nin the car with them.",
             "nextBlock": 19,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -2703560555371301367
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 6742493837052231190
+                }
+            ],
             "pathId": 2980479857861940340,
             "blockIdx": 18
         },
@@ -216,11 +450,23 @@
             "jpText": "だからトレーナー君に、\nハンドルを任せてみたいんだけど～……？",
             "enText": "So, I'd like to let your trainer\ntake the wheel at …?",
             "nextBlock": 20,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "わかった！",
                     "enText": "Okay, okay!",
                     "nextBlock": 21
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -4581057443035700610
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7356674398208680726
                 }
             ],
             "pathId": 9003512022828925589,
@@ -232,11 +478,23 @@
             "jpText": "だからトレーナーちゃんに、\nハンドルを任せてみたいんだけど～……？",
             "enText": "That's why I'd like to let my\ntrainer take the wheel - …?",
             "nextBlock": 21,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "わかった！",
                     "enText": "Okay, okay!",
                     "nextBlock": 21
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -2979106002502549464
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -6437800059578676507
                 }
             ],
             "pathId": -1049957681039558032,
@@ -248,6 +506,17 @@
             "jpText": "やった♪",
             "enText": "Yeah.",
             "nextBlock": 22,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -6603945692354938260
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -1047071169296847352
+                }
+            ],
             "pathId": 7131789844906988148,
             "blockIdx": 21
         },
@@ -257,6 +526,7 @@
             "jpText": "どんな運転をしてくれるのか、楽しみだわ～。",
             "enText": "I can't wait to see what kind\nof driving you'll do!",
             "nextBlock": 23,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "（飛ばしてみよう！）",
@@ -274,6 +544,16 @@
                     "nextBlock": 47
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 2119352662201538185
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -8797760318098306696
+                }
+            ],
             "pathId": -7607742093948698539,
             "blockIdx": 22
         },
@@ -283,6 +563,18 @@
             "jpText": "頼んだわよ、トレーナー君♪\nあたしは後ろから見守ってるわ！",
             "enText": "I'll be watching from the back!",
             "nextBlock": 24,
+            "origClipLength": 82,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -4000422873310966639
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3619581539743404
+                }
+            ],
             "pathId": -3891783200482289456,
             "blockIdx": 23
         },
@@ -292,6 +584,18 @@
             "jpText": "頼んだわよ、トレーナーちゃん♪\nあたしは後ろから見守ってるわ！",
             "enText": "I'll be watching from the back! ",
             "nextBlock": 25,
+            "origClipLength": 85,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 5782781618253627962
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -4185339085967687055
+                }
+            ],
             "pathId": 7545512158370600151,
             "blockIdx": 24
         },
@@ -301,6 +605,17 @@
             "jpText": "（ブォォォォン……！）",
             "enText": "(Boo-hoo-hoo! …!)",
             "nextBlock": 26,
+            "origClipLength": 137,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -3706561966994211169
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 1454745084022031461
+                }
+            ],
             "pathId": 606567008997785826,
             "blockIdx": 25
         },
@@ -310,6 +625,7 @@
             "jpText": "ヒューッ♪\nすっごくあたし好みのスピードだわ！",
             "enText": "That's just the kind of speed I like!",
             "nextBlock": 27,
+            "origClipLength": 75,
             "pathId": 1858884172661440416,
             "blockIdx": 26
         },
@@ -319,6 +635,7 @@
             "jpText": "そのまま、かっ飛ばしちゃって～！",
             "enText": "Keep it up and let it fly!",
             "nextBlock": 28,
+            "origClipLength": 65,
             "pathId": 5595588628123090342,
             "blockIdx": 27
         },
@@ -328,6 +645,17 @@
             "jpText": "――は～っ、気持ちよかった！\n後ろにも風がビュンビュン吹き込んで！",
             "enText": "――Wow, that felt good! And the wind was\nblowing in behind me!",
             "nextBlock": 29,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": -6902552490353798054
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 986122710440600435
+                }
+            ],
             "pathId": 6805426897842808326,
             "blockIdx": 28
         },
@@ -337,6 +665,17 @@
             "jpText": "さっすがあたしの相棒君！\nイケイケの運転だったわ～！",
             "enText": "That's my buddy! She was\ndriving like a champ!",
             "nextBlock": 30,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -1546790141074781062
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4741509125336784112
+                }
+            ],
             "pathId": 8486481021398809660,
             "blockIdx": 29
         },
@@ -346,6 +685,17 @@
             "jpText": "ハイタッチしましょ、\nハイタッチ！",
             "enText": "Let's high five. High five!",
             "nextBlock": 31,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -2486272322157581798
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -5906174787856604430
+                }
+            ],
             "pathId": -829082162517541336,
             "blockIdx": 30
         },
@@ -355,6 +705,17 @@
             "jpText": "イェーイ☆",
             "enText": "Yay!",
             "nextBlock": 32,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -8073739851503127704
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -7162172882473202885
+                }
+            ],
             "pathId": -2784335828653169690,
             "blockIdx": 31
         },
@@ -364,6 +725,7 @@
             "jpText": "マルゼンスキーの好みに合わせた運転で、\nとても喜んでもらえた。",
             "enText": "She was very pleased with the way I drove\nthe car, which suited Maruzensky's tastes.",
             "nextBlock": -1,
+            "origClipLength": 85,
             "pathId": -4446324074169997397,
             "blockIdx": 32
         },
@@ -373,6 +735,18 @@
             "jpText": "頼んだわよ、トレーナー君♪\nあたしは後ろから見守ってるわ！",
             "enText": "I'll be watching from the back!",
             "nextBlock": 34,
+            "origClipLength": 82,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -2257213286868503929
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 6881942545250218796
+                }
+            ],
             "pathId": -2892768024952579374,
             "blockIdx": 33
         },
@@ -382,6 +756,18 @@
             "jpText": "頼んだわよ、トレーナーちゃん♪\nあたしは後ろから見守ってるわ！",
             "enText": "I'll be watching from the back! ",
             "nextBlock": 35,
+            "origClipLength": 85,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 473156604684481195
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -3667711210381165121
+                }
+            ],
             "pathId": -2494415874678274472,
             "blockIdx": 34
         },
@@ -391,6 +777,17 @@
             "jpText": "（ブルルル……）",
             "enText": "(Brrrr …)",
             "nextBlock": 36,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -6826820499216278728
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 1230150547797101697
+                }
+            ],
             "pathId": 4280062059198392808,
             "blockIdx": 35
         },
@@ -400,6 +797,7 @@
             "jpText": "あら、渋滞にハマッちゃったわね。\nこりゃ結構かかりそ～。",
             "enText": "Oh, we're stuck in traffic, aren't we?\nThis is going to take a while.",
             "nextBlock": 37,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "じゃあ、たくさん話せるな",
@@ -421,6 +819,7 @@
             "jpText": "……ああ～、なるほど♪\nあたしが、渋滞も好きって言ったから……。",
             "enText": "… Ah, I see… I said I like\ntraffic jams too…",
             "nextBlock": 38,
+            "origClipLength": 86,
             "pathId": 4126159255931955932,
             "blockIdx": 37
         },
@@ -430,6 +829,7 @@
             "jpText": "ふふっ、ニクい計らいだわぁ。\nお望み通り、いっぱい話しましょっか♪",
             "enText": "That's a nice plan. Shall we\ntalk a lot, as you wish?",
             "nextBlock": 39,
+            "origClipLength": 88,
             "pathId": -1011111344611058765,
             "blockIdx": 38
         },
@@ -439,6 +839,17 @@
             "jpText": "――ふぅ……。\nすっかり夜になっちゃったわね。",
             "enText": "――Huh… It's all night now.",
             "nextBlock": 40,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 6664574655945932515
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -1671203563502826568
+                }
+            ],
             "pathId": 1059119869014673939,
             "blockIdx": 39
         },
@@ -448,6 +859,21 @@
             "jpText": "けど、他愛ない話をたくさんして……\n充分楽しめたわ。",
             "enText": "But we talked about a lot of other things,\nand … I enjoyed it a lot.",
             "nextBlock": 41,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 6189850463511877239
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -9210513122650606621
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3280906709980199056
+                }
+            ],
             "pathId": -2500911242036265530,
             "blockIdx": 40
         },
@@ -457,6 +883,22 @@
             "jpText": "トレーナー君の後ろ姿も、\nたくさん見つめられたし……なんて♪",
             "enText": "I got to stare at the back of the\ntrainer's head a lot…",
             "nextBlock": 42,
+            "origClipLength": 84,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 2482318494848898609
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 1552057071572315503
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -8993672083504437403
+                }
+            ],
             "pathId": -3896986393722787347,
             "blockIdx": 41
         },
@@ -466,6 +908,22 @@
             "jpText": "トレーナーちゃんの後ろ姿も、\nたくさん見つめられたし……なんて♪",
             "enText": "I got a lot of stares at the\nback of my trainer's head…",
             "nextBlock": 43,
+            "origClipLength": 86,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 2006807799058691512
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -8502625595410811807
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -7613026873113752169
+                }
+            ],
             "pathId": 8574203588111394286,
             "blockIdx": 42
         },
@@ -475,6 +933,22 @@
             "jpText": "今はまっすぐ、君を見ておくわ。",
             "enText": "I'll keep my eyes straight on you for now.",
             "nextBlock": 44,
+            "origClipLength": 64,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -3311679235730462378
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 1268741370739107465
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4438988294352617787
+                }
+            ],
             "pathId": 3667478914641918781,
             "blockIdx": 43
         },
@@ -484,6 +958,22 @@
             "jpText": "今はまっすぐ、あなたを見ておくわ。",
             "enText": "I'll keep my eyes straight on you for now.",
             "nextBlock": 45,
+            "origClipLength": 67,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 9092276143794482574
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 8134164949195118923
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -7500761864749500551
+                }
+            ],
             "pathId": -1474063738577248035,
             "blockIdx": 44
         },
@@ -493,6 +983,21 @@
             "jpText": "ふふ……♪",
             "enText": "Fufu…♪",
             "nextBlock": 46,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 5830432521328452406
+                },
+                {
+                    "origLen": 10,
+                    "pathId": -2400500109622714846
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 502498570177939372
+                }
+            ],
             "pathId": -408498644243648027,
             "blockIdx": 45
         },
@@ -502,6 +1007,17 @@
             "jpText": "……こうして、しばらく海を眺めながら、\nマルゼンスキーとお喋りを続けたのだった。",
             "enText": "… Thus, I continued to chat\nwith Maruzensky for a while,\nlooking out at the sea.",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -4221542247237880873
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6593486608347050511
+                }
+            ],
             "pathId": 9051537995770410455,
             "blockIdx": 46
         },
@@ -511,6 +1027,18 @@
             "jpText": "頼んだわよ、トレーナー君♪\nあたしは後ろから見守ってるわ！",
             "enText": "I'll be watching from the back!",
             "nextBlock": 48,
+            "origClipLength": 82,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -2501365351943003153
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 982537104093860235
+                }
+            ],
             "pathId": -1989351918441898651,
             "blockIdx": 47
         },
@@ -520,6 +1048,18 @@
             "jpText": "頼んだわよ、トレーナーちゃん♪\nあたしは後ろから見守ってるわ！",
             "enText": "I'll be watching from the back! ",
             "nextBlock": 49,
+            "origClipLength": 85,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 5920402077716795627
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -4388524507642678099
+                }
+            ],
             "pathId": -5764397098294052236,
             "blockIdx": 48
         },
@@ -529,6 +1069,17 @@
             "jpText": "（ブルルルル……）",
             "enText": "(Brrrr…)",
             "nextBlock": 50,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 7307111950137379614
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 9019472333586367324
+                }
+            ],
             "pathId": 473723853892879798,
             "blockIdx": 49
         },
@@ -538,6 +1089,7 @@
             "jpText": "あら……すごくのんびり屋さんね。\nあたしの運転とは真逆だわ。",
             "enText": "Oh, …, you're so laid back. It's the\ncomplete opposite of my driving style.",
             "nextBlock": 51,
+            "origClipLength": 84,
             "pathId": 3527349577199093180,
             "blockIdx": 50
         },
@@ -547,6 +1099,7 @@
             "jpText": "けど……これはこれで、\nホッとするっていうか……。",
             "enText": "But … is a relief… is a relief.",
             "nextBlock": 52,
+            "origClipLength": 77,
             "pathId": 3554002540327595386,
             "blockIdx": 51
         },
@@ -556,6 +1109,7 @@
             "jpText": "…………――すぅ。",
             "enText": "…――suh.",
             "nextBlock": 53,
+            "origClipLength": 154,
             "pathId": 6582166147557400247,
             "blockIdx": 52
         },
@@ -565,6 +1119,21 @@
             "jpText": "……ご、ごめんね？\n途中、ちょっと寝ちゃったわ。",
             "enText": "… I'm sorry, okay? I kind of\nfell asleep in the middle of it.",
             "nextBlock": 54,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -8854141206442099539
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -8745995893761748709
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 9213382966004914971
+                }
+            ],
             "pathId": -6605642942138868404,
             "blockIdx": 53
         },
@@ -574,11 +1143,27 @@
             "jpText": "トレーナー君の運転、\nすごく優しくて……安心しちゃったみたい。",
             "enText": "The trainer's driving was so gentle that\nit made her … feel at ease.",
             "nextBlock": 55,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "のんびりできたならよかった",
                     "enText": "I'm glad you were able to relax.",
                     "nextBlock": 56
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -1865478271909034167
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 7932659578754384384
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2087081591943076563
                 }
             ],
             "pathId": 3302664993448938819,
@@ -590,11 +1175,27 @@
             "jpText": "トレーナーちゃんの運転、\nすごく優しくて……安心しちゃったみたい。",
             "enText": "The trainer's driving was so gentle that\nit made her … feel at ease.",
             "nextBlock": 56,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "のんびりできたならよかった",
                     "enText": "I'm glad you were able to relax.",
                     "nextBlock": 56
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -1996364479426023598
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6931550899616303352
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8981513086843254377
                 }
             ],
             "pathId": -4912161413997048030,
@@ -606,6 +1207,17 @@
             "jpText": "うん、すっごくゆっくりできたわ。\n子どもの頃を思い出しちゃった。",
             "enText": "Yeah, it was really relaxing. It reminded\nme of when I was a child.",
             "nextBlock": 57,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -8276449145246786456
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -4112726170347952945
+                }
+            ],
             "pathId": 1722667058291061418,
             "blockIdx": 56
         },
@@ -615,6 +1227,17 @@
             "jpText": "たまにはのんびりも、\n悪くないって思ったわ。",
             "enText": "I realized that it's not so bad to\ntake it easy once in a while.",
             "nextBlock": 58,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 8991616246683738585
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 9039712620900391832
+                }
+            ],
             "pathId": -5120478504720338595,
             "blockIdx": 57
         },
@@ -624,6 +1247,17 @@
             "jpText": "――けど帰りは、\nあたしに任せてっ！",
             "enText": "――But I'll take care of the ride home!",
             "nextBlock": 59,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 5190262483021280810
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 167035689264302410
+                }
+            ],
             "pathId": 4760807338133287142,
             "blockIdx": 58
         },
@@ -633,6 +1267,21 @@
             "jpText": "目の覚めるような運転で、\n送り届けてあげるっ！",
             "enText": "I'm going to give you an\neye-opening ride home!",
             "nextBlock": 60,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -7458244408553816486
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -2287028089102332265
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 3271179970863801132
+                }
+            ],
             "pathId": 4318890356928961370,
             "blockIdx": 59
         },
@@ -642,8 +1291,20 @@
             "jpText": "穏やかな時間も、狂気のスピードも、\nどちらも楽しめるドライブとなった……。",
             "enText": "It was a drive to enjoy both the calm\nand the crazy speed of …",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -5979678956332822353
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -2397614687836385406
+                }
+            ],
             "pathId": -7445684375007205821,
             "blockIdx": 60
         }
-    ]
+    ],
+    "modified": 1669944920
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "WRCGNUDMTZTMCIZIH5XYHBRDDQFQRXBH",
     "type": "story",
     "storyId": "501040734",
@@ -11,11 +11,26 @@
             "jpText": "勝った……。",
             "enText": "Winner…",
             "nextBlock": 2,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "おめでとう！",
                     "enText": "Congratulations!",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 2217725320455443395
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -9046886651361227702
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 6023579727122710393
                 }
             ],
             "pathId": 6531476874637445586,
@@ -27,6 +42,7 @@
             "jpText": "……なんか、変な感じだけど。\r\n気持ちの収まりどころがないっていうか。",
             "enText": "… something, but it's weird. I don't \nknow where to put my feelings.",
             "nextBlock": 3,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "でも勝ったのは君だ",
@@ -47,6 +63,21 @@
                     "jpText": "あえて収める必要はないよ",
                     "enText": "You don't have to dare to fit it in.",
                     "nextBlock": 7
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 5172059375557339530
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -3981428163180712691
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -6377396897007906238
                 }
             ],
             "pathId": -3778633719038521688,
@@ -58,6 +89,7 @@
             "jpText": "……なんか、変な感じだけど。\r\n気持ちの収まりどころがないっていうか。",
             "enText": "… something, but it's weird. I don't \nknow where to put my feelings.",
             "nextBlock": 4,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "でも勝ったのは君だ",
@@ -80,6 +112,21 @@
                     "nextBlock": 7
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 4948854605991267948
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -3965140215763632373
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1726511563796419599
+                }
+            ],
             "pathId": 8850560894554324513,
             "blockIdx": 3
         },
@@ -89,6 +136,17 @@
             "jpText": "そう……だよね。",
             "enText": "Yes… right?",
             "nextBlock": 5,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -2851651446469562409
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 1179790572451333943
+                }
+            ],
             "pathId": 1393164627955807146,
             "blockIdx": 4
         },
@@ -98,6 +156,17 @@
             "jpText": "自分の実力で、\r\nアタシが勝ったってこと。",
             "enText": "I won on my own merits.",
             "nextBlock": 6,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 8571216893622528008
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 7092198414655596872
+                }
+            ],
             "pathId": -4420926530449057996,
             "blockIdx": 5
         },
@@ -107,6 +176,17 @@
             "jpText": "見たか！　って気持ち、もうないけど。\r\nちゃんと走れて、よかった……。",
             "enText": "Did you see that! I don't have that \nfeeling anymore, though. I'm glad \nI got a proper run…",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 6022745839966285020
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 3119341803042536896
+                }
+            ],
             "pathId": 6461932713862992946,
             "blockIdx": 6
         },
@@ -116,6 +196,17 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 8,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 4285244565428647856
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5392508334469361394
+                }
+            ],
             "pathId": 6083138632591464489,
             "blockIdx": 7
         },
@@ -125,6 +216,17 @@
             "jpText": "でもこのまま変な感じなのは、イヤ。",
             "enText": "But I don't want to be weird like this.",
             "nextBlock": 9,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 2159561120961698883
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -5885146371966628998
+                }
+            ],
             "pathId": -3702456206204535634,
             "blockIdx": 8
         },
@@ -134,8 +236,20 @@
             "jpText": "一応、嬉しいってことで……\r\n収めとこう、かな。",
             "enText": "In the meantime, I'll just say I'm \nhappy and put it under…",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -3547015145153100271
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 2906421771926749111
+                }
+            ],
             "pathId": 3547696764713292964,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945694
 }

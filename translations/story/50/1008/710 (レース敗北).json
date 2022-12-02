@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CFMN4WUO6ATYQ7ARB4OH7IYTW2RSNQNO",
     "type": "story",
     "storyId": "501008710",
@@ -11,6 +11,17 @@
             "jpText": "――くぅ～～～っ！\r\n負けちまったぁ……！",
             "enText": "—Oh, no! I've lost…!",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 5613430493683023506
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -2532503341573843788
+                }
+            ],
             "pathId": 2314561816533696644,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "どいつもこいつもぶっちぎって、\r\n1着で決めるつもりだったのによぉ……！",
             "enText": "I was going to beat them all to the punch and \ntake first place…!",
             "nextBlock": 3,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -9005548077410102261
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -1708912045183333063
+                }
+            ],
             "pathId": -4855581592194879183,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "悪ぃな、トレーナー。\r\nダッセぇ姿を見せちまったぜ……。",
             "enText": "Sorry, trainer. I'm sorry I made \nyou look so lame…",
             "nextBlock": 4,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "また頑張りなおせばいいんだ",
@@ -49,6 +72,17 @@
                     "jpText": "でも、これで終わりじゃないでしょ？",
                     "enText": "But this isn't the end, is it?",
                     "nextBlock": 9
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 5391437336735375584
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 3534609489601919783
                 }
             ],
             "pathId": -2174192033671516212,
@@ -60,6 +94,7 @@
             "jpText": "悪ぃな、トレーナー。\r\nダッセぇ姿を見せちまったぜ……。",
             "enText": "Sorry, trainer. I'm sorry I made \nyou look so lame…",
             "nextBlock": 5,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "また頑張りなおせばいいんだ",
@@ -82,6 +117,17 @@
                     "nextBlock": 9
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -5184709423962293443
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -9010547556541692607
+                }
+            ],
             "pathId": 8775422256962296720,
             "blockIdx": 4
         },
@@ -91,6 +137,17 @@
             "jpText": "……おう。\r\nそうだな、そのとおりだ。",
             "enText": "… Oh. Yes, that's right.",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 4249115369884214195
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -9040471465976951855
+                }
+            ],
             "pathId": 2585668070384558318,
             "blockIdx": 5
         },
@@ -100,6 +157,17 @@
             "jpText": "負けちまったのは悔しいけどさ……。\r\nズルズル引きずるってのも、カッコ悪ぃ。",
             "enText": "It's frustrating to have lost, but… \nIt's not cool to drag things out.",
             "nextBlock": 7,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -7237537076167375115
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 5997586856523970042
+                }
+            ],
             "pathId": 9036990555272132127,
             "blockIdx": 6
         },
@@ -109,11 +177,22 @@
             "jpText": "言い訳するヒマがあんなら――\r\nがむしゃらにトレーニングあるのみだ！",
             "enText": "If you've got time for excuses, \nyou've got time to train hard!",
             "nextBlock": 8,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "それがいい！",
                     "enText": "That's better!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 3979584739232081507
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 4582547481541721433
                 }
             ],
             "pathId": 1376606468618943318,
@@ -125,6 +204,17 @@
             "jpText": "ヘへッ……帰ったらさっそく付き合えよな！\r\n実力とカッコよさを、もっと磨いてやらぁ！",
             "enText": "Heh… you'll have to go out with me as \nsoon as you get home! I'm going to have to \nwork on my skills and coolness!",
             "nextBlock": -1,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -735880222038166185
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7703472981053526889
+                }
+            ],
             "pathId": 6475504332864021358,
             "blockIdx": 8
         },
@@ -134,6 +224,17 @@
             "jpText": "ったく……言ってくれるじゃねーの。\r\nさすがは俺のトレーナーってトコか。",
             "enText": "I'm sure you'll be able to tell me more at \n… I'm not sure what to do, but I'm sure \nit's a good idea.",
             "nextBlock": 10,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 3505969760922458086
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 5778554720285503609
+                }
+            ],
             "pathId": 8497317679633352746,
             "blockIdx": 9
         },
@@ -143,6 +244,7 @@
             "jpText": "あったりめーだろ！　むしろこの負けで、\r\nエンジンがヒートアップしちまったぜ！",
             "enText": "Of course not! If anything, this loss is \nturning up the heat on my engine!",
             "nextBlock": 11,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "期待してるぞ、ウオッカ！",
@@ -155,6 +257,16 @@
                     "nextBlock": 11
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 7566125834633482190
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -3688314421392920454
+                }
+            ],
             "pathId": -3198303410605847998,
             "blockIdx": 10
         },
@@ -164,6 +276,17 @@
             "jpText": "おうよ！　アンタの期待と、\r\n俺の悔しさを燃料タンクにぶちこんで――",
             "enText": "Come on! I'm gonna put your expectations and \nmy frustration in the fuel tank.",
             "nextBlock": 12,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 2240319064671900089
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 5504695587964575332
+                }
+            ],
             "pathId": -9119018852033145216,
             "blockIdx": 11
         },
@@ -173,8 +296,20 @@
             "jpText": "次のレースは、俺のカッコいい走りを！\r\n存分に見せつけてやるからなッ！！",
             "enText": "Next race, I'm going to show you how cool I \nam! I'm going to show you what I can do!",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -1370452751267309223
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8333245854384748283
+                }
+            ],
             "pathId": -4952361087452995490,
             "blockIdx": 12
         }
-    ]
+    ],
+    "modified": 1669945050
 }

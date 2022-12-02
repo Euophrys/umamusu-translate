@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "2P4U4BVXDCPGHRMQ5YGGL25PI54AOC7R",
     "type": "story",
     "storyId": "501040109",
@@ -11,6 +11,7 @@
             "jpText": "今夜はクリスマス。ゴールドシチーの\nレースも一旦落ち着いたところで、\n将来のスケジュールを考えていたのだが――",
             "enText": "Tonight is Christmas. Now that the Gold City \nraces have settled in, I've been thinking \nabout my future schedule.",
             "nextBlock": 2,
+            "origClipLength": 116,
             "pathId": 7466710902618148158,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "（ブルブルブル……）",
             "enText": "(Blublublublub…)",
             "nextBlock": 3,
+            "origClipLength": 58,
             "pathId": 1437414895826348827,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "『もしもしトレーナー？　今平気？』",
             "enText": "'Hello trainer? Are you okay now?\"",
             "nextBlock": 4,
+            "origClipLength": 67,
             "pathId": -2887527693418658344,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "『あのさ、今から言うところに、\nなんも持たないで来て。今すぐ。じゃ』",
             "enText": "You know, come to the place I'm going to tell \nyou about without anything. Now. Okay.",
             "nextBlock": 5,
+            "origClipLength": 89,
             "pathId": 5251873344197878765,
             "blockIdx": 4
         },
@@ -47,6 +51,7 @@
             "jpText": "――トレーナー！",
             "enText": "―Trainer!",
             "nextBlock": 6,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
@@ -59,6 +64,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -3575919664834172415
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 3357455747787156966
+                }
+            ],
             "pathId": -7865371188280399053,
             "blockIdx": 5
         },
@@ -68,6 +83,17 @@
             "jpText": "メリークリスマス。\n……って言えば、わかる？",
             "enText": "Merry Christmas. Can you tell me…?",
             "nextBlock": 7,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -4920469299634607160
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -1893193663572393777
+                }
+            ],
             "pathId": -8485916490640426580,
             "blockIdx": 6
         },
@@ -77,6 +103,17 @@
             "jpText": "プレゼントあるから、早速だけど――",
             "enText": "I have a gift for you, and it's a quick one―",
             "nextBlock": 8,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -4608688003595023535
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3973507964493187108
+                }
+            ],
             "pathId": -5870132303974229401,
             "blockIdx": 7
         },
@@ -86,6 +123,17 @@
             "jpText": "下で着替えてきてくれる？",
             "enText": "Can you go downstairs and change?",
             "nextBlock": 9,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -2375921045024758815
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -9098762099314249925
+                }
+            ],
             "pathId": 5998665847728737573,
             "blockIdx": 8
         },
@@ -95,6 +143,17 @@
             "jpText": "言われるがまま下に降りると、\nたくさんの服が並べられた試着室に\n連れていかれ、そして――",
             "enText": "I went downstairs and was taken to \na fitting room with lots of clothes \non display, and then…",
             "nextBlock": 10,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -8767855280499042155
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 4257257929641917472
+                }
+            ],
             "pathId": -2566739222200466914,
             "blockIdx": 9
         },
@@ -104,11 +163,22 @@
             "jpText": "シチーちゃーん。\nトレーナーさん、お望み通り着せ替えたよ～。",
             "enText": "Cichy-chan. Trainer, I changed \nmy clothes as you wanted～.",
             "nextBlock": 11,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "し、シチー……",
                     "enText": "Shi, citi…",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 4190364731979172926
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -965008664952433910
                 }
             ],
             "pathId": -8227533321850649985,
@@ -120,6 +190,21 @@
             "jpText": "お……！　めっちゃイイじゃん！\nさすがのセンスだね。任せてよかったー。",
             "enText": "Oh…! That's so cool! You have a great \nsense of style. I'm glad I left it to you.",
             "nextBlock": 12,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 188,
+                    "pathId": 7187688760426023856
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -7487607146964524795
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 7627568017853771154
+                }
+            ],
             "pathId": 8361470041802371308,
             "blockIdx": 11
         },
@@ -129,6 +214,21 @@
             "jpText": "ちょっと、アタシのメイクも褒めてよ～。\n魅力を引き立てるってオーダー、\n完璧に応えたでしょ？",
             "enText": "Hey, give me a compliment on my makeup \ntoo! Didn't I fulfill your order to \nmake me more attractive?",
             "nextBlock": 13,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5977386535622736761
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -3057295841032278244
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -3948315552546717718
+                }
+            ],
             "pathId": 1698784296313330561,
             "blockIdx": 12
         },
@@ -138,6 +238,17 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 14,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 3660813636010442866
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 2781648064855828012
+                }
+            ],
             "pathId": 5606806764721102918,
             "blockIdx": 13
         },
@@ -147,6 +258,17 @@
             "jpText": "うん、ホント完璧。\nありがとうございます。",
             "enText": "Yeah, it's really perfect. \nThank you very much.",
             "nextBlock": 15,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -1084157352490768114
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -9142568002173589518
+                }
+            ],
             "pathId": -3533618247826293415,
             "blockIdx": 14
         },
@@ -156,6 +278,17 @@
             "jpText": "いいのよ～。シチーちゃんと仕事じゃない\nクリスマス過ごせるなんて、嬉しいし♪",
             "enText": "It's okay～. I'm so happy that I get to spend \nChristmas with Sichy and not work.",
             "nextBlock": 16,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 7890683554849992340
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -5948930144264224124
+                }
+            ],
             "pathId": 3271039999601601770,
             "blockIdx": 15
         },
@@ -165,6 +298,17 @@
             "jpText": "おーい、準備できた？\nじゃ、撮影はじめよっか。",
             "enText": "Hey, are you ready? Then, \nlet's start shooting.",
             "nextBlock": 17,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -7035682517062372853
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 4679462713511621006
+                }
+            ],
             "pathId": -3164947717909427370,
             "blockIdx": 16
         },
@@ -174,11 +318,22 @@
             "jpText": "はいっ！　今日はみなさん、\nお忙しい中ありがとうございます！\n短い時間ですがよろしくお願いします。",
             "enText": "Yes, sir! Thank you all for taking time out \nof your busy schedules today! Thank you very \nmuch for your time.",
             "nextBlock": 18,
+            "origClipLength": 108,
             "choices": [
                 {
                     "jpText": "撮影……？",
                     "enText": "Photography…?",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 6442848163751685611
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -5310942684067095556
                 }
             ],
             "pathId": -677638165101885807,
@@ -190,11 +345,22 @@
             "jpText": "そ。アタシからのプレゼントは、プロの撮影。",
             "enText": "So. Atashi's gift to you is a \nprofessional photo shoot.",
             "nextBlock": 19,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "ええっ！？",
                     "enText": "Eh?",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5717064202861255431
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3512372578265604029
                 }
             ],
             "pathId": -7803013458146459046,
@@ -206,6 +372,17 @@
             "jpText": "集まってくれたのは全員一流のアーティスト。\nこんな機会、モデルでもなかなかないよ？",
             "enText": "All the people gathered were top-notch \nartists. Opportunities like this don't come \nalong very often, even for models, you know?",
             "nextBlock": 20,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -1603783960507955308
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 306976892998666320
+                }
+            ],
             "pathId": -5138447672607125931,
             "blockIdx": 19
         },
@@ -215,6 +392,7 @@
             "jpText": "最高の自分、引き出してもらお。",
             "enText": "Bring out your best self.",
             "nextBlock": 21,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "無理だぞ……！？",
@@ -227,6 +405,16 @@
                     "nextBlock": 21
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -9118112907481847798
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -8416794317277068136
+                }
+            ],
             "pathId": 9051010989681765035,
             "blockIdx": 20
         },
@@ -236,6 +424,17 @@
             "jpText": "弱音は禁止ね。\nじゃ、始めちゃってください。",
             "enText": "No wimping out. Well, then, \nlet's get started.",
             "nextBlock": 22,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -789553246208413187
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3885840199966955741
+                }
+            ],
             "pathId": -1386403319605436971,
             "blockIdx": 21
         },
@@ -245,6 +444,17 @@
             "jpText": "はーい。\nトレーナーさんこっちね～。",
             "enText": "Yes, sir. This way, trainer!",
             "nextBlock": 23,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 9138713228726608511
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6100983438861866553
+                }
+            ],
             "pathId": 6760405684028551221,
             "blockIdx": 22
         },
@@ -254,6 +464,17 @@
             "jpText": "こうして、半ば強引に\n撮影が始まったのだが……。",
             "enText": "Thus, halfway through the shoot, \nthe shooting began…",
             "nextBlock": 24,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 3461052041506424332
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 3060058733422164219
+                }
+            ],
             "pathId": -282993551385097509,
             "blockIdx": 23
         },
@@ -263,11 +484,22 @@
             "jpText": "――トレーナーさん、表情硬いかも？\nライト、眩しい？　弱めてもらう？",
             "enText": "―trainer, maybe you have a hard look on your \nface? Are the lights too bright? Would you \nlike me to turn it down?",
             "nextBlock": 25,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "い、いえ……",
                     "enText": "Yes and no…",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -7329165571507823447
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -1776624795168750647
                 }
             ],
             "pathId": -3995080850397853522,
@@ -279,6 +511,17 @@
             "jpText": "……ガッチガチじゃん。\n普段、繊細さのカケラもないくせに。",
             "enText": "… You're stumped. You usually \ndon't have a shred of subtlety.",
             "nextBlock": 26,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 5382968137462943122
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -2362204008709963612
+                }
+            ],
             "pathId": 4806014616496361961,
             "blockIdx": 25
         },
@@ -288,6 +531,17 @@
             "jpText": "んー……すみません、\nちょっとだけいいですか？",
             "enText": "Hmmm… sorry, can I \njust have a quick word?",
             "nextBlock": 27,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -3969177338986579023
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 8926446316456389259
+                }
+            ],
             "pathId": 3023454686998910611,
             "blockIdx": 26
         },
@@ -297,11 +551,22 @@
             "jpText": "トレーナー、聞いて。\nアタシはここ。",
             "enText": "Trainer, listen. I'm here.",
             "nextBlock": 28,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "……？",
                     "enText": "…?",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 4599064739088875758
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -8081795874343316157
                 }
             ],
             "pathId": 4350631055176386352,
@@ -313,6 +578,17 @@
             "jpText": "とりまアタシだけ見とけってこと。\r\nそしたら周りなんて気にならないっしょ。",
             "enText": "At any rate, just look at me. Then you won't \ncare about your surroundings.",
             "nextBlock": 29,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -4370215106864812517
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6724059652472204119
+                }
+            ],
             "pathId": 3159371640286074810,
             "blockIdx": 28
         },
@@ -322,11 +598,22 @@
             "jpText": "だってアタシ以上に、\nアンタの心を奪うものなんかある？",
             "enText": "Because what could take your \nheart away more than me?",
             "nextBlock": 30,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "……！",
                     "enText": "…!",
                     "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 5195127787265342157
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -962289412184671811
                 }
             ],
             "pathId": -3664930580401316058,
@@ -338,6 +625,17 @@
             "jpText": "アンタはただ見つめるだけでいい。\r\nそしたら後は、“プロ”がどーにかするから。",
             "enText": "All you have to do is stare. The \n\"professionals\" will take care of the rest.",
             "nextBlock": 31,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": -5337800418257888789
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 5410106051911575929
+                }
+            ],
             "pathId": 5552182752226346507,
             "blockIdx": 30
         },
@@ -347,6 +645,17 @@
             "jpText": "不敵な笑みを浮かべるゴールドシチー。\n彼女を見つめていると、周りの声も\n眩いライトも気にならなくなり――",
             "enText": "Gold City with a fearless smile. Staring at \nher, you don't care about the voices around \nyou or the blinding lights.",
             "nextBlock": 32,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 7240735112695331341
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -6655038843815928779
+                }
+            ],
             "pathId": -3098726244119648395,
             "blockIdx": 31
         },
@@ -356,6 +665,17 @@
             "jpText": "――トレーナーさん、お疲れ様でした～！\n写真チェックするので、休憩どうぞ～。",
             "enText": "―Thanks for all your hard work, \ntrainer! Please take a break so \nI can check the photos～.",
             "nextBlock": 33,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 6037154021545504377
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 303186068078156628
+                }
+            ],
             "pathId": 663894847844877441,
             "blockIdx": 32
         },
@@ -365,6 +685,7 @@
             "jpText": "いつの間にか撮影は終了していた！\n見せてもらったモニターの中の自分は――\nまるで別人のように見えた。",
             "enText": "Before I knew it, the shoot was over! The \nperson I was shown on the monitor - I looked \nlike a different person.",
             "nextBlock": 34,
+            "origClipLength": 110,
             "choices": [
                 {
                     "jpText": "これ……俺ですか？",
@@ -386,6 +707,7 @@
             "jpText": "ははっ、もちろん！\nすっごくいい顔してますよ。",
             "enText": "Haha, of course! You look soooo good.",
             "nextBlock": 35,
+            "origClipLength": 75,
             "pathId": -1069050075836256630,
             "blockIdx": 34
         },
@@ -395,6 +717,7 @@
             "jpText": "きっとあなたは、何かに夢中になっている\n表情が1番美しいんでしょう。\nあの子もきっと、そう思ったのかな。",
             "enText": "You probably look most beautiful when you are \nabsorbed in something. I wonder if she \nthought so, too.",
             "nextBlock": 36,
+            "origClipLength": 112,
             "pathId": 7468063629048765411,
             "blockIdx": 35
         },
@@ -404,11 +727,22 @@
             "jpText": "――お疲れ、トレーナー。\nいい写真できたんじゃない？",
             "enText": "―Good job, trainer. I hope you \ngot some good pictures.",
             "nextBlock": 37,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "後半、ほとんど記憶がない……",
                     "enText": "The second half, I can barely \nremember…",
                     "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 2060428167310368345
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 7995694245139469391
                 }
             ],
             "pathId": 2755436559505855532,
@@ -420,11 +754,22 @@
             "jpText": "あははっ。\r\nアタシもプロの仕事したってことかな。",
             "enText": "Haha. I guess that means I did \na professional job too.",
             "nextBlock": 38,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "でも、どうしてこんなこと……？",
                     "enText": "But why is this…?",
                     "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 4274071383036831838
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -8766464358637392714
                 }
             ],
             "pathId": -1811867156975256692,
@@ -436,6 +781,17 @@
             "jpText": "……アタシがアンタにあげられる、\n1番いいモノってなんだろって考えてさ。",
             "enText": "…I was thinking about the \nbest thing I could give you.",
             "nextBlock": 39,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 6236527006047186073
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6534826812592005173
+                }
+            ],
             "pathId": -6751554602948092926,
             "blockIdx": 38
         },
@@ -445,6 +801,21 @@
             "jpText": "『自分も知らない自分』かなって、\n思ったんだよね。",
             "enText": "I thought, \"I don't even know myself.",
             "nextBlock": 40,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": -7570753401791457350
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -8186511286777131923
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 3721071200347933481
+                }
+            ],
             "pathId": -106088944864149409,
             "blockIdx": 39
         },
@@ -454,6 +825,21 @@
             "jpText": "アタシも似たようなこと、\r\nアンタに教えてもらったから。",
             "enText": "I learned something similar from you.",
             "nextBlock": 41,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8187006508441802989
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4133512349192300374
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -6285343516996580182
+                }
+            ],
             "pathId": -8156209982132795155,
             "blockIdx": 40
         },
@@ -463,6 +849,21 @@
             "jpText": "プロに撮られるとさ、自分でも\n思ってみなかった魅力とか見つけられんの。\nそれって、すごいドキドキしない？",
             "enText": "When you are photographed by a professional, \nyou can find things that you never \nthought you would find attractive. \nIsn't that exciting?",
             "nextBlock": 42,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": -4894855309063966421
+                },
+                {
+                    "origLen": 212,
+                    "pathId": 6972719996984870587
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 4108396707094458262
+                }
+            ],
             "pathId": -5115322564988508204,
             "blockIdx": 41
         },
@@ -472,6 +873,21 @@
             "jpText": "で、仕事仲間に集まってもらったってわけ。\nけど……ガチすぎた？",
             "enText": "So I asked my business associates to get \ntogether. But was… too stiff?",
             "nextBlock": 43,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6677760457928846350
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -38077618822660893
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -6549281710798325587
+                }
+            ],
             "pathId": -5645287717626786769,
             "blockIdx": 42
         },
@@ -481,11 +897,22 @@
             "jpText": "確かにとても戸惑ったが……\n彼女の言うように、今回の撮影で\n知らない自分をわかったような気がする。",
             "enText": "I was indeed very confused, but as… she \nsays, I think I understood myself that I \ndidn't know in this shoot.",
             "nextBlock": 44,
+            "origClipLength": 108,
             "choices": [
                 {
                     "jpText": "最高のクリスマスプレゼントをありがとう",
                     "enText": "Thanks for the best Christmas present ever.",
                     "nextBlock": 44
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 5196748687548858169
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -6278099636835821186
                 }
             ],
             "pathId": 5977750549851840821,
@@ -497,6 +924,17 @@
             "jpText": "……！",
             "enText": "…!",
             "nextBlock": 45,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 3389005128357974147
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -1488116467590186576
+                }
+            ],
             "pathId": 5917202299145637769,
             "blockIdx": 44
         },
@@ -506,6 +944,18 @@
             "jpText": "……ん、よかった。",
             "enText": "… good.",
             "nextBlock": 46,
+            "origClipLength": 56,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7197586557845834015
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -7358857565079326942
+                }
+            ],
             "pathId": -8480396869684117403,
             "blockIdx": 45
         },
@@ -515,11 +965,23 @@
             "jpText": "……で、\nアンタからアタシにはなにもないわけ？",
             "enText": "… and nothing from you to me?",
             "nextBlock": 47,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "えっ",
                     "enText": "What's up?",
                     "nextBlock": 47
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 4789721968784678185
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -860273348802141235
                 }
             ],
             "pathId": -3600329773311259107,
@@ -531,6 +993,17 @@
             "jpText": "最高のプレゼントのお返しには、\nやっぱ最高以上じゃないとダメっしょ。",
             "enText": "The best gift has to be more \nthan the best in return.",
             "nextBlock": 48,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -7184614776000626447
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 4178059179822608515
+                }
+            ],
             "pathId": -8651793326940578096,
             "blockIdx": 47
         },
@@ -540,11 +1013,22 @@
             "jpText": "どうしよ、やっぱハイブランドのバッグとか？\n新作チェックしときたかったんだよね～。",
             "enText": "What should I do, maybe a high-brand bag? I \nwanted to check out the new releases!",
             "nextBlock": 49,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "お、お手柔らかに……！",
                     "enText": "Oh, take it easy on us…!",
                     "nextBlock": 49
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 122813529031487989
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 6063312537655734744
                 }
             ],
             "pathId": 261172861918724332,
@@ -556,6 +1040,17 @@
             "jpText": "……ふはっ。\n冗談だよ。",
             "enText": "… Haha. Just kidding.",
             "nextBlock": 50,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6831873232949179082
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1196252628174910937
+                }
+            ],
             "pathId": 8946849862512402143,
             "blockIdx": 49
         },
@@ -565,6 +1060,17 @@
             "jpText": "ふふっ……ホント、そろそろ慣れて。\n腹痛くなる……！",
             "enText": "Phew… really, it's time to get used to \nit. It makes me sick to my stomach…!",
             "nextBlock": 51,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -8413812197554795124
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8044346421261261354
+                }
+            ],
             "pathId": 1695848278968135470,
             "blockIdx": 50
         },
@@ -574,6 +1080,17 @@
             "jpText": "こうして、クリスマスの夜は\n軽やかな笑い声とともにふけていった。",
             "enText": "And so the Christmas night passed \nwith light laughter.",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -5857462104117173474
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -629109058972233427
+                }
+            ],
             "pathId": -2384096768698248897,
             "blockIdx": 51
         },
@@ -583,6 +1100,22 @@
             "jpText": "あ、シチーちゃんたちいたいた！\nせっかくだからツーショットも撮ろうよ。",
             "enText": "Oh, there they are, the city girls! Since \nwe're here, let's take a two-shot too.",
             "nextBlock": 53,
+            "origClipLength": 90,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 8744969016821068623
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5412594180910421116
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8683637233628151523
+                }
+            ],
             "pathId": -3406326838484083440,
             "blockIdx": 52
         },
@@ -592,11 +1125,26 @@
             "jpText": "え？\r\n……アタシとトレーナーでってこと？",
             "enText": "What? Do you mean with… \nata and a trainer?",
             "nextBlock": 54,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "シチーと！？",
                     "enText": "With Siti!",
                     "nextBlock": 54
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8020376092359658305
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7061187794999118046
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -903788176388265846
                 }
             ],
             "pathId": 5243330652443301364,
@@ -608,6 +1156,17 @@
             "jpText": "そ！　シチーちゃんも着せ替えて\n撮りたいって、みんな燃えてんの。",
             "enText": "Oh, yeah! Everyone's on fire, wanting to \ndress up Cichy for the photo shoot.",
             "nextBlock": 55,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -8887819827622962267
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -4178117627918334584
+                }
+            ],
             "pathId": 210003110398368646,
             "blockIdx": 54
         },
@@ -617,6 +1176,17 @@
             "jpText": "私も2人ならすんごいイイ写真上がると\n思うんだよね。いいでしょ？",
             "enText": "I also think the two of us would make a great \nphoto. Wouldn't that be nice?",
             "nextBlock": 56,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 7274897457927978296
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 2339653566428946365
+                }
+            ],
             "pathId": 8107868457511484728,
             "blockIdx": 55
         },
@@ -626,11 +1196,26 @@
             "jpText": "……みんながそこまで言うなら、\n撮ってみよっかな？",
             "enText": "…If everyone's that big of a fan, I \nmight as well take a shot.",
             "nextBlock": 57,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "シチーと！？！？",
                     "enText": "With Siti!",
                     "nextBlock": 57
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -441729303252665352
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -4903667320931503354
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -2894654824768181061
                 }
             ],
             "pathId": -47746186144245766,
@@ -642,6 +1227,21 @@
             "jpText": "ふは。またビビッてる。\n言ってんじゃん、\nアタシだけ見とけばいいって。",
             "enText": "Huh. She's freaking out again. I told you, \nI'm the only one you need to watch.",
             "nextBlock": 58,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3234540785584407947
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 8741298170975984642
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 1609776683418951905
+                }
+            ],
             "pathId": 8419192989445612070,
             "blockIdx": 57
         },
@@ -651,6 +1251,17 @@
             "jpText": "トップモデルのエスコート、\n期待していいよ？",
             "enText": "You can count on Top Model to \nbe your escort, can't you?",
             "nextBlock": 59,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 2880437744859103194
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -1874650576060103148
+                }
+            ],
             "pathId": 1853764573734110340,
             "blockIdx": 58
         },
@@ -660,6 +1271,17 @@
             "jpText": "（パシャッパシャッパシャッ！）",
             "enText": "(Paschas! Paschas!)",
             "nextBlock": 60,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 604304636222940137
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -8789339766920146660
+                }
+            ],
             "pathId": 3037830518337997642,
             "blockIdx": 59
         },
@@ -669,6 +1291,7 @@
             "jpText": "今度はこっち、手ぇ置いて。\n……そ、イイ感じ。そのまま――",
             "enText": "Now put your hand here… So, that's \ngood. Hold it right there.",
             "nextBlock": 61,
+            "origClipLength": 82,
             "pathId": 8126851720078592723,
             "blockIdx": 60
         },
@@ -678,8 +1301,10 @@
             "jpText": "――こうして緊張の連続で撮影は終わった。\nツーショットの写真を見た\nゴールドシチーは……微笑んでいた。",
             "enText": "― Thus ended the tense shoot. Gold City \nsmiled… when she saw the two-shot photo.",
             "nextBlock": -1,
+            "origClipLength": 111,
             "pathId": 1905204676605032652,
             "blockIdx": 61
         }
-    ]
+    ],
+    "modified": 1669945666
 }

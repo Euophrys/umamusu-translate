@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "IOUDHKEN26YXGKIFNZQYRSNZKCFEVBWR",
     "type": "story",
     "storyId": "501032726",
@@ -11,6 +11,17 @@
             "jpText": "ある日、\r\nアグネスタキオンと出かけた先で――",
             "enText": "One day, I was out with Agnes Tachyon.",
             "nextBlock": 2,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 894379412183557957
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5062032898101874668
+                }
+            ],
             "pathId": -3604162715837364675,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "そろそろ観念して新作ドリンクを飲みたまえ。\r\n新体験が待っていることを約束するよ。",
             "enText": "It's time to give up and drink\nthe new drink. A new experience\nawaits you, I promise.",
             "nextBlock": 3,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "あ、面白そうなクレーンゲームがあるぞ！",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 4607219805663302787
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 277829213515735395
+                }
+            ],
             "pathId": -2034395576887661851,
             "blockIdx": 2
         },
@@ -41,6 +63,21 @@
             "jpText": "そうやって話をはぐらかそうと――\r\nおや、これはおあつらえ向きじゃないか。",
             "enText": "That's how she tried to get away with it,\nbut… well, this is just the thing.",
             "nextBlock": 4,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -7284987141923294307
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -4460155982787387057
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -2879458807534984414
+                }
+            ],
             "pathId": 6439689840519043284,
             "blockIdx": 3
         },
@@ -50,6 +87,21 @@
             "jpText": "クレーンゲームを見た\r\nアグネスタキオンの瞳が鈍く光る。",
             "enText": "Agnes Tachyon's eyes glowed dully as she\nwatched the crane game.",
             "nextBlock": 5,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -8518200410759013824
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -1550988317402439224
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6890925653129858064
+                }
+            ],
             "pathId": -959879817555651502,
             "blockIdx": 4
         },
@@ -59,6 +111,21 @@
             "jpText": "クレーンゲームで景品を\r\nゲットするのに必要なもの！\nそれは刹那の集中力だ！",
             "enText": "To win a prize in a crane game, you need\nsomething! It's a moment of concentration!",
             "nextBlock": 6,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -1513874446607142648
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -6240928196579737739
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -6548856447583394036
+                }
+            ],
             "pathId": -1773880554420234710,
             "blockIdx": 5
         },
@@ -68,6 +135,17 @@
             "jpText": "このドリンクには集中力を高める\r\nA10神経群と自己報酬神経群を刺激する\n成分が大盤振る舞いされていてね。",
             "enText": "This drink is loaded with ingredients that\nstimulate the A10 nerve cluster and the\nself-rewarding nerve cluster, both of\nwhich enhance concentration.",
             "nextBlock": 7,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -1192234971658971649
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -7787088270116168759
+                }
+            ],
             "pathId": 4212720499875568125,
             "blockIdx": 6
         },
@@ -77,6 +155,17 @@
             "jpText": "つまり、これを飲めば景品は取り放題！\r\nさぁ、遠慮せずグイッと！　グィィッと！",
             "enText": "In other words, if you drink this, you can\ntake all the prizes you want! Now, don't\nbe shy, drink up! Geez!",
             "nextBlock": 8,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -8537485493557043353
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 4134521911222434086
+                }
+            ],
             "pathId": -1165644822188118690,
             "blockIdx": 7
         },
@@ -86,11 +175,22 @@
             "jpText": "……えいっ。",
             "enText": "… eh.",
             "nextBlock": 9,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "ゴクッ……、うわー！？",
                     "enText": "Gosh,…, wow!",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": 7438726291018806333
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 9170071243290261403
                 }
             ],
             "pathId": 6273682590293353198,
@@ -102,6 +202,17 @@
             "jpText": "君は本当に手がかかるモルモットだ！\r\nあ、成果が芳しくなかったら別の\nドリンクを飲んでもらうから、そのつもりで！",
             "enText": "You're a real handful, guinea pig! Oh, and\nif you don't like what you see, you can\nhave another drink.",
             "nextBlock": 10,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -165082489029177585
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 5927461500736408898
+                }
+            ],
             "pathId": 6742698357565343197,
             "blockIdx": 9
         },
@@ -111,8 +222,20 @@
             "jpText": "――このゲーム、負けられない！！",
             "enText": "—This game, you can't lose!",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -2341613626841762815
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8210274743076594440
+                }
+            ],
             "pathId": 5397397095300103662,
             "blockIdx": 10
         }
-    ]
+    ],
+    "modified": 1669945593
 }

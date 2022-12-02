@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "Z4HTHVHUSICJSEJSOYOMKXUBQFYBAYQP",
     "type": "story",
     "storyId": "501041729",
@@ -11,11 +11,22 @@
             "jpText": "なんとっ！？\r\nトレーナーさんが失敗を……！？",
             "enText": "What the hell? Your trainer\nhas… made a mistake!",
             "nextBlock": 2,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "面目ない……",
                     "enText": "I'm not ashamed…",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -6835177393111006765
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7036664823362664547
                 }
             ],
             "pathId": 1741316163592971902,
@@ -27,6 +38,17 @@
             "jpText": "いえ、犬も歩けば何とやらと聞きますし！",
             "enText": "No, I've heard it said that if\na dog can walk, so can you!",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3052006513818042916
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5457856350877803095
+                }
+            ],
             "pathId": 7748912473880802757,
             "blockIdx": 2
         },
@@ -36,6 +58,17 @@
             "jpText": "私もバクシン中に考え事をして、電柱に\r\nぶつかったことが何度もありますので……！",
             "enText": "I've hit telephone poles while thinking\nduring bakshin more than once…!",
             "nextBlock": 4,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -2631892472926669420
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 6367075407731843798
+                }
+            ],
             "pathId": 8019607173627854902,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "達人だろうと、時には失敗するもの！\r\n改めて、教訓にさせていただきます……！",
             "enText": "Sometimes, even the gurus fail! Once again,\nI will let this be a lesson to you…!",
             "nextBlock": 5,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -6906938290601471666
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 5457131446714662105
+                }
+            ],
             "pathId": 8688808570464678196,
             "blockIdx": 4
         },
@@ -54,8 +98,20 @@
             "jpText": "残念な結果に終わった……。",
             "enText": "A disappointing result…",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -6786117445830669847
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5578812253336153471
+                }
+            ],
             "pathId": -150354844436613369,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945727
 }

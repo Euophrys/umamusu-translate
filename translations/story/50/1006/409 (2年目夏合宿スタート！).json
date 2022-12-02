@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MHBTNHSMTXFPV4ILVU4F6KMO77DSTRV6",
     "type": "story",
     "storyId": "501006409",
@@ -11,6 +11,17 @@
             "jpText": "今日から『夏合宿』が始まる。\r\n当のオグリキャップはというと――",
             "enText": "The \"summer training camp\" starts \ntoday. As for Oguri Cap…",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 240,
+                    "pathId": -2180466827677043435
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2273277229375293305
+                }
+            ],
             "pathId": -3455358276795911782,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "トレーニングへの意欲を湧かせつつも\r\nいつも通り、食い気をのぞかせるのだった。",
             "enText": "She was motivated to train, but \nas usual, she was a bit picky.",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 240,
+                    "pathId": -2021030793815710928
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4436005602579162060
+                }
+            ],
             "pathId": 1838204504108023392,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944977
 }

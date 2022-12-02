@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "Z7QOLESIRRBIAN5IT7YZPM2S7EE7HLVV",
     "type": "story",
     "storyId": "801006001",
@@ -11,6 +11,7 @@
             "jpText": "トレーニング終了後、\r\n困った顔をしているウマ娘を見かけた……。",
             "enText": "After training… saw a horse girl with a \ntroubled look on her face.",
             "nextBlock": 2,
+            "origClipLength": 76,
             "pathId": -4109810174197150179,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "力を込めて走っている……違う。\r\n楽しく……頑張って……ダメだな。",
             "enText": "I'm running with a lot of effort … no. You \nhave to have fun… and work hard… no.",
             "nextBlock": 3,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 821969301550583546
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7835214725476144901
+                }
+            ],
             "pathId": 3040003383780357076,
             "blockIdx": 2
         },
@@ -29,6 +41,7 @@
             "jpText": "むむ……どうしたらいいんだ。",
             "enText": "Mumm… What can I do?",
             "nextBlock": 4,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
@@ -41,6 +54,20 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6329046139236250760
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 848733124129260890
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 9095352264307333314
+                }
+            ],
             "pathId": 6389074965288280639,
             "blockIdx": 3
         },
@@ -50,6 +77,21 @@
             "jpText": "その……学園誌で私の特集を\r\n載せたいと言われたんだが……。",
             "enText": "I've been asked to do a feature on me in \ntheir… school magazine…",
             "nextBlock": 5,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 6518877333882904344
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 3340787898154270837
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 9082677428496847672
+                }
+            ],
             "pathId": 4451486539154763768,
             "blockIdx": 4
         },
@@ -59,6 +101,7 @@
             "jpText": "昔からそういうのは、どうも苦手で……。\r\n何と答えようかと悩んでいた。",
             "enText": "I've always been very bad at that kind of \nthing… I was wondering what I should say.",
             "nextBlock": 6,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "トレーニングを実践してみせたら？",
@@ -71,6 +114,16 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 5209272910058658210
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -2014697496025728138
+                }
+            ],
             "pathId": -8220733897583133874,
             "blockIdx": 5
         },
@@ -80,6 +133,17 @@
             "jpText": "なるほど……それなら、\r\n喋って説明する必要もないな。",
             "enText": "I see… Then you don't have \nto talk and explain.",
             "nextBlock": 7,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6623165341427944262
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -7695092649408383907
+                }
+            ],
             "pathId": 8206585412817834178,
             "blockIdx": 6
         },
@@ -89,6 +153,17 @@
             "jpText": "ありがとう。\r\n試してみることにする。",
             "enText": "Thank you. I'll give it a try.",
             "nextBlock": -1,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7466115283091599797
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 1353079208233020132
+                }
+            ],
             "pathId": -1052626082733907965,
             "blockIdx": 7
         },
@@ -98,6 +173,17 @@
             "jpText": "そうだな……苦手だからといって、\r\n逃げてばかりはいられない。",
             "enText": "Well… you can't just run away because \nyou're not good at it.",
             "nextBlock": 9,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -7325485439391078127
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 499337739049805472
+                }
+            ],
             "pathId": 6782447620437924796,
             "blockIdx": 8
         },
@@ -107,11 +193,22 @@
             "jpText": "だが、どうすればいいのか……。",
             "enText": "But what can we do about it?…",
             "nextBlock": 10,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "メモを用意していったら？",
                     "enText": "Why don't you prepare a note?",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -8498044651135238772
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 481010117276194707
                 }
             ],
             "pathId": 275453951931965111,
@@ -123,6 +220,17 @@
             "jpText": "なるほど……。\r\nそれならばなんとかなるかもしれない。",
             "enText": "I see… I might be able to manage that.",
             "nextBlock": 11,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -8963064153232822212
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 1018397659333489333
+                }
+            ],
             "pathId": 3438094346963689874,
             "blockIdx": 10
         },
@@ -132,8 +240,20 @@
             "jpText": "ありがとう。\r\n頑張ってみることにする。",
             "enText": "Thank you. I'll try my best.",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 9125670134502618364
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -1651078484329011639
+                }
+            ],
             "pathId": -673375649573378120,
             "blockIdx": 11
         }
-    ]
+    ],
+    "modified": 1669945947
 }

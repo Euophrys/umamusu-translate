@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "VYKO3YED5AR6EELAP35JTX5DEB4ICXT3",
     "type": "story",
     "storyId": "801063002",
@@ -11,6 +11,17 @@
             "jpText": "広場で生徒と話している\r\nイクノディクタスを見かけた。",
             "enText": "I saw Ichnodictus talking to \na student in the square.",
             "nextBlock": 2,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -4244545795696372556
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 9205351458465015162
+                }
+            ],
             "pathId": 4126384509651830888,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "……ですので、午後からのメニューの数を\r\n1つ減らしてみるとよいかと。",
             "enText": "It's… so we thought we'd try reducing the \nnumber of menus by one for the afternoon.",
             "nextBlock": 3,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 7601569709062823930
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 2587150132507630898
+                }
+            ],
             "pathId": 550351602621048352,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "なるほどですね！　これだとうまくいきそう！\r\nありがとうございます、イクノ先輩！",
             "enText": "I see what you mean! This is going to work! \nThank you, senpai Ikuno!",
             "nextBlock": 4,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 2614909047708633001
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 4040263377435623179
+                }
+            ],
             "pathId": 226597978507948168,
             "blockIdx": 3
         },
@@ -38,6 +71,21 @@
             "jpText": "いえ。役に立ったのなら何よりです。",
             "enText": "No, not at all. I'm glad \nyou found it useful.",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -3773861592349982690
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -6265292648735248121
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6044031889277225149
+                }
+            ],
             "pathId": 6472986887241035227,
             "blockIdx": 4
         },
@@ -47,11 +95,22 @@
             "jpText": "後輩ウマ娘は深々とお辞儀をして、\r\nその場を去って行った。",
             "enText": "The younger girl bowed deeply and left.",
             "nextBlock": 6,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "何か相談にのってたの？",
                     "enText": "Did you get any advice from them?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -2103892642615824503
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -5303996743548212727
                 }
             ],
             "pathId": -356486391442565607,
@@ -63,6 +122,21 @@
             "jpText": "ええ。トレーニングメニューを\r\n見て欲しいという事でしたので。",
             "enText": "Yes. She wanted to see the training menu.",
             "nextBlock": 7,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -2140484342808045103
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6737752912549278071
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7722200139277572274
+                }
+            ],
             "pathId": 8110114082669877389,
             "blockIdx": 6
         },
@@ -72,6 +146,7 @@
             "jpText": "スケジュールやマネジメントは、\r\n比較的得意なものですから。",
             "enText": "I'm relatively good at scheduling \nand management.",
             "nextBlock": 8,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "俺のスケジュールも見て欲しい",
@@ -87,6 +162,17 @@
                     "jpText": "コツとか教えて",
                     "enText": "Tips and tricks?",
                     "nextBlock": 19
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -2062739766938688832
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 3839276457072002015
                 }
             ],
             "pathId": 742334111068123104,
@@ -98,6 +184,7 @@
             "jpText": "スケジュールやマネジメントは、\r\n比較的得意なものですから。",
             "enText": "I'm relatively good at scheduling \nand management.",
             "nextBlock": 9,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "俺のスケジュールも見て欲しい",
@@ -115,6 +202,17 @@
                     "nextBlock": 19
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 2779835448273307191
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 8751519353542334528
+                }
+            ],
             "pathId": 569922614774671694,
             "blockIdx": 8
         },
@@ -124,6 +222,17 @@
             "jpText": "貴方のスケジュールを……ですか。",
             "enText": "You can find your schedule…",
             "nextBlock": 10,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 8996670763968693570
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 6710430518258664985
+                }
+            ],
             "pathId": -5340176495685719588,
             "blockIdx": 9
         },
@@ -133,11 +242,26 @@
             "jpText": "トレーナーであればスケジュールに関しても、\r\n学んできたはずですし、必要ないのでは？",
             "enText": "If you're a trainer, you've learnt about \nscheduling, so why do you need to?",
             "nextBlock": 11,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "意見だけでいいから",
                     "enText": "Just give us your opinion.",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 223,
+                    "pathId": -797073387399810307
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1546002949548650873
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 4860924994402478722
                 }
             ],
             "pathId": 304312531522323827,
@@ -149,6 +273,21 @@
             "jpText": "ふむ……わかりました。\r\n見てみましょう。",
             "enText": "Hmmm… I see what you mean. \nLet's have a look.",
             "nextBlock": 12,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -7694279145497464254
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 4625093808104009922
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -1025864162010458050
+                }
+            ],
             "pathId": -7282079910288966837,
             "blockIdx": 11
         },
@@ -158,6 +297,17 @@
             "jpText": "……この日のスケジュールは、\r\nメニューを詰め込み過ぎです。",
             "enText": "… The schedule for the day is \noverloaded with menus.",
             "nextBlock": 13,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -661842407411616778
+                },
+                {
+                    "origLen": 175,
+                    "pathId": -4338085954765262607
+                }
+            ],
             "pathId": 1484012521602107246,
             "blockIdx": 12
         },
@@ -167,6 +317,21 @@
             "jpText": "それから、忙しいのはわかりますが、\r\n寝食と余暇を疎かにするのはやめましょう。",
             "enText": "Also, I understand that you are \nbusy, but don't neglect your food, \nsleep and leisure time.",
             "nextBlock": 14,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4112835374385202383
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -3829558111450747413
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -2753757830364732498
+                }
+            ],
             "pathId": 890073715848111158,
             "blockIdx": 13
         },
@@ -176,11 +341,22 @@
             "jpText": "トレーナーも体が資本なのです。\r\n食事、睡眠、休養……この3つだけは、\n決して欠かさないように。",
             "enText": "As a trainer, your body is your capital. \nDiet, sleep and rest… are the only three \nthings you should never miss.",
             "nextBlock": 15,
+            "origClipLength": 107,
             "choices": [
                 {
                     "jpText": "ありがとう、参考にさせてもらうよ",
                     "enText": "Thanks, I'll keep that in mind.",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -4124637451701069541
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 6748940711863058199
                 }
             ],
             "pathId": 4974331403563738161,
@@ -192,6 +368,17 @@
             "jpText": "いえ、参考になったのならばよかったです。",
             "enText": "No, I'm glad you found it helpful.",
             "nextBlock": 16,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 4958796051436111525
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 4688248659470805504
+                }
+            ],
             "pathId": -5161485088551626746,
             "blockIdx": 15
         },
@@ -201,11 +388,22 @@
             "jpText": "それでは、次の指摘ですが。",
             "enText": "Which brings me to my next point.",
             "nextBlock": 17,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "えっ……？",
                     "enText": "What?…?",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 7909759501890664747
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 3433678067103263305
                 }
             ],
             "pathId": -7091232123482616474,
@@ -217,6 +415,17 @@
             "jpText": "指摘はまだ半分も終わっていませんよ。\r\nこんな無茶なスケジュールは、\nさすがに放っておけませんので。",
             "enText": "I'm not even halfway through pointing \nit out. We can't leave you with \nsuch an absurd schedule.",
             "nextBlock": 18,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -4551838331538026450
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -4732254312513437881
+                }
+            ],
             "pathId": -1460666791942479803,
             "blockIdx": 17
         },
@@ -226,6 +435,17 @@
             "jpText": "その後、イクノディクタスにがっつりと、\r\n問題点を指摘されたのであった……。",
             "enText": "Afterwards, Ichnodictus pointed \nout the problem firmly to me…",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 7481626161307748013
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 7347364478403040733
+                }
+            ],
             "pathId": -4596905885912658082,
             "blockIdx": 18
         },
@@ -235,11 +455,26 @@
             "jpText": "コツ……強いていうならば、\r\n文字に騙されない事ですかね。",
             "enText": "The trick… is not to be fooled by the words.",
             "nextBlock": 20,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "騙されない？",
                     "enText": "Not fooled?",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 3516267296350749902
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -215573374227490139
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1018184696488858343
                 }
             ],
             "pathId": -4161817531554843067,
@@ -251,6 +486,21 @@
             "jpText": "ええ。多くの場合、スケジュールは\r\nメリットを強調して書いてあります。",
             "enText": "Yes. Often the schedule is written with an \nemphasis on the benefits.",
             "nextBlock": 21,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -7304404767651295717
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 3819747574098683679
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -2098703592375089837
+                }
+            ],
             "pathId": -2124195595458895471,
             "blockIdx": 20
         },
@@ -260,6 +510,17 @@
             "jpText": "脚力強化のための走り込み……\r\nとあればよく見えますが。",
             "enText": "It would look better if it was a \nleg-strengthening run…",
             "nextBlock": 22,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 8628281051822039616
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 8916533810013516791
+                }
+            ],
             "pathId": -7941941510606691695,
             "blockIdx": 21
         },
@@ -269,6 +530,17 @@
             "jpText": "実際は運動による疲労も含まれています。\r\nしかし、多くの場合それは記載されません。",
             "enText": "In fact, it includes fatigue from exercise. \nIn many cases, however, it is not mentioned.",
             "nextBlock": 23,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -7213411803650945188
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -4885959042213076442
+                }
+            ],
             "pathId": 6711106020247939277,
             "blockIdx": 22
         },
@@ -278,11 +550,22 @@
             "jpText": "私はそれを踏まえた指摘をしているだけです。\r\nコツといえるかどうかはわかりませんが。\n少しでも参考になればと。",
             "enText": "I'm just making a point based on that. I \ndon't know if it can be called a tip. I hope \nit will be of some help.",
             "nextBlock": 24,
+            "origClipLength": 116,
             "choices": [
                 {
                     "jpText": "ありがとう、騙されないよう気をつけるよ",
                     "enText": "Thanks, I'll be careful not to be fooled.",
                     "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 1770030474582524933
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 7486197568993438167
                 }
             ],
             "pathId": -7559495067374858479,
@@ -294,6 +577,21 @@
             "jpText": "そう言っていただけて、よかったです。",
             "enText": "I'm glad to hear that.",
             "nextBlock": 25,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -7936180120671078837
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -8073575163022076486
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 4072447640725167062
+                }
+            ],
             "pathId": -6131973311974539126,
             "blockIdx": 24
         },
@@ -303,11 +601,22 @@
             "jpText": "……が、ここまでの私の説明は、\r\n全て嘘ですけどね。",
             "enText": "All my explanations so far \non … are lies, though.",
             "nextBlock": 26,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "騙された！？",
                     "enText": "You've been tricked!",
                     "nextBlock": 26
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -2308085809352454034
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4045363464405052952
                 }
             ],
             "pathId": 986602010061251791,
@@ -319,6 +628,17 @@
             "jpText": "ふっ……ジョークです。説明は本当ですが。",
             "enText": "Phew… joke. The explanation is true though.",
             "nextBlock": 27,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 9052148632658163640
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -5202968628838410035
+                }
+            ],
             "pathId": 1940819928009207167,
             "blockIdx": 26
         },
@@ -328,6 +648,17 @@
             "jpText": "どうやら『騙されないようにする』訓練が\r\n少々必要みたいですね。",
             "enText": "Apparently a bit of 'don't be fooled' \ntraining is required.",
             "nextBlock": 28,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -5266238707534532484
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8368720612608387035
+                }
+            ],
             "pathId": -8624971913949849396,
             "blockIdx": 27
         },
@@ -337,8 +668,20 @@
             "jpText": "彼女は意外にもユーモアに富んでいるようだ。\r\nもっとも、無表情から出る嘘を見抜くのに、\n少々の訓練で済むとは思えないが……。",
             "enText": "She seems to have a surprisingly good \nsense of humour. I don't think it \ntakes much training to spot a lie \nfrom a blank face, though…",
             "nextBlock": -1,
+            "origClipLength": 125,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -1887701143859282178
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -1742620822824792359
+                }
+            ],
             "pathId": 1986573838755144413,
             "blockIdx": 28
         }
-    ]
+    ],
+    "modified": 1669945970
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "M4NWAH7URDKHD2IS2N32T76EUH6QME5R",
     "type": "story",
     "storyId": "501050709",
@@ -11,6 +11,7 @@
             "jpText": "くっ、入着止まりか……！",
             "enText": "Damn, I guess I'll just have \nto stop…!",
             "nextBlock": 2,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "でも、いい走りだったぞ！",
@@ -26,6 +27,17 @@
                     "jpText": "次こそ1着を目指そう！",
                     "enText": "Let's aim for first place next time!",
                     "nextBlock": 10
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 1151792972065630847
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1619237069678128114
                 }
             ],
             "pathId": -8198005177466074415,
@@ -37,6 +49,7 @@
             "jpText": "くっ、入着止まりか……！",
             "enText": "Damn, I guess I'll just have \nto stop…!",
             "nextBlock": 3,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "でも、いい走りだったぞ！",
@@ -54,6 +67,17 @@
                     "nextBlock": 10
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -4016683080524326994
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 2150979579114819869
+                }
+            ],
             "pathId": -6423049444769985677,
             "blockIdx": 2
         },
@@ -63,11 +87,22 @@
             "jpText": "……何ソレ。\r\n結果が出せなきゃ意味ないし。",
             "enText": "… whatsolate. It's meaningless \nif you can't get results.",
             "nextBlock": 4,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "よかったところを伸ばせばきっと勝てる！",
                     "enText": "If we can improve on what \nwe did well, we'll win!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 4460039054675793001
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -1880304303050937573
                 }
             ],
             "pathId": 6793588395601989448,
@@ -79,6 +114,17 @@
             "jpText": "よかったところ、ね……。",
             "enText": "The good part, right?…",
             "nextBlock": 5,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 8983497685783998372
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -3425257656836302355
+                }
+            ],
             "pathId": -2578038537195415355,
             "blockIdx": 4
         },
@@ -88,11 +134,22 @@
             "jpText": "なかったから\r\n入着どまりなんじゃないの？",
             "enText": "I guess that's why you didn't get in.",
             "nextBlock": 6,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "ある！今日の映像を一緒に見ながら教えるよ",
                     "enText": "There is! I'll teach you as we \nwatch today's video together.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 6443449192465059690
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3357469555300405831
                 }
             ],
             "pathId": 1915579373200380505,
@@ -104,6 +161,17 @@
             "jpText": "遠慮しとく。絶対ウザいことになるし……。\r\n映像データだけちょうだい。",
             "enText": "I'll pass. It would be absolutely annoying. \n… Just give me the video data.",
             "nextBlock": 7,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 5293130781222877313
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -2979542985809226832
+                }
+            ],
             "pathId": -8529269254949696229,
             "blockIdx": 6
         },
@@ -113,6 +181,17 @@
             "jpText": "（まぁ、確かに……\r\n過去の走りを研究するのは悪くないし）",
             "enText": "(Well, it's certainly not a bad idea \nto study… past runs)",
             "nextBlock": 8,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -8552085305217315213
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1264401619982709135
+                }
+            ],
             "pathId": -1265478845730691188,
             "blockIdx": 7
         },
@@ -122,6 +201,17 @@
             "jpText": "後日、映像データを渡す際に\r\nトレーナーとしての所感をまとめたノートも\n一緒に手渡した。",
             "enText": "Later, when I handed over the video data, I \nalso handed over a notebook that summarized \nmy impressions as a trainer.",
             "nextBlock": 9,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -3117369980894065549
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 4629265242227534681
+                }
+            ],
             "pathId": -6412286734961641101,
             "blockIdx": 8
         },
@@ -131,6 +221,7 @@
             "jpText": "迷惑そうな顔をされたものの、\r\n一応は受け取ってもらえたので、\nひと安心してトレーニングを行ったのだった。",
             "enText": "Although she looked annoyed, I was relieved \nto see that she accepted my request, and we \nwent on with our training.",
             "nextBlock": -1,
+            "origClipLength": 114,
             "pathId": -2253580081703202216,
             "blockIdx": 9
         },
@@ -140,6 +231,17 @@
             "jpText": "言われるまでもないし。",
             "enText": "I don't need to be told.",
             "nextBlock": 11,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -994356375610874884
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 2938437505910148460
+                }
+            ],
             "pathId": -2271696771081301676,
             "blockIdx": 10
         },
@@ -149,6 +251,17 @@
             "jpText": "勝って、勝って、勝ちまくって――",
             "enText": "Winning, winning, winning all over―",
             "nextBlock": 12,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -3137254028700652416
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -812403734621579165
+                }
+            ],
             "pathId": 1088016791123265479,
             "blockIdx": 11
         },
@@ -158,6 +271,7 @@
             "jpText": "誰もケチつけられないくらい、\r\n高みに昇ってやる……！",
             "enText": "I'm going to soar so high that no \none will stink at me…!",
             "nextBlock": 13,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "その意気だ！やってやろう！",
@@ -170,6 +284,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -1576854992096976809
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 3560385687638141647
+                }
+            ],
             "pathId": 7852938477862508529,
             "blockIdx": 12
         },
@@ -179,6 +303,7 @@
             "jpText": "……はぁ。\r\nアンタが熱くなっても仕方ないでしょ。",
             "enText": "… huh. I don't blame you for \ngetting all hot and bothered.",
             "nextBlock": 14,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "君のトレーナーなんだから熱くもなるよ！",
@@ -191,6 +316,16 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -4842126236875672159
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -8535649461844134761
+                }
+            ],
             "pathId": 5133219414340564910,
             "blockIdx": 13
         },
@@ -200,6 +335,17 @@
             "jpText": "帰ったら早速トレーニングメニューを見返し、\r\n次のレースに備えようとまくしたてると――",
             "enText": "I went over my training menu as soon as I got \nhome and started talking about how I was \ngoing to prepare for the next race.",
             "nextBlock": 15,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4958578461912189675
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 7283764093103448241
+                }
+            ],
             "pathId": 7345748044087080883,
             "blockIdx": 14
         },
@@ -209,6 +355,17 @@
             "jpText": "ああもう暑苦しい！",
             "enText": "Oh God, it's so hot!",
             "nextBlock": 16,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 631231460153665752
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -958768136293669542
+                }
+            ],
             "pathId": 985491892977598939,
             "blockIdx": 15
         },
@@ -218,6 +375,17 @@
             "jpText": "次は勝つ。\r\nだからそういうテンション禁止！",
             "enText": "Next time we will win. So, that \nkind of tension is prohibited!",
             "nextBlock": 17,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4113895537530164144
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3794604353882252772
+                }
+            ],
             "pathId": -6155584137840887115,
             "blockIdx": 16
         },
@@ -227,8 +395,20 @@
             "jpText": "若干、うんざりされてしまったが、\r\n勝利に向けての気合いは入ったようだ。",
             "enText": "She was slightly fed up, but \nseemed fired up to win.",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -7755723543081223047
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 4841016371487895399
+                }
+            ],
             "pathId": 3587460497153013618,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669945819
 }

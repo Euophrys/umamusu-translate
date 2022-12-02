@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DMV6DAKOT4LDZYL7O2BAIYO53YQRKU4W",
     "type": "story",
     "storyId": "501025305",
@@ -11,6 +11,17 @@
             "jpText": "はぁ、はぁ……。\r\nタキオンさん……やっぱり速……。",
             "enText": "Hah, hah… Tachyon-san…\nis still fast…",
             "nextBlock": 2,
+            "origClipLength": 159,
+            "animData": [
+                {
+                    "origLen": 202,
+                    "pathId": -904271153579761608
+                },
+                {
+                    "origLen": 204,
+                    "pathId": -735565285876891575
+                }
+            ],
             "pathId": 2542614508120893459,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "ううっ、うううう……ケホっ……。",
             "enText": "Ugh, ugh, ugh… Kehoe…",
             "nextBlock": 3,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "大丈夫か！？",
@@ -32,6 +44,20 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -8783756951728645336
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 3733560089683838519
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 8299061542802539825
+                }
+            ],
             "pathId": 8912662489312087462,
             "blockIdx": 2
         },
@@ -41,11 +67,26 @@
             "jpText": "はい……。ご心配かけて、すみません。\r\nどうにか……できる限りは……。",
             "enText": "Yes… I'm sorry for worrying\nyou. I will try to… as much\nas I can… somehow.",
             "nextBlock": 4,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "それで……『お友だち』は？",
                     "enText": "So… where's your \"friend\"?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -4660980549764205765
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -730370619609831299
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 7611460912070804869
                 }
             ],
             "pathId": 4355798983339861981,
@@ -57,6 +98,21 @@
             "jpText": "……間違い……なかったです。\r\nタキオンさんの前に……いる。",
             "enText": "There was no… mistake… I'm\n… in front of Ms. Tachyon.",
             "nextBlock": 5,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -8764504501471252089
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -5383625850746432269
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -4507118731703237573
+                }
+            ],
             "pathId": 5372034012183427978,
             "blockIdx": 4
         },
@@ -66,6 +122,21 @@
             "jpText": "タキオンさんが今、1番近くに。\r\n追い続けるしか……ないようです。",
             "enText": "Tachyon is the closest one now.\nThere seems to be no other way\nto… keep up with it.",
             "nextBlock": 6,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3530633457145995281
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 767168471774331752
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -3101616484631075946
+                }
+            ],
             "pathId": -8949113886756482926,
             "blockIdx": 5
         },
@@ -75,6 +146,7 @@
             "jpText": "あの人と競い合って……\r\nそれを道標に……。",
             "enText": "Compete with that person… and use that\nas a guidepost…",
             "nextBlock": 7,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "そうか、わかった",
@@ -87,6 +159,20 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -8279436397304831838
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -7374323084102299979
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 5622302350365227299
+                }
+            ],
             "pathId": 3479786934245934171,
             "blockIdx": 6
         },
@@ -96,6 +182,21 @@
             "jpText": "『お友だち』を追う目的と、クラシック三冠\r\n路線が理想的に噛み合う。この先は\nアグネスタキオンを追い続ければ……。",
             "enText": "The purpose of chasing a friend and the\nTriple Crown classics are an ideal match. If\nyou continue to follow Agnes Tachyon, you'll\nbe able to find her at…",
             "nextBlock": 8,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6510282731490159297
+                },
+                {
+                    "origLen": 148,
+                    "pathId": -3867997293737337752
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 3683705778916215710
+                }
+            ],
             "pathId": 6590399150562889685,
             "blockIdx": 7
         },
@@ -105,6 +206,25 @@
             "jpText": "ククク、クククククッ！\r\nそうか、カフェ……！　これが君か！",
             "enText": "Kuk, kuk, kuk! Oh yeah, Cafe\n…! So this is you!",
             "nextBlock": 9,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 7765226252332750801
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 8320660212879331056
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -7130107131444897908
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 7909219680204952505
+                }
+            ],
             "pathId": -9057715773133771872,
             "blockIdx": 8
         },
@@ -114,6 +234,29 @@
             "jpText": "いいぞ、いいぞ！　ダメだ、だがいい！\r\n予想外の成功と予想していた失敗は\n相殺し合うものさ！",
             "enText": "Good, good, good! No, but good! Unexpected\nsuccess and expected failure cancel\neach other out!",
             "nextBlock": 10,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 2872242235708691236
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 2559889384009983345
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 3304104570351269675
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -7997548462601254622
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -8514646191233702119
+                }
+            ],
             "pathId": 2979219263660204653,
             "blockIdx": 9
         },
@@ -123,6 +266,33 @@
             "jpText": "これでいい。世の中は得てして消去法さ。\r\nフフ、フフフ……。",
             "enText": "That's it. The world is a process of\nelimination. Phew, phew, phew…",
             "nextBlock": 11,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1166518762891404136
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -6497633874370997785
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -8314272255955622526
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 9157303948303050207
+                },
+                {
+                    "origLen": 143,
+                    "pathId": 6391182272395443240
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -7810007956832455680
+                }
+            ],
             "pathId": -5837018800774512913,
             "blockIdx": 10
         },
@@ -132,6 +302,29 @@
             "jpText": "アグネスタキオンはひとしきり笑うと――\r\n空を仰ぎ、何やら呟いた。",
             "enText": "Agnes Tachyon laughed for a moment, then\nlooked up at the sky and muttered something.",
             "nextBlock": 12,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -5044122678574395116
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1123363664903638722
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6870301873146636205
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -8608602949456060236
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -533360430245589124
+                }
+            ],
             "pathId": 7849130536632194974,
             "blockIdx": 11
         },
@@ -141,6 +334,29 @@
             "jpText": "――タキオン。それは……常に光速より速く\r\n移動すると言われる、仮想の粒子。",
             "enText": "—Tachyons. It's a virtual particle\nthat is said to always travel faster\nthan the speed of light.",
             "nextBlock": 13,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3919454840890703670
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6863007332518219152
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8178044034120622773
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7287805740519421197
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -9214323983193409109
+                }
+            ],
             "pathId": -852135857314032217,
             "blockIdx": 12
         },
@@ -150,6 +366,7 @@
             "jpText": "だが仮想でも示しておくべきだろう。\r\n狂気が生み出す残光を。",
             "enText": "But it should be shown, even virtually. The\nafterglow that madness produces.",
             "nextBlock": 14,
+            "origClipLength": 84,
             "pathId": 4664070129655322038,
             "blockIdx": 13
         },
@@ -159,6 +376,7 @@
             "jpText": "――『皐月賞』。燃焼後、輝かしい残骸が\r\n生まれるに違いない。",
             "enText": "— \"Satsuki-sho\". After the burning, a\nglorious wreckage must be born.",
             "nextBlock": 15,
+            "origClipLength": 85,
             "pathId": -5070606010288241934,
             "blockIdx": 14
         },
@@ -168,6 +386,17 @@
             "jpText": "……………………。",
             "enText": "…",
             "nextBlock": 16,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -6514911961279073355
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 6388549146753188866
+                }
+            ],
             "pathId": -2363718827763298617,
             "blockIdx": 15
         },
@@ -177,6 +406,29 @@
             "jpText": "そして――その夜。",
             "enText": "And - that night.",
             "nextBlock": 17,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -3764779802981175916
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -6247379960475480024
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -1887464620097424225
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -4551728313026687375
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 3386470345799736254
+                }
+            ],
             "pathId": 7418516837115988537,
             "blockIdx": 16
         },
@@ -186,11 +438,26 @@
             "jpText": "トレーナーさん、タキオンさんを\r\n追うなら……次は『皐月賞』……。",
             "enText": "Trainer, if you want to follow\nTachyon, please go to… Next\nis \"Satsuki-sho\"…",
             "nextBlock": 18,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "……いや",
                     "enText": "… No.",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -8027970321333056641
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 1913856993476066432
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 2301548912669292832
                 }
             ],
             "pathId": 8726914126545879373,
@@ -202,6 +469,17 @@
             "jpText": "このまま三冠路線を――とも思ったが、\r\n立ち止まり、冷静に考える。",
             "enText": "I thought about going for the Triple\nCrown, but then I stopped and thought\nabout it calmly.",
             "nextBlock": 19,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -1677904440972185041
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 751791461013437423
+                }
+            ],
             "pathId": 3933608927427799699,
             "blockIdx": 18
         },
@@ -211,6 +489,21 @@
             "jpText": "昼間のあのアグネスタキオンの不敵な様子。\r\nそして……。",
             "enText": "The fearlessness of that Agnes Tachyon in\nthe daytime. And…",
             "nextBlock": 20,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 4798702085237657226
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -5712150879001956801
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -7649936892095701280
+                }
+            ],
             "pathId": -8771887873480080957,
             "blockIdx": 19
         },
@@ -220,6 +513,7 @@
             "jpText": "うっ、うぅぅぅ……ケホっ、ううう……。",
             "enText": "Ugh, ugh… keho, ugh…",
             "nextBlock": 21,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "今日のレース、応えたんじゃないのか？",
@@ -232,6 +526,20 @@
                     "nextBlock": 21
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -3019802947985167049
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 7594164173958408597
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7797067614805228005
+                }
+            ],
             "pathId": 7700962060203008206,
             "blockIdx": 20
         },
@@ -241,6 +549,21 @@
             "jpText": "は、はい……。少し……。",
             "enText": "is, yes… A little…",
             "nextBlock": 22,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -8909176717013134851
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -3854961250443783617
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -1971040103030059355
+                }
+            ],
             "pathId": -8207455923448111066,
             "blockIdx": 21
         },
@@ -250,6 +573,21 @@
             "jpText": "やせ細った体に、今日の激走は相当\r\n響いたようだ。いかに道は見えたとはいえ\n間近のGⅠを目指すのは無理がある。",
             "enText": "It seems that today's hard run had a\nconsiderable impact on her skinny body. Even\nthough she has found her way, it is\nimpossible for her to aim for the Grade 1\nrace in the near future.",
             "nextBlock": 23,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6436010608647615203
+                },
+                {
+                    "origLen": 156,
+                    "pathId": 7620686686730606685
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -1179542653980091844
+                }
+            ],
             "pathId": -9197375498558116645,
             "blockIdx": 22
         },
@@ -259,6 +597,21 @@
             "jpText": "では……ダービー……。",
             "enText": "Then go to… derby…",
             "nextBlock": 24,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 5089912130916552662
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 4827883479008039974
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -8104190567285995097
+                }
+            ],
             "pathId": -7762080110338912962,
             "blockIdx": 23
         },
@@ -268,10 +621,25 @@
             "jpText": "確かに『日本ダービー』は、なんとか\r\nマンハッタンカフェに取らせたいレースだ。",
             "enText": "It's true that the Japan Derby is a race\nthat I want Manhattan Cafe to win somehow.",
             "nextBlock": 25,
+            "origClipLength": 95,
             "coloredText": [
                 {
                     "jpText": "日本ダービー",
                     "enText": "Japan Derby"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": 3551425584024186793
+                },
+                {
+                    "origLen": 152,
+                    "pathId": -6292010269132051542
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 563902427283365284
                 }
             ],
             "pathId": -7848108753957725772,
@@ -283,6 +651,21 @@
             "jpText": "それでも目標とするなら、越えられるかは\r\nイチかバチかの賭けになる……。",
             "enText": "If you still want to make it a goal, it's a\ngamble that you can't afford to take…",
             "nextBlock": 26,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 6510539591898000094
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -1581189665168220641
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 3282561653169398359
+                }
+            ],
             "pathId": 6433060918788637778,
             "blockIdx": 25
         },
@@ -292,6 +675,17 @@
             "jpText": "……すみません、トレーナーさん。\r\n私が……ふがいないばかりに……。",
             "enText": "I'm… sorry, trainer. I'm just…\nunhappy with my…",
             "nextBlock": 27,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": 348473860395806373
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3235445896776007219
+                }
+            ],
             "pathId": -2680251690257758811,
             "blockIdx": 26
         },
@@ -301,6 +695,17 @@
             "jpText": "優しさに……甘えたくは……。ここが……\r\n大切なところなのに……。ケホっ……。",
             "enText": "I don't want to… be spoiled by\nkindness. This is… the important part,\nbut… Kehooks…",
             "nextBlock": 28,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -9093189690787763180
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -376030747816338151
+                }
+            ],
             "pathId": -9089573511081152597,
             "blockIdx": 27
         },
@@ -310,11 +715,26 @@
             "jpText": "いったん落ち着いて考える。\r\nじっくり大成してもらうなら……。",
             "enText": "Take a moment to calm down and think.\nIf you want to take your time to make\nit big, go to…",
             "nextBlock": 29,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "秋の『セントライト記念』にしよう",
                     "enText": "Let's make it the \"Centright\nMemorial\" of autumn.",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -6364283735337087526
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -2936137011942128303
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 7806345842993331935
                 }
             ],
             "pathId": -7009806764660348409,
@@ -326,10 +746,25 @@
             "jpText": "秋……。『菊花賞』の前哨戦……。\r\nそこまで……。",
             "enText": "Autumn… The prelude to Kikka-sho:\n… So far…",
             "nextBlock": 30,
+            "origClipLength": 77,
             "coloredText": [
                 {
                     "jpText": "菊花賞",
                     "enText": "Chrysanthemum Awards"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1401608792798511415
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 4808449756150430851
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -1849738213439474507
                 }
             ],
             "pathId": -5786367499197904551,
@@ -341,11 +776,26 @@
             "jpText": "でも……それでは……。\r\nあの……せめてダービー……。",
             "enText": "But… that's not… enough. That\n… at least a derby…",
             "nextBlock": 31,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "そこは様子を見ながら考えよう",
                     "enText": "We'll see what happens there.",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -2651531566090588615
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -5399672869153495228
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -8608313657735675867
                 }
             ],
             "pathId": -2235374498802092465,
@@ -357,6 +807,21 @@
             "jpText": "様子を……。",
             "enText": "You can check out the situation at…",
             "nextBlock": 32,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 4962587538026770384
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -140632182752032573
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -5354547088995870216
+                }
+            ],
             "pathId": -4759981798303625477,
             "blockIdx": 31
         },
@@ -366,6 +831,21 @@
             "jpText": "はい、ではもし間に合ったら、で……。",
             "enText": "Yes, so if you can make it, go to…",
             "nextBlock": 33,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -2059699806209102502
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 2929939995994656268
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 2157425082616307491
+                }
+            ],
             "pathId": 402326838243144192,
             "blockIdx": 32
         },
@@ -375,14 +855,30 @@
             "jpText": "目標は『セントライト記念』で、\r\n『日本ダービー』は可能なら。それが\nトレーナーとして描けた精一杯の地図だった。",
             "enText": "My goal was to win the St. Light Memorial,\nand if possible, the Japan Derby. That was\nthe best map I could draw as a trainer.",
             "nextBlock": -1,
+            "origClipLength": 118,
             "coloredText": [
                 {
                     "jpText": "セントライト記念",
                     "enText": "Centraight Memorial"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5456627538763722443
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3289805020265712424
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 107041973488531571
+                }
+            ],
             "pathId": -6526218801505771194,
             "blockIdx": 33
         }
-    ]
+    ],
+    "modified": 1669946356
 }

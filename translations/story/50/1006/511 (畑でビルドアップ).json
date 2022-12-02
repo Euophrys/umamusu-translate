@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MUOAYIW7YXWGHGORV6EMUFHUXIQTPEEV",
     "type": "story",
     "storyId": "501006511",
@@ -11,6 +11,7 @@
             "jpText": "ある日、ジャージでどこかへ向かう\r\nオグリキャップとメジロライアンを見かけた。",
             "enText": "One day, I saw Oguri Cap and Mejiro Ryan \nheading somewhere in their jerseys.",
             "nextBlock": 2,
+            "origClipLength": 70,
             "choices": [
                 {
                     "jpText": "一緒にトレーニングするのか？",
@@ -23,6 +24,24 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -1333816925099713400
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 9114370305827212714
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 5007079490949210958
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -4702174507500939095
+                }
+            ],
             "pathId": -6121375459668135699,
             "blockIdx": 1
         },
@@ -32,6 +51,25 @@
             "jpText": "いまからトマトの種まきをやるんだ。",
             "enText": "Now I'm going to plant tomato seeds.",
             "nextBlock": 3,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 1846074962729478955
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 4161208473483960141
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -6195341176337670721
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 6686510598518667277
+                }
+            ],
             "pathId": 1784683193953475341,
             "blockIdx": 2
         },
@@ -41,6 +79,25 @@
             "jpText": "元々、あたしが理事長のお手伝いを\r\n1人でやろうとしてたんです。そしたら……。",
             "enText": "Originally, I was trying to help the \npresident by myself. Then I found…",
             "nextBlock": 4,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 2819159521149982670
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 7329243989557805591
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 5582751596622493584
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 1524239314959076073
+                }
+            ],
             "pathId": -3569714766595870905,
             "blockIdx": 3
         },
@@ -50,6 +107,25 @@
             "jpText": "1人じゃ大変だからって、オグリさんが\r\n手伝ってくれることになって！",
             "enText": "Ms. Oguri said it'd be too hard for me to do \nit alone, so she agreed to help me!",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 6282398007702283607
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -5576178336473782970
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 3803257608926451805
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7771251383733249566
+                }
+            ],
             "pathId": -887293043230695701,
             "blockIdx": 4
         },
@@ -59,11 +135,30 @@
             "jpText": "種まきは、故郷でやったことがあるんだ。",
             "enText": "I've done some sowing back home.",
             "nextBlock": 6,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "手伝おうか？",
                     "enText": "Do you need help?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -6323930625885028043
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 926340458344972310
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 7521967839790281361
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -5315903790070809986
                 }
             ],
             "pathId": -9092402680177525652,
@@ -75,6 +170,25 @@
             "jpText": "いいのか？\r\nそれなら助かる。",
             "enText": "Are you sure? That would be great.",
             "nextBlock": 7,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -7772529533643729748
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 3430260703080849126
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 1851690215153329139
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 3918257155020411949
+                }
+            ],
             "pathId": 9015819854630658175,
             "blockIdx": 6
         },
@@ -84,6 +198,25 @@
             "jpText": "ありがとうございます！",
             "enText": "Thank you!",
             "nextBlock": 8,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 7787752105288423685
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 8166589756758817146
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -2174277680411081264
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -3337105107429100304
+                }
+            ],
             "pathId": 1326353176476512567,
             "blockIdx": 7
         },
@@ -93,6 +226,25 @@
             "jpText": "『3人揃えば、持ち上げられない\r\nバーベルはない』って言いますからねっ！",
             "enText": "As they say, \"There's no barbell you can't \nlift if you have three people.\"",
             "nextBlock": 9,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -8751132972906421601
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -7395759108601300434
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 3650179467862155799
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4969332497084530353
+                }
+            ],
             "pathId": -2891421271481595865,
             "blockIdx": 8
         },
@@ -102,6 +254,25 @@
             "jpText": "そんなことわざがあるのか。\r\n知らなかった……。",
             "enText": "I didn't know there was such a \nsaying. I didn't know that…",
             "nextBlock": 10,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 7054790736162499497
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -9141126578151840378
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -1176034614070388489
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 8967116588679758181
+                }
+            ],
             "pathId": -4363880360293983273,
             "blockIdx": 9
         },
@@ -111,6 +282,25 @@
             "jpText": "さて、まずは畑を均さないとな。",
             "enText": "Well, first we have to level the field.",
             "nextBlock": 11,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 2902005477045819956
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2731727548814711872
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -511489133072838411
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -3135202328754508815
+                }
+            ],
             "pathId": 2463883931470432969,
             "blockIdx": 10
         },
@@ -120,6 +310,25 @@
             "jpText": "雑草もちょっとありますね。",
             "enText": "There are also a few weeds.",
             "nextBlock": 12,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 3513857418438170547
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 4747602347594101302
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -3134613509780447670
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -1171964510785427038
+                }
+            ],
             "pathId": -299320424998048477,
             "blockIdx": 11
         },
@@ -129,6 +338,25 @@
             "jpText": "放っておくと種が育ちませんから、\r\n抜いておかないと……。",
             "enText": "If you leave it alone, the seeds won't grow, \nso you have to pull it out…",
             "nextBlock": 13,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -6835280323279016427
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 4015261836853821778
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 3423472521665158738
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4371800907970263663
+                }
+            ],
             "pathId": -2723792010902893424,
             "blockIdx": 12
         },
@@ -138,6 +366,25 @@
             "jpText": "中腰での作業は、\r\nなかなか根気が要りそうだ……。",
             "enText": "It's going to take a lot of patience \nto work from the waist down…",
             "nextBlock": 14,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -8017267059533198284
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -1068899359853020836
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -6263095600737838719
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -5951029459694206771
+                }
+            ],
             "pathId": 6530945965021002765,
             "blockIdx": 13
         },
@@ -147,6 +394,25 @@
             "jpText": "中腰……要するに、\r\nスクワットの姿勢での作業……。",
             "enText": "Middle back… In short, work \nin a squatting position…",
             "nextBlock": 15,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -6854266094177116921
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 3601978445149134794
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1584705639503175006
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -1039377006148104419
+                }
+            ],
             "pathId": -7241424684421915981,
             "blockIdx": 14
         },
@@ -156,6 +422,25 @@
             "jpText": "それはハムストリングスが、\r\nとっても喜びそうですねっ！",
             "enText": "My hamstrings are going to \nbe so happy to hear that!",
             "nextBlock": 16,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -5606613093655997818
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -2180700562358183112
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -293083293212599071
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 8110118201065121491
+                }
+            ],
             "pathId": 3100191235958999772,
             "blockIdx": 15
         },
@@ -165,6 +450,25 @@
             "jpText": "ハム……確かに、\r\nトマトと相性がよさそうだな。",
             "enText": "Ham… sure looks like it would \ngo well with tomatoes.",
             "nextBlock": 17,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 6390399816029615580
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 2957755647523299503
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -1435003011744880738
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -930253836238610905
+                }
+            ],
             "pathId": 7662862121936079363,
             "blockIdx": 16
         },
@@ -174,6 +478,25 @@
             "jpText": "ええ！　筋疲労にトマトは大正解ですよ！",
             "enText": "Yes! Tomatoes are a great answer \nto muscle fatigue!",
             "nextBlock": 18,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 4495119808733321963
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -2943833277520609795
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -8231501537640252339
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -9114492017904794793
+                }
+            ],
             "pathId": -219417631663872248,
             "blockIdx": 17
         },
@@ -183,6 +506,25 @@
             "jpText": "うん……ハムトマトのためにも、\r\nまずは目の前の作業だ。",
             "enText": "Yeah… For the sake of the ham tomatoes, \nlet's get on with the task at hand.",
             "nextBlock": 19,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 4146959710201598328
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 4858077668824948743
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -1352630287360822257
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8984007949611946473
+                }
+            ],
             "pathId": -2043697103388045304,
             "blockIdx": 18
         },
@@ -192,6 +534,7 @@
             "jpText": "しかし、思ったよりもやる事が多いな。\r\nトレーナー、私はどうすればいいと思う？",
             "enText": "But you've got more work to do \nthan you think. Trainer, what \ndo you think I should do?",
             "nextBlock": 20,
+            "origClipLength": 70,
             "choices": [
                 {
                     "jpText": "雑草を抜いてしまおう",
@@ -204,6 +547,24 @@
                     "nextBlock": 31
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -5745468328643446677
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 6067993626469775706
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -8923408023845708121
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 1210387641563163925
+                }
+            ],
             "pathId": -1026424609276028934,
             "blockIdx": 19
         },
@@ -213,6 +574,25 @@
             "jpText": "雑草を抜けばいいんだな。\r\nライアンは、畑を均してくれ。",
             "enText": "I guess we'll just have to pull the weeds. \nRyan, you need to level the field.",
             "nextBlock": 21,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 1036943769581705038
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 5917305792044445484
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 8391364260642292021
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -5846881144465640773
+                }
+            ],
             "pathId": 6566775769302676584,
             "blockIdx": 20
         },
@@ -222,6 +602,25 @@
             "jpText": "任せてください！",
             "enText": "I'm on it!",
             "nextBlock": 22,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 6780230692652272580
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -25068331093309335
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -1237596234857078420
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -2049356281783048085
+                }
+            ],
             "pathId": -5939724620238684640,
             "blockIdx": 21
         },
@@ -231,6 +630,29 @@
             "jpText": "その後、オグリキャップと\r\n周辺の雑草を抜いて回った。",
             "enText": "Afterwards, Oguri-cap and I went around \npulling weeds in the area.",
             "nextBlock": 23,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -6810223921602303661
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 8160879894332097203
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2913480603900802303
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 7778385381365518271
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -6765512914785175755
+                }
+            ],
             "pathId": 7102257058690434776,
             "blockIdx": 22
         },
@@ -240,6 +662,29 @@
             "jpText": "ふぅ……膝が震えている……。\r\n思ったよりも体力を使うんだな。",
             "enText": "Whew… my knees are shaking… I guess it takes \nmore energy than I thought.",
             "nextBlock": 24,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 684925346687343353
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 930512185302673340
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 7039509670926891124
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6088748752395393965
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -8038134945962924356
+                }
+            ],
             "pathId": 1408331918132827085,
             "blockIdx": 23
         },
@@ -249,6 +694,29 @@
             "jpText": "それは、筋肉が喜んでいる声ですよ！",
             "enText": "That's the sound of happy muscles!",
             "nextBlock": 25,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 670548151858806990
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 1981068598726674465
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 6832819822629677736
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -7182700802645453874
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 4679755963235733408
+                }
+            ],
             "pathId": 1355238514609052927,
             "blockIdx": 24
         },
@@ -258,6 +726,25 @@
             "jpText": "筋肉の声……喋るのか！？",
             "enText": "The Voice of Muscle… You talk!",
             "nextBlock": 26,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -974634152549468944
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 4542934990397806529
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7850275272164116198
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 108168875121680447
+                }
+            ],
             "pathId": 4005062580511050463,
             "blockIdx": 25
         },
@@ -267,6 +754,25 @@
             "jpText": "そうなのか。\r\n私は聞いたことがないが……。",
             "enText": "Is that so? I've never heard of…",
             "nextBlock": 27,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -2873112031287606651
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -6371503008807009299
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 5168133444179207203
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -6562981534416374365
+                }
+            ],
             "pathId": -4604890580530122167,
             "blockIdx": 26
         },
@@ -276,6 +782,25 @@
             "jpText": "その状態で動いたら、筋肉は\r\nもっと喜んでくれると思いますよ！",
             "enText": "I'm sure your muscles will be more than \nhappy to move in that state!",
             "nextBlock": 28,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -8544542320081974617
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6379081024008223265
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 3566852140312033339
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1531456330551923637
+                }
+            ],
             "pathId": 1002180779870287623,
             "blockIdx": 27
         },
@@ -285,6 +810,29 @@
             "jpText": "さぁ、種まきをしましょう！\r\nそして、ぜひ声を聞いてあげてください。",
             "enText": "Come on, let's plant some seeds! And please \nlisten to their voices.",
             "nextBlock": 29,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -6858367611674030407
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3728673827387515065
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -6383950248853504434
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -4881802670472274740
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -5818091611545066722
+                }
+            ],
             "pathId": -4253827008810639973,
             "blockIdx": 28
         },
@@ -294,6 +842,29 @@
             "jpText": "筋肉……どんな声なんだろう。",
             "enText": "Muscles… What does she sound like?",
             "nextBlock": 30,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 2900013003141039685
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 4839175558771530516
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -7651533330566575142
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -5846661520959371730
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -7279605286635306983
+                }
+            ],
             "pathId": -7711498671773656581,
             "blockIdx": 29
         },
@@ -303,6 +874,29 @@
             "jpText": "その後も2人のかみ合っているようで、\r\nかみ合わない会話を聞きながら、\nトマトの種まきを続けたのであった。",
             "enText": "We continued to sow tomato seeds, listening \nto their conversation which seemed to be on \nthe same page… of a different book.",
             "nextBlock": -1,
+            "origClipLength": 79,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -6125889039858961187
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 27041419568684385
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -4954490201630026083
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 8882308714198229241
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -6502258406239642403
+                }
+            ],
             "pathId": 5973086754109258710,
             "blockIdx": 30
         },
@@ -312,6 +906,25 @@
             "jpText": "わかった。私が畑を均すから、\r\nライアンは雑草を頼む。",
             "enText": "All right. I'll level the field, \nyou take care of the weeds.",
             "nextBlock": 32,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -3486759870306995924
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 5483299879786009221
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -3405435638494856326
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -3680932147598324709
+                }
+            ],
             "pathId": 3631341767423601689,
             "blockIdx": 31
         },
@@ -321,6 +934,25 @@
             "jpText": "ええ、スクワットの方ですねっ！\r\n任せてください！",
             "enText": "Yeah, you're the squatter! I'm on it!",
             "nextBlock": 33,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 8892286356662077287
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -618045725802351641
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 2013381148540019812
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 1934221642829320546
+                }
+            ],
             "pathId": 1852067831459350302,
             "blockIdx": 32
         },
@@ -330,6 +962,25 @@
             "jpText": "あ、いや……\r\n雑草を抜いてほしいんだが……。",
             "enText": "Oh, no… I need you to pull some weeds…",
             "nextBlock": 34,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 88989065534292216
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -2595430778824719933
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 4402659080731380773
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 8527043403470929452
+                }
+            ],
             "pathId": 6847707612239114343,
             "blockIdx": 33
         },
@@ -339,11 +990,30 @@
             "jpText": "私の説明が悪かったのだろうか？",
             "enText": "Was I not explaining myself well?",
             "nextBlock": 35,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "たぶん伝わってるよ",
                     "enText": "Maybe they get the message.",
                     "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 6563093946276581751
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 1540339649972359590
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 725209729276766329
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6839118709204269267
                 }
             ],
             "pathId": 3918696485604574267,
@@ -355,6 +1025,25 @@
             "jpText": "そうか……？\r\nまあいい、私は私の作業をするか。",
             "enText": "Yeah…? Oh well, I guess \nI'll just do my thing.",
             "nextBlock": 36,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -5077758800539579061
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 160735361381341420
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -130054517065468666
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 4296919381803328069
+                }
+            ],
             "pathId": -7666879626242031539,
             "blockIdx": 35
         },
@@ -364,6 +1053,29 @@
             "jpText": "その後、オグリキャップと\r\n畑を均した。",
             "enText": "After that, Oguri-cap and \nI leveled the field.",
             "nextBlock": 37,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 1296500620371267038
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 4376602429175677031
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -1673756936211501272
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5191345518123172545
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 3004066059547196995
+                }
+            ],
             "pathId": 7369439524172523945,
             "blockIdx": 36
         },
@@ -373,6 +1085,29 @@
             "jpText": "ふぅ、中々大変な作業だったな。\r\nもう腕の力が入らない……。",
             "enText": "Phew, that was some hard work. I don't have \nthe strength in my arms anymore…",
             "nextBlock": 38,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 5517581515292869221
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 7190008368687061958
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 5773358022880242559
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -4579169922531222850
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2623000614090515573
+                }
+            ],
             "pathId": 269273225134262123,
             "blockIdx": 37
         },
@@ -382,6 +1117,29 @@
             "jpText": "それは筋肉が成長している証拠ですよ。\r\nやりましたね、オグリさん！",
             "enText": "That's proof that your muscles are \ngrowing. You did it, Ms. Oguri!",
             "nextBlock": 39,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 3153367050119847264
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -6927909432452217645
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 4894493784664428550
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -8512136892159533654
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6762470196581178497
+                }
+            ],
             "pathId": -398077310887430928,
             "blockIdx": 38
         },
@@ -391,6 +1149,25 @@
             "jpText": "あたしも、いつも以上にハムストリングスの\r\n成長を感じているところですよ！",
             "enText": "I'm also feeling my hamstrings \ngrow even more than usual!",
             "nextBlock": 40,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 948849346138539761
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4443875941265904806
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 6849911322599874707
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3006651586619425593
+                }
+            ],
             "pathId": -518983387411458825,
             "blockIdx": 39
         },
@@ -400,6 +1177,25 @@
             "jpText": "うん……？　よくわからないが、\r\nハムトマトがよほど好きなんだな……。",
             "enText": "Yeah…? I don't know about you, but I'm \nguessing you like ham and tomatoes a lot…",
             "nextBlock": 41,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 4604680113700558611
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3767657309511536815
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -410043432784043744
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4434674179623244961
+                }
+            ],
             "pathId": 1438392426996379302,
             "blockIdx": 40
         },
@@ -409,6 +1205,25 @@
             "jpText": "私も、あれは好きだ。\r\n喜ぶ気持ちはわかる……収穫が楽しみだな。",
             "enText": "I like that one, too. I can see \nwhy you're pleased. … I'm looking \nforward to the harvest.",
             "nextBlock": 42,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -5686150690679148693
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7727805655829394237
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1101407700982650599
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -1464127371575706905
+                }
+            ],
             "pathId": 7695191216998005899,
             "blockIdx": 41
         },
@@ -418,8 +1233,28 @@
             "jpText": "その後も2人のかみ合っているようで、\r\nかみ合わない会話を聞きながら、\nトマトの種まきを続けたのであった。",
             "enText": "We continued to sow tomato seeds, listening \nto their conversation which seemed to be on \nthe same page… of a different book.",
             "nextBlock": -1,
+            "origClipLength": 79,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 1542761516636252582
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -949726633316415957
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6739823022462441757
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -340744488421980721
+                }
+            ],
             "pathId": 4888621890246528022,
             "blockIdx": 42
         }
-    ]
+    ],
+    "modified": 1669944980
 }

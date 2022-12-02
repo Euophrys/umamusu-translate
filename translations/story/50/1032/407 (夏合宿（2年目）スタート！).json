@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OR6K6QRDUDGQGTUC6DA6Q5HYZ3UYHZQE",
     "type": "story",
     "storyId": "501032407",
@@ -11,6 +11,17 @@
             "jpText": "普通のウマ娘なら、実力向上を図るための\r\n夏合宿期間。だが――",
             "enText": "In the case of a normal Uma Musume, it's a\nsummer training camp to improve her\nskills. But…",
             "nextBlock": 2,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": 8179762990530144930
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -3908246748588367947
+                }
+            ],
             "pathId": -6366697378428353166,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "アグネスタキオンはいつも通り、\r\nこの時期にしかできない実験が山ほどあると\n嬉々とした笑みを浮かべる。",
             "enText": "Agnes Tachyon, as usual, smiles happily,\nsaying that there are so many experiments\nthat can only be done this time of year.",
             "nextBlock": 3,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 147,
+                    "pathId": -5565209894919429875
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -6607425761284803489
+                }
+            ],
             "pathId": -539545397550078417,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "そんなアグネスタキオンとの……\r\n波乱の夏合宿がスタートした！",
             "enText": "With such Agnes Tachyon,… the\ntumultuous summer camp has begun!",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 147,
+                    "pathId": -6911726802317310056
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -7952043987708126744
+                }
+            ],
             "pathId": -5894707236818150915,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945580
 }

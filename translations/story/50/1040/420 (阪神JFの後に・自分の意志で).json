@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "EDC4BF6WSMLRK7WYFODLVVOPQ6VCKMIN",
     "type": "story",
     "storyId": "501040420",
@@ -11,6 +11,7 @@
             "jpText": "『阪神JF』を走り終えたゴールドシチー。\r\n観客もおおいに沸き、声援を送った。",
             "enText": "Gold City finished the \"Hanshin JF\". The \ncrowd was very excited and cheered her on.",
             "nextBlock": 2,
+            "origClipLength": 95,
             "pathId": -1844966912125108034,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "『キレイ』『美しい』――\nその言葉を聞いたゴールドシチーは\n変わらない評価に苛立つ。",
             "enText": "Beautiful\" and \"beautiful\" - Gold City is \nannoyed by the unchanging evaluations.",
             "nextBlock": 3,
+            "origClipLength": 99,
             "pathId": 5544998726071710895,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "周囲は“走り”ではなくトリプルティアラを\n被ったキレイな自分を見たいだけらしい。\n期待に応えるだけでは、意志のないお人形だ。",
             "enText": "People around her want to see her beautiful \nself in the triple tiara, not \"running\". If \nyou only live up to expectations, you are a \ndoll without a will.",
             "nextBlock": 4,
+            "origClipLength": 125,
+            "animData": [
+                {
+                    "origLen": 177,
+                    "pathId": 8526329808163873579
+                },
+                {
+                    "origLen": 176,
+                    "pathId": -6789551926181263893
+                }
+            ],
             "pathId": -1745202564014322541,
             "blockIdx": 3
         },
@@ -38,14 +51,26 @@
             "jpText": "彼女は自分の意志で進路を決めたいと話す。\n進むのは『クラシック三冠』。\nまずは『皐月賞』を目指すことになった！",
             "enText": "She talks about wanting to decide her own \ncareer path. She will go on to the \"Triple \nCrown of Classics. First, she will aim for \nthe \"Satsuki-sho\"!",
             "nextBlock": -1,
+            "origClipLength": 116,
             "coloredText": [
                 {
                     "jpText": "皐月賞",
                     "enText": "satsuki azalea (Rhododendron indicum)"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -5288658401856480751
+                },
+                {
+                    "origLen": 176,
+                    "pathId": 8086295056056472821
+                }
+            ],
             "pathId": -2302547569580241285,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945681
 }

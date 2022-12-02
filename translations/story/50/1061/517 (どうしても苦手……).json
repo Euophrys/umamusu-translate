@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "IGFB6SU6J2BP6QBNFQQVKH33APN22NUV",
     "type": "story",
     "storyId": "501061517",
@@ -11,6 +11,17 @@
             "jpText": "トレーニングの休憩がてら、\r\nキングヘイローと公園へとやって来た。",
             "enText": "I took a break from training and came \nto the park with King Halo.",
             "nextBlock": 2,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -9051718143522086718
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 3534923662454911636
+                }
+            ],
             "pathId": 4680135871295742876,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "……今日は風が強いわね。",
             "enText": "… It's very windy today.",
             "nextBlock": 3,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "そんなに気になる？",
                     "enText": "Does it bother you that much?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -3993126896152026056
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 8883193919755561531
                 }
             ],
             "pathId": -7429097410773108193,
@@ -36,6 +58,17 @@
             "jpText": "ええ、風の強い日は砂ぼこりが舞うでしょ？\r\nあれが、イヤなの……。",
             "enText": "Yeah, when it's windy, there's a lot of dust \nin the air, right? I hate that…",
             "nextBlock": 4,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -8409928748366986642
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -2211325178614986082
+                }
+            ],
             "pathId": 1435582688563853781,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "砂が服や髪にまとわりつくし、\r\nそれに、くしゃみも――",
             "enText": "The sand would cling to my clothes \nand hair, and I'd sneeze.",
             "nextBlock": 5,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 2605050173793100491
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -8146407670796823466
+                }
+            ],
             "pathId": 1412264700331658806,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "（ヒュオオオオオ――！）",
             "enText": "(Ohohoho! )",
             "nextBlock": 6,
+            "origClipLength": 87,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 1172630376299778034
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 8848242511973618957
+                }
+            ],
             "pathId": -3381187873720185695,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "――ぶぇっくしょん！！",
             "enText": "—buhk!",
             "nextBlock": 7,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 3996267997764236381
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 3099757296679037760
+                }
+            ],
             "pathId": 1343326252357516259,
             "blockIdx": 6
         },
@@ -72,6 +138,17 @@
             "jpText": "言ってるそばから、もうっ！",
             "enText": "I'm just saying, damn it!",
             "nextBlock": 8,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": -608599040231321296
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -4869407056534918653
+                }
+            ],
             "pathId": 8969144670956748423,
             "blockIdx": 7
         },
@@ -81,8 +158,20 @@
             "jpText": "はぁぁ……。\r\nだから砂は嫌いなのよ……。",
             "enText": "Huh… That's why I \ndon't like sand…",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 2244120666641822585
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -5977763798643156979
+                }
+            ],
             "pathId": -7540174811798390433,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945936
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "53U3JD5WFLU365ORDIRGVUVOAVXIQYV4",
     "type": "story",
     "storyId": "501030202",
@@ -11,6 +11,7 @@
             "jpText": "ブ・ル・ボン！　ブ・ル・ボン！",
             "enText": "Vous le bon! Vous le bon!",
             "nextBlock": 2,
+            "origClipLength": 54,
             "pathId": 5021598233598292354,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "これはすごい歓声。開始前から王者の誕生を\r\n期待する声が会場中に広がっています！",
             "enText": "This is a great cheer. Even before it \nstarted, there was anticipation throughout \nthe hall for the birth of the champion!",
             "nextBlock": 3,
+            "origClipLength": 71,
             "pathId": -6273026171584258749,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "今年のダービーウマ娘になるのは誰か？\r\n『日本ダービー』、間もなくスタートです！",
             "enText": "Who will be this year's Derby horse girl? The \nJapan Derby is about to begin!",
             "nextBlock": 4,
+            "origClipLength": 71,
             "pathId": 3336904436392747105,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "みんな、ブルボンさんを\r\n応援してる……。",
             "enText": "Everyone is rooting for Ms. Bourbon…",
             "nextBlock": 5,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "周りの声に惑わされるな",
@@ -50,6 +54,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -2319608110405854133
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8885792166884849257
+                }
+            ],
             "pathId": -5821717919772243721,
             "blockIdx": 4
         },
@@ -59,6 +73,17 @@
             "jpText": "……うん。そうだね。\r\nどんな舞台でも集中していかなきゃ。",
             "enText": "… Yeah. That's right. I have to \nstay focused on every stage.",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -7107623405107492303
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6836226191504532126
+                }
+            ],
             "pathId": -685503601006171869,
             "blockIdx": 5
         },
@@ -68,6 +93,17 @@
             "jpText": "捕まえなきゃいけないのはひとつだけ。\r\n……ブルボンさんの背中だけだもん。",
             "enText": "There's only one thing you need to catch. \nIt's only… Bourbon's back.",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 9008647478362127420
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -3951769851514478464
+                }
+            ],
             "pathId": 4884817568290513478,
             "blockIdx": 6
         },
@@ -77,6 +113,18 @@
             "jpText": "ふぅ……ありがと、お兄さま。\r\nそれじゃあ、いってくるね。",
             "enText": "Phew… Thanks, brother. I'm going to go now.",
             "nextBlock": 8,
+            "origClipLength": 63,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -1228668823567698837
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8340371861541928378
+                }
+            ],
             "pathId": -4127431330120203232,
             "blockIdx": 7
         },
@@ -86,8 +134,21 @@
             "jpText": "ふぅ……ありがと、お姉さま。\r\nそれじゃあ、いってくるね。",
             "enText": "Phew… Thanks, sister. I'm going to go now.",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 2924169498606792661
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6023029830251282973
+                }
+            ],
             "pathId": 8823201587669993672,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945545
 }

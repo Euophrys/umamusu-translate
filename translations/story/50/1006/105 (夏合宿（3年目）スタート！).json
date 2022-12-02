@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "JZLCKYPGJHCLAHBCKM25G4ZLXGL3J7K3",
     "type": "story",
     "storyId": "501006105",
@@ -11,6 +11,17 @@
             "jpText": "今日からいよいよ、\r\n夏合宿が始まる。",
             "enText": "Today is the start of the summer camp.",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -6451906087864520017
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4475703947702825379
+                }
+            ],
             "pathId": -3660220893039803196,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "久しぶりだな、ここへ来るのは……。",
             "enText": "It's been a while since I've been here…",
             "nextBlock": 3,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "景気づけに何か食べるか？",
@@ -32,6 +44,20 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -1642962539607114098
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 1408178934679156115
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -871178508967688887
+                }
+            ],
             "pathId": -641904609065848986,
             "blockIdx": 2
         },
@@ -41,6 +67,21 @@
             "jpText": "……いや、いまはいい。\r\n荷物を置いて、早速トレーニングをしよう。",
             "enText": "… No, not now. Put down your \nbags and get to work.",
             "nextBlock": 4,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 427666940378987153
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 5987631770061449608
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 377067026096770558
+                }
+            ],
             "pathId": 2155866043876434013,
             "blockIdx": 3
         },
@@ -50,6 +91,17 @@
             "jpText": "クリーク、そしてタマ……\r\nライバルたちが、強くなった私を待っている。",
             "enText": "Creek, and Tama… rivals are waiting \nfor me, stronger than ever.",
             "nextBlock": 5,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 7223940926314747185
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -447639230367707160
+                }
+            ],
             "pathId": -7172716411631808524,
             "blockIdx": 4
         },
@@ -59,6 +111,21 @@
             "jpText": "だから……。",
             "enText": "So go to…",
             "nextBlock": 6,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 7553582406435923422
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 2412107805222696972
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7721129377420068571
+                }
+            ],
             "pathId": 5859642252187744774,
             "blockIdx": 5
         },
@@ -68,6 +135,21 @@
             "jpText": "――終わったらたくさん食べよう！",
             "enText": "—Let's eat a lot when we're done!",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -1575443523627117559
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 6488130084812789933
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4792848914737090822
+                }
+            ],
             "pathId": -6254218061526642694,
             "blockIdx": 6
         },
@@ -77,8 +159,20 @@
             "jpText": "こうして、オグリキャップとの\r\n熱い夏合宿が始まった！",
             "enText": "And so began the hot summer \ncamp with Oguri-cap!",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 5745732102786057538
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 213833118327067452
+                }
+            ],
             "pathId": -702928403189908778,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669944966
 }

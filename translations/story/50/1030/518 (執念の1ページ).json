@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "FCL3OLUNESVFK5AQD446TEY566JPIIS6",
     "type": "story",
     "storyId": "501030518",
@@ -11,6 +11,17 @@
             "jpText": "昼休みの終わり際、\r\n広場でライスシャワーを見かけたので、\n話を聞いたところ――",
             "enText": "At the end of my lunch break, I saw a Rice \nshower in the plaza and asked about it.",
             "nextBlock": 2,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -4292295973437265016
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 2372490352536032362
+                }
+            ],
             "pathId": -8672664181167252217,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "ウララちゃんが、見つからなくて……！",
             "enText": "I can't find Urara…!",
             "nextBlock": 3,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "行方不明……！？",
                     "enText": "The line side is unknown…!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -9082388415965823478
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -7737277595981798996
                 }
             ],
             "pathId": -8361833311625254068,
@@ -36,6 +58,17 @@
             "jpText": "あ、いえ……かくれんぼをしてたんだけど、\r\nまだ見つけられなくて……。",
             "enText": "Oh, no, I was playing… hide-and-seek, but I \nstill couldn't find it…",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -2661167665678745695
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -8061743566567425970
+                }
+            ],
             "pathId": -5084400051455433740,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "もう終わりって、いえばいいんだけど……\r\nかくれんぼが台無しになっちゃう……。",
             "enText": "I wish I could tell you that it's over, but … \nhide-and-seek will be ruined…",
             "nextBlock": 5,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -3592473485120910624
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 579585275253673070
+                }
+            ],
             "pathId": 760299357393191707,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "それだと、ウララちゃんに、\r\n『もう遊ばない』っていわれちゃうかも――",
             "enText": "That might make Urara say, \"I'm \nnot playing with you anymore.\"",
             "nextBlock": 6,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -5589918352347763452
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3783810093154675386
+                }
+            ],
             "pathId": -8950571326030361822,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "だから、昼休みのチャイムの前に……\r\n絶対、見つけなきゃ……！",
             "enText": "So, before the lunchtime \nchere, … I must find…!",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 2518006537528400917
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3666039475080089431
+                }
+            ],
             "pathId": -382953507497129536,
             "blockIdx": 6
         },
@@ -72,8 +138,20 @@
             "jpText": "その後、執念でハルウララを見つけ出した\r\nライスシャワーだが、\n体力をとても使ってしまったようだ……。",
             "enText": "After that, Rice Shower found Hal'ura with \npersistence, but it seems that she used up a \nlot of her physical energy…",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -1910965984671944792
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3415706298622584094
+                }
+            ],
             "pathId": 7320935736172325499,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669945557
 }

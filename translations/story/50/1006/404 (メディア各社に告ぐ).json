@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PLJJIAWLRO3RYBN2MHSA3VOIOKT5SOH4",
     "type": "story",
     "storyId": "501006404",
@@ -11,6 +11,17 @@
             "jpText": "記者の取材を受けたオグリキャップだったが、\r\n上手く答えられずに落ち込んでしまう。",
             "enText": "Oguri Cap was interviewed by a reporter, \nbut she couldn't answer well and \nbecame depressed.",
             "nextBlock": 2,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 3028023833427104997
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5509408953232834844
+                }
+            ],
             "pathId": 6760840884639523124,
             "blockIdx": 1
         },
@@ -20,10 +31,33 @@
             "jpText": "一足先にデビューしていたタマモクロスは、\r\n先輩としてオグリキャップに助言を送る。",
             "enText": "Tamamo Cross, who had debuted earlier, gave \nadvice to Oguri Cap as a senior.",
             "nextBlock": 3,
+            "origClipLength": 71,
             "coloredText": [
                 {
                     "jpText": "タマモクロス",
                     "enText": "thammo cloth"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 3994887609028038792
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -8097659674004167371
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 5407367325796933155
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 1959108453089076464
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 4171967128787848570
                 }
             ],
             "pathId": -8932810362814721761,
@@ -35,8 +69,32 @@
             "jpText": "大事なことに気づいたオグリキャップは、\r\n後日の会見で見事な決意表明をしてみせた。",
             "enText": "Realizing what was important, Oguri Cap made \na brilliant statement at a press conference \nlater that day.",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 1350671223263143546
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 7743647336820139064
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -5567297323854011883
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 484644326936350116
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 6416629451019186970
+                }
+            ],
             "pathId": 272761297507243884,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944977
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6GQ6KG3UFII4KPG2LIARP6H2VSD7VNBR",
     "type": "story",
     "storyId": "501040103",
@@ -11,6 +11,17 @@
             "jpText": "夏の間に行われる、実力向上のための\n夏合宿――",
             "enText": "Summer camps are held during the \nsummer months to help students \nimprove their abilities.",
             "nextBlock": 2,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -2082304509383468233
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -2818938887587904216
+                }
+            ],
             "pathId": -564056712437598300,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "――ハイハイ、わかったって。\r\nケガには気をつける。じゃ。",
             "enText": "―Hi, hi, I got it, I got it. I'll be careful \nnot to hurt myself. See you.",
             "nextBlock": 3,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 663445822534642867
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 2716035211503564604
+                }
+            ],
             "pathId": 8376630076639959703,
             "blockIdx": 2
         },
@@ -29,6 +51,21 @@
             "jpText": "マネジとの話ついたよ。\nこれでもう、合宿中は一切連絡ナシ。",
             "enText": "I've talked to Manezi. Now I will have no \nmore contact with her during the camp.",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 4731030191354906227
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 1665892913704122420
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1416915939909603586
+                }
+            ],
             "pathId": 5279895155001003439,
             "blockIdx": 3
         },
@@ -38,6 +75,21 @@
             "jpText": "（プツッ――）",
             "enText": "(Psst―)",
             "nextBlock": 5,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 3570072909477790396
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2030079527115162699
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 468607137297374062
+                }
+            ],
             "pathId": -3017490338595183892,
             "blockIdx": 4
         },
@@ -47,6 +99,7 @@
             "jpText": "トレーニングだけに集中できる。",
             "enText": "You can concentrate only on training.",
             "nextBlock": 6,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "終わるまで電源落としとくのか？",
@@ -59,6 +112,20 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2844549887553493562
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3917349126792154570
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -8564356921726145911
+                }
+            ],
             "pathId": -84269935647285015,
             "blockIdx": 5
         },
@@ -68,6 +135,17 @@
             "jpText": "トーゼン。",
             "enText": "Tozen.",
             "nextBlock": 7,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -395497365845110627
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 3152739513158269919
+                }
+            ],
             "pathId": -8641455587438314947,
             "blockIdx": 6
         },
@@ -77,6 +155,17 @@
             "jpText": "『菊花賞』じゃ、\r\n強くなったアタシを見せなくちゃいけない。",
             "enText": "I have to show them how much stronger \nI am in the Kikka-sho.",
             "nextBlock": 8,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 8282057587432514438
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -8901889692159175755
+                }
+            ],
             "pathId": -6921537381383473006,
             "blockIdx": 7
         },
@@ -86,6 +175,17 @@
             "jpText": "なら、ハンパなことしてらんないっしょ。",
             "enText": "Then you don't have to be a humbug.",
             "nextBlock": 9,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -7661172703588017005
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -3344387474561426358
+                }
+            ],
             "pathId": -1833961006769660353,
             "blockIdx": 8
         },
@@ -95,6 +195,17 @@
             "jpText": "それに、仕事調整してくれた\nマネジに恩返すなら、成長するしかないし。",
             "enText": "Besides, if I want to repay Manege for \ncoordinating my work, I have to grow up.",
             "nextBlock": 10,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -6850017334561550579
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 1499441497883170415
+                }
+            ],
             "pathId": 9085121420631131961,
             "blockIdx": 9
         },
@@ -104,8 +215,20 @@
             "jpText": "改めてだけど、今日からよろしく。\n――アンタもガチで来てよ！",
             "enText": "Once again, nice to meet you from today. \n―And you, too, come on stiff!",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -6851740279933176132
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5146569475893377661
+                }
+            ],
             "pathId": -2592282933020618501,
             "blockIdx": 10
         }
-    ]
+    ],
+    "modified": 1669945663
 }

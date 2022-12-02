@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "GXFKKVCAJ3LY6AJNXU4G4XJD7S3FG27I",
     "type": "story",
     "storyId": "809001003",
@@ -11,6 +11,21 @@
             "jpText": "トレーニング、お疲れ様でした！",
             "enText": "Well done on your training!",
             "nextBlock": 2,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 2754548059965194099
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3367026684728178325
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5213039652818896579
+                }
+            ],
             "pathId": 753079051568180975,
             "blockIdx": 1
         },
@@ -20,6 +35,29 @@
             "jpText": "<chrname>さん、\r\n調子はいかがですか？",
             "enText": "<chrname>, how are you doing?",
             "nextBlock": 3,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -6425037919942905974
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 696452768178289330
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2704816496146148617
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4198861218331989005
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -6453961492310254540
+                }
+            ],
             "pathId": 1546402875648124956,
             "blockIdx": 2
         },
@@ -29,8 +67,28 @@
             "jpText": "トレーナーさんも、ケガなどないよう\r\nどうぞしっかりと労わってあげてくださいね。",
             "enText": "Please take good care of your trainer and \nmake sure she is not injured.",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 1285658154065144367
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -7046655740759008014
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6278504383867117946
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 4817590778590637737
+                }
+            ],
             "pathId": 7691250891375428949,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945975
 }

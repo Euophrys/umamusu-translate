@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QWSQDPVTVP3VTU5IGGSPWWJXROG7MPMW",
     "type": "story",
     "storyId": "801022002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、レース観戦に来たところ――",
             "enText": "One day, I came to watch a race.",
             "nextBlock": 2,
+            "origClipLength": 56,
             "pathId": -5290636546751746517,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "ゴ～～～～～～ルっ！\r\nデッドヒートの末、遂に勝負を制したのは――",
             "enText": "Go～～～～～～l! After a dead heat, the winner is…",
             "nextBlock": 3,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -7287591065145541825
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -4258120360040079111
+                }
+            ],
             "pathId": -3922428378520063401,
             "blockIdx": 2
         },
@@ -29,6 +41,17 @@
             "jpText": "すっごーいっ！　やっぱりレースって刺激的！\r\nそうだ、せっかくだから記念写真を――",
             "enText": "It's amazing! Racing is so exciting! Oh, and \nwe've got to take a photo…",
             "nextBlock": 4,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 1170457544797354082
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 6772355748242220267
+                }
+            ],
             "pathId": 3643135423371728317,
             "blockIdx": 3
         },
@@ -38,6 +61,7 @@
             "jpText": "あっ、そこのキミ！\r\n私の写真撮ってくれないかな？",
             "enText": "Oh, you there! Can you take my photo?",
             "nextBlock": 5,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "俺？",
@@ -50,6 +74,20 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 5829506209159728679
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 3341517246468227230
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2118630648716751828
+                }
+            ],
             "pathId": -3210823100360545064,
             "blockIdx": 4
         },
@@ -59,6 +97,21 @@
             "jpText": "レース場が見えるように！　よろしくね～！",
             "enText": "As you can see the racetrack! Best regards!",
             "nextBlock": 6,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -426557954270518215
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -8932352974755335603
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 1084533974249667923
+                }
+            ],
             "pathId": 6778182484787192619,
             "blockIdx": 5
         },
@@ -68,6 +121,17 @@
             "jpText": "こうして流されるままに、\r\nファインモーションの写真を撮影し――",
             "enText": "And so I was carried along, taking \nfine motion pictures.",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7587033360185430804
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7440679910794568917
+                }
+            ],
             "pathId": 915706740658745533,
             "blockIdx": 6
         },
@@ -77,11 +141,22 @@
             "jpText": "わあっ、素敵な写真！\r\nこれは……うん、思い出クローバー3つだね！",
             "enText": "Wow, lovely pics! This is… Yeah, \nthree memory clovers!",
             "nextBlock": 8,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "思い出クローバー？",
                     "enText": "Memory Clover?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 4137803636223136668
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 3654910700232592106
                 }
             ],
             "pathId": 1595790873935454014,
@@ -93,6 +168,17 @@
             "jpText": "私、クローバーが大好きなんだ。\r\n素敵な出来事があると、それで採点するの。",
             "enText": "I love clover. Whenever something nice \nhappens, I grade it with it.",
             "nextBlock": 9,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -3421073146964200671
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4093027595719455562
+                }
+            ],
             "pathId": -3556266814697609679,
             "blockIdx": 8
         },
@@ -102,6 +188,17 @@
             "jpText": "アイルランドに帰るまでに、\r\nこの国でもたくさんクローバーを集めたくて。",
             "enText": "I want to collect as many clovers as I can \nin this country before I go back to Ireland.",
             "nextBlock": 10,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -317796654130462678
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -577526091882799389
+                }
+            ],
             "pathId": -8419015679739463222,
             "blockIdx": 9
         },
@@ -111,6 +208,17 @@
             "jpText": "お城の外の自由な世界！\r\nこんな体験、なかなかできないでしょ？\nだから、たくさん写真を撮ってるんだ。",
             "enText": "A free world outside the castle! It's not \neasy to experience something like this, is \nit? That's why we take so many photos.",
             "nextBlock": 11,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -270098854837018354
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 8083021514043480547
+                }
+            ],
             "pathId": 6935745355552845264,
             "blockIdx": 10
         },
@@ -120,6 +228,7 @@
             "jpText": "ねっ。次はどこに行けば、\r\n素敵なシャッターチャンスに出会えると思う？",
             "enText": "Hey! Where do you think we should go next \nfor a great photo opportunity?",
             "nextBlock": 12,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "最終コーナー",
@@ -132,6 +241,16 @@
                     "nextBlock": 15
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -3835294216708109666
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -294509558045482411
+                }
+            ],
             "pathId": 4497782795540193480,
             "blockIdx": 11
         },
@@ -141,6 +260,17 @@
             "jpText": "そっか！　いよいよゴールが迫ってきて、\r\n仕掛けるタイミングを見計らいだすところっ！",
             "enText": "That's it! We're getting close to \nthe finish line, and we need to \nknow when to make our move!",
             "nextBlock": 13,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -8645641581973402653
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 1417364267082809609
+                }
+            ],
             "pathId": 7422018630954693594,
             "blockIdx": 12
         },
@@ -150,6 +280,17 @@
             "jpText": "コーナーを回ってみんなの姿が見えてくるの、\r\nすごい迫力だよね！　いつも驚いちゃう！",
             "enText": "It's so powerful, coming round the corner \nand seeing everyone! It's always amazing!",
             "nextBlock": 14,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -4293009460210967750
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -5024067825070125528
+                }
+            ],
             "pathId": -2781640395690835504,
             "blockIdx": 13
         },
@@ -159,6 +300,17 @@
             "jpText": "うんっ。綺麗に写真に撮れたら、\r\n素敵な思い出になりそうだな～♪",
             "enText": "Yes. If I can get a good picture of it, it \nwill be a great memory…",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -5489427016229692836
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -5770019957061280260
+                }
+            ],
             "pathId": -747359170944030279,
             "blockIdx": 14
         },
@@ -168,6 +320,17 @@
             "jpText": "あぁ～！　最後の気力を振り絞って、\r\nみんな勝つために必死に走ってるところ！",
             "enText": "Aah! We're all running for our lives, \ntrying to win with every last ounce \nof energy we have!",
             "nextBlock": 16,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -2824822856382735953
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 1875612358850353883
+                }
+            ],
             "pathId": 8958597046630710272,
             "blockIdx": 15
         },
@@ -177,6 +340,17 @@
             "jpText": "うん、すっごく素敵な思い出になりそう！\r\nこれは楽しみになってきたっ。",
             "enText": "Yeah, it's going to be a great memory! I'm \nreally looking forward to it.",
             "nextBlock": 17,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -4727567005993767632
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3339247485896018162
+                }
+            ],
             "pathId": 5359339682355374096,
             "blockIdx": 16
         },
@@ -186,8 +360,24 @@
             "jpText": "じゃあ、綺麗に撮れる場所を探さなくっちゃ。\r\nあっちの方がいいかなあ？",
             "enText": "Now I have to find a place where \nI can get a good shot. Do you think \nit's better that way?",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 1313939466609896918
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 7352910012201819936
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 96270668120359388
+                }
+            ],
             "pathId": -6398152414324462887,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669945953
 }

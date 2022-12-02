@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "GJ3NL5YVWOUOV5OG7JNGBLPACRVHAB5H",
     "type": "story",
     "storyId": "501032101",
@@ -11,6 +11,7 @@
             "jpText": "新年。相変わらず、他のウマ娘に比べ\r\nレースに対して低い熱量だと理解しつつも――",
             "enText": "New Year. I understand that you're still\nless enthusiastic about racing than the\nother girls, but…",
             "nextBlock": 2,
+            "origClipLength": 71,
             "pathId": 6883658599717493986,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "あくまで今年の目標は『クラシック三冠』を\r\n掲げることにした。",
             "enText": "I decided to set my goal for this year as\n\"Triple Crown Classic.",
             "nextBlock": 3,
+            "origClipLength": 65,
             "pathId": -7454761316482954687,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "彼女にやる気がないわけではないことは、\r\nわかっていたし――",
             "enText": "I knew she wasn't unmotivated, and—",
             "nextBlock": 4,
+            "origClipLength": 64,
             "pathId": 6643130402692019041,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "なにより、さらなる速さを求めるのなら、\r\nレースを使わない手はない。",
             "enText": "Above all, if you want to go faster, you\nhave to use the race.",
             "nextBlock": 5,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "（レースではきっと、もっと成長できる！）",
@@ -54,6 +58,7 @@
             "jpText": "ということで、そろそろレースに集中したく、\r\nいわゆる『目標の見える化』を狙い、\n書初めをしてみたのだが――",
             "enText": "So, in order to concentrate on the race, I\nstarted to write the first day of the year\nin order to visualize my goals.",
             "nextBlock": 6,
+            "origClipLength": 80,
             "pathId": 7719246754017914284,
             "blockIdx": 5
         },
@@ -63,6 +68,17 @@
             "jpText": "あけましておめでとう、トレーナー君！",
             "enText": "Happy New Year, Trainer!",
             "nextBlock": 7,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 5336124242803200510
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -9063658022466613977
+                }
+            ],
             "pathId": -7721891263746697337,
             "blockIdx": 6
         },
@@ -72,6 +88,17 @@
             "jpText": "新年早々ミーティングなんて、\r\n君は相変わらずだな……と。",
             "enText": "It's the first meeting of the new year,\nand you're still the same…",
             "nextBlock": 8,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 2157581960990946100
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 910135135101605298
+                }
+            ],
             "pathId": 8960593810895204104,
             "blockIdx": 7
         },
@@ -81,6 +108,17 @@
             "jpText": "彼女は、机に置かれた書初めに気づいた。",
             "enText": "She noticed the calligraphy on the desk.",
             "nextBlock": 9,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 2613730598796712485
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 8943977859826545032
+                }
+            ],
             "pathId": 1574327912478390099,
             "blockIdx": 8
         },
@@ -90,6 +128,7 @@
             "jpText": "なんだいこれ。『クラシック三冠』って。",
             "enText": "What the hell is this? The Triple\nCrown of Classicism.",
             "nextBlock": 10,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "俺と君の、今年の目標だ",
@@ -102,6 +141,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": -4130858754665492242
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 2445881526740454473
+                }
+            ],
             "pathId": -7283318706598794664,
             "blockIdx": 9
         },
@@ -111,6 +160,17 @@
             "jpText": "ああ、確かに私は君からそう聞いた！\r\n前向きに検討もしている！",
             "enText": "Yeah, that's definitely what I heard from\nyou! I'm even considering it!",
             "nextBlock": 11,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -3021760757132512861
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4670721306376968798
+                }
+            ],
             "pathId": 6980171940628846506,
             "blockIdx": 10
         },
@@ -120,11 +180,22 @@
             "jpText": "しかし、実際に出られる保証があるわけでは\r\nない。これは以前から言っているはずだが。",
             "enText": "However, there is no guarantee\nthat you will actually get out.\nI've said this before.",
             "nextBlock": 12,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "（彼女の意思は尊重したい。でも……）",
                     "enText": "(I respect her wishes. But…)",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 3184268286850833007
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -197089520612807936
                 }
             ],
             "pathId": -2286030767161017467,
@@ -136,11 +207,22 @@
             "jpText": "本当に出走を目指すなら、そろそろ本腰を\r\n入れなければ。そんな時期になりつつあった。",
             "enText": "If I really wanted to run, I would\nhave to get serious about it. It\nwas getting to that point.",
             "nextBlock": 13,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "（説得しないと……！）",
                     "enText": "（We need to convince him to go to…!)",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 5261977362305725101
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -4573490309484702114
                 }
             ],
             "pathId": 4705364492905335749,
@@ -152,6 +234,21 @@
             "jpText": "ふぅン。『クラシックという場を存分に\r\n利用しないのはもったいない』、ねぇ。",
             "enText": "Hmm. It's a shame not to take full\nadvantage of the classical music scene.",
             "nextBlock": 14,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 4045430608578119967
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -6448911042515783154
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 1059718550302853356
+                }
+            ],
             "pathId": 82944478871428698,
             "blockIdx": 13
         },
@@ -161,6 +258,21 @@
             "jpText": "言いたいことはわかるさ。強豪相手との\r\nレースは、さらなる速さを手に入れる\nいいトリガーになり得る。",
             "enText": "I know what you mean. Racing against\nthe best can be a good trigger\nto get even faster.",
             "nextBlock": 15,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7000904828492235547
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -6472635555805034004
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 626399595192082878
+                }
+            ],
             "pathId": 73115728166683173,
             "blockIdx": 14
         },
@@ -170,11 +282,22 @@
             "jpText": "だが、以前、\r\nいやついさっきも君に話した通り、私は――",
             "enText": "But as I've told you before, and\nas I told you just now, I—",
             "nextBlock": 16,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "最高のデータ収集の場にもなる！",
                     "enText": "It's also the best data-gathering\nground there is!",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -2108478103267089177
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6411863600615203369
                 }
             ],
             "pathId": 4595414985706662957,
@@ -186,6 +309,17 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 17,
+            "origClipLength": 46,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -1948752548253362879
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 827730664866320426
+                }
+            ],
             "pathId": 5199830685831659237,
             "blockIdx": 16
         },
@@ -195,6 +329,17 @@
             "jpText": "……クク！　君もまぁ、しつこいな！\r\n何が何でも出させたいのだね！",
             "enText": "… Kuk! You're so persistent too! You\nwant me to let you out no matter what!",
             "nextBlock": 18,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 2323505085500237072
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 7237795890355250661
+                }
+            ],
             "pathId": -3063271905844634015,
             "blockIdx": 17
         },
@@ -204,6 +349,17 @@
             "jpText": "そう笑うと彼女は、\r\nしばらく顎に手をやった。",
             "enText": "She smiled and ran her hand over\nher chin for a moment.",
             "nextBlock": 19,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -7319544361397998362
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 3456815743518053861
+                }
+            ],
             "pathId": -487497832586759867,
             "blockIdx": 18
         },
@@ -213,6 +369,7 @@
             "jpText": "……まぁ、そうだな。わかったよ。\r\n『皐月賞』くらいは予定に入れておこうか。",
             "enText": "… Well, yeah. I know, I know. I'll at\nleast put Satsuki-sho on my schedule.",
             "nextBlock": 20,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "本当に！？",
@@ -226,6 +383,16 @@
                     "enText": "satsuki azalea (Rhododendron indicum)"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -7873064094811254750
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3394928291422557734
+                }
+            ],
             "pathId": -116257317751314137,
             "blockIdx": 19
         },
@@ -235,6 +402,17 @@
             "jpText": "親愛なるモル……トレーナー君の願いだ！\r\n何度も無下にするのも胸が痛むものさ。",
             "enText": "Dear Mal,… trainer, it's your wish!\nIt's heartbreaking how many times we\ndismiss them out of hand.",
             "nextBlock": 21,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 5966469725343805128
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 5473380134324393588
+                }
+            ],
             "pathId": -3990157552360886432,
             "blockIdx": 20
         },
@@ -244,6 +422,17 @@
             "jpText": "それに何より、データ収集ができるのは\r\n魅力的だからね！",
             "enText": "And best of all, it's a great\nway to collect data!",
             "nextBlock": 22,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -7680220303681614914
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -2547203846721080911
+                }
+            ],
             "pathId": -3211053464175159001,
             "blockIdx": 21
         },
@@ -253,11 +442,22 @@
             "jpText": "そうだ。せっかくだから今日は、\r\n『弥生賞』及び『皐月賞』に向けて\n何か対策を練ってみるかい？",
             "enText": "That's right. Since we're here, why don't\nwe try to plan something for Yayoi-sho and\nSatsuki-sho today?",
             "nextBlock": 23,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "（珍しく研究以外のことに乗り気だ……！）",
                     "enText": "(Unusually eager to get into something\nother than research:…!)",
                     "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2285167462352054635
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 435127817917405176
                 }
             ],
             "pathId": -6019760183652972094,
@@ -269,6 +469,17 @@
             "jpText": "そんなに驚いた顔をするのはよしたまえ。\r\n私だっていろいろあるんだ。",
             "enText": "Don't look so surprised. I've\nbeen through a lot myself.",
             "nextBlock": 24,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -5000756745642789862
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8465558216233201445
+                }
+            ],
             "pathId": -6176400513457598991,
             "blockIdx": 23
         },
@@ -278,6 +489,7 @@
             "jpText": "実験用のラットにも、餌くらい入れるだろう？\r\nそういうことさ。それで、どうする？",
             "enText": "Wouldn't you at least feed a\nlab rat? That's what I'm talking\nabout. So, what now?",
             "nextBlock": 25,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "戦略を練ろう！",
@@ -295,6 +507,16 @@
                     "nextBlock": 40
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -8525115284497379211
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -5519942771126693000
+                }
+            ],
             "pathId": -7895372874549320126,
             "blockIdx": 24
         },
@@ -304,6 +526,17 @@
             "jpText": "クク、戦略会議か！　そうこなくちゃね！",
             "enText": "Kuk, strategy meeting! I'll be damned!",
             "nextBlock": 26,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -3750962933567834763
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 2182569331960857049
+                }
+            ],
             "pathId": -8432526821161391375,
             "blockIdx": 25
         },
@@ -313,6 +546,17 @@
             "jpText": "まずは今年『弥生賞』を狙っていそうな\r\nウマ娘を洗い出してみようか。",
             "enText": "First of all, let's take a look at some of\nthe horses that are likely to win the\nYayoi Sho this year.",
             "nextBlock": 27,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -383109011733502506
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -973175584024048689
+                }
+            ],
             "pathId": 1707130221638556325,
             "blockIdx": 26
         },
@@ -322,6 +566,17 @@
             "jpText": "特性、性格、得意不得意が分かったら\r\nＶＲに落として、彼女たちと模擬戦をしよう！",
             "enText": "Once you've figured out their traits,\npersonalities, strengths and weaknesses,\ndrop them into VR and have a mock\nbattle with them!",
             "nextBlock": 28,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 9060943710457309666
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -3984909047366314574
+                }
+            ],
             "pathId": -6135137768112176700,
             "blockIdx": 27
         },
@@ -331,6 +586,17 @@
             "jpText": "イメージトレーニングはあらゆる物事の\r\n成功に有意性がある。\nなんなら、模擬戦じゃなくていい。",
             "enText": "Image training is significant for success\nin all things. It doesn't have to be a\nmock battle if you want.",
             "nextBlock": 29,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 3249813351349421379
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -6996205934260255774
+                }
+            ],
             "pathId": 1603233093982874664,
             "blockIdx": 28
         },
@@ -340,11 +606,22 @@
             "jpText": "例えば50m走でも、ハードル走でもいい、\r\n……待てよ、なんなら彼女たちのキメラを――",
             "enText": "For example, they can run 50 meters,\nhurdles,… wait, if you want, you can\nget their chimera—",
             "nextBlock": 30,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "キメラ！？",
                     "enText": "Chimera!",
                     "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -731515034420746702
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3864640016421537422
                 }
             ],
             "pathId": -1872139287650979834,
@@ -356,6 +633,17 @@
             "jpText": "五体を……いや、むしろ五臓六腑まで\r\nバラバラで設定した時、\n一体どんな肉体が誕生するんだ！？",
             "enText": "When the five bodies are set to…, or\nrather, the five organs are set in pieces,\nwhat kind of body will be born!",
             "nextBlock": 31,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -5438585005867545966
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 6522489844846288150
+                }
+            ],
             "pathId": -4036312734621017967,
             "blockIdx": 30
         },
@@ -365,6 +653,17 @@
             "jpText": "ウーン！　興奮してきた！　研究室へ走るぞ！\r\n今日は特別に君を助手に認定しよう！",
             "enText": "Mmm! I'm getting excited! Let's run for\nthe lab! I'm making a special effort to\nmake you my assistant today!",
             "nextBlock": 32,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 1238446604409369626
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -9050932396822510081
+                }
+            ],
             "pathId": -5254696767997872162,
             "blockIdx": 31
         },
@@ -374,6 +673,17 @@
             "jpText": "その日は、倫理感を失いそうな彼女の監視に\r\n終始した……！",
             "enText": "That day, I spent all my time monitoring\nher for ethical lapses…!",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -4550004769657891542
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 5254727992958664937
+                }
+            ],
             "pathId": 7120712654413479844,
             "blockIdx": 32
         },
@@ -383,6 +693,17 @@
             "jpText": "ふぅーン？\r\n一緒に正月気分でも味わおうって？",
             "enText": "Hmm? You want to get in the\nNew Year mood together?",
             "nextBlock": 34,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 6541137657621847678
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 3984667502061626533
+                }
+            ],
             "pathId": -4797656682200215758,
             "blockIdx": 33
         },
@@ -392,11 +713,22 @@
             "jpText": "いいのかい。私がその気になるのは\r\n珍しいんだろう？",
             "enText": "It's okay. It's unusual for me\nto be in the mood, isn't it?",
             "nextBlock": 35,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "せっかくだから！",
                     "enText": "I've come all this way!",
                     "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 958430429896381158
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 354047133761781750
                 }
             ],
             "pathId": 7217263688789367853,
@@ -408,6 +740,17 @@
             "jpText": "まぁ……たまにはいいか。それにあれには\r\n糖質が多く含まれる。脳やトレーニングの\nエネルギー源にはもってこいだ。",
             "enText": "Well,… is good for once in a\nwhile. And it's high in carbohydrates.\nIt's a good source of energy for the\nbrain and training.",
             "nextBlock": 36,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -2680073434877747573
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -9195499151164899366
+                }
+            ],
             "pathId": 7819155628844943757,
             "blockIdx": 35
         },
@@ -417,6 +760,17 @@
             "jpText": "いや待てよ、ならばブトウ糖でよくないか？\r\nわざわざあんなに飲み込みにくいものから\n摂取する必要がどこに？",
             "enText": "No, wait, why not just use sugar beets? I\nmean, why bother to ingest something\nthat's so hard to swallow?",
             "nextBlock": 37,
+            "origClipLength": 79,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 4033811727532928503
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 4105491105999452300
+                }
+            ],
             "pathId": -8512684037050752663,
             "blockIdx": 36
         },
@@ -426,6 +780,17 @@
             "jpText": "うん、決めた。モルモット君、その辺の店で\r\nブドウ糖のタブレットを買ってきてくれ！",
             "enText": "Yeah, I've decided. Hey, guinea pig, go to\none of those stores and get me some\nglucose tablets!",
             "nextBlock": 38,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -785589109722089982
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6460647673314365994
+                }
+            ],
             "pathId": 3695632423253947318,
             "blockIdx": 37
         },
@@ -435,6 +800,17 @@
             "jpText": "あっ、ついでに葉酸と鉄分も頼むよ！\r\nそれに、エタノールも。",
             "enText": "Oh, and while you're at it, folic acid and\niron, please! And some ethanol.",
             "nextBlock": 39,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 2644297651236292702
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 6869542852149121340
+                }
+            ],
             "pathId": -603796179313940225,
             "blockIdx": 38
         },
@@ -444,6 +820,17 @@
             "jpText": "ということで、新年早々、なぜか\r\nお使いに駆り出されたのだった……。",
             "enText": "So, for some reason, I was sent on an\nerrand early in the new year…",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 5288193620484124953
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7651960226577581166
+                }
+            ],
             "pathId": 57191536332858057,
             "blockIdx": 39
         },
@@ -453,6 +840,17 @@
             "jpText": "願掛け、ねぇ。\r\n正直あまり経験がないな。",
             "enText": "Wishful thinking, huh? To be honest, I\ndon't have much experience with this.",
             "nextBlock": 41,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 4,
+                    "pathId": -5148332785710506935
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -4487356798908116935
+                }
+            ],
             "pathId": 5310270995068604675,
             "blockIdx": 40
         },
@@ -462,6 +860,17 @@
             "jpText": "いや、面白い風習だとは思うよ。\r\nとどのつまり、感情の再確認だろう。",
             "enText": "No, I think it's an interesting\ncustom. After all, it's a reaffirmation\nof feelings.",
             "nextBlock": 42,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 547134738385606107
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5505938773884222518
+                }
+            ],
             "pathId": -8064773223427118025,
             "blockIdx": 41
         },
@@ -471,6 +880,17 @@
             "jpText": "いや……待てよ、君にプラシーボ効果が\r\n出たら、間近で観察できるな……？",
             "enText": "No,… wait, if you get the placebo\neffect, we can observe it up close and\npersonal…?",
             "nextBlock": 43,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -922771651398233195
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 1336641683398473936
+                }
+            ],
             "pathId": 2049957126987230360,
             "blockIdx": 42
         },
@@ -480,6 +900,17 @@
             "jpText": "うん！　いいじゃないか、初詣！\r\nすぐ行こう、張り切って行こう！",
             "enText": "Yeah! It's a good first visit! Let's go\nright now. Let's go with all our might!",
             "nextBlock": 44,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 1212770622630368295
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7934789231419642818
+                }
+            ],
             "pathId": 9177217294022342298,
             "blockIdx": 43
         },
@@ -489,6 +920,17 @@
             "jpText": "ついでにおみくじも引いてみてくれ！\r\n可能なら大凶か大吉を！",
             "enText": "And while you're at it, try to get a\nfortune! If possible, take a big bad luck\nor a big good luck!",
             "nextBlock": 45,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -602174369394933479
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -7587447548094024759
+                }
+            ],
             "pathId": 903914526230683184,
             "blockIdx": 44
         },
@@ -498,8 +940,20 @@
             "jpText": "その後、訪れた境内にて、願いごとの内容を\r\nしつこく聞かれたのだった……。",
             "enText": "After that, I visited the temple\ngrounds and was persistently asked\nwhat my wish was…",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -7049923330955457381
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 8522443070298799822
+                }
+            ],
             "pathId": -1775343901145054535,
             "blockIdx": 45
         }
-    ]
+    ],
+    "modified": 1669945567
 }

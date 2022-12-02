@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "E76DFQLJTLTG5TU3KBZE4LM4JGMJHSML",
     "type": "story",
     "storyId": "400000044",
@@ -11,6 +11,13 @@
             "jpText": "<chrname>が\r\n重いケガを負ってしまった……！",
             "enText": "<chrname> has been seriously injured…!",
             "nextBlock": 2,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -1771745843675391395
+                }
+            ],
             "pathId": 4985167926638205356,
             "blockIdx": 1
         },
@@ -20,6 +27,7 @@
             "jpText": "とにかく労わってやるべきか、\r\n厳しくいくべきか、どうしようか……。",
             "enText": "I don't know whether I should tend\nto her or push her through it…",
             "nextBlock": 3,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "とにかく労わる",
@@ -32,6 +40,12 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": 4278121540304475782
+                }
+            ],
             "pathId": -7120001560925922310,
             "blockIdx": 2
         },
@@ -41,6 +55,13 @@
             "jpText": "とにかく労わり、ケガの治療に専念した。",
             "enText": "I decided to focus  on healing her injury.",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4249952747958404463
+                }
+            ],
             "pathId": -7285617360459958905,
             "blockIdx": 3
         },
@@ -50,6 +71,13 @@
             "jpText": "だが<chrname>は体が動かせず、\r\n少し気分が落ち込んでしまったようだ……。",
             "enText": "But <chrname> couldn't move her body, and\nshe felt a little down…",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": 1699436027447726291
+                }
+            ],
             "pathId": -623642970955848667,
             "blockIdx": 4
         },
@@ -59,6 +87,14 @@
             "jpText": "立ち止まっているヒマはない！\r\n心を鬼にして、<chrname>には\n厳しくあたることにした。",
             "enText": "There's no time to stand still! I've decided\nto be tough on <chrname>.",
             "nextBlock": 6,
+            "origClipLength": 106,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": 255757422222160408
+                }
+            ],
             "pathId": 1695802754449022802,
             "blockIdx": 5
         },
@@ -68,6 +104,14 @@
             "jpText": "だがその結果無理をさせてしまい、\r\nケガが悪化した……。",
             "enText": "But as a result, she pushed herself too\nhard, and her injury worsened…",
             "nextBlock": -1,
+            "origClipLength": 81,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 4619032104533765651
+                }
+            ],
             "pathId": 694875095626895353,
             "blockIdx": 6
         },
@@ -77,8 +121,17 @@
             "jpText": "すると、奇跡的にケガが完治し、\r\n練習もうまくいった！！",
             "enText": "Then, miraculously, her injury healed\ncompletely, and practice went well!",
             "nextBlock": -1,
+            "origClipLength": 81,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 8906266795198983482
+                }
+            ],
             "pathId": 2883961701892414415,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669944803
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CBD77EE6ZOJCROK6I2UMCYSB5NDOL4ZH",
     "type": "story",
     "storyId": "501041416",
@@ -11,6 +11,17 @@
             "jpText": "『セントウルS』、開催日。\r\nこれをもって、サクラバクシンオーは\n合計3600mという距離を走り終える。",
             "enText": "It's the day of the \"St. Urus S\". With this,\nSakura Bakushin O will have completed a\ntotal distance of 3,600 meters.",
             "nextBlock": 2,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": 7578842317677137964
+                },
+                {
+                    "origLen": 178,
+                    "pathId": -6414565221547852537
+                }
+            ],
             "pathId": 448338564297381183,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "このレースに勝てばステイヤーになれると\r\n息巻いて……彼女は会場へ飛び出していった！",
             "enText": "She ran out into the… hall,\nexcited that if she won this race,\nshe would become a stayer!",
             "nextBlock": -1,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -1337560725611607357
+                },
+                {
+                    "origLen": 178,
+                    "pathId": -5793212331652778856
+                }
+            ],
             "pathId": 5691563884098372769,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945711
 }

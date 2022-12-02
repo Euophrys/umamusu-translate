@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QD7CGOAGTX47YJTBPDBPV7MA7IFS34RJ",
     "type": "story",
     "storyId": "801070002",
@@ -11,6 +11,7 @@
             "jpText": "今日締切の書類を急いで仕上げ、\r\n提出しようと走っていたところ――",
             "enText": "I was just running to finish and submit a \ndocument that was due today…",
             "nextBlock": 2,
+            "origClipLength": 88,
             "pathId": 367220966322686475,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "（――バサバサバサッ！！）",
             "enText": "(—bassssssss!)",
             "nextBlock": 3,
+            "origClipLength": 61,
             "pathId": 7552497236662721481,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "風で書類が飛んでいってしまった……！\r\nまずい、と思っていると――",
             "enText": "The wind has blown my documents away: …! \nYou're thinking, \"Oh no…",
             "nextBlock": 4,
+            "origClipLength": 88,
             "pathId": -8030991646849585926,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "……っと。\r\nアンタの書類か。",
             "enText": "… Your documents.",
             "nextBlock": 5,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "ああ、拾ってくれてありが――",
@@ -50,6 +54,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -5033859278074552626
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4712095835703402616
+                }
+            ],
             "pathId": -7799142754575190566,
             "blockIdx": 4
         },
@@ -59,11 +73,22 @@
             "jpText": "――で。\r\nこれ、どうしてほしい？",
             "enText": "— by. What do you want me to do with this?",
             "nextBlock": 6,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "え？",
                     "enText": "Huh?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6031164247261328181
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1870941008981830621
                 }
             ],
             "pathId": -7032762433921606506,
@@ -75,6 +100,17 @@
             "jpText": "拾ったのが私なら、\r\nどうするか決めるのも私だろ。",
             "enText": "If I'm the one who found it, then I'm the \none who decides what to do with it.",
             "nextBlock": 7,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -7227192756331490411
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -3032175738748169479
+                }
+            ],
             "pathId": 8517160117171285032,
             "blockIdx": 6
         },
@@ -84,6 +120,17 @@
             "jpText": "さあ、アンタの返答次第だ。\r\n素直にお願いすれば返してやるよ。",
             "enText": "I don't know, it depends on what you say. If \nyou ask nicely, I'll give it back.",
             "nextBlock": 8,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -9129442929441118238
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -1175394080058719511
+                }
+            ],
             "pathId": 1482099672081038692,
             "blockIdx": 7
         },
@@ -93,6 +140,7 @@
             "jpText": "なんだか、弄ばれているような気も\r\nするのだが……。",
             "enText": "I feel like I'm being played…",
             "nextBlock": 9,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "お願いします、返してください！",
@@ -105,6 +153,16 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1034118962673645285
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2130389669169881258
+                }
+            ],
             "pathId": 6442370733541869247,
             "blockIdx": 8
         },
@@ -114,6 +172,17 @@
             "jpText": "ハハッ！\r\n従順で悪くない。ただ――",
             "enText": "Ha ha! Not bad for a submissive. Just—",
             "nextBlock": 10,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 941928824850388194
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -6022040453303091785
+                }
+            ],
             "pathId": -5462939636553473519,
             "blockIdx": 9
         },
@@ -123,11 +192,22 @@
             "jpText": "……少し違う。\r\n『何でもします、返してください』だろ？",
             "enText": "… A little different. I'll do anything you \nwant, just give it back to me.",
             "nextBlock": 11,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "いや、それは……",
                     "enText": "No, it's…",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 6344421299084532182
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -92274717968798442
                 }
             ],
             "pathId": -5499348674982666222,
@@ -139,6 +219,17 @@
             "jpText": "へぇ、グズグズしてていいのか？\r\nさっきの書類、今日が締切だと\n書いてあったぜ？",
             "enText": "Oh, you don't mind if I hang around, do you? \nYou know, that paperwork you sent me, it \nsaid it was due today.",
             "nextBlock": 12,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 8265024697300603296
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 3998002670796856889
+                }
+            ],
             "pathId": 1586365319077411365,
             "blockIdx": 11
         },
@@ -148,11 +239,22 @@
             "jpText": "そうだ、書類の提出期限まで時間がない。\r\nここは意を決して――",
             "enText": "Yes, there is no time to lose before the \ndeadline for submitting documents. This is \nwhere you have to make up your mind—",
             "nextBlock": 13,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "何でもします、返してください……！",
                     "enText": "We'll do anything, just give it back to us…!",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 948625288431244320
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5243918202209751781
                 }
             ],
             "pathId": 8981477630656517300,
@@ -164,6 +266,17 @@
             "jpText": "ハハハッ！\r\nいいぞ、やればできるじゃねぇか！",
             "enText": "Ha ha ha! Good, you can do it!",
             "nextBlock": 14,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 99865568994568192
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -7000690541927215958
+                }
+            ],
             "pathId": -4424354086868280762,
             "blockIdx": 13
         },
@@ -173,6 +286,17 @@
             "jpText": "ほらよ、返してやる。",
             "enText": "Here, I'll give it back to you.",
             "nextBlock": 15,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 8059699210835153656
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -8084060184360286760
+                }
+            ],
             "pathId": 7936220882840000211,
             "blockIdx": 14
         },
@@ -182,6 +306,17 @@
             "jpText": "アンタ、おねだり上手ないい子だな。\r\n……気が向いたら、また遊んでやるよ。",
             "enText": "You're a good boy, and you're a \ngood beggar… I'll play with you \nagain when I feel like it.",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 4470941696060830672
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -4549310597703282409
+                }
+            ],
             "pathId": -4300828897559649626,
             "blockIdx": 15
         },
@@ -191,6 +326,17 @@
             "jpText": "あっそ。\r\nじゃ、さよならだ。",
             "enText": "Right. Well, goodbye, then.",
             "nextBlock": 17,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 3854238183327366024
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7612006111168152095
+                }
+            ],
             "pathId": 2111591942584009753,
             "blockIdx": 16
         },
@@ -200,6 +346,7 @@
             "jpText": "シリウスシンボリはそう言い残し、\r\n書類を持ったまま立ち去った。\n――今日締切の書類を。",
             "enText": "And with that, Sirius-Simboris left, \nleaving her papers in her hands. \n—The papers were due today.",
             "nextBlock": 18,
+            "origClipLength": 102,
             "choices": [
                 {
                     "jpText": "（まずい……！）",
@@ -216,6 +363,7 @@
             "jpText": "今から印刷しなおせば間に合うはず……！\r\nそう信じて、一旦引き返すことにした。",
             "enText": "If we print it again now, we should be able \nto get it in time…! Believing this, we \ndecided to turn back.",
             "nextBlock": 19,
+            "origClipLength": 95,
             "pathId": 4337404051711773189,
             "blockIdx": 18
         },
@@ -225,6 +373,7 @@
             "jpText": "書類がなんとか間に合い、\r\nほっとひと息つこうとしていた時……。",
             "enText": "I had just managed to get my paperwork in on \ntime and was about to breathe a sigh of \nrelief when… came in.",
             "nextBlock": 20,
+            "origClipLength": 86,
             "pathId": 4784871953411501314,
             "blockIdx": 19
         },
@@ -234,6 +383,7 @@
             "jpText": "ふぅん……\r\nこれ、アンタのトレーニング計画書か。",
             "enText": "Hmmm… Is this your training plan?",
             "nextBlock": 21,
+            "origClipLength": 77,
             "pathId": -5990398279419234291,
             "blockIdx": 20
         },
@@ -243,6 +393,17 @@
             "jpText": "またしても彼女と出会った。\r\nその手には、さっきの書類がある。",
             "enText": "I met her again. In her hand, there is the \ndocument from earlier.",
             "nextBlock": 22,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 8241467731162755938
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -3075955968345595035
+                }
+            ],
             "pathId": 390995045386451532,
             "blockIdx": 21
         },
@@ -252,6 +413,17 @@
             "jpText": "見た感じアンタの担当、強そうだな。\r\n強気な態度を取るだけはある。が――",
             "enText": "You look like a tough guy. She's \ngot a strong attitude. But…",
             "nextBlock": 23,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": -7793210575847175591
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 1014954604543333390
+                }
+            ],
             "pathId": 2341542595986286871,
             "blockIdx": 22
         },
@@ -261,11 +433,22 @@
             "jpText": "（――ザッ！）",
             "enText": "(—Zap!)",
             "nextBlock": 24,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "（ち、近い……！）",
                     "enText": "(Chi, close…!)",
                     "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 695223294058334394
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1683372851039438182
                 }
             ],
             "pathId": -6107152518467724022,
@@ -277,6 +460,17 @@
             "jpText": "実際に戦ってみないとわからないよな。\r\n次はレースで会おうぜ。\n……強気なトレーナーさん？",
             "enText": "You don't know what it's like until you've \nactually fought it. I'll see you at the next \nrace… Are you a strong trainer?",
             "nextBlock": 25,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": 8750860100957683540
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -871918376630153581
+                }
+            ],
             "pathId": 5251524080283893125,
             "blockIdx": 24
         },
@@ -286,8 +480,20 @@
             "jpText": "宣戦布告のような言葉をささやき、\r\nシリウスシンボリは去っていった……。",
             "enText": "Whispering a declaration of \nwar, Sirius Simboli left…",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 6355334050236932964
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1883789915096877582
+                }
+            ],
             "pathId": 6118885530606486170,
             "blockIdx": 25
         }
-    ]
+    ],
+    "modified": 1669946377
 }

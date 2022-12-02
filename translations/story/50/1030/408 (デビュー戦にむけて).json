@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CYUGITAZFNECC6OUZNRJUDSHJSDYAD2N",
     "type": "story",
     "storyId": "501030408",
@@ -11,10 +11,21 @@
             "jpText": "ライスシャワーの\r\n『メイクデビュー』の日がやってきた。",
             "enText": "The day for Rice Shower's \"makeup \ndebut\" has arrived.",
             "nextBlock": 2,
+            "origClipLength": 81,
             "coloredText": [
                 {
                     "jpText": "メイクデビュー",
                     "enText": "Make-up debut"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 3477879589744501504
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 3230396214695751223
                 }
             ],
             "pathId": 7829426089563390764,
@@ -26,6 +37,17 @@
             "jpText": "初めての出走を目前に控え、\r\nライスシャワーはプレッシャーを感じていた。",
             "enText": "Rice Shower was feeling the pressure as she \nwas about to make her first run.",
             "nextBlock": 3,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": -8056657370048188738
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -7771905583164167482
+                }
+            ],
             "pathId": -7790420479510355859,
             "blockIdx": 2
         },
@@ -35,8 +57,20 @@
             "jpText": "しかし、怖がってばかりではいられないと\r\n勇気を振り絞って、彼女は\nレースへと向かっていった。",
             "enText": "But not to be afraid, she mustered up her \ncourage and headed off to the race.",
             "nextBlock": -1,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": 8256024644334879385
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 5344651210890424343
+                }
+            ],
             "pathId": -3212836953447948768,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945552
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "WCVKW4ZGZ5HCWLYWGOLJOROGFJUAUZ4E",
     "type": "story",
     "storyId": "501032519",
@@ -11,11 +11,22 @@
             "jpText": "はぁ～……。\r\nトレーナー君、何かないかーい？",
             "enText": "Huh~… Trainer, do you\nhave anything for me?",
             "nextBlock": 2,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "何かとは？",
                     "enText": "What is it?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 6917295575885333756
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 8464834744290755877
                 }
             ],
             "pathId": 5784448845300147913,
@@ -27,6 +38,17 @@
             "jpText": "気分の盛り上がる何かだよ～。",
             "enText": "It's something to get you in the mood!",
             "nextBlock": 3,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 8614414962329666999
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6314017505932167582
+                }
+            ],
             "pathId": 8395494152137715117,
             "blockIdx": 2
         },
@@ -36,6 +58,17 @@
             "jpText": "日常生活に刺激が足りないせいで、\r\n私の脳細胞が死滅しそうなんだ……。",
             "enText": "My brain cells are dying because\nof the lack of stimulation in\nmy daily life…",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 517431031381409143
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7368908539353046786
+                }
+            ],
             "pathId": 3981886485516884752,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "こうして屋上からウマ娘たちの行動を\r\n観察していても、乗り切れないし……。",
             "enText": "I can't even get over observing\nthe Uma Musume's behavior from the\nrooftop like this…",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 7392444748484871156
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 8488480958794142803
+                }
+            ],
             "pathId": -4925042350360550910,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "ああ……誰か突然、巨大化したりしないかな。",
             "enText": "Oh… I wonder if anyone else is\nsuddenly going to be huge.",
             "nextBlock": 6,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 637377920475494556
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 7082254762727946026
+                }
+            ],
             "pathId": -7117972149757026411,
             "blockIdx": 5
         },
@@ -63,8 +118,20 @@
             "jpText": "刺激のない生活らしく、\r\nアグネスタキオンは退屈から\n調子を崩してしまっているようだった……。",
             "enText": "It seems to be a life without stimulation,\nand Agnes Tachyon seems to be out of shape\nfrom boredom…",
             "nextBlock": -1,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 6392448751170830503
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 8162368822147057680
+                }
+            ],
             "pathId": -1759997004675085626,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945585
 }

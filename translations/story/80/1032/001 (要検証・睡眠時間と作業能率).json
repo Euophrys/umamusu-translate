@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "J5EBGTV3ZPC5R4JWL6ENUDIMUIOQDMB3",
     "type": "story",
     "storyId": "801032001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、廊下で――",
             "enText": "One day, in the corridor…",
             "nextBlock": 2,
+            "origClipLength": 55,
             "pathId": 7272448371223902750,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "………………。",
             "enText": "…",
             "nextBlock": 3,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -1726473252121437816
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 6908098804138345940
+                }
+            ],
             "pathId": 1198855230785563541,
             "blockIdx": 2
         },
@@ -29,6 +41,17 @@
             "jpText": "器用に突っ立ったまま\r\nアグネスタキオンが眠り込んでいた。",
             "enText": "Standing there dexterously, \nAgnes Tachyon was asleep.",
             "nextBlock": 4,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -7748512067494986680
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3684617035155324627
+                }
+            ],
             "pathId": 3073774071523400394,
             "blockIdx": 3
         },
@@ -38,6 +61,17 @@
             "jpText": "具合が悪いのかもしれない。\r\n心配なので、保健室に運んだ……。",
             "enText": "She might not be feeling well. I was worried, \nso I carried her to the infirmary…",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -9207611247367444662
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -906243239230562817
+                }
+            ],
             "pathId": 910605607626038710,
             "blockIdx": 4
         },
@@ -47,6 +81,21 @@
             "jpText": "……おや？　ここは……。\r\nふむふむ、君が運んでくれたのか。",
             "enText": "… Oh? This is… Hmmm… you brought me here.",
             "nextBlock": 6,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -5309762676982645819
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1652126137650029703
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 1368959785384349077
+                }
+            ],
             "pathId": 4459609194991882117,
             "blockIdx": 5
         },
@@ -56,6 +105,17 @@
             "jpText": "いやぁ、失態失態。いかなウマ娘といえど、\r\n睡眠は必要不可欠というわけだね。",
             "enText": "I'm sorry, I'm sorry. No matter how good a \nhorse girl you are, you still need your \nsleep, don't you?",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -5737200090653013878
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6337580280164350442
+                }
+            ],
             "pathId": -206005076873837446,
             "blockIdx": 6
         },
@@ -65,6 +125,17 @@
             "jpText": "しかし不眠不休で執筆しても、論文の質を\r\n保つことはできるわけだ。勉強になったよ。",
             "enText": "However, it is possible to maintain the \nquality of a paper even if you work \nsleeplessly. I've learned a lot.",
             "nextBlock": 8,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 4045730216975864377
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -2877439902925474396
+                }
+            ],
             "pathId": 5952186433550673403,
             "blockIdx": 7
         },
@@ -74,11 +145,22 @@
             "jpText": "さて、少し眠りすぎたようだ。\r\nまた執筆に戻らなければ。",
             "enText": "Well, I think I slept a bit too much. I have \nto get back to writing.",
             "nextBlock": 9,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "今から！？",
                     "enText": "Now!",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -5167649269850283749
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -2536605045951296078
                 }
             ],
             "pathId": -2099652231771700115,
@@ -90,6 +172,7 @@
             "jpText": "もちろんだとも！\r\n何かおかしいかな？",
             "enText": "Of course I do! Is there something wrong?",
             "nextBlock": 10,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "パワフルなんだな",
@@ -110,6 +193,17 @@
                     "jpText": "難しい論文に取り組んでるんだね",
                     "enText": "You're working on a difficult paper.",
                     "nextBlock": 13
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -5369776294803018825
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -5071560534391663101
                 }
             ],
             "pathId": 682659507839304914,
@@ -121,6 +215,7 @@
             "jpText": "もちろんだとも！\r\n何かおかしいかな？",
             "enText": "Of course I do! Is there something wrong?",
             "nextBlock": 11,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "パワフルなんだな",
@@ -143,6 +238,17 @@
                     "nextBlock": 13
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -8453460171931172965
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 4373598407300912264
+                }
+            ],
             "pathId": 777351307370312586,
             "blockIdx": 10
         },
@@ -152,6 +258,17 @@
             "jpText": "パワフル？　ああ、もちろんだとも。\r\n知的興奮はフィジカルをも凌駕するのさ！",
             "enText": "Powerful? Yes, of course. Intellectual \nexcitement beats physical excitement!",
             "nextBlock": 12,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -3445756902103807173
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3984653809755542352
+                }
+            ],
             "pathId": 4453258367184338172,
             "blockIdx": 11
         },
@@ -161,6 +278,17 @@
             "jpText": "ふむふむ、気になるようだね？\r\nならば、知によって肉体を強化する術を\n教えてあげよう！　それは――",
             "enText": "Well, well, well, you're curious, aren't \nyou? In that case, I'll teach you \nhow to strengthen your body with knowledge! \nIt's called…",
             "nextBlock": 15,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -3577013672845712364
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -5497397972451357145
+                }
+            ],
             "pathId": 3224976446852426914,
             "blockIdx": 12
         },
@@ -170,6 +298,17 @@
             "jpText": "いやいや！　何も難しくはないさ。\r\n研究成果をただまとめているだけだからね。\nその量が膨大というだけで。",
             "enText": "No, no, no! It's not difficult at all. It's \njust a compilation of research results. It's \njust that it's a lot of work.",
             "nextBlock": 14,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 5547253966172923060
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4668100458805752307
+                }
+            ],
             "pathId": 4804567906177781977,
             "blockIdx": 13
         },
@@ -179,6 +318,17 @@
             "jpText": "それとも論文の内容が気になるのかな？\r\nああ、そうに違いない！\nならば話してあげよう。つまりは――",
             "enText": "Or are you worried about the content \nof the paper? Oh, I bet you are! \nThen I'll tell you. I mean—",
             "nextBlock": 15,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -3365620150193185806
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 6648566544621300635
+                }
+            ],
             "pathId": -7131107012956708755,
             "blockIdx": 14
         },
@@ -188,6 +338,21 @@
             "jpText": "……と、いう訳さ。\nおや、随分と時間が経ってしまったね。",
             "enText": "It's… Well, it's been a long time.",
             "nextBlock": 16,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -3095274156584607630
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -8782126279296247492
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 4261094466172931250
+                }
+            ],
             "pathId": 8367983337806624854,
             "blockIdx": 15
         },
@@ -197,6 +362,21 @@
             "jpText": "続きは、私のラボでどうだ？\n論文の内容を、その身で味わえるぞ。",
             "enText": "Why don't we continue in my lab? You'll get \na taste of what the paper is all about.",
             "nextBlock": 17,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2540618398659551915
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -6092828882668763770
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -562080405970326264
+                }
+            ],
             "pathId": 5941350938747034593,
             "blockIdx": 16
         },
@@ -206,6 +386,17 @@
             "jpText": "面白いよ。新陳代謝を急激に活性化させて\r\n筋肥大の量を爆発的に増やし――",
             "enText": "It's interesting. Rapidly activating \nthe metabolism, exploding the amount \nof muscle hypertrophy—",
             "nextBlock": 18,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 4183876647763222543
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -6280760908868505084
+                }
+            ],
             "pathId": -4733197854430222584,
             "blockIdx": 17
         },
@@ -215,6 +406,17 @@
             "jpText": "――おや？\r\n逃げられたか……。",
             "enText": "—Oh? You've escaped…",
             "nextBlock": 19,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 4212027446300726918
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -7859174741144704464
+                }
+            ],
             "pathId": -815531628627874028,
             "blockIdx": 18
         },
@@ -224,8 +426,10 @@
             "jpText": "アグネスタキオンのお誘いは\r\n丁重にかわし、その場を後にした。",
             "enText": "She politely declined Agnes Tachyon's \ninvitation and left the scene.",
             "nextBlock": -1,
+            "origClipLength": 65,
             "pathId": 6043597204296122311,
             "blockIdx": 19
         }
-    ]
+    ],
+    "modified": 1669945958
 }

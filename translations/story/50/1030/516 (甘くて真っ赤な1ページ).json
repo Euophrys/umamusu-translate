@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "RMEZY56ZH2BCXBMEWBIDYACWOY5JPMXJ",
     "type": "story",
     "storyId": "501030516",
@@ -11,6 +11,17 @@
             "jpText": "休日のトレーニング後、\r\nライスシャワーとランチを食べた帰り……。",
             "enText": "After a holiday workout, I had a Rice Shower \nand lunch on my way home…",
             "nextBlock": 2,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -2910669406974765571
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -5613221070728965401
+                }
+            ],
             "pathId": 3783258932249091883,
             "blockIdx": 1
         },
@@ -20,6 +31,18 @@
             "jpText": "見て、お兄さま。『りんごフェア』だって。",
             "enText": "Look, brother. It's an apple fair.",
             "nextBlock": 3,
+            "origClipLength": 58,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 3353929670509323548
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -2607415053487268109
+                }
+            ],
             "pathId": 302208723562538516,
             "blockIdx": 2
         },
@@ -29,6 +52,18 @@
             "jpText": "見て、お姉さま。『りんごフェア』だって。",
             "enText": "Look, sister. It's an apple fair.",
             "nextBlock": 4,
+            "origClipLength": 58,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 5473255132316511018
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 4457952764225702102
+                }
+            ],
             "pathId": -2295922588663905334,
             "blockIdx": 3
         },
@@ -38,11 +73,22 @@
             "jpText": "りんごのゼリーに、りんごのタルト……\r\nわあ、どれも美味しそう……！",
             "enText": "Apple jelly, apple tart… Wow, \nthey all look so good…!",
             "nextBlock": 5,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "りんご好きなの？",
                     "enText": "Do you like apples?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -158346870067581995
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -3784999850069746588
                 }
             ],
             "pathId": 317759987909124626,
@@ -54,6 +100,17 @@
             "jpText": "うん……大好き。\r\nりんごには大切な思い出があるから……。",
             "enText": "Yeah I love… I have precious \nmemories of apples…",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -8714071631185467184
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6973507892518087401
+                }
+            ],
             "pathId": 2759640097065850486,
             "blockIdx": 5
         },
@@ -63,6 +120,17 @@
             "jpText": "ライスね、小さい頃に\r\nお祭りで迷子になっちゃったの……。",
             "enText": "Rice, when I was little, I \ngot lost in a festival…",
             "nextBlock": 7,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 3625782303729854779
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 680728112603438070
+                }
+            ],
             "pathId": -9110836602854251699,
             "blockIdx": 6
         },
@@ -72,6 +140,17 @@
             "jpText": "すぐに見つけてもらったんだけど、\r\n涙が止まらなくて……。",
             "enText": "They found me right away, but \nI couldn't stop crying…",
             "nextBlock": 8,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -4814506528878625447
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 1979519309104328494
+                }
+            ],
             "pathId": -3561099525840722088,
             "blockIdx": 7
         },
@@ -81,6 +160,17 @@
             "jpText": "そのときに、お母さまがりんごあめを\r\n買ってくれてね。それを食べると……。",
             "enText": "My mother bought me some apple candy when I \nwas there. I ate it and went to…",
             "nextBlock": 9,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -2329658530180909909
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6491426455730357021
+                }
+            ],
             "pathId": 4314418240696746289,
             "blockIdx": 8
         },
@@ -90,6 +180,7 @@
             "jpText": "甘くて、うれしくて、暖かくて……\r\nすぐ、涙が止まったの。",
             "enText": "It was sweet, happy, and warm… \nSoon, the tears stopped.",
             "nextBlock": 10,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "そうだったのか",
@@ -102,6 +193,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 5892602893216613301
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 1718632546178180774
+                }
+            ],
             "pathId": -1051930928230134382,
             "blockIdx": 9
         },
@@ -111,6 +212,17 @@
             "jpText": "うん。だから、ライスはりんごが好き……。\r\n食べると、やさしい気持ちになれるから……。",
             "enText": "Yeah. That's why I like apples for Rice… It \nmakes me feel tender when I eat it…",
             "nextBlock": 11,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 1303131853248697455
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -2314753428936663697
+                }
+            ],
             "pathId": -8616935767848783612,
             "blockIdx": 10
         },
@@ -120,6 +232,17 @@
             "jpText": "ふあぁ～……いい匂い。\r\n思い出してたら、食べたくなるね……。",
             "enText": "Hmmm… smells good. If I remembered \nthat, I'd want to eat it…",
             "nextBlock": 12,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -7775808388809304852
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1378588819118892195
+                }
+            ],
             "pathId": 6417174578406873067,
             "blockIdx": 11
         },
@@ -129,6 +252,7 @@
             "jpText": "あ……でも、いまはやめた方がいいかな……？\r\nランチを食べたばっかりだし……。",
             "enText": "Oh… but I shouldn't do that \nnow…? I've just had lunch…",
             "nextBlock": 13,
+            "origClipLength": 70,
             "choices": [
                 {
                     "jpText": "お腹を空かせてまた来よう",
@@ -141,6 +265,16 @@
                     "nextBlock": 17
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 2682664357665950605
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 4623624709393779397
+                }
+            ],
             "pathId": 2375442645620340041,
             "blockIdx": 12
         },
@@ -150,6 +284,17 @@
             "jpText": "う、うん。\r\nそうだね、いま食べたばっかりだもんね……。",
             "enText": "Yeah, yeah. Yes, I just ate…",
             "nextBlock": 14,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -9147123553045372712
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6155419244061172414
+                }
+            ],
             "pathId": -7211002701327427579,
             "blockIdx": 13
         },
@@ -159,6 +304,17 @@
             "jpText": "じゃあ、今度、トレーニングが\r\n終わってから一緒にいこうね……。",
             "enText": "So, let's go together sometime \nafter the training is over…",
             "nextBlock": 15,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -7615915122841271220
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5718925778977784735
+                }
+            ],
             "pathId": -4628544621134964728,
             "blockIdx": 14
         },
@@ -168,6 +324,17 @@
             "jpText": "きっと、お腹を空かせて食べるりんごは、\r\nとっても美味しいはずだから……。",
             "enText": "I'm sure the apples you eat when you're \nhungry will be very tasty…",
             "nextBlock": 16,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 8818006189097800362
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4111949075536014377
+                }
+            ],
             "pathId": 8002144704926413580,
             "blockIdx": 15
         },
@@ -177,6 +344,17 @@
             "jpText": "『りんごフェア』から漂ういい匂いを背に、\r\nその場を後にするのであった。",
             "enText": "I left the place with the delicious smell of \nthe \"Apple Fair\" wafting in the air.",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 189907567309628213
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -5936721912718748885
+                }
+            ],
             "pathId": 2284242029336869598,
             "blockIdx": 16
         },
@@ -186,11 +364,22 @@
             "jpText": "別腹……？\r\n食べて、いいの？",
             "enText": "Another stomach…? Can I eat it, please?",
             "nextBlock": 18,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "食べられる分だけね",
                     "enText": "Just enough to eat.",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -3831035012461334251
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 91334647706133659
                 }
             ],
             "pathId": -4742744463258156644,
@@ -202,6 +391,17 @@
             "jpText": "う、うん！　じゃあ、リンゴタルトと、\r\nゼリーとー、ジュースと――",
             "enText": "Uh-huh! Okay, apple tart, jelly, juice…",
             "nextBlock": 19,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -2562569982365968536
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -8069056744663757405
+                }
+            ],
             "pathId": -5591333480135536509,
             "blockIdx": 18
         },
@@ -211,8 +411,20 @@
             "jpText": "その後、ライスシャワーは、\r\n『りんごフェア』のメニューを、\n一通り食べてしまったのであった……。",
             "enText": "After that, Rice Shower ate the \nentire \"apple fair\" menu…",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -1965211954347303183
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -7963850918295756704
+                }
+            ],
             "pathId": 473442261932797090,
             "blockIdx": 19
         }
-    ]
+    ],
+    "modified": 1669945557
 }

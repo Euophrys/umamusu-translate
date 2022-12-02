@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "SX3GH5DWJW3WP3AMD52GAYH7ELHJAW25",
     "type": "story",
     "storyId": "501041312",
@@ -11,6 +11,17 @@
             "jpText": "ふう～……。",
             "enText": "Phew~…",
             "nextBlock": 2,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -8567530084856167144
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 1812256100862901728
+                }
+            ],
             "pathId": 3545568841460898464,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "まだまだ余裕ですねッ！",
             "enText": "There's still plenty of time!",
             "nextBlock": 3,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "おめでとう！",
                     "enText": "Congratulations!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -8079150324175138306
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -6129557003171697969
                 }
             ],
             "pathId": -1984785345386141056,
@@ -36,6 +58,17 @@
             "jpText": "いえいえ、これくらいのことは！\r\nスタートダッシュは完璧ですね！",
             "enText": "No, no, no. So much for that!\nThat's a perfect start!",
             "nextBlock": 4,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -43747052251652188
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 6916600387661971941
+                }
+            ],
             "pathId": -7702345995821954233,
             "blockIdx": 3
         },
@@ -45,10 +78,21 @@
             "jpText": "次は『CBC賞』、\r\n今回のレースと合わせて2400m……。",
             "enText": "The next race is the \"CBC Award\", which\ntogether with this race is 2400m…",
             "nextBlock": 5,
+            "origClipLength": 64,
             "coloredText": [
                 {
                     "jpText": "CBC賞",
                     "enText": "CBC Award"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -2003119092914993985
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 6081695025697995023
                 }
             ],
             "pathId": 8542999506560901341,
@@ -60,6 +104,17 @@
             "jpText": "だいぶキツいですが、\r\n絶対に負けませんッ！",
             "enText": "It's going to be tough, but\nI won't let it stop me!",
             "nextBlock": 6,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 444298561080078851
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 96180185747655683
+                }
+            ],
             "pathId": 2468524247009725920,
             "blockIdx": 5
         },
@@ -69,11 +124,22 @@
             "jpText": "さぁ、それでは参りましょう！",
             "enText": "Okay, let's go then!",
             "nextBlock": 7,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "どこへ？",
                     "enText": "Where to?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -6760027113220810506
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 7967959769803107887
                 }
             ],
             "pathId": -2565358850906541262,
@@ -85,6 +151,17 @@
             "jpText": "決まっているでしょう！\r\nここをどこだと思っているんですか？",
             "enText": "It's obvious! Where do you think you are?",
             "nextBlock": 8,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -768488704101730283
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -2812440223485093983
+                }
+            ],
             "pathId": 8637221791531273640,
             "blockIdx": 7
         },
@@ -94,6 +171,17 @@
             "jpText": "ここは函館、つまり……！",
             "enText": "This is Hakodate, or…!",
             "nextBlock": 9,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 9018124832730271808
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -9033141973918103177
+                }
+            ],
             "pathId": 4959953545485466855,
             "blockIdx": 8
         },
@@ -103,8 +191,20 @@
             "jpText": "――海鮮丼の美味しいお店まで、\r\nまずはバクシンですッ！！",
             "enText": "—We'll start with Bakushin!",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 7640412850770083859
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -552812161764273238
+                }
+            ],
             "pathId": -1575589570138585811,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945709
 }

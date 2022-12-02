@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "X4XFGBERNXEVBQ3YRQGROMJNMTX5S6FS",
     "type": "story",
     "storyId": "801066001",
@@ -11,6 +11,7 @@
             "jpText": "トレーニングメニューを考えるため、\r\nジムへやって来ると――",
             "enText": "You come to the gym to plan \nyour training menu.",
             "nextBlock": 2,
+            "origClipLength": 84,
             "pathId": -8779840518348780024,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ぐぬぬ、まだまだぁ……\r\nだぁりゃぁーーー！",
             "enText": "Oh no, not yet…",
             "nextBlock": 3,
+            "origClipLength": 73,
             "pathId": -4987493184481371148,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "ツインターボが随分と重たそうな\r\nバーベルをよろめきながら持ち上げていた。",
             "enText": "The twin-turbo staggered to her feet and \nlifted a very heavy barbell.",
             "nextBlock": 4,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "だ、大丈夫？",
@@ -45,6 +48,17 @@
             "jpText": "はぁ……はぁ……ぜんぜんへーき！",
             "enText": "Haha… haha… not at all!",
             "nextBlock": 5,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 133,
+                    "pathId": 1232715751032686103
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -7049127006697184123
+                }
+            ],
             "pathId": -2396994418206042915,
             "blockIdx": 4
         },
@@ -54,11 +68,22 @@
             "jpText": "ターボ、鍛えてスーパームキムキになるの！",
             "enText": "Turbo, work out and get super mushy!",
             "nextBlock": 6,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "スーパームキムキ……！？",
                     "enText": "Super Mukimuki…!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -4685885259972259640
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 4668055333409363276
                 }
             ],
             "pathId": 5408988458020957595,
@@ -70,6 +95,17 @@
             "jpText": "うん！　強くなってみんなを\r\nふっとばしたいんだー！",
             "enText": "Yes! I want to be strong \nand blow everyone away!",
             "nextBlock": 7,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 5343993309693133046
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -5917508677054849059
+                }
+            ],
             "pathId": -5271633970015767830,
             "blockIdx": 6
         },
@@ -79,6 +115,17 @@
             "jpText": "ターボね、この前のレースのとき、\r\nスタートで押し負けたの。",
             "enText": "Turbo, the last time I raced, \nI was pushed off the start.",
             "nextBlock": 8,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 5889299788500247551
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 5722789398582729646
+                }
+            ],
             "pathId": -690090281213031553,
             "blockIdx": 7
         },
@@ -88,6 +135,17 @@
             "jpText": "ターボ、ずっと1番前を走りたいのに！\r\nくやしい！　くやしい！",
             "enText": "Turbo, I've always wanted to be first in \nline! I'm sorry! I'm so sorry!",
             "nextBlock": 9,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -6902779058744680554
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 9041992582637576139
+                }
+            ],
             "pathId": 5087152348557863273,
             "blockIdx": 8
         },
@@ -97,6 +155,7 @@
             "jpText": "次は先頭とりたいから、パワー鍛えるの！",
             "enText": "Next time I want to be in the lead, so I'm \ngoing to work on my power!",
             "nextBlock": 10,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "それならスピードを優先した方がいい",
@@ -109,6 +168,16 @@
                     "nextBlock": 17
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -2792535839314378887
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7148417620398251914
+                }
+            ],
             "pathId": 875980118917441701,
             "blockIdx": 9
         },
@@ -118,6 +187,17 @@
             "jpText": "えーーーっ！？　パワーじゃないの？",
             "enText": "Whaaaat? Isn't that power?",
             "nextBlock": 11,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -113576907826169293
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1879398973396334492
+                }
+            ],
             "pathId": 258118330794242874,
             "blockIdx": 10
         },
@@ -127,6 +207,17 @@
             "jpText": "スタートの瞬間から速さで圧倒して、\r\n終始逃げ続ければいいと説明した。",
             "enText": "She explained that she needed to be \nfast and dominate from the moment \nshe started and keep going.",
             "nextBlock": 12,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 2846237373041992314
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -9067752045710494686
+                }
+            ],
             "pathId": -7369730667925079326,
             "blockIdx": 11
         },
@@ -136,6 +227,17 @@
             "jpText": "スタートから速さであっとう……。",
             "enText": "From the start, she was fast and fast…",
             "nextBlock": 13,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 6895116659618106262
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5382093472995637092
+                }
+            ],
             "pathId": -953302414502562413,
             "blockIdx": 12
         },
@@ -145,6 +247,17 @@
             "jpText": "ふっふっふ……ずっと逃げ続ければ\r\nターボがずっと1番……！",
             "enText": "Hmmm… if you keep running away all the time, \nTurbo will always be number one…!",
             "nextBlock": 14,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": 2638840134001204997
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5813637961166197214
+                }
+            ],
             "pathId": -8111391219447467278,
             "blockIdx": 13
         },
@@ -154,6 +267,17 @@
             "jpText": "よーし、ターボ、ランニングマシンで\r\nしゅんぱつりょく鍛えまくるぞー！！",
             "enText": "Alright, Turbo, I'm going to hit the running \nmachine and get a good workout!",
             "nextBlock": 15,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7229748048510025757
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1784181749498571871
+                }
+            ],
             "pathId": 5035358574579917651,
             "blockIdx": 14
         },
@@ -163,6 +287,17 @@
             "jpText": "だぁぁりゃああああーーー！\r\nターボぜんかーーーいっ！！",
             "enText": "DAAAAGHHHHH! No turbo!",
             "nextBlock": 16,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -847775371819575975
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -3239665486934329711
+                }
+            ],
             "pathId": -8158420226671179803,
             "blockIdx": 15
         },
@@ -172,6 +307,7 @@
             "jpText": "ツインターボはいきなりランニングマシンを\r\n最速にして、猛ダッシュに励むのだった。",
             "enText": "The twin-turbo suddenly set the running \nmachine to its fastest speed and \nmade a mad dash for it.",
             "nextBlock": -1,
+            "origClipLength": 98,
             "pathId": -8988193368858800227,
             "blockIdx": 16
         },
@@ -181,6 +317,17 @@
             "jpText": "ふふ～ん、だよねっ♪",
             "enText": "Hmmm… right?",
             "nextBlock": 18,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -3356642004630045303
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -3585495702801416606
+                }
+            ],
             "pathId": 8065573726078913191,
             "blockIdx": 17
         },
@@ -190,6 +337,17 @@
             "jpText": "ひるいなきパワーを得たターボは、\r\nぜったいさいきょー間違いなし！",
             "enText": "A turbo with unrivalled power \nis sure to be a winner!",
             "nextBlock": 19,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 8802173696380734282
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1152658868687567787
+                }
+            ],
             "pathId": -3337043043169243343,
             "blockIdx": 18
         },
@@ -199,6 +357,17 @@
             "jpText": "いっくぞー！\r\n力持ちなとこ見せてやるー！！",
             "enText": "Let's go! I'll show you how strong I am!",
             "nextBlock": 20,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 2970200231332871349
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 5832679187523328111
+                }
+            ],
             "pathId": -3161006351594939058,
             "blockIdx": 19
         },
@@ -208,6 +377,17 @@
             "jpText": "だぁぁりゃあああーーー！！\r\nパワーぜんかーーーいっ！！！",
             "enText": "DAAAAGHHHHH! No power!",
             "nextBlock": 21,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -8145932872797780407
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 1021945971352045020
+                }
+            ],
             "pathId": 457836577822530867,
             "blockIdx": 20
         },
@@ -217,6 +397,7 @@
             "jpText": "さらに重量のあるバーベルに\r\n挑戦したツインターボだが――",
             "enText": "Twin-Turbo's challenge to the \nbarbell was even heavier.",
             "nextBlock": 22,
+            "origClipLength": 82,
             "pathId": 164002214921911158,
             "blockIdx": 21
         },
@@ -226,6 +407,17 @@
             "jpText": "はぅぁ……っ！\r\nう、腕が……しびれたぁ！！",
             "enText": "Huh…! My arm is… numb!",
             "nextBlock": 23,
+            "origClipLength": 126,
+            "animData": [
+                {
+                    "origLen": 166,
+                    "pathId": -6680539096840120227
+                },
+                {
+                    "origLen": 166,
+                    "pathId": 6910150640600344786
+                }
+            ],
             "pathId": 3378113594129379001,
             "blockIdx": 22
         },
@@ -235,6 +427,17 @@
             "jpText": "けど、まだまだぁ……\r\nもういっかーーーいっ！！！",
             "enText": "But there's more… Enough is enough!",
             "nextBlock": 24,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -3778480499241225307
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 956417814386563711
+                }
+            ],
             "pathId": 1999412036221749484,
             "blockIdx": 23
         },
@@ -244,8 +447,20 @@
             "jpText": "さすがにやり過ぎると腕を痛めて\r\nしまいそうなので、トレーニングを\n切り上げさせるのだった。",
             "enText": "She had to cut off her training because \nshe was afraid she would hurt her \narm if she went too far.",
             "nextBlock": -1,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -2088215291707766564
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -6061346118590371939
+                }
+            ],
             "pathId": 6596279200038808740,
             "blockIdx": 24
         }
-    ]
+    ],
+    "modified": 1669945972
 }

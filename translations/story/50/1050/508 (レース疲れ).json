@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6R34C3KW2ACMLDFGQ3HAX5MW6LKUQJJE",
     "type": "story",
     "storyId": "501050508",
@@ -11,6 +11,7 @@
             "jpText": "校門前でナリタタイシンを見かけたが、\r\nいつもより元気がない気がする。",
             "enText": "I saw Narita Taishin in front of \nthe school gate, but she seemed \nless energetic than usual.",
             "nextBlock": 2,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "もしかして体調悪いのか？",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -4747244834796518106
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8567699791185724436
+                }
+            ],
             "pathId": -3234174010881201261,
             "blockIdx": 1
         },
@@ -32,6 +43,21 @@
             "jpText": "……は？　誰が！",
             "enText": "What about…? Who!",
             "nextBlock": 3,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 8305679783782438822
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -8857227181749874645
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -7886764688650896949
+                }
+            ],
             "pathId": 9036910236132550093,
             "blockIdx": 2
         },
@@ -41,11 +67,26 @@
             "jpText": "レースだってちゃんとこなしてるでしょ？\r\nアタシはそんなにヤワじゃない……！",
             "enText": "You're doing well in the race, aren't you? \nI'm not that naive…!",
             "nextBlock": 4,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "でも……",
                     "enText": "But…",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7304506583928363912
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1647393314936180113
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -2312561831903160192
                 }
             ],
             "pathId": -7165101692672629934,
@@ -57,6 +98,17 @@
             "jpText": "うっさい、過保護すぎ！",
             "enText": "Ugh, too overprotective!",
             "nextBlock": 5,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -8277893784268833044
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 8749996572354373004
+                }
+            ],
             "pathId": 8564103078719020385,
             "blockIdx": 4
         },
@@ -66,6 +118,17 @@
             "jpText": "（……何やってんだろ、アタシ。\r\n疲れてイライラして、八つ当たりして）",
             "enText": "(… What am I doing, Atashi? I'm tired, \nfrustrated, and taking it out on you.)",
             "nextBlock": 6,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7570958219324234187
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1132930966063466370
+                }
+            ],
             "pathId": -6933944622775658175,
             "blockIdx": 5
         },
@@ -75,6 +138,7 @@
             "jpText": "（アイツの言う通り、\r\nちょっと休んだ方がいいのかな……）",
             "enText": "(She's right, maybe I should take \nsome time off…)",
             "nextBlock": 7,
+            "origClipLength": 82,
             "pathId": -7188876164573293762,
             "blockIdx": 6
         },
@@ -84,6 +148,7 @@
             "jpText": "その後、ナリタタイシンと別れたが、\r\n去り際の後ろ姿も覇気がなかった。",
             "enText": "After that, we parted ways with \nNarita Taishin, who was not looking \ntoo good as she left.",
             "nextBlock": 8,
+            "origClipLength": 90,
             "pathId": -6385990218729824823,
             "blockIdx": 7
         },
@@ -93,8 +158,10 @@
             "jpText": "もしかすると、疲れが溜まっているのかも\r\nしれない。今後のレースの予定を\n見直す必要がありそうだ。",
             "enText": "Perhaps she is just tired. I will have to \nreevaluate my racing schedule.",
             "nextBlock": -1,
+            "origClipLength": 108,
             "pathId": -425208962048818747,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945809
 }

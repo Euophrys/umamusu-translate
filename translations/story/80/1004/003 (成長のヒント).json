@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "RK7T7TGAHDIUDH6AWSC5ZFOEI3CNKEWT",
     "type": "story",
     "storyId": "801004003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nマルゼンスキーが話していた。",
             "enText": "After training, <chrname> and \nMarzenski were talking.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -1222737584701937007
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -198624349688044648
+                }
+            ],
             "pathId": -2932045806914115997,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946277
 }

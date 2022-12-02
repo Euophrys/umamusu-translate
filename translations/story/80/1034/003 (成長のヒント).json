@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "AMJTQ2VXKUGKUJ2PQLW6SN7TK45BK2VR",
     "type": "story",
     "storyId": "801034003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\nイナリワンが話していた。",
             "enText": "After training, <chrname> and \nInariwan were talking.",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 167,
+                    "pathId": 7331917529730769409
+                },
+                {
+                    "origLen": 157,
+                    "pathId": -1580070542890232551
+                }
+            ],
             "pathId": 6874945732383105887,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946542
 }

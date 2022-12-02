@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "FJXYD4KZ2PLVXRICROORZKWOFDE2ZS2N",
     "type": "story",
     "storyId": "501050413",
@@ -11,6 +11,7 @@
             "jpText": "そして迎えた『日経賞』。\nナリタタイシンは再び中山の地に戻ってきた。",
             "enText": "Then came the \"Nikkei Award. Narita Taishin \nreturned to Nakayama again.",
             "nextBlock": 2,
+            "origClipLength": 89,
             "pathId": 544413301559383395,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "『皐月賞』のように走れたら――\nしかし『菊花賞』のようなことになったら――",
             "enText": "If it runs like the \"Satsuki-sho\" \n― but if it turns out to be like \nthe \"Kikka-sho,\" well, then…",
             "nextBlock": 3,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 292,
+                    "pathId": 2783628603333429944
+                },
+                {
+                    "origLen": 313,
+                    "pathId": 3760104738379386000
+                }
+            ],
             "pathId": 408812029494641563,
             "blockIdx": 2
         },
@@ -29,8 +41,20 @@
             "jpText": "不安を抱えるナリタタイシンを\nトレーナーは励まし、勇気づけるのだった。",
             "enText": "The trainer encouraged and encouraged \nthe anxious Narita Taishin.",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 292,
+                    "pathId": -5761581011501493619
+                },
+                {
+                    "origLen": 313,
+                    "pathId": 3635417446808231027
+                }
+            ],
             "pathId": -7152998527818424962,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945807
 }

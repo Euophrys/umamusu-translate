@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "B4X35JN6MMWLG672DHTPT7NLVRRUKXRU",
     "type": "story",
     "storyId": "501041303",
@@ -11,6 +11,21 @@
             "jpText": "ムムッ……\r\nムムムムムッ……！",
             "enText": "Mmmm… Mmmm…!",
             "nextBlock": 2,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -6738034556066281102
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -5890925745583380795
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -7419645199818677831
+                }
+            ],
             "pathId": 1123166459954054636,
             "blockIdx": 1
         },
@@ -20,11 +35,26 @@
             "jpText": "カッッッ！！\r\n見えましたッッ！！",
             "enText": "Ack! I see it!",
             "nextBlock": 3,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "何が？",
                     "enText": "What?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3497986766629787331
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 7569564546781865444
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -6232447371445911223
                 }
             ],
             "pathId": 3387999151899256773,
@@ -36,6 +66,17 @@
             "jpText": "この先のバクシンロードを、アットー的な\r\nスピードを武器に駆け抜ける私が！",
             "enText": "I'm the one who's going to run down the\nBakushin Road with my atrocious speed!",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 6725746720744242874
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -551106277258011937
+                }
+            ],
             "pathId": 4090201182141124690,
             "blockIdx": 3
         },
@@ -45,6 +86,17 @@
             "jpText": "さぁトレーナーさん、\r\n景気よくバクシンして行きましょう！",
             "enText": "Come on, trainer, let's\nget this thing going!",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 4159831841405446479
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3671112870733018747
+                }
+            ],
             "pathId": 8254976935904738243,
             "blockIdx": 4
         },
@@ -54,6 +106,17 @@
             "jpText": "まずは来年の『皐月賞』に向けて、\r\nどのレースに出ましょうか！",
             "enText": "First of all, which race should we run for\nnext year's Satsuki-sho?",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 6533129391246423041
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 6470391339405876448
+                }
+            ],
             "pathId": -8106434684813523551,
             "blockIdx": 5
         },
@@ -63,6 +126,7 @@
             "jpText": "私が走るんです、やっぱりＧⅠでしょう！\r\n『朝日杯FS』？　『阪神JF』ですかね！",
             "enText": "I'm running it. It's a Grade 1! \"Asahi-hai\nFS\"? Maybe the Hanshin JF.",
             "nextBlock": 7,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "（ＧⅠ固定！？）",
@@ -80,6 +144,16 @@
                     "enText": "Hanshin JF"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 2167309405305662923
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -3773262084853174052
+                }
+            ],
             "pathId": 7734433568374001447,
             "blockIdx": 6
         },
@@ -89,11 +163,22 @@
             "jpText": "そもそもまだ実績のない彼女が\r\nＧⅠに出走することは不可能だ。\nならば今、彼女に走らせるべきは……。",
             "enText": "It's impossible for her to run in a Grade 1\nrace if she hasn't proven herself yet. If\nthat's the case, what she should be running\nnow is…",
             "nextBlock": 8,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "提案がある",
                     "enText": "I have a suggestion.",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 412433498078653598
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -7414696271156258246
                 }
             ],
             "pathId": 4071449594715327205,
@@ -105,11 +190,22 @@
             "jpText": "聞きましょう！",
             "enText": "Let's hear it!",
             "nextBlock": 9,
+            "origClipLength": 49,
             "choices": [
                 {
                     "jpText": "『京王杯ジュニアステークス』を走らない？",
                     "enText": "Why don't you run the Keio\nCup Junior Stakes?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -8290251193321036101
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4576144615976773426
                 }
             ],
             "pathId": -1191274939776427183,
@@ -121,6 +217,17 @@
             "jpText": "フムフム……。",
             "enText": "Hmph…",
             "nextBlock": 10,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": 4911253383690852114
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -4361277005143582351
+                }
+            ],
             "pathId": -8200538113503561430,
             "blockIdx": 9
         },
@@ -130,6 +237,17 @@
             "jpText": "って、1400m！？",
             "enText": "I mean, 1400 meters!",
             "nextBlock": 11,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -5318013008049950035
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -2796925051430658806
+                }
+            ],
             "pathId": 4117276870917314212,
             "blockIdx": 10
         },
@@ -139,6 +257,7 @@
             "jpText": "『皐月賞』を始めとしたクラシックを\r\n目指すには、いささか短くないですか！？",
             "enText": "Isn't it a little short to be aiming for\nSatsuki-sho and other classic races?",
             "nextBlock": 12,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "ジュニア級のレースは短い距離ばかりだ",
@@ -151,6 +270,16 @@
                     "nextBlock": 12
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -2890686263617957406
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2633399930013174225
+                }
+            ],
             "pathId": 5908367736048699718,
             "blockIdx": 11
         },
@@ -160,6 +289,17 @@
             "jpText": "正直、1400mでもサクラバクシンオー\r\nには長い気もするが……。",
             "enText": "To be honest, I think even 1400m is too long\nfor Sakura Bakushin O…",
             "nextBlock": 13,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -5085590082587753843
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -27101157560283406
+                }
+            ],
             "pathId": -2010146893285491266,
             "blockIdx": 12
         },
@@ -169,11 +309,22 @@
             "jpText": "ムムムッ……！\r\nそれにしたって――",
             "enText": "Mmmm…! For that matter—",
             "nextBlock": 14,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "委員長として誠意を見せなくちゃ",
                     "enText": "As chair of the committee, I\nhave to show my sincerity.",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -1801700127394822807
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -2369523528758174432
                 }
             ],
             "pathId": -1759101163289802571,
@@ -185,6 +336,17 @@
             "jpText": "ムッ……！？\r\nせいい？",
             "enText": "Mwah…! Seii?",
             "nextBlock": 15,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 9218131420268246013
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -596181882878950883
+                }
+            ],
             "pathId": 6420850280497050980,
             "blockIdx": 14
         },
@@ -194,6 +356,17 @@
             "jpText": "いきなりＧⅠに飛び込むのはカッコイイが、\r\nサクラバクシンオーのスピードに\n驚きすぎて倒れる人が出てくるかもしれない。",
             "enText": "It's cool to jump into a Grade 1 race out of\nnowhere, but some people might be so\nsurprised by Sakura Bakushin O's speed that\nthey'll collapse.",
             "nextBlock": 16,
+            "origClipLength": 83,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 1006458114815901022
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 3138363539350347477
+                }
+            ],
             "pathId": -4103408868078367262,
             "blockIdx": 15
         },
@@ -203,6 +376,7 @@
             "jpText": "なので、まずは『京王杯ジュニアS』で\r\n顔を見せ、徐々にそのスピードを\n知らしめていこうと説明した……。",
             "enText": "So, I explained to her that I would first\nshow my face in the Keio Haiyu Junior S and\nthen gradually let her know my speed…",
             "nextBlock": 17,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "それが優しさだと思わないか？",
@@ -221,6 +395,16 @@
                     "enText": "Keio Cup Junior S"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -8667104436896460855
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7453780285665898566
+                }
+            ],
             "pathId": -4764780844691884445,
             "blockIdx": 16
         },
@@ -230,6 +414,17 @@
             "jpText": "そんなの……。",
             "enText": "You can find that at…",
             "nextBlock": 18,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 6479120071709635145
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2629550127471209135
+                }
+            ],
             "pathId": -175657989023866461,
             "blockIdx": 17
         },
@@ -239,6 +434,17 @@
             "jpText": "思いますともッッ！！",
             "enText": "I'm sure you will!",
             "nextBlock": 19,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 5880647972020921245
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 900697439484924694
+                }
+            ],
             "pathId": -2089713046649058789,
             "blockIdx": 18
         },
@@ -248,6 +454,17 @@
             "jpText": "わかりました。次の目標レースで、\r\nまずは私のスピードを世間へ！",
             "enText": "Yes, sir. In my next target race, I'm going\nto bring my speed to the world!",
             "nextBlock": 20,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 1915893517139484311
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 7161978915678554638
+                }
+            ],
             "pathId": 2565665137539324601,
             "blockIdx": 19
         },
@@ -257,6 +474,17 @@
             "jpText": "そこで『速すぎる』というかけ声に、\r\n慣れていただきましょうか！",
             "enText": "So, let's get you used to hearing\nthe word \"too fast\"!",
             "nextBlock": 21,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 647152864816993226
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6729627745975504368
+                }
+            ],
             "pathId": 924503737662411760,
             "blockIdx": 20
         },
@@ -266,6 +494,17 @@
             "jpText": "何はともあれ、こうして次の目標は\r\n『京王杯ジュニアS』に決まった！",
             "enText": "At any rate, this is how I decided my next\ntarget would be the \"Keio Haiyu Junior S.\"",
             "nextBlock": 22,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -1416181965713053795
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -3466718050609006733
+                }
+            ],
             "pathId": -679806292209661353,
             "blockIdx": 21
         },
@@ -275,8 +514,20 @@
             "jpText": "バクシンバクシーンッ！",
             "enText": "Bakushin Bakushin!",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 8580353990026579146
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1103722308685961795
+                }
+            ],
             "pathId": 5615006992049893720,
             "blockIdx": 22
         }
-    ]
+    ],
+    "modified": 1669945706
 }

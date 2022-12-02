@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4VGSNMCITE3SITNRX6LXUBDIZHT265P3",
     "type": "story",
     "storyId": "801061001",
@@ -11,6 +11,7 @@
             "jpText": "ある日の帰り道――",
             "enText": "One day on the way home…",
             "nextBlock": 2,
+            "origClipLength": 56,
             "pathId": 5577820239906142020,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "おーっほっほっほ！　あなた、ラッキーね♪\r\nこの一流のキングに付き合う権利をあげるわ！",
             "enText": "Ooh-ho-ho! You're so lucky… I'll \ngive you the right to hang out \nwith this first-rate king!",
             "nextBlock": 3,
+            "origClipLength": 101,
             "choices": [
                 {
                     "jpText": "突然だな",
@@ -32,6 +34,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -1874943844287253319
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 620385581718821248
+                }
+            ],
             "pathId": 3437184783245647585,
             "blockIdx": 2
         },
@@ -41,6 +53,17 @@
             "jpText": "あら。そこは『ありがとうございます』\r\nでしょ？　ダメよ、言葉を間違えるだなんて。",
             "enText": "Oh. That's \"thank you\", isn't it? No, you \ncan't say the wrong word.",
             "nextBlock": 4,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -2919066357082477137
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 6079629280547849330
+                }
+            ],
             "pathId": -6690936210509204772,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "それでこれからだけど……。\r\nあなたの担当、まだ残ってるんでしょ？",
             "enText": "So here's what's coming up… You're \nstill in charge, aren't you?",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 7602530551431329763
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -43345569162611638
+                }
+            ],
             "pathId": 8044387515070520774,
             "blockIdx": 4
         },
@@ -59,11 +93,22 @@
             "jpText": "ね、併走トレーニングとキングコールの練習。\r\nどっちがいい？　選ぶ権利くらいはあげるわ。",
             "enText": "Hey, parallel training or king call \ntraining. Which do you prefer? I'll give you \nthe right to choose.",
             "nextBlock": 6,
+            "origClipLength": 102,
             "choices": [
                 {
                     "jpText": "キングコール？",
                     "enText": "King Cole?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -1581782865663711715
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 6508553363178959763
                 }
             ],
             "pathId": 5596924050754881068,
@@ -75,6 +120,17 @@
             "jpText": "ええ、私の素晴らしさを語るコールよ。\r\nいかに私が一流か、褒め称え続けるってワケ。",
             "enText": "Yes, it's a call to say how great I am. I'm \ngoing to keep praising how good I am.",
             "nextBlock": 7,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 1759950121952840607
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 960405565322992170
+                }
+            ],
             "pathId": -5567139611061613891,
             "blockIdx": 6
         },
@@ -84,6 +140,17 @@
             "jpText": "――そんな意味がわからないものに付き合う\r\nとなると、精神力との戦いになるだろう……。",
             "enText": "—It will be a battle for your mental \nstrength to go along with something that \nmakes no sense…",
             "nextBlock": 8,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -6442012089812097242
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 1478717411552991838
+                }
+            ],
             "pathId": -5716912615649665485,
             "blockIdx": 7
         },
@@ -93,6 +160,7 @@
             "jpText": "併走は<chrname>のためになるが――\r\nこれから走るとなると、彼女の体力も心配だ。",
             "enText": "It would be good for <chrname> to run with \nme - but I'm worried about her fitness if \nshe has to run from now on.",
             "nextBlock": 9,
+            "origClipLength": 102,
             "choices": [
                 {
                     "jpText": "それじゃあ併走で",
@@ -105,6 +173,16 @@
                     "nextBlock": 11
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 3649119935733326505
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -6086942457163910506
+                }
+            ],
             "pathId": -3011735306532953069,
             "blockIdx": 8
         },
@@ -114,6 +192,17 @@
             "jpText": "おーっほっほっほ！　悪くないわね！",
             "enText": "Ooh-ho-ho! Not bad at all!",
             "nextBlock": 10,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -3026405639083715657
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 8472270280394300102
+                }
+            ],
             "pathId": 7110325199088561062,
             "blockIdx": 9
         },
@@ -123,6 +212,17 @@
             "jpText": "そしてキングヘイローと、\r\n併走することになり……。",
             "enText": "And she and King Halo will \nbe running together…",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -7285532053347058162
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 5635399432882786242
+                }
+            ],
             "pathId": 7544471592190115689,
             "blockIdx": 10
         },
@@ -132,6 +232,17 @@
             "jpText": "わかったわ。ふふっ、行くわよ～……！\r\n……私の名前は！？",
             "enText": "Okay, I'll go. Phew, here \nwe go~ …!… my name is!",
             "nextBlock": 12,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -702781865506252456
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -6018374415242630399
+                }
+            ],
             "pathId": 3914061699653946224,
             "blockIdx": 11
         },
@@ -141,6 +252,17 @@
             "jpText": "……。\r\n……………。",
             "enText": "…",
             "nextBlock": 13,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -1987946333905559115
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -7915999761851212631
+                }
+            ],
             "pathId": 2354018270074522268,
             "blockIdx": 12
         },
@@ -150,11 +272,22 @@
             "jpText": "……キングでしょ！　そこは、\r\n私の名前であるキング！　って叫ぶの！",
             "enText": "You're the… King! That's my name, \nKing! That's my name, King!",
             "nextBlock": 14,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "ええー……",
                     "enText": "Ehh…",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 1605057448999531383
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -89917727081888008
                 }
             ],
             "pathId": -8520487471234499239,
@@ -166,8 +299,20 @@
             "jpText": "こら！　ため息は禁止！\r\nもっとやる気を出しなさい！！",
             "enText": "Hey! No sighing! You've got \nto be more motivated!",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 5054875933648847239
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -5572932002903689731
+                }
+            ],
             "pathId": -6263047977790318764,
             "blockIdx": 14
         }
-    ]
+    ],
+    "modified": 1669945969
 }

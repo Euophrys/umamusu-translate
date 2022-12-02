@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "2IKYSALHTSZ3AA5RJXHX4BUEVC5MJLBM",
     "type": "story",
     "storyId": "501050409",
@@ -11,6 +11,7 @@
             "jpText": "いよいよ\n『ホープフルステークス』の日がやってきた。",
             "enText": "The day of the \"Hopeful Stakes\" \nhas finally arrived.",
             "nextBlock": 2,
+            "origClipLength": 78,
             "pathId": 1171205146091887268,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "しかし、観客の話題はデビュー以降、\r\n目覚ましい活躍を見せている2人――",
             "enText": "However, the audience's focus is on the two \nartists who have shown remarkable success \nsince their debut.",
             "nextBlock": 3,
+            "origClipLength": 91,
             "pathId": -2430971509003096999,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "ウイニングチケットとビワハヤヒデの\nどちらが『皐月賞』を獲るかで\nもちきりだった。",
             "enText": "It was all about who would win the \nSatsuki-sho, Winning Ticket or Biwa Hayahide.",
             "nextBlock": 4,
+            "origClipLength": 98,
             "coloredText": [
                 {
                     "jpText": "皐月賞",
@@ -44,8 +47,20 @@
             "jpText": "そんな世間に対して力を示し、\r\n自らの存在を知らしめるため、\nナリタタイシンはレースに臨むのだった。",
             "enText": "Narita Taishin entered the race \nto show her power and make her \npresence known to the world.",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": 1191780861970812950
+                },
+                {
+                    "origLen": 179,
+                    "pathId": -7274762744552454396
+                }
+            ],
             "pathId": 8791392295898703741,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945807
 }

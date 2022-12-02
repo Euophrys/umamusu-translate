@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "J6PU35FQFJ6GVSW7P4U3RQ7KWDDLDFKE",
     "type": "story",
     "storyId": "801003003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nトウカイテイオーが話していた。",
             "enText": "After training, <chrname> and \nTokai Teio were talking.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6631663161368017495
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3103764150770634644
+                }
+            ],
             "pathId": 6261396482379794422,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946277
 }

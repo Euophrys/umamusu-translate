@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "Y57OORFHAMUWFOSHOSG5OR72NWVRRYVO",
     "type": "story",
     "storyId": "501040111",
@@ -11,6 +11,7 @@
             "jpText": "ゴールドシチーは見事、\nトゥインクル・シリーズで\n結果を残すことができた。",
             "enText": "Gold City has done well \nin the Twinkle Series.",
             "nextBlock": 2,
+            "origClipLength": 93,
             "pathId": -5746162939703693824,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "とても大事な『最初の3年間』を、\n共に乗り切ることができたのだ――",
             "enText": "We were able to get through the first \nthree years together, the most important \nyears of our lives.",
             "nextBlock": 3,
+            "origClipLength": 88,
             "pathId": -3062628647656894123,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "――ゴールドシチーのマネージャーが、\n慌てた様子でトレーナー室に飛び込んで\nきたのは、そんなある日のことだった。",
             "enText": "―It was on one such day that Gold \nCity's manager popped into the trainer's \noffice in a panic.",
             "nextBlock": 4,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": 3870399413424107298
+                },
+                {
+                    "origLen": 153,
+                    "pathId": 7295298636895496011
+                }
+            ],
             "pathId": -2085651522395951660,
             "blockIdx": 3
         },
@@ -38,6 +51,17 @@
             "jpText": "――『イル・ビアンコ』の表紙に\r\nアタシが……？",
             "enText": "―I'm on the cover of Il Bianco, \nand I'm on the cover of…?",
             "nextBlock": 5,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 4921026453422216232
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -1679909131089115842
+                }
+            ],
             "pathId": 3644952979666822777,
             "blockIdx": 4
         },
@@ -47,11 +71,22 @@
             "jpText": "そうなのっ！　日本初だけじゃない、\nウマ娘としても快挙よ……！",
             "enText": "Yes! Not only is this a first for \nJapan, it's also an accomplishment \nfor Uma Musume…!",
             "nextBlock": 6,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "『イル・ビアンコ』？",
                     "enText": "Il Bianco\"?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 5702189334271738017
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 8369554226999135123
                 }
             ],
             "pathId": -7943952997061054323,
@@ -63,6 +98,17 @@
             "jpText": "イタリアの超老舗のファッション誌です！\nその表紙を飾ることは、モデルとして\nトップクラスという証明……！",
             "enText": "It's a very well-established Italian fashion \nmagazine! To be on its cover proves that you \nare top class as a model…!",
             "nextBlock": 7,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 8286043129176000985
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -3441735562137382858
+                }
+            ],
             "pathId": -1277817041108867224,
             "blockIdx": 6
         },
@@ -72,6 +118,17 @@
             "jpText": "その表紙に、あなたが選ばれたのよ、シチー！",
             "enText": "You were chosen for that cover, City!",
             "nextBlock": 8,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -5881575112058237258
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 4303636279098618449
+                }
+            ],
             "pathId": -792834688929482927,
             "blockIdx": 7
         },
@@ -81,6 +138,17 @@
             "jpText": "…………マジで？",
             "enText": "… seriously?",
             "nextBlock": 9,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 9077486335278077820
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -4532009731231606294
+                }
+            ],
             "pathId": 7182326446025356520,
             "blockIdx": 8
         },
@@ -90,11 +158,22 @@
             "jpText": "あのゴールドシチーが言葉を失っている。\nよくわからないが、よほどすごい雑誌らしい。",
             "enText": "That Gold City is speechless. I don't know, \nbut it seems to be a great magazine.",
             "nextBlock": 10,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "おめでとう、シチー！",
                     "enText": "Congrats, City!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -7275159922023349956
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 6034721398266435305
                 }
             ],
             "pathId": 897024408361055696,
@@ -106,6 +185,21 @@
             "jpText": "うん……なんか、全然実感ないけど。\nで、撮影はいつから？",
             "enText": "Yeah… something, I don't really feel it \nat all. So when did the shooting start?",
             "nextBlock": 11,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 196,
+                    "pathId": -1972713332426941585
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5778665021960453595
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -2021720834159191051
+                }
+            ],
             "pathId": 4850237119582455951,
             "blockIdx": 10
         },
@@ -115,6 +209,21 @@
             "jpText": "……っ。それは――",
             "enText": "… It's―",
             "nextBlock": 12,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6548837799678195420
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 3605446434739097129
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -867853241809169523
+                }
+            ],
             "pathId": -8819362254548307842,
             "blockIdx": 11
         },
@@ -124,6 +233,17 @@
             "jpText": "はっ！？\nその日って、レース当日じゃん！？",
             "enText": "Ha! That day is the day of the race!",
             "nextBlock": 13,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 7352864585980607332
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -4310628242142322372
+                }
+            ],
             "pathId": 2159739427765190076,
             "blockIdx": 12
         },
@@ -133,6 +253,17 @@
             "jpText": "そうなの。でも『イル・ビアンコ』の表紙は、\r\n必ずイタリアで撮影される。\n創刊から今まで、唯一の例外もない……。",
             "enText": "That's right. But the cover of Il Bianco is \nalways shot in Italy. From the first issue \nuntil now, there has been no exception…",
             "nextBlock": 14,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -1729287515889375593
+                },
+                {
+                    "origLen": 129,
+                    "pathId": -8180703585455216796
+                }
+            ],
             "pathId": 748368633708893974,
             "blockIdx": 13
         },
@@ -142,6 +273,17 @@
             "jpText": "……だから、あなたの気持ちを\n確認しに来たの。",
             "enText": "… so I came to check in with \nyou to see how you're feeling.",
             "nextBlock": 15,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -8961999747325149921
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 344362377243641662
+                }
+            ],
             "pathId": -3718412936458275,
             "blockIdx": 14
         },
@@ -151,6 +293,17 @@
             "jpText": "へえ……？\nアタシの気持ちを？",
             "enText": "Heh…? You know how I feel?",
             "nextBlock": 16,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -3176176986599726274
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -8870152823594664316
+                }
+            ],
             "pathId": -6656206938084429363,
             "blockIdx": 15
         },
@@ -160,6 +313,17 @@
             "jpText": "……こんな決断、あなたには重すぎる。\nだから勝手に契約を取り付けようとも\n考えたわ。",
             "enText": "… This kind of decision is too heavy for \nyou. That's why I even considered taking the \nliberty of setting up a contract.",
             "nextBlock": 17,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -6085085092181425990
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 8058492922444354415
+                }
+            ],
             "pathId": 1231252950601092032,
             "blockIdx": 16
         },
@@ -169,6 +333,17 @@
             "jpText": "けれど、あなたの口からまだ何も\n聞いてないうちに、決められない……。",
             "enText": "But I can't decide before I've heard \nanything from your mouth yet…",
             "nextBlock": 18,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 4270529183475073078
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -6832272467645242830
+                }
+            ],
             "pathId": 3849036235735216523,
             "blockIdx": 17
         },
@@ -178,6 +353,17 @@
             "jpText": "……！",
             "enText": "…!",
             "nextBlock": 19,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -19491939163769818
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 4317634166449174132
+                }
+            ],
             "pathId": 5892585078372417618,
             "blockIdx": 18
         },
@@ -187,6 +373,17 @@
             "jpText": "……どっかの熱血の影響？\nウケる。",
             "enText": "… some hot-blooded influence? Uke.",
             "nextBlock": 20,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 4723561968797253065
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1636569199392809775
+                }
+            ],
             "pathId": -2279244165699792387,
             "blockIdx": 19
         },
@@ -196,6 +393,17 @@
             "jpText": "茶化さないで。それでシチー、\n苦しいと思うけど……決断してほしい。",
             "enText": "Don't make fun of it. So, City, I know it's \nhard, but… I hope you make a decision.",
             "nextBlock": 21,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5613917839117939777
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2927050328164712255
+                }
+            ],
             "pathId": -226205426372401282,
             "blockIdx": 20
         },
@@ -205,6 +413,17 @@
             "jpText": "どうする？　撮影しに行く？\nそれとも、レースに出る？",
             "enText": "What do we do? Do you want to go shooting? \nOr do you want to race?",
             "nextBlock": 22,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3111263024140273672
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8623632731169359733
+                }
+            ],
             "pathId": -6052103391440738431,
             "blockIdx": 21
         },
@@ -214,6 +433,21 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 23,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 4271467034155973817
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 7617683465409273856
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -4961643493869461384
+                }
+            ],
             "pathId": 125247014326291708,
             "blockIdx": 22
         },
@@ -223,6 +457,7 @@
             "jpText": "トレーナー、アンタはどう思う？\nアタシはどっちを選ぶべきか。",
             "enText": "What do you think, trainer? \nWhich should I choose?",
             "nextBlock": 24,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "それはシチーが1番わかってるだろう",
@@ -235,6 +470,20 @@
                     "nextBlock": 24
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -4846070717708360001
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -13971464273900427
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -3947565132035072908
+                }
+            ],
             "pathId": 3494044228042113534,
             "blockIdx": 23
         },
@@ -244,6 +493,17 @@
             "jpText": "ふはっ、だよね。\nんじゃ、決めた。",
             "enText": "Haha, right. Well, then, I've decided.",
             "nextBlock": 25,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -7607322853796831005
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 2474297958887788335
+                }
+            ],
             "pathId": 9057089926405777033,
             "blockIdx": 24
         },
@@ -253,6 +513,17 @@
             "jpText": "撮影もするし、レースも出る。",
             "enText": "I shoot and I race.",
             "nextBlock": 26,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 6975959457774545921
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -7789588757083260818
+                }
+            ],
             "pathId": 7364633577102720935,
             "blockIdx": 25
         },
@@ -262,6 +533,17 @@
             "jpText": "……！？　え、あなたは、\nレースを選ぶのかと……。",
             "enText": "…! Eh, you pick the race and…",
             "nextBlock": 27,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 1380020952243098134
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 1547245895122947428
+                }
+            ],
             "pathId": -1595130809702035262,
             "blockIdx": 26
         },
@@ -271,6 +553,17 @@
             "jpText": "ちょっと前なら、即答してたかもね。\nだってアタシは、走ってる自分が好き。",
             "enText": "A little while ago, I would have answered \nimmediately. Because I like myself running.",
             "nextBlock": 28,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 208097164930612099
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -530521672327102883
+                }
+            ],
             "pathId": -518875509534116817,
             "blockIdx": 27
         },
@@ -280,6 +573,17 @@
             "jpText": "でも……アンタが好きだっていう\nモデルのアタシも、今は嫌いじゃない。",
             "enText": "But I don't dislike the model Atashi who \n… says she likes you, either, now.",
             "nextBlock": 29,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -6215091032296059341
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 6692705801183691155
+                }
+            ],
             "pathId": 8050592767915244285,
             "blockIdx": 28
         },
@@ -289,6 +593,17 @@
             "jpText": "だってどっちも、アタシじゃん。",
             "enText": "Because they are both Atashi.",
             "nextBlock": 30,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 6694380185904345577
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 1588152629350022825
+                }
+            ],
             "pathId": 5763097992900391570,
             "blockIdx": 29
         },
@@ -298,6 +613,17 @@
             "jpText": "……！",
             "enText": "…!",
             "nextBlock": 31,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -3467294551948472267
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5138013700565297142
+                }
+            ],
             "pathId": -4418348637883468096,
             "blockIdx": 30
         },
@@ -307,6 +633,17 @@
             "jpText": "だから、モデルもレースも諦めない。\nこれがアタシの答え。どう？",
             "enText": "That's why I won't give up modeling or \nracing. This is my answer. What do you think?",
             "nextBlock": 32,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -6359978233736324727
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -6935923500553321788
+                }
+            ],
             "pathId": 9199375788315681282,
             "blockIdx": 31
         },
@@ -316,11 +653,22 @@
             "jpText": "そ……そんなの無理よ！？\r\n『イル・ビアンコ』のスタッフに\n日本まで来いとでも伝えるの！？",
             "enText": "You can't do that…! Are you going to \ntell the staff of Il Bianco to come to Japan?",
             "nextBlock": 33,
+            "origClipLength": 103,
             "choices": [
                 {
                     "jpText": "それが我々の仕事ですよ",
                     "enText": "That's what we do.",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 7719694325024556334
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 8504129964651732051
                 }
             ],
             "pathId": 6965262646021621315,
@@ -332,6 +680,7 @@
             "jpText": "……！\nあなた……。",
             "enText": "…! You…",
             "nextBlock": 34,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "俺も協力します",
@@ -344,6 +693,20 @@
                     "nextBlock": 34
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -212179374527839135
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 2115130905273980862
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -2348525420399825579
+                }
+            ],
             "pathId": 1468806493793383160,
             "blockIdx": 33
         },
@@ -353,6 +716,21 @@
             "jpText": "……っ。\n………………。",
             "enText": "…っ…",
             "nextBlock": 35,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 621099827136239052
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -3739404383331647781
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -4594200020754139653
+                }
+            ],
             "pathId": -890567518678699105,
             "blockIdx": 34
         },
@@ -362,6 +740,17 @@
             "jpText": "……わかったわ。日本で撮影できるよう、\n交渉してみます。ただし、トレーナーさんの\n協力は必要ありません。",
             "enText": "… Okay, I get it. I will try to negotiate \nwith them so that we can film in Japan. \nHowever, we do not need the cooperation of \nthe trainer.",
             "nextBlock": 36,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 7662274036391003459
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 8850817243477908284
+                }
+            ],
             "pathId": 2745430420106151316,
             "blockIdx": 35
         },
@@ -371,11 +760,22 @@
             "jpText": "あなたはシチーのサポートを徹底して。\r\n……撮影クルーに、負けるこの子の姿\nなんて見せられないもの。",
             "enText": "You support Siti thoroughly. You can't let \nthe… film crew see her losing.",
             "nextBlock": 37,
+            "origClipLength": 110,
             "choices": [
                 {
                     "jpText": "わかりました！",
                     "enText": "I understand!",
                     "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -3642718731926172355
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -5927914035517236657
                 }
             ],
             "pathId": 5679907614906179716,
@@ -387,6 +787,17 @@
             "jpText": "マネジ。スタッフをこっちまで\n引っ張ってこれたら、後は任せて。",
             "enText": "Manezi. If you can get the staff over here, \nI'll take care of the rest.",
             "nextBlock": 38,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7844196244646751161
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 3235595960035280080
+                }
+            ],
             "pathId": 7625801436449660275,
             "blockIdx": 37
         },
@@ -396,6 +807,17 @@
             "jpText": "苦労した分……\nううん、それ以上の結果、見せてあげる。",
             "enText": "For all your hard work… no, I'll show \nyou the results, even more than that.",
             "nextBlock": 39,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -6786639617948074659
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -5855511412268205973
+                }
+            ],
             "pathId": 8114932492627291273,
             "blockIdx": 38
         },
@@ -405,6 +827,17 @@
             "jpText": "……信じてるし、信じて！",
             "enText": "I believe in… and I believe in you!",
             "nextBlock": 40,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -2312068473789245812
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 2798710677842045810
+                }
+            ],
             "pathId": -3398372675378649978,
             "blockIdx": 39
         },
@@ -414,6 +847,17 @@
             "jpText": "――見た？　マネジのあの顔。\nあんなにうろたえてんの初めて見た。",
             "enText": "―Did you see that? Manezi's face. \nI've never seen her so upset.",
             "nextBlock": 41,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -6404684171025142554
+                },
+                {
+                    "origLen": 150,
+                    "pathId": -7609751520244607547
+                }
+            ],
             "pathId": -553341942909024545,
             "blockIdx": 40
         },
@@ -423,11 +867,22 @@
             "jpText": "……アタシ、ワガママになりすぎ？",
             "enText": "… Atashi, are you being too selfish?",
             "nextBlock": 42,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "全然！もっと言っていいくらい",
                     "enText": "Not at all! I could say more.",
                     "nextBlock": 42
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -7495936799475754504
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6811249607891683730
                 }
             ],
             "pathId": -8146889409132418012,
@@ -439,6 +894,17 @@
             "jpText": "あははっ。\nアンタはちょっと、アタシに甘くね？",
             "enText": "Haha. You're a little sweet \non me, aren't you?",
             "nextBlock": 43,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 3456440292477442006
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -3346527732475683689
+                }
+            ],
             "pathId": -7707535312540716962,
             "blockIdx": 42
         },
@@ -448,6 +914,21 @@
             "jpText": "んー……じゃあ、\nワガママ言ってみるかな。",
             "enText": "Hmmm… Well, I'll be selfish.",
             "nextBlock": 44,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 8770485525903341960
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -2714587283377821537
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -5460124157397144858
+                }
+            ],
             "pathId": -5216251637273798990,
             "blockIdx": 43
         },
@@ -457,11 +938,26 @@
             "jpText": "この後って、取材でしょ？\nでもさ……アタシ、もうウズウズしちゃって。",
             "enText": "After this, you're going to do an interview, \nright? But you know… Atashi, I'm \nalready itching to get started.",
             "nextBlock": 45,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "走りたくて？",
                     "enText": "You wanted to run?",
                     "nextBlock": 45
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5878423500783131467
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -1478626708156897510
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 5836312714496693563
                 }
             ],
             "pathId": -95540965938562425,
@@ -473,6 +969,21 @@
             "jpText": "そ。すげー仕事きて、舞い上がってんのかな。",
             "enText": "I'm sure you're right. I wonder if she's just \nexcited to have a great job.",
             "nextBlock": 46,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -2426513988967076030
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -4596701753103493505
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 6811077111220073237
+                }
+            ],
             "pathId": 6095934060475322843,
             "blockIdx": 45
         },
@@ -482,11 +993,22 @@
             "jpText": "でも、時間あんまないっぽいじゃん。\nさて、どうする？",
             "enText": "But it seems we don't have much time. So, \nwhat are you going to do?",
             "nextBlock": 47,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "……時間、調整してきます！",
                     "enText": "… hours, I'll go adjust!",
                     "nextBlock": 47
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -7542455591920047663
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4780342060266598967
                 }
             ],
             "pathId": 6710237128177798976,
@@ -498,6 +1020,17 @@
             "jpText": "ははっ、最高！\nじゃ、連絡終わったらコースに来て。",
             "enText": "Haha, awesome! Well, come to the course when \nyou are done with your call.",
             "nextBlock": 48,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 1127979933725602664
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 8115793290988223976
+                }
+            ],
             "pathId": -303569874832967841,
             "blockIdx": 47
         },
@@ -507,6 +1040,17 @@
             "jpText": "浮かれてはしゃいで、だっせーかもだけど。\r\n走ってるアタシのことは――",
             "enText": "I know it's a little bit flamboyant and \nfussy, but… I'm running…",
             "nextBlock": 49,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -25906350093354359
+                },
+                {
+                    "origLen": 157,
+                    "pathId": -8933803348911967687
+                }
+            ],
             "pathId": 7559047047999546820,
             "blockIdx": 48
         },
@@ -516,8 +1060,20 @@
             "jpText": "いつだってアンタに、\n見ててほしいから！",
             "enText": "I always want you to watch me!",
             "nextBlock": -1,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -445698458778079409
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -2316018168258461459
+                }
+            ],
             "pathId": -4483632656188432249,
             "blockIdx": 49
         }
-    ]
+    ],
+    "modified": 1669945666
 }

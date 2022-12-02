@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "D5PLIS5OXY7WOPUMOMDZZVDN7AHYYLCJ",
     "type": "story",
     "storyId": "501061421",
@@ -11,6 +11,7 @@
             "jpText": "――伝説のウマ娘の『ご令嬢』なのに。\r\n中山レース場ではキングヘイローを見に来た\n観客たちから落胆の声がもれていた。",
             "enText": "—But she's a legend's \"little lady\". The \nspectators at Nakayama Racecourse who came to \nsee King Halo were disappointed.",
             "nextBlock": 2,
+            "origClipLength": 120,
             "pathId": 4446416736059133606,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "だがキングヘイローは諦めない。\r\n次の目標……『日本ダービー』こそは\n必ず取ってみせると誓うのだった。",
             "enText": "But King Halo would not give up. She vowed \nthat her next goal, the… \"Japan Derby,\" \nwould be the one she would take.",
             "nextBlock": 3,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": -3440663649471940562
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -5799411674780256447
+                }
+            ],
             "pathId": 6980562829039493388,
             "blockIdx": 2
         },
@@ -29,10 +41,37 @@
             "jpText": "夜、学園に戻ったキングヘイロー。\r\n校門にいたのは母のためにも『日本ダービー』\nを勝ちたいと語るスペシャルウィークだった。",
             "enText": "That evening, King Halo found Special Week \nstanding at the school gates, who'd also want \nto win the Derby, for her mom.",
             "nextBlock": 4,
+            "origClipLength": 124,
             "coloredText": [
                 {
                     "jpText": "スペシャルウィーク",
                     "enText": "Special Week"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -712877067955463679
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 7759035852563915289
+                },
+                {
+                    "origLen": 160,
+                    "pathId": 6826297903572996856
+                },
+                {
+                    "origLen": 160,
+                    "pathId": 4910730164019358158
+                },
+                {
+                    "origLen": 157,
+                    "pathId": -4638967051170871591
+                },
+                {
+                    "origLen": 157,
+                    "pathId": -8013724891529867714
                 }
             ],
             "pathId": 7100792444019643644,
@@ -44,8 +83,28 @@
             "jpText": "……母の応援を背に頑張る友の姿を見て、\r\nキングヘイローも走り込みを開始する。\n私にも譲れない勝利がある、と。",
             "enText": "… Seeing her friend working hard for her \nmother, King Halo doubles down on training. \nShe, too, has a race she can't lose.",
             "nextBlock": -1,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 160,
+                    "pathId": -2030618668162837404
+                },
+                {
+                    "origLen": 160,
+                    "pathId": -7690102561508997163
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -2580169888257791289
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 4700743118000221501
+                }
+            ],
             "pathId": -5509099329472704927,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945931
 }

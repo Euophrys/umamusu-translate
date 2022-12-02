@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "77E6MB5CZ5JYUTSIFCFC64SPROSLARM4",
     "type": "story",
     "storyId": "501050422",
@@ -11,6 +11,17 @@
             "jpText": "激戦の末、『日本ダービー』を制したのは\nウイニングチケットだった。",
             "enText": "After a fierce battle, the winner of the \n\"Japan Derby\" was Winning Ticket.",
             "nextBlock": 2,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": 4199193286195962728
+                },
+                {
+                    "origLen": 195,
+                    "pathId": 2656813062824388871
+                }
+            ],
             "pathId": 5801773213970053069,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "夢を叶え、皆から祝福される彼女を\nナリタタイシンは眩しく感じる。",
             "enText": "Narita Taishin is dazzled by her dream come \ntrue and the congratulations of everyone.",
             "nextBlock": 3,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": -7600912661295781850
+                },
+                {
+                    "origLen": 195,
+                    "pathId": 8254497139703453229
+                }
+            ],
             "pathId": -8693854048929957047,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "しかし、負けっぱなしではいられない。",
             "enText": "But we can't stay on the losing side.",
             "nextBlock": 4,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -2807506315961730647
+                },
+                {
+                    "origLen": 195,
+                    "pathId": -783519662389220027
+                }
+            ],
             "pathId": -9107206037445642046,
             "blockIdx": 3
         },
@@ -38,14 +71,26 @@
             "jpText": "次のレース――三冠路線の最終戦\n『菊花賞』こそは栄冠を手にするため、\n改めて力をつけていこうと誓ったのだった。",
             "enText": "She vowed to improve her strength once again \nin order to win the next race, the final \nrace of the Triple Crown, the Chrysanthemum \nSho (Chrysanthemum Prize).",
             "nextBlock": -1,
+            "origClipLength": 116,
             "coloredText": [
                 {
                     "jpText": "菊花賞",
                     "enText": "Chrysanthemum Festival (the 9th day \nof the 9th lunar month) (one of the \nfive annual festivals)"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -2458531013878847605
+                },
+                {
+                    "origLen": 195,
+                    "pathId": 1097737587114636297
+                }
+            ],
             "pathId": 3039210198587966476,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945808
 }

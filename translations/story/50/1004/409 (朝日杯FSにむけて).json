@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "24CDQRSQAMXXEKVOPGNNOGZ7BF2RMAPK",
     "type": "story",
     "storyId": "501004409",
@@ -11,6 +11,17 @@
             "jpText": "ジュニア級の王者をかけた\r\n『朝日杯FS』の当日がやってきた。",
             "enText": "The day of the Asahi-hai FS, the\nrace to decide the champion of the\njunior class, has arrived.",
             "nextBlock": 2,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -6644175975769918768
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -1002788449260383800
+                }
+            ],
             "pathId": -119630862484413006,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "同期のウマ娘からの挑戦を受けて、\r\nマルゼンスキーは――",
             "enText": "Challenged by her peers, Maruzensky…",
             "nextBlock": 3,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": 7728543831011265112
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -6989290858257371638
+                }
+            ],
             "pathId": 8665371186468552008,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "今日のレースを全力で楽しむのだと、\r\n会場へ向かっていった。",
             "enText": "She headed for the venue, determined to\nenjoy today's race to the fullest.",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -6641068298831009300
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 2949410215279976907
+                }
+            ],
             "pathId": 1493284762450562392,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944910
 }

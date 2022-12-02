@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "IITQMOMLXSEJ32R7MJCADXMFKCI4VIMT",
     "type": "story",
     "storyId": "400000045",
@@ -11,11 +11,22 @@
             "jpText": "トレーナーさん、大変です！\r\nもう時間がありません……！",
             "enText": "Trainer, we're in trouble!\nTime is running out…!",
             "nextBlock": 2,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "どういうことですか！？",
                     "enText": "What do you mean!?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 516280140456444128
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 5528931848432231882
                 }
             ],
             "pathId": -4123957252617168697,
@@ -27,10 +38,21 @@
             "jpText": "実は、トレーナーさんの担当ウマ娘が\r\nここまで1勝もできていないことに関し、\n問題視する動きがございまして……！",
             "enText": "You see, some consider it a problem\nthat your horse girl has not won\na single race so far…!",
             "nextBlock": 3,
+            "origClipLength": 118,
             "coloredText": [
                 {
                     "jpText": "ここまで1勝もできていない",
                     "enText": "not won a single race so far"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 2567108988124120633
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -2637174572844337554
                 }
             ],
             "pathId": -2357936069559148404,
@@ -42,6 +64,7 @@
             "jpText": "9月までに担当ウマ娘が初勝利をあげないと\r\n担当契約が解除される可能性があります！",
             "enText": "If you can't provide her a first victory by\nSeptember, your contract may be terminated!",
             "nextBlock": 4,
+            "origClipLength": 98,
             "coloredText": [
                 {
                     "jpText": "9月まで",
@@ -56,6 +79,16 @@
                     "enText": "contract\nmay be terminated"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 7880670377935471756
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 2051780691322071673
+                }
+            ],
             "pathId": -2362225950328543802,
             "blockIdx": 3
         },
@@ -65,14 +98,30 @@
             "jpText": "9月まであと少し……！　どうか、\r\n彼女に勝利を掴ませてあげてください！",
             "enText": "September is right around the corner!\nPlease, obtain that win!",
             "nextBlock": -1,
+            "origClipLength": 91,
             "coloredText": [
                 {
                     "jpText": "9月まで",
                     "enText": "September"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -740207806015703574
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -1286239502688837546
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 4994663310571833899
+                }
+            ],
             "pathId": 2564429526411446427,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669944803
 }

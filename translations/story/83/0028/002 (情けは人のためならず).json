@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ATCND74NPZF6ZBRQBV4KXT4ATGBZXPVT",
     "type": "story",
     "storyId": "830028002",
@@ -11,6 +11,7 @@
             "jpText": "学園内を歩いていた時のこと……。",
             "enText": "I was walking around the campus…",
             "nextBlock": 2,
+            "origClipLength": 65,
             "pathId": 3302295043184736038,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "（ドンッ！）",
             "enText": "(DONG!)",
             "nextBlock": 3,
+            "origClipLength": 52,
             "pathId": -501644226377166338,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "あーっ！！\r\nすみません！　大丈夫ですか！？",
             "enText": "Aah! Excuse me! Are you okay!",
             "nextBlock": 4,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -8715217578236684218
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 1799763624359927067
+                }
+            ],
             "pathId": -2883562299450106028,
             "blockIdx": 3
         },
@@ -38,11 +51,22 @@
             "jpText": "ぶつかったキタサンブラックが荷物を落とし、\r\n中身が辺りに散らばってしまった。\nそれを拾ったところ――",
             "enText": "After a collision, Kitasan Black dropped her \nluggage and the contents were scattered all \nover the place. When I picked it up…",
             "nextBlock": 5,
+            "origClipLength": 111,
             "choices": [
                 {
                     "jpText": "冷却ジェルシート……？",
                     "enText": "Cooling gel sheets…?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -10407179844941322
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 7537758101811868327
                 }
             ],
             "pathId": 4278044565192757552,
@@ -54,6 +78,29 @@
             "jpText": "キタちゃん、風邪薬も\r\nあなたの落とし物かしら～？",
             "enText": "Kita-chan, I wonder if that cold medicine \nyou gave me was one of your lost items?",
             "nextBlock": 6,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 4689006040264282711
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7081963819343046685
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -789620902176581455
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -5318807188061444374
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8719367896766526118
+                }
+            ],
             "pathId": 1166908934824286439,
             "blockIdx": 5
         },
@@ -63,6 +110,29 @@
             "jpText": "こっちは栄養ドリンク……\r\nキタちゃん、具合悪いの？",
             "enText": "This one is a nutritional drink: \n… Kita, are you sick?",
             "nextBlock": 7,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6920419449242006677
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5697329140704088421
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 1637273401171032541
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -3283333828207255566
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -429056461839069621
+                }
+            ],
             "pathId": 690988977416173754,
             "blockIdx": 6
         },
@@ -72,6 +142,29 @@
             "jpText": "ううん、あたしじゃなくてダイヤちゃんがね。\r\nこれから看病に行くとこ。",
             "enText": "No, it's not me, it's Dia-chan. \nI'm going to take care of her.",
             "nextBlock": 8,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 5211880842971511040
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1364636857231532476
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 7076201113318281080
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1105608662480094499
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6601737387799348990
+                }
+            ],
             "pathId": -9148428265072882448,
             "blockIdx": 7
         },
@@ -81,6 +174,29 @@
             "jpText": "ダイヤちゃん、もうすぐレースもあるのに……\r\nあたしには差し入れくらいしかできないけど、\nじっとしていられなくって。",
             "enText": "Dia, you have a race coming up soon… The \nonly thing I can do is bring you some food, \nbut I can't sit still.",
             "nextBlock": 9,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 2676146234123879700
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1743871149279264974
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -6287388900506470668
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -3627350708971649106
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 2870644220584163747
+                }
+            ],
             "pathId": -5210066477215205176,
             "blockIdx": 8
         },
@@ -90,6 +206,29 @@
             "jpText": "さっすがキタちゃん……！\r\nそれならスポドリもいいよ！　これ、あげる！",
             "enText": "That's what I'm talking about, Kita. \n…! Then you can have the spodoli! \nHere, you can have it!",
             "nextBlock": 10,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -7353065612350955246
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6865976212588520771
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 8676297301808238836
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -5980037275930581380
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 6652186974121467536
+                }
+            ],
             "pathId": -1626005870982605960,
             "blockIdx": 9
         },
@@ -99,6 +238,29 @@
             "jpText": "えっ、いいの？",
             "enText": "What? Are you sure?",
             "nextBlock": 11,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 2681812217104750446
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4624422315067305692
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 8563277516720761992
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -5276265588890083964
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -4447356110327624868
+                }
+            ],
             "pathId": -8793259201557953274,
             "blockIdx": 10
         },
@@ -108,6 +270,29 @@
             "jpText": "りんごのコンポートもどうぞ。\r\nちょうど、渡そうと思っていたんですよ～。",
             "enText": "Please try the apple compote. I was just \nabout to give it to you!",
             "nextBlock": 12,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 7968269831799205664
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7422719805878994777
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 7385922736334921009
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 9148392813007464084
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 8296250144517001644
+                }
+            ],
             "pathId": 3498402521983119265,
             "blockIdx": 11
         },
@@ -117,6 +302,29 @@
             "jpText": "この前、キタちゃんが商店街から\r\n運ぶのを手伝ってくれたりんごを\n煮てみたんです～。",
             "enText": "The other day, I boiled some apples \nthat Kita-chan helped me carry from \nthe shopping district.",
             "nextBlock": 13,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -2569478679998270748
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -6630893850758479684
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 7715401567582813154
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 1640915045310619410
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -320966136559121649
+                }
+            ],
             "pathId": 7958922879629340293,
             "blockIdx": 12
         },
@@ -126,6 +334,29 @@
             "jpText": "ああ、あの時の！\r\nありがとうございます、喜ぶと思います！",
             "enText": "Oh, that time! Thank you, I \nthink you'll be pleased!",
             "nextBlock": 14,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -8171226765426383377
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 2479054222137806976
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -4171300466572617884
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -3956930078485237178
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -7965622994928214605
+                }
+            ],
             "pathId": -4250873787215329080,
             "blockIdx": 13
         },
@@ -135,6 +366,41 @@
             "jpText": "おう、これも持ってきな！\r\nゴルシちゃんからの礼だ！",
             "enText": "Oh, and bring me this! This \nis for you, Golshi!",
             "nextBlock": 15,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -6436788212464025156
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -352413130137574830
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 1718569061356405758
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -4917470245427315827
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 7638948736081254074
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 60931847520663664
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 3373839173130984872
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 3715099000731940029
+                }
+            ],
             "pathId": 1595217002915051402,
             "blockIdx": 14
         },
@@ -144,6 +410,45 @@
             "jpText": "いたいた、キタちゃん！\r\nさっき探してたもの持ってきたよ～☆",
             "enText": "Ouch, Kita-chan! I've got what you \nwere looking for earlier~!",
             "nextBlock": 16,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 4420887846127956793
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 384491218968511032
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -3742109781769434448
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -3490175223169380067
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -5591162254292851197
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 5296538696508774184
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 8416782274647956947
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -4003184066448704346
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 7994893340675745626
+                }
+            ],
             "pathId": 7192808289439578113,
             "blockIdx": 15
         },
@@ -153,6 +458,33 @@
             "jpText": "こんなにいっぱい……\r\nいいんですか！？",
             "enText": "So many… Are you sure?",
             "nextBlock": 17,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -5839995392210593104
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -5474120303868954941
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -6650146315958788714
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1543362418867031473
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 2471456372727916891
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 2277232602188601758
+                }
+            ],
             "pathId": -5192062782059066823,
             "blockIdx": 16
         },
@@ -162,6 +494,7 @@
             "jpText": "キタちゃんにはいつも助けてもらってるから、\r\nこういう時にお返しさせてほしいなっ！",
             "enText": "You've always been a great help to me, so I \nhope I can repay you in this way!",
             "nextBlock": 18,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "1人じゃ大変だろう、運ぶよ",
@@ -174,6 +507,32 @@
                     "nextBlock": 18
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -7875268591296543203
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -2589885560223158626
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -4614860647691822712
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -136609699261177147
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 7456261253244572715
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 6583937600075891041
+                }
+            ],
             "pathId": -3274491472074232091,
             "blockIdx": 17
         },
@@ -183,6 +542,33 @@
             "jpText": "みんな……ありがとうございます！",
             "enText": "Thank you all for…!",
             "nextBlock": 19,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5298544276400955062
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3205455183267830470
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -2936911739940494944
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -1058946541299344906
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 7332717514326099979
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -2902818948000729215
+                }
+            ],
             "pathId": 3433668800139756764,
             "blockIdx": 18
         },
@@ -192,11 +578,34 @@
             "jpText": "到着っ、と……。\r\nダイヤちゃん、起きてる？　調子どう？",
             "enText": "Arrival, and… Diamond, are you \nawake? How are you doing?",
             "nextBlock": 20,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "お見舞いの品、ここに置くよ",
                     "enText": "I'll put your gift right here.",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -6918700192748981921
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 7533359066033606547
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -6872135628666692728
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 851517877227720738
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 1316728986959030240
                 }
             ],
             "pathId": 830717796740596979,
@@ -208,6 +617,29 @@
             "jpText": "キタちゃん……？\r\n来てくれたんだ――",
             "enText": "Kita-chan…? I'm glad you're here.",
             "nextBlock": 21,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 3463796037219515574
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 7832504191583422972
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 1041873092199789247
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7378727833595581543
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -7408730583155051507
+                }
+            ],
             "pathId": -8251742186351498709,
             "blockIdx": 20
         },
@@ -217,6 +649,33 @@
             "jpText": "くしゅんっ！",
             "enText": "Achoo!",
             "nextBlock": 22,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 8673413516940661777
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3508819897902305995
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 777708579048137900
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7297894631831376165
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7289054197490694565
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -3496201361017357825
+                }
+            ],
             "pathId": 3832953913385789431,
             "blockIdx": 21
         },
@@ -226,6 +685,29 @@
             "jpText": "大丈夫？　寒くない？\r\n風邪薬買って来たよ、いつも飲んでるやつ！",
             "enText": "Are you okay? Are you cold? I got you some \ncold medicine. The kind you always take!",
             "nextBlock": 23,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 6514654544517253088
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -6796212229146672791
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -8366192681585076496
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -3274218187261074856
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -7348438479554233934
+                }
+            ],
             "pathId": -7226461045820354576,
             "blockIdx": 22
         },
@@ -235,6 +717,33 @@
             "jpText": "みんなが美味しそうなもの持ってきて\r\nくれたから、食べたら飲んで休もう？　ねっ！",
             "enText": "Everyone has brought us something \ndelicious to eat, so let's drink \nand rest afterwards. Hey!",
             "nextBlock": 24,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 6600974988659596090
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -5885905400866900230
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 8515573775814887650
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -1452276494754470798
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 163814375377798470
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -6924369878445673077
+                }
+            ],
             "pathId": 8857787549239152322,
             "blockIdx": 23
         },
@@ -244,6 +753,33 @@
             "jpText": "……キタちゃん、ごめんね……。\r\n色々用意してもらって……心配かけちゃって。",
             "enText": "I'm sorry… Kita, I'm sorry… I'm sorry for… \nworrying you with all the preparations.",
             "nextBlock": 25,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -130913769791996959
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 6727063946189566002
+                },
+                {
+                    "origLen": 147,
+                    "pathId": -1863350692947029544
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 7883181443664055343
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 8629503530264000423
+                },
+                {
+                    "origLen": 147,
+                    "pathId": -5671994073292671571
+                }
+            ],
             "pathId": 275719393899271173,
             "blockIdx": 24
         },
@@ -253,6 +789,29 @@
             "jpText": "なーに言ってんの！\r\nこれはあたしが勝手にやってるの！",
             "enText": "What are you talking about? \nI'm doing this on my own!",
             "nextBlock": 26,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 7314001728728580294
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -5428185887019263424
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -9222210289011989135
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -9066898958298146513
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -8849365724210402984
+                }
+            ],
             "pathId": 5319952797850925557,
             "blockIdx": 25
         },
@@ -262,6 +821,29 @@
             "jpText": "ほら、もうすぐレースでしょ？\r\n今度はダイヤちゃんから逃げ切りたいんだ！",
             "enText": "Look, the race is almost over, right? This \ntime, I want to run away from you, Diamond!",
             "nextBlock": 27,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 8727352381266030791
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 709188140707082941
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5706338688730318450
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7218165562242317538
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -8336351241887306607
+                }
+            ],
             "pathId": -6204344553845927935,
             "blockIdx": 26
         },
@@ -271,6 +853,29 @@
             "jpText": "あたし、ダイヤちゃんに勝ちたい！\r\nけど、万全のダイヤちゃんじゃないといやだ！",
             "enText": "I want to win against Diamond-chan! \nBut I don't want to do it unless \nyou're in top form!",
             "nextBlock": 28,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 6612200313484727462
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -5966365726797956114
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 7596995209126511739
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 9145163839800998739
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -455317311785976876
+                }
+            ],
             "pathId": 5341311672419619309,
             "blockIdx": 27
         },
@@ -280,6 +885,29 @@
             "jpText": "キタちゃん……。",
             "enText": "Kita-chan…",
             "nextBlock": 29,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 6690447225333582267
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -578094839334464325
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -3054204030052341472
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6763289198443956869
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -1484761179779511101
+                }
+            ],
             "pathId": 7662896036723196358,
             "blockIdx": 28
         },
@@ -289,6 +917,7 @@
             "jpText": "ねっ、あたしの希望でもあるんだ！\r\nだから気にしないで、任せてよ！",
             "enText": "Hey, it's what I want too! So don't worry \nabout it, I'll take care of it!",
             "nextBlock": 30,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "早く治さないとな",
@@ -301,6 +930,29 @@
                     "nextBlock": 37
                 }
             ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1156927054021878632
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1522972139775805344
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -4237753138394919536
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -3452441014291503077
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 3285130443959708675
+                }
+            ],
             "pathId": 7637787155089143424,
             "blockIdx": 29
         },
@@ -310,6 +962,7 @@
             "jpText": "ねっ、あたしの希望でもあるんだ！\r\nだから気にしないで、任せてよ！",
             "enText": "Hey, it's what I want too! So don't worry \nabout it, I'll take care of it!",
             "nextBlock": 31,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "早く治さないとな",
@@ -332,6 +985,29 @@
                     "nextBlock": 37
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8144958671845238846
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6303544318200001585
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 7856360370181225208
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -460721242575452483
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -233344299766139154
+                }
+            ],
             "pathId": -1786499893841680556,
             "blockIdx": 30
         },
@@ -341,6 +1017,29 @@
             "jpText": "……ふふっ、そうですね。",
             "enText": "… Hmmm, yes.",
             "nextBlock": 32,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 2362312539424110159
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 3354654073219286124
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 4256107250306848847
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -3839539051340920357
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 2790905033264678490
+                }
+            ],
             "pathId": 5408051376785106000,
             "blockIdx": 31
         },
@@ -350,6 +1049,29 @@
             "jpText": "私も、もう1度……ううん、何回だって\r\nキタちゃんと全力で走りたいから。",
             "enText": "I also want to run as hard as I \ncan with Kita-chan once more… \nor as many times as I can.",
             "nextBlock": 33,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -5927265799770269906
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -5930588787094949797
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -4051567361605414065
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -6205339316067139073
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -341303548549419130
+                }
+            ],
             "pathId": 8009636388656432940,
             "blockIdx": 32
         },
@@ -359,6 +1081,29 @@
             "jpText": "ダイヤちゃん……！",
             "enText": "Dia-chan_…!",
             "nextBlock": 34,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -2217778398859066994
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1531749036099462283
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 229742324778742779
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -1279991935550934664
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 5226112939266086191
+                }
+            ],
             "pathId": 6211654443200432873,
             "blockIdx": 33
         },
@@ -368,6 +1113,29 @@
             "jpText": "ここまでしてもらったんだもの……\r\n必ず、万全の状態で、レースに出るね……！",
             "enText": "After all you've done for me… I'll make sure \nI'm in top shape for the race…!",
             "nextBlock": 35,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 4701702493869189392
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -771761973889124423
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 6431136310853344472
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2533256366272786122
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 5512316191865941175
+                }
+            ],
             "pathId": -270129206489723064,
             "blockIdx": 34
         },
@@ -377,6 +1145,29 @@
             "jpText": "～～っ、うん！！",
             "enText": "~~ Yes!",
             "nextBlock": 36,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 4884661489951674540
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1611105299636967975
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -7609473251406289781
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7427976036766274108
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1414139270004070119
+                }
+            ],
             "pathId": 7037079862246462134,
             "blockIdx": 35
         },
@@ -386,6 +1177,29 @@
             "jpText": "夕暮れの保健室で、\r\n仲睦まじい様子を見せる2人であった。",
             "enText": "In the infirmary at dusk, the two \nof them were on good terms.",
             "nextBlock": -1,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -4063301356555536236
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -1819118334396740902
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -1021672502492604835
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 9103387116849269451
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 5006564448125094309
+                }
+            ],
             "pathId": -7105844553927569750,
             "blockIdx": 36
         },
@@ -395,6 +1209,26 @@
             "jpText": "はい……！　元気の面でも\r\nキタちゃんに負けられない、ですね……！",
             "enText": "Yes…! You can't lose to Kita-chan \nin terms of energy either…!",
             "nextBlock": 38,
+            "origClipLength": 88,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7462375268399816289
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -8672242131292108259
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4967992005984579447
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 6012399985979952255
+                }
+            ],
             "pathId": -7463948681273497678,
             "blockIdx": 37
         },
@@ -404,6 +1238,29 @@
             "jpText": "たくさん食べて、よく寝て……\r\n風邪を引く前よりずっと元気になります……！",
             "enText": "Eat a lot, sleep well… and you'll feel much \nbetter than before you caught a cold…!",
             "nextBlock": 39,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -6182514803068160512
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -1201948798176103835
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 3591889492862423419
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -461176973466497178
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7453925291785073117
+                }
+            ],
             "pathId": 1310326189442433121,
             "blockIdx": 38
         },
@@ -413,6 +1270,29 @@
             "jpText": "それじゃ……んんっ！",
             "enText": "Well then… hmm!",
             "nextBlock": 40,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1429143789392889272
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 784717568821152499
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 9058397314329502369
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 7390509846956215485
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -5702116652255747801
+                }
+            ],
             "pathId": 6419463948254059578,
             "blockIdx": 39
         },
@@ -422,6 +1302,25 @@
             "jpText": "全快目指してサトノダイヤモンド、\r\nゲートに入りました！",
             "enText": "Satono Diamond is entering \nthe gate at full speed!",
             "nextBlock": 41,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -85002448950607110
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -1434627357519073606
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -667302243325791607
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 872737322930022875
+                }
+            ],
             "pathId": 8344450985196364319,
             "blockIdx": 40
         },
@@ -431,6 +1330,25 @@
             "jpText": "ふふ、りんごのコンポートに、にんじん粥……\r\n風邪薬も。準備は万全、です……！",
             "enText": "Hmm, apple compote, carrot porridge… and \ncold medicine. All ready to go…!",
             "nextBlock": 42,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": 6914860836125805713
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 4682080026120805874
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2841693386869062831
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -7468476664089956055
+                }
+            ],
             "pathId": -2795119821971004407,
             "blockIdx": 41
         },
@@ -440,6 +1358,25 @@
             "jpText": "“元気さ”でキタサンブラックを\r\n追い越せるか、注目のレースが始まります！",
             "enText": "The race to see if she can overtake Kitasan \nBlack with her \"energy\" is about to begin!",
             "nextBlock": 43,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3737382124260791942
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -1637257523441963025
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 6772438549698814939
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -1019286478775923667
+                }
+            ],
             "pathId": 4270287803769385741,
             "blockIdx": 42
         },
@@ -449,6 +1386,25 @@
             "jpText": "少女たちの笑い声と美味しそうな匂いが、\r\n夕暮れの保健室を満たしたのであった。",
             "enText": "The sound of girls' laughter and \nthe smell of delicious food filled \nthe infirmary at dusk.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -4690900360405838263
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -3988323798065764400
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 4339628676128220724
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 4800391270983074839
+                }
+            ],
             "pathId": -1812538877713102175,
             "blockIdx": 43
         },
@@ -458,6 +1414,26 @@
             "jpText": "はい……！\r\nたくさん食べて、元気になります――",
             "enText": "Yes…! Eat lots of food and you'll be fine—",
             "nextBlock": 45,
+            "origClipLength": 76,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3666753061762234991
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -6128156397069326375
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2009365703553428542
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 9053176234753150802
+                }
+            ],
             "pathId": 8860816918835679969,
             "blockIdx": 44
         },
@@ -467,6 +1443,33 @@
             "jpText": "……あら？　そのボトルってなぁに？\r\n『ゴルシのマムシ』……？",
             "enText": "… Oh? What's in that bottle? What's that \nbottle? \"Golshi's pit viper\"…?",
             "nextBlock": 46,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -1131934194993905511
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5123810016027401563
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 1620829203447432964
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -8947186641336078978
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8920180903764833311
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -7059093570206749561
+                }
+            ],
             "pathId": 7359626443398140314,
             "blockIdx": 45
         },
@@ -476,6 +1479,33 @@
             "jpText": "えっ？　あ、これはゴールドシップさんが\r\nくれた謎のドリンク……！",
             "enText": "What? Oh, this is the mystery drink \nthat Goldship gave me…!",
             "nextBlock": 47,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 1177034502170023758
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 7395349062850270986
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -9093793221383462682
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -191897044136529322
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 5053529894247442944
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 8206043483075291410
+                }
+            ],
             "pathId": -6934473925390085374,
             "blockIdx": 46
         },
@@ -485,6 +1515,33 @@
             "jpText": "『強力抗生物質ウマシリン』？\r\nわぁ、他にも見たことないものがいっぱい――",
             "enText": "\"Humacillin, a powerful antibiotic\"? \nWow, there's a lot of other stuff \nI've never seen—",
             "nextBlock": 48,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 3977262378823653469
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 4012936045407361720
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -6464061802457824817
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7047626730967536297
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8835483352905977308
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 4615495742145610088
+                }
+            ],
             "pathId": -2527373817584729835,
             "blockIdx": 47
         },
@@ -494,6 +1551,29 @@
             "jpText": "あわわ！　ストーップ！\r\nちょっと待って、ダイヤちゃん！",
             "enText": "Aww! Stopp! Hold on, Diamond!",
             "nextBlock": 49,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 2674381121561902667
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -4801827889054666907
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 4926411082117503376
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 6805227390350630460
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -6971346751297961445
+                }
+            ],
             "pathId": 8521613002491763951,
             "blockIdx": 48
         },
@@ -503,9 +1583,32 @@
             "jpText": "まずは大人しめのから\r\nいこうよー！？",
             "enText": "Let's start with something more mature!",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 3582287939416489496
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2763858134562705626
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -47726498527286286
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -6950078236614655857
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 5377000495224905727
+                }
+            ],
             "pathId": -4015671925920155597,
             "blockIdx": 49
         }
     ],
-    "modified": 1661711800
+    "modified": 1669946033
 }

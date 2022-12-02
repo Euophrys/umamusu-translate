@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OJOHEOVDB3AJAMLCED7EYNOMYNXG3QX7",
     "type": "story",
     "storyId": "501050716",
@@ -11,6 +11,7 @@
             "jpText": "はっ……ふっ……！\r\nまだまだ……！",
             "enText": "Haha… phew…! Still…!",
             "nextBlock": 2,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "無理しすぎじゃないか？",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 878833540509395547
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 2624055163203437635
+                }
+            ],
             "pathId": -7874678036697550012,
             "blockIdx": 1
         },
@@ -32,6 +43,17 @@
             "jpText": "何言ってんの？\r\nむしろ足りないくらいだし！",
             "enText": "What are you talking about? In \nfact, it's not even close!",
             "nextBlock": 3,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -650170257589094451
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -628125747065215224
+                }
+            ],
             "pathId": -8037418063545365505,
             "blockIdx": 2
         },
@@ -41,6 +63,21 @@
             "jpText": "強いヤツらが食べてる料理！\r\n強いヤツらがやってる運動！",
             "enText": "The food the strong eat! Exercise!",
             "nextBlock": 4,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 7171708834091722910
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 2727808077201195064
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -6870134589294162491
+                }
+            ],
             "pathId": 4446091351283493916,
             "blockIdx": 3
         },
@@ -50,6 +87,21 @@
             "jpText": "両方取り入れて、\r\n同じような体になってやるんだから……！",
             "enText": "We're going to incorporate both, and do it \nwith the same kind of body…!",
             "nextBlock": 5,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 2541019276064900522
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -3349704215976202261
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1090083757845086573
+                }
+            ],
             "pathId": 1012570034976814890,
             "blockIdx": 4
         },
@@ -59,6 +111,17 @@
             "jpText": "（っていうか、ウマ娘ってなんで\r\nどいつもこいつも大食らいなワケ！？）",
             "enText": "（I mean, why do all the Uma \nMusume eat so much?)",
             "nextBlock": 6,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -8787750621892441122
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -434993882453805733
+                }
+            ],
             "pathId": 5857431452064564898,
             "blockIdx": 5
         },
@@ -68,6 +131,7 @@
             "jpText": "（おかげで思った以上に\r\n体重増えちゃったし……）",
             "enText": "(I've gained more weight than I thought I \nwould thanks to this…)",
             "nextBlock": 7,
+            "origClipLength": 77,
             "pathId": 8506931396992462607,
             "blockIdx": 6
         },
@@ -77,6 +141,7 @@
             "jpText": "（くそっ！　ちゃんと痩せるまでは！\r\n絶対にトレーニングを！　やめないっ！！）",
             "enText": "(Damn it! Not until I lose weight properly! \nDefinitely train! I won't stop!)",
             "nextBlock": 8,
+            "origClipLength": 95,
             "pathId": -7041471890767907800,
             "blockIdx": 7
         },
@@ -86,8 +151,20 @@
             "jpText": "その後もひたすら筋力トレーニングを続けた\r\nナリタタイシンは、\nなんとかダイエットに成功したのであった。",
             "enText": "After that, Narita Taishin continued her \nstrength training and managed to lose weight.",
             "nextBlock": -1,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": 5825182126079745400
+                },
+                {
+                    "origLen": 183,
+                    "pathId": 3442784495140203286
+                }
+            ],
             "pathId": 7284447897539885518,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945821
 }

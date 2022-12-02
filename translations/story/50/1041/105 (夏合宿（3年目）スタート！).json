@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PTOGACU6YD3BQNRB3LKVDT6YMAWQ457Y",
     "type": "story",
     "storyId": "501041105",
@@ -11,6 +11,7 @@
             "jpText": "バクシンバクシーンッ！",
             "enText": "Bakushin Bakushin!",
             "nextBlock": 2,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "もう着替えたのか？",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 897575039000112958
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 1759513385837274725
+                }
+            ],
             "pathId": -2739587476023954799,
             "blockIdx": 1
         },
@@ -32,6 +43,17 @@
             "jpText": "ハイッ！\r\n何せ私、気合い充分ですから！",
             "enText": "Hi! After all, I'm very enthusiastic!",
             "nextBlock": 3,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5950609688244171540
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -2205136948340719546
+                }
+            ],
             "pathId": 2221452692042075473,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "まだ2400mのレースが残っていますし、\r\n夏もバクシンで駆け抜ける所存です！",
             "enText": "There are still a few 2400m races\nleft, and I'm determined to ride\nBakushin through the summer!",
             "nextBlock": 4,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -646442395959812103
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 5284466861419703048
+                }
+            ],
             "pathId": -3524971498518886210,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "レース中も合宿を頑張る姿を見せて、\r\n上から下までみなさんのお手本となりますッ！",
             "enText": "I'll show them how hard I work during the\nrace, and I'll be a role model for everyone\nfrom top to bottom!",
             "nextBlock": 5,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 7354187295882856941
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1370400422477518338
+                }
+            ],
             "pathId": 1240554301409756413,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "アチョー！",
             "enText": "Acho!",
             "nextBlock": 6,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 3785636659118499403
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -5093294242423828978
+                }
+            ],
             "pathId": -1747981499924478054,
             "blockIdx": 5
         },
@@ -68,8 +123,20 @@
             "jpText": "こうして、実力向上のための\r\n夏合宿が始まった！",
             "enText": "And so began the summer training\ncamp to improve our skills!",
             "nextBlock": -1,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -5305634495799091684
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1201479706968458645
+                }
+            ],
             "pathId": 2183824320017921705,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945698
 }

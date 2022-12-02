@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "64CZSO3ZBOGRFNB2TN6PTXNXPMGH7T4P",
     "type": "story",
     "storyId": "501004101",
@@ -11,6 +11,7 @@
             "jpText": "新年、気持ちも新たにマルゼンスキーの\nトレーニングについて考えていると――",
             "enText": "It's a new year, and I'm thinking about\nMaruzensky's training.",
             "nextBlock": 2,
+            "origClipLength": 94,
             "pathId": -8132170403796172396,
             "blockIdx": 1
         },
@@ -20,11 +21,23 @@
             "jpText": "ハァイ、トレーナー君。\nあけおめー☆",
             "enText": "Hi, Trainer. Happy New Year!",
             "nextBlock": 3,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "あけましておめでとう",
                     "enText": "Happy New Year",
                     "nextBlock": 4
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": 4344796228750041463
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 2497974279379995433
                 }
             ],
             "pathId": 2709049289719409459,
@@ -36,11 +49,23 @@
             "jpText": "ハァイ、トレーナーちゃん。\nあけおめー☆",
             "enText": "Hi, Trainer-chan. Happy New Year!",
             "nextBlock": 4,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "あけましておめでとう",
                     "enText": "Happy New Year",
                     "nextBlock": 4
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": 9091994388862975293
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 7380692104061766408
                 }
             ],
             "pathId": -17201325359140168,
@@ -52,6 +77,17 @@
             "jpText": "もしかしてと思って来てみたら、\n本当に居るからびっくりしちゃったわ。",
             "enText": "I came here to see if I could find\nyou, but I was surprised to find\nthat you're really here.",
             "nextBlock": 5,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 968822152939554219
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8014660552046126070
+                }
+            ],
             "pathId": 2406493731118203918,
             "blockIdx": 4
         },
@@ -61,6 +97,7 @@
             "jpText": "新年早々、お仕事してたんだ。",
             "enText": "I've been working on the New Year.",
             "nextBlock": 6,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "君に楽しく走ってもらいたいから",
@@ -73,6 +110,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -1991778175381307254
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6725587024318962329
+                }
+            ],
             "pathId": 1826719999910516103,
             "blockIdx": 5
         },
@@ -82,6 +129,17 @@
             "jpText": "楽しく……か。",
             "enText": "Have fun with …",
             "nextBlock": 7,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -5631556474196215279
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -7795285118852837660
+                }
+            ],
             "pathId": 1276287696105607228,
             "blockIdx": 6
         },
@@ -91,6 +149,17 @@
             "jpText": "……うん、そんな風に思ってもらえてるなら\nちゃんと応えなきゃね！",
             "enText": "… Well, if that's how you feel,\nI'd better respond!",
             "nextBlock": 8,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 7547237046953891046
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1513416073492425788
+                }
+            ],
             "pathId": 3673413955257974631,
             "blockIdx": 7
         },
@@ -100,6 +169,7 @@
             "jpText": "それで？　トレーナー君はあたしに\nどんなことをさせようとしてるのかしら？",
             "enText": "So? What's the trainer trying\nto get me to do?",
             "nextBlock": 9,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "持ち味のスピードを伸ばしていきたい！",
@@ -115,6 +185,17 @@
                     "jpText": "得意な走りを増やしていきたい！",
                     "enText": "I need to increase the number of runs I'm good at!",
                     "nextBlock": 16
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -1845974989504758791
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -5857415348726821572
                 }
             ],
             "pathId": 9214078007098865895,
@@ -126,6 +207,7 @@
             "jpText": "それで？　トレーナーちゃんはあたしに\nどんなことをさせようとしてるのかしら？",
             "enText": "So? What's the trainer trying\nto get me to do?",
             "nextBlock": 10,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "持ち味のスピードを伸ばしていきたい！",
@@ -143,6 +225,17 @@
                     "nextBlock": 16
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 2824118250025759762
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -3661608495120167916
+                }
+            ],
             "pathId": 2426664484379934705,
             "blockIdx": 9
         },
@@ -152,6 +245,17 @@
             "jpText": "もっとかっ飛ばした走りが見たいのね。",
             "enText": "You'd like to see more of your driving.",
             "nextBlock": 11,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 2258286314272122123
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2904954082800375477
+                }
+            ],
             "pathId": -4984009315401473784,
             "blockIdx": 10
         },
@@ -161,6 +265,17 @@
             "jpText": "今以上のスピードで走ったら\nたしかに気持ちいいでしょうね～。",
             "enText": "I'm sure it would feel great to\nrun faster than I am now!",
             "nextBlock": 12,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 788093933680936038
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 1825339834839438025
+                }
+            ],
             "pathId": 3488919927081765449,
             "blockIdx": 11
         },
@@ -170,6 +285,17 @@
             "jpText": "オッケー、がってん承知の助！\r\n自分でも意識してトレーニングしてみるわ！",
             "enText": "Okay, so I know what I'm doing! I'll try\nto train myself to be more aware!",
             "nextBlock": 19,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -4817238633088967290
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -9076145203092172591
+                }
+            ],
             "pathId": -7055735433235188837,
             "blockIdx": 12
         },
@@ -179,6 +305,17 @@
             "jpText": "あら、なにかハードなトレーニングでも\nするのかと思ってたわ。",
             "enText": "Oh, I thought you were going\nto do some hard training.",
             "nextBlock": 14,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 8022348325620007629
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 346163933000812567
+                }
+            ],
             "pathId": -8131608088634890839,
             "blockIdx": 13
         },
@@ -188,6 +325,17 @@
             "jpText": "けど、そもそも元気じゃなければ\nトレーニングもできないわよね。",
             "enText": "But you can't train if you're not\nhealthy in the first place.",
             "nextBlock": 15,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 4108660554644752322
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -5671311766142924013
+                }
+            ],
             "pathId": 4984029360640695727,
             "blockIdx": 14
         },
@@ -197,6 +345,17 @@
             "jpText": "わかったわ、あたし自身も気をつける。\nお正月だけど食べ過ぎないようにしなくちゃ！",
             "enText": "Okay, I'll take care of myself. It's New\nYear's and I don't want to overeat!",
             "nextBlock": 19,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 3276336409441094352
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1328953442359114925
+                }
+            ],
             "pathId": 2970915735123188925,
             "blockIdx": 15
         },
@@ -206,6 +365,17 @@
             "jpText": "あら、スピード以外に目をつけるなんて\nさすがね！",
             "enText": "Oh, you're so good at finding\nthings other than speed!",
             "nextBlock": 17,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 4453425223229424798
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -2475063324218176613
+                }
+            ],
             "pathId": -5766866555788461015,
             "blockIdx": 16
         },
@@ -215,6 +385,21 @@
             "jpText": "いろんなレースを走るって考えたら、\nスキルの幅を増やすのは大事だと思うわ。",
             "enText": "If you're going to be running a lot of\ndifferent races, I think it's important to\nbroaden your skill set.",
             "nextBlock": 18,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 5103388828911844270
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -9048755681485801090
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1451896692782854085
+                }
+            ],
             "pathId": -5572761882787436990,
             "blockIdx": 17
         },
@@ -224,6 +409,21 @@
             "jpText": "うん、あたしも意識してみるわね！\nドリフト走行とかしてみちゃう……？",
             "enText": "Yeah, I'll keep that in mind! I'm\ngoing to try drifting…?",
             "nextBlock": 19,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7966376449977109497
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4024535508229725089
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -6848184864191976466
+                }
+            ],
             "pathId": 2802055494565982276,
             "blockIdx": 18
         },
@@ -233,6 +433,18 @@
             "jpText": "トレーナー君は、新年から\nあたしのために頑張ってくれてるのね～。",
             "enText": "My trainer has been working hard\nfor me since the new year.",
             "nextBlock": 20,
+            "origClipLength": 88,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 8222839373088578253
+                },
+                {
+                    "origLen": 141,
+                    "pathId": 7965689350539509099
+                }
+            ],
             "pathId": -8539791145801979784,
             "blockIdx": 19
         },
@@ -242,6 +454,18 @@
             "jpText": "トレーナーちゃんは、新年から\nあたしのために頑張ってくれてるのね～。",
             "enText": "My trainer has been working hard\nfor me since the new year. ",
             "nextBlock": 21,
+            "origClipLength": 90,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": -1566643273112335950
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -1485115096487888962
+                }
+            ],
             "pathId": -9120141105693596532,
             "blockIdx": 20
         },
@@ -251,6 +475,7 @@
             "jpText": "でも実はあたしも可愛い後輩ちゃんのために\nお正月から頑張ったことがあるの。",
             "enText": "But the truth is, I've also worked hard\nsince New Year's for my cute junior.",
             "nextBlock": 22,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "何を頑張ってるんだ？",
@@ -263,6 +488,16 @@
                     "nextBlock": 22
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -554316533354152161
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 112239159890310650
+                }
+            ],
             "pathId": 5274317071456957067,
             "blockIdx": 21
         },
@@ -272,6 +507,17 @@
             "jpText": "ふふっ、やってみせるから見ててくれない？",
             "enText": "Huh, I'll do it. Will you watch me?",
             "nextBlock": 23,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -106037250034323269
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -3602370970055044140
+                }
+            ],
             "pathId": 4289334401539913534,
             "blockIdx": 22
         },
@@ -281,6 +527,17 @@
             "jpText": "そう話すと、マルゼンスキーは机の上に\nテーブルクロスを敷き、コップを並べ始めた。",
             "enText": "As she spoke, Maruzensky laid out a\ntablecloth on her desk and began to\narrange the cups.",
             "nextBlock": 24,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 2715193860685320475
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -5429606026715680437
+                }
+            ],
             "pathId": -1836281864735887341,
             "blockIdx": 23
         },
@@ -290,6 +547,7 @@
             "jpText": "いくわよ～……はいっ！！",
             "enText": "Here we go~ … Yes!",
             "nextBlock": 25,
+            "origClipLength": 60,
             "pathId": 3048959715685134452,
             "blockIdx": 24
         },
@@ -299,6 +557,17 @@
             "jpText": "（シュパッ！！）",
             "enText": "(Swoosh! )",
             "nextBlock": 26,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -6655614894655971450
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -3044033008859658271
+                }
+            ],
             "pathId": 3560305690323523180,
             "blockIdx": 25
         },
@@ -308,6 +577,17 @@
             "jpText": "じゃーん！　テーブルクロス引きよ！\n後輩ちゃんたちが盛り上がること間違いなし！",
             "enText": "Ta-da! Let's pull the tablecloth! It's\nsure to be a lot of fun for the juniors!",
             "nextBlock": 27,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 7166695060374907112
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 3385621141902144614
+                }
+            ],
             "pathId": 130328580791958580,
             "blockIdx": 26
         },
@@ -317,11 +597,22 @@
             "jpText": "お正月と言えば『かくし芸』よね～！",
             "enText": "When it comes to New Year's, it's\nall about \"kakushigei\"!",
             "nextBlock": 28,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "『かくし芸』とか懐かしい……",
                     "enText": "I miss \"Kakushi-gei\"…",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 9029424861693329522
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6161344424379848202
                 }
             ],
             "pathId": 7620409222031432073,
@@ -333,6 +624,17 @@
             "jpText": "え……懐かしい……？",
             "enText": "What … do you miss …?",
             "nextBlock": 29,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 5945942443403340300
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -7158273473069832055
+                }
+            ],
             "pathId": -6683133338873512769,
             "blockIdx": 28
         },
@@ -342,6 +644,17 @@
             "jpText": "うそっ！？　もう『かくし芸』ってテレビで\nやってないの？　お正月なのに！？",
             "enText": "Oh, no! They don't show \"Kakushi-Gei\"\non TV anymore? It's New Year's Day!",
             "nextBlock": 30,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 4461845911070687074
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 791543837305480054
+                }
+            ],
             "pathId": -643597166785228119,
             "blockIdx": 29
         },
@@ -351,6 +664,21 @@
             "jpText": "……コホン、まあ喜んでもらうのが目的だし、\n懐かしいとかは関係なし！　うんうん……！",
             "enText": "… Kohon, well, the goal is to please,\nnot to make you nostalgic or anything!\nYeah yeah …!",
             "nextBlock": 31,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 8691573434059856287
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 6446391700436261115
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 2129603039299493783
+                }
+            ],
             "pathId": -7797435000679216134,
             "blockIdx": 30
         },
@@ -360,8 +688,24 @@
             "jpText": "こうして、マルゼンスキーとの新たな1年が\n幕を開けたのだった。",
             "enText": "And so began a new year with Maruzensky.",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 119103513870957246
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2558095532687380127
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 4679287473437911418
+                }
+            ],
             "pathId": -403815848287697598,
             "blockIdx": 31
         }
-    ]
+    ],
+    "modified": 1669944897
 }

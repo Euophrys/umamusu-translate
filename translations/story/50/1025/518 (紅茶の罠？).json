@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OTMSKTPGX4BWUOB3FI6IEQN4V7Z7AS7L",
     "type": "story",
     "storyId": "501025518",
@@ -11,6 +11,17 @@
             "jpText": "――――っ！\r\nこれ、紅茶……！？　なんで――",
             "enText": "—! This is tea…! Why—",
             "nextBlock": 2,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 6166944503253772232
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -4935954812143696854
+                }
+            ],
             "pathId": 354080914259662501,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "…………あ。\r\nこのカップ……私のじゃなくて……\nタキオンさんの……。",
             "enText": "… Oh. This cup… not mine\n… but Tachyon's…",
             "nextBlock": 3,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -3275441424694382779
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8421568224635283922
+                }
+            ],
             "pathId": 1602006570589952879,
             "blockIdx": 2
         },
@@ -29,8 +51,24 @@
             "jpText": "（うぅ……風味が口に残ってる……最悪……）",
             "enText": "(Ugh… flavor is still in\nmy mouth… worst…)",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 4773267023695812509
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -8528415922081403276
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3410778866541148280
+                }
+            ],
             "pathId": 3935761608821233055,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669946366
 }

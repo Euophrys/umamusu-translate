@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "KX7U7GZU6RVSHUB7RQKSGOIZGIVEKMOY",
     "type": "story",
     "storyId": "801005001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、公園の中で――",
             "enText": "One day, in the park—",
             "nextBlock": 2,
+            "origClipLength": 69,
             "pathId": -2737653819773804628,
             "blockIdx": 1
         },
@@ -20,11 +21,22 @@
             "jpText": "――あっ、そこの君。\r\n少しだけアシスタントを頼めないかな？",
             "enText": "—Oh, there you are. Could you be my \nassistant for a moment?",
             "nextBlock": 3,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "アシスタント？",
                     "enText": "Assistant?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 7422050197386752555
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 3028783368997665779
                 }
             ],
             "pathId": -7843276694698644744,
@@ -36,6 +48,17 @@
             "jpText": "そう身構えなくても大丈夫。\r\nさっ、ついてきて！",
             "enText": "There's no need to be so defensive. \nCome on, follow me!",
             "nextBlock": 4,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -1984579376240377135
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6044854315330457826
+                }
+            ],
             "pathId": -3189493971174716022,
             "blockIdx": 3
         },
@@ -45,6 +68,17 @@
             "jpText": "フジキセキに連れられ向かった先には、\r\n膝をすりむいて泣きじゃくる女の子がいた。",
             "enText": "Fuji Kiseki took me to a place where I saw a \ngirl crying, her knees scraped.",
             "nextBlock": 5,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -4461633459595681970
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -2957124870447402966
+                }
+            ],
             "pathId": -8983204890900726101,
             "blockIdx": 4
         },
@@ -54,6 +88,17 @@
             "jpText": "――お待たせ、泣き虫なポニーちゃん。\r\nまばたきは禁止、どうぞご覧あれ！",
             "enText": "—Here she comes, the crying pony. Don't \nblink, just look at her!",
             "nextBlock": 6,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 357867903228650718
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4946401436917457929
+                }
+            ],
             "pathId": 7546858111636271229,
             "blockIdx": 5
         },
@@ -63,6 +108,21 @@
             "jpText": "ぐすっ、ぐすっ……えっ……？",
             "enText": "Gosh, gosh… eh…?",
             "nextBlock": 7,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -6350494439382006504
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -3371847369239729379
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 5447922971127783640
+                }
+            ],
             "pathId": -778692204707494875,
             "blockIdx": 6
         },
@@ -72,6 +132,21 @@
             "jpText": "今からこのコインに、魔法をかけるよ。\r\nいち、にの、さん――",
             "enText": "Now I'm going to cast a spell on \nthis coin. One, two, three—",
             "nextBlock": 8,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 1382481291253756105
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -2935856899569943154
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 2396077260236113885
+                }
+            ],
             "pathId": 6572515276021207692,
             "blockIdx": 7
         },
@@ -81,6 +156,21 @@
             "jpText": "その瞬間――\r\nフジキセキの手から、ぱっとコインが消えた。",
             "enText": "At that moment - the coin disappeared \nfrom Fuji Kiseki's hand.",
             "nextBlock": 9,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 7797642639609242021
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8781796624607408313
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1954692754613264232
+                }
+            ],
             "pathId": 2787005708919913311,
             "blockIdx": 8
         },
@@ -90,6 +180,7 @@
             "jpText": "さあ、アシスタントの出番だよ！\r\nポケットの中を探してみて。",
             "enText": "Now it's time for your assistant! \nLook in your pockets.",
             "nextBlock": 10,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "さっきこっそり入れ――",
@@ -102,6 +193,20 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": -708031495681300353
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -413382162934498094
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -197958402061192883
+                }
+            ],
             "pathId": 4972426297267065248,
             "blockIdx": 9
         },
@@ -111,6 +216,21 @@
             "jpText": "しーっ。気づいたのはすごいけれど、\r\n口にするのは厳禁だよ。",
             "enText": "Shh. It's great that you've noticed, but you \nmustn't say anything about it.",
             "nextBlock": 11,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4711103409445152159
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 5567876080758943727
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 3292618002080237815
+                }
+            ],
             "pathId": 8210845432929422046,
             "blockIdx": 10
         },
@@ -120,6 +240,17 @@
             "jpText": "それに……そんな野暮な話より、\r\nこの子が泣き止んだことの方が大事だろ？",
             "enText": "Besides… what's more important than the fact \nthat she's stopped crying?",
             "nextBlock": 12,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -3733698020479304854
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -8852789731027441083
+                }
+            ],
             "pathId": 5091238343487706614,
             "blockIdx": 11
         },
@@ -129,6 +260,21 @@
             "jpText": "わぁっ、どうしてこっちに……！？\r\nもっと見せて～！",
             "enText": "Wow, how did you get over \nhere to…! Show me more!",
             "nextBlock": 13,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 1432081901828390738
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -6157750041758556523
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -8067388601758884407
+                }
+            ],
             "pathId": -6910229016658414081,
             "blockIdx": 12
         },
@@ -138,6 +284,21 @@
             "jpText": "ふふ。かわいらしいアンコールにお応えして、\r\nもう1回。アシスタント、またよろしくね！",
             "enText": "Phew. One more time for your adorable \nencore. See you soon, assistant!",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4371122168702676898
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -7321515100822008989
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 2338155164409765663
+                }
+            ],
             "pathId": 8539669162010653897,
             "blockIdx": 13
         },
@@ -147,6 +308,21 @@
             "jpText": "あははっ。\r\nマジックパワー！　いいね、それ！",
             "enText": "Hahaha. Magic power! Nice one, that!",
             "nextBlock": 15,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7878718412155563029
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3411192277626176093
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 2105900036279106345
+                }
+            ],
             "pathId": -8481528558729061371,
             "blockIdx": 14
         },
@@ -156,6 +332,21 @@
             "jpText": "すごいすごい！\r\nお姉ちゃん、魔法使い！？",
             "enText": "Great, great, great! Sis, you're a wizard!",
             "nextBlock": 16,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -6604537801348862769
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -3792798404750477579
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 3028966815777691075
+                }
+            ],
             "pathId": 2000128186082441671,
             "blockIdx": 15
         },
@@ -165,6 +356,21 @@
             "jpText": "ふふっ、そうだよ。証拠もある。\r\nほら、君。反対のポケットも見てごらん？",
             "enText": "Hmmm, yes. I have proof. Here, boy. \nLook in the other pocket.",
             "nextBlock": 17,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -150413490385540333
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -5335103753432912215
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4490544349529696166
+                }
+            ],
             "pathId": -4847319397907822496,
             "blockIdx": 16
         },
@@ -174,8 +380,24 @@
             "jpText": "――反対のポケットからは、\r\n更にもう1枚コインが出てきたのだった。",
             "enText": "—In the opposite pocket, \nanother coin was found.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -639416170818048297
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -134989902656526764
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1358953723724423173
+                }
+            ],
             "pathId": -1476047887999335096,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669945947
 }

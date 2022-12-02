@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "HGHF3AA3QSQBBG45DICCOPXHWVHCBXH4",
     "type": "story",
     "storyId": "501030718",
@@ -11,6 +11,18 @@
             "jpText": "お休みありがとう、お兄さま……！\r\nライスね、お花屋さんにいってきたんだ。",
             "enText": "Thanks for the rest, brother…! Rice, \nI went to the flower shop.",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -6328565056996156459
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -3729706654870381079
+                }
+            ],
             "pathId": 1788903486026655022,
             "blockIdx": 1
         },
@@ -20,6 +32,18 @@
             "jpText": "お休みありがとう、お姉さま……！\r\nライスね、お花屋さんにいってきたんだ。",
             "enText": "Thanks for the rest, sis…! Rice, \nI went to the flower shop.",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 5332105264060899054
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5662462569167024891
+                }
+            ],
             "pathId": -9136246565807731729,
             "blockIdx": 2
         },
@@ -29,6 +53,17 @@
             "jpText": "ひんやりしたお店で、お花に囲まれてると、\r\nとっても落ち着けて……。",
             "enText": "In a cool store, surrounded by flowers, \nyou can feel very relaxed…",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 7011462317036931078
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6758495973279509721
+                }
+            ],
             "pathId": 2661361582894975923,
             "blockIdx": 3
         },
@@ -38,8 +73,20 @@
             "jpText": "ふふっ、なんだか今日のトレーニング、\r\nがんばれる気がする……！",
             "enText": "Hmmm, I feel like I'm going to do \na great job training today…!",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 5868453672044957238
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3857318826220232977
+                }
+            ],
             "pathId": -7879333207650269704,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945563
 }

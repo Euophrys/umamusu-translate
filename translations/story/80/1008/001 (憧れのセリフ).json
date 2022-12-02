@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "HBPJOFEIF5N6ZR4J2ORMKQVFQXJUZSVJ",
     "type": "story",
     "storyId": "801008001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、トレーナー室へ向かっていると――",
             "enText": "One day, on the way\nto the trainer's office...",
             "nextBlock": 2,
+            "origClipLength": 58,
             "pathId": 6568414105838612420,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "『天上天下唯我独尊……ブチカマすぜぇ！！』",
             "enText": "\"Throughout the heavens and earth,\nI alone am the honored one...\nCome, I'll kick your ass.\"",
             "nextBlock": 3,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": 7178130391991144911
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -4747832582509269292
+                }
+            ],
             "pathId": -2751798553862275875,
             "blockIdx": 2
         },
@@ -29,11 +41,22 @@
             "jpText": "なんっかちげーな。もーちっとこう……\r\n……『ブチカマすぜぇぇ！！』",
             "enText": "Hmm, that feels off. It should be\nmore like... \"I'm gonna kick your ass!\"",
             "nextBlock": 4,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "ブチカマ……？",
                     "enText": "Kick my ass...?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -1455924765181938600
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -4702115049584295094
                 }
             ],
             "pathId": 3612433217847893719,
@@ -45,6 +68,17 @@
             "jpText": "――ハッ！\r\nアアアアンタ、いつの間に……！",
             "enText": "--Woah!\nS-since when have you been here?",
             "nextBlock": 5,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 3505773359932810181
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -53779727413987938
+                }
+            ],
             "pathId": 5605984693871499806,
             "blockIdx": 4
         },
@@ -54,6 +88,17 @@
             "jpText": "つーか、まてまて誰にも言うなよ！？\r\nカッコつけの練習見られるとかダセェだろ！？",
             "enText": "I mean, don't tell anyone about this!\nBeing seen practicing cool phrases\nwould be seriously lame.",
             "nextBlock": 6,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 9104352600134177186
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 5786682150428706956
+                }
+            ],
             "pathId": -4716578934516563664,
             "blockIdx": 5
         },
@@ -63,6 +108,7 @@
             "jpText": "それに、本当はもっとカッケェんだ。\r\n今のは全然仕上がってねーの！",
             "enText": "The real deal's much cooler too.\nI haven't managed to get it down\nat all yet.",
             "nextBlock": 7,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "何のセリフなんだ？",
@@ -75,6 +121,16 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -3079155095012160729
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 4188126987559001233
+                }
+            ],
             "pathId": -3022454283184861431,
             "blockIdx": 6
         },
@@ -84,6 +140,17 @@
             "jpText": "ああ、俺の好きな不良漫画のワンシーンでさ、\r\n下剋上を誓って、トップに宣戦布告すんだよ。",
             "enText": "It's a phrase from a delinquent manga that I\nlike. In that scene, the main character\ndeclares that he'll overthrow the top.",
             "nextBlock": 8,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -8321046150557319699
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 4746294563663271624
+                }
+            ],
             "pathId": -5823152948019756289,
             "blockIdx": 7
         },
@@ -93,6 +160,17 @@
             "jpText": "『天上天下唯我独尊……ブチカマすぜぇ！』\r\nってなぁ！　くぅ～～～、カッケェ～～ッ！",
             "enText": "So he's like \"I'm gonna kick your ass!\"\nMan, he's seriously so cool!",
             "nextBlock": 9,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -3063071022883581952
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -7896101805877958920
+                }
+            ],
             "pathId": -4401138221719148632,
             "blockIdx": 8
         },
@@ -102,6 +180,7 @@
             "jpText": "でもさ、俺が言うとなんーか違うっつーか……\r\nワイルドさが足りねーのかなぁ、うーん……。",
             "enText": "But it doesn't feel right when I say it.\nMaybe I'm lacking wildness...",
             "nextBlock": 10,
+            "origClipLength": 74,
             "choices": [
                 {
                     "jpText": "見た目をワイルドにしてみたら？",
@@ -114,6 +193,16 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -5613009901341255946
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -3624914445316321537
+                }
+            ],
             "pathId": -5230187488591532403,
             "blockIdx": 9
         },
@@ -123,6 +212,17 @@
             "jpText": "見た目を……！　その手があったか！\r\n確かに、あの漫画のヤツら超ムキムキだぜ！",
             "enText": "Oh, I didn't consider looking wild yet.\nThinking of it, everyone in the\nmanga is really muscular too!",
             "nextBlock": 11,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 548887103834023722
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5471209092603182817
+                }
+            ],
             "pathId": -1067756012550727100,
             "blockIdx": 10
         },
@@ -132,6 +232,17 @@
             "jpText": "ムキムキになりゃ、ムキムキの見てる世界が\r\nわかるかもしんねぇ！",
             "enText": "If I become really muscular too,\nmaybe I'll understand the way\nbuff people see the world better!",
             "nextBlock": 12,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 6209109333154221226
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7873035319666013697
+                }
+            ],
             "pathId": -7760042973725619736,
             "blockIdx": 11
         },
@@ -141,6 +252,17 @@
             "jpText": "よっしゃわかった！　ちょっとムキムキに\r\nなってくるわ！　サンキュー！",
             "enText": "Okay, got it! I'm gonna go\nget muscular too! Thanks!",
             "nextBlock": 13,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -7122946655156648318
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 936016700930746548
+                }
+            ],
             "pathId": -5165921303071080669,
             "blockIdx": 12
         },
@@ -150,6 +272,7 @@
             "jpText": "その後、ウオッカがジムにて、かなり熱心に\r\n筋トレをしていたという噂を聞いた。",
             "enText": "After that, I heard about how\nVodka feverously trained at the gym.",
             "nextBlock": -1,
+            "origClipLength": 70,
             "pathId": 4728923334065708207,
             "blockIdx": 13
         },
@@ -159,6 +282,17 @@
             "jpText": "ワイルドなポーズか……。\r\n確かに、カッケェポーズでキめてたな……。",
             "enText": "Striking a cool pose, huh...\nYeah, I think that could work.",
             "nextBlock": 15,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 3940886075076105422
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 2057969777478647423
+                }
+            ],
             "pathId": -5901416184483430351,
             "blockIdx": 14
         },
@@ -168,6 +302,17 @@
             "jpText": "こうか？　それともこう？　こっちがいいか？\r\n意外とポーズとるの、筋肉使うな！？",
             "enText": "Like this? Or more like this? What do you\nthink about this? Woah, striking a pose uses\nmore muscles than I expected!",
             "nextBlock": 16,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 863327195383145059
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 1643794921321136150
+                }
+            ],
             "pathId": 6551231938462432627,
             "blockIdx": 15
         },
@@ -177,6 +322,17 @@
             "jpText": "スッゲーテンション上がってきたぜ……！\r\nちょっと鏡取ってくる！　サンキューな！",
             "enText": "Alright, now I'm pumped! Time to go\ncheck this out in a mirror! Thanks!",
             "nextBlock": 17,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 2484108550467027686
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 5592617181455575471
+                }
+            ],
             "pathId": -8243106386738906873,
             "blockIdx": 16
         },
@@ -186,8 +342,10 @@
             "jpText": "ウオッカのポーズの研究は、\r\n夜が更けるまで熱心に行われたようだった。",
             "enText": "And so, Vodka enthusiastically\npracticed posing late into the night.",
             "nextBlock": -1,
+            "origClipLength": 67,
             "pathId": 3346411762792462372,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669945948
 }

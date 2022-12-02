@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "53YOKFYLGRN7ZSKDLC62EHG3TZQ42ZAQ",
     "type": "story",
     "storyId": "501030710",
@@ -11,6 +11,17 @@
             "jpText": "うぅ……ライス、負けちゃった……。",
             "enText": "Ugh… Rice, lost…",
             "nextBlock": 2,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 8990691213990273891
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -5289171706895677922
+                }
+            ],
             "pathId": 8462582542077670317,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "ごめんなさい。ライス、\r\nお兄さまをがっかりさせちゃったよね……。",
             "enText": "I'm sorry. Rice, is sorry to disappoint you…",
             "nextBlock": 3,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "まだ次がある",
@@ -30,6 +42,17 @@
                     "jpText": "負けた理由を探ろう",
                     "enText": "Let's find out why we lost.",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 2020650371947784848
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 4325073382274040384
                 }
             ],
             "pathId": -772941298950913255,
@@ -41,6 +64,7 @@
             "jpText": "ごめんなさい。ライス、\r\nお姉さまをがっかりさせちゃったよね……。",
             "enText": "I'm sorry. Rice, is sorry \nI let your sister down…",
             "nextBlock": 4,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "まだ次がある",
@@ -53,6 +77,17 @@
                     "nextBlock": 8
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -1762388868344422133
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 2616734564408693750
+                }
+            ],
             "pathId": -4305470406933608711,
             "blockIdx": 3
         },
@@ -62,6 +97,18 @@
             "jpText": "えっと……う、うん。\r\nお兄さまのいう通りだね……。",
             "enText": "Well… yeah. Your brother is right…",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -8474366137274601153
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3395914634706398764
+                }
+            ],
             "pathId": -8218911349882736850,
             "blockIdx": 4
         },
@@ -71,6 +118,18 @@
             "jpText": "えっと……う、うん。\r\nお姉さまのいう通りだね……。",
             "enText": "Well… yeah. Your sister is right…",
             "nextBlock": 6,
+            "origClipLength": 61,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 7645924306920866890
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -6649652661743756747
+                }
+            ],
             "pathId": -8422721167371096619,
             "blockIdx": 5
         },
@@ -80,6 +139,18 @@
             "jpText": "次は勝つから……お兄さま……\r\nちゃんと、ライスを見ててね……。",
             "enText": "I'll win next time… Brother… \nmake sure you watch Rice…",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -6553790982597652012
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -1807193217948694642
+                }
+            ],
             "pathId": -8768015584770538857,
             "blockIdx": 6
         },
@@ -89,6 +160,18 @@
             "jpText": "次は勝つから……お姉さま……\r\nちゃんと、ライスを見ててね……。",
             "enText": "We'll win next time… Sis… make \nsure you watch Rice…",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -9135117918776003519
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1082065833407396255
+                }
+            ],
             "pathId": 7022317003301752491,
             "blockIdx": 7
         },
@@ -98,6 +181,17 @@
             "jpText": "理由……そっか、ただがんばるだけじゃ、\r\nまた負けちゃうもんね……。",
             "enText": "The reason… I see, if you just try \nyour best, you will lose again…",
             "nextBlock": 9,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -6999669906055029543
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4774144172741600405
+                }
+            ],
             "pathId": -497967492065420271,
             "blockIdx": 8
         },
@@ -107,6 +201,17 @@
             "jpText": "負けた原因を探って、次に活かす……。",
             "enText": "Find out why you lost and use it next time…",
             "nextBlock": 10,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 8104684738167431838
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 7910280376570955871
+                }
+            ],
             "pathId": 2529256625598142163,
             "blockIdx": 9
         },
@@ -116,6 +221,17 @@
             "jpText": "……だめだめでも、落ち込んで\r\nばかりじゃ、だめだめのままだもんね……。",
             "enText": "… Even if you're not good enough, \nif you're always depressed, you're \nstill not good enough…",
             "nextBlock": 11,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -3044593428325480229
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 7414012417345026510
+                }
+            ],
             "pathId": -3123883742102824766,
             "blockIdx": 10
         },
@@ -125,6 +241,17 @@
             "jpText": "ライス、負けた原因を見つけてみる……。\r\nそれで……次は、勝ちたい……！",
             "enText": "Rice, try to find out why you lost… \nSo… next time, I want to win…!",
             "nextBlock": 12,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 2629071560733318501
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -5680465716738375956
+                }
+            ],
             "pathId": -7118920695285979213,
             "blockIdx": 11
         },
@@ -134,8 +261,20 @@
             "jpText": "その後、負けたレースを見直したのだったが、\r\nライスシャワーは不思議とノリノリであった。",
             "enText": "Afterwards, I reviewed the race I had lost, \nand Rice Shower was strangely in a groove.",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -4292482519753327138
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 6988705504272897008
+                }
+            ],
             "pathId": 8538769347298559638,
             "blockIdx": 12
         }
-    ]
+    ],
+    "modified": 1669945561
 }

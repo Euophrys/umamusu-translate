@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4UB6XTFK6ITW462QCF7TZZLGQHCZEF6N",
     "type": "story",
     "storyId": "801065002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、商店街で買い物をしていると\r\n大きな笑い声が聞こえてきた。",
             "enText": "One day, while I was shopping in the \nshopping street, I heard a loud laugh.",
             "nextBlock": 2,
+            "origClipLength": 88,
             "pathId": -3935484568342193006,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "あはははははははっ！",
             "enText": "Hahahahahahaha!",
             "nextBlock": 3,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 8571185434553166520
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -5966522125067990385
+                }
+            ],
             "pathId": 7948504578340878324,
             "blockIdx": 2
         },
@@ -29,6 +41,7 @@
             "jpText": "ちょっ、きいてきいてー！",
             "enText": "No, no, no, no, no!",
             "nextBlock": 4,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
@@ -41,6 +54,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -1079376464188141536
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -4842087427873214246
+                }
+            ],
             "pathId": 8540640967086148197,
             "blockIdx": 3
         },
@@ -50,6 +73,21 @@
             "jpText": "……ぷっ、あはははははっ！",
             "enText": "… Pfft, hahahahaha!",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 4361506994013348952
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5777268142363430873
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -1388971610938659348
+                }
+            ],
             "pathId": -3041783451228963153,
             "blockIdx": 4
         },
@@ -59,6 +97,7 @@
             "jpText": "ヤバ、マジウケすぎて\r\nうまくしゃべらんないかも……っ！",
             "enText": "Oh no, I think I'm too funny to speak well…",
             "nextBlock": 6,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "そこは気合いでこらえて！",
@@ -71,6 +110,20 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1570512774963790845
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -861998835378956033
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 1486379883697219130
+                }
+            ],
             "pathId": 1810796140816105196,
             "blockIdx": 5
         },
@@ -80,6 +133,17 @@
             "jpText": "ふぬぬぬー……っ！\r\nよし、気合いおけっ！",
             "enText": "Funununu…! Okay, brace yourself!",
             "nextBlock": 7,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -8292305356585804912
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 5182646853487071068
+                }
+            ],
             "pathId": -8160086884546513008,
             "blockIdx": 6
         },
@@ -89,6 +153,17 @@
             "jpText": "あのね、さっき八百屋さんで見かけた\r\nにんじんがあくびしたゴルシの顔と\nマジそっくりで――",
             "enText": "You know, I saw a carrot in the grocery \nstore a while ago that looked exactly like \nthe face of a yawning Gorsy.",
             "nextBlock": 8,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -9096894168546112439
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -9156768277772357873
+                }
+            ],
             "pathId": -7302607110385820011,
             "blockIdx": 7
         },
@@ -98,6 +173,21 @@
             "jpText": "ニャーーー！",
             "enText": "Meow!",
             "nextBlock": 9,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 1249250470915832365
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 3046920096633378133
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 1350320702697109594
+                }
+            ],
             "pathId": -5169026355770527840,
             "blockIdx": 8
         },
@@ -107,6 +197,7 @@
             "jpText": "っ！　ネコっ！？\r\nちょっ、あはははははっ――！",
             "enText": "Cat! Cat! Wait, hahahahahaha—!",
             "nextBlock": 10,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "え、何がおもしろかったんだ？",
@@ -119,6 +210,20 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4444201403263515624
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -5147602267336599715
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -8535731398874093142
+                }
+            ],
             "pathId": -7065330790265310919,
             "blockIdx": 9
         },
@@ -128,6 +233,17 @@
             "jpText": "さ、左右のヒゲの長さが違ってて――",
             "enText": "Well, the length of the beard \non each side is different…",
             "nextBlock": 11,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -4838305608116108932
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7126601815154802171
+                }
+            ],
             "pathId": -3306529052727281227,
             "blockIdx": 10
         },
@@ -137,6 +253,17 @@
             "jpText": "ワン、ワン！",
             "enText": "Woof, woof!",
             "nextBlock": 12,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5056393330409273471
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7892254532996012779
+                }
+            ],
             "pathId": -3481735027703124756,
             "blockIdx": 11
         },
@@ -146,6 +273,17 @@
             "jpText": "イ、イヌぅぅぅー！\r\nあははははっ、めっちゃカワイイー！",
             "enText": "Aww, doggy! Hahahahaha, so cute!",
             "nextBlock": 13,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 150516465892548985
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -4899192605075705074
+                }
+            ],
             "pathId": -6198299695347395342,
             "blockIdx": 12
         },
@@ -155,6 +293,17 @@
             "jpText": "はぁ、はぁ……ウケすぎて、秒で腹筋\r\n50回したくらいしんどいかも……っ！",
             "enText": "Haha, haha… It's so funny, I think I just \ndid 50 sit-ups in a second…!",
             "nextBlock": 14,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -918839963004622204
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -6392890740256318413
+                }
+            ],
             "pathId": -3780251446243174265,
             "blockIdx": 13
         },
@@ -164,6 +313,17 @@
             "jpText": "って、ヤバ、もうこんな時間！？\r\nこのあと併走の約束してたんだっけ――！",
             "enText": "Oh no, it's already late! I thought we were \nsupposed to be running together after this!",
             "nextBlock": 15,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -935335530749862192
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -1504272630460171471
+                }
+            ],
             "pathId": -286923747343227585,
             "blockIdx": 14
         },
@@ -173,6 +333,17 @@
             "jpText": "その後、ダイタクヘリオスは猛スピードで\r\n学園に向かって走り去るのだった。",
             "enText": "Afterwards, Daitaku Helios drove off towards \nthe school at great speed.",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": -1087453367437100800
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 4249725660693097892
+                }
+            ],
             "pathId": 6238955742269690801,
             "blockIdx": 15
         },
@@ -182,6 +353,17 @@
             "jpText": "りょ。\r\nまずは、深呼吸してみる！",
             "enText": "The first step is to take a deep breath!",
             "nextBlock": 17,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 1586604292435734009
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -5944251038817708478
+                }
+            ],
             "pathId": 6259679820947530695,
             "blockIdx": 16
         },
@@ -191,6 +373,21 @@
             "jpText": "すぅ～……はぁ～～……。",
             "enText": "Soooo~… haha~…",
             "nextBlock": 18,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 3317051901496929818
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 6832831762212522416
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6788716229552627659
+                }
+            ],
             "pathId": 6095829861436621218,
             "blockIdx": 17
         },
@@ -200,6 +397,21 @@
             "jpText": "で、次は落ち着きそうなことを\r\nイメージして……。",
             "enText": "So, next time you're feeling \nrestless, imagine this…",
             "nextBlock": 19,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -886069937934227069
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 1570874144735227481
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 8831632568250148086
+                }
+            ],
             "pathId": 8853649807423701814,
             "blockIdx": 18
         },
@@ -209,6 +421,29 @@
             "jpText": "そうだ！\r\n前にルドルフ会長がしてたスピーチ――",
             "enText": "That's right! The speech that President \nRudolph gave before—",
             "nextBlock": 20,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": -9165536382892411729
+                },
+                {
+                    "origLen": 10,
+                    "pathId": -2471950195666931424
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 2353104835988493151
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 2412187578519054209
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6272205063068630365
+                }
+            ],
             "pathId": -8199916536288756400,
             "blockIdx": 19
         },
@@ -218,11 +453,30 @@
             "jpText": "ぷっ、あははははっ！",
             "enText": "Pfft, hahahaha!",
             "nextBlock": 21,
+            "origClipLength": 74,
             "choices": [
                 {
                     "jpText": "えぇっ！？",
                     "enText": "What?",
                     "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 3914127052080880097
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -1534726035198945324
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 7919912728110498236
+                },
+                {
+                    "origLen": 10,
+                    "pathId": -1220933151895048606
                 }
             ],
             "pathId": -2143876851703863708,
@@ -234,6 +488,17 @@
             "jpText": "はぁ、はぁ……ごめっ、\r\n会長ダジャレ言ってたから、つい……！",
             "enText": "Haha, haha… Sorry, I was just \npunning on the chairman…!",
             "nextBlock": 22,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 6266198272497552538
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 6366872092876100404
+                }
+            ],
             "pathId": 6056240497472693011,
             "blockIdx": 21
         },
@@ -243,8 +508,20 @@
             "jpText": "その後も何とか落ち着こうと試みるも、\r\n逆にダイタクヘリオスは笑い転げて\nしまうのだった。",
             "enText": "She tried to keep her composure, but Daitaku \nHelios was laughing all the way to the bank.",
             "nextBlock": -1,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 6515307013421833127
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -5990850141308456084
+                }
+            ],
             "pathId": -3590564605261804593,
             "blockIdx": 22
         }
-    ]
+    ],
+    "modified": 1669945971
 }

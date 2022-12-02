@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "LHTTBEXJ5LEMPUTEG66WLX2A3YRPBPU6",
     "type": "story",
     "storyId": "501004700",
@@ -11,6 +11,7 @@
             "jpText": "おはよう、トレーナー君。\n……はふ。",
             "enText": "Good morning, trainer. Good\nmorning, trainer… haha.",
             "nextBlock": 2,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "寝不足なのか？",
@@ -21,6 +22,21 @@
                     "jpText": "寝不足なの？",
                     "enText": "Are you sleep deprived? ",
                     "nextBlock": 3
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 6534512631739072955
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -8525750828883517171
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -1480671462927212503
                 }
             ],
             "pathId": -3918983237205891271,
@@ -32,6 +48,7 @@
             "jpText": "おはよう、トレーナーちゃん。\n……はふ。",
             "enText": "Good morning, trainer. Good\nmorning, trainer… haha.",
             "nextBlock": 3,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "寝不足なのか？",
@@ -44,6 +61,21 @@
                     "nextBlock": 3
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 5578241654417538864
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 2034417144537453501
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3591958655068643755
+                }
+            ],
             "pathId": 2302288088251849309,
             "blockIdx": 2
         },
@@ -53,6 +85,21 @@
             "jpText": "やーね、そんなことないわよ！",
             "enText": "Oh, no, you don't!",
             "nextBlock": 4,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -1665530696746714671
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8065894570802183616
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3421688506086128344
+                }
+            ],
             "pathId": -2302666794901396662,
             "blockIdx": 3
         },
@@ -62,6 +109,17 @@
             "jpText": "ただ昨日は友だちとガールズトークで、\r\nついつい盛り上がっちゃって。",
             "enText": "But yesterday, I was having a girl talk\nwith my friends and we got carried away.",
             "nextBlock": 5,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -958487856796050054
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -5930100102959148690
+                }
+            ],
             "pathId": -3546762705457917776,
             "blockIdx": 4
         },
@@ -71,6 +129,17 @@
             "jpText": "門限ギリギリになっちゃった彼女を、\nあたしのタッちゃんで送っていったわ。",
             "enText": "I drove her home in my Tacchan when\nshe was just before her curfew.",
             "nextBlock": 6,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 3324998047672316387
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7295360050205154196
+                }
+            ],
             "pathId": 1248132168989709819,
             "blockIdx": 5
         },
@@ -80,6 +149,17 @@
             "jpText": "でも、昨日は昨日。今日は今日。\n問題ナッシングよ！",
             "enText": "But yesterday was yesterday.\nToday is today. No problem!",
             "nextBlock": 7,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 1094915325966972407
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 6229975426942813309
+                }
+            ],
             "pathId": 6100909920465030694,
             "blockIdx": 6
         },
@@ -89,6 +169,21 @@
             "jpText": "…………はふぅ。",
             "enText": "… phew.",
             "nextBlock": 8,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -1080289165065121083
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -723259146795804088
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -2838822556438307975
+                }
+            ],
             "pathId": -3636778203486229430,
             "blockIdx": 7
         },
@@ -98,8 +193,24 @@
             "jpText": "とは言っているものの、\n眠そうなマルゼンスキーだった。",
             "enText": "But Maruzensky looked sleepy.",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -2879845758522430701
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -4972339113014463336
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 7416788562640696063
+                }
+            ],
             "pathId": -6385915354847950578,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669944918
 }

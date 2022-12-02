@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QCB2PQ3ULZHHC3Z5RM5IJC5CDZ3KIQYP",
     "type": "story",
     "storyId": "501008407",
@@ -11,6 +11,17 @@
             "jpText": "再びやってきた、合宿の季節。\r\nアウトローらしくバイクを転がして、\nバスを追い抜き合宿所へやってきたウオッカ。",
             "enText": "It's training camp season again. Vodka rolls \nher motorcycle like an outlaw, passes a bus, \nand arrives at the training camp.",
             "nextBlock": 2,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 9086776538173099421
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 5076339494555590421
+                }
+            ],
             "pathId": -6963881710155974059,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "だが本当は、そのバイクは父親のもの。\r\nカッコよさをアピールするため、二人乗りで\n連れてきてもらったのだ。",
             "enText": "But the truth is that the bike belongs to her \nfather. In order to show off her coolness, \nShe had me ride with her.",
             "nextBlock": 3,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 6512541409949491415
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 3971692043332188963
+                }
+            ],
             "pathId": -178343154467587121,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "そんな見栄っ張りな彼女との\r\n夏合宿が、再び始まった！",
             "enText": "The summer camp with such a \nvain girl has begun again!",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 2687935198196528986
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -6117511127433062387
+                }
+            ],
             "pathId": -1113833332090180290,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945039
 }

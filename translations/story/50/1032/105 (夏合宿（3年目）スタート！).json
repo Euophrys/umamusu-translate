@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CIH6HCWVWZTCZUXUQLC6MQFQPHVWHAZ7",
     "type": "story",
     "storyId": "501032105",
@@ -11,6 +11,17 @@
             "jpText": "今日から『夏合宿』――\r\n残る『天皇賞（秋）』と『有馬記念』を\n制覇するため、熱い合宿が始まる！",
             "enText": "Today begins the \"Summer Training Camp\" -\nan intense training camp to conquer the\nremaining \"Emperor's Prize (Autumn)\" and\n\"Arima Kinen\"!",
             "nextBlock": 2,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -8230537554049056725
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 8620929514229857983
+                }
+            ],
             "pathId": 8667495818225690167,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "いいかいトレーナー君！\r\n夏にしかできないトレーニングは\n星の数ほどある！",
             "enText": "Listen up, trainers! There's a million\nthings you can only do in the summer!",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -3838517469605314227
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7952880975986987647
+                }
+            ],
             "pathId": -2875580485350342218,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "時間は有限、\r\n効率的なトレーニングを組みたまえ！",
             "enText": "Your time is limited, make\nyour training efficient!",
             "nextBlock": 4,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -6308574898883377433
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -916119903920055869
+                }
+            ],
             "pathId": -3660774864501352977,
             "blockIdx": 3
         },
@@ -38,8 +71,20 @@
             "jpText": "アグネスタキオンも、去年とは打って変わり、\r\nトレーニングに精を出す心持ちのようだ……！",
             "enText": "Agnes Tachyon has also changed from last\nyear, and seems to be ready to train\nharder…!",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -2423362576631313974
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 3607822895477083279
+                }
+            ],
             "pathId": -3721618963446315450,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945568
 }

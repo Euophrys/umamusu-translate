@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7UAFIDV333ZBWFFLJMYZWMB3IQFJDG6B",
     "type": "story",
     "storyId": "501004718",
@@ -11,6 +11,17 @@
             "jpText": "ワンツー、ワンツー！\nうん、いい感じ！",
             "enText": "One-two, one-two! Yeah, that's good!",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -2543378323825430726
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -3787615426816894963
+                }
+            ],
             "pathId": -4263817424272170196,
             "blockIdx": 1
         },
@@ -20,6 +31,18 @@
             "jpText": "トレーナー君！　お休みありがとう。\nゆっくりできたわ。",
             "enText": "Trainer! Thanks for the rest.\nI've had a good night.",
             "nextBlock": 3,
+            "origClipLength": 80,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -6193606282950591114
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 1750770614328338977
+                }
+            ],
             "pathId": 5493901001564659283,
             "blockIdx": 2
         },
@@ -29,6 +52,18 @@
             "jpText": "トレーナーちゃん！　お休みありがとう。\nゆっくりできたわ。",
             "enText": "Hey, trainer! Thanks for the rest.\nI've had a good night.",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 2481100144264036543
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 4178426352797525757
+                }
+            ],
             "pathId": 8061054030069232447,
             "blockIdx": 3
         },
@@ -38,6 +73,17 @@
             "jpText": "ふふっ。\n今日も準備はパーペキね。",
             "enText": "Phew. Your preparations are perfect today.",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 8106203683481982946
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -2250924002720971778
+                }
+            ],
             "pathId": -4871006707514520843,
             "blockIdx": 4
         },
@@ -47,8 +93,20 @@
             "jpText": "さあ、アクセル踏み踏み、\nはっぱふみふみで行くわよ♪",
             "enText": "Step on the gas, let's go,\nlet's go, let's go",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -1102264945506602016
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2555131776895001558
+                }
+            ],
             "pathId": 4729439148438340499,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669944923
 }

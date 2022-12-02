@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ZJ37ZKD2BJKT5D3PI2FHYSKK5NHB74DY",
     "type": "story",
     "storyId": "501025400",
@@ -11,6 +11,7 @@
             "jpText": "いよいよトゥインクル・シリーズへの\r\nデビューを目指すマンハッタンカフェ。\n彼女の目標は少し変わっていた。",
             "enText": "Manhattan Cafe is finally ready to make her\ndebut in the Twinkle Series. Her goal was a\nlittle different.",
             "nextBlock": 2,
+            "origClipLength": 114,
             "coloredText": [
                 {
                     "jpText": "トゥインクル・シリーズ",
@@ -19,6 +20,16 @@
                 {
                     "jpText": "マンハッタンカフェ",
                     "enText": "Manhattan Cafe"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -1730503595533061439
+                },
+                {
+                    "origLen": 153,
+                    "pathId": -802879862223802237
                 }
             ],
             "pathId": 7088348855009181171,
@@ -30,6 +41,17 @@
             "jpText": "それは、幼い頃から追い続けている、\r\n彼女にしか見えない『お友だち』に\n追いつき追い越すこと――",
             "enText": "It's about catching up with and overtaking\nthe \"friends\" that only she can see,\nthe ones she's been chasing since\nshe was a child.",
             "nextBlock": 3,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -7972793832880415134
+                },
+                {
+                    "origLen": 153,
+                    "pathId": -3621400721750870887
+                }
+            ],
             "pathId": 1420547282159414717,
             "blockIdx": 2
         },
@@ -39,10 +61,29 @@
             "jpText": "そんな中、早くも高い素質を評価されている\r\nアグネスタキオンもまた、同期として\nトゥインクル・シリーズのデビューを迎える。",
             "enText": "In the meantime, Agnes Tachyon, who has\nalready received high praise for her\npotential, will also be making her debut in\nthe Twinkle Series.",
             "nextBlock": 4,
+            "origClipLength": 124,
             "coloredText": [
                 {
                     "jpText": "アグネスタキオン",
                     "enText": "Agnes Tachyon"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 174,
+                    "pathId": 2831684834721992160
+                },
+                {
+                    "origLen": 180,
+                    "pathId": 8252058075930314517
+                },
+                {
+                    "origLen": 157,
+                    "pathId": -2282161061564281232
+                },
+                {
+                    "origLen": 175,
+                    "pathId": 726326170468237892
                 }
             ],
             "pathId": 6637228650521084241,
@@ -54,8 +95,28 @@
             "jpText": "彼女から期待を向けられるも、\r\nそれでもマンハッタンカフェはあくまで\n自分の目標――『お友だち』を見据えていた。",
             "enText": "Despite her expectations of her,\nManhattan Cafe was still focused\non her goal: her friend.",
             "nextBlock": -1,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 174,
+                    "pathId": 1678716769663235528
+                },
+                {
+                    "origLen": 180,
+                    "pathId": 777466975289743059
+                },
+                {
+                    "origLen": 157,
+                    "pathId": -3724250853740688003
+                },
+                {
+                    "origLen": 175,
+                    "pathId": -7006819748460497584
+                }
+            ],
             "pathId": -7383235908119257203,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669946360
 }

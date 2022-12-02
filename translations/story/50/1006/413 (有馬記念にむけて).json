@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6B5KOPCHXDE6LXDWUMVVT3ADLNZP34Z6",
     "type": "story",
     "storyId": "501006413",
@@ -11,10 +11,21 @@
             "jpText": "オグリキャップはクラシック級の身で\r\n見事、『有馬記念』への出走を果たした。",
             "enText": "Oguri Cap, in her classic form, successfully \nentered the \"Arima Kinen.",
             "nextBlock": 2,
+            "origClipLength": 69,
             "coloredText": [
                 {
                     "jpText": "クラシック級",
                     "enText": "classic class"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 797577601182490857
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5237535864838015921
                 }
             ],
             "pathId": 7367047049797560728,
@@ -26,6 +37,17 @@
             "jpText": "さすがの彼女も、\r\nレース直前には緊張を滲ませていたが――",
             "enText": "As you can imagine, she was a bit nervous \njust before the race, but…",
             "nextBlock": 3,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 200805396379898975
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 600873990625232505
+                }
+            ],
             "pathId": -5874958427495428099,
             "blockIdx": 2
         },
@@ -35,8 +57,20 @@
             "jpText": "昨年、観客席で目にした熱と声と興奮。\r\nその全てをもらうと決意を固めるのだった。",
             "enText": "The heat, the voices, the excitement that I \nsaw in the audience last year. She was \ndetermined to get all of that.",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 4632205164454020808
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2039024100415980130
+                }
+            ],
             "pathId": 1798061837220078787,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944978
 }

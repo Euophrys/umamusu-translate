@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "RBWTLHDT7Q3W4CKY7BMOTU7K4IDRS67Z",
     "type": "story",
     "storyId": "801017002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、買い出しの途中――",
             "enText": "One day, while out shopping…",
             "nextBlock": 2,
+            "origClipLength": 61,
             "pathId": -2085885211253068285,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "うん。\r\nこれでひとつ解決だ。",
             "enText": "Yes. That's one solution.",
             "nextBlock": 3,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -896179320922072913
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 6813550755617330864
+                }
+            ],
             "pathId": -8995347091229172798,
             "blockIdx": 2
         },
@@ -29,6 +41,17 @@
             "jpText": "シンボリルドルフが\r\n近くの店舗から出てきたので声をかけてみた。",
             "enText": "Symboli Rudolf came out of a nearby \nshop and I called out to her.",
             "nextBlock": 4,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 1574135933167535222
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 7547098701078933128
+                }
+            ],
             "pathId": -1270542760035786381,
             "blockIdx": 3
         },
@@ -38,6 +61,17 @@
             "jpText": "やあ、奇遇だね。\r\n買い出しか何かかな。",
             "enText": "Hi, how are you? I wonder if you're \nshopping or something.",
             "nextBlock": 5,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 1385051491192448870
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 6085868991751712519
+                }
+            ],
             "pathId": -45883195257413222,
             "blockIdx": 4
         },
@@ -47,11 +81,22 @@
             "jpText": "私はちょうどタオルの発注を終えて、\r\n次に向かうところだ。",
             "enText": "I've just finished ordering the towels and \nam on my way to the next one.",
             "nextBlock": 6,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "タオル？",
                     "enText": "Towels?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 185,
+                    "pathId": -8927174382811721213
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 4966029607222736022
                 }
             ],
             "pathId": 8632927270789500135,
@@ -63,6 +108,17 @@
             "jpText": "ああ。生徒会で準備している\r\n貸し出し用を増やしておこうと思ってね。",
             "enText": "Oh. I thought I'd increase the number of \nloaners we have in the student council.",
             "nextBlock": 7,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -4050820674068482164
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 881401562893039161
+                }
+            ],
             "pathId": -5779518019816498182,
             "blockIdx": 6
         },
@@ -72,6 +128,17 @@
             "jpText": "来週は荒天が続く予報だ。借りに来る子も\r\n増えるだろう。それに備える必要がある。",
             "enText": "The weather is forecast to be stormy next \nweek. There will be more children coming to \nborrow. We need to be prepared for this.",
             "nextBlock": 8,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 1815515963514050835
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 6597656562792112746
+                }
+            ],
             "pathId": -2448489237738990169,
             "blockIdx": 7
         },
@@ -81,6 +148,7 @@
             "jpText": "このあと傘等の雨具の発注もすませれば\r\n万全の態勢が整えられる。",
             "enText": "After this, umbrellas and other rain gear \nwill be ordered and we will be ready to go.",
             "nextBlock": 9,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "ありがとう、おかげで雨の日も安心だ",
@@ -101,6 +169,17 @@
                     "jpText": "お疲れ様。学園のために大変そうだね",
                     "enText": "Good work. You're doing a great \njob for the school.",
                     "nextBlock": 13
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6445951531054665416
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -414028900024359580
                 }
             ],
             "pathId": 4022196030438310208,
@@ -112,6 +191,7 @@
             "jpText": "このあと傘等の雨具の発注もすませれば\r\n万全の態勢が整えられる。",
             "enText": "After this, umbrellas and other rain gear \nwill be ordered and we will be ready to go.",
             "nextBlock": 10,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "ありがとう、おかげで雨の日も安心だ",
@@ -134,6 +214,17 @@
                     "nextBlock": 13
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6915054483403507980
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 8809086129235150754
+                }
+            ],
             "pathId": 8734600517918871741,
             "blockIdx": 9
         },
@@ -143,6 +234,21 @@
             "jpText": "ああ、心置きなく励んでくれ。\r\nそうして欲しくてやっているのでね。",
             "enText": "Yes, feel free to work hard. That's \nwhat I'm trying to do.",
             "nextBlock": 11,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 2498501152221063112
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 41602331051306746
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -1988203066280313827
+                }
+            ],
             "pathId": 7172632186840272718,
             "blockIdx": 10
         },
@@ -152,6 +258,17 @@
             "jpText": "雨の日に限らず、学園の皆が夢に向かって\r\n一意専心できる環境を、私は作りたいんだ。",
             "enText": "I want to create an environment where \neveryone at the school can focus on their \ndreams, not just on a rainy day.",
             "nextBlock": 12,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 6811721929776832368
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -870714388992581048
+                }
+            ],
             "pathId": -5343471189728066640,
             "blockIdx": 11
         },
@@ -161,6 +278,17 @@
             "jpText": "君も何か要望があれば、\r\n遠慮会釈なく言ってくれ。",
             "enText": "If you have any requests, please \ndon't hesitate to ask.",
             "nextBlock": -1,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 1155007069566186630
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 1813387963656879085
+                }
+            ],
             "pathId": 6460134733513096376,
             "blockIdx": 12
         },
@@ -170,6 +298,17 @@
             "jpText": "礼には及ばないよ。生徒会の仕事で\r\n街に出る必要があったから、そのついでさ。",
             "enText": "No need to thank me. I had to go into town \non student council business.",
             "nextBlock": 14,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": 4152174823224154964
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 6549310449813075989
+                }
+            ],
             "pathId": -4523531942210763856,
             "blockIdx": 13
         },
@@ -179,6 +318,17 @@
             "jpText": "それに皆のトレーニング環境向上に\r\n責任がある身だからね。当然のことだ。",
             "enText": "And I'm responsible for improving \nthe training environment for everyone. \nIt's only natural.",
             "nextBlock": 15,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -3622380139462916687
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 222934108626919911
+                }
+            ],
             "pathId": -3649416057258942763,
             "blockIdx": 14
         },
@@ -188,6 +338,17 @@
             "jpText": "さて、発注が終わったら、コースの水はけも\r\nチェックしておきたいな……少し急ぐか。",
             "enText": "Now that the order has been placed, I'd like \nto check the drainage of the course… I'm in \na bit of a hurry.",
             "nextBlock": 16,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -6937304162854268832
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 1459735444323840475
+                }
+            ],
             "pathId": -7370052968456432454,
             "blockIdx": 15
         },
@@ -197,8 +358,20 @@
             "jpText": "シンボリルドルフの\r\n責任感とバイタリティには\n参考にすべき点が多いように感じた。",
             "enText": "I felt that Symboli Rudolf's sense of \nresponsibility and vitality was a good \nexample to follow.",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 2467348215879537066
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -5267773175200829265
+                }
+            ],
             "pathId": -7690999705328944732,
             "blockIdx": 16
         }
-    ]
+    ],
+    "modified": 1669945951
 }

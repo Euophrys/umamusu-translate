@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7GAEREMOF7NIL27PK2ODRVJCO3HXL5XP",
     "type": "story",
     "storyId": "501025108",
@@ -11,6 +11,7 @@
             "jpText": "――ファン感謝祭。トレセン学園では\r\nその日だけ、特別に……。",
             "enText": "—Fan Thanksgiving. That's the\nonly day that the Treasurer's Academy\nhas a special…",
             "nextBlock": 2,
+            "origClipLength": 85,
             "pathId": 6565448099819828527,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "（チリンチリーン）",
             "enText": "(CHIRPING CHIRPING)",
             "nextBlock": 3,
+            "origClipLength": 56,
             "pathId": 5203813483112572742,
             "blockIdx": 2
         },
@@ -29,6 +31,21 @@
             "jpText": "……いらっしゃいませ。",
             "enText": "Welcome to…",
             "nextBlock": 4,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 6009630560143342333
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 5974491154887152100
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 5826089702789831072
+                }
+            ],
             "pathId": -565761283446519054,
             "blockIdx": 3
         },
@@ -38,6 +55,21 @@
             "jpText": "普段は存在しない、居心地のいい\r\nコーヒーショップがオープンするという。",
             "enText": "A cozy coffee shop that doesn't usually\nexist is going to open.",
             "nextBlock": 5,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 2064254359203713911
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6996396427176155685
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7729301912523131599
+                }
+            ],
             "pathId": 4954815408242740415,
             "blockIdx": 4
         },
@@ -47,6 +79,21 @@
             "jpText": "トレーナーさん……お待たせしました。\r\n特別焙煎のマンハッタンブレンドです。",
             "enText": "Trainer… Here you go. This is a\nspecial roasted Manhattan blend.",
             "nextBlock": 6,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -2452533298716922543
+                },
+                {
+                    "origLen": 169,
+                    "pathId": -6412708343047795139
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 8765733284888407262
+                }
+            ],
             "pathId": -317385458348254161,
             "blockIdx": 5
         },
@@ -56,11 +103,26 @@
             "jpText": "どうぞ、お飲みください……。",
             "enText": "Please take a drink at…",
             "nextBlock": 7,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "……………………",
                     "enText": "…",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -8738137615367535231
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -4810759769367490401
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 4602320721032612528
                 }
             ],
             "pathId": -5462291449958465760,
@@ -72,6 +134,7 @@
             "jpText": "……じーっ……。",
             "enText": "… Jeez…",
             "nextBlock": 8,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "他のお客さんの相手しなくていいのか？",
@@ -84,6 +147,20 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 3551724820019361575
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 3657198378083692761
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 8791291168891491404
+                }
+            ],
             "pathId": -7953264032700442198,
             "blockIdx": 7
         },
@@ -93,6 +170,21 @@
             "jpText": "誰もいませんから。この静けさが魅力ですし、\r\nそれに……。",
             "enText": "There's no one around. It's the tranquility\nthat appeals to me, and it's also…",
             "nextBlock": 9,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -7503343595542671546
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 2721853585568822230
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 879093091652668971
+                }
+            ],
             "pathId": 7134897251565812114,
             "blockIdx": 8
         },
@@ -102,6 +194,17 @@
             "jpText": "きっと誰も見つけられません。入り口から\r\n入っても、出口に出てしまいますから……。",
             "enText": "No one will be able to find it. If\nyou go in through the entrance, you\nwill end up in the exit…",
             "nextBlock": 10,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -6680714045763908912
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1080898158098034956
+                }
+            ],
             "pathId": -3467527264321166394,
             "blockIdx": 9
         },
@@ -111,6 +214,17 @@
             "jpText": "……空間が相当なねじれ方をしているらしい。\r\nなんのために開いたのか、わからないが……。",
             "enText": "It seems that… space is twisted in\nquite a few ways. I don't know what it\nopened up for, but…",
             "nextBlock": 11,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 97976692746325062
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -5072062362142449527
+                }
+            ],
             "pathId": 7638899991179090812,
             "blockIdx": 10
         },
@@ -120,6 +234,17 @@
             "jpText": "（チリンチリーン）",
             "enText": "(CHIRPING CHIRPING)",
             "nextBlock": 12,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8103141946562795980
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4562437896362694898
+                }
+            ],
             "pathId": 5225494014409186841,
             "blockIdx": 11
         },
@@ -129,6 +254,29 @@
             "jpText": "クンクン……いい匂い！\r\nやっぱりこんなところにカフェが！",
             "enText": "Kun Kun… smells good! I\nknew there was a cafe here!",
             "nextBlock": 13,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -2210959910841792516
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -3634033400842416759
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 795578460070263832
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 7287436257177425332
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 950247782987810725
+                }
+            ],
             "pathId": 4203872285605403239,
             "blockIdx": 12
         },
@@ -138,6 +286,29 @@
             "jpText": "わぁ、ここ、カフェさんのお店なんですね！",
             "enText": "Wow, so this is your cafe!",
             "nextBlock": 14,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -7430353364758972553
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -8627639065769933570
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -2301130971971438374
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 3300681197654615692
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -3860032650948037406
+                }
+            ],
             "pathId": -3451847105471396903,
             "blockIdx": 13
         },
@@ -147,10 +318,33 @@
             "jpText": "入ってきたのは、北海道生まれの元気ウマ娘、\r\nスペシャルウィークだった。",
             "enText": "The first to enter was Special Week, the\nenergetic horse girl born in Hokkaido.",
             "nextBlock": 15,
+            "origClipLength": 91,
             "coloredText": [
                 {
                     "jpText": "スペシャルウィーク",
                     "enText": "Special Week"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 5072449487306871057
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 3289144774627357721
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 118042125920788917
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 8615357783167834933
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2555813637737524664
                 }
             ],
             "pathId": -1786409904852487404,
@@ -162,6 +356,25 @@
             "jpText": "あのっ、『クリームなまらデカ盛りコーヒー』\r\nください！",
             "enText": "Excuse me, I'll have a cup of \"creamy,\ndecadent coffee\" please!",
             "nextBlock": 16,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -4899413463442634076
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -2993112477914085646
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 6313691588652693898
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 2893702893991555725
+                }
+            ],
             "pathId": 3542387787789998792,
             "blockIdx": 15
         },
@@ -171,6 +384,25 @@
             "jpText": "……は、はい。スペさん、\r\nどうしてこの場所が……。",
             "enText": "… yes. Ms. Spee, why\nis this place…",
             "nextBlock": 17,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -8195599212700489888
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -4998814619829484911
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -6508474571558011326
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -9039443701579894587
+                }
+            ],
             "pathId": 3035189701626770966,
             "blockIdx": 16
         },
@@ -180,6 +412,29 @@
             "jpText": "どうやって見つけたのですか？",
             "enText": "How did you find it?",
             "nextBlock": 18,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -1929580546791843808
+                },
+                {
+                    "origLen": 163,
+                    "pathId": 3795747810843628873
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2417396688219263363
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6308492052608913274
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3330152604857632828
+                }
+            ],
             "pathId": 1774343134903638137,
             "blockIdx": 17
         },
@@ -189,6 +444,29 @@
             "jpText": "えーと、それはー……\r\n美味しそうな匂いがしたから？",
             "enText": "Well, is it because… smells delicious?",
             "nextBlock": 19,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 3170813836146030758
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5787110201559487245
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5540001702955705893
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2391814456080681006
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7987464480367157946
+                }
+            ],
             "pathId": 8984335006128082618,
             "blockIdx": 18
         },
@@ -198,6 +476,29 @@
             "jpText": "美味しそう……。そうですか……。",
             "enText": "Looks good… Oh yeah…",
             "nextBlock": 20,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 1058326463784640304
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 4723595952671331539
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2856462596219533962
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4386787596871414059
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 199911114520089743
+                }
+            ],
             "pathId": -6819954832658956,
             "blockIdx": 19
         },
@@ -207,6 +508,29 @@
             "jpText": "口では納得していたものの、\r\nマンハッタンカフェはずっと訝しげな目で、\nスペシャルウィークを見ていた……。",
             "enText": "Although she was verbally convinced,\nManhattan Cafe kept looking at Special Week\nwith quizzical eyes…",
             "nextBlock": 21,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": -5336526736475943978
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 617660643918284963
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 7673368519011757012
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -1153711287206882388
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -616400848426549298
+                }
+            ],
             "pathId": 2302527173863807096,
             "blockIdx": 20
         },
@@ -216,6 +540,33 @@
             "jpText": "お待たせしました。\r\n『ウインナーコーヒー（大）』\nここに置きますね。",
             "enText": "Thank you for waiting. I'll put\nthe large sausage coffee here.",
             "nextBlock": 22,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3452615375220433832
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 4317579129616771205
+                },
+                {
+                    "origLen": 163,
+                    "pathId": 176040405172694351
+                },
+                {
+                    "origLen": 181,
+                    "pathId": 463265931790309173
+                },
+                {
+                    "origLen": 141,
+                    "pathId": 7610470015668343951
+                },
+                {
+                    "origLen": 147,
+                    "pathId": 2968548825954898256
+                }
+            ],
             "pathId": 5354650766452453462,
             "blockIdx": 21
         },
@@ -225,6 +576,29 @@
             "jpText": "わー、本当にクリームたくさん！　よーし、\r\nこれ飲んで、今日の感謝祭も春のレースも\nけっぱるぞー！",
             "enText": "Wow, that's a lot of cream! Okay, I'm going\nto drink this and kick ass at Thanksgiving\ntoday and the spring races!",
             "nextBlock": 23,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -5402776499748815575
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 5696849081695520954
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -8135970600025808508
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 8417522542730083649
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -6202296292165585630
+                }
+            ],
             "pathId": 1935200723267784864,
             "blockIdx": 22
         },
@@ -234,6 +608,25 @@
             "jpText": "あの……スペさん？\r\n春のレースって……どこに出走を……？",
             "enText": "Um, Ms. Spe? What spring race are you\n… going to… run?",
             "nextBlock": 24,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 7015291087353658977
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 4126002377494667020
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 5644751379485260495
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7140003433158522001
+                }
+            ],
             "pathId": -5921051211547073952,
             "blockIdx": 23
         },
@@ -243,6 +636,25 @@
             "jpText": "え、レースの予定ですか？\r\nいろいろ考えてますけど、\n絶対に出るって決めてるのは……。",
             "enText": "Oh, you're planning a race? I'm thinking\nabout a lot of things, but the one I'm\ndefinitely going to do is…",
             "nextBlock": 25,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -7618743544677691410
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 952318331205009680
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -3609989228862352742
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 1999914020717095964
+                }
+            ],
             "pathId": -315399371491240773,
             "blockIdx": 24
         },
@@ -252,6 +664,29 @@
             "jpText": "『天皇賞（春）』です！",
             "enText": "It's the Emperor's Championship!",
             "nextBlock": 26,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 5878063491139780333
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 1760327105357628782
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 2895720228857725471
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -5196157556054156159
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -5696725246801106303
+                }
+            ],
             "pathId": -5979690831469095708,
             "blockIdx": 25
         },
@@ -261,6 +696,33 @@
             "jpText": "天皇賞……（春）……。やっぱり……。",
             "enText": "The Emperor's Award… (Spring)\n… It's still…",
             "nextBlock": 27,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 264513348883935740
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 8122908413109950078
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -8906956787973286283
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 5299794961485491548
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -7036777834401821961
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2225525836297809909
+                }
+            ],
             "pathId": 7826832791239788981,
             "blockIdx": 26
         },
@@ -270,6 +732,33 @@
             "jpText": "マンハッタンカフェも出る予定のレース。\r\nスペシャルウィークがこの店にやってきた\nことと、何か関係があるのだろうか？",
             "enText": "Manhattan Cafe is also scheduled to\nrun in this race. I wonder if it has\nanything to do with the fact that Special\nWeek came to this store.",
             "nextBlock": 28,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": 624208002958103174
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 4178991793276747168
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 8406053256323288997
+                },
+                {
+                    "origLen": 173,
+                    "pathId": 1605201286496321520
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -4079049780339670600
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 8741008025960366977
+                }
+            ],
             "pathId": 5026119022313709455,
             "blockIdx": 27
         },
@@ -279,6 +768,37 @@
             "jpText": "これは……導き……。\r\nきっとライバルだから……この店に……。",
             "enText": "This is… leading… I'm sure it's\na competitor… to this store.",
             "nextBlock": 29,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -463842817148873465
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -7013146452402292395
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -7885085253077127636
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 3140534099744973402
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5371829248042318533
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 8336605760716873955
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7170991585484811935
+                }
+            ],
             "pathId": 3935246339857591751,
             "blockIdx": 28
         },
@@ -288,6 +808,33 @@
             "jpText": "スペさん……。\r\n私も……出ます……。",
             "enText": "Ms. Spee… I'll also\nbe on…",
             "nextBlock": 30,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 2707150747520053628
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 6274984690519259869
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 4631380100919744786
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4391417535527245050
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 5216596405150205993
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7582847874272847548
+                }
+            ],
             "pathId": -2084232054052642021,
             "blockIdx": 29
         },
@@ -297,6 +844,29 @@
             "jpText": "私も出るんです、『天皇賞（春）』……。",
             "enText": "I'm going to be there, too, \"Tennou-sho\n(Spring)\"…",
             "nextBlock": 31,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 6524721668360055222
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 3437054164530340458
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 6526921235154538580
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2980530234240618725
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 6839275125183842565
+                }
+            ],
             "pathId": -7321499900084149242,
             "blockIdx": 30
         },
@@ -306,6 +876,29 @@
             "jpText": "わわっ、カフェさんもですか？\r\nこ、これは強敵ですね。",
             "enText": "Wow, you too, Cafe? This is a strong enemy.",
             "nextBlock": 32,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 4955464205818825576
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -3320360460985922336
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -2208798504270034479
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -6272025795010479310
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 7326477341646285636
+                }
+            ],
             "pathId": -3258509877423151387,
             "blockIdx": 31
         },
@@ -315,6 +908,33 @@
             "jpText": "むむむ、こうなったら今日は、あの作戦で\r\nパワーアップしちゃいます！　私の得意技で！",
             "enText": "Mmm, I'm going to power up with that\nstrategy today! With my signature move!",
             "nextBlock": 33,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2827962280235668518
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7994077778463933780
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 5300814313255211161
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -7908449065320390622
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -5565528029548598483
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -2525070129267083784
+                }
+            ],
             "pathId": 1953695417870502982,
             "blockIdx": 32
         },
@@ -324,6 +944,29 @@
             "jpText": "得意技……？",
             "enText": "Delightful Technology…?",
             "nextBlock": 34,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -6581337719312080213
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -8222204919855363598
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -2282472768238159999
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -7220235525786791574
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -7911984944064049290
+                }
+            ],
             "pathId": -133538738936447969,
             "blockIdx": 33
         },
@@ -333,6 +976,25 @@
             "jpText": "カフェさん！　メニューにあるスイーツ、\r\n全部ください！　ミルクマカロンも\nアップルカスタードも！",
             "enText": "Ms. Cafe! I want all the sweets\non the menu! Milk macaroons, apple\ncustard, everything!",
             "nextBlock": 35,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -5607021110357873363
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -5686402682643538719
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 6102339558734781550
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 7485049782971444194
+                }
+            ],
             "pathId": 4141293618954905221,
             "blockIdx": 34
         },
@@ -342,6 +1004,29 @@
             "jpText": "全部あるだけ、お願いしまーす！",
             "enText": "It's all there, please!",
             "nextBlock": 36,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2895134882365805696
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5592420606500064606
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 6300681776290967318
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 1159449357508614955
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -3986297593603416974
+                }
+            ],
             "pathId": 7332509011848438790,
             "blockIdx": 35
         },
@@ -351,6 +1036,29 @@
             "jpText": "スタミナ強化……ということなのだろうか？\r\nスペシャルウィークは頼んだスイーツを\n全て食べ尽くした。",
             "enText": "Does it mean that stamina is enhanced\n…? Special Week ate up all\nthe sweets she ordered.",
             "nextBlock": 37,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3858984216352831594
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5562112603660157364
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1783114098376192144
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 242590432696374891
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4421813783217236622
+                }
+            ],
             "pathId": 473546153913136212,
             "blockIdx": 36
         },
@@ -360,11 +1068,22 @@
             "jpText": "トレーナーさん、危機です……。",
             "enText": "Trainer, it's a crisis…",
             "nextBlock": 38,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "売り物が全部なくなった？",
                     "enText": "Everything you're selling is gone?",
                     "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -1057902261888887277
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -635980289218793894
                 }
             ],
             "pathId": -827646900268187685,
@@ -376,6 +1095,21 @@
             "jpText": "いえ、そんなことより……。",
             "enText": "No, that's not the point…",
             "nextBlock": 39,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5264188673854488923
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -7642129184945083340
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2632647863475663736
+                }
+            ],
             "pathId": 831138813013439203,
             "blockIdx": 38
         },
@@ -385,6 +1119,21 @@
             "jpText": "後先顧みない大食い。こんな強化方法が\r\nあったなんて……。",
             "enText": "I'm a big eater with no regard for the\nconsequences. I didn't know there was such a\nway to enhance…",
             "nextBlock": 40,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -6467115929461062334
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6407309457774456747
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1979590283555257036
+                }
+            ],
             "pathId": -2935104703434288433,
             "blockIdx": 39
         },
@@ -394,6 +1143,22 @@
             "jpText": "負けられない……。\r\n負けられ……。",
             "enText": "Can't lose… Can't lose…",
             "nextBlock": 41,
+            "origClipLength": 68,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -4766641067640035602
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 5131270630515309807
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3913000036602066289
+                }
+            ],
             "pathId": -7565770348979389528,
             "blockIdx": 40
         },
@@ -403,6 +1168,18 @@
             "jpText": "普段は存在しない、居心地のいい\r\nコーヒーショップ――",
             "enText": "A cozy coffee shop that doesn't\nusually exist—",
             "nextBlock": 42,
+            "origClipLength": 80,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -3565767181070842211
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 4338270884985518145
+                }
+            ],
             "pathId": -3713391015011641866,
             "blockIdx": 41
         },
@@ -412,6 +1189,21 @@
             "jpText": "その店のマスターは、心配のしどころが\r\n少しズレているウマ娘である。",
             "enText": "The master of the store was a woman who was\na little off in her worrying.",
             "nextBlock": -1,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 4745865385574533890
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 5020267381264555059
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -7773407923692611360
+                }
+            ],
             "pathId": -9043155899435343373,
             "blockIdx": 42
         },
@@ -421,6 +1213,18 @@
             "jpText": "（チリンチリーン）",
             "enText": "(CHIRPING CHIRPING)",
             "nextBlock": 44,
+            "origClipLength": 56,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3019212867133410680
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4787697601805716126
+                }
+            ],
             "pathId": 3119186089484325012,
             "blockIdx": 43
         },
@@ -430,6 +1234,7 @@
             "jpText": "とその時、鳴らないはずのドアベルが鳴り、\r\nガヤガヤと大量の人がなだれ込んできた。",
             "enText": "Just then, the doorbell, which was not\nsupposed to ring, rang, and a huge crowd of\npeople came rushing in.",
             "nextBlock": 45,
+            "origClipLength": 98,
             "pathId": -8948610035374778261,
             "blockIdx": 44
         },
@@ -439,6 +1244,21 @@
             "jpText": "おっ、ここだここだ！\r\nあのマンハッタンカフェがやってる喫茶店！",
             "enText": "Oh, here, here, here! The coffee\nshop run by Manhattan Cafe!",
             "nextBlock": 46,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 1563650771242696223
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 927981902818218673
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 1075941071173646527
+                }
+            ],
             "pathId": -9206671893062055993,
             "blockIdx": 45
         },
@@ -448,6 +1268,21 @@
             "jpText": "へー、いい雰囲気～！　内装もさすが～！\r\n私、大ファンなのよね～。",
             "enText": "Wow, nice atmosphere~! The interior is as\ngood as it gets! I'm a big fan!",
             "nextBlock": 47,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4022417293674460370
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -1983489503756703037
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 2941035142387449957
+                }
+            ],
             "pathId": 1315037377163478615,
             "blockIdx": 46
         },
@@ -457,6 +1292,7 @@
             "jpText": "え、あの……？",
             "enText": "What, that…?",
             "nextBlock": 48,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "見つけられちゃったな",
@@ -469,6 +1305,16 @@
                     "nextBlock": 48
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 420720845643058089
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -4609456654822678940
+                }
+            ],
             "pathId": -4833340287575352263,
             "blockIdx": 47
         },
@@ -478,11 +1324,22 @@
             "jpText": "はい……でも、これは……？\r\nどうして見つけられたのでしょう？",
             "enText": "Yes… but is this…?\nHow did they find it?",
             "nextBlock": 49,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "それだけ熱心に探してくれたんだよ",
                     "enText": "That's how diligently they searched for you.",
                     "nextBlock": 49
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 2698662290046768637
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -6755082711235552436
                 }
             ],
             "pathId": -1043526791762770265,
@@ -494,6 +1351,17 @@
             "jpText": "最近の活躍もあり、マンハッタンカフェの\r\n人気度はグングン上がっている。",
             "enText": "With her recent success, Manhattan Cafe's\npopularity has been on the rise.",
             "nextBlock": 50,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -5031776038469149677
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -5460990102380772914
+                }
+            ],
             "pathId": -6248668043866684384,
             "blockIdx": 49
         },
@@ -503,6 +1371,21 @@
             "jpText": "知名度がファンを呼び寄せたようだ。\r\nそして――",
             "enText": "It seems that name recognition\nbrought in the fans. And—",
             "nextBlock": 51,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 2568546573011728215
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 4679823849293449469
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 1703612206301959959
+                }
+            ],
             "pathId": -7459306934932421714,
             "blockIdx": 50
         },
@@ -512,6 +1395,37 @@
             "jpText": "なに、この混みよう～！？　これじゃ\r\nカフェちゃん1人じゃ、お店回せないわよね。",
             "enText": "What's with all the crowds? You\ncan't run a store like this by yourself,\ncan you, Café-chan?",
             "nextBlock": 52,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 2391872466950226304
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -4865342512516943191
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 5828951877390572963
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 2696330419964492369
+                },
+                {
+                    "origLen": 180,
+                    "pathId": -1049110966331001585
+                },
+                {
+                    "origLen": 155,
+                    "pathId": 8771043627017937328
+                },
+                {
+                    "origLen": 152,
+                    "pathId": 2913358008999939437
+                }
+            ],
             "pathId": -3364005700469091412,
             "blockIdx": 51
         },
@@ -521,6 +1435,37 @@
             "jpText": "よーし、あたしも手伝っちゃお！\r\nマスター、レスカにミルクセーキ、\nあと自家製ナポリタンねー！",
             "enText": "Okay, I'll help too! Master, I'll have a\nreshka, milkshake, and homemade Neapolitan!",
             "nextBlock": 53,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -4597242936833910462
+                },
+                {
+                    "origLen": 160,
+                    "pathId": -5905675285070143039
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 7726014140823246712
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -985856900545555987
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1828818031264543284
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 4834764326118426607
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 6516561646867025059
+                }
+            ],
             "pathId": -3261545326037417917,
             "blockIdx": 52
         },
@@ -530,6 +1475,37 @@
             "jpText": "オイオイ……私はウエイターや執事じゃ\r\nねぇっての。周りにたかんな。",
             "enText": "I'm not a waiter or a butler.\nDon't get around me.",
             "nextBlock": 54,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 2027751386352257003
+                },
+                {
+                    "origLen": 160,
+                    "pathId": -3203631042777597205
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5447712409843598964
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8572638997026928318
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7044895235936258154
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 8102772274826014510
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 6870544047171422990
+                }
+            ],
             "pathId": 83715049369070254,
             "blockIdx": 53
         },
@@ -539,6 +1515,29 @@
             "jpText": "ったく、ヤケドしたって知らねぇぞ。\r\n覚悟の上なら――遊んでやるけどな。",
             "enText": "I don't care if you get burned. I'll play\nwith you if you're ready.",
             "nextBlock": 55,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 2758630074982421035
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 4092608873057775598
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1862376543230108682
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -2023825802836776608
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -8704843744394609073
+                }
+            ],
             "pathId": 7496655656420565947,
             "blockIdx": 54
         },
@@ -548,6 +1547,33 @@
             "jpText": "トレーナーさん、お店の……\r\nコンセプトが……。",
             "enText": "Trainers, the… concept\nof the store is…",
             "nextBlock": 56,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -5866210177462303607
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 2999564248693962225
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -8805620338885048449
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 6899968646466108597
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -4649597042431135163
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 7170546375326943000
+                }
+            ],
             "pathId": 5479073494270488393,
             "blockIdx": 55
         },
@@ -557,6 +1583,21 @@
             "jpText": "でも……たまには流行の店もいいですね。\r\n毎年、誰も来ないよりは……。",
             "enText": "But… it's nice to have a trendy\nrestaurant once in a while. It's better than\nno one coming… every year.",
             "nextBlock": 57,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": -755794443420040542
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4667284401496942188
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 5271499814145241776
+                }
+            ],
             "pathId": 1786783820045856172,
             "blockIdx": 56
         },
@@ -566,8 +1607,24 @@
             "jpText": "たくさんのファンやウマ娘が、\r\nマンハッタンカフェの周りに集い――\nお店は大繁盛だった。",
             "enText": "Many fans and horse girls gathered\naround Manhattan Cafe, and the\nstore was in full swing.",
             "nextBlock": -1,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3039562188276983780
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -9003509814697031650
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7944384171952940689
+                }
+            ],
             "pathId": -2887195496745808447,
             "blockIdx": 57
         }
-    ]
+    ],
+    "modified": 1669946346
 }

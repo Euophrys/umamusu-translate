@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CYH4ZPSXNM4H4GWMKAIEAPFN2MNDVA4S",
     "type": "story",
     "storyId": "501025722",
@@ -11,6 +11,21 @@
             "jpText": "ある日、廊下で\r\n頭を抱えるマンハッタンカフェを見かけた。",
             "enText": "One day, I saw Manhattan Cafe in\nthe hallway with a headache.",
             "nextBlock": 2,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 6272181142703802306
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 4649402659264996443
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 6034415317195737230
+                }
+            ],
             "pathId": 5711300822595442148,
             "blockIdx": 1
         },
@@ -20,11 +35,26 @@
             "jpText": "……はぁ…………。",
             "enText": "… is ah…",
             "nextBlock": 3,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "大丈夫？",
                     "enText": "Great man?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -5220339529193197192
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -5557676971464925824
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -4625853100845519186
                 }
             ],
             "pathId": 5363406560601627666,
@@ -36,6 +66,21 @@
             "jpText": "……はい。ただの頭痛ですので…………。",
             "enText": "… Yes. It's just a\nheadache…",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 149813471573013177
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -7657924914717328871
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 8682885917349696770
+                }
+            ],
             "pathId": -1245922043659105220,
             "blockIdx": 3
         },
@@ -45,11 +90,22 @@
             "jpText": "……あの…………トレーナーさん……。\r\nしばらく、ご一緒しても……？",
             "enText": "… that… trainer… Can\nI join you for a while…?",
             "nextBlock": 5,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "もちろんいいけど……",
                     "enText": "Of course it's good…",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -1578479084555261637
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 4920156495715739032
                 }
             ],
             "pathId": -2509468188615136571,
@@ -61,6 +117,17 @@
             "jpText": "この頭痛が出ると……私の周りの……\r\n“彼ら”が……ざわついてしまうので……。",
             "enText": "When I get this headache… the…\n\"they\" around me buzz…",
             "nextBlock": 6,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 7023382978685976228
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -7732520667366724108
+                }
+            ],
             "pathId": 2311828056078231062,
             "blockIdx": 5
         },
@@ -70,6 +137,17 @@
             "jpText": "……トレーナーさんに、\r\n何かあったら……嫌、なんです……。",
             "enText": "If something happens to… your trainer,\nyou don't want to… what is…",
             "nextBlock": 7,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -9086839130618269439
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 299078894655512323
+                }
+            ],
             "pathId": -8347387909143961374,
             "blockIdx": 6
         },
@@ -79,8 +157,20 @@
             "jpText": "気にかけてくれるのは嬉しいが、\r\nこちらとしては、彼女の頭痛の方が\n心配なのであった……。",
             "enText": "It was nice of her to care, but I was more\nworried about her headache…",
             "nextBlock": -1,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -2603224546582140331
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -4707156806134801728
+                }
+            ],
             "pathId": 5267392746580436106,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669946375
 }

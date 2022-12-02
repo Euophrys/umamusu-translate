@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4IX6PEMUXP2OIZIJ7LTS2HEKUUD7JTIO",
     "type": "story",
     "storyId": "801005003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nフジキセキが話していた。",
             "enText": "After training, <chrname> and \nFuji Kiseki were talking.",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -6808772557348359654
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -274638128838849990
+                }
+            ],
             "pathId": -8418718179183780754,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946277
 }

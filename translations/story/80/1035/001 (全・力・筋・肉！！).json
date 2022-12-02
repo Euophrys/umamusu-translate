@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "3KJDF7ENE5SCVABBBSBQOP5QBCSVC2UH",
     "type": "story",
     "storyId": "801035001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、ジムで――",
             "enText": "One day, at the gym…",
             "nextBlock": 2,
+            "origClipLength": 61,
             "pathId": -173646409199066895,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "うぉりゃあああああ～っ！\nこれ！　でぇ！　10セットォォォ……！",
             "enText": "Whoo-hoo-hoo! Here! And! Ten sets…!",
             "nextBlock": 3,
+            "origClipLength": 65,
             "pathId": 8289243160910891084,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "いよしっ！\n今日のレッグプレス完了だぁーーーっ！",
             "enText": "Yes! Today's leg press is complete!",
             "nextBlock": 4,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 8496799391420300131
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -7251655004136507636
+                }
+            ],
             "pathId": -8438439496709835511,
             "blockIdx": 3
         },
@@ -38,6 +51,17 @@
             "jpText": "全力で筋トレをやり遂げると……\nもっと筋トレをやりたくなっちゃうなあ！",
             "enText": "When I've done all my strength training, … \nmakes me want to do more strength training!",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 327331985836242402
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -6779856960940411292
+                }
+            ],
             "pathId": 5422449171911694830,
             "blockIdx": 4
         },
@@ -47,6 +71,17 @@
             "jpText": "ねえっ、キミもそう思わない！？",
             "enText": "Hey, don't you think so too?",
             "nextBlock": 6,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 7191668225776581270
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -3507310949007201592
+                }
+            ],
             "pathId": -5044313549696140702,
             "blockIdx": 5
         },
@@ -56,6 +91,7 @@
             "jpText": "突然、同意を求められた。\r\nさて、返答は――",
             "enText": "Suddenly, I was asked to agree. \nNow, the answer is—",
             "nextBlock": 7,
+            "origClipLength": 59,
             "choices": [
                 {
                     "jpText": "わかる！とことんやりたい！",
@@ -68,6 +104,16 @@
                     "nextBlock": 11
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -5361454457534704054
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 5717361790122977256
+                }
+            ],
             "pathId": -4260292508536172522,
             "blockIdx": 6
         },
@@ -77,6 +123,17 @@
             "jpText": "だよね！\n疲れてからが、また楽しいんだよな～。",
             "enText": "That's right! It's fun to be tired again!",
             "nextBlock": 8,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -4474920473934642539
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3377321188447612626
+                }
+            ],
             "pathId": 1101575639924777178,
             "blockIdx": 7
         },
@@ -86,6 +143,17 @@
             "jpText": "よーし、追加レッグプレス！　10セット！\n限界を超えるぞーーーっ！",
             "enText": "Alright, extra leg press! Ten sets! I'm \ngoing to push the limits!",
             "nextBlock": 9,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 750775599312151986
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -684072887334931846
+                }
+            ],
             "pathId": -6898898615658683176,
             "blockIdx": 8
         },
@@ -95,6 +163,17 @@
             "jpText": "ウイニングチケットは笑顔を浮かべ\n猛然とトレーニングを再開した……。",
             "enText": "Winning tickets put a smile on her face and \nshe resumed her training furiously…",
             "nextBlock": 10,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -5632012338508199671
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 7485303762576854194
+                }
+            ],
             "pathId": 4961318914693515412,
             "blockIdx": 9
         },
@@ -104,6 +183,7 @@
             "jpText": "ウイニングチケットの根性と持続力は\n大したものだ。",
             "enText": "Winning Ticket's grit and staying \npower are impressive.",
             "nextBlock": -1,
+            "origClipLength": 61,
             "pathId": -2884096759451093783,
             "blockIdx": 10
         },
@@ -113,6 +193,17 @@
             "jpText": "おおっ！？　いいの？\r\nありがとーっ！",
             "enText": "Oh, wow! Are you sure? Thank you!",
             "nextBlock": 12,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -2828417351379555959
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 4204447621691646656
+                }
+            ],
             "pathId": -5970452153168889850,
             "blockIdx": 11
         },
@@ -122,11 +213,22 @@
             "jpText": "でも、なんでくれるのっ？",
             "enText": "But why are you giving it to me?",
             "nextBlock": 13,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "休憩も大事だよ",
                     "enText": "It's important to take breaks.",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -1612318038375574291
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5622748247593927001
                 }
             ],
             "pathId": 1621233122525122247,
@@ -138,6 +240,17 @@
             "jpText": "あー、そっか！　なるほどねー！\r\nよーし、全力で休んでくるっ！",
             "enText": "Oh, I see! I see! Okay, I'm going \nto go and have a rest!",
             "nextBlock": 14,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -5185976410634849925
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -7503086281103803834
+                }
+            ],
             "pathId": -2186095516586984204,
             "blockIdx": 13
         },
@@ -147,8 +260,20 @@
             "jpText": "……ドリンクを受け取らずに行ってしまった。\r\nだが休む時もまた、全力。\nその切り替えは大切だ。",
             "enText": "I went to… without accepting a drink. But \nwhen you take a break, you also give it your \nall. It's important to switch it up.",
             "nextBlock": -1,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -6376000869825893306
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 7002556170065037012
+                }
+            ],
             "pathId": 3355335315565581261,
             "blockIdx": 14
         }
-    ]
+    ],
+    "modified": 1669945958
 }

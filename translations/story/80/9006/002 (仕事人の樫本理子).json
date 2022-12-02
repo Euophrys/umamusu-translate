@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "EZVWQYP4MVJ4JYZ5HXGQYQCG3FTZAKRH",
     "type": "story",
     "storyId": "809006002",
@@ -11,6 +11,17 @@
             "jpText": "……こんな時間に電気がついているから\r\nまさかと思えば。",
             "enText": "… I didn't think it was possible because the \nlights are on at this hour.",
             "nextBlock": 2,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -8210667162410772599
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -7177773704715219382
+                }
+            ],
             "pathId": 8657052753602178625,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "顔色が悪いですね。\r\nきちんと休んでいますか？",
             "enText": "You look pale. Have you \nbeen resting properly?",
             "nextBlock": 3,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -6663260298298130640
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 1378567632830951161
+                }
+            ],
             "pathId": 2422098610477712217,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "URAの幹部職員であり、現在はトレセン学園で\r\n働く、樫本　理子【かしもと　りこ】が、\n気づくと傍に立っていた。",
             "enText": "Riko Kashimoto, a URA official who \nnow works at the TRESCENT Academy, \nwas standing beside me.",
             "nextBlock": 4,
+            "origClipLength": 118,
             "choices": [
                 {
                     "jpText": "最近、少し忙しくて……",
                     "enText": "We've been a bit busy lately…",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -5184968952238218852
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -8872288400413612384
                 }
             ],
             "pathId": 5110955170579500419,
@@ -45,6 +78,17 @@
             "jpText": "トレーナーの貴方が倒れたら、\r\n生徒は心配します。立場を自覚しなさい。",
             "enText": "If you, as a trainer, fall ill, \nyour students will worry. Be \naware of your position.",
             "nextBlock": 5,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 188,
+                    "pathId": 4378194200733449109
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 7922592063245044470
+                }
+            ],
             "pathId": -4811327198650157813,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "そういう彼女もどうやら今、\r\n仕事を終えたところのようだ。",
             "enText": "It seems that she has just \nfinished her work.",
             "nextBlock": 6,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 188,
+                    "pathId": 1539278577608414817
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -7675018445899450492
+                }
+            ],
             "pathId": 2669582877807357599,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "まぁ……今日は私も、人のことを言えた\r\n立場ではありませんが。",
             "enText": "Well… I'm not in a position \nto speak for others today.",
             "nextBlock": 7,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -1607166782965661582
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 4135669082954050281
+                }
+            ],
             "pathId": 393973469966653768,
             "blockIdx": 6
         },
@@ -72,6 +138,17 @@
             "jpText": "早く帰りますよ。",
             "enText": "I'll be home early.",
             "nextBlock": 8,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -5316587085030764575
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -6848633247897979679
+                }
+            ],
             "pathId": -5166749596664879655,
             "blockIdx": 7
         },
@@ -81,8 +158,20 @@
             "jpText": "その後、トレーニングについて情報交換を\r\nしながら、帰路に就いたのだった。",
             "enText": "Afterwards, we exchanged information on \ntraining before heading home.",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 573058671377572361
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3383151364654171196
+                }
+            ],
             "pathId": 1739339627034087193,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669946200
 }

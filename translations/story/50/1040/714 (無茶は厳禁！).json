@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "SKEHQ725DJTNXALIUQ53IBBZUL5ZG7UC",
     "type": "story",
     "storyId": "501040714",
@@ -11,6 +11,17 @@
             "jpText": "『数日休養が必要』か……。\r\nアタシなにやってんだろ、ケガなんてして。",
             "enText": "'Need a few days rest' or… What am I \ndoing, getting injured?",
             "nextBlock": 2,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -2627419263594926795
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -3727624504739054222
+                }
+            ],
             "pathId": 7575239852416943792,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "疲れてる自覚はあったのに、練習してないと\r\n前に進めてない気がして、不安でさ……。",
             "enText": "I was aware that I was tired, but I felt like \nI wasn't moving forward if I wasn't \npracticing, and I was anxious…",
             "nextBlock": 3,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 4997602391893498634
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -8782934751544011788
+                }
+            ],
             "pathId": 4079222133656456761,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "あ、でも大丈夫、練習は続けられるから！\r\n医者が大げさに言っただけだと思うし。",
             "enText": "Oh, but don't worry, I can keep practicing! \nAnd I think the doctor was just exaggerating.",
             "nextBlock": 4,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "今は安静にしてほしい",
@@ -41,6 +64,16 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 771969565838313457
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -1854553567235327168
+                }
+            ],
             "pathId": -2148740252719825330,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "けど、ただでさえアタシ、モデルの仕事で\r\n他の子より練習時間短いのにっ……。",
             "enText": "But even though I have less practice \ntime than the other girls because \nof my modeling job…",
             "nextBlock": 5,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 3433324096040542745
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -2611290092059773863
+                }
+            ],
             "pathId": 2420885146006647587,
             "blockIdx": 4
         },
@@ -59,11 +103,22 @@
             "jpText": "なにもせず休むだけなんて、\r\n焦りでおかしくなりそうだよ！",
             "enText": "I'm going to go crazy with impatience \nif I do nothing but rest!",
             "nextBlock": 6,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "復帰後のメニューは練っておくから",
                     "enText": "I'll work out a menu for when I get back.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 8557616169291506032
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 6543793614765370524
                 }
             ],
             "pathId": 951957998422450320,
@@ -75,6 +130,17 @@
             "jpText": "……っ、悔しいけど、わかった。\r\nマネジにもスケジュール相談しとくよ。",
             "enText": "… I'm sorry to hear that, but I get it. \nI'll talk to Manezi about the schedule.",
             "nextBlock": 7,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -8023019195537085205
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -4357630668999587676
+                }
+            ],
             "pathId": -3562348067264404962,
             "blockIdx": 6
         },
@@ -84,6 +150,17 @@
             "jpText": "こうして、しばらくの休養を余儀なくされる\r\nゴールドシチーなのだった……。",
             "enText": "Thus, Gold City was forced to \nrest for a while…",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 93807636363880420
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 337367753302196439
+                }
+            ],
             "pathId": 7349091291072350717,
             "blockIdx": 7
         },
@@ -93,6 +170,18 @@
             "jpText": "うわ、なにいきなり熱くなってんの？\r\n……まぁ、気持ちはわかるけど。",
             "enText": "Wow, what are you getting all hot all of a \nsudden?… Well, I know how you feel.",
             "nextBlock": 9,
+            "origClipLength": 89,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -3415993077473464790
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8283940379369609496
+                }
+            ],
             "pathId": 4126520082561731247,
             "blockIdx": 8
         },
@@ -102,11 +191,23 @@
             "jpText": "ケガで後れ取ってる場合じゃないもんね。\r\n今すぐコースに戻って――",
             "enText": "We can't afford to be behind because of \ninjuries. Get back on the course now and―",
             "nextBlock": 10,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "急に動くと危ない！",
                     "enText": "Don't make any sudden moves, it's dangerous!",
                     "nextBlock": 10
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -2667439469069140263
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1913540827727685857
                 }
             ],
             "pathId": -4568683537727863051,
@@ -118,6 +219,17 @@
             "jpText": "……う、ぁっ！",
             "enText": "… Ugh, ah!",
             "nextBlock": 11,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -3194772100675777220
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -4166551835077056270
+                }
+            ],
             "pathId": -257134317156572874,
             "blockIdx": 10
         },
@@ -127,6 +239,17 @@
             "jpText": "ウソでしょ……歩くだけで痛むとか、\r\nこれじゃろくに練習なんてできないよ……。",
             "enText": "No way… I can't practice well if it \nhurts just by walking…",
             "nextBlock": 12,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 5109559136552210760
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -2914152463608952280
+                }
+            ],
             "pathId": -3766523835890344780,
             "blockIdx": 11
         },
@@ -136,6 +259,17 @@
             "jpText": "このままなにもできず、\r\nじっとしてるしかないの……？",
             "enText": "Can't we just sit tight \nand do nothing?…",
             "nextBlock": 13,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -4193576648344185303
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -535381708588005276
+                }
+            ],
             "pathId": -8967544311797377392,
             "blockIdx": 12
         },
@@ -145,6 +279,17 @@
             "jpText": "まずはケガを治すことが先決だ。落ち込む\r\nゴールドシチーにそう伝えるのだった。",
             "enText": "The first priority is to recover \nfrom the injury. She told Goldschy, \nwho was feeling down.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -4755376036966350386
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 3898504865418544569
+                }
+            ],
             "pathId": 8697157360485979462,
             "blockIdx": 13
         },
@@ -154,6 +299,7 @@
             "jpText": "ケガで後れ取ってる場合じゃないもんね。\r\n今すぐコースに戻って――",
             "enText": "We can't afford to be behind because of \ninjuries. Get back on the course now and―",
             "nextBlock": 15,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "今日は保健室で作戦会議だ",
@@ -166,6 +312,17 @@
                     "nextBlock": 15
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -7342153633826318575
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -4760978161161175232
+                }
+            ],
             "pathId": -6262590590259603255,
             "blockIdx": 14
         },
@@ -175,6 +332,17 @@
             "jpText": "でも、今、気合いで乗り切ろうって！",
             "enText": "But now I'm just trying to get \nthrough it with spirit!",
             "nextBlock": 16,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 3062274916663300134
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4320860095467325200
+                }
+            ],
             "pathId": 5159299525899073532,
             "blockIdx": 15
         },
@@ -184,6 +352,17 @@
             "jpText": "……や、ごめん。さすがに焦りすぎだわ。\r\nどう乗り切っていくのかが、大事だもんね。",
             "enText": "… and sorry. You're right, I'm in too \nmuch of a hurry. It's all about how you get \nthrough it, isn't it?",
             "nextBlock": 17,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -5439088182832543191
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 2057370263614222311
+                }
+            ],
             "pathId": -5777964632764021940,
             "blockIdx": 16
         },
@@ -193,8 +372,20 @@
             "jpText": "その後、ケガに配慮した練習を2人で考え、\r\nゆっくりだが前に進むことができたのだった。",
             "enText": "After that, the two of us worked out a \npractice plan that took into account \ninjuries, and we were able to move forward, \nalbeit slowly.",
             "nextBlock": -1,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -5080635230937608226
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -2554998687416851601
+                }
+            ],
             "pathId": -3604916382302186087,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669945691
 }

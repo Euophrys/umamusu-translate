@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "YO66RBW3FOFSIZZ2UNBYIMPUJPJ3INPW",
     "type": "story",
     "storyId": "830043004",
@@ -11,6 +11,7 @@
             "jpText": "ある日、通りを歩いていると――",
             "enText": "One day, I was walking down the street.",
             "nextBlock": 2,
+            "origClipLength": 64,
             "pathId": 4975977742955045049,
             "blockIdx": 1
         },
@@ -20,11 +21,22 @@
             "jpText": "……こっちだ。\r\n早く来い。",
             "enText": "… This way. Come quickly.",
             "nextBlock": 3,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "あの姿は……！",
                     "enText": "That figure is…!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 7522535925479338477
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3102125756384233405
                 }
             ],
             "pathId": 7161115383089651305,
@@ -36,11 +48,22 @@
             "jpText": "わが社主催のカジノゲーム大会へようこそ！\r\n互いに賭けるのは己のプライドだけ。\n1日限りの勝負をお楽しみくださいませ♪",
             "enText": "Welcome to our company's casino game \ntournament! All you have to bet on is your \npride. All you have to bet is your pride, \nand this is a one-day game.",
             "nextBlock": 4,
+            "origClipLength": 121,
             "choices": [
                 {
                     "jpText": "こ、ここは……",
                     "enText": "Here, this is…",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7216511743369675080
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4486598798178956182
                 }
             ],
             "pathId": -6211008749817859904,
@@ -52,6 +75,17 @@
             "jpText": "ったく。不似合いな面があると思えば、\r\nまたアンタか。",
             "enText": "Damn it. Just when I thought we didn't look \ngood together, there you are again.",
             "nextBlock": 5,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 281565298510499639
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -2005821472069427940
+                }
+            ],
             "pathId": -6407470990877785800,
             "blockIdx": 4
         },
@@ -61,6 +95,17 @@
             "jpText": "一応言っとくが、ここは健全な大会だぜ？\r\n登録もしてねぇヤツが首突っ込んでも――",
             "enText": "Just so you know, this is a healthy \ntournament, okay? If you're not \neven registered, you can't just \nstick your nose in here.",
             "nextBlock": 6,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -5719246055045440542
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 2430907875743730407
+                }
+            ],
             "pathId": 1427311324750591922,
             "blockIdx": 5
         },
@@ -70,11 +115,22 @@
             "jpText": "お、おい。あのお方だ……っ。\r\n伝説のディーラー“天使様”だ……！\nああ、本当にお目にかかれるなんて……！！",
             "enText": "Oh, hey. It's that guy… The legendary dealer \n\"Tenshi-sama\"…! Oh, I can't believe I'm \nactually seeing you…!",
             "nextBlock": 7,
+            "origClipLength": 115,
             "choices": [
                 {
                     "jpText": "天使様って、前に河川敷にいた……？",
                     "enText": "Angel-sama, the… who was \nin the riverbed before?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -361456358371839229
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 1514087208123192927
                 }
             ],
             "pathId": -7217361033302337882,
@@ -86,6 +142,21 @@
             "jpText": "おや、アンタらは……ふふ。\r\n久しぶりだねぇ。",
             "enText": "Oh, you guys are… It's been a while.",
             "nextBlock": 8,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -4784345474087257014
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 6799503407735987041
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -1817215420924925088
+                }
+            ],
             "pathId": -206852389088127289,
             "blockIdx": 7
         },
@@ -95,6 +166,21 @@
             "jpText": "……これはこれは。見たところ、\r\n天使様はよほどの人気者のようだ。",
             "enText": "… Well, well, well. From the looks of it, \nthe angel seems to be very popular.",
             "nextBlock": 9,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4064212729003196572
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -5296104278741318834
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -8458346366473480990
+                }
+            ],
             "pathId": -467258830901301309,
             "blockIdx": 8
         },
@@ -104,6 +190,17 @@
             "jpText": "そしてその人気者に選ばれたのはアンタ。\r\nじゃあ――互いのプライドを賭けようか。",
             "enText": "And you're the one who was chosen \nto be the most popular. So let's \nbet our pride on each other.",
             "nextBlock": 10,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 7216160551608241521
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -891976416644957267
+                }
+            ],
             "pathId": 7786793629714513441,
             "blockIdx": 9
         },
@@ -113,6 +210,17 @@
             "jpText": "あの天使様直々に指名した相手だと……！？\r\n誰ぇ……あのウマ娘……？\nクスクス、天使様に勝てるわけないわ……。",
             "enText": "You said you were the one who was personally \nappointed by that angel…! Who… is that \nhorse girl…? You can't beat an angel…",
             "nextBlock": 11,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 155,
+                    "pathId": -6290660081035572627
+                },
+                {
+                    "origLen": 218,
+                    "pathId": 27652209967359155
+                }
+            ],
             "pathId": 806647782015687956,
             "blockIdx": 10
         },
@@ -122,6 +230,17 @@
             "jpText": "種目はルーレット。\r\nアンタがチップを置いて、アタシが回す。\nわかりやすい、1度きりの勝負さ。",
             "enText": "The game is roulette. You put down the \nchips, I spin. It's a simple, one-time game.",
             "nextBlock": 12,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 1810528825775530542
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 1623129064134789807
+                }
+            ],
             "pathId": 6048070024722584116,
             "blockIdx": 11
         },
@@ -131,6 +250,17 @@
             "jpText": "……数字じゃなくて、\r\nカラーに賭けてもいいのかい？",
             "enText": "Can I bet on the color instead \nof the… number?",
             "nextBlock": 13,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -7794764737484528352
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6948223953610507717
+                }
+            ],
             "pathId": -7376940745775203540,
             "blockIdx": 12
         },
@@ -140,6 +270,17 @@
             "jpText": "ええ。黒か赤、どちらかを選ぶなら。\r\nじゃあ……回すよ。",
             "enText": "Yes. Black or red, if you have to \nchoose. Then I'll turn to…",
             "nextBlock": 14,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 7053421571505764112
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 4743270842576653329
+                }
+            ],
             "pathId": 578540534360304487,
             "blockIdx": 13
         },
@@ -149,6 +290,17 @@
             "jpText": "天使様が回転する台に白い球を投げ込む。\r\nカラカラと小気味の良い音を立てて回る球を\n周囲の人々は手に汗を握り、見つめ――",
             "enText": "The angel throws a white ball into the \nrotating platform. The people around her \nperspire and stare at the ball as it spins \nwith a rumbling sound.",
             "nextBlock": 15,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -612685030135858681
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -6948150222297409439
+                }
+            ],
             "pathId": 5632917698216209548,
             "blockIdx": 14
         },
@@ -158,6 +310,7 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 16,
+            "origClipLength": 51,
             "choices": [
                 {
                     "jpText": "君は見ないのか？",
@@ -170,6 +323,20 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 688579967421571291
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -4626804081269656810
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -2302277187029983946
+                }
+            ],
             "pathId": 8065145157525986164,
             "blockIdx": 15
         },
@@ -179,11 +346,26 @@
             "jpText": "……アンタはクセの話を覚えているか？",
             "enText": "… anta remember the story of Xue?",
             "nextBlock": 17,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "確か、スペシャルウィークの……",
                     "enText": "As I recall, Special Week's…",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 1012834273858686275
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3821343279344680955
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -5589899157690088599
                 }
             ],
             "pathId": -5784261771360773497,
@@ -195,6 +377,17 @@
             "jpText": "ああ。勝負時っつうのは、\r\nどんな相手にも身構えさせちまうもんだ。\nだから自然とついちまうのさ、例えば――",
             "enText": "Yeah. When you're in a fight, it makes any \nopponent feel defensive. That's why they \nnaturally follow you, like…",
             "nextBlock": 18,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 3488606029708385166
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 205375049874605306
+                }
+            ],
             "pathId": 296280466622560359,
             "blockIdx": 17
         },
@@ -204,6 +397,21 @@
             "jpText": "天使様があるポケットを狙った時、\r\n転がる球が特定のリズムを刻むクセ……とか。",
             "enText": "When angels aim at a certain pocket, the \nrolling ball has a certain rhythm…",
             "nextBlock": 19,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -4737424787694671117
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 5963865468925732357
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 7929494421715764999
+                }
+            ],
             "pathId": -4760907625831033918,
             "blockIdx": 18
         },
@@ -213,6 +421,7 @@
             "jpText": "！？",
             "enText": "What?",
             "nextBlock": 20,
+            "origClipLength": 47,
             "choices": [
                 {
                     "jpText": "そんなことが本当にわかるのか？",
@@ -225,6 +434,20 @@
                     "nextBlock": 20
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 1475973487286778040
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 4196420771070882486
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 7614519548069847025
+                }
+            ],
             "pathId": 7065169338983738286,
             "blockIdx": 19
         },
@@ -234,6 +457,21 @@
             "jpText": "まあ、天使様ほど有名なディーラーであれば、\r\nいくらでも研究する資料は出てくるさ。",
             "enText": "Well, when you're a dealer as famous as \nTenshi-sama, you're bound to find plenty of \nmaterial to study.",
             "nextBlock": 21,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 2491603914063340907
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 2217478189760201875
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 3901672310172325916
+                }
+            ],
             "pathId": -8534817199280333055,
             "blockIdx": 20
         },
@@ -243,6 +481,17 @@
             "jpText": "それにレースに生きるヤツは、ラップを\r\n刻むためにある“時計”を鍛えることになる。\nその時計と調べたリズムを突き合わせれば――",
             "enText": "In addition, anyone who lives to race will \ntrain a certain \"clock\" to keep track of \nlaps. If you compare that clock to the \nrhythm you've checked…",
             "nextBlock": 22,
+            "origClipLength": 127,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 4722167001894058408
+                },
+                {
+                    "origLen": 138,
+                    "pathId": -6947805737309119918
+                }
+            ],
             "pathId": 4708882253075611280,
             "blockIdx": 21
         },
@@ -252,6 +501,17 @@
             "jpText": "――っ、ストップ！\r\n仕切り直しだ。",
             "enText": "—Whoa, stop! Let's start over.",
             "nextBlock": 23,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -2017633150712336677
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -7939864061882721579
+                }
+            ],
             "pathId": -4426948321167571422,
             "blockIdx": 22
         },
@@ -261,6 +521,7 @@
             "jpText": "急きょ勝負は中断。休憩時間が設けられ、\r\n落ち着いてから再戦することになった。",
             "enText": "The match was hastily suspended. The game \nwas suddenly suspended, and a break was set \nup to allow the players to settle down \nbefore the rematch.",
             "nextBlock": 24,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "あの時、俺が話しかけなければ……",
@@ -273,6 +534,16 @@
                     "nextBlock": 24
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -9065017028872838270
+                },
+                {
+                    "origLen": 174,
+                    "pathId": -2492377061702470982
+                }
+            ],
             "pathId": -3830779004573635485,
             "blockIdx": 23
         },
@@ -282,6 +553,17 @@
             "jpText": "作戦がご破算にならなかったって？\r\nハハッ……んなの気にすんなよ。",
             "enText": "What do you mean, the operation didn't break \ndown? Hahaha… Don't worry about that.",
             "nextBlock": 25,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 3417238583528723399
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4857608012260247264
+                }
+            ],
             "pathId": -8472037267153856674,
             "blockIdx": 24
         },
@@ -291,6 +573,17 @@
             "jpText": "あのクセの話は全部ブラフなんだから。",
             "enText": "All the talk about that peculiarity \nis a bluff.",
             "nextBlock": 26,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 3613381228214230445
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -1205148325901353922
+                }
+            ],
             "pathId": -1511265023867880799,
             "blockIdx": 25
         },
@@ -300,6 +593,17 @@
             "jpText": "効果は十分に出たと思うぜ。あの慌てよう……\r\nイカサマは通用しないと釘を刺せたはずだ。",
             "enText": "I think it's been effective enough. \nThat panic… should have nailed it \nthat cheating doesn't work.",
             "nextBlock": 27,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 1371141058503379385
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -7885680447757989427
+                }
+            ],
             "pathId": -8431241690823326237,
             "blockIdx": 26
         },
@@ -309,6 +613,17 @@
             "jpText": "それじゃ、行こうか。\r\n――小細工なんかナシの、本気の運試しへ。",
             "enText": "Let's go, then. —Let's go for a real test of \nluck, without any tricks.",
             "nextBlock": 28,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 4266610348340596237
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 9135621974834901475
+                }
+            ],
             "pathId": 6934600674234040864,
             "blockIdx": 27
         },
@@ -318,6 +633,17 @@
             "jpText": "……じゃあ私は黒に。\r\n天使様の敗北に賭けようか。",
             "enText": "… Then I'm going with black. Let's \nbet on the angel's defeat.",
             "nextBlock": 29,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": 4679444939108077166
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -1514587988672164511
+                }
+            ],
             "pathId": -8385421279150055461,
             "blockIdx": 28
         },
@@ -327,6 +653,17 @@
             "jpText": "彼女の宣言を聞き、“天使様”は\r\n『ノーモアベット』のかけ声をかける。\nそして白い球はくるくると回り――",
             "enText": "Hearing her declaration, \"Tenshi-sama\" calls \nout \"No More Bets\". And the white ball spun \naround and around.",
             "nextBlock": 30,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -8213401563150167403
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 7644881001247777285
+                }
+            ],
             "pathId": -6367134654399779517,
             "blockIdx": 29
         },
@@ -336,6 +673,17 @@
             "jpText": "会場は騒然とした。\r\n球が入ったのは黒のポケット。\n勝利したのは……ナカヤマフェスタだった。",
             "enText": "The hall was in an uproar. The ball was \nplaced in a black pocket. The winner was … \nNakayama Festa.",
             "nextBlock": 31,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8470309644106988242
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2038974693678314014
+                }
+            ],
             "pathId": -6951214829988430005,
             "blockIdx": 30
         },
@@ -345,6 +693,7 @@
             "jpText": "だが騒動を呼んだのはその後。勝利した\r\n彼女は他の勝負師を相手取ることなく、\n早々と会場を去ってしまったのだ――",
             "enText": "But what caused an uproar was what followed. \nAfter her victory, she quickly left the \nvenue without taking on the other \ncontestants.",
             "nextBlock": 32,
+            "origClipLength": 118,
             "pathId": -5482363530294819985,
             "blockIdx": 31
         },
@@ -354,6 +703,7 @@
             "jpText": "――後日。学園で、\r\nナカヤマフェスタの姿を見かけた。",
             "enText": "—Later. I saw Nakayama Festa at the school.",
             "nextBlock": 33,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "君は……",
@@ -366,6 +716,16 @@
                     "nextBlock": 33
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 160,
+                    "pathId": -8835899148981332888
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -3059123465197622312
+                }
+            ],
             "pathId": 1103874225673892462,
             "blockIdx": 32
         },
@@ -375,6 +735,21 @@
             "jpText": "っと、アンタか。あの時は世話かけたな。\r\nけどあれだけ騒々しくなれば、\n誰だって逃げるさ。",
             "enText": "Oh, it's you. I'm sorry I took care of you \nback then. But with all that noise, anyone \nwould have run away.",
             "nextBlock": 34,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 6361312668836231763
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 7983347534386451256
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -5031609496429462491
+                }
+            ],
             "pathId": -1667232837019040506,
             "blockIdx": 33
         },
@@ -384,6 +759,21 @@
             "jpText": "私は人気者になりに行ったんじゃねぇ、\r\n勝負をしに行ったっていうのによ。",
             "enText": "I didn't go there to be popular, \nI went there to compete.",
             "nextBlock": 35,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8998868478219689991
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 6316914301399716755
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -95548987423927233
+                }
+            ],
             "pathId": 73338771387351650,
             "blockIdx": 34
         },
@@ -393,11 +783,22 @@
             "jpText": "そう語る彼女の先にはバスが待っていた。\r\n……そういえば今朝のニュースで、\n彼女の出走情報を見た気がする。",
             "enText": "She said that the bus was waiting for her. … \nI think I saw some information about her \nrunning on the news this morning.",
             "nextBlock": 36,
+            "origClipLength": 114,
             "choices": [
                 {
                     "jpText": "確か、8番人気で……",
                     "enText": "As I recall, it was the 8th most popular…",
                     "nextBlock": 36
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 8007644781103961966
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 8935619724292767484
                 }
             ],
             "pathId": -2171656216945445837,
@@ -409,6 +810,18 @@
             "jpText": "ククッ、知っていたのかい？\r\nだが……。",
             "enText": "Kuk, did you know that? But…",
             "nextBlock": 37,
+            "origClipLength": 71,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -8177528558699685644
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 4684800357822473864
+                }
+            ],
             "pathId": 3534139452119018351,
             "blockIdx": 36
         },
@@ -418,11 +831,23 @@
             "jpText": "……なあ、アンタなら黒と白。\r\nどちらにベットする？",
             "enText": "… Hey, you can bet on black or white. \nWhich would you bet on?",
             "nextBlock": 38,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "……白かな",
                     "enText": "I think it's… white.",
                     "nextBlock": 38
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -1836215437366771689
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3890269868204547884
                 }
             ],
             "pathId": 4804381147847107393,
@@ -434,6 +859,17 @@
             "jpText": "ハハッ……ああ、私もその色にベットだ。\r\nそれじゃあまたな。",
             "enText": "Hahaha… Yeah, I'm betting on that \ncolor too. I'll see you then.",
             "nextBlock": 39,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -540021026304448478
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 4933087329694260304
+                }
+            ],
             "pathId": 1337648632079043922,
             "blockIdx": 38
         },
@@ -443,6 +879,17 @@
             "jpText": "……彼女ならばどんな相手だろうとも、\r\n相手を差し切り、勝利を掴み取れる気がした。",
             "enText": "… I had a feeling that she would be able to \noutlast any opponent and win.",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -8689529186416164312
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -236283296029866430
+                }
+            ],
             "pathId": -7946702827680441635,
             "blockIdx": 39
         },
@@ -452,11 +899,23 @@
             "jpText": "……なあ、アンタなら黒と白。\r\nどちらにベットする？",
             "enText": "… Hey, you can bet on black or white. \nWhich would you bet on?",
             "nextBlock": 41,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "それは……",
                     "enText": "It's…",
                     "nextBlock": 41
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 534877327597397259
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4352788291733805680
                 }
             ],
             "pathId": -2995587712684735179,
@@ -468,6 +927,21 @@
             "jpText": "……無理に答えなくてもいいさ。\r\n迷うのが普通なんだ。",
             "enText": "… You don't have to force yourself to \nanswer. It's normal to be confused.",
             "nextBlock": 42,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -6539116358215663248
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 6470660563863682529
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -7063617996301515813
+                }
+            ],
             "pathId": 2768603943385068658,
             "blockIdx": 41
         },
@@ -477,8 +951,24 @@
             "jpText": "だが私は白に賭ける。どんな相手でも\r\nその首を差し切ろう……じゃあな。",
             "enText": "But I'm going with white. I'll put \nmy neck on the line for any opponent. \n… See you there.",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4794019047913754765
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -6016761302453927848
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 6171788163858396307
+                }
+            ],
             "pathId": 2036265241760279495,
             "blockIdx": 42
         }
-    ]
+    ],
+    "modified": 1669946379
 }

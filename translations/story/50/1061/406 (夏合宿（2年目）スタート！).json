@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "3MTQ55JOOFPEZGVKZOEW34OYUNJ7H5YJ",
     "type": "story",
     "storyId": "501061406",
@@ -11,6 +11,17 @@
             "jpText": "キングヘイローの『夏合宿』がスタート！\r\nここはキングが育った地として名所になるわ！\n大きい野望を語る彼女だったが、暑さに辟易。",
             "enText": "\"Summer camp\" has begun! This place will be \nremembered as one which nurtured King! Her big \nambitions were no match for the heat however.",
             "nextBlock": 2,
+            "origClipLength": 128,
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -6858956736273702476
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -5237336737281460273
+                }
+            ],
             "pathId": -5124120040183118896,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "いつか施設にクーラーを増設するわ……\r\n小さい願望を口にしたのだった。",
             "enText": "Someday I'll add an air conditioner to the \nfacility… She mentioned a small wish.",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 5086744732040399933
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8005627142971097832
+                }
+            ],
             "pathId": 2561116198078825832,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945930
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "AML5F6LZ7HVIMXNWDOOOBNLBTGARXZHK",
     "type": "story",
     "storyId": "501040738",
@@ -11,6 +11,7 @@
             "jpText": "っしゃ！\r\nアタシの勝ちだっ！！",
             "enText": "Yes! I won!",
             "nextBlock": 2,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "やったな！",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -2226383378226593285
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2639164105974490384
+                }
+            ],
             "pathId": 9213360555564189320,
             "blockIdx": 1
         },
@@ -32,6 +43,7 @@
             "jpText": "やば、震えるんだけど……！\r\nめっちゃ嬉しい……！　やった！",
             "enText": "Oh man, I'm shaking…! \nI'm so happy…! Yes!!!",
             "nextBlock": 3,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "俺も同じくらい嬉しい！",
@@ -52,6 +64,17 @@
                     "jpText": "次も勝てばもっと震えるよ",
                     "enText": "I'll be more shaken if we win next time.",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": -1215220223071073208
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -735723736496660603
                 }
             ],
             "pathId": 2909941628354622335,
@@ -63,6 +86,7 @@
             "jpText": "やば、震えるんだけど……！\r\nめっちゃ嬉しい……！　やった！",
             "enText": "Oh man, I'm shaking…! \nI'm so happy…! Yes!!!",
             "nextBlock": 4,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "俺も同じくらい嬉しい！",
@@ -85,6 +109,17 @@
                     "nextBlock": 8
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": -2083223467573711333
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -4144623748989926106
+                }
+            ],
             "pathId": -8473461709953793951,
             "blockIdx": 3
         },
@@ -94,11 +129,22 @@
             "jpText": "なに張り合ってんの？\r\nアタシのが嬉しいに決まってんじゃん！",
             "enText": "What are you competing with me \nfor? Of course I'm happy!",
             "nextBlock": 5,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "気持ちは一緒に走ってたから！",
                     "enText": "The feeling was we were running together!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6200402389892175175
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -4560459400568973118
                 }
             ],
             "pathId": 1789973477471520003,
@@ -110,6 +156,17 @@
             "jpText": "……！",
             "enText": "…!",
             "nextBlock": 6,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 3724711367074518151
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 680394307914111668
+                }
+            ],
             "pathId": -7950911076753718740,
             "blockIdx": 5
         },
@@ -119,6 +176,17 @@
             "jpText": "……そっか。",
             "enText": "… I see.",
             "nextBlock": 7,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 8014686105794612881
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 5901327342809033603
+                }
+            ],
             "pathId": 8204832447175598388,
             "blockIdx": 6
         },
@@ -128,6 +196,17 @@
             "jpText": "なら、今回は譲ってあげる。\r\nアンタが嬉しいと、アタシもアガるからさ！",
             "enText": "Then I'll give it to you this time. When \nyou're happy, I'm happy too!",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -4397542418574910117
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 743828285311557908
+                }
+            ],
             "pathId": 5600682968734213338,
             "blockIdx": 7
         },
@@ -137,11 +216,22 @@
             "jpText": "は～っ？\r\n別に震えたいわけじゃないんですけど。",
             "enText": "Huh? I don't mean to shake.",
             "nextBlock": 9,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "そういう意味じゃなくて！",
                     "enText": "That's not what I meant!",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -1217764705700458334
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -8637321886918364645
                 }
             ],
             "pathId": -1813901580731673390,
@@ -153,6 +243,17 @@
             "jpText": "あは、わかってるって。\r\nもっと最高になれるってことでしょ。",
             "enText": "Haha, I know, I know. You mean \nyou can be more awesome.",
             "nextBlock": 10,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2942015323634201058
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 5991639005494466619
+                }
+            ],
             "pathId": 386050722479908742,
             "blockIdx": 9
         },
@@ -162,6 +263,17 @@
             "jpText": "うん、そうだね。\r\nアタシ、もっと勝ちたい！",
             "enText": "Yeah, I guess so. I want to win more!",
             "nextBlock": 11,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5689520118079950051
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -6055293081974975789
+                }
+            ],
             "pathId": 3735983103842347760,
             "blockIdx": 10
         },
@@ -171,8 +283,20 @@
             "jpText": "やば、もう次が楽しみなんだけど。\r\nどこで走るか任せたよ、トレーナー！",
             "enText": "Yikes, I'm already looking forward to the \nnext one. I leave it to you to decide where \nto run, trainer!",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 5825876919674640433
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 2328495144539159355
+                }
+            ],
             "pathId": 3215001125699132687,
             "blockIdx": 11
         }
-    ]
+    ],
+    "modified": 1669945695
 }

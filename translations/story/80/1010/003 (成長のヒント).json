@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "NIU5L47S3JXVDDZW4KTFZTRIPGUYQXYK",
     "type": "story",
     "storyId": "801010003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nタイキシャトルが話していた。",
             "enText": "After training, <chrname> and \nTaiki Shuttle were talking.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -8747644033688006615
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8045864982329812002
+                }
+            ],
             "pathId": -3491982172020811746,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946277
 }

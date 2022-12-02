@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PNCZDKE7MLF7DEKXVUYTLLONSGXPSIVE",
     "type": "story",
     "storyId": "501032525",
@@ -11,6 +11,17 @@
             "jpText": "アグネスタキオンに言われ、\r\n真夜中のプールへとやってきた……。",
             "enText": "Agnes Tachyon told me to come to the pool \nin the middle of the night…",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 7049797826218876142
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 383377262261049520
+                }
+            ],
             "pathId": -5853768603062790845,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "今日の実験は『水圧を倍増させた際の\r\n筋肉の動きを調べてみよう！』だ！",
             "enText": "Today's experiment is \"Let's find out what \nhappens to your muscles when you double \nthe water pressure! Yes!",
             "nextBlock": 3,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "なんでこんな時間に……",
                     "enText": "Why is it so late?…",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -6346348227115123642
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6238437370942114512
                 }
             ],
             "pathId": -5003939588033727590,
@@ -36,6 +58,17 @@
             "jpText": "バレたら困るだろう。\r\nプールに特殊な薬を入れているんだから。",
             "enText": "You don't want to get caught. You're \nputting a special drug in the pool.",
             "nextBlock": 4,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 1170707583127512417
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2585840462712232341
+                }
+            ],
             "pathId": 2459682509088577281,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "なーに、明日までに証拠隠滅して\r\nおけば大丈夫さ！",
             "enText": "No, we'll just have to destroy the \nevidence by tomorrow.",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 6403808111110217658
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 2601739447546869033
+                }
+            ],
             "pathId": 3843484712954308496,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "さ、始めよう！　君はしっかりと\r\nタイムを計っておいてくれたまえ！",
             "enText": "Let's get started! You'll have \nto keep a good time!",
             "nextBlock": 6,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 8815182595527779250
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -2184987324337578597
+                }
+            ],
             "pathId": 2632945572784970063,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "アグネスタキオンは意気揚々と泳ぎ始めた。\r\n見た感じ、水に変化はないようだが――",
             "enText": "Agnes Tachyon began to swim with great \nenthusiasm. From the looks of it, there \nseemed to be no change in the water—",
             "nextBlock": 7,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -1796589587522513173
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -360467679947632523
+                }
+            ],
             "pathId": -5710437740330722778,
             "blockIdx": 6
         },
@@ -72,6 +138,17 @@
             "jpText": "ふぅ……何も変化はなかったな。\r\nやはり水量に比べて、薬の量が少なかったか。",
             "enText": "Huh… I didn't see any changes. The \namount of medicine was still too small \ncompared to the amount of water.",
             "nextBlock": 8,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": 2394932748832776374
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -2892854303371086215
+                }
+            ],
             "pathId": 2078352394225116516,
             "blockIdx": 7
         },
@@ -81,6 +158,17 @@
             "jpText": "仕方あるまい。トレーナー君、後は任せたよ。\r\n後々、薬品が変化して問題が起きたら面倒だ。",
             "enText": "I don't have a choice. Trainer, I'll leave \nthe rest to you. I don't want any problems \nwith the chemicals changing later.",
             "nextBlock": 9,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 6232038763719451911
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -7724202546142595769
+                }
+            ],
             "pathId": 2889603715434566433,
             "blockIdx": 8
         },
@@ -90,6 +178,18 @@
             "jpText": "水を循環させているとは言え、床や手すり、\r\nあらゆるところに付着しているだろう。",
             "enText": "Even though the water is circulating, it \nis probably sticking to the floor, \nhandrails, and everywhere else.",
             "nextBlock": 10,
+            "origClipLength": 71,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -4492403472551574585
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -2202373081713776839
+                }
+            ],
             "pathId": 5190152331819613356,
             "blockIdx": 9
         },
@@ -99,11 +199,23 @@
             "jpText": "しっかりと掃除をして証拠隠滅。\r\n念入りに頼むよ。",
             "enText": "Clean it well and destroy the \nevidence. Be very careful.",
             "nextBlock": 11,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "タキオンも手伝って",
                     "enText": "Tachyon will help.",
                     "nextBlock": 11
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 7993599546975694073
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 1429687257867199169
                 }
             ],
             "pathId": -3833572489218071615,
@@ -115,6 +227,17 @@
             "jpText": "えええ～……私は今回の失敗を\r\n見直してだねぇ……。",
             "enText": "I've been reviewing the mistakes \nI've made this time…",
             "nextBlock": 12,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5726212406309789134
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -8511916673364161059
+                }
+            ],
             "pathId": 520301131220629703,
             "blockIdx": 11
         },
@@ -124,6 +247,17 @@
             "jpText": "はぁあ……わかったよ。\r\nそんな目で見ないでくれ。",
             "enText": "Huh… I get it. Don't \nlook at me like that.",
             "nextBlock": 13,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 7188966759152747137
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -6827831168003272201
+                }
+            ],
             "pathId": -5294514188062966189,
             "blockIdx": 12
         },
@@ -133,6 +267,17 @@
             "jpText": "実験は失敗するし、掃除をしなくては\r\nならなくなるし……まったく散々だな！",
             "enText": "The experiment will fail, and I'll have to \nclean it up… What a mess!",
             "nextBlock": 14,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -7322181275484072711
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7560422529930391085
+                }
+            ],
             "pathId": -611561247443095365,
             "blockIdx": 13
         },
@@ -142,6 +287,17 @@
             "jpText": "文句を言うアグネスタキオンだったが、\r\n泳いだおかげで筋力がつき、それなりに\n有意義な時間となったようだ。",
             "enText": "Agnes Tachyon complained, but the \nswim had helped her gain strength \nand made the time worthwhile.",
             "nextBlock": -1,
+            "origClipLength": 79,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -7281543547485764341
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -2356606347023272211
+                }
+            ],
             "pathId": 4731712116727174788,
             "blockIdx": 14
         },
@@ -151,11 +307,23 @@
             "jpText": "しっかりと掃除をして証拠隠滅。\r\n念入りに頼むよ。",
             "enText": "Clean it well and destroy the \nevidence. Be very careful.",
             "nextBlock": 16,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "1人じゃ終わらない",
                     "enText": "You can't finish this alone.",
                     "nextBlock": 16
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -8504737671628946744
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 2622520844040721821
                 }
             ],
             "pathId": 1561362873181004554,
@@ -167,6 +335,17 @@
             "jpText": "む……確かに時間的に厳しいか。",
             "enText": "No… Surely the time is tight?",
             "nextBlock": 17,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -6800840088773659588
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 2563928509729579526
+                }
+            ],
             "pathId": 2396939262628185711,
             "blockIdx": 16
         },
@@ -176,6 +355,17 @@
             "jpText": "証拠が残って、\r\n説教コースは避けたいところだ。",
             "enText": "We don't want to end up with evidence \nand a sermon course.",
             "nextBlock": 18,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 8999920904859919440
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5798644074749145362
+                }
+            ],
             "pathId": 6694844561196683753,
             "blockIdx": 17
         },
@@ -185,6 +375,17 @@
             "jpText": "……仕方ない、手伝ってあげよう。\r\n感謝したまえよ！",
             "enText": "… I can't help it, I'll help \nyou. You should be grateful!",
             "nextBlock": 19,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 8829813151947067169
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8337372853206555239
+                }
+            ],
             "pathId": -3871618343272453523,
             "blockIdx": 18
         },
@@ -194,6 +395,17 @@
             "jpText": "疲れた顔のアグネスタキオンだったが、\r\n泳いだおかげで筋力がつき、\n有意義な時間となったようだ。",
             "enText": "Agnes Tachyon looked tired, but the swim \nhad helped her build up her muscle \nstrength, and it had been a worthwhile \nexperience.",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -4185147358977687570
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -3363703818521834275
+                }
+            ],
             "pathId": -8770685585323500794,
             "blockIdx": 19
         },
@@ -203,11 +415,23 @@
             "jpText": "しっかりと掃除をして証拠隠滅。\r\n念入りに頼むよ。",
             "enText": "Clean it well and destroy the \nevidence. Be very careful.",
             "nextBlock": 21,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "もう少し試してみたら？",
                     "enText": "Tachyon will help.",
                     "nextBlock": 21
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 2503948819097361056
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 913195673606360817
                 }
             ],
             "pathId": 7662354299862566107,
@@ -219,6 +443,17 @@
             "jpText": "無駄さ、無駄。残念だがこの通り、\r\n水に変化は――",
             "enText": "It's no use. It's no use. I'm sorry, but as \nyou can see, the water has changed.",
             "nextBlock": 22,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 3694470543007818455
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -7321672430469143735
+                }
+            ],
             "pathId": 8704761418001585466,
             "blockIdx": 21
         },
@@ -228,6 +463,7 @@
             "jpText": "む……！？　これは……\r\n先ほどより水の抵抗が増している！？",
             "enText": "Mu……! This is…… more water \nresistance than before!",
             "nextBlock": 23,
+            "origClipLength": 64,
             "pathId": -8384486080719034556,
             "blockIdx": 22
         },
@@ -237,6 +473,7 @@
             "jpText": "ここまで急激に水の密度が変化するとは……\r\n私が中で運動したことが引き金に\nなったとでも……。",
             "enText": "I had no idea that the density of the water \nwould change so drastically…… that my \nexercise inside could have triggered it.",
             "nextBlock": 24,
+            "origClipLength": 75,
             "pathId": 1422720963030738154,
             "blockIdx": 23
         },
@@ -246,6 +483,7 @@
             "jpText": "うーむ、こいつは興味深いぞ！\r\nトレーナー君！　キミも体験してみたまえ！",
             "enText": "Hmmm, this guy is interesting! Come on, \ntrainer! You've got to try it!",
             "nextBlock": 25,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "え……うわああっ！？",
@@ -262,6 +500,7 @@
             "jpText": "そして興奮状態の彼女に、\r\nプールに引きずり込まれ――",
             "enText": "Then, in a state of excitement, she dragged \nme into the pool…",
             "nextBlock": 26,
+            "origClipLength": 62,
             "pathId": 4454472970786523386,
             "blockIdx": 25
         },
@@ -271,6 +510,17 @@
             "jpText": "いやいや、素晴らしい効果だ！\r\nあやうく貴重な実験成果を\nふいにするところだったよ！",
             "enText": "No, no, no, it works great! You almost undid \na valuable experiment!",
             "nextBlock": 27,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -12245887736807259
+                },
+                {
+                    "origLen": 185,
+                    "pathId": 199830301934002615
+                }
+            ],
             "pathId": 8143470931695934523,
             "blockIdx": 26
         },
@@ -280,11 +530,22 @@
             "jpText": "お手柄だぞ、トレーナー君！\r\nそれにいい運動もできてよかったな！",
             "enText": "Nice work, trainer! And I'm glad you got a \ngood workout too!",
             "nextBlock": 28,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "はい……",
                     "enText": "Yes ……",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 6265666837531883636
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -2233524541843200231
                 }
             ],
             "pathId": 2380418355611851223,
@@ -296,9 +557,20 @@
             "jpText": "実に愉快気に笑うアグネスタキオン。\r\nそんな彼女に、プールサイドで\n倒れつつ、かろうじて頷いたのだった。",
             "enText": "Agnes Tachyon smiles with real glee. I barely \nnodded to her as I collapsed by the pool. I \nbarely nodded to her as I collapsed.",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -1950395826006991227
+                },
+                {
+                    "origLen": 185,
+                    "pathId": 1404460740551977012
+                }
+            ],
             "pathId": 3628056971183917271,
             "blockIdx": 28
         }
     ],
-    "modified": 1657554476
+    "modified": 1669945586
 }

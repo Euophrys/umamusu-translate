@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QRMW2JV3FXWRWESC5KL2Y2QWO4AIYHN5",
     "type": "story",
     "storyId": "400000010",
@@ -11,6 +11,17 @@
             "jpText": "感心ッ！\r\n我が校の生徒として実に誇らしいッ！",
             "enText": "I'm impressed! I'm so proud to have you as a\nstudent of our school!",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6030592065683255554
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 5815493038309310145
+                }
+            ],
             "pathId": 6159162782234259408,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "これからも鋭意励むように、\r\n――以って、邁進ッ！",
             "enText": "Keep up the good work, and push forwards!",
             "nextBlock": 3,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 3634732365069488166
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 3729038313798865239
+                }
+            ],
             "pathId": 6357488161495187849,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "……練習ぶりを\r\nとても喜んでいただけたようだ。",
             "enText": "She was very pleased with\nthe way we practiced …",
             "nextBlock": -1,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -5556216718156352730
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 9036152489991049870
+                }
+            ],
             "pathId": 7075745949191154781,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944802
 }

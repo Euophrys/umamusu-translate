@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6DZUJMBGEAYATHEZNMTS3U5SJBL7YLIC",
     "type": "story",
     "storyId": "501030707",
@@ -11,6 +11,17 @@
             "jpText": "ライスシャワーにどうしてもとお願いされ、\r\n一緒に神社にお参りに来た。",
             "enText": "She asked me to come to the \nshrine with her to pray.",
             "nextBlock": 2,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 217921931082404529
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5235352444134652110
+                }
+            ],
             "pathId": -7364110746717472852,
             "blockIdx": 1
         },
@@ -20,11 +31,23 @@
             "jpText": "今日はライスのお願いを聞いてくれて\r\nありがとう、お兄さま。",
             "enText": "Thank you for doing Rice \na favor today, brother.",
             "nextBlock": 3,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "どうして神社に？",
                     "enText": "What brings you to the shrine?",
                     "nextBlock": 4
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 1677154682087158222
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -8288876975365649071
                 }
             ],
             "pathId": 2636065340711671746,
@@ -36,11 +59,23 @@
             "jpText": "今日はライスのお願いを聞いてくれて\r\nありがとう、お姉さま。",
             "enText": "Thank you for doing Rice \na favor today, sister.",
             "nextBlock": 4,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "どうして神社に？",
                     "enText": "What brings you to the shrine?",
                     "nextBlock": 4
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -421626446796600499
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4517882663534304831
                 }
             ],
             "pathId": 7097154454416802797,
@@ -52,6 +87,18 @@
             "jpText": "今度、お兄さまと\r\nお出かけしたいなぁって思ってて……。",
             "enText": "I'd like to go out with my brother sometime…",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -1717527039505282750
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 7013997037108904096
+                }
+            ],
             "pathId": 7853646220351590415,
             "blockIdx": 4
         },
@@ -61,6 +108,18 @@
             "jpText": "今度、お姉さまと\r\nお出かけしたいなぁって思ってて……。",
             "enText": "I was thinking of going out \nwith my sister sometime…",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 2290080377690627925
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6657090567917226328
+                }
+            ],
             "pathId": 3189254532065592044,
             "blockIdx": 5
         },
@@ -70,6 +129,7 @@
             "jpText": "そこで、ライスの不幸に\r\nお兄さまを巻き込みたくないから……。",
             "enText": "So, I don't want to involve your \nbrother in Rice's misfortune…",
             "nextBlock": 7,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "それで俺と神頼み……？",
@@ -80,6 +140,17 @@
                     "jpText": "それで私と神頼み……？",
                     "enText": "So me and God help you…?",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -9036585946035717958
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1574994160307347755
                 }
             ],
             "pathId": -8385078813841271079,
@@ -91,6 +162,7 @@
             "jpText": "そこで、ライスの不幸に\r\nお姉さまを巻き込みたくないから……。",
             "enText": "So, I don't want to involve your \nsister in Rice's misfortune…",
             "nextBlock": 8,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "それで俺と神頼み……？",
@@ -103,6 +175,17 @@
                     "nextBlock": 8
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -2269794499203345370
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4743779437066975107
+                }
+            ],
             "pathId": 2082044466178212694,
             "blockIdx": 7
         },
@@ -112,6 +195,18 @@
             "jpText": "う、うん……お兄さまと一緒なら\r\n神さまもお願いを聞いてくれるんじゃ\nないかなって……。",
             "enText": "If you're with your brother, I'm sure God \nwill hear your request…",
             "nextBlock": 9,
+            "origClipLength": 73,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -2952290944799144390
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -6728246898449902947
+                }
+            ],
             "pathId": 8905385665723128892,
             "blockIdx": 8
         },
@@ -121,6 +216,18 @@
             "jpText": "う、うん……お姉さまと一緒なら\r\n神さまもお願いを聞いてくれるんじゃ\nないかなって……。",
             "enText": "I'm sure God will listen to your request if \nyou are with your sister…",
             "nextBlock": 10,
+            "origClipLength": 73,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 7707173981145404041
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 1447441576952943280
+                }
+            ],
             "pathId": 5090467187868557762,
             "blockIdx": 9
         },
@@ -130,11 +237,22 @@
             "jpText": "だから、ライスと一緒にお参りしよ……？",
             "enText": "So, come visit with Rice…?",
             "nextBlock": 11,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "一緒にお願いしよう",
                     "enText": "I'll ask you to join me.",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -4560151858941950151
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 6272237716931382999
                 }
             ],
             "pathId": -2679029036299192048,
@@ -146,6 +264,18 @@
             "jpText": "……うん！\r\nありがとう、お兄さま！",
             "enText": "… Yeah! Thank you, brother!",
             "nextBlock": 12,
+            "origClipLength": 56,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -8873510001189522789
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -326533353684959550
+                }
+            ],
             "pathId": 1052185054475236979,
             "blockIdx": 11
         },
@@ -155,6 +285,18 @@
             "jpText": "……うん！\r\nありがとう、お姉さま！",
             "enText": "… Yeah! Thank you, sister!",
             "nextBlock": 13,
+            "origClipLength": 56,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 5780266117798572300
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 3329204360320338391
+                }
+            ],
             "pathId": 9219868492601997027,
             "blockIdx": 12
         },
@@ -164,6 +306,17 @@
             "jpText": "そうして、2人でお参りをしたところ――",
             "enText": "And so we both paid our respects—",
             "nextBlock": 14,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 2551117243215947944
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -5782349875516405361
+                }
+            ],
             "pathId": 1161303400262943485,
             "blockIdx": 13
         },
@@ -173,6 +326,17 @@
             "jpText": "（ガシャーン）",
             "enText": "(GASPS)",
             "nextBlock": 15,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7165353454831984004
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1616914501678735722
+                }
+            ],
             "pathId": 1915325823066050862,
             "blockIdx": 14
         },
@@ -182,6 +346,18 @@
             "jpText": "きゃあっ……！？",
             "enText": "Kyaaaaa…!",
             "nextBlock": 16,
+            "origClipLength": 50,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -1788258652197038416
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -4719010193019218776
+                }
+            ],
             "pathId": -7864017659622040549,
             "blockIdx": 15
         },
@@ -191,6 +367,18 @@
             "jpText": "老朽化した屋根の一部が\r\n落ちてきたようだ……。",
             "enText": "It looks like part of the aging \nroof has fallen off…",
             "nextBlock": 17,
+            "origClipLength": 60,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -7904998326867423198
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 7612524392411297103
+                }
+            ],
             "pathId": -9196958321528191172,
             "blockIdx": 16
         },
@@ -200,11 +388,22 @@
             "jpText": "うぅ、やっぱりライスは……。",
             "enText": "Ugh, Rice is still…",
             "nextBlock": 18,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "当たらなくて助かった",
                     "enText": "Thank God I didn't get hit.",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 7609971945342058910
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6505727216259308706
                 }
             ],
             "pathId": 6013139345736591644,
@@ -216,6 +415,17 @@
             "jpText": "でも……きっとライスがいなかったら、\r\nこんなこと起こらなかったって思うから……。",
             "enText": "But… I'm sure that if it weren't for Rice, \nnone of this would have happened…",
             "nextBlock": 19,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -3225418114967661228
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 1837596879259265692
+                }
+            ],
             "pathId": -2597389890202576779,
             "blockIdx": 18
         },
@@ -225,11 +435,22 @@
             "jpText": "やっぱりライスは……。",
             "enText": "Rice is still available…",
             "nextBlock": 20,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "ライスのお願いのおかげだよ",
                     "enText": "Thanks to Rice's request.",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -1953410718445308367
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -4265881528731330026
                 }
             ],
             "pathId": 8820203717196955268,
@@ -241,6 +462,17 @@
             "jpText": "ライスのおかげ……？",
             "enText": "Thanks for the Rice…?",
             "nextBlock": 21,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -4039572561516911419
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -6575870111064625642
+                }
+            ],
             "pathId": -6820099164038983818,
             "blockIdx": 20
         },
@@ -250,6 +482,17 @@
             "jpText": "じゃ、じゃあ……これは\r\n不幸なことじゃなくて……幸運？",
             "enText": "So, then… this is not unfortunate, \nbut… lucky?",
             "nextBlock": 22,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -1558974611593483141
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -374367666707059098
+                }
+            ],
             "pathId": 5323104517566929968,
             "blockIdx": 21
         },
@@ -259,6 +502,17 @@
             "jpText": "も、もしかして……\r\n神さまが、お願い聞いてくれたのかな……？",
             "enText": "Could it be that… God has heard my request…?",
             "nextBlock": 23,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 2335833099776762655
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -48375156994703164
+                }
+            ],
             "pathId": 3169243229915553937,
             "blockIdx": 22
         },
@@ -268,6 +522,18 @@
             "jpText": "きっと、お兄さまが一緒だったからだ……。\r\nなんだか、体も軽くなった気がする……！",
             "enText": "I'm sure it was because your brother \nwas with you… I feel like I'm getting \nlighter and lighter…!",
             "nextBlock": 24,
+            "origClipLength": 71,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -2800312435107222489
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 6258066516002748369
+                }
+            ],
             "pathId": -5553347971442344260,
             "blockIdx": 23
         },
@@ -277,6 +543,18 @@
             "jpText": "きっと、お姉さまが一緒だったからだ……。\r\nなんだか、体も軽くなった気がする……！",
             "enText": "I'm sure it was because your sister \nwas with you… I feel like I'm getting \nlighter and lighter…!",
             "nextBlock": 25,
+            "origClipLength": 71,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 3157691900405250480
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -79388684546626876
+                }
+            ],
             "pathId": -5647717120133266691,
             "blockIdx": 24
         },
@@ -286,6 +564,17 @@
             "jpText": "神頼みが届いたのか、\r\nライスシャワーはとても嬉しそうだった。",
             "enText": "Rice Shower looked very happy, as if it had \nreceived a divine favor.",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -5337994007336598214
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4143923135949733537
+                }
+            ],
             "pathId": 1822398180338719370,
             "blockIdx": 25
         },
@@ -295,6 +584,18 @@
             "jpText": "老朽化した屋根の一部が\r\n落ちてきたようだ……。",
             "enText": "It looks like part of the aging \nroof has fallen off…",
             "nextBlock": 27,
+            "origClipLength": 60,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -9171600732692618464
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -5402300973849390521
+                }
+            ],
             "pathId": 5801458602784119697,
             "blockIdx": 26
         },
@@ -304,11 +605,26 @@
             "jpText": "ううぅ……ライスのせいで……！",
             "enText": "Ugh… because of the Rice…!",
             "nextBlock": 28,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "待って――",
                     "enText": "Wait for me—",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 6960567239900517056
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 1807006948493757302
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 4739859580008982530
                 }
             ],
             "pathId": 2420228169021996448,
@@ -320,6 +636,7 @@
             "jpText": "追いかけようとした途端、石畳の溝に\r\nつまづいて変な動きをしてしまった。",
             "enText": "As soon as I tried to chase after it, I \ntripped over a ditch in the cobblestones and \nmade a strange movement.",
             "nextBlock": 29,
+            "origClipLength": 68,
             "pathId": 6550889004569054324,
             "blockIdx": 28
         },
@@ -329,6 +646,18 @@
             "jpText": "お兄さま……！　大丈夫？\r\nごめんなさい……ライスのせいで……うぅ。",
             "enText": "Brother…! Are you okay? I'm \nsorry … for the Rice… Ugh.",
             "nextBlock": 30,
+            "origClipLength": 67,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 8033609522685586202
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1585216499095638397
+                }
+            ],
             "pathId": 1147699587624471437,
             "blockIdx": 29
         },
@@ -338,6 +667,18 @@
             "jpText": "お姉さま……！　大丈夫？\r\nごめんなさい……ライスのせいで……うぅ。",
             "enText": "Sister…! Are you okay? I'm sorry \n… for the Rice… Ugh.",
             "nextBlock": 31,
+            "origClipLength": 67,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -4564761951013084062
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7142078389043000741
+                }
+            ],
             "pathId": -3405619912429060157,
             "blockIdx": 30
         },
@@ -347,8 +688,20 @@
             "jpText": "ライスシャワーのせいではないと\r\n何度説明しても、\n彼女の気は滅入ったままであった……。",
             "enText": "No matter how many times I explained that it \nwasn't Rice Shower, she remained depressed…",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -375390281929225218
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -2216794982971538149
+                }
+            ],
             "pathId": 3680473634567493634,
             "blockIdx": 31
         }
-    ]
+    ],
+    "modified": 1669945561
 }

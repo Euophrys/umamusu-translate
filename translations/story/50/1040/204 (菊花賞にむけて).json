@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OUEBCS2DD7BTFJ6SUS2SWKZ6QO2MQZZF",
     "type": "story",
     "storyId": "501040204",
@@ -11,6 +11,21 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 2,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 7139054708693139547
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 3132015675234777160
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -6526766275651191469
+                }
+            ],
             "pathId": -5246987655003109652,
             "blockIdx": 1
         },
@@ -20,11 +35,26 @@
             "jpText": "会場入りしてからのゴールドシチーは\nとても集中しており、\nうかつに声のかけられる雰囲気ではなかった。",
             "enText": "Gold City was very focused as she entered the \nvenue, and was in no mood to talk to anyone.",
             "nextBlock": 3,
+            "origClipLength": 110,
             "choices": [
                 {
                     "jpText": "（外に出ていよう）",
                     "enText": "(Let's stay outside)",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -6441360831465672410
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 5376717193446457360
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -82864955982646345
                 }
             ],
             "pathId": 1297738545815957946,
@@ -36,6 +66,21 @@
             "jpText": "待って、トレーナー。",
             "enText": "Wait, trainer.",
             "nextBlock": 4,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -4681273996172014476
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 369718372111755729
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 5837300615140394002
+                }
+            ],
             "pathId": -3763661572413089903,
             "blockIdx": 3
         },
@@ -45,6 +90,17 @@
             "jpText": "……アタシ、\r\nダービーの時よりも頑張るよ。",
             "enText": "… Atashi, I'll do better \nthan I did at the Derby.",
             "nextBlock": 5,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 138413192340547144
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -6340544812640688369
+                }
+            ],
             "pathId": 9100400058694683455,
             "blockIdx": 4
         },
@@ -54,6 +110,17 @@
             "jpText": "アンタと手に入れた強さ、振り絞る。\nだから……。",
             "enText": "The strength I got with Anta, I'm going to \nshake it. That's why…",
             "nextBlock": 6,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -6275938763076248402
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5695999475467539430
+                }
+            ],
             "pathId": 3464236115845386302,
             "blockIdx": 5
         },
@@ -63,6 +130,7 @@
             "jpText": "……水、差さない程度に\n煽ってみせてよ。",
             "enText": "… Let me see if I can stir things up \nenough to keep the water flowing.",
             "nextBlock": 7,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "欲しい評価を掴んでこい！",
@@ -75,6 +143,16 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -7238669695332662374
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 6795621841184345559
+                }
+            ],
             "pathId": -6849606225193372577,
             "blockIdx": 6
         },
@@ -84,6 +162,17 @@
             "jpText": "……っ。",
             "enText": "…",
             "nextBlock": 8,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -922238077519388566
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -608466830584907141
+                }
+            ],
             "pathId": 7239489392480246523,
             "blockIdx": 7
         },
@@ -93,8 +182,20 @@
             "jpText": "行ってくる……！",
             "enText": "Gotta go…!",
             "nextBlock": -1,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 342804981749793984
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 5310574997651825148
+                }
+            ],
             "pathId": 4333081050361583307,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945671
 }

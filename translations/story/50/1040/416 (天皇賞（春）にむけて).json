@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ABMXJTQHKTFH2FGVFRGSFOV3SLHZ56CP",
     "type": "story",
     "storyId": "501040416",
@@ -11,6 +11,17 @@
             "jpText": "『天皇賞（春）』の日を迎えた。\r\nマネージャーも控室に駆けつけ、\nゴールドシチーの様子を見に来た。",
             "enText": "The day of \"Tennou-sho (Spring)\" arrived. \nThe manager rushed to the waiting room \nto check on Gold City.",
             "nextBlock": 2,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": -6711675811143339590
+                },
+                {
+                    "origLen": 153,
+                    "pathId": -3215867055976973445
+                }
+            ],
             "pathId": 5945102600669677804,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "マネージャーは、魅力のない走りをしたら\n走るのをやめるよう念を押す。その言葉に、\nゴールドシチーはかえって勇み立つ。",
             "enText": "The manager reminds them to stop running if \nthey run unattractively. Gold City is \nencouraged by these words.",
             "nextBlock": 3,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 176,
+                    "pathId": 8451962682602284466
+                },
+                {
+                    "origLen": 166,
+                    "pathId": -5508219685188688169
+                }
+            ],
             "pathId": -2992860475861255181,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "レース前、タマモクロスはゴールドシチーに\n目もくれない。それでもゴールドシチーは\n決して負けないと、闘志を燃やしたのだった。",
             "enText": "Before the race, Tamamo Cross did not even \nlook at GOLDEN CITY. Gold City, however, was \ndetermined not to be outdone.",
             "nextBlock": -1,
+            "origClipLength": 125,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -2439806782106838731
+                },
+                {
+                    "origLen": 170,
+                    "pathId": -2688930096491254458
+                }
+            ],
             "pathId": -7347201711722708249,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945680
 }

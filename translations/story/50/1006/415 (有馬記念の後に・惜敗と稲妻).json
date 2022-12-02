@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PBIIKSDPGNL7MBVQC7C3PAZS4OZSUQ4T",
     "type": "story",
     "storyId": "501006415",
@@ -11,6 +11,25 @@
             "jpText": "『有馬記念』でスーパークリークに敗北した\r\nオグリキャップは、次こそはと雪辱を誓った。",
             "enText": "After losing to Super Creek in the \nArima Kinen, Oguri Cap vowed to \nmake up for it next time.",
             "nextBlock": 2,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": -6087697231096597941
+                },
+                {
+                    "origLen": 169,
+                    "pathId": -9081010010829233586
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -1299082931112269710
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8385934860237818640
+                }
+            ],
             "pathId": -2185101528374667412,
             "blockIdx": 1
         },
@@ -20,10 +39,41 @@
             "jpText": "レース後、控室を訪れたタマモクロスは\r\n『ドリームトロフィー』への挑戦をやめ、\n2人に勝負を挑むと宣言する。",
             "enText": "After the race, Tamamo Cross appears in the \nwaiting room to declare she will drop the \n\"Dream Trophy\", challenging both to a match.",
             "nextBlock": 3,
+            "origClipLength": 80,
             "coloredText": [
                 {
                     "jpText": "ドリームトロフィー",
                     "enText": "Dream Trophy"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -6666095746869674663
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -3430784864937228038
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -7896882854298408250
+                },
+                {
+                    "origLen": 213,
+                    "pathId": -320903077341516141
+                },
+                {
+                    "origLen": 204,
+                    "pathId": 9015915957181619423
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 1889014592915498392
+                },
+                {
+                    "origLen": 236,
+                    "pathId": -4478348025494191270
                 }
             ],
             "pathId": 8843348717448443579,
@@ -35,8 +85,32 @@
             "jpText": "思わぬライバルの登場に沈むオグリキャップ。\r\n新たなる試練の日々が幕を開けるのだった。",
             "enText": "Oguri Cap is sunk by the appearance \nof an unexpected rival. A new \nday of trials begins.",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -5282084882861512807
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 2003097412197647925
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -6924818033445506276
+                },
+                {
+                    "origLen": 213,
+                    "pathId": 451770639417623384
+                },
+                {
+                    "origLen": 204,
+                    "pathId": 441366698080280678
+                }
+            ],
             "pathId": 1113375181653145699,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944978
 }

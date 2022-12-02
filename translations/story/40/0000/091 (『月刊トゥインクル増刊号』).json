@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "2RKP22O4RRVUWCTTKRBISYQUFB4NML3S",
     "type": "story",
     "storyId": "400000091",
@@ -11,6 +11,7 @@
             "jpText": "（コンコンコンッ）",
             "enText": "(clank clank)",
             "nextBlock": 2,
+            "origClipLength": 56,
             "pathId": 4297926544864764405,
             "blockIdx": 1
         },
@@ -20,11 +21,30 @@
             "jpText": "失礼いたします。\r\n<username>トレーナーさんは、\nいらっしゃいますか？",
             "enText": "Excuse me. Is trainer <username> in?",
             "nextBlock": 3,
+            "origClipLength": 97,
             "choices": [
                 {
                     "jpText": "はい！",
                     "enText": "Yes!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 2791825887809106943
+                },
+                {
+                    "origLen": 220,
+                    "pathId": -3582858842458007818
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 1795461016456492800
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -3759787653179955761
                 }
             ],
             "pathId": 6693946263110925720,
@@ -36,6 +56,25 @@
             "jpText": "ああ、よかった。ぜひこれを、\r\n直接お渡ししたかったので。",
             "enText": "Oh, thank God. I really wanted to\ngive this to you in person.",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 2647303077069505170
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -6040001063681224866
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 5272483793132196301
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -4465304753530915430
+                }
+            ],
             "pathId": 2575871474588768830,
             "blockIdx": 3
         },
@@ -45,6 +84,25 @@
             "jpText": "本日、ついに発売されました。",
             "enText": "It was finally released today.",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -5359896303009406495
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -3964536330717729521
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 8021726015274767022
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 6618074334862705394
+                }
+            ],
             "pathId": -4323196902551207700,
             "blockIdx": 4
         },
@@ -54,10 +112,29 @@
             "jpText": "――『月刊トゥインクル増刊号』です。",
             "enText": "— \"Monthly Twinkle Special Issue\".",
             "nextBlock": 6,
+            "origClipLength": 68,
             "coloredText": [
                 {
                     "jpText": "月刊トゥインクル増刊号",
                     "enText": "Monthly Twinkle Special Issue"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 2920400532543573877
+                },
+                {
+                    "origLen": 19,
+                    "pathId": -2699988781170125196
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5626530065198701254
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 5418639856494406722
                 }
             ],
             "pathId": -5683509481589870648,
@@ -69,6 +146,17 @@
             "jpText": "最近、読者からの要望が多かったんです。\r\nここ3年間のウマ娘界の話題を\nまとめた特別版が欲しいと。",
             "enText": "There were a lot of requests from readers\nlately. For a special edition regarding the\npast three years.",
             "nextBlock": 7,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 298,
+                    "pathId": 9006645984546263444
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -4838558192663561400
+                }
+            ],
             "pathId": 3637503859850937123,
             "blockIdx": 6
         },
@@ -78,6 +166,21 @@
             "jpText": "きっと読者も、ウマ娘界において、\r\n特にこの3年間は重要な節目になったと\n考えているのでしょう。",
             "enText": "I'm sure readers agree that these\nyears have been a momentous period\nin the world of Uma Musume.",
             "nextBlock": 8,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -8069883722049910310
+                },
+                {
+                    "origLen": 298,
+                    "pathId": 5084058294225278993
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -422013595376894959
+                }
+            ],
             "pathId": 8847276149801376471,
             "blockIdx": 7
         },
@@ -87,11 +190,30 @@
             "jpText": "……いろいろありましたものね。",
             "enText": "… A whole lot happened after all.",
             "nextBlock": 9,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "……そうですね",
                     "enText": "… I guess so, yeah",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6802574215072503195
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 886553321780795343
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 6711932442367668709
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -4415328804159837010
                 }
             ],
             "pathId": -7741516631458809797,
@@ -103,6 +225,25 @@
             "jpText": "いち記者として、この3年間を追えたことは\r\n非常に幸運だったと思います。",
             "enText": "As a reporter, I feel very fortunate to have\nbeen able to follow these three years.",
             "nextBlock": 10,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -1637116565291978583
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 4402218180919250754
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -5444428668103798204
+                },
+                {
+                    "origLen": 137,
+                    "pathId": -5621721773405674097
+                }
+            ],
             "pathId": -1545888004212412119,
             "blockIdx": 9
         },
@@ -112,6 +253,25 @@
             "jpText": "そして貴方がたと出会えたことも。",
             "enText": "And that I could meet you.",
             "nextBlock": 11,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6684381332222066665
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 7746273171365335735
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -1174058207283337442
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 6479842667680694421
+                }
+            ],
             "pathId": -7952045138267543322,
             "blockIdx": 10
         },
@@ -121,6 +281,26 @@
             "jpText": "ちなみにですが――",
             "enText": "By the way—",
             "nextBlock": 12,
+            "origClipLength": 56,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 8264945472833614808
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -3949348321984160208
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 2387637116822973525
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 7945856393648860761
+                }
+            ],
             "pathId": 8237272628548855747,
             "blockIdx": 11
         },
@@ -130,11 +310,31 @@
             "jpText": "表紙、ちゃんとご覧になりましたか？",
             "enText": "Did you get a good look at the cover?",
             "nextBlock": 13,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "表紙ですか？",
                     "enText": "The cover?",
                     "nextBlock": 13
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7913459565744126570
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -2660359742282846410
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 2701005461832755024
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -8641784991223027489
                 }
             ],
             "pathId": 6232123069623739893,
@@ -146,6 +346,25 @@
             "jpText": "ええ。",
             "enText": "Yeah.",
             "nextBlock": 14,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2679108958613363756
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 89154861275133057
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -6168250289946880326
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6079998693857193607
+                }
+            ],
             "pathId": -9001228494312553168,
             "blockIdx": 13
         },
@@ -155,6 +374,25 @@
             "jpText": "乙名史記者に促されて、表紙を見る。\r\nそこには――",
             "enText": "At her urging, I looked at\nthe cover. There was—",
             "nextBlock": 15,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -7803459757584856525
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -7100622808785740273
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 8272448747309845033
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -3164183203507725156
+                }
+            ],
             "pathId": -4636707054932068331,
             "blockIdx": 14
         },
@@ -164,6 +402,25 @@
             "jpText": "<chrname>の写真が、\r\n大きく飾られていた。",
             "enText": "A large photo of <chrname>\nstaring back at me.",
             "nextBlock": 16,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3095796814068100905
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 6110773166457583936
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 1714650499687441000
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 2700043144605773747
+                }
+            ],
             "pathId": 4596243842588430745,
             "blockIdx": 15
         },
@@ -173,6 +430,25 @@
             "jpText": "この増刊号を組むにあたり、\r\n表紙は……雑誌の顔は誰にすべきか考えた時。",
             "enText": "When I was thinking about who should be the\ncover— the face of the magazine…",
             "nextBlock": 17,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -4675585499744233920
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -5236076368063711000
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 2045794458486313542
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -9092301855893206
+                }
+            ],
             "pathId": -927183942547150778,
             "blockIdx": 16
         },
@@ -182,6 +458,17 @@
             "jpText": "私の頭には1人しか、\r\n候補が浮かびませんでした。",
             "enText": "There was only one candidate\nthat came to my mind.",
             "nextBlock": 18,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -1411394565017782669
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 2409264207164865860
+                }
+            ],
             "pathId": -2066295465137283541,
             "blockIdx": 17
         },
@@ -191,11 +478,30 @@
             "jpText": "そしてそれは、編集部の意見も同じでした。",
             "enText": "And that was the opinion of the\neditorial team as well.",
             "nextBlock": 19,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "乙名史さん……！",
                     "enText": "Ms. Otonashi…!",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 2963660713876050072
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -4779782096469275923
+                },
+                {
+                    "origLen": 138,
+                    "pathId": -1328465356262136414
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 3031818954449310644
                 }
             ],
             "pathId": -189302355196706556,
@@ -207,6 +513,25 @@
             "jpText": "私共、月刊トゥインクルは\r\nこれからも<chrname>さんを、\nそして――",
             "enText": "We, at Twinkle Monthly, will continue to\nsupport you and your work.",
             "nextBlock": 20,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6725222464210535890
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 7775234837608989382
+                },
+                {
+                    "origLen": 162,
+                    "pathId": -7732048658533179665
+                },
+                {
+                    "origLen": 160,
+                    "pathId": -4925772559648014954
+                }
+            ],
             "pathId": -5786330368319337196,
             "blockIdx": 19
         },
@@ -216,6 +541,25 @@
             "jpText": "<username>トレーナーを\r\n追っていきます。",
             "enText": "We will follow you, trainer <username>.",
             "nextBlock": 21,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6615430674605255937
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 1601383771747089923
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 6604166396798891590
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -5696439358984337779
+                }
+            ],
             "pathId": -4143576686684717182,
             "blockIdx": 20
         },
@@ -225,6 +569,7 @@
             "jpText": "今までの取材を経て、貴方がたこそ\r\nこのウマ娘界をけん引する光だと、\n確信しましたから。",
             "enText": "Through all my interviews I've become\nconvinced that you are the ray of sunshine\nilluminating the horse girl world.",
             "nextBlock": 22,
+            "origClipLength": 102,
             "choices": [
                 {
                     "jpText": "はい！俺も彼女を輝かせます！",
@@ -237,6 +582,24 @@
                     "nextBlock": 22
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -3036740721594780654
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 6934697775720870329
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -8426947569347356887
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -5210873056194252074
+                }
+            ],
             "pathId": 6427125978275943262,
             "blockIdx": 21
         },
@@ -246,6 +609,25 @@
             "jpText": "……！",
             "enText": "…!",
             "nextBlock": 23,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 5856853668734526949
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 8107057648321180978
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 2042406656771011928
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -3488113257258895364
+                }
+            ],
             "pathId": 8946177233170790369,
             "blockIdx": 22
         },
@@ -255,11 +637,34 @@
             "jpText": "……す、す……すす、\r\n……すすすっ！！",
             "enText": "… Su, su… susu, …sususuh!!!!",
             "nextBlock": 24,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "……乙名史さん？",
                     "enText": "… Ms. Otonashi?",
                     "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 4904003080617418922
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7909610737560446009
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 5131395693520877048
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 1295700429926056509
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -777572789241442428
                 }
             ],
             "pathId": -103834076005497512,
@@ -271,6 +676,21 @@
             "jpText": "素晴らしいですっ！",
             "enText": "Splendid!",
             "nextBlock": 25,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 5612785122720690635
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -157688469018384101
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -8181888470025024449
+                }
+            ],
             "pathId": 7323521529240185164,
             "blockIdx": 24
         },
@@ -280,6 +700,17 @@
             "jpText": "ご担当のウマ娘を輝かせる！　それは\r\nつまり自らが影となってもよいという覚悟！",
             "enText": "Make your horse girl shine! In other words,\nbe prepared to become a shadow yourself!",
             "nextBlock": 26,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 3401968039965371035
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -323088027277977283
+                }
+            ],
             "pathId": -6247054438161902067,
             "blockIdx": 25
         },
@@ -289,6 +720,25 @@
             "jpText": "今後も私生活の全てを彼女のために捧げ、\r\n時として全財産をはたいてでも、\n東西南北どこのレースや遠征にも連れていく！",
             "enText": "You will continue to devote your whole life\nto her, spend everything you have, take her\nto races and trips anywhere in the world!",
             "nextBlock": 27,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -2177928840027114656
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 733704564574589996
+                },
+                {
+                    "origLen": 164,
+                    "pathId": 6798869514154034385
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 4389634558993598576
+                }
+            ],
             "pathId": 6099369024495967979,
             "blockIdx": 26
         },
@@ -298,6 +748,25 @@
             "jpText": "あぁ……やはり貴方は\r\n私が見込んだお方ぁ……！",
             "enText": "Ah…, you're the one I've been looking for…!",
             "nextBlock": 28,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -2481164908600105427
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -7875238471468149303
+                },
+                {
+                    "origLen": 164,
+                    "pathId": -3800016046964771895
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -3198909504675048999
+                }
+            ],
             "pathId": 5619571196793091902,
             "blockIdx": 27
         },
@@ -307,6 +776,25 @@
             "jpText": "……なんだかいつもの乙名史記者の\r\n大暴走が始まってしまったが。",
             "enText": "… Otonashi's usual outbursts have begun.",
             "nextBlock": 29,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4633995795855212214
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 6969564683156636210
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 4854164932385736793
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 6585623929056459764
+                }
+            ],
             "pathId": -7580970310148156744,
             "blockIdx": 28
         },
@@ -316,6 +804,17 @@
             "jpText": "雑誌からは彼女の想いが伝わってくる。\r\n後で<chrname>にも、\n見せるとしよう……！",
             "enText": "I can feel her thoughts from the magazine.\nI'll show <chrname> later…!",
             "nextBlock": -1,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 194,
+                    "pathId": -4188993703395676746
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -573250788104784896
+                }
+            ],
             "pathId": 2040172277527072837,
             "blockIdx": 29
         },
@@ -325,11 +824,31 @@
             "jpText": "今回の増刊号、いつもとは違う\r\n企画も行わせていただきまして。",
             "enText": "This special issue includes\na little special feature.",
             "nextBlock": 31,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "どんな企画ですか？",
                     "enText": "What kind of feature?",
                     "nextBlock": 31
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -4531042923267163379
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -2889759844791231748
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -8211588975924555758
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 2106017172003643945
                 }
             ],
             "pathId": -4809185486416321931,
@@ -341,6 +860,25 @@
             "jpText": "ふふっ、もっと先のページを見てください。",
             "enText": "Hehe, look further down the pages.",
             "nextBlock": 32,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1246792968829314844
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 252883376930517038
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 8913085593350000574
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 8362734532201554461
+                }
+            ],
             "pathId": -7433769648123572625,
             "blockIdx": 31
         },
@@ -350,6 +888,25 @@
             "jpText": "乙名史記者に促されて、\r\n雑誌の後半部分のページを開く。",
             "enText": "At her prompt I opened the second\nhalf of the magazine.",
             "nextBlock": 33,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -1189360719591876632
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 3560031063395984786
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -1333085191371692866
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 4418064366850767548
+                }
+            ],
             "pathId": -8081871192600405585,
             "blockIdx": 32
         },
@@ -359,6 +916,25 @@
             "jpText": "そこには――",
             "enText": "There's—",
             "nextBlock": 34,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3630358789066466746
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 3586385546932809170
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -4315257450642358972
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 446113522040386833
+                }
+            ],
             "pathId": -439564297601396652,
             "blockIdx": 33
         },
@@ -368,6 +944,21 @@
             "jpText": "『<chrname>さんと、\r\n<username>トレーナーへ贈る言葉』",
             "enText": "\"A word to <chrname> and\nher trainer <username>\"",
             "nextBlock": 35,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -1551229546524095535
+                },
+                {
+                    "origLen": 207,
+                    "pathId": 8577292585730132427
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -8522638901015000260
+                }
+            ],
             "pathId": -1021794657149171673,
             "blockIdx": 34
         },
@@ -377,6 +968,25 @@
             "jpText": "実は編集部宛てに、\r\n読者から貴方がたへのファンレターが\n多数届いておりまして。",
             "enText": "In fact, the editorial department\nhas received many fan letters\nfrom readers to you.",
             "nextBlock": 36,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 3353271363340981305
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -4142478119315355038
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -434173963194016319
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -3679331850038139573
+                }
+            ],
             "pathId": 8242059741149949698,
             "blockIdx": 35
         },
@@ -386,6 +996,25 @@
             "jpText": "その反響ぶりから、お2人への\r\n応援の言葉をまとめたページを\n作る企画が立ち上がったんです。",
             "enText": "The response was so great that\nwe compiled pages with support\nmessages to the two of you.",
             "nextBlock": 37,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1931926595292691270
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 825608069436052146
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -4178093962054387940
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -3262404477531205525
+                }
+            ],
             "pathId": -652447570876132684,
             "blockIdx": 36
         },
@@ -395,11 +1024,30 @@
             "jpText": "このような読者主体で数ページにわたる\r\n特集など、ほぼ初めての試みだったんですよ？",
             "enText": "This is pretty much the first time we\nattempted such a reader-driven, multi-page\nfeature, you know?",
             "nextBlock": 38,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "ありがとうございます……！",
                     "enText": "Thank you very much…!",
                     "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 4029191563347824631
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -5245358377559813685
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -1468612516714719865
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 8131201588109724844
                 }
             ],
             "pathId": -4271106830459189985,
@@ -411,6 +1059,29 @@
             "jpText": "ふふっ、その感謝はレースやライブで、\r\nファンの皆さんに届けてあげてください。",
             "enText": "Hehe, please deliver that gratitude to your\nfans at races and live performances.",
             "nextBlock": 39,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -168500264255183296
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7441559845241570230
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -6282901207718655116
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -7079949400378792569
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -1399645933734283625
+                }
+            ],
             "pathId": -2065270097585867273,
             "blockIdx": 38
         },
@@ -420,6 +1091,25 @@
             "jpText": "私共編集部はファンと貴方がたを結ぶ\r\nお手伝いをすることが仕事ですから。",
             "enText": "We, the editors, are here to help you\nconnect with your fans.",
             "nextBlock": 40,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -6277637952874331800
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 8199239432889010302
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 6566846163207420013
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -4051208382784759215
+                }
+            ],
             "pathId": 4223202031972304410,
             "blockIdx": 39
         },
@@ -429,6 +1119,25 @@
             "jpText": "乙名史記者からの想いが伝わってくる。\r\nこの記事は後で<chrname>にも、\n見せるとしよう……！",
             "enText": "I can feel Otonashi's sentiments. I'll show\nthis article to <chrname> later…!",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 182,
+                    "pathId": 2959116190762931223
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -4866525906346174430
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -1456473849189907453
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -2452785591437018574
+                }
+            ],
             "pathId": -2926684468390887656,
             "blockIdx": 40
         },
@@ -438,11 +1147,31 @@
             "jpText": "もう少しだけ、\r\n先のページをご覧いただけますか？",
             "enText": "Could you take a look at the pages\njust a little further ahead?",
             "nextBlock": 42,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "先のページ？",
                     "enText": "The pages ahead?",
                     "nextBlock": 42
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -8572688660921406849
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 3363046773519378098
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 6197919475408929696
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -1123767500363427470
                 }
             ],
             "pathId": 1715663459055618020,
@@ -454,6 +1183,25 @@
             "jpText": "ええ。",
             "enText": "Yeah.",
             "nextBlock": 43,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -1104874660810297275
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -497113468978940291
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -3794386733374923534
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 5235047897790503541
+                }
+            ],
             "pathId": 6838545835331774928,
             "blockIdx": 42
         },
@@ -463,6 +1211,25 @@
             "jpText": "乙名史記者に促されて、数ページめくる。\r\nそこには――",
             "enText": "At Otonashi's urging, I turned\na few pages. There was—",
             "nextBlock": 44,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -51023269841898092
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 9128010749758801833
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -5072162399991581754
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -2029792992794824586
+                }
+            ],
             "pathId": 8178297969018260867,
             "blockIdx": 43
         },
@@ -472,6 +1239,25 @@
             "jpText": "『栄光を辿る<chrname>と、\r\nそのトレーナーへ』\nという特集が組まれていた。",
             "enText": "There was a special feature called\n\"In the footsteps of glory with\n<chrname> and trainer\".",
             "nextBlock": 45,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -1381729939318130657
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 8116119189301003931
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -2973310378453196262
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -6098945143204031361
+                }
+            ],
             "pathId": 3113633926181677721,
             "blockIdx": 44
         },
@@ -481,6 +1267,17 @@
             "jpText": "ここ3年間のウマ娘界を語る上で、\r\n貴方がたの存在は大きく、\n外せないものでした。",
             "enText": "You have been an integral part of the\nUmamusume world for the past three years.",
             "nextBlock": 46,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": 506506649001093743
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -3784558459833856588
+                }
+            ],
             "pathId": -1882063313679215691,
             "blockIdx": 45
         },
@@ -490,6 +1287,25 @@
             "jpText": "だからこそ、小さい記事にはまとめきれず、\r\n編集長に掛け合わせてもらったんです。",
             "enText": "I couldn't just fit it into a small article,\nso I talked it over with my editor.",
             "nextBlock": 47,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 2532723613282209314
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 4345348098459519505
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 8469951103260465522
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 5129854459062037919
+                }
+            ],
             "pathId": 7563397449243076769,
             "blockIdx": 46
         },
@@ -499,11 +1315,30 @@
             "jpText": "――皆、この人たちの特集を見たいはずだと。",
             "enText": "— I told him everyone would look forward to\na feature with these people.",
             "nextBlock": 48,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "乙名史さん……！",
                     "enText": "Ms. Otonashi…!",
                     "nextBlock": 48
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7814201566982762846
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -3728328157093590953
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -4058330343667916391
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -2192276917058277128
                 }
             ],
             "pathId": -1098879295059163222,
@@ -515,6 +1350,25 @@
             "jpText": "ふふっ、もちろん私もその1人です。\r\nこれからのご活躍も楽しみにしていますよ？",
             "enText": "Hehe, of course I am one of them.\nI'm looking forward to your future\nactivities, okay?",
             "nextBlock": 49,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1575190364467546378
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 7866019791256053415
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 8839115001565277298
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 6060862032814575846
+                }
+            ],
             "pathId": -7460753921261660080,
             "blockIdx": 48
         },
@@ -524,6 +1378,17 @@
             "jpText": "乙名史記者からの想いが伝わってくる。\r\nこの記事は後で<chrname>にも、\n見せるとしよう……！",
             "enText": "I can feel Otonashi's excitement. I'll show\n<chrname> this article later…!",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 200,
+                    "pathId": 6213930450935489888
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 4878333401511471283
+                }
+            ],
             "pathId": 296249345934530266,
             "blockIdx": 49
         },
@@ -533,11 +1398,31 @@
             "jpText": "そちらのページの右端、ご覧になりましたか？",
             "enText": "Did you see the right side of that page?",
             "nextBlock": 51,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "右端ですか？",
                     "enText": "The right side?",
                     "nextBlock": 51
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6667699558496199017
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -3568987669334299916
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -4166030439743666245
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -6852239392381771311
                 }
             ],
             "pathId": -1341416266619919838,
@@ -549,6 +1434,25 @@
             "jpText": "ええ。",
             "enText": "Yeah.",
             "nextBlock": 52,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7651501897686889859
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 8825054849547255503
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -7966790261534289938
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 5071713671532666297
+                }
+            ],
             "pathId": -5407995214390558809,
             "blockIdx": 51
         },
@@ -558,6 +1462,25 @@
             "jpText": "そこには『期待のトレーナーとウマ娘』\r\nという小さい特集があり――",
             "enText": "There's a small feature there called\n\"Promising Trainers and Uma Musume\".",
             "nextBlock": 53,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": 4067417686082970128
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 9049892442582267727
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 9119642472895691425
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -5908611423297603688
+                }
+            ],
             "pathId": 1050747976639807162,
             "blockIdx": 52
         },
@@ -567,6 +1490,25 @@
             "jpText": "<chrname>とのトレーニング風景と、\r\n熱い期待のコメントが記載されていた。",
             "enText": "It described a training session\nwith <chrname> and commented on\nthe high expectations.",
             "nextBlock": 54,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -6742874598773705022
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 5277039989682090752
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 7204478611520035782
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 5095327805629235269
+                }
+            ],
             "pathId": 2200215867244649418,
             "blockIdx": 53
         },
@@ -576,11 +1518,30 @@
             "jpText": "『この2人の活躍がこれからも楽しみだ』\r\n……その言葉に偽りはありません。",
             "enText": "\"I can't wait to see what they do in the\nfuture.\" … There are no lies there.",
             "nextBlock": 55,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "乙名史さん……！",
                     "enText": "Ms. Otonashi…!",
                     "nextBlock": 55
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 6701587760386096734
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 1463466903197121983
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 590390451973374745
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 2929453807692112546
                 }
             ],
             "pathId": -5497854543174293290,
@@ -592,6 +1553,25 @@
             "jpText": "ふふっ、今後のお2人の軌跡も、\r\n取材させていただきますからね。",
             "enText": "Hehe, I'll be covering you two's trajectory.",
             "nextBlock": 56,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6279986983456142455
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -3249144413603474969
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 7592030377542997123
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 7023692927234869096
+                }
+            ],
             "pathId": 3051264097445192258,
             "blockIdx": 55
         },
@@ -601,9 +1581,28 @@
             "jpText": "乙名史記者からの想いが伝わってくる。\r\nこの記事は後で<chrname>にも、\n見せるとしよう……！",
             "enText": "Otonashi's feelings reached me. I'll show\nthis article to <chrname> later…!",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -6692049684162617408
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -4618343220817179930
+                },
+                {
+                    "origLen": 184,
+                    "pathId": 5362579798234155401
+                },
+                {
+                    "origLen": 215,
+                    "pathId": 6726693366785242828
+                }
+            ],
             "pathId": -4512096398935234347,
             "blockIdx": 56
         }
     ],
-    "modified": 1661711800
+    "modified": 1669944804
 }

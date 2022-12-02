@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7BYFDWGTU5YIN4TGV34GCSOYIRQFFC5C",
     "type": "story",
     "storyId": "501040900",
@@ -11,6 +11,7 @@
             "jpText": "これから、トゥインクル・シリーズを\n担当ウマ娘と駆け抜ける日々が始まる。\nともに歩む彼女の名前は――",
             "enText": "From now on, the days of running through the \nTwinkle Series with the horsegirl in charge \nwill begin. Her name is…",
             "nextBlock": 2,
+            "origClipLength": 110,
             "coloredText": [
                 {
                     "jpText": "トゥインクル・シリーズ",
@@ -26,10 +27,21 @@
             "jpText": "ゴールドシチー。\n……名前以外に、なにか必要？",
             "enText": "Gold City. Do you need anything \nmore than the… name?",
             "nextBlock": 3,
+            "origClipLength": 75,
             "coloredText": [
                 {
                     "jpText": "ゴールドシチー",
                     "enText": "golden city"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 2308366204802591836
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 7484249374946952550
                 }
             ],
             "pathId": -8405675549466476009,
@@ -41,6 +53,17 @@
             "jpText": "……モデルの仕事はしてるけど、\nアタシは走るために、この学園にいるの。\nこの脚で、アタシの走りを……見せつけたい。",
             "enText": "…I work as a model, but I'm here at the \nacademy to run. I want to show… how I \nrun with these legs.",
             "nextBlock": 4,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 652368463597229845
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -4918468777543220623
+                }
+            ],
             "pathId": 6654034913336280640,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "とりあえず、人形扱いしたらぶっ飛ばすから。\nそれだけは、覚えといてよね。",
             "enText": "In the meantime, if you treat me like a doll, \nI'll beat you to death. Just remember that.",
             "nextBlock": 5,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 115898408272368615
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1368290386209216065
+                }
+            ],
             "pathId": -8300894482014283336,
             "blockIdx": 4
         },
@@ -59,8 +93,20 @@
             "jpText": "こうして、<chrname>との\nトゥインクル・シリーズへの挑戦が\n始まったのだった！",
             "enText": "And so began <chrname>'s attempt \nat the Twinkle Series!",
             "nextBlock": -1,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -6943601353787131388
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 8472187200077368642
+                }
+            ],
             "pathId": -4792632391225558901,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669946851
 }

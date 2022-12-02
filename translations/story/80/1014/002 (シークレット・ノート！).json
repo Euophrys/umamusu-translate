@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4WZ26BMBCI4MYRYUZKF5BXFEF3W3KSA6",
     "type": "story",
     "storyId": "801014002",
@@ -11,6 +11,7 @@
             "jpText": "休日の昼下がり。\r\n食事のために、席を探していると……。",
             "enText": "It's late afternoon on a holiday. You are \nlooking for a seat for a meal…",
             "nextBlock": 2,
+            "origClipLength": 81,
             "pathId": -4732066036028530250,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "気になるノートが、\r\n座席の下に落ちていた。",
             "enText": "A note of interest was found under my seat.",
             "nextBlock": 3,
+            "origClipLength": 73,
             "pathId": 8407607295981162885,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "あーー！　見つけたデス！\r\n『エル世界最強ノートNo.4』！！！",
             "enText": "Aaah! I found it! \"Elle's World's \nStrongest Notebook No.4\"!",
             "nextBlock": 4,
+            "origClipLength": 86,
             "pathId": -2717779829213216817,
             "blockIdx": 3
         },
@@ -38,6 +41,21 @@
             "jpText": "よかったぁぁ～～っ！\r\nどこ探しても見つからなくて！",
             "enText": "Oh, thank goodness! I couldn't \nfind it anywhere!",
             "nextBlock": 5,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8641999294660757349
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -6591861605159040487
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 1741751662806126962
+                }
+            ],
             "pathId": 3046723335145774072,
             "blockIdx": 4
         },
@@ -47,6 +65,21 @@
             "jpText": "やっぱり、ここでしたか～！\r\nきっと激辛ホットサンドを食べた時に……。",
             "enText": "I knew it was here~! I'm sure you'll \nbe able to find it… when you have \na very hot sandwich.",
             "nextBlock": 6,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7256642189894597497
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4616162347118429254
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8854849431821287166
+                }
+            ],
             "pathId": -1753093461001554988,
             "blockIdx": 5
         },
@@ -56,6 +89,7 @@
             "jpText": "ブエノ！　拾ってくれて感謝デス！\r\nどれだけお礼を言っても言い足りません！",
             "enText": "Bueno! Thanks for picking me up, Death! I \ncan't thank you enough!",
             "nextBlock": 7,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "大切なノートなんだな",
@@ -68,6 +102,16 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 3869114402079388808
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6376150558523026583
+                }
+            ],
             "pathId": -117162088674540916,
             "blockIdx": 6
         },
@@ -77,6 +121,17 @@
             "jpText": "はい！　パパも現役時代、こうやって\r\nノートに新しいプロレス技を\n書いてましたから！",
             "enText": "Yes! When I was working, I used \nto write down new wrestling moves \nin a notebook like this!",
             "nextBlock": 8,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -6918077039776347026
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -848030433882879689
+                }
+            ],
             "pathId": -269434790059327819,
             "blockIdx": 7
         },
@@ -86,6 +141,17 @@
             "jpText": "つまりデスね！　そのノートには、\r\nこれまでエルが見つけた走りのコツとか、\nとっておきの情報が書いてあ――",
             "enText": "In other words, Death! In that notebook, \nyou'll find all the running tips and tricks \nthat Elle has discovered so far.",
             "nextBlock": 9,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -2531874082667647564
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 7321401032073697283
+                }
+            ],
             "pathId": 3389356797242325672,
             "blockIdx": 8
         },
@@ -95,6 +161,17 @@
             "jpText": "そうだ！　拾ってくれたお礼に、\r\nノートにある情報を1個教えてあげますデス！",
             "enText": "That's right! As a thank you for picking it \nup, I'll give you one piece of information \nin my notebook!",
             "nextBlock": 10,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 1977121947861048142
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 6507637052376909945
+                }
+            ],
             "pathId": -6175095040353916633,
             "blockIdx": 9
         },
@@ -104,6 +181,7 @@
             "jpText": "イチオシは『エル流パワートレメニュー』と\r\n『晴れたレースで走るコツ』デスデス！\nさあ、どっち！？",
             "enText": "We've got the Elle Power Training \nMenu and tips on how to run in a \nsunny race! So, which is it?",
             "nextBlock": 11,
+            "origClipLength": 108,
             "choices": [
                 {
                     "jpText": "エル流パワートレメニュー",
@@ -116,6 +194,16 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 5874375233035724813
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -4388911442693878876
+                }
+            ],
             "pathId": 5006797729599080268,
             "blockIdx": 10
         },
@@ -125,6 +213,17 @@
             "jpText": "了解しましたデェェェス！\r\nきっとパワフルになること間違いなし！",
             "enText": "Roger that, deyes! It's \ngoing to be powerful!",
             "nextBlock": 12,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 3624015302093278618
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 222628075132309089
+                }
+            ],
             "pathId": 4534528131433065119,
             "blockIdx": 11
         },
@@ -134,6 +233,17 @@
             "jpText": "ではでは、お耳を拝借！\r\nこれはエルのトップシークレットですからね！",
             "enText": "Now then, let's hear it for you! Because \nthis is Elle's top secret!",
             "nextBlock": 13,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 2476937708141833487
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -679347278156141686
+                }
+            ],
             "pathId": 6454729049072585523,
             "blockIdx": 12
         },
@@ -143,6 +253,17 @@
             "jpText": "実はデスね～！\r\nごにょごにょごにょ～……。",
             "enText": "Actually desu ne~! Gonyo gonyo gonyo~…",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -324787760837699298
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 5602421991103679244
+                }
+            ],
             "pathId": -2245811233362557931,
             "blockIdx": 13
         },
@@ -152,6 +273,17 @@
             "jpText": "おお！　快晴、攻勢、意外性！\r\nそれを選ぶとは、お目が高い！",
             "enText": "Oh! Sunny, aggressive, unexpected! Well done \nfor choosing that one!",
             "nextBlock": 15,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -8453216602747377279
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5749011273058145528
+                }
+            ],
             "pathId": -1408104968053690806,
             "blockIdx": 14
         },
@@ -161,6 +293,17 @@
             "jpText": "ではでは、お耳を拝借！\r\nこれはエルのトップシークレットですからね！",
             "enText": "Now then, let's hear it for you! Because \nthis is Elle's top secret!",
             "nextBlock": 16,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -4380620094359012420
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8103219583592449170
+                }
+            ],
             "pathId": 8048622213121217682,
             "blockIdx": 15
         },
@@ -170,8 +313,20 @@
             "jpText": "実はデスね～！\r\nごにょごにょごにょ～……。",
             "enText": "Actually desu ne~! Gonyo gonyo gonyo~…",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -1431208415138094132
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -1789664589525844206
+                }
+            ],
             "pathId": -6230408081299492434,
             "blockIdx": 16
         }
-    ]
+    ],
+    "modified": 1669945950
 }

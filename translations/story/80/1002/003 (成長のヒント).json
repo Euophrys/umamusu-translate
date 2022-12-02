@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "TBQS6ARMU5TBZSYSDPJAN3FNZVIGQYIV",
     "type": "story",
     "storyId": "801002003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nサイレンススズカが話していた。",
             "enText": "After training, <chrname> and \nSilence Suzuka were talking.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 178942710921600148
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 3450345582406135242
+                }
+            ],
             "pathId": 2716786049093720661,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946277
 }

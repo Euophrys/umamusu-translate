@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "NPDHVPTAUZIP3MFI5AVHGPK5X7N75ZIF",
     "type": "story",
     "storyId": "501061601",
@@ -11,6 +11,17 @@
             "jpText": "おーっほっほっほ！\r\nさあ、レースの時間よ！",
             "enText": "Ohohoho! Come on, it's race time!",
             "nextBlock": 2,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 3292861347240865064
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -3032989593154163303
+                }
+            ],
             "pathId": 8557315728919675650,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "今回こそ栄誉をつかむのは、\r\nこの私、一流ウマ娘の――",
             "enText": "This time, it is I, a first-rate horse girl, \nwho will win the honor.",
             "nextBlock": 3,
+            "origClipLength": 62,
             "choices": [
                 {
                     "jpText": "キングヘイロー！",
                     "enText": "King Halo!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 3662847522338089876
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -4527118087667272004
                 }
             ],
             "pathId": -5512735441618875841,
@@ -36,6 +58,17 @@
             "jpText": "そう、その通り！\r\nトレーナーもわかってるじゃない！",
             "enText": "Yeah, that's right! Your trainer \nknows what she's doing!",
             "nextBlock": 4,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 7606135628947442955
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -7145366487816436035
+                }
+            ],
             "pathId": -3422767377935808729,
             "blockIdx": 3
         },
@@ -45,8 +78,20 @@
             "jpText": "さあ、行くわよ！\r\n私を待つレッドカーペットへ！\n輝けるキングの道へ！",
             "enText": "Come on, let's go! To the red carpet that \nawaits me! To the path of the shining king!",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 4229311265567720548
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5474290120805507275
+                }
+            ],
             "pathId": -687306772490998629,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945938
 }

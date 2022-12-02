@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "62JBTJ6YDO4YZONLKKV4FMOJMKSTFA2K",
     "type": "story",
     "storyId": "801026001",
@@ -11,6 +11,17 @@
             "jpText": "ある晩、コースの状態を\r\n確かめていたところ――",
             "enText": "I was checking the course one evening.",
             "nextBlock": 2,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -8768395219470566299
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -893869693375258814
+                }
+            ],
             "pathId": -6579218067519077309,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "はっ……はっ……。",
             "enText": "Haha… haha…",
             "nextBlock": 3,
+            "origClipLength": 117,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -2758739365562620629
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -4132395150772470457
+                }
+            ],
             "pathId": -1731124211682526331,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "がしゃんがしゃんと、金属音が響いている。\r\n音の方を見ると、あるウマ娘が走っていた。",
             "enText": "The sound of metal clanging was echoing in \nthe air. I looked towards the sound and saw \na horse girl running.",
             "nextBlock": 4,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 6012867503890331948
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 1212944887763068498
+                }
+            ],
             "pathId": -4055369126891774712,
             "blockIdx": 3
         },
@@ -38,6 +71,17 @@
             "jpText": "……試験計測、完了。コンディション、正常。\r\n負荷増強可能と判断。ウェイト適正量は――",
             "enText": "… test measurements, complete. Condition \nnormal. The load can be increased. The \ncorrect amount of weight is…",
             "nextBlock": 5,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -1080237894877288910
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 7140200927899505464
+                }
+            ],
             "pathId": -8714363331244876340,
             "blockIdx": 4
         },
@@ -47,11 +91,22 @@
             "jpText": "走り終えた彼女の足元を見ると、大量の\r\n厳めしいおもりが巻きつけられていた。",
             "enText": "When she had finished running, she looked at \nher feet and saw a lot of stern weights \nwrapped around them.",
             "nextBlock": 6,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "それは一体……？",
                     "enText": "What the hell is that…?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 743908407516715895
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -3301836749022640101
                 }
             ],
             "pathId": 3346973628976285151,
@@ -63,6 +118,7 @@
             "jpText": "――こちらは、トレーニングでの負荷上昇を\r\n目的とした特注アンクルウェイトになります。",
             "enText": "—This is a custom-made ankle weight designed \nto increase the load during training.",
             "nextBlock": 7,
+            "origClipLength": 101,
             "choices": [
                 {
                     "jpText": "すごく重そうだ……",
@@ -83,6 +139,17 @@
                     "jpText": "夜だと、音が少し響くかもね",
                     "enText": "At night, the noise can be a bit loud.",
                     "nextBlock": 11
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 7089883615050808485
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 136911618009604601
                 }
             ],
             "pathId": 5513275500675981603,
@@ -94,6 +161,7 @@
             "jpText": "――こちらは、トレーニングでの負荷上昇を\r\n目的とした特注アンクルウェイトになります。",
             "enText": "—This is a custom-made ankle weight designed \nto increase the load during training.",
             "nextBlock": 8,
+            "origClipLength": 101,
             "choices": [
                 {
                     "jpText": "すごく重そうだ……",
@@ -116,6 +184,17 @@
                     "nextBlock": 11
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 6206268557781844717
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 231171466012443965
+                }
+            ],
             "pathId": -7411478121892947226,
             "blockIdx": 7
         },
@@ -125,6 +204,17 @@
             "jpText": "問題ありません。先の計測結果を基にすれば、\r\nこの2倍を装着しても、適正範囲内です。",
             "enText": "No problem. On the basis of the \nprevious measurements, a doubling \nis within the right range.",
             "nextBlock": 9,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 1185881416316786063
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -6198157203540326653
+                }
+            ],
             "pathId": -4212592239020420252,
             "blockIdx": 8
         },
@@ -134,6 +224,17 @@
             "jpText": "引き続き、最適の負荷を再検討します。\r\n失礼いたします。",
             "enText": "We will continue to review the optimal load. \nThank you for your time.",
             "nextBlock": 10,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -3352392103540531755
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -2833391682851500438
+                }
+            ],
             "pathId": 936001376460129596,
             "blockIdx": 9
         },
@@ -143,6 +244,17 @@
             "jpText": "……ミホノブルボンはその後も、\r\nウェイトを増やしつつ問題なく走って見せた。",
             "enText": "… Mihono Bourbon continued to run well \nwith the weights increased.",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 5845957204328882554
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 8510481109595875496
+                }
+            ],
             "pathId": 3510021566228426013,
             "blockIdx": 10
         },
@@ -152,6 +264,17 @@
             "jpText": "――状況を把握。\r\n夜間でのこのトレーニングは\n騒音による周辺への悪影響の可能性有り。",
             "enText": "—Understand the situation. This training at \nnight may have a negative impact on the \nsurrounding area due to noise.",
             "nextBlock": 12,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 333276365865353127
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -7950658446630142827
+                }
+            ],
             "pathId": -6265025776049455493,
             "blockIdx": 11
         },
@@ -161,6 +284,17 @@
             "jpText": "申し訳ありません、音の問題は盲点でした。\r\n情報提供、感謝いたします。",
             "enText": "Sorry, the sound problem was a blind spot. \nThank you for the information.",
             "nextBlock": 13,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -4027872978439869901
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -653510546121720644
+                }
+            ],
             "pathId": 8647296704318777000,
             "blockIdx": 12
         },
@@ -170,8 +304,20 @@
             "jpText": "以後は時間帯の変更など対策を講じ、\r\n問題のない形で実施するようにいたします。",
             "enText": "In the future, we will try to change \nthe time of the day and ensure that \nthere are no problems.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -5811259309686667168
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -6210062611710618849
+                }
+            ],
             "pathId": 3304917067335908498,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669945955
 }

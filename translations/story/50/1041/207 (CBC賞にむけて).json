@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "XZAVUWR7NAO6GXUA3EQB7WOV2O3UZYFX",
     "type": "story",
     "storyId": "501041207",
@@ -11,6 +11,17 @@
             "jpText": "ふぅ……ふぅ……。",
             "enText": "Phew… Phew…",
             "nextBlock": 2,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -2401641014594750206
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 4167745194756957873
+                }
+            ],
             "pathId": 1429877102457571673,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "ほっ……ほっ……！",
             "enText": "Hot… Hot…!",
             "nextBlock": 3,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -6769693215113432442
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -6977477007381815708
+                }
+            ],
             "pathId": 1928389938748219112,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "パカラ、パカラ……。\r\nおや、しっくり！",
             "enText": "Pacala, Pacala… Oh, it fits!",
             "nextBlock": 4,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "落ち着かない？",
                     "enText": "Are you restless?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -2905263751839479669
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -4330112583677702827
                 }
             ],
             "pathId": -5003606695888991310,
@@ -45,6 +78,17 @@
             "jpText": "いえいえ！\r\n覚悟はすっかり決まっています！",
             "enText": "No, no, no! I'm completely prepared!",
             "nextBlock": 5,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -8408061152476710723
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -7879356656788250666
+                }
+            ],
             "pathId": 4330239818036495900,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "ただ私、まだレース中ですので！",
             "enText": "But I'm still in the race!",
             "nextBlock": 6,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 1392841003021747047
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 6713645304789113732
+                }
+            ],
             "pathId": -2427893267382079631,
             "blockIdx": 5
         },
@@ -63,6 +118,7 @@
             "jpText": "3600mのゴールを目指して、\r\nまだ走っている最中ですので！！",
             "enText": "We're still in the middle of\nrunning for the 3600m goal!",
             "nextBlock": 7,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "…………そうだったな！",
@@ -75,6 +131,16 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 7293388680488942775
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -690011564549237195
+                }
+            ],
             "pathId": -1509757661929996482,
             "blockIdx": 6
         },
@@ -84,6 +150,17 @@
             "jpText": "『函館スプリントS』の勢いのまま、\r\n『CBC賞』も勝ってきます！",
             "enText": "With the momentum from the Hakodate Sprint\nS., she'll go on to win the CBC Award!",
             "nextBlock": 8,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -5131514440656687216
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 7619672502900780212
+                }
+            ],
             "pathId": -7578581928453697632,
             "blockIdx": 7
         },
@@ -93,8 +170,20 @@
             "jpText": "パカラ、パカラ！",
             "enText": "Pakara, Pakara!",
             "nextBlock": -1,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -2120704232282947557
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 15957347853419693
+                }
+            ],
             "pathId": 1996870042508454935,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945704
 }

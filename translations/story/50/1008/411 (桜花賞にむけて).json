@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "JYCMMI6FBXI565HPTBYYMYJ4TF24ALXM",
     "type": "story",
     "storyId": "501008411",
@@ -11,6 +11,17 @@
             "jpText": "桜吹雪が舞う舞台、『桜花賞』",
             "enText": "The stage where the cherry blossom blizzard \ndances, \"Sakurahana-sho",
             "nextBlock": 2,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -8607916963087342024
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 899565690270596192
+                }
+            ],
             "pathId": 3648948014704239043,
             "blockIdx": 1
         },
@@ -20,6 +31,25 @@
             "jpText": "玉砕覚悟でレースへと挑んでいた\r\n以前までのウオッカはもういない。",
             "enText": "The Vodka of the past, the one who was always \nready to lose, is no more.",
             "nextBlock": 3,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 3728435925668184769
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 3695505844284444736
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -8072219996303530247
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 8294981759534441063
+                }
+            ],
             "pathId": -4904998519149373227,
             "blockIdx": 2
         },
@@ -29,8 +59,20 @@
             "jpText": "どんなレースでも“勝つ”覚悟を持って、\r\nウオッカは宿敵……ダイワスカーレットとの\nクラシック戦線初戦へと、向かっていった。",
             "enText": "With the determination to \"win\" any race, \nVodka headed for her first Classic race \nagainst her nemesis… Daiwa Scarlet.",
             "nextBlock": -1,
+            "origClipLength": 125,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 6720393622411733859
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 8360739379623184770
+                }
+            ],
             "pathId": 316556653235699126,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945039
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "5JZPJWNPQ57EH4CFTOWKKPUQGTRSFBWM",
     "type": "story",
     "storyId": "501006411",
@@ -11,6 +11,17 @@
             "jpText": "迎えた『マイルチャンピオンシップ』。\r\n強豪がそろい踏みのレースとなるが――",
             "enText": "The \"Mile Championship\" is here. It's a race \nwith all the big names in the field.",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -4241920231229107741
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -136458939431183326
+                }
+            ],
             "pathId": -4956719623456536598,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "オグリキャップは自分が頂点に立つのだと\r\n闘志を燃やすのだった。",
             "enText": "Oguri Cap was determined to reach the top.",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -6125197572527962674
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5804438144397280755
+                }
+            ],
             "pathId": 5282294209936493707,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944977
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MPGSW7P7GLHQPQQ73CILXFYASRND6JZI",
     "type": "story",
     "storyId": "501006718",
@@ -11,6 +11,17 @@
             "jpText": "休みをくれて感謝する。",
             "enText": "Thanks for giving me the day off.",
             "nextBlock": 2,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -9171682398451737249
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2711251311253676046
+                }
+            ],
             "pathId": 2215203104120797999,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "昨日は緑の多い場所を\r\nゆっくり散策できた。",
             "enText": "Yesterday, I was able to take a leisurely \nstroll through the greenery.",
             "nextBlock": 3,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -1889354251058137390
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -6867015157410234194
+                }
+            ],
             "pathId": -7784784335678942489,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "おかげでいいリフレッシュになったよ。",
             "enText": "It was a good refresher for me.",
             "nextBlock": 4,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -7425685085136730808
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -7882690474866021393
+                }
+            ],
             "pathId": 2788868061881879393,
             "blockIdx": 3
         },
@@ -38,8 +71,20 @@
             "jpText": "今日からまたしっかりとトレーニングに\r\n励んでいくから、よろしく頼む。",
             "enText": "I'm going to start training again from \ntoday, so please take care of me.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 2024532203357226677
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6168990852462328885
+                }
+            ],
             "pathId": -2576536067603289224,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669944987
 }

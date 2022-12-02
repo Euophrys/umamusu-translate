@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "IBQVRDT3JO6JWGMCYQAVSZ66DYRYJ72S",
     "type": "story",
     "storyId": "501008434",
@@ -11,6 +11,17 @@
             "jpText": "磨いてきたダッシュ力を、このレースで\r\n結実させたウオッカ。勝利という結果以上に、\n手にした成果は大きかった。",
             "enText": "Vodka's dash power, which she'd been refining, \nbore fruit in this race. Her victory was \nmore than a result, it was an achievement.",
             "nextBlock": 2,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 8185844531578275291
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -5031362561286235421
+                }
+            ],
             "pathId": -6021664062892693719,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "抜群の切れ味を手に入れたウオッカは、\r\n誰にも負ける気がしないと\n不敵な笑みを浮かべる。",
             "enText": "Vodka, with her newfound sharpness, smiles \nfearlessly, saying she doesn't feel like she \ncan beat anyone.",
             "nextBlock": 3,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -3255128816594090538
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -7599285600849772407
+                }
+            ],
             "pathId": 3239574816372783588,
             "blockIdx": 2
         },
@@ -29,14 +51,26 @@
             "jpText": "強力、かつ最高にカッコいいその武器で\r\n宿敵ダイワスカーレットと戦うために、\nウオッカは『天皇賞（秋）』を目指す！",
             "enText": "Vodka is aiming for the Tennoushou (Autumn) \nto fight her nemesis, Daiwa Scarlet, with \nher powerful and coolest weapon!",
             "nextBlock": -1,
+            "origClipLength": 119,
             "coloredText": [
                 {
                     "jpText": "天皇賞（秋）",
                     "enText": "Tennoushou (Autumn)"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -1897655505282736466
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 3678835179265914382
+                }
+            ],
             "pathId": -4484383801994377636,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945040
 }

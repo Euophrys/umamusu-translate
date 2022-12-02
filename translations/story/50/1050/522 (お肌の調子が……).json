@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CEORQZO7ZDMTO6WNQPXIKLQDE4QWWD6H",
     "type": "story",
     "storyId": "501050522",
@@ -11,6 +11,17 @@
             "jpText": "用事があったので、ナリタタイシンを探しに\r\n屋上へやって来ると……。",
             "enText": "I had some errands to run, so I came to the \nrooftop to look for Narita Taishin…",
             "nextBlock": 2,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 2827974034069069718
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -335769597536871556
+                }
+            ],
             "pathId": 1914484262803688267,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "って、また広告？　ウザ……。\r\nゲーム全然進まないじゃん……。",
             "enText": "And another ad? Ugh… The game doesn't \nprogress at all…",
             "nextBlock": 3,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -5689506542673640077
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5122277310580302483
+                }
+            ],
             "pathId": 1661337642044542752,
             "blockIdx": 2
         },
@@ -29,6 +51,21 @@
             "jpText": "……ん？　『たった3日で効果実感』\r\n『古い皮質がボロボロ落ちる！』\n『キラめき美肌に大変身』？",
             "enText": "… hmm? \"In just three days, you'll \nfeel the effects of old cortex falling \noff.\" A \"great transformation into \nglowing, beautiful skin\"?",
             "nextBlock": 4,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": 1937451041038438976
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 5739084071581479297
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 5686013969137863358
+                }
+            ],
             "pathId": 4241724597641882585,
             "blockIdx": 3
         },
@@ -38,6 +75,7 @@
             "jpText": "ふーん……。",
             "enText": "Hmmm…",
             "nextBlock": 5,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "危ないモノは買っちゃダメだぞ！？",
@@ -50,6 +88,20 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5534241720318738448
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 1650554544069098227
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -3351539736562810933
+                }
+            ],
             "pathId": 6681075604541433166,
             "blockIdx": 4
         },
@@ -59,6 +111,21 @@
             "jpText": "うわっ！　驚かせないでよ……！\r\n広告なんかに釣られるワケないでしょ！？",
             "enText": "Oh my gosh! You scared the hell out \nof me…! How could I possibly \nbe lured by an advertisement?",
             "nextBlock": 6,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": 6744665467057889993
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6723500490964773272
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6625253628809700664
+                }
+            ],
             "pathId": 107677106520837906,
             "blockIdx": 5
         },
@@ -68,8 +135,24 @@
             "jpText": "そうは言うが、どうやら内心\r\n肌荒れに悩んでいるらしかった……。",
             "enText": "She said so, but apparently she was suffering \nfrom skin problems on the inside…",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4901372579580301562
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -3293832402024080185
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6305696812625449471
+                }
+            ],
             "pathId": -9072916109234725986,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945814
 }

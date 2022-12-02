@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "S7K4JJ5BJ7BLVZGOEZFK5MVIBNQILCH5",
     "type": "story",
     "storyId": "501025733",
@@ -11,6 +11,17 @@
             "jpText": "――――っ。\r\n今のは……？",
             "enText": "—. Is that… now?",
             "nextBlock": 2,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -5904032104413389637
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 741268007334821250
+                }
+            ],
             "pathId": -4848970065573597793,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "すごい……。\r\n体の中に……陽だまりがあるみたい……。",
             "enText": "It's amazing… It's like a…\nsunbeam in your body…",
             "nextBlock": 3,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -6362928839198284067
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 1999637533204717486
+                }
+            ],
             "pathId": -385485519053150700,
             "blockIdx": 2
         },
@@ -29,8 +51,20 @@
             "jpText": "これならもっと『お友だち』に……\r\n近づけるかも……。",
             "enText": "This may bring you closer to your\n\"friend\"…",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -2660632691803495158
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 577872713156572599
+                }
+            ],
             "pathId": 6272257833253772108,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669946376
 }

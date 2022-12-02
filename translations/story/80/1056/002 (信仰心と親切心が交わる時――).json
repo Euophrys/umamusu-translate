@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "JCSB5W5UJRRV22CTRKTUDS7HFR2IWTLX",
     "type": "story",
     "storyId": "801056002",
@@ -11,6 +11,7 @@
             "jpText": "カフェテリアで休憩していると――",
             "enText": "I was taking a break in the cafeteria.",
             "nextBlock": 2,
+            "origClipLength": 55,
             "pathId": 390380664364105148,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "あ、いいところにいましたー！",
             "enText": "Oh, I was in the right place!",
             "nextBlock": 3,
+            "origClipLength": 54,
             "pathId": 3082313263605094673,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "マチカネフクキタルが\r\nパタパタと走り寄ってきた。",
             "enText": "Machikanefukkital came running towards us.",
             "nextBlock": 4,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 4507761552410020058
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 6738856191732481612
+                }
+            ],
             "pathId": -3409392002315589975,
             "blockIdx": 3
         },
@@ -38,11 +51,22 @@
             "jpText": "んふふ～。\r\nなにかお困り事とかありませんか？",
             "enText": "Hmmm… Do you have any problems?",
             "nextBlock": 5,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "特にはないかな",
                     "enText": "I don't think so.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 7481058777513463441
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 7401900016163753236
                 }
             ],
             "pathId": -8306237053743235635,
@@ -54,6 +78,17 @@
             "jpText": "えぇー！　そんなこと言わず、\r\n些細なものでも構いませんからー！",
             "enText": "Oh, no! Don't say that. I don't \ncare how small it is!",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -7848874027359636088
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4310838297201016372
+                }
+            ],
             "pathId": -9153516619092375925,
             "blockIdx": 5
         },
@@ -63,6 +98,17 @@
             "jpText": "シラオキ様から『人には親切にしなさい』\r\n……と、お告げを受けたんです。",
             "enText": "I was told by Lord Shiraoki that \nI should be kind to people…",
             "nextBlock": 7,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -22821261764234375
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -1811095194422420315
+                }
+            ],
             "pathId": -5749412329567990643,
             "blockIdx": 6
         },
@@ -72,6 +118,7 @@
             "jpText": "お告げは絶対なんです！\r\nだからなにかさせてくださーい！",
             "enText": "The signs are absolute! So please \nlet me do something!",
             "nextBlock": 8,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "片っ端から作業を振ってみる",
@@ -84,6 +131,16 @@
                     "nextBlock": 15
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 8665389391506873568
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 442529679349893166
+                }
+            ],
             "pathId": 5831003038995060218,
             "blockIdx": 7
         },
@@ -93,6 +150,17 @@
             "jpText": "承知しましたー！\r\nごゆるりとお待ちくださーい！",
             "enText": "Yes, sir! Please wait patiently!",
             "nextBlock": 9,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 1442964728367735329
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 3817146372250127317
+                }
+            ],
             "pathId": 4840409153515610318,
             "blockIdx": 8
         },
@@ -102,6 +170,17 @@
             "jpText": "マチカネフクキタルが飲み物や食べ物を\r\n次々と持って来てくれた。",
             "enText": "Machikanefukkital brought us drinks \nand food one after the other.",
             "nextBlock": 10,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -1068085412149489200
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6250221406195650924
+                }
+            ],
             "pathId": 5421899710466999771,
             "blockIdx": 9
         },
@@ -111,6 +190,21 @@
             "jpText": "次はお肩をお揉みしますね。\r\nえーと、その後は部屋のお掃除に……。",
             "enText": "I'm going to give you a shoulder massage \nnext. Well, after that, I'll go to \n… to clean my room.",
             "nextBlock": 11,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 2612652917292647782
+                },
+                {
+                    "origLen": 144,
+                    "pathId": 2663177346552007693
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 8589758975754066888
+                }
+            ],
             "pathId": 4168680328805748841,
             "blockIdx": 10
         },
@@ -120,6 +214,18 @@
             "jpText": "またなにか御用の際には、私めになんなりと\r\nお申し付けくださいね、ご主人様――",
             "enText": "If you ever need anything else, please do \nnot hesitate to ask me, master—",
             "nextBlock": 12,
+            "origClipLength": 70,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -8552152301771922126
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -1808877078699864107
+                }
+            ],
             "pathId": -4005247089136015744,
             "blockIdx": 11
         },
@@ -129,6 +235,18 @@
             "jpText": "他にもなにか御用の際には、\r\n私めになんなりとお申し付けくださいね、\nお嬢様――",
             "enText": "If there's anything else I \ncan do for you, my lady—",
             "nextBlock": 13,
+            "origClipLength": 71,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 6610959639416431871
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -3003464973574339907
+                }
+            ],
             "pathId": 6372557914771176838,
             "blockIdx": 12
         },
@@ -138,6 +256,17 @@
             "jpText": "あれ？　気づけばメイドさんみたく\r\n立ち振る舞いも洗練されてきた感じが……。",
             "enText": "What? I've noticed that you've become more \nsophisticated in your behavior, like a maid…",
             "nextBlock": 14,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -8070756466412136763
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2161800100468835380
+                }
+            ],
             "pathId": 2409735158997482124,
             "blockIdx": 13
         },
@@ -147,6 +276,17 @@
             "jpText": "これぞまさにシラオキ様の御利益です！！",
             "enText": "This is exactly what Lord Shiraoki \nhas done for us!",
             "nextBlock": -1,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -7992629257411508079
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -7484429418800182874
+                }
+            ],
             "pathId": 6073206390495024313,
             "blockIdx": 14
         },
@@ -156,11 +296,22 @@
             "jpText": "なんと！　そんな考え方もあるんですね。\r\nでも、具体的にどうすれば……。",
             "enText": "Oh my God! That's one way of thinking about \nit. But how exactly can we do it…?",
             "nextBlock": 16,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "労うとか？",
                     "enText": "Like working hard?",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -5106536874657926776
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6154017590567900075
                 }
             ],
             "pathId": -2246714213434203986,
@@ -172,6 +323,21 @@
             "jpText": "ふむふむ……勤労感謝的なやつですかね。\r\nでは、休息でも取ろうと思います。",
             "enText": "Hmmm… I guess it's a workaholic thing. Well, \nI think I'll take a break.",
             "nextBlock": 17,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 6997546101509238161
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -2466308910896521940
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 8335450412746443675
+                }
+            ],
             "pathId": 4928352654010946331,
             "blockIdx": 16
         },
@@ -181,11 +347,22 @@
             "jpText": "……でも、ほんとにいいのかな？\r\nトレーニングしなくても大丈夫ですかね？",
             "enText": "Is it really OK to go to…? Do \nI need to do any training?",
             "nextBlock": 18,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "お告げを信じよう",
                     "enText": "Trust the signs",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 8120821560785917100
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -3043210340920457868
                 }
             ],
             "pathId": -2830701263107990030,
@@ -197,6 +374,17 @@
             "jpText": "そう……ですね！　シラオキ様のお告げに\r\n間違いはありません！",
             "enText": "Yes…! There is no mistaking \nLady Siraoki's message!",
             "nextBlock": 19,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 4135174138585774852
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2922476401586988118
+                }
+            ],
             "pathId": 1925558433146056475,
             "blockIdx": 18
         },
@@ -206,6 +394,17 @@
             "jpText": "あの、もしよかったらこのままご一緒しても\r\n構いませんでしょうか？　えへへ……。",
             "enText": "Um, if you don't mind, would you \nlike to join us? Ehehe…",
             "nextBlock": 20,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 6860145809937935632
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6021268875476720565
+                }
+            ],
             "pathId": -4227961349401118064,
             "blockIdx": 19
         },
@@ -215,8 +414,20 @@
             "jpText": "しばしの間、マチカネフクキタルと\r\nお茶を楽しんだ。",
             "enText": "We enjoyed a short tea break \nwith Machikanefukkital.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 4936851765922960602
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 4129267094931088614
+                }
+            ],
             "pathId": -2340254930257800055,
             "blockIdx": 20
         }
-    ]
+    ],
+    "modified": 1669945967
 }

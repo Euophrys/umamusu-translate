@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4QOASXWA7WQ3L6PICGL3BT37VYLZ4XXD",
     "type": "story",
     "storyId": "801007001",
@@ -11,6 +11,7 @@
             "jpText": "河川敷を歩いていると、川岸にカヌーが着き、\r\nそこからウマ娘が下りてきたのだが……。",
             "enText": "As we were walking along the riverbank, a \ncanoe landed on the riverbank and a horse \ngirl came down from it…",
             "nextBlock": 2,
+            "origClipLength": 125,
             "pathId": 1414833788241775440,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "たどり着いたぜ、新大陸！\r\n未開の土地で生き抜くには……。",
             "enText": "We've arrived, a new continent! How to \nsurvive in an uncivilised land…",
             "nextBlock": 3,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -8685585024500738777
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -7056655884114448095
+                }
+            ],
             "pathId": 5360655044608598714,
             "blockIdx": 2
         },
@@ -29,6 +41,7 @@
             "jpText": "――なにが必要か！？\r\nそこのアンタ、答えろ！",
             "enText": "—What do you need? You there, answer me!",
             "nextBlock": 4,
+            "origClipLength": 75,
             "choices": [
                 {
                     "jpText": "た、体力かな……？",
@@ -41,6 +54,16 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 6195985196557145712
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 852577415129456167
+                }
+            ],
             "pathId": 4250172110310425498,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "奇遇だな、アタシもそう思ってたぜ！",
             "enText": "That's funny, I was just thinking \nthe same thing!",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 7137703486603708861
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -4334437561735720678
+                }
+            ],
             "pathId": -6818182151227812182,
             "blockIdx": 4
         },
@@ -59,11 +93,22 @@
             "jpText": "よし、記念にスタミナをつける\r\nコツを教えてやる。聞きたいか？",
             "enText": "Okay, I'm going to teach you a few \ntips on how to build up your stamina. \nYou want to hear it?",
             "nextBlock": 6,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "教えて欲しい",
                     "enText": "I want you to tell me",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -1580974081205797455
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -7965494142737684463
                 }
             ],
             "pathId": 569534560646386929,
@@ -75,6 +120,17 @@
             "jpText": "それはな……自分で見つけんだよ！\r\n自分で見つけるから意味がある……。",
             "enText": "That's the thing… you have to find \nit yourself! It makes sense because \nyou find it yourself…",
             "nextBlock": 7,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -1334573705073006416
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 3878898962603876934
+                }
+            ],
             "pathId": -6368250670356571136,
             "blockIdx": 6
         },
@@ -84,6 +140,17 @@
             "jpText": "――常に心にアドベンチャー！",
             "enText": "—always an adventure in mind!",
             "nextBlock": 8,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 2301389031075572171
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 915310328970396260
+                }
+            ],
             "pathId": -3745564040525125906,
             "blockIdx": 7
         },
@@ -93,6 +160,17 @@
             "jpText": "ゴールドシップは再びカヌーに戻ると、\r\n川を下って行った……。",
             "enText": "Goldship got back into her canoe \nand headed down the river…",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 3785591390258623077
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -7565906800275024706
+                }
+            ],
             "pathId": -7782734172615141607,
             "blockIdx": 8
         },
@@ -102,6 +180,17 @@
             "jpText": "過酷な環境で生き抜くには、\r\n粘り強さが大事……！",
             "enText": "Persistence is the key to surviving \nin a harsh environment…!",
             "nextBlock": 10,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 2184159099238750234
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 2417115603925407429
+                }
+            ],
             "pathId": -556043554368228848,
             "blockIdx": 9
         },
@@ -111,6 +200,17 @@
             "jpText": "ネバネバといえば……納豆！\r\nつまり、納豆を食えば……。",
             "enText": "Speaking of sticky food… natto! In other \nwords, if you eat natto, you'll get…",
             "nextBlock": 11,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -164692501436114280
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1683378484308942492
+                }
+            ],
             "pathId": -7882866972052565219,
             "blockIdx": 10
         },
@@ -120,6 +220,17 @@
             "jpText": "――そう、Never Give Up！",
             "enText": "—Yes, Never Give Up!",
             "nextBlock": 12,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3075633029426451091
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 1059102069757244288
+                }
+            ],
             "pathId": 8277491010386059117,
             "blockIdx": 11
         },
@@ -129,6 +240,17 @@
             "jpText": "ちなみに、納豆は醤油を入れる前にしっかり\r\n混ぜた方がふんわりして美味しくなるぞ☆",
             "enText": "By the way, it's better to mix natto \nwell before adding soy sauce to \nmake it fluffy and tasty.",
             "nextBlock": 13,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 9049638973702657710
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -491006581059697845
+                }
+            ],
             "pathId": -3439293142998034103,
             "blockIdx": 12
         },
@@ -138,8 +260,20 @@
             "jpText": "ゴールドシップは再びカヌーに戻ると、\r\n川を下って行った……。",
             "enText": "Goldship got back into her canoe \nand headed down the river…",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -4148264998861998810
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 4385805832285779818
+                }
+            ],
             "pathId": -7782700322656300188,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669945947
 }

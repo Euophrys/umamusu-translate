@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "YJRW4WAWOK5BL53BB6C6JV3C3EO2VUNA",
     "type": "story",
     "storyId": "801068002",
@@ -11,6 +11,17 @@
             "jpText": "ある日、ショッピングモールで\r\n買い物をしていると――",
             "enText": "One day, I was shopping in the mall.",
             "nextBlock": 2,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -8137678487622142581
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 23968859079103408
+                }
+            ],
             "pathId": -6997166548782662624,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "あー！　もうどうしよ～～！！",
             "enText": "Aah! What should I do now~!",
             "nextBlock": 3,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "どうかした？",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 4319820593542496854
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 6945533018813101300
+                }
+            ],
             "pathId": -5026562427468539604,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "あっ、送ってもらった差し入れの\r\nお返しをどうしようか悩んでいて……。",
             "enText": "Oh, I've been wondering what to do in return \nfor the gifts you sent me…",
             "nextBlock": 4,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6776189653902540214
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5460790584542427951
+                }
+            ],
             "pathId": 2113630752141489588,
             "blockIdx": 3
         },
@@ -50,11 +83,26 @@
             "jpText": "そうだ！　もしよかったら、\r\n相談に乗ってもらえませんか？",
             "enText": "Yes! If you don't mind, I was wondering \nif I could talk to you?",
             "nextBlock": 5,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "いいよ！",
                     "enText": "All right!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3009829870385308089
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -9091880669321315319
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 26452384652201153
                 }
             ],
             "pathId": 99041678571204355,
@@ -66,6 +114,21 @@
             "jpText": "ありがとうございます！",
             "enText": "Thank you!",
             "nextBlock": 6,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 7132300141122922108
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -7890722404568891806
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4244985478062130905
+                }
+            ],
             "pathId": 7128103491202752446,
             "blockIdx": 5
         },
@@ -75,6 +138,21 @@
             "jpText": "それで、お返ししたい人なんですけど……\r\n1人じゃなくて、たくさんいるんです！",
             "enText": "So, here's who I'd like to give back to: … \nThere's not just one, there's lots!",
             "nextBlock": 7,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5918219992856377182
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 848782937061424381
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -4393201174401424431
+                }
+            ],
             "pathId": 600547580926819711,
             "blockIdx": 6
         },
@@ -84,6 +162,17 @@
             "jpText": "みんな好みがバラバラだから、\r\n『これだ！』って思うものがなくて。",
             "enText": "We all have different tastes. So we didn't \nhave anything in mind.",
             "nextBlock": 8,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5893099514862641935
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 908449043254278
+                }
+            ],
             "pathId": 8379756418146006171,
             "blockIdx": 7
         },
@@ -93,6 +182,7 @@
             "jpText": "う～ん。実家によく集まるから、みんなで\r\n分けられるものがよさそうだけどなぁ。",
             "enText": "Hmmm. We often get together at my \nparents' house, so something we \ncan all share would be good.",
             "nextBlock": 9,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "慕われてるんだな",
@@ -105,6 +195,20 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -9174626271282938441
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 6907125158960113458
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 3207947117705325115
+                }
+            ],
             "pathId": -4020654039958243957,
             "blockIdx": 8
         },
@@ -114,6 +218,21 @@
             "jpText": "はい！　父さんを慕う人たちばっかりで、\r\nあたしも可愛がってもらってます！",
             "enText": "Yes! All the people who love \nmy dad love me too!",
             "nextBlock": 10,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 346919700168208144
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 3161095945677076119
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 3176070487124689507
+                }
+            ],
             "pathId": -234980758154255706,
             "blockIdx": 9
         },
@@ -123,6 +242,17 @@
             "jpText": "みんな応援してくれて、差し入れと一緒に\r\n『頑張れ！』って手紙もくれるんですよ。",
             "enText": "They are very supportive and give \nme a letter saying \"Good luck! and \nletters saying \"Good luck!",
             "nextBlock": 11,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 480647237787053408
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 4729143209100686360
+                }
+            ],
             "pathId": -6146039250638713414,
             "blockIdx": 10
         },
@@ -132,6 +262,17 @@
             "jpText": "その手紙がすごく嬉しくて……！\r\n読むとグワァーって胸が熱くなって……！",
             "enText": "The letter made me so happy…! When I read \nit, it made me \ngoooooooooooooooooooooooooooooood…!",
             "nextBlock": 12,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 6277761533334230076
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 8206202770143328281
+                }
+            ],
             "pathId": -1703730049840883271,
             "blockIdx": 11
         },
@@ -141,6 +282,7 @@
             "jpText": "たくさんの力をもらえたから、\r\n1番喜ばれるお返しがしたいんですっ！！",
             "enText": "You've given me so much strength, and I want \nto give back in the best way possible!",
             "nextBlock": 13,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "答えはもう出てるんじゃないか？",
@@ -153,6 +295,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -7990354868513527690
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 5890356109334637837
+                }
+            ],
             "pathId": 5331016468367917960,
             "blockIdx": 12
         },
@@ -162,6 +314,21 @@
             "jpText": "えっと、みんなが嬉しいのは……あっ。",
             "enText": "Well, I'm sure you'll be happy to hear that…",
             "nextBlock": 14,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -4483669154865358494
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4225391628082439146
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8163337556374252997
+                }
+            ],
             "pathId": -2777775073072534635,
             "blockIdx": 13
         },
@@ -171,6 +338,21 @@
             "jpText": "わかったー！　色んなレースでいっぱい勝つ！\r\nこれが1番喜んでくれるお返しですよね！",
             "enText": "All right! I'll win lots of different \nraces! That's the one thing you'll \nbe most happy to give back!",
             "nextBlock": 15,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -1662476642202989871
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -7106552242470555776
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -7858147053856735602
+                }
+            ],
             "pathId": -1135182977514677195,
             "blockIdx": 14
         },
@@ -180,6 +362,7 @@
             "jpText": "決めました！　お返しじゃなくて、\r\nレースで勝つための買い物をしますっ！！",
             "enText": "I've made up my mind! I'm not shopping for a \npayback, I'm shopping for a race win!",
             "nextBlock": 16,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "質のよいシューズがいいかも",
@@ -192,6 +375,16 @@
                     "nextBlock": 18
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -6944628289925606904
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -3632968396285643353
+                }
+            ],
             "pathId": -8907264750409516985,
             "blockIdx": 15
         },
@@ -201,6 +394,17 @@
             "jpText": "おお！\r\nやっぱり、いい道具は大事ですよね！",
             "enText": "Oh! I knew good tools were important!",
             "nextBlock": 17,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 7343392430696316847
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -9170685919855206439
+                }
+            ],
             "pathId": 2337282329964929297,
             "blockIdx": 16
         },
@@ -210,6 +414,17 @@
             "jpText": "よーし！　これを履いて、\r\nガンガン練習するぞーっっ！！",
             "enText": "All right! I'm going to put these \non and practice hard!",
             "nextBlock": -1,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1592060763660625387
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 4748894247202651630
+                }
+            ],
             "pathId": 7444082510708177829,
             "blockIdx": 17
         },
@@ -219,6 +434,21 @@
             "jpText": "ふむふむ……！\r\n勝つためには勉強も大切ですよね！",
             "enText": "Hmmm…! It's all about learning \nto win isn't it!",
             "nextBlock": 19,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 3086647577488787059
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8377172805602885262
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5719573875662599659
+                }
+            ],
             "pathId": -1507244824742582165,
             "blockIdx": 18
         },
@@ -228,8 +458,20 @@
             "jpText": "わかりました！　本を買って、\r\nいーっぱい読み込みますっっ！！",
             "enText": "All right! I'll buy the book and read a lot!",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 8717759696022157246
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 37987047780435746
+                }
+            ],
             "pathId": -5776703169523550206,
             "blockIdx": 19
         }
-    ]
+    ],
+    "modified": 1669945973
 }

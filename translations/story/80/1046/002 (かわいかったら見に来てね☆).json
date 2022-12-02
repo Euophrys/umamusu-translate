@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "3G6TF26DJEFNZ7WM6XP3CFQC7YVT36MR",
     "type": "story",
     "storyId": "801046002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、カフェテリアで\r\n昼食をとっていると――",
             "enText": "One day, I was having lunch \nin the cafeteria.",
             "nextBlock": 2,
+            "origClipLength": 75,
             "pathId": 2213985826876026819,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "ランチ中にハロ～☆",
             "enText": "Hallo during lunch!",
             "nextBlock": 3,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -2083641762453441574
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8478516395153502429
+                }
+            ],
             "pathId": 3121875462437273746,
             "blockIdx": 2
         },
@@ -29,11 +41,22 @@
             "jpText": "ライブのフライヤーと\r\nブロマイドのプレゼントですっ♪　",
             "enText": "We're giving away flyers and bromides.",
             "nextBlock": 4,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "何事？",
                     "enText": "What is it?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 1567814189517327462
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3560636358571236698
                 }
             ],
             "pathId": 3355073400670984273,
@@ -45,6 +68,17 @@
             "jpText": "えへ、今夜路上ライブをするので、\r\n広報活動中なのです！",
             "enText": "Well, I'm doing a street gig tonight, \nso I'm doing some PR!",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -4122517823220254346
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 155832002740008979
+                }
+            ],
             "pathId": 4829014160696452449,
             "blockIdx": 4
         },
@@ -54,6 +88,17 @@
             "jpText": "ちょっとずつでも、\r\nみんなに知ってほしいな～って思って！",
             "enText": "I just want people to know, little by \nlittle, that I'm here!",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 3421995231832350918
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3307463605787491488
+                }
+            ],
             "pathId": -5196156172546056338,
             "blockIdx": 5
         },
@@ -63,6 +108,17 @@
             "jpText": "ブロマイドにも仕掛けがあってね？\r\nなーんと裏のコードを読み取ると……。",
             "enText": "There's a trick on the bromide too, \nisn't there? Just read the code on \nthe back and you'll find…",
             "nextBlock": 7,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -7650473634495001272
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6756768345988629943
+                }
+            ],
             "pathId": 8625082961935060929,
             "blockIdx": 6
         },
@@ -72,6 +128,17 @@
             "jpText": "ファル子のめざましボイスが\r\nゲットできちゃうのです！　いえーいっ☆",
             "enText": "You can get Falco's alarm voice! Yes!",
             "nextBlock": 8,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 2240342261277458967
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -8853631111340011139
+                }
+            ],
             "pathId": -2230598503259103212,
             "blockIdx": 7
         },
@@ -81,6 +148,7 @@
             "jpText": "ほらほら、ダウンロードしてみて？\r\n天使のおはよう聞いてみてっ？",
             "enText": "Hey, hey, hey, hey! Listen \nto Good morning angels?",
             "nextBlock": 9,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "逃げる",
@@ -93,6 +161,16 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 2685508124790002440
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 8060817880094947073
+                }
+            ],
             "pathId": -1869056378679501617,
             "blockIdx": 8
         },
@@ -102,6 +180,17 @@
             "jpText": "ちょちょちょ、ちょっと待って～！\r\nなんで逃げちゃうの～！？",
             "enText": "Wait, wait, wait, wait! Why \nare you running away?",
             "nextBlock": 10,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -3399265277112119332
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -9139341037462410128
+                }
+            ],
             "pathId": -8247363496343293421,
             "blockIdx": 9
         },
@@ -111,6 +200,17 @@
             "jpText": "あっ、もしかして、ファル子がかわいいから、\r\nちょっといじわるした！？",
             "enText": "Oh, maybe Falko is cute and I'm \nbeing a bit mean to her?",
             "nextBlock": 11,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 8704513398601972326
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 1876329734123543405
+                }
+            ],
             "pathId": 4045588867821563878,
             "blockIdx": 10
         },
@@ -120,6 +220,17 @@
             "jpText": "えへ、しょうがないなぁ～！　だったら\r\nファル子もやり返しちゃお！　取っぴ！",
             "enText": "Well, I can't help it! Then let's do it \nagain, Falko! Take it!",
             "nextBlock": 12,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 976850291907212703
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 6192488765850545000
+                }
+            ],
             "pathId": 3645507974399456327,
             "blockIdx": 11
         },
@@ -129,6 +240,17 @@
             "jpText": "ふっふっふ～っ！\r\n遠慮なくダウンロードしちゃうぞ、なーんて☆",
             "enText": "Mmmmmm! I'll download it without hesitation…",
             "nextBlock": 13,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 265659986309439313
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 5761783265344479813
+                }
+            ],
             "pathId": -9136672647764299504,
             "blockIdx": 12
         },
@@ -138,6 +260,17 @@
             "jpText": "スマートファルコンの手によって、\r\n目覚ましボイスが設定されてしまった。",
             "enText": "The Smart Falcon has set your alarm voice.",
             "nextBlock": 14,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 507822850498560457
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -8557440016471869890
+                }
+            ],
             "pathId": -5194439992584295258,
             "blockIdx": 13
         },
@@ -147,6 +280,17 @@
             "jpText": "えへへ、ボイス、かわいかったら、\r\n今夜の路上ライブも遊びに来てね～！",
             "enText": "Ehehe, Voice, if you're cute, come and see \nus on the road tonight!",
             "nextBlock": 15,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -6528665556651666765
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4500060376799719195
+                }
+            ],
             "pathId": -8266836109055158206,
             "blockIdx": 14
         },
@@ -156,6 +300,17 @@
             "jpText": "その後も、カフェテリアの生徒たちへ、\r\n熱心に広報活動をして回っていた。",
             "enText": "Afterwards, she enthusiastically promoted the \nevent to the students in the cafeteria.",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 5680323506277179877
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 9202218663990622200
+                }
+            ],
             "pathId": -3518499951892733259,
             "blockIdx": 15
         },
@@ -165,6 +320,17 @@
             "jpText": "えへへっ、ありがとー！\r\nダウンロードしてくれたあなたに～……。",
             "enText": "Ehehe, thanks! For you for downloading it -…",
             "nextBlock": 17,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 9087689646342443779
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 789682288302546999
+                }
+            ],
             "pathId": -498374077504399512,
             "blockIdx": 16
         },
@@ -174,6 +340,17 @@
             "jpText": "ラブラブきゅん☆　きゅん☆\r\nらぶ・きゅんきゅん☆",
             "enText": "Love-Kyun☆Kyun☆ Love-KyunKyun☆!",
             "nextBlock": 18,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 5279384691677332657
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 8817077069248678549
+                }
+            ],
             "pathId": -111943113800527626,
             "blockIdx": 17
         },
@@ -183,6 +360,17 @@
             "jpText": "えへへ、かわいかった？\r\nよかったら、路上ライブも見に来てね～！",
             "enText": "Was it cute? You can come and see \nus live on the road if you like!",
             "nextBlock": 19,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 5237971922860832709
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -8779461847559994458
+                }
+            ],
             "pathId": -512767797693209979,
             "blockIdx": 18
         },
@@ -192,8 +380,20 @@
             "jpText": "その後も、カフェテリアの生徒たちへ\r\n『らぶ・きゅんきゅん☆』を振りまき、\n熱心に広報活動をして回っていた。",
             "enText": "Afterwards, she went around the cafeteria to \npromote the school, spreading the \"Love \nKunchun Kunchun☆\" to the students.",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -6043207703076449913
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 531855488592157991
+                }
+            ],
             "pathId": -6361919209369101977,
             "blockIdx": 19
         }
-    ]
+    ],
+    "modified": 1669945963
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "3OGHRZOKNS5EBT6ELTLQLZLV4R44SGRY",
     "type": "story",
     "storyId": "501032208",
@@ -11,6 +11,7 @@
             "jpText": "アグネスタキオン、楽しみだな～！",
             "enText": "Agnes Tachyon, I'm so excited for you!",
             "nextBlock": 2,
+            "origClipLength": 55,
             "pathId": 5381206767861149875,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "少し斜に構えた雰囲気なんだけど、でも\r\nそれだけじゃないっていうか……。",
             "enText": "It's a bit oblique, but\nthat's not all…",
             "nextBlock": 3,
+            "origClipLength": 68,
             "pathId": -2260791975686763908,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "うんうん。そうなんだよねぇ。\r\n私は彼女の走る姿がすごく好きで――",
             "enText": "Yeah, yeah. That's right, isn't it? I\nreally like the way she runs.",
             "nextBlock": 4,
+            "origClipLength": 66,
             "pathId": 3033493484097768546,
             "blockIdx": 3
         },
@@ -38,6 +41,7 @@
             "jpText": "会場には、アグネスタキオンのファンが\r\n詰めかけていた！",
             "enText": "The place was packed with\nAgnes Tachyon fans!",
             "nextBlock": 5,
+            "origClipLength": 63,
             "pathId": 6433166111391885390,
             "blockIdx": 4
         },
@@ -47,6 +51,17 @@
             "jpText": "さすがは中距離王者決定戦と謳われている、\r\n『天皇賞（秋）』……。",
             "enText": "As expected, \"Tennou-sho (Autumn)\" is\ntouted as the battle to determine the\nmiddle-distance champion…",
             "nextBlock": 6,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -2522008605648395473
+                },
+                {
+                    "origLen": 144,
+                    "pathId": 93292857976167878
+                }
+            ],
             "pathId": 8253217281929841837,
             "blockIdx": 5
         },
@@ -56,11 +71,22 @@
             "jpText": "観客席はそわそわと落ち着きなく、\r\n対してレース場はピリついている。",
             "enText": "The spectators' seats were restless, while\nthe racetrack was tense.",
             "nextBlock": 7,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "さすがに緊張する？",
                     "enText": "Nervous, as expected?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 8228577162531979729
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -4284961400732746008
                 }
             ],
             "pathId": 436433695390718278,
@@ -72,6 +98,17 @@
             "jpText": "まさか！\r\n過度な緊張は集中力低下につながる。",
             "enText": "No way! Excessive tension leads\nto poor concentration.",
             "nextBlock": 8,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -4348348758750080992
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5424427074571819414
+                }
+            ],
             "pathId": -1627133300247081103,
             "blockIdx": 7
         },
@@ -81,6 +118,17 @@
             "jpText": "あくまでリラックス。\r\nしかし、このチャンスは活かしたい。",
             "enText": "Just relax. But I want to make\nthe most of this opportunity.",
             "nextBlock": 9,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -8634601868216174479
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2727299783024146743
+                }
+            ],
             "pathId": 5665326220333628272,
             "blockIdx": 8
         },
@@ -90,6 +138,17 @@
             "jpText": "今日は、随分いいところまで\r\n行けそうだしね。",
             "enText": "I think I'm going to be in a\nmuch better place today.",
             "nextBlock": 10,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 7039990753129507952
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 9003205777279097618
+                }
+            ],
             "pathId": -14188426888139432,
             "blockIdx": 9
         },
@@ -99,8 +158,20 @@
             "jpText": "ようやく上り詰めたんだ。\r\n今日は勝負させてもらうよ……！",
             "enText": "I've finally made it up there. I'll let\nyou win today…!",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7672906411589091015
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4251743932864567652
+                }
+            ],
             "pathId": -6384148555578676644,
             "blockIdx": 10
         }
-    ]
+    ],
+    "modified": 1669945576
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "I67TJ3NURDNQRDJEHD6AKKJJW4SXIPWM",
     "type": "story",
     "storyId": "400000043",
@@ -11,6 +11,13 @@
             "jpText": "<chrname>は\r\n軽いケガを負ってしまったようだ……。",
             "enText": "<chrname> seems to have suffered\na minor injury…",
             "nextBlock": 2,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -2552485857033208125
+                }
+            ],
             "pathId": 5615198188836527019,
             "blockIdx": 1
         },
@@ -20,6 +27,7 @@
             "jpText": "とはいえ今は貴重な夏合宿期間中。\r\nさて、どうすべきか――",
             "enText": "However, we are in the middle of the\nprecious Summer Camp. Now, what should I do—",
             "nextBlock": 3,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "きっちり休ませる",
@@ -32,6 +40,12 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -3866299826637289047
+                }
+            ],
             "pathId": 3346093989151595645,
             "blockIdx": 2
         },
@@ -41,6 +55,13 @@
             "jpText": "しっかりと治療に専念させることにした。",
             "enText": "I decided to make sure that she\nwould focus on her treatment.",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2062465144973359621
+                }
+            ],
             "pathId": 8244332246430877102,
             "blockIdx": 3
         },
@@ -50,6 +71,13 @@
             "jpText": "<chrname>は体が動かせず\r\n少し気分が落ち込んでしまったようだ……。",
             "enText": "<chrname> couldn't move her body\nand felt a little down…",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 1577300517901545393
+                }
+            ],
             "pathId": -6575208551182721226,
             "blockIdx": 4
         },
@@ -59,6 +87,14 @@
             "jpText": "ここは<chrname>を熱く励まし、\r\n頑張らせてみることにした――",
             "enText": "I decided to give <chrname> some\nencouragement and tried to continue on—",
             "nextBlock": 6,
+            "origClipLength": 90,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 177,
+                    "pathId": -960865306618137293
+                }
+            ],
             "pathId": -8416187428905137649,
             "blockIdx": 5
         },
@@ -68,6 +104,14 @@
             "jpText": "しかし、失敗してしまった！\r\nケガが余計に悪化したようだ……。",
             "enText": "But it failed! The injury seems\nto have gotten worse…",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": -7766431905310847674
+                }
+            ],
             "pathId": -1540945846208515506,
             "blockIdx": 6
         },
@@ -77,8 +121,17 @@
             "jpText": "すると、奇跡的にケガも完治し、\r\n練習もうまくいった！！",
             "enText": "Then, miraculously, her injury healed\ncompletely, and practice went well!",
             "nextBlock": -1,
+            "origClipLength": 81,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 1286875499523071565
+                }
+            ],
             "pathId": -7057270834208425435,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669944803
 }

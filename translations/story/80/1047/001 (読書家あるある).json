@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "FISJAC7CFRWPORRGLSD2WSN53WB6R4D6",
     "type": "story",
     "storyId": "801047001",
@@ -11,6 +11,17 @@
             "jpText": "息抜きに映画を観たあと……。",
             "enText": "After watching a film to catch \nyour breath, visit…",
             "nextBlock": 2,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -2897183222939491949
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -842603852739973294
+                }
+            ],
             "pathId": 8720753865587686660,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "こ、こんにちは、\r\n学園のトレーナーさんですよね。\nあなたもこの映画を……？",
             "enText": "Hi, you're the trainer of the school. Have \nyou also seen this film on…?",
             "nextBlock": 3,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "そうだよ",
                     "enText": "Yes.",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 2905591200344941697
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 8858488861149550249
                 }
             ],
             "pathId": -3396017862868505071,
@@ -36,6 +58,17 @@
             "jpText": "ほ、本当ですか……！　よろしければ、\r\n感想とか聞いてもかまいませんか？",
             "enText": "Oh, really?…! If you don't mind, I'd love to \nhear your thoughts on it.",
             "nextBlock": 4,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -8587961664943414006
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -4311174419791378122
+                }
+            ],
             "pathId": 7411821830611828997,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "いきなりすみません。実はこの映画、\r\n私の好きな小説が原作なんです……。",
             "enText": "Sorry to bother you. This movie is \nbased on a novel that I like…",
             "nextBlock": 5,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -7731852330161117767
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -8226996223946782112
+                }
+            ],
             "pathId": 6106120381568402476,
             "blockIdx": 4
         },
@@ -54,6 +98,7 @@
             "jpText": "原作ファンとしては、\r\n映像化したのが嬉しくて、つい……！",
             "enText": "As a fan of the original, I was so \nhappy to see it made into a film \nthat I just had to go to…!",
             "nextBlock": 6,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "ラストのカーチェイスが凄かった",
@@ -66,6 +111,16 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 4118308103113449884
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 595565433769550086
+                }
+            ],
             "pathId": -1703894030107671836,
             "blockIdx": 5
         },
@@ -75,6 +130,21 @@
             "jpText": "そうですね、あそこのシーンは\r\n私も手に汗握りました……！",
             "enText": "Yes, that scene made my hands sweat, too…!",
             "nextBlock": 7,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -8847409755801239846
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -7760104750129672542
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 5613972963468077392
+                }
+            ],
             "pathId": 7366203618444671878,
             "blockIdx": 6
         },
@@ -84,11 +154,22 @@
             "jpText": "やはり映画には、スピードや迫力も\r\n重要ということなんでしょうか……。",
             "enText": "I guess speed and intensity are \nalso important in film…",
             "nextBlock": 8,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "盛り上がるよね",
                     "enText": "It's a lot of fun.",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 623145315403279231
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 4398518227068284776
                 }
             ],
             "pathId": -3724380971964679786,
@@ -100,6 +181,21 @@
             "jpText": "な、なるほど、参考になります……！",
             "enText": "Oh, I see, that's helpful…!",
             "nextBlock": 9,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 4095141643804152616
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -4412960507563372037
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -720391070670752215
+                }
+            ],
             "pathId": -8673626208895864661,
             "blockIdx": 8
         },
@@ -109,6 +205,17 @@
             "jpText": "ちなみに原作だとあそこのシーンは、\r\n主人公とヒロインが徒歩で逃走しながら\nお互いの想いを伝え合うのですが……。",
             "enText": "By the way, in the original story, the \nscene where the hero and the heroine \ntell each other their feelings while \nrunning away on foot is…",
             "nextBlock": 10,
+            "origClipLength": 118,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -7853276462616309560
+                },
+                {
+                    "origLen": 145,
+                    "pathId": 4512324393816755374
+                }
+            ],
             "pathId": 3913771049803363390,
             "blockIdx": 9
         },
@@ -118,6 +225,21 @@
             "jpText": "カーチェイスに変更したことで、\r\nたしかに臨場感が増したと思います。\nドライビングテクニックも凄かったですし！",
             "enText": "I think the change to a car chase really \nadds to the realism. And the driving \ntechnique was amazing!",
             "nextBlock": 11,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -501434045588692490
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 9187877183115534274
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -2332538104701007215
+                }
+            ],
             "pathId": 1688706614689808198,
             "blockIdx": 10
         },
@@ -127,6 +249,17 @@
             "jpText": "ただ、2人の感情の機微をもう少し大切に\r\nすべきだったかなと。途中で車から降りて\n徒歩に変えてもよかったですね。それと――",
             "enText": "The only thing that could have been done \nwould have been to give a little more \nimportance to the emotional relationship \nbetween the two. It would have been better \nto get out of the car and walk. Also…",
             "nextBlock": 12,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 6965667374065722476
+                },
+                {
+                    "origLen": 145,
+                    "pathId": 6786187604413344273
+                }
+            ],
             "pathId": 4553702392016203095,
             "blockIdx": 11
         },
@@ -136,6 +269,17 @@
             "jpText": "って、す、すみません長々と……っ。\r\n1人で白熱してしまいました……！",
             "enText": "I'm sorry, that's a long story… \nI was alone and heated…!",
             "nextBlock": 13,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -218962173509163903
+                },
+                {
+                    "origLen": 145,
+                    "pathId": 7766408533315951894
+                }
+            ],
             "pathId": -8300906105378888102,
             "blockIdx": 12
         },
@@ -145,6 +289,17 @@
             "jpText": "ゼンノロブロイの語る映画の感想も\r\nなかなかのスピード感と熱意に\n溢れているのだった。",
             "enText": "Zenno Rob Roy's impressions of the film were \nalso very fast and enthusiastic.",
             "nextBlock": -1,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 8670721795491747749
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -266910757148025421
+                }
+            ],
             "pathId": 569729895514012716,
             "blockIdx": 13
         },
@@ -154,6 +309,21 @@
             "jpText": "わかります……！　原作の世界観や雰囲気を\r\nそのまま再現したかのような映像美でしたね。",
             "enText": "I know what you mean…! It's a beautiful film \nthat seems to have recreated the world and \natmosphere of the original.",
             "nextBlock": 15,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 1823101134234642337
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -1656248640279154674
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -7704731680192201055
+                }
+            ],
             "pathId": 6861556463999967437,
             "blockIdx": 14
         },
@@ -163,6 +333,17 @@
             "jpText": "あと、映像に合わせた音楽も素敵で、\r\n気分もリフレッシュできました。",
             "enText": "The music to the video was also \nvery nice and refreshing.",
             "nextBlock": 16,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -1598792720851722123
+                },
+                {
+                    "origLen": 145,
+                    "pathId": 5749351625134080442
+                }
+            ],
             "pathId": 4822375545269145617,
             "blockIdx": 15
         },
@@ -172,6 +353,17 @@
             "jpText": "おかげで、明日から練習も頑張れそうです。",
             "enText": "Thanks to this, I will be able \nto practice hard tomorrow.",
             "nextBlock": 17,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -6549989632045680519
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -262542472484262078
+                }
+            ],
             "pathId": 7121534355015241108,
             "blockIdx": 16
         },
@@ -181,6 +373,21 @@
             "jpText": "練習を頑張れば力がついて、\r\nレースでもいい結果を残せるはず……！",
             "enText": "If you train hard, you will get stronger and \ndo better in the races…!",
             "nextBlock": 18,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -1822438716426944235
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -809352150805147938
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -5292139540691942796
+                }
+            ],
             "pathId": 1908971365088773507,
             "blockIdx": 17
         },
@@ -190,6 +397,17 @@
             "jpText": "レースで勝ち続ければ\r\n私のドラマが物語になって……。",
             "enText": "If I keep winning races, my drama \nwill become a story and…",
             "nextBlock": 19,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 5952001808301055602
+                },
+                {
+                    "origLen": 145,
+                    "pathId": 1056835309650503333
+                }
+            ],
             "pathId": -2417096397826044360,
             "blockIdx": 18
         },
@@ -199,11 +417,22 @@
             "jpText": "そうしたら、私の本とか書かれたりして、\r\nゆくゆくは映画化だって――",
             "enText": "Then they'll write a book about me, and \neventually they'll make a film about me.",
             "nextBlock": 20,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "映画化したら観に行くよ",
                     "enText": "If they make a movie, I'll go see it.",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -5150523948398369542
+                },
+                {
+                    "origLen": 145,
+                    "pathId": 7404944203892318270
                 }
             ],
             "pathId": 7236706837473910360,
@@ -215,6 +444,17 @@
             "jpText": "っ！　も、もしかして……私、今……。",
             "enText": "I'm sorry, I'm not sure. Could \nit be that … I am now…",
             "nextBlock": 21,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 5519911061453494865
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -8064583876245868825
+                }
+            ],
             "pathId": -1400464977200126206,
             "blockIdx": 20
         },
@@ -224,8 +464,20 @@
             "jpText": "はぅっ！\r\nわ、忘れてくださーーいっ！",
             "enText": "Aah! Forget it!",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -1230880164301566073
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -4694050581746019321
+                }
+            ],
             "pathId": -460866586992309525,
             "blockIdx": 21
         }
-    ]
+    ],
+    "modified": 1669945963
 }

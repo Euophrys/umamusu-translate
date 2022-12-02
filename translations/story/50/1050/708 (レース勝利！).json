@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "6QICG2DO3UFNROL7POZFGNUNJ2ID3HJ4",
     "type": "story",
     "storyId": "501050708",
@@ -11,6 +11,7 @@
             "jpText": "……っし！\r\nこの結果なら……！",
             "enText": "… you! With these results, \nI'd go to…!",
             "nextBlock": 2,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "みんな、すごいって思うな！！",
@@ -26,6 +27,17 @@
                     "jpText": "（黙ってタイシンを見守る）",
                     "enText": "(silently watches over Taishin)",
                     "nextBlock": 9
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -8965412608150949638
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 6243909988333623343
                 }
             ],
             "pathId": -4193233209052223193,
@@ -37,6 +49,7 @@
             "jpText": "……っし！\r\nこの結果なら……！",
             "enText": "… you! With these results, \nI'd go to…!",
             "nextBlock": 3,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "みんな、すごいって思うな！！",
@@ -54,6 +67,17 @@
                     "nextBlock": 9
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 8479876774080946511
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -1679137013399369560
+                }
+            ],
             "pathId": 2432727212922219428,
             "blockIdx": 2
         },
@@ -63,6 +87,17 @@
             "jpText": "このまま勝ち続け、周囲をアッと言わせよう。\r\nナリタタイシンなら出来ると力説したが――",
             "enText": "Let's keep on winning and make everyone \naround us gasp in surprise. I've been \ntrying to convince people that Narita \nTaishin can do it.",
             "nextBlock": 4,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 236070512691623854
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -4912101913201824950
+                }
+            ],
             "pathId": -627701566265397017,
             "blockIdx": 3
         },
@@ -72,11 +107,22 @@
             "jpText": "………………一気に白けた。",
             "enText": "… at once whitewashed.",
             "nextBlock": 5,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "えっ！？",
                     "enText": "What?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -6245411133552934368
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 3125236274228807139
                 }
             ],
             "pathId": -7841211197949712426,
@@ -88,11 +134,22 @@
             "jpText": "アンタの浮かれっぷり見てたら、\r\n恥ずかしくなってきたし。",
             "enText": "I'm getting embarrassed when \nI see you being so excited.",
             "nextBlock": 6,
+            "origClipLength": 82,
             "choices": [
                 {
                     "jpText": "勝ったんだから思いっきり喜ばないと！",
                     "enText": "We won, so we should be overjoyed!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 4040381015276002555
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 2462060664042986940
                 }
             ],
             "pathId": 8596088581294684489,
@@ -104,6 +161,17 @@
             "jpText": "はぁ……。\r\nそれならアンタ1人でやってて。",
             "enText": "Huh… Then you're on your own.",
             "nextBlock": 7,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -96747275494115741
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -6198776912156166973
+                }
+            ],
             "pathId": -8933214913853615778,
             "blockIdx": 6
         },
@@ -113,6 +181,17 @@
             "jpText": "……じゃ、着替えて帰る。",
             "enText": "I'm going to go to… then \nI'll get dressed and go home.",
             "nextBlock": 8,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 78216815593909398
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8588254805134910760
+                }
+            ],
             "pathId": -2878731126655044884,
             "blockIdx": 7
         },
@@ -122,6 +201,7 @@
             "jpText": "そっけない言葉で去って行ってしまった\r\nナリタタイシンだが、\nその後ろ姿はどこか嬉しそうにも見えた。",
             "enText": "Narita Taishin left with a few words, but her \nback seemed to be happy to see us.",
             "nextBlock": -1,
+            "origClipLength": 110,
             "pathId": 2235217252540571493,
             "blockIdx": 8
         },
@@ -131,6 +211,7 @@
             "jpText": "アタシは弱くなんかない……\r\nあの中の誰よりも速かった……！",
             "enText": "I'm not weak… I was faster \nthan any of them…!",
             "nextBlock": 10,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "（よかったな、タイシン）",
@@ -143,6 +224,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -8621975661845263838
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 1874328187671439514
+                }
+            ],
             "pathId": 9014878206273567351,
             "blockIdx": 9
         },
@@ -152,6 +243,17 @@
             "jpText": "………………。",
             "enText": "…",
             "nextBlock": 11,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -912969603961311473
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 2347952398227842489
+                }
+            ],
             "pathId": 2341700868222280522,
             "blockIdx": 10
         },
@@ -161,11 +263,22 @@
             "jpText": "さっきから何、そのニヤけ面。\r\nやめてくんない？",
             "enText": "What's with that smirk on your \nface? Will you stop it?",
             "nextBlock": 12,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "嬉しくて思わず……",
                     "enText": "I was so happy I couldn't \nhelp but think of…",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 8729280221426223247
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 7459639033267848119
                 }
             ],
             "pathId": 4858407872584322733,
@@ -177,6 +290,17 @@
             "jpText": "あ、そ。\r\nアンタが喜ぼうがどうでもいいし。",
             "enText": "Oh, yeah. I don't care if \nyou're happy or not.",
             "nextBlock": 13,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 3589923084097282890
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 7955160614404396313
+                }
+            ],
             "pathId": -4469758619723482379,
             "blockIdx": 12
         },
@@ -186,6 +310,17 @@
             "jpText": "……アタシはアタシのために\r\n勝つだけだから。",
             "enText": "… ata-i only win for ata-i.",
             "nextBlock": 14,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -9219220522618363689
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 4950417966291025361
+                }
+            ],
             "pathId": -5745279526583337153,
             "blockIdx": 13
         },
@@ -195,8 +330,20 @@
             "jpText": "そう告げたナリタタイシンから、\r\n勝利への強い意志を感じたのだった。",
             "enText": "Narita Taishin's strong will to \nwin was evident in her words.",
             "nextBlock": -1,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -1253882984210803688
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2180088349310980251
+                }
+            ],
             "pathId": 5665144609869912637,
             "blockIdx": 14
         }
-    ]
+    ],
+    "modified": 1669945819
 }

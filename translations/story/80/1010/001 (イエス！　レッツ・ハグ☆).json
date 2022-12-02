@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QLX27REIRKLPTNEVZIACXC7VUXWB5YPS",
     "type": "story",
     "storyId": "801010001",
@@ -11,6 +11,7 @@
             "jpText": "ある日、図書室で\r\nトレーニングの本を探していると……。",
             "enText": "One day I was looking for a training book in \nthe library and found…",
             "nextBlock": 2,
+            "origClipLength": 91,
             "pathId": 2851221826014658494,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "オゥ！　その本！\r\nワタシも気になってマシタ！",
             "enText": "Ooh! That book! I was wondering \nthe same thing!",
             "nextBlock": 3,
+            "origClipLength": 75,
             "pathId": -6533934174461736532,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "フフッ……ワタシ、いつも考えてますカラ。",
             "enText": "Hmmm… I'm always thinking about it.",
             "nextBlock": 4,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -7937264245195893022
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 2533593708599515402
+                }
+            ],
             "pathId": 363781715158143098,
             "blockIdx": 3
         },
@@ -38,6 +51,17 @@
             "jpText": "みんなを逃がさない走りには、\r\nなにが大切なのか……！",
             "enText": "What's the key to keeping \neveryone on the road?…!",
             "nextBlock": 5,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -202362244433042800
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -3175778548419287686
+                }
+            ],
             "pathId": 106239507935081632,
             "blockIdx": 4
         },
@@ -47,6 +71,7 @@
             "jpText": "どうデスカ！？\r\nユーはなにが大切だと思いますカ！？",
             "enText": "What do you think? What do \nyou think is important?",
             "nextBlock": 6,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "スピードかな",
@@ -59,6 +84,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -9092404934537297425
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2961844780292506662
+                }
+            ],
             "pathId": -603973866374654172,
             "blockIdx": 5
         },
@@ -68,6 +103,17 @@
             "jpText": "スピード……！　なるほど！\r\n速く走って、先回り！　アーンド――",
             "enText": "Speed…! I see! Run fast, stay ahead! Arndt—",
             "nextBlock": 7,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -4321170588174374016
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -357680753661251791
+                }
+            ],
             "pathId": 2839064572698193779,
             "blockIdx": 6
         },
@@ -77,11 +123,22 @@
             "jpText": "ハグ！　デスネ！",
             "enText": "Hug! Desne!",
             "nextBlock": 8,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "え、ハグ！？",
                     "enText": "What, a hug!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -8684137691292721793
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -3527233728315211777
                 }
             ],
             "pathId": -2760929385541715872,
@@ -93,6 +150,17 @@
             "jpText": "イエースッ！　さっそく試してみマス！",
             "enText": "Yessir! I'll try it right away!",
             "nextBlock": 9,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 5984753447745379674
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6926017168642050726
+                }
+            ],
             "pathId": 1677827337055604136,
             "blockIdx": 8
         },
@@ -102,6 +170,17 @@
             "jpText": "ヘイユー！\r\nスピードダッシュで逃がしませんヨ～ッ！",
             "enText": "Hey you! Speedy dash and \nwe won't let you go!",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 3727015303330001362
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 6871151294865253677
+                }
+            ],
             "pathId": 866509216750968219,
             "blockIdx": 9
         },
@@ -111,6 +190,17 @@
             "jpText": "なるほど！　パワーでみんなをホールド！\r\nアーンド――",
             "enText": "I see! Power holds everyone! Arnd—",
             "nextBlock": 11,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -2542283559509927225
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -1289787461700162755
+                }
+            ],
             "pathId": 2392166460258288780,
             "blockIdx": 10
         },
@@ -120,11 +210,22 @@
             "jpText": "ハグ！　デスネ！",
             "enText": "Hug! Desne!",
             "nextBlock": 12,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "え、ハグ！？",
                     "enText": "What, a hug!",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -2560407429619374286
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -5979900857296934719
                 }
             ],
             "pathId": -8599999664422325197,
@@ -136,6 +237,17 @@
             "jpText": "イエースッ！　さっそく試してみマス！",
             "enText": "Yessir! I'll try it right away!",
             "nextBlock": 13,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -1266658419999723210
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 8383236855944368589
+                }
+            ],
             "pathId": -8096624990582196058,
             "blockIdx": 12
         },
@@ -145,8 +257,20 @@
             "jpText": "ヘイユー！\r\nパワフルホールド、しちゃいますヨ～ッ！",
             "enText": "Hey you! I'm going to do a powerful hold!",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 3313777595699412458
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -463432183772244063
+                }
+            ],
             "pathId": 5911529578188355442,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669945948
 }

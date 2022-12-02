@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4D5JFKYJK3WM3TVHPWMXALTM33EHI5UN",
     "type": "story",
     "storyId": "801070003",
@@ -11,8 +11,20 @@
             "jpText": "トレーニング後、<chrname>と\r\nシリウスシンボリが話していた。",
             "enText": "After training, <chrname> and \nSirius Simboli were talking.",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": -8717114336167534935
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 254148229096890601
+                }
+            ],
             "pathId": 4988489262390356934,
             "blockIdx": 1
         }
-    ]
+    ],
+    "modified": 1669946377
 }

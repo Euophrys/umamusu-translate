@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "WOE3MFDNGVCACJGMK7MI2XAFFWTXXWWC",
     "type": "story",
     "storyId": "501061412",
@@ -11,6 +11,17 @@
             "jpText": "クラシック三冠路線を締めくくる『菊花賞』。\r\n観客たちの期待は、スペシャルウィークと\nセイウンスカイの2名に向けられていた。",
             "enText": "Kikka-sho, the final race of the Triple Crown \nClassic. The audience's expectations were \nfocused on Special Week and Seiun Sky.",
             "nextBlock": 2,
+            "origClipLength": 125,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -8372651931973865294
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 8914981629360731306
+                }
+            ],
             "pathId": -6109076767519894229,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "本当の主役は違うのに……。\r\nキングヘイローはそうこぼしながら、\nパドックへと向かうのだった。",
             "enText": "The real star of the show is not… \nKing Halo spilled the beans as she made \nher way to the paddock.",
             "nextBlock": -1,
+            "origClipLength": 106,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 351301665114705822
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 4527067782938426421
+                }
+            ],
             "pathId": 8883145824725376754,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945930
 }

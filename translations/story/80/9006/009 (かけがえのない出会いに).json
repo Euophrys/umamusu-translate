@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "GDROXQFEFD6NQ665QU2VNYC7NG6YLFOX",
     "type": "story",
     "storyId": "809006009",
@@ -11,6 +11,7 @@
             "jpText": "<chrname>との日々にも\r\nひと区切りついたある日のこと。",
             "enText": "One day, when the days with <chrname> \nhad come to an end.",
             "nextBlock": 2,
+            "origClipLength": 86,
             "pathId": -4484630675444315726,
             "blockIdx": 1
         },
@@ -20,11 +21,22 @@
             "jpText": "こんばんは、\r\n<username>トレーナー。\nこんな時間までお疲れ様です。",
             "enText": "Good evening, trainer <username>. \nThank you for your time.",
             "nextBlock": 3,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "お疲れ様です！",
                     "enText": "Good work!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 315,
+                    "pathId": 8965627600734314507
+                },
+                {
+                    "origLen": 209,
+                    "pathId": 6891138050545470259
                 }
             ],
             "pathId": 1434021080328116792,
@@ -36,6 +48,17 @@
             "jpText": "こほん。\r\n……<username>トレーナー。\n明日の予定は決まっていますか？",
             "enText": "Ahem. \n……Trainer <username>. \nDo you have any plans for tomorrow?",
             "nextBlock": 4,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7654441374238495501
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 6529596398034910464
+                }
+            ],
             "pathId": 3079477074760656217,
             "blockIdx": 3
         },
@@ -45,6 +68,21 @@
             "jpText": "なければ、少々お時間をいただきたい。\r\n話したいことがあります。",
             "enText": "If not, we would like to take a few moments \nof your time. I have something to tell you.",
             "nextBlock": 5,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -3477158166565938768
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -4596413340354519683
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6017932651222870812
+                }
+            ],
             "pathId": -5738712726918932370,
             "blockIdx": 4
         },
@@ -54,6 +92,21 @@
             "jpText": "――翌日、彼女に連れて行かれたのは、\r\n街を見渡すことのできる高台だった。",
             "enText": "—The next day, she took me to a hill \nwhere I could see the city.",
             "nextBlock": 6,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3889915514199863643
+                },
+                {
+                    "origLen": 152,
+                    "pathId": 8570987756508975268
+                },
+                {
+                    "origLen": 180,
+                    "pathId": -7027588471959388232
+                }
+            ],
             "pathId": -14025987691657807,
             "blockIdx": 5
         },
@@ -63,11 +116,26 @@
             "jpText": "……いい空ですね。\r\n日差しも暖かくて、気持ちがいい。",
             "enText": "It's a nice sky… The sun is \nwarm and it feels good.",
             "nextBlock": 7,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "あの、今日はどうしてここに？",
                     "enText": "Um, why are you here today?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 8231591577772260573
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 8446492404396172193
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -608573095812642903
                 }
             ],
             "pathId": -6584628190690314027,
@@ -79,6 +147,21 @@
             "jpText": "……胸の内を話すなら、\r\n壁のない広い場所がよいでしょう。",
             "enText": "… If you want to talk about your \nfeelings, it's best to do it in \na big place without walls.",
             "nextBlock": 8,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -722743375612850144
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1730304533701020544
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -4793700031673905401
+                }
+            ],
             "pathId": 3341680108897574203,
             "blockIdx": 7
         },
@@ -88,6 +171,21 @@
             "jpText": "……時々、考えるんです。もし私が、\r\n貴方に出会うことがなかったら。",
             "enText": "… Sometimes I wonder. What \nif I'd never met you?",
             "nextBlock": 9,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -5642631382751188110
+                },
+                {
+                    "origLen": 173,
+                    "pathId": 3871455861889275473
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -279730450304754830
+                }
+            ],
             "pathId": -702808572316918211,
             "blockIdx": 8
         },
@@ -97,6 +195,21 @@
             "jpText": "凝り固まった考えを、\r\n何も変えられていなかったら、と。",
             "enText": "I wish I hadn't changed any \nof my entrenched ideas.",
             "nextBlock": 10,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": 6057610446336440179
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -961935598110614712
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -3379811456123979867
+                }
+            ],
             "pathId": 8678717201159530934,
             "blockIdx": 9
         },
@@ -106,6 +219,21 @@
             "jpText": "未成熟な少女たちの自主性を見守る？\r\n聞こえよく言っているだけだろう。",
             "enText": "Watching over the independence of immature \ngirls? You're just making it sound good.",
             "nextBlock": 11,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4152386849799033276
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5067773834229626771
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7442118799558603324
+                }
+            ],
             "pathId": 8631614463174760270,
             "blockIdx": 10
         },
@@ -115,6 +243,7 @@
             "jpText": "それは放置と変わりがない。\r\n無責任な大人の言い訳だ。",
             "enText": "It is no different from neglect. It is an \nexcuse for irresponsible adults.",
             "nextBlock": 12,
+            "origClipLength": 80,
             "pathId": 7830656405821263324,
             "blockIdx": 11
         },
@@ -124,6 +253,7 @@
             "jpText": "生徒を徹底的に管理し、\r\n私が正しい道を作る。",
             "enText": "I manage my students and I make sure they \nare on the right track.",
             "nextBlock": 13,
+            "origClipLength": 75,
             "pathId": -8874782695328477980,
             "blockIdx": 12
         },
@@ -133,6 +263,7 @@
             "jpText": "みな、その上を歩けばいい。\r\nそうすれば、何も恐れずに済む。",
             "enText": "Everyone should walk on it. Then \nthere will be nothing to fear.",
             "nextBlock": 14,
+            "origClipLength": 84,
             "pathId": -5393729907924319738,
             "blockIdx": 13
         },
@@ -142,6 +273,7 @@
             "jpText": "――それが、それだけが、\r\nウマ娘たちを守る唯一の方法だ。",
             "enText": "—It's the only way to protect the Uma Girls.",
             "nextBlock": 15,
+            "origClipLength": 82,
             "pathId": 4266510012541848421,
             "blockIdx": 14
         },
@@ -151,6 +283,21 @@
             "jpText": "私は……過去の出来事から、\r\n一方的に道を押しつけていたんです。",
             "enText": "I was imposing a one-sided path \nbased on… past events.",
             "nextBlock": 16,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -3334960142131805275
+                },
+                {
+                    "origLen": 225,
+                    "pathId": -4017832882454509873
+                },
+                {
+                    "origLen": 147,
+                    "pathId": 471448332856433628
+                }
+            ],
             "pathId": -354564431283206056,
             "blockIdx": 15
         },
@@ -160,6 +307,21 @@
             "jpText": "……こちらを信じろと言いながら、\r\n彼女たちと、向き合ってすらいなかった。",
             "enText": "… We told them to trust us, but \nwe didn't even face them.",
             "nextBlock": 17,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -2553587550821314848
+                },
+                {
+                    "origLen": 225,
+                    "pathId": -4751976099940769687
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 3244853324126590195
+                }
+            ],
             "pathId": -7840923680568951199,
             "blockIdx": 16
         },
@@ -169,11 +331,22 @@
             "jpText": "教育者として……\r\nトレーナーとして、失格でした。",
             "enText": "As an educator… I was disqualified \nas a trainer.",
             "nextBlock": 18,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "そんなことは……",
                     "enText": "You can find out more about that…",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -36282647584759222
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 5220235848994716263
                 }
             ],
             "pathId": 3739015435802282521,
@@ -185,6 +358,17 @@
             "jpText": "いいえ。それを気づかせてくれたのは\r\n貴方と……かけがえのないウマ娘たちです。",
             "enText": "No, it's you and that made me realise that. \nIt was you and…'s irreplaceable horse girls \nwho made me realise that.",
             "nextBlock": 19,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": -6133210567198583907
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -3124842922113889408
+                }
+            ],
             "pathId": -6929550228769700041,
             "blockIdx": 18
         },
@@ -194,6 +378,17 @@
             "jpText": "……貴方は、昔の私に似ている。\r\n情熱的で真っ直ぐで、ウマ娘を信じている。",
             "enText": "… You are just like me, the old me. You are \npassionate, straightforward and believe in \nthe horse girl.",
             "nextBlock": 20,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -9220121547908388450
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 742835432942861162
+                }
+            ],
             "pathId": 473878190049109638,
             "blockIdx": 19
         },
@@ -203,11 +398,26 @@
             "jpText": "だからこそ……私は尚更、\r\n貴方を認められなかったんでしょう。",
             "enText": "That's why… I couldn't approve \nof you any more.",
             "nextBlock": 21,
+            "origClipLength": 85,
             "choices": [
                 {
                     "jpText": "今は認めてくれているんですか？",
                     "enText": "Do they approve of you now?",
                     "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 5433976732714823218
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -6478621478568739498
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 4420352836522951263
                 }
             ],
             "pathId": -8703345829583524109,
@@ -219,6 +429,21 @@
             "jpText": "……なんです、その期待に満ちた目は。",
             "enText": "… What is it, those expectant eyes?",
             "nextBlock": 22,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4475226089635574771
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1076435289381818045
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -3693298494899230519
+                }
+            ],
             "pathId": 273748455305983298,
             "blockIdx": 21
         },
@@ -228,6 +453,17 @@
             "jpText": "ふっ……冗談です。\r\n認めなくてはならないでしょう。",
             "enText": "Phew… just kidding. You have to \nadmit, it's a bit of a joke.",
             "nextBlock": 23,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 4831705851308916326
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4362226455437247326
+                }
+            ],
             "pathId": 329882839463988984,
             "blockIdx": 22
         },
@@ -237,6 +473,17 @@
             "jpText": "多くのことを思い出させてくれた。\r\n……教えてくれた貴方を。",
             "enText": "You have reminded me of so many \nthings. You, who taught me…",
             "nextBlock": 24,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -3367332886021311144
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -1965324970809101930
+                }
+            ],
             "pathId": 4815419298595010835,
             "blockIdx": 23
         },
@@ -246,11 +493,26 @@
             "jpText": "私は……よきライバルと出会えました。",
             "enText": "I have found… a good competitor.",
             "nextBlock": 25,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "こちらこそ……！",
                     "enText": "Same here…!",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -4725694232427336572
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 529816437099627837
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -3653058189539822274
                 }
             ],
             "pathId": 1092314046062285527,
@@ -262,6 +524,21 @@
             "jpText": "ふふ……。",
             "enText": "Phew…",
             "nextBlock": 26,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8970454854515525572
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5885196138616096550
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 8670917273278946907
+                }
+            ],
             "pathId": 1071505957660596211,
             "blockIdx": 25
         },
@@ -271,6 +548,17 @@
             "jpText": "樫本トレーナー、どこだろ。\r\nここに向かったって聞いたけど……。",
             "enText": "Trainer Kashimoto, where is she? I \nheard she was on her way here…",
             "nextBlock": 27,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1742086599849927906
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2144243480872168211
+                }
+            ],
             "pathId": 3091616225301011333,
             "blockIdx": 26
         },
@@ -280,6 +568,7 @@
             "jpText": "おっと、道を譲ってもらおうか、\r\nリトルココン！",
             "enText": "Whoa, give way, little kong!",
             "nextBlock": 28,
+            "origClipLength": 76,
             "pathId": 7165676930029314337,
             "blockIdx": 27
         },
@@ -289,6 +578,7 @@
             "jpText": "先に樫本トレーナーを見つけるのは、私だ！\r\nはっはっはっー！",
             "enText": "I'll be the first to find Trainer \nKashimoto! Hahahaha!",
             "nextBlock": 29,
+            "origClipLength": 84,
             "pathId": -5396438862113780076,
             "blockIdx": 28
         },
@@ -298,6 +588,7 @@
             "jpText": "はぁ？　まっ……アタシの方が先だしっ！",
             "enText": "Huh? … I was here first!",
             "nextBlock": 30,
+            "origClipLength": 69,
             "pathId": 1817864309380524580,
             "blockIdx": 29
         },
@@ -307,6 +598,7 @@
             "jpText": "（ダダダダダッ……！）",
             "enText": "(da da da da da…!)",
             "nextBlock": 31,
+            "origClipLength": 59,
             "pathId": -5144427550056074929,
             "blockIdx": 30
         },
@@ -316,6 +608,17 @@
             "jpText": "あの声は、リトルココンとビターグラッセ？\r\nまったく公共の場で大声を……。",
             "enText": "Are those voices Littorokon and \nBitterglasse? Loud voices in \na totally public place…",
             "nextBlock": 32,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": 7216355127039792909
+                },
+                {
+                    "origLen": 167,
+                    "pathId": 5939966281279636516
+                }
+            ],
             "pathId": 305773006242404600,
             "blockIdx": 31
         },
@@ -325,6 +628,17 @@
             "jpText": "仕方ありません、\r\n大人の語らいはここまでです。",
             "enText": "So much for adult conversation.",
             "nextBlock": 33,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1112833485265251977
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -2013770018355607680
+                }
+            ],
             "pathId": 7067026016504872979,
             "blockIdx": 32
         },
@@ -334,6 +648,17 @@
             "jpText": "……行きましょう、\r\n<username>トレーナー。",
             "enText": "Let's go to… trainer <username>.",
             "nextBlock": 34,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -4582617713273349305
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -1481598975753500370
+                }
+            ],
             "pathId": -5879806032255136400,
             "blockIdx": 33
         },
@@ -343,9 +668,24 @@
             "jpText": "可愛い教え子たちが、待っていますから。",
             "enText": "My lovely students are waiting for me.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -129476503236218801
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -729492079797745492
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 615601311740927920
+                }
+            ],
             "pathId": 1881755530487098932,
             "blockIdx": 34
         }
     ],
-    "modified": 1661711800
+    "modified": 1669946201
 }

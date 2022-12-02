@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "YRZ7XCQKXTREVBQK3TGOJEPSYOUKRINT",
     "type": "story",
     "storyId": "501025419",
@@ -11,6 +11,17 @@
             "jpText": "激闘の『弥生賞』が終わった。",
             "enText": "The fiercely fought \"Yayoi-sho\"\nhas come to an end.",
             "nextBlock": 2,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 2593579519207730306
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2192360391552147769
+                }
+            ],
             "pathId": -2305441648159143463,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "レースを走り終え、マンハッタンカフェは\r\nアグネスタキオンの前に『お友だち』を感じ、\n彼女を追いかけることを決めた。",
             "enText": "After running the race, Manhattan Cafe\nsensed a 'friend' in front of Agnes Tachyon\nand decided to go after her.",
             "nextBlock": 3,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -6780515741807557519
+                },
+                {
+                    "origLen": 141,
+                    "pathId": 7835425450007120379
+                }
+            ],
             "pathId": -5280420232310462142,
             "blockIdx": 2
         },
@@ -29,6 +51,25 @@
             "jpText": "アグネスタキオンと走るべく、\r\nマンハッタンカフェは\n『皐月賞』出走を希望している。",
             "enText": "Manhattan Cafe is hoping to run in the\nSatsuki-sho race against Agnes Tachyon.",
             "nextBlock": 4,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 2458003875723707826
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -6163380046927361095
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -6107766761800728561
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -6795981490196133060
+                }
+            ],
             "pathId": -4568005230124804456,
             "blockIdx": 3
         },
@@ -38,10 +79,21 @@
             "jpText": "しかしマンハッタンカフェの体調の悪さが\r\n心配だ。この体調で『皐月賞』や\n『日本ダービー』を目指すなら賭けになる。",
             "enText": "However, I am worried about Manhattan Cafe's\npoor physical condition. If she goes for\nSatsuki-sho or the Japan Derby in this\ncondition, it will be a gamble.",
             "nextBlock": 5,
+            "origClipLength": 119,
             "coloredText": [
                 {
                     "jpText": "日本ダービー",
                     "enText": "Japan Derby"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 133,
+                    "pathId": -5448102506472493090
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -3057653811810021452
                 }
             ],
             "pathId": 472494228418675903,
@@ -53,14 +105,26 @@
             "jpText": "春のレースは様子を見ながら判断しつつ、\r\n秋の『セントライト記念』を目標レースに\n定めた。",
             "enText": "We decided to wait and see how the spring\nrace went, but set the fall race, the\n\"Centright Kinen\" as our target race.",
             "nextBlock": -1,
+            "origClipLength": 103,
             "coloredText": [
                 {
                     "jpText": "セントライト記念",
                     "enText": "Centraight Memorial"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 133,
+                    "pathId": 3682812523745196036
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -6728604514239045300
+                }
+            ],
             "pathId": -1333259734330805386,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669946361
 }

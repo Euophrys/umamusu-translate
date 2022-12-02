@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BWZAFQEPEHYR73EM64MBKTD3L2VHOU5H",
     "type": "story",
     "storyId": "801040002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、中央広場で――",
             "enText": "One day, in the central square…",
             "nextBlock": 2,
+            "origClipLength": 93,
             "pathId": 7574528822296627647,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "あー、またマネジから連絡だ。\r\nえっと……この後で差し込みの撮影？",
             "enText": "Oh, I'm hearing from Managesi again. \nLet's see… are you going to shoot \nthe insert later?",
             "nextBlock": 3,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 9132723633883603968
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -8513761327258332081
+                }
+            ],
             "pathId": -5609259891540707004,
             "blockIdx": 2
         },
@@ -29,6 +41,7 @@
             "jpText": "げっ、トレーニングの時間と被ってんじゃん！\r\n最近こんなんばっかだな……。",
             "enText": "Geez, it's right on time for my training! \nThis is what I've been doing lately…",
             "nextBlock": 4,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "忙しそうだけど……大丈夫か？",
@@ -41,6 +54,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -1677858054560754626
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 7118954993755986116
+                }
+            ],
             "pathId": -7196791914926495078,
             "blockIdx": 3
         },
@@ -50,6 +73,17 @@
             "jpText": "あ、アンタは……。ご心配どーも。\r\nま、アタシの決めたことだしね。",
             "enText": "Oh, and you're… Thank you for your concern. \nWell, it's my decision.",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -5908203672142922140
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 2863976726267536873
+                }
+            ],
             "pathId": -3006878290300419234,
             "blockIdx": 4
         },
@@ -59,6 +93,7 @@
             "jpText": "つってもレースも近いし、\r\n結構バタバタするかもな……。",
             "enText": "But the race is coming up soon, \nso it might be a bit hectic…",
             "nextBlock": 6,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "まずは目の前のことに集中しよう",
@@ -71,6 +106,16 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 6898759883656166705
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -6591130097117883634
+                }
+            ],
             "pathId": -1253021363802827462,
             "blockIdx": 5
         },
@@ -80,6 +125,17 @@
             "jpText": "……ま、そうだよね。\r\nどっちつかずになったら、笑えないし。",
             "enText": "… Well, you're right. It's no laughing \nmatter if it goes both ways.",
             "nextBlock": 7,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4871832015213343461
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -1881942086024635005
+                }
+            ],
             "pathId": 7330727444581634055,
             "blockIdx": 6
         },
@@ -89,6 +145,17 @@
             "jpText": "目の前のことから1つずつ……。\r\nよし、気合い入った。アリガトね。",
             "enText": "Start with what's in front of you, one thing \nat a time… Okay, I'm fired up. Thank you.",
             "nextBlock": -1,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -4750710239287754926
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 2679920124305903418
+                }
+            ],
             "pathId": -8081214137975498757,
             "blockIdx": 7
         },
@@ -98,6 +165,17 @@
             "jpText": "え、マジ？　助かるわ。\r\n疲れた顔して撮影にも行けないし。",
             "enText": "Oh, really? That's great. I can't go \nshooting with a tired face.",
             "nextBlock": 9,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -5438075099353375223
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 257429136166726221
+                }
+            ],
             "pathId": -1417606216338560353,
             "blockIdx": 8
         },
@@ -107,8 +185,20 @@
             "jpText": "よし、なんか気合い入った。\r\nこれ飲んで撮影もレースも頑張るわ。",
             "enText": "Okay, I'm really fired up. I'm going \nto drink this and do my best for \nthe shoot and the race.",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 1908145724029340229
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -9217918579747642794
+                }
+            ],
             "pathId": -165399980672190016,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945960
 }

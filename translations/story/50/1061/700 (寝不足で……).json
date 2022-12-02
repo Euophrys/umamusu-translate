@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "JPI5JOHBPNHPM4AI3MHEUYD6OXIVECLZ",
     "type": "story",
     "storyId": "501061700",
@@ -11,6 +11,17 @@
             "jpText": "休み明けの朝、\r\nキングヘイローに呼び出された。",
             "enText": "On the morning of my first day off, \nI was summoned by King Halo.",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -6493541778477770958
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -297744748512301373
+                }
+            ],
             "pathId": 2331396770734245282,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "……おはよう、トレーナー。\r\nふわぁぁ……。",
             "enText": "Good morning, trainer… Fluffy…",
             "nextBlock": 3,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -7008104592364307156
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -1330488977812653599
+                }
+            ],
             "pathId": -3630045649907052243,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "ちょっと玄関にある、\r\n私のカバンをとってきてくれる？",
             "enText": "Would you mind grabbing my \nbag out of the foyer?",
             "nextBlock": 4,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8991183304753705539
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -707855250582323217
+                }
+            ],
             "pathId": 3718232437070213395,
             "blockIdx": 3
         },
@@ -38,6 +71,17 @@
             "jpText": "……ついでにそのカバンを、\r\n教室まで運ぶ権利もあげるわ。",
             "enText": "… I'll also give you the right \nto carry that bag to class.",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -7108481085402171194
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -2966614121055808919
+                }
+            ],
             "pathId": -1736646163326363404,
             "blockIdx": 4
         },
@@ -47,8 +91,20 @@
             "jpText": "なんだか眠くて、体が重いの……。\r\nこういう時こそ役に立ちなさいよね……。",
             "enText": "I'm kind of sleepy and I'm heavy. \n… It's times like this that \nyou should be useful…",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -8386249895746659429
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 135626858587211274
+                }
+            ],
             "pathId": 8302100314325377399,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945938
 }

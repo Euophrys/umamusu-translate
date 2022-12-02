@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DLEHM34F6KUVAUXIOYOJZANPGHBTH4IP",
     "type": "story",
     "storyId": "501032300",
@@ -11,6 +11,17 @@
             "jpText": "ウーン、\r\nなかなか濃密な夏合宿を過ごせたよ！",
             "enText": "Hmm, I had a pretty intense summer camp!",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -2127475087144125205
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 5792797253544653224
+                }
+            ],
             "pathId": 7060564073580251699,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "プランＡは整ったし……\r\nあとは『菊花賞』に備えるのみ。我ながら\n素晴らしいタイムマネジメント能力だな。",
             "enText": "Plan A is in place… All I have to\ndo is prepare for Kikka-sho. I have great\ntime management skills, don't I?",
             "nextBlock": 3,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 6366591467499240627
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8440074591388643798
+                }
+            ],
             "pathId": -5343993115512835696,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "合宿前と打って変わって、彼女が\r\nやる気に満ちているのは喜ばしいことだ。\nしかし――",
             "enText": "It's nice to see that she's so much more\nmotivated than before the camp. But—",
             "nextBlock": 4,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "（結局、プランＡって何なんだろう……？）",
                     "enText": "(After all, what is Plan A?…?)",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -6926623363985161579
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3857053940890006111
                 }
             ],
             "pathId": -8636343749232754491,
@@ -45,6 +78,17 @@
             "jpText": "さぁ、モルモット君！　クラシックレースを\r\n張り切って完走しようじゃないか！",
             "enText": "Come on, guinea pig! Let's finish the\nclassic race with gusto!",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -6797591106589082044
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5840229328874537370
+                }
+            ],
             "pathId": 5821803484851521452,
             "blockIdx": 4
         },
@@ -54,8 +98,20 @@
             "jpText": "謎は解けないまま、夏は終わり――\r\n『菊花賞』に向けて\nトレーニングを重ねる日々が始まった。",
             "enText": "The mystery remains unsolved, but the\nsummer is over, and the days of training\nfor the \"Kikka-sho\" have begun.",
             "nextBlock": -1,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 2006756967374323743
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 6270349454540475677
+                }
+            ],
             "pathId": 270083906683374864,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945577
 }

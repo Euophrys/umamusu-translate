@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ZH7CE7KC2T52UKEHVYKRJRMDCP6KBAXF",
     "type": "story",
     "storyId": "501050427",
@@ -11,6 +11,17 @@
             "jpText": "『日経賞』で優勝し、\n見事、返り咲いたナリタタイシン。",
             "enText": "NARITA TAISHIN won the \"Nikkei Award\" and \nmade a brilliant comeback.",
             "nextBlock": 2,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 189,
+                    "pathId": 1842267158070571771
+                },
+                {
+                    "origLen": 267,
+                    "pathId": 2658801832806784691
+                }
+            ],
             "pathId": -3859879226232287842,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "レースしかないからではない。\nレースがいい。レースで勝ちたい――",
             "enText": "Not because it is the only race. I want a \nrace. I want to win the race―",
             "nextBlock": 3,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": 8066610199720943570
+                },
+                {
+                    "origLen": 267,
+                    "pathId": 3131574121595845414
+                }
+            ],
             "pathId": 3878707184267598138,
             "blockIdx": 2
         },
@@ -29,14 +51,26 @@
             "jpText": "思いを新たに、ナリタタイシンと\r\nトレーナーは『天皇賞（春）』を\n目指すことになったのだった。",
             "enText": "With renewed determination, Narita \nTaishin and her trainer set their sights \non the Tennou-sho (Emperor's Championship) \nin the spring.",
             "nextBlock": -1,
+            "origClipLength": 106,
             "coloredText": [
                 {
                     "jpText": "天皇賞（春）",
                     "enText": "Tennou-sho (Spring)"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -1399207822963617414
+                },
+                {
+                    "origLen": 289,
+                    "pathId": -4841217241280940524
+                }
+            ],
             "pathId": 1094451209320993097,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945808
 }

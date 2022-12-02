@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PXHJVHDFQBVR5G25SPWDIDR33YEGUIPS",
     "type": "story",
     "storyId": "820028002",
@@ -11,6 +11,17 @@
             "jpText": "放課後、トレーニングの参考資料を\r\n探しに訪れた図書室で――",
             "enText": "After school, I went to the library to find \nsome reference material for my training.",
             "nextBlock": 2,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -8561910152565115262
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -3479637388067127254
+                }
+            ],
             "pathId": 3400335588903977602,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "……ふふ。",
             "enText": "… Phew.",
             "nextBlock": 3,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -5832216882807198763
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -6720716944144958215
+                }
+            ],
             "pathId": 6679989414657239835,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "いつになく楽しそうに読書している、\r\nゼンノロブロイを見かけた。",
             "enText": "I saw Zenno Rob Roy reading a book, which she \nseemed to enjoy more than ever.",
             "nextBlock": 4,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "何を読んでるんだ？",
@@ -41,6 +64,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -1334280545957253013
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6579744913296081876
+                }
+            ],
             "pathId": 3123908713073106019,
             "blockIdx": 3
         },
@@ -50,6 +83,21 @@
             "jpText": "あ……。\r\nこの本、ですか？",
             "enText": "Oh… This book, is it?",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -5965552472655958080
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8887203522165171539
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2176263093602943276
+                }
+            ],
             "pathId": -9177047665886994665,
             "blockIdx": 4
         },
@@ -59,11 +107,26 @@
             "jpText": "『西洋英雄譚集・決定版』――\r\n実は、私の大好きな1冊なんです。",
             "enText": "The definitive collection of Western heroic \ntales - actually, one of my favourite books.",
             "nextBlock": 6,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "英雄が好きなんだ？",
                     "enText": "Do you like heroes?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -6724910722441052130
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 2260924007894100729
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2324807047957140503
                 }
             ],
             "pathId": 2785564332729641145,
@@ -75,6 +138,7 @@
             "jpText": "はい……えっと。\r\n……興味、ありますか？",
             "enText": "Yes… Um… Are you interested in…?",
             "nextBlock": 7,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "ああ",
@@ -87,6 +151,20 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": 5728244601091827114
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 9038281688809754069
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -8544883784372833633
+                }
+            ],
             "pathId": 2130065749162619706,
             "blockIdx": 6
         },
@@ -96,6 +174,21 @@
             "jpText": "わぁ……嬉しいですっ！\r\n英雄譚って、とっても素敵なんですよ！",
             "enText": "Wow… I'm so happy! Heroic \ntales are so wonderful!",
             "nextBlock": 8,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 2387398671584777784
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 7312607505826074920
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7661702476974335454
+                }
+            ],
             "pathId": -9000005293650148928,
             "blockIdx": 7
         },
@@ -105,6 +198,21 @@
             "jpText": "――誰もが最初から立派だったわけじゃない。\r\n無名だった英雄も、たくさんいます。",
             "enText": "—Not everyone was great from the start. \nThere are many heroes who were unknown.",
             "nextBlock": 9,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -686511559523567487
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -7882824692892817304
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -5606900089227296001
+                }
+            ],
             "pathId": 3167927822538963865,
             "blockIdx": 8
         },
@@ -114,6 +222,7 @@
             "jpText": "でも……そこから、少しずつ強くなって。\r\n数々の試練や苦難を乗り越えて――",
             "enText": "But… from there, we gradually became \nstronger. We've been through a lot of trials \nand tribulations.",
             "nextBlock": 10,
+            "origClipLength": 93,
             "pathId": 4026381870002712105,
             "blockIdx": 9
         },
@@ -123,6 +232,7 @@
             "jpText": "そして最後は……！　みんなの注目を、\r\n一身に浴びるまでの存在になるんです……！",
             "enText": "And finally…! We're going to be the one to \nget all the attention…!",
             "nextBlock": 11,
+            "origClipLength": 97,
             "pathId": 7955658204553482381,
             "blockIdx": 10
         },
@@ -132,6 +242,7 @@
             "jpText": "……それで、劇的な物語を読んでいると、\r\n私も――そんなふうになりたいなって。",
             "enText": "… So, when I read dramatic stories, \nI wanted to be like that.",
             "nextBlock": 12,
+            "origClipLength": 95,
             "pathId": -2636503105811139476,
             "blockIdx": 11
         },
@@ -141,6 +252,7 @@
             "jpText": "今は引っ込み思案で、目立たない私でも……。\r\nいつか、英雄みたいな“主役”にって……！！",
             "enText": "At the moment I'm a shy and unobtrusive \nperson. One day, I'll be a hero, a \"star\"…!",
             "nextBlock": 13,
+            "origClipLength": 102,
             "pathId": 6879108330666836122,
             "blockIdx": 12
         },
@@ -150,6 +262,7 @@
             "jpText": "……だから、私は――",
             "enText": "It's… so I—",
             "nextBlock": 14,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "英雄に憧れてるんだな",
@@ -162,6 +275,20 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 5144221159589411500
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -4740311125627269780
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -4538679205008161331
+                }
+            ],
             "pathId": -3280493982462628115,
             "blockIdx": 13
         },
@@ -171,6 +298,21 @@
             "jpText": "――あっ。\r\nす、すみません……！",
             "enText": "—Oh. Sorry, sorry…!",
             "nextBlock": 15,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8220180159296350539
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 2128572222980806086
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5394709342006151815
+                }
+            ],
             "pathId": 9003799057463884414,
             "blockIdx": 14
         },
@@ -180,6 +322,21 @@
             "jpText": "つい、熱が入って……。\r\n私ばかり喋ってしまいました。",
             "enText": "I was so passionate about… \nI was talking too much.",
             "nextBlock": 16,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -487898490380598867
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -9010187939834363982
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 10045352804161020
+                }
+            ],
             "pathId": 4428414620908342911,
             "blockIdx": 15
         },
@@ -189,6 +346,21 @@
             "jpText": "それで……えっと。\r\nあなたは、どうして図書室に？",
             "enText": "So… let's see. What brings \nyou to the library?",
             "nextBlock": 17,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 3343164645971709282
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -8295957228826412310
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -2507840930724018577
+                }
+            ],
             "pathId": 1776481391703225692,
             "blockIdx": 16
         },
@@ -198,6 +370,21 @@
             "jpText": "ゼンノロブロイに、トレーニングの\r\n参考資料を探しにきたと伝えた。",
             "enText": "I told Zenno Rob Roy that I had come to look \nfor a training reference.",
             "nextBlock": 18,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 7286036964810121924
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -228275351374483133
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 2140108216455583350
+                }
+            ],
             "pathId": 5725927775411781077,
             "blockIdx": 17
         },
@@ -207,6 +394,21 @@
             "jpText": "なるほど……。\r\nもし、ご迷惑でなければ……ですが。",
             "enText": "I see… If you don't mind, I'm…",
             "nextBlock": 19,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 8844529221430636024
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4240276228871386510
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8650562903145203786
+                }
+            ],
             "pathId": 1631690173074590597,
             "blockIdx": 18
         },
@@ -216,6 +418,21 @@
             "jpText": "話を聞いてくださったお礼に、\r\n私にもお手伝いさせてください……！",
             "enText": "Thanks for listening and let me help you…!",
             "nextBlock": 20,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 4523949919436816519
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5513359176106797513
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -6297935319574411169
+                }
+            ],
             "pathId": -2210162700337891277,
             "blockIdx": 19
         },
@@ -225,11 +442,26 @@
             "jpText": "私、図書委員ですから……ここの蔵書には、\r\nそれなりに詳しいつもりなので……。",
             "enText": "I'm a member of the library committee, \nso … I'm reasonably familiar with \nthe books in the library…",
             "nextBlock": 21,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "ありがとう",
                     "enText": "Thank you.",
                     "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 1587094755917175832
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -4540187835199320121
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 2957887355424581525
                 }
             ],
             "pathId": 457141731543114242,
@@ -241,6 +473,21 @@
             "jpText": "その後、ゼンノロブロイと一緒に\r\n選んだ本をしばらく読み込んだ……。",
             "enText": "Afterwards, I spent some time reading the \nbook I had chosen with Zenno Rob Roy…",
             "nextBlock": 22,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -5582364366383601469
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -3945493149388216490
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -1892395633738026158
+                }
+            ],
             "pathId": -5344648877179302,
             "blockIdx": 21
         },
@@ -250,11 +497,26 @@
             "jpText": "そうだ……最後に、この英雄譚の\r\nエピソードを紹介させてください。",
             "enText": "That's right… Finally, allow me to introduce \nyou to this heroic episode.",
             "nextBlock": 23,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "英雄譚も参考になるんだ？",
                     "enText": "Is there a reference to the heroic tale too?",
                     "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": 3574691115210945411
+                },
+                {
+                    "origLen": 173,
+                    "pathId": 8103337547868225981
+                },
+                {
+                    "origLen": 153,
+                    "pathId": 8068247025966692491
                 }
             ],
             "pathId": -7445859105092423334,
@@ -266,6 +528,21 @@
             "jpText": "ええ、きっと。\r\nこの英雄はなんと！　ですね――",
             "enText": "Yes, I'm sure. What a hero! Yes…",
             "nextBlock": 24,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -6604630040816488601
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -1493260652252283269
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5999203239130183586
+                }
+            ],
             "pathId": -6866528469297512248,
             "blockIdx": 23
         },
@@ -275,11 +552,26 @@
             "jpText": "自分と巨大な牛とを縄で繋いで、\r\n引っ張り合って体を鍛えていたんです。",
             "enText": "She used to rope herself and a huge bull and \npull them together to strengthen her body.",
             "nextBlock": 25,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "すごい……",
                     "enText": "Amazing…",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 3774964480868676408
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -9156644705288575363
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 6533839141454047893
                 }
             ],
             "pathId": 8937707419203595140,
@@ -291,6 +583,21 @@
             "jpText": "ふふっ、本当に。\r\nたくましさが溢れていますよね。",
             "enText": "Phew, really. That's a lot of toughness.",
             "nextBlock": 26,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -6112771936766296829
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -6926173419576211247
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -6403910139220841984
+                }
+            ],
             "pathId": 6809810757077530899,
             "blockIdx": 25
         },
@@ -300,6 +607,7 @@
             "jpText": "私も、トレーニングの時は\r\nその気概を見習って取り組んでいます。",
             "enText": "I try to emulate that spirit when I train.",
             "nextBlock": 27,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "頑張ってるんだな",
@@ -312,6 +620,20 @@
                     "nextBlock": 27
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 8082652367060041101
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 3165996661881140531
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 1387002107303428701
+                }
+            ],
             "pathId": -1599063653552240337,
             "blockIdx": 26
         },
@@ -321,6 +643,21 @@
             "jpText": "……はいっ。",
             "enText": "Go to…",
             "nextBlock": 28,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 1270067490793281127
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -1232011140965565383
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -303981503191372068
+                }
+            ],
             "pathId": -4299827672548394671,
             "blockIdx": 27
         },
@@ -330,6 +667,21 @@
             "jpText": "たとえ今は……無名だったとしても。\r\n英雄たちのように、いつか必ず――",
             "enText": "Even if they are… unknown now. Like our \nheroes, one day we will…",
             "nextBlock": 29,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -2306587305034562290
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1480944478117317406
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1596522239084407625
+                }
+            ],
             "pathId": -6498942362784700126,
             "blockIdx": 28
         },
@@ -339,6 +691,21 @@
             "jpText": "私が“主役”の物語を……。\r\nレースを、見せるつもりですから……！",
             "enText": "I'm the \"star\" of the story… I'm \ngoing to show you the race…!",
             "nextBlock": 30,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -5770328775168960997
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 6221090661045517153
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 6179136833323685223
+                }
+            ],
             "pathId": -9207751477876099189,
             "blockIdx": 29
         },
@@ -348,8 +715,24 @@
             "jpText": "そう告げたゼンノロブロイの眼差しには、\r\n強い決意が宿っているように見えた……。",
             "enText": "Zenno Rob Roy's eyes looked determined \nas she said this…",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 161,
+                    "pathId": -1001408248065577341
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 8643465073426735800
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 1270522827402348317
+                }
+            ],
             "pathId": 1489217789389487236,
             "blockIdx": 30
         }
-    ]
+    ],
+    "modified": 1669946001
 }

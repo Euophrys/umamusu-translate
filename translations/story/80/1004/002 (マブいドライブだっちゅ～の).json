@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "OQK4PMFFYTATUD26GGGU6IWSKWXQV2VQ",
     "type": "story",
     "storyId": "801004002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、ひと休みしようとカフェに入り、\r\n席に座っていると――",
             "enText": "One day, I went into a café to take \na break, and as I sat down…",
             "nextBlock": 2,
+            "origClipLength": 85,
             "pathId": 7464181240898655286,
             "blockIdx": 1
         },
@@ -20,6 +21,8 @@
             "jpText": "ねえ、そこのカレ！　ドライブにいくなら\r\n海岸と知らない街、どちらが素敵だと思う？",
             "enText": "Hey, there, boyfriend! If you're going for a \ndrive, which do you think is nicer, the \nbeach or a city you don't know?",
             "nextBlock": 3,
+            "origClipLength": 71,
+            "trainerGender": "m",
             "pathId": 2189713837191185077,
             "blockIdx": 2
         },
@@ -29,6 +32,8 @@
             "jpText": "ねえそこのカノジョ！　ドライブにいくなら\r\n海岸と知らない街、どちらが素敵だと思う？",
             "enText": "Hey there, girlfriend! If you're going for a \ndrive, which do you think is nicer, the \nbeach or a city you don't know?",
             "nextBlock": 4,
+            "origClipLength": 73,
+            "trainerGender": "f",
             "pathId": 868861084543165922,
             "blockIdx": 3
         },
@@ -38,6 +43,17 @@
             "jpText": "これからみんなでドライブに行くんだけど、\r\nどっちがいいか決まらなくって！",
             "enText": "We're going on a road trip together and I \ncan't decide which way to go!",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -4735068857576548101
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 2142270269869808082
+                }
+            ],
             "pathId": 4034085245348274493,
             "blockIdx": 4
         },
@@ -47,11 +63,22 @@
             "jpText": "ほら、おすすめのフォークソングで、\r\n海岸をおセンチにドライブしてもいいし……。",
             "enText": "You can take a sentimental drive along the \ncoast with our folk song recommendations…",
             "nextBlock": 6,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "（……おセンチ……？）",
                     "enText": "(… ocm…?)",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -8365654260742173588
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -7546127840546308938
                 }
             ],
             "pathId": 9112324643638254415,
@@ -63,11 +90,22 @@
             "jpText": "知らない街まで行って、\r\nドキドキワクワクするのも激マブでしょ～！",
             "enText": "It's so exciting to go to \na city you don't know!",
             "nextBlock": 7,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "（げ、激マブ……！）",
                     "enText": "(Gee, Geki Mabu…!)",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -246585181342280452
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 5918059370062236923
                 }
             ],
             "pathId": 2080812265218653718,
@@ -79,6 +117,17 @@
             "jpText": "ランチはイタ飯、夜はディスコでフィーバー！\r\nきっとみんなリフレッシュできるわ～っ！",
             "enText": "It's Italian for lunch and disco fever in \nthe evening! Everyone will be refreshed!",
             "nextBlock": 8,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 5171552652215894833
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 8982073193588994696
+                }
+            ],
             "pathId": -4978526344158806544,
             "blockIdx": 7
         },
@@ -88,6 +137,17 @@
             "jpText": "って、今は意見を聞いてたんだっちゅーのっ！\r\nめんごめんご～！",
             "enText": "I was just asking for your opinion! \nSorry, sorry, sorry!",
             "nextBlock": 9,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 7172280983574437399
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7211793174027733686
+                }
+            ],
             "pathId": 8960044755816029173,
             "blockIdx": 8
         },
@@ -97,6 +157,7 @@
             "jpText": "全力で放たれる懐かしい香りに\r\n圧倒されながらも、意見を述べた。",
             "enText": "Overwhelmed by the nostalgic scent \nthat radiated from it at full force, \nI expressed my opinion.",
             "nextBlock": 10,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "海岸",
@@ -109,6 +170,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 4796573814465143733
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 9016235245797746305
+                }
+            ],
             "pathId": 6722399378235216907,
             "blockIdx": 9
         },
@@ -118,6 +189,17 @@
             "jpText": "そう、やっぱり海岸よね～！",
             "enText": "Yes, it's the coast after all!",
             "nextBlock": 11,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -1915443897398368756
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 2297255785977464922
+                }
+            ],
             "pathId": -7135039907480581944,
             "blockIdx": 10
         },
@@ -127,6 +209,17 @@
             "jpText": "あそこは道路が広いから\r\n愛車でかっ飛ばすと、とっても気持ちいいの♪",
             "enText": "The roads are so wide that it's very \nnice to drive your car there.",
             "nextBlock": 12,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6387353497254318561
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 2046614842665632686
+                }
+            ],
             "pathId": 6697149193315372534,
             "blockIdx": 11
         },
@@ -136,6 +229,17 @@
             "jpText": "うん、やっぱり海が正解ね！\r\nありがとう、助かっちゃった♪",
             "enText": "Yes, the sea is the right place! Thank you, \nyou've been a great help",
             "nextBlock": 16,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -7942763745128440732
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8581754725091602630
+                }
+            ],
             "pathId": 6280031092726810068,
             "blockIdx": 12
         },
@@ -145,6 +249,17 @@
             "jpText": "あーん、知らない街ね！",
             "enText": "Ahh, a city I don't know!",
             "nextBlock": 14,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 2159204193232461384
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 30380634036430578
+                }
+            ],
             "pathId": -593149889118102302,
             "blockIdx": 13
         },
@@ -154,6 +269,17 @@
             "jpText": "やっぱりドライブにはワクワクが必要よね。\r\n新しいコースも開拓できちゃうし♪",
             "enText": "It's all about the excitement of driving. \nIt's a great way to explore new places.",
             "nextBlock": 15,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 8436320977367576490
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -1892726043157129533
+                }
+            ],
             "pathId": -7809033504914884013,
             "blockIdx": 14
         },
@@ -163,6 +289,17 @@
             "jpText": "うん、チャレンジしてみるわ！\r\nありがとう、背中押されちゃった♪",
             "enText": "Yeah, I'll give it a go! Thank \nyou, you've got my back.",
             "nextBlock": 16,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -4667881447240237197
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 6071622485038390224
+                }
+            ],
             "pathId": -9180868223851009105,
             "blockIdx": 15
         },
@@ -172,8 +309,20 @@
             "jpText": "彼女はテーブルの上にあったナタデココを\r\n飲み干すと、『バイビー』と立ち去った。",
             "enText": "She drank all the nata de coco that was on \nthe table and left with a 'bye-bye'.",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 1552040031815931196
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -4860657253995749975
+                }
+            ],
             "pathId": -7523934905459942562,
             "blockIdx": 16
         }
-    ]
+    ],
+    "modified": 1669945946
 }

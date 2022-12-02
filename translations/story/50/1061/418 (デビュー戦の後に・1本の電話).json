@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "HOXBEUD3E42XVCSITZRUFE5SEEGKRH36",
     "type": "story",
     "storyId": "501061418",
@@ -11,6 +11,17 @@
             "jpText": "デビュー戦を終えたキングヘイローは、\r\n息を切らして疲労困憊しつつも\nこれからプロとして活躍できることを喜ぶ。",
             "enText": "After her debut race, King Halo was out of \nbreath and exhausted, but happy to be a \nprofessional.",
             "nextBlock": 2,
+            "origClipLength": 116,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 9151667886290722815
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -5178232043106098058
+                }
+            ],
             "pathId": -7298898741597828089,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "しかし、キングヘイローの母親から\r\nデビューに否定的な電話がかかってくる。\nそれは……両者の深い確執を示していた。",
             "enText": "She then received an angry call from her mother \nabout her debut. And… both made their \ndissatisfactions very clear.",
             "nextBlock": 3,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -8758145245714624543
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -7084678234765068166
+                }
+            ],
             "pathId": -2265159865099855610,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "何もわかっていない母親を見返してやる、と\r\nキングヘイローは次なる目標にＧＩレース――\n『ホープフルステークス』を掲げるのだった。",
             "enText": "Intent to show up her mom, King Halo sets her \nsights on a GI race— Hopeful Stakes.",
             "nextBlock": -1,
+            "origClipLength": 129,
             "coloredText": [
                 {
                     "jpText": "ＧＩ",
@@ -39,8 +62,19 @@
                     "enText": "Hopeful Stakes"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 2457613920309634673
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -7093671251467638424
+                }
+            ],
             "pathId": 6762614571951742216,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945931
 }

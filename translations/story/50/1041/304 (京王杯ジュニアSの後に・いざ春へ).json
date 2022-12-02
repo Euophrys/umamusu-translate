@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "SURQBEDI4J7VAGIWWZGBE57I5YXV5FTG",
     "type": "story",
     "storyId": "501041304",
@@ -11,6 +11,17 @@
             "jpText": "さて……トレーナーさん。",
             "enText": "Now… trainer.",
             "nextBlock": 2,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -840004285107544055
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 4835216310416257493
+                }
+            ],
             "pathId": 136629024412306027,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "観客のみなさんへの顔見せは済ませました。\r\nそう、来年からは――",
             "enText": "I've already shown my face to the\naudience. So, from next year—",
             "nextBlock": 3,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -4294178685626201231
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -62743741978702103
+                }
+            ],
             "pathId": 8008096108227381850,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "一世一代の大勝負！\r\nいよいよ私のクラシック戦線が始まりますね！",
             "enText": "The game of a lifetime! Now it's time for my\nclassic battlefield to begin!",
             "nextBlock": 4,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "あ、ああ",
@@ -41,6 +64,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 5126300674634527152
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4135185316848953420
+                }
+            ],
             "pathId": -4623153388394907419,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "さぁさぁ、『皐月賞』に向けて\r\nどのように突っ走って行きましょうか！",
             "enText": "Now, let's see how we're going\nto do against Satsuki-sho!",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 9084073344319160603
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -5098049802367172241
+                }
+            ],
             "pathId": 3552994152443677625,
             "blockIdx": 4
         },
@@ -59,11 +103,22 @@
             "jpText": "やっぱり一発勝負！？\r\nぶっつけ本番というのがバクシン的ですかね！",
             "enText": "It's a one-shot game after all!\nI guess it's a little too Bakushin-esque\nto just go for it!",
             "nextBlock": 6,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "ちょっとバクシンすぎるかな！？",
                     "enText": "A little too much Bakushin, I guess!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 7910165003736422097
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 5933079383665338148
                 }
             ],
             "pathId": 539930582418632143,
@@ -75,11 +130,22 @@
             "jpText": "さすがにいきなりの挑戦すぎるので、\r\n定石でいけばここはまず……。",
             "enText": "This is too much of a challenge for me, so I\ndecided to go to…",
             "nextBlock": 7,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "『スプリングステークス』はどう？",
                     "enText": "What about the Spring Stakes?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 6182517265827057405
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -4653989534914167625
                 }
             ],
             "pathId": 1026572845097179837,
@@ -91,6 +157,17 @@
             "jpText": "おおー！　『皐月賞』を見越して\r\n優秀なウマ娘たちが走るレースですね！",
             "enText": "Oh! It's a race for the best horse girls in\nanticipation of the Satsuki Awards!",
             "nextBlock": 8,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -3869058008018898571
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1796845909001270969
+                }
+            ],
             "pathId": -7179589638778832351,
             "blockIdx": 7
         },
@@ -100,10 +177,21 @@
             "jpText": "『スプリングS』、1800m。\r\nサクラバクシンオーには長い距離だが、\n『皐月賞』の前に色々と考える時間を作れる。",
             "enText": "Spring S, 1,800m. It's a long distance for\nSakura Bakushin O, but it will give her time\nto think before Satsuki-sho.",
             "nextBlock": 9,
+            "origClipLength": 82,
             "coloredText": [
                 {
                     "jpText": "スプリングS",
                     "enText": "Spring S"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -2809880380505277516
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 129910420241596098
                 }
             ],
             "pathId": -7324057736228187811,
@@ -115,6 +203,17 @@
             "jpText": "うんうん、優等生らしいレース選びです！",
             "enText": "Yeah, yeah, it's an honor\nstudent's race choice!",
             "nextBlock": 10,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -3921035613937365359
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -4863255032803739323
+                }
+            ],
             "pathId": -3576066251616822752,
             "blockIdx": 9
         },
@@ -124,6 +223,17 @@
             "jpText": "わかりました、\r\n次は『スプリングS』ですね！",
             "enText": "All right, next stop, the Spring S.!",
             "nextBlock": 11,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -7597415844543787776
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -7720203471831035224
+                }
+            ],
             "pathId": 8213300789627004985,
             "blockIdx": 10
         },
@@ -133,6 +243,17 @@
             "jpText": "私のスピードをもってすれば、\r\n1800mも一瞬で駆け抜けられますよッ！",
             "enText": "With my speed, I can run 1800\nmeters in an instant!",
             "nextBlock": 12,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 7817213025202821119
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6172654049849415319
+                }
+            ],
             "pathId": 7285210451139293336,
             "blockIdx": 11
         },
@@ -142,6 +263,17 @@
             "jpText": "そうと決まれば！\r\n早速、中距離用のトレーニングを！",
             "enText": "If that's what it takes! I need to train for\nthe middle distance ASAP!",
             "nextBlock": 13,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -9015326367011552930
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6893608668352588792
+                }
+            ],
             "pathId": -4930058954198475375,
             "blockIdx": 12
         },
@@ -151,8 +283,20 @@
             "jpText": "バクシンバクシーーン！！",
             "enText": "Bakushin Baxiang!",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 7527017388927606928
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 6703529266038952322
+                }
+            ],
             "pathId": 5070775839935767098,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669945707
 }

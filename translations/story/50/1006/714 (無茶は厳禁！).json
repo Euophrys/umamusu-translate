@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DF3MY5AQDAYK2I2DYG3TBP6AUXCYOPXM",
     "type": "story",
     "storyId": "501006714",
@@ -11,6 +11,17 @@
             "jpText": "トレーニング中、オグリキャップの表情が\r\n優れないので保健室へと連れて行くと……。",
             "enText": "During training, Oguri Cap's expression was \nnot good, so I took her to the infirmary…",
             "nextBlock": 2,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": 1408064911695131226
+                },
+                {
+                    "origLen": 198,
+                    "pathId": 545289901005366772
+                }
+            ],
             "pathId": 6345577294552255226,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "……『数日は安静に』、か。\r\n我慢したのが、仇になってしまった……。",
             "enText": "… 'Rest for a few days', huh? My \npatience has been avenged…",
             "nextBlock": 3,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "ケガをしていたのか……",
@@ -32,6 +44,16 @@
                     "nextBlock": 3
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 5216693371403115355
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -3256725903046906405
+                }
+            ],
             "pathId": -2354678927795064731,
             "blockIdx": 2
         },
@@ -41,6 +63,17 @@
             "jpText": "……すまない。隠すつもりはなかったんだ。\r\n耐えきれると思っていた。",
             "enText": "… I'm sorry. I didn't mean to hide it. I \nthought it would be bearable.",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -7381495971220699007
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -6381283013388755085
+                }
+            ],
             "pathId": -392093867866608958,
             "blockIdx": 3
         },
@@ -50,6 +83,7 @@
             "jpText": "それに、ケガのせいで\r\n走れなくなるのは……嫌だった。",
             "enText": "Besides, I didn't want to… be unable \nto run because of my injury.",
             "nextBlock": 5,
+            "origClipLength": 62,
             "choices": [
                 {
                     "jpText": "まずは焦らずゆっくり休もう",
@@ -62,6 +96,16 @@
                     "nextBlock": 9
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -745855339801516358
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -225212103860685989
+                }
+            ],
             "pathId": 1655795217639619478,
             "blockIdx": 4
         },
@@ -71,11 +115,22 @@
             "jpText": "私を、責めないのか……？",
             "enText": "Don't you blame me…?",
             "nextBlock": 6,
+            "origClipLength": 52,
             "choices": [
                 {
                     "jpText": "走るのが大好きなことを知ってるから",
                     "enText": "I know that you love to run.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 8528202578081489105
+                },
+                {
+                    "origLen": 198,
+                    "pathId": 2985076413283669456
                 }
             ],
             "pathId": 4504286881389846490,
@@ -87,11 +142,22 @@
             "jpText": "……ありがとう。うん、\r\n私は……走るのが、好きだ。",
             "enText": "Thanks for the… Yeah, I like to run…",
             "nextBlock": 7,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "なら、今は治すことに専念しよう",
                     "enText": "Then let's just focus on healing now.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6917275880798043918
+                },
+                {
+                    "origLen": 198,
+                    "pathId": 3666949587942588296
                 }
             ],
             "pathId": 4927856350741761525,
@@ -103,6 +169,17 @@
             "jpText": "わかった。\r\n早く、走りたいな……。",
             "enText": "All right. I can't wait to get running…",
             "nextBlock": 8,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -916557786905138365
+                },
+                {
+                    "origLen": 198,
+                    "pathId": 8789326294964879205
+                }
+            ],
             "pathId": -8557915547288519627,
             "blockIdx": 7
         },
@@ -112,6 +189,17 @@
             "jpText": "その日は大事をとってオグリキャップを\r\n休ませることにしたのだった。",
             "enText": "She decided to rest Oguri-cap for the day.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -6933023270281685453
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -369577818658225296
+                }
+            ],
             "pathId": 2080980594289123712,
             "blockIdx": 8
         },
@@ -121,6 +209,18 @@
             "jpText": "……そうだな。\r\n私も同じ気持ちだ。",
             "enText": "… You're right. I feel the same way.",
             "nextBlock": 10,
+            "origClipLength": 56,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 6753602283551603712
+                },
+                {
+                    "origLen": 198,
+                    "pathId": 7303143101895261279
+                }
+            ],
             "pathId": -7097319358719892115,
             "blockIdx": 9
         },
@@ -130,6 +230,18 @@
             "jpText": "すぐでも走り出して……。",
             "enText": "You can start running right away…",
             "nextBlock": 11,
+            "origClipLength": 52,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -3711721436083198141
+                },
+                {
+                    "origLen": 198,
+                    "pathId": 8932507745499967814
+                }
+            ],
             "pathId": 8002574246233476380,
             "blockIdx": 10
         },
@@ -139,6 +251,17 @@
             "jpText": "……ん？",
             "enText": "… hmm?",
             "nextBlock": 12,
+            "origClipLength": 47,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 2385975809017510146
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -7866955059726268792
+                }
+            ],
             "pathId": -478097451331284260,
             "blockIdx": 11
         },
@@ -148,6 +271,17 @@
             "jpText": "だが、医者は『安静にしろ』と言っていたぞ。\r\nむむ、どちらの言葉を聞くべきなんだ？",
             "enText": "But the doctor said, 'Rest easy. Mmm, which \nword should I listen to?",
             "nextBlock": 13,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -1828013582834545860
+                },
+                {
+                    "origLen": 198,
+                    "pathId": 6497640075133916114
+                }
+            ],
             "pathId": -5485797726802496422,
             "blockIdx": 12
         },
@@ -157,6 +291,17 @@
             "jpText": "励ました言葉がかえって迷わせる結果となり、\r\n彼女の治療は長引いてしまった……。",
             "enText": "My words of encouragement led her astray, \nand her treatment was prolonged…",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 155,
+                    "pathId": 1359348855114619217
+                },
+                {
+                    "origLen": 198,
+                    "pathId": 9073997300661362480
+                }
+            ],
             "pathId": -9186854762604099216,
             "blockIdx": 13
         },
@@ -166,11 +311,23 @@
             "jpText": "すぐ……ということは、あまり日はない。\r\nわかった。やってみよう。",
             "enText": "Soon… means not many days. I \nget it. I'll give it a try.",
             "nextBlock": 15,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "やってみる？",
                     "enText": "You want to try?",
                     "nextBlock": 15
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -6803032595103513509
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -2811184850630462216
                 }
             ],
             "pathId": -6513032155210349291,
@@ -182,6 +339,17 @@
             "jpText": "心に言い聞かせる……プボラシ効果だったか。\r\n昔、森で出会った人に教えてもらった。",
             "enText": "Tell it to your heart… Was it the puberty \neffect? I learned it from someone I met in \nthe woods a long time ago.",
             "nextBlock": 16,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 6520193963319830174
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -4068019091522433999
+                }
+            ],
             "pathId": 6761851906758367227,
             "blockIdx": 15
         },
@@ -191,6 +359,17 @@
             "jpText": "いますぐ治して走る、いますぐ治して走る、\r\n私はいますぐ治して走る……。",
             "enText": "Heal now and run, heal now and \nrun, I heal now and run…",
             "nextBlock": 17,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 673445351576378924
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -443146027308171426
+                }
+            ],
             "pathId": -3264309738354883905,
             "blockIdx": 16
         },
@@ -200,8 +379,20 @@
             "jpText": "その思い込みの効果は抜群だったようで……\r\n翌日、オグリキャップはとても元気な姿で\nトレーニングに現れたのだった。",
             "enText": "This belief seemed to have a great effect on \nher… The next day, Oguri Cap showed up for \ntraining looking very healthy.",
             "nextBlock": -1,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": 6806014583462281426
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -8201600628011263663
+                }
+            ],
             "pathId": 9010938114811694917,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669944987
 }

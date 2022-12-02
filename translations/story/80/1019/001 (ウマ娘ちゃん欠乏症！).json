@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "C3NS6SNTKDRIFDM6H5JFAZ4HT4CG3HCR",
     "type": "story",
     "storyId": "801019001",
@@ -11,6 +11,7 @@
             "jpText": "今日は、定期的に開催されるレース見学の日。\r\n<chrname>たちウマ娘はみな、\nバスに乗って目的地へと出かけて行った。",
             "enText": "Today was the day for the regular race \nvisit. <chrname> and the other horse girls \nall got on the bus and went to their \ndestination.",
             "nextBlock": 2,
+            "origClipLength": 124,
             "pathId": -3019563865286733477,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "生徒がいなくなり、静まり返った校舎から\r\nかすかな唸り声が聞こえてくる……。",
             "enText": "A faint roar can be heard from the quiet \nschool building as the students disappear…",
             "nextBlock": 3,
+            "origClipLength": 94,
             "pathId": -1134594850637409950,
             "blockIdx": 2
         },
@@ -29,11 +31,22 @@
             "jpText": "うう……ううう～。\r\nウマ娘ちゃんはどこぉ～……！？",
             "enText": "Ugh… Ugh~. Where's Uma Musume chan~…!",
             "nextBlock": 4,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "ゾンビ！？",
                     "enText": "Zombies!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 8041040148666869019
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -5857281381023823153
                 }
             ],
             "pathId": 8272437125095864804,
@@ -45,11 +58,26 @@
             "jpText": "そう……！　ウマ娘ちゃんに飢えるあたしは、\r\nさながらアグネス・ゾンビ・デジタル！！",
             "enText": "Yes…! I'm so hungry for Uma Musume, \nI'm like Agnes Zombie Digital!",
             "nextBlock": 5,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "生徒はレース見学に行ったはずじゃ……",
                     "enText": "Students were supposed to have \ngone to watch the race…",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -3895810851302756253
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -7124337496603528588
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 529937244180804693
                 }
             ],
             "pathId": -5421350810181433047,
@@ -61,6 +89,21 @@
             "jpText": "デジたんは数日前から、\r\n風邪でお休みだったんですぅ～。",
             "enText": "Digi-tan was absent for a \nfew days with a cold.",
             "nextBlock": 6,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7971936105580157562
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 3190357938154466809
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 2878586951202851672
+                }
+            ],
             "pathId": -5552944976965397589,
             "blockIdx": 5
         },
@@ -70,6 +113,17 @@
             "jpText": "ま、ウマ娘ちゃんに会いたくて\r\n気合いで風邪を治して来ちゃったけど！",
             "enText": "Well, I had to fight off a \ncold to come and see you!",
             "nextBlock": 7,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -6713752886016369287
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -4292592157292103889
+                }
+            ],
             "pathId": 2700096707266494564,
             "blockIdx": 6
         },
@@ -79,6 +133,7 @@
             "jpText": "なのに誰もいないなんて……ガッデム！！\r\nレース見学忘れてたあたしのバカッ！",
             "enText": "And yet no one was there… Gaddem! I forgot \nto watch the race, silly me!",
             "nextBlock": 8,
+            "origClipLength": 94,
             "choices": [
                 {
                     "jpText": "大事をとって帰ったら？",
@@ -91,6 +146,16 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 6553639137605210945
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -3121266710753871085
+                }
+            ],
             "pathId": -7845703957199022791,
             "blockIdx": 7
         },
@@ -100,6 +165,21 @@
             "jpText": "ふ、ふふふ……ソウデスネ。\r\n学園にいても供給は得られないし――",
             "enText": "Hmmm… hmmm… hmmm… You can't get supplies at \nthe school, and you can't get—",
             "nextBlock": 9,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 7801653298289333907
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 660314122409279192
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8560898691573789253
+                }
+            ],
             "pathId": -8811884197962762402,
             "blockIdx": 8
         },
@@ -109,6 +189,21 @@
             "jpText": "はっ、そうだ！！　担当ウマ娘ちゃんの\r\n激エモエピソードはありませんか！？",
             "enText": "Yes, that's right! Do you have a very emo \nepisode of Uma Musume?",
             "nextBlock": 10,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -7619996308460891185
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -5114776231264788790
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -9082079022073855224
+                }
+            ],
             "pathId": -6569715252572786311,
             "blockIdx": 9
         },
@@ -118,6 +213,21 @@
             "jpText": "頑張って学園に来たデジたんにお恵みを！\r\n乾いたココロに栄養をっ！！",
             "enText": "Blessings to you, Digi-tan, for \ncoming to the school so hard! Nourishment \nfor a dry heart!",
             "nextBlock": 11,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 4900564203992682504
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -8914481476845309952
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8633107606687852833
+                }
+            ],
             "pathId": -7255847096493430300,
             "blockIdx": 10
         },
@@ -127,6 +237,21 @@
             "jpText": "激エモかはわからないが、\r\nトレーニング中の<chrname>の話を\n聞かせてあげた。",
             "enText": "I don't know if it's very emo, but I told \nher about <chrname> in training.",
             "nextBlock": 12,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 7089369122994310741
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 9190623886232299352
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 6311381449427208970
+                }
+            ],
             "pathId": -3912549703552075573,
             "blockIdx": 11
         },
@@ -136,6 +261,17 @@
             "jpText": "ハァハァ、燃料感謝……！　今日は出直して、\r\n明日こそはウマ娘ちゃんを愛でてみせますよ！",
             "enText": "Hahaha, thanks for the fuel…! I'll get back \nto you today, and tomorrow I'll be loving my \nlittle horse girl!",
             "nextBlock": -1,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -24394629444702382
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -5107580019616719504
+                }
+            ],
             "pathId": -4845235412086923335,
             "blockIdx": 12
         },
@@ -145,11 +281,22 @@
             "jpText": "ホ、ホントですかっ！？",
             "enText": "Are you sure?",
             "nextBlock": 14,
+            "origClipLength": 59,
             "choices": [
                 {
                     "jpText": "遅刻手続きをすれば大丈夫",
                     "enText": "Just follow the late procedure.",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -6480431036688400808
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 5520275475287443978
                 }
             ],
             "pathId": 2098041147578119198,
@@ -161,6 +308,21 @@
             "jpText": "ヒョオオオオ！！　あなたが神かっ！？\r\n今行きましょうすぐ行きましょう！！\n夢の楽園目指してレッツゴオオオオオ！！",
             "enText": "HYOOOOOO! You're God! Let's go now, let's go \nnow! Let's go to the paradise of our dreams!",
             "nextBlock": 15,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -3964180555401825887
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -544809630014178106
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 4634557872456480453
+                }
+            ],
             "pathId": -10170332094371477,
             "blockIdx": 14
         },
@@ -170,6 +332,21 @@
             "jpText": "乗りかかった船でもあるので、\r\nアグネスデジタルの遅刻手続きを行い、\n引率として現地へ連れて行ってあげた。",
             "enText": "As we were on a boat, we arranged \nfor Agnes Digital to be late and \ntook her there as a leader.",
             "nextBlock": 16,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -5992299694381279861
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 8814828752406212205
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -6075329435285576859
+                }
+            ],
             "pathId": -8192951975977071668,
             "blockIdx": 15
         },
@@ -179,6 +356,7 @@
             "jpText": "はうあうあうあうあ……。\r\n天国は……ここにあった……！",
             "enText": "Haaaaaaaaaaaa… Heaven was… here…!",
             "nextBlock": 17,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "幸せそうだな",
@@ -191,6 +369,20 @@
                     "nextBlock": 17
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 3028913835426869018
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -2498600047817425069
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 2310381981454500475
+                }
+            ],
             "pathId": -6300961482531946192,
             "blockIdx": 16
         },
@@ -200,6 +392,21 @@
             "jpText": "そりゃもう！　同じメンバー、同じ会場でも\r\n同じ舞台は1つも存在しない。そして――",
             "enText": "That's right! No two performances \nare ever the same. And…",
             "nextBlock": 18,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1675719360354714934
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 8647871077609116698
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 8932325922972802101
+                }
+            ],
             "pathId": 9177304824525966916,
             "blockIdx": 17
         },
@@ -209,6 +416,17 @@
             "jpText": "推しから得られるエモーションも全然違う！\r\nだからこそ、ヲタクは全通するのです……！！",
             "enText": "The emotions you get from your guesses \nare totally different! That's why \notaku go all the way…!",
             "nextBlock": 19,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -4817146819273012503
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 4638852495937102282
+                }
+            ],
             "pathId": 5798502280632958982,
             "blockIdx": 18
         },
@@ -218,8 +436,20 @@
             "jpText": "ってことで、デジたんはウマ娘ちゃんを\r\n愛でるため、ベスポジ探しの旅に出ますっ！",
             "enText": "So, Digi-tan is going on a journey to find \nthe best horse to love Uma Musume!",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 7937122661447846171
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 2513846412610087814
+                }
+            ],
             "pathId": -4979716214731030317,
             "blockIdx": 19
         }
-    ]
+    ],
+    "modified": 1669945952
 }

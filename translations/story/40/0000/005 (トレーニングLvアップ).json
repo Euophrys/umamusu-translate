@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MXCI4CUHSNZ6THCLSPNA5EGPAJ66B4BT",
     "type": "story",
     "storyId": "400000005",
@@ -11,6 +11,17 @@
             "jpText": "見事ッ！\r\n君の熱意、ウマ娘への姿勢、見せてもらった！",
             "enText": "Brilliant!  You've shown me your enthusiasm,\nyour attitude towards horse girls!",
             "nextBlock": 2,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -1746714662512082183
+                },
+                {
+                    "origLen": 147,
+                    "pathId": -1444920840804547231
+                }
+            ],
             "pathId": -7172955833493344003,
             "blockIdx": 1
         },
@@ -20,14 +31,26 @@
             "jpText": "トレーニング施設を強化しよう！！\r\nさらなる活躍に――期待ッ！",
             "enText": "I've enhanced the training facilities!\nExpecting further success!",
             "nextBlock": -1,
+            "origClipLength": 65,
             "coloredText": [
                 {
                     "jpText": "トレーニング施設を強化",
                     "enText": "enhanced the training facilities"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 6148025933481213708
+                },
+                {
+                    "origLen": 147,
+                    "pathId": 5789843664357733599
+                }
+            ],
             "pathId": -7124856159655016350,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944802
 }

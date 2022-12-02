@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "LNG3NCO3GGJ7ZIXXW2LWZS2YSVC22P3O",
     "type": "story",
     "storyId": "501032400",
@@ -11,10 +11,21 @@
             "jpText": "ウマ娘の肉体が秘めた可能性とその限界を\r\n知るため、速さを追求する研究に明け暮れる\nアグネスタキオン。",
             "enText": "Agnes Tachyon spends all her time\nresearching speed in order to understand\nthe hidden potential of her horse girl's\nbody and its limits.",
             "nextBlock": 2,
+            "origClipLength": 111,
             "coloredText": [
                 {
                     "jpText": "アグネスタキオン",
                     "enText": "Agnes Tachyon"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": -2933024422811108680
+                },
+                {
+                    "origLen": 172,
+                    "pathId": -5536457784757012636
                 }
             ],
             "pathId": -1790528301858249123,
@@ -26,14 +37,26 @@
             "jpText": "トゥインクル・シリーズという舞台で\r\n共に『ウマ娘の可能性の果て』を探求する\n彼女との日々が始まった。",
             "enText": "My days with her began, as we explored\ntogether \"The End of the Possibilities\nof Uma Musume\" on the stage of the\nTwinkle Series.",
             "nextBlock": -1,
+            "origClipLength": 111,
             "coloredText": [
                 {
                     "jpText": "トゥインクル・シリーズ",
                     "enText": "Twinkle Series"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": -1077768934840514156
+                },
+                {
+                    "origLen": 172,
+                    "pathId": 1518737839462973056
+                }
+            ],
             "pathId": 4838652875254337175,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945579
 }

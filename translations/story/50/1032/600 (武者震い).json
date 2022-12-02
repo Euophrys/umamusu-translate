@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "BJ2AD6UWWF2MLUBJK5NMLX2JJG463CHY",
     "type": "story",
     "storyId": "501032600",
@@ -11,6 +11,17 @@
             "jpText": "ククッ……！\r\nいよいよだよ、トレーナー君！",
             "enText": "Crap…! It's time, trainers!",
             "nextBlock": 2,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -4894842111152650188
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 4262147291478729842
+                }
+            ],
             "pathId": -2371212071550300474,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "日頃の実験の成果を試す日だ！",
             "enText": "It's a day to test the results\nof our daily experiments!",
             "nextBlock": 3,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 3010699426433693376
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 858290489893902298
+                }
+            ],
             "pathId": 6939472328003846739,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "準備はできているね？\r\nいいかい、今日のすべてを記録するんだ！",
             "enText": "You're ready, right? Listen, I want you to\nrecord everything that happens today!",
             "nextBlock": 4,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "任せとけ！",
@@ -41,6 +64,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 982165199110581434
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7982397477009970964
+                }
+            ],
             "pathId": -3827071567326178345,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "いい返事だ！\r\n私も興奮してきたよ……！",
             "enText": "Great reply! I'm getting\nexcited too…!",
             "nextBlock": 5,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 827797565176980858
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -1202799244262931050
+                }
+            ],
             "pathId": 8725681745709788440,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "さぁ、これまでの積み重ねが\r\nどういう結果をもたらすのか……。",
             "enText": "Now, let's see what the results\nof all this will be…",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -1750550008995189859
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3960558061183922595
+                }
+            ],
             "pathId": 4483378651043741765,
             "blockIdx": 5
         },
@@ -68,8 +123,20 @@
             "jpText": "確かめてみようじゃないか！",
             "enText": "Let's find out!",
             "nextBlock": -1,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -1425866775409644419
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 7355210899699917313
+                }
+            ],
             "pathId": 1671846665983799289,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945587
 }

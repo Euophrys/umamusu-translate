@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DOL2ZSOB2MLHSOV6MTKQVPLU33OMHHN2",
     "type": "story",
     "storyId": "801059002",
@@ -11,6 +11,17 @@
             "jpText": "休日、買い物に出かけると――",
             "enText": "You're on holiday, you're out shopping…",
             "nextBlock": 2,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 7263133271036774097
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 5580065649043805421
+                }
+            ],
             "pathId": 8474328359349338349,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "きゃっ！？",
             "enText": "Yikes!",
             "nextBlock": 3,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -1665577307590928727
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 471926907218907193
+                }
+            ],
             "pathId": -4257454142424401548,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "大繁盛している雑貨屋から\r\nメジロドーベルがはじき出されてきた。",
             "enText": "A white-tailed dobel has been bursting out \nof a very busy general store.",
             "nextBlock": 4,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -1711673458444335346
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 156351866171371154
+                }
+            ],
             "pathId": 8188375839129874424,
             "blockIdx": 3
         },
@@ -38,11 +71,22 @@
             "jpText": "はぁ、またダメだった。アロマ……。\r\nあとちょっとで手が届いたのに……。",
             "enText": "Huh, it didn't work again. Aroma… \nI was so close to getting it…",
             "nextBlock": 5,
+            "origClipLength": 68,
             "choices": [
                 {
                     "jpText": "大丈夫？",
                     "enText": "Are you OK?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -1487153083320713231
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3791763885998877862
                 }
             ],
             "pathId": 4994606659537870381,
@@ -54,11 +98,23 @@
             "jpText": "っ……べ、別に。",
             "enText": "… Nothing.",
             "nextBlock": 6,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "何か買いに来たんじゃないのか？",
                     "enText": "I thought you were here to buy something.",
                     "nextBlock": 7
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -1257997925631001409
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -1070460516895164069
                 }
             ],
             "pathId": -2624383771175105476,
@@ -70,6 +126,18 @@
             "jpText": "あ……えっと、その……。",
             "enText": "Oh… uh, that…",
             "nextBlock": 7,
+            "origClipLength": 52,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 6595895893611915957
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -4431508712874413348
+                }
+            ],
             "pathId": 2351999491707924326,
             "blockIdx": 6
         },
@@ -79,11 +147,23 @@
             "jpText": "アンタには関係ない。\r\n……大したものじゃないし。もう諦めたから。",
             "enText": "It's nothing to do with you. It's not a big \n… deal. I've given up.",
             "nextBlock": 8,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "……本当に？",
                     "enText": "… Really?",
                     "nextBlock": 8
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 369362475153735909
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -1642486233109019445
                 }
             ],
             "pathId": 7757810970564053328,
@@ -95,6 +175,18 @@
             "jpText": "しつこい。諦めたって言ってるでしょ。",
             "enText": "You are persistent. I told you I gave up.",
             "nextBlock": 9,
+            "origClipLength": 56,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7625005090566514881
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8789716480897037061
+                }
+            ],
             "pathId": -3478332016084008920,
             "blockIdx": 8
         },
@@ -104,6 +196,7 @@
             "jpText": "どうせアタシは、親戚にあげるプレゼントの\r\nひとつもまともに買えないわよ……ふん。",
             "enText": "I can't even afford to buy a single present \nfor my relatives anyway…",
             "nextBlock": 10,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "別のプレゼントを探してみたら？",
@@ -114,6 +207,17 @@
                     "jpText": "覚悟を決めて、突っ込もう！",
                     "enText": "Brace yourself and let's plunge in!",
                     "nextBlock": 20
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -6753374034017145748
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -2417855279585853665
                 }
             ],
             "pathId": 1763227258842352477,
@@ -125,6 +229,18 @@
             "jpText": "……実は、親戚の子が疲れ気味だったから、\r\nアロマをあげようと思ったんだけど……。",
             "enText": "… Actually, a relative of mine was \nfeeling tired, so I thought I'd \ngive her some aromatherapy…",
             "nextBlock": 11,
+            "origClipLength": 71,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -689826400671345906
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -7979422417972361035
+                }
+            ],
             "pathId": 5246791023302283919,
             "blockIdx": 10
         },
@@ -134,6 +250,22 @@
             "jpText": "今日、セールみたいで人が多くて。\r\n全然中に進めないんだ。",
             "enText": "There are so many people here today, it's \nlike a sale. I can't go in at all.",
             "nextBlock": 12,
+            "origClipLength": 63,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 8456580780824863503
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 2052985161966306825
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2712952695028815783
+                }
+            ],
             "pathId": 4653355096015835764,
             "blockIdx": 11
         },
@@ -143,6 +275,7 @@
             "jpText": "もうそろそろ帰らなきゃいけないし、\r\nどうしようかなって。",
             "enText": "I have to go home now and I don't \nknow what I'm going to do.",
             "nextBlock": 13,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "別のプレゼントを探してみたら？",
@@ -155,6 +288,21 @@
                     "nextBlock": 20
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4962549801367461662
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -5351046037954083933
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 5098160778756200894
+                }
+            ],
             "pathId": -8359512279237712858,
             "blockIdx": 12
         },
@@ -164,6 +312,18 @@
             "jpText": "なに、いきなり。\r\n別のプレゼント、って。",
             "enText": "What is it? Another present?",
             "nextBlock": 14,
+            "origClipLength": 58,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -1358899297702366054
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -6099164934560542471
+                }
+            ],
             "pathId": -7717303663216932712,
             "blockIdx": 13
         },
@@ -173,6 +333,18 @@
             "jpText": "別のプレゼントか……。\r\n考えてもみなかった。",
             "enText": "Another present or… I hadn't \nthought of that.",
             "nextBlock": 15,
+            "origClipLength": 60,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -8939050812320860079
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 3986229100563944380
+                }
+            ],
             "pathId": -7154967254817495501,
             "blockIdx": 14
         },
@@ -182,6 +354,18 @@
             "jpText": "あ……そういえばあの子、\r\n確かモンブランが……。",
             "enText": "Oh… Oh, by the way, that girl, \nI think Mont Blanc is…",
             "nextBlock": 16,
+            "origClipLength": 61,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 3124581233854969839
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8942600910315658730
+                }
+            ],
             "pathId": 8175547710892173607,
             "blockIdx": 15
         },
@@ -191,6 +375,18 @@
             "jpText": "……別に、参考にしたとかじゃないし。\r\n思いついただけだから。……それじゃ。",
             "enText": "… It's not like I was referring to it or \nanything. I just thought of it… So long.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -2454947401773115097
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -1494662178795753898
+                }
+            ],
             "pathId": 1652715249800487869,
             "blockIdx": 16
         },
@@ -200,6 +396,18 @@
             "jpText": "なにが元気出るかな……。この前は、\r\nモンブラン作ってあげたら喜んでたっけ。",
             "enText": "What cheers you up is… The other day, I made \nher a Mont Blanc and she loved it.",
             "nextBlock": 18,
+            "origClipLength": 69,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 4858048526343055708
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2346612951481299419
+                }
+            ],
             "pathId": -4372207404966779427,
             "blockIdx": 17
         },
@@ -209,6 +417,18 @@
             "jpText": "うん、いいかも。そうしよう。\r\nふふ、視点変えてみるのも大事だね。",
             "enText": "Yeah, that sounds good. I'll do that. Hmm, \nit's important to change your point of view.",
             "nextBlock": 19,
+            "origClipLength": 66,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": 2393761281726640133
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 4185602426036040301
+                }
+            ],
             "pathId": -835721352510856127,
             "blockIdx": 18
         },
@@ -218,6 +438,18 @@
             "jpText": "ありがとう。\r\nアロマはまた、次の機会にしようと思う。",
             "enText": "Thank you. I'll try the \naroma again next time.",
             "nextBlock": -1,
+            "origClipLength": 62,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -2260040194041685278
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 4772350850982609950
+                }
+            ],
             "pathId": 3598513658968477484,
             "blockIdx": 19
         },
@@ -227,6 +459,18 @@
             "jpText": "は？　……なにそれ。\r\n覚悟が足りてなかったって言いたいの？",
             "enText": "Huh? … What's that? Are you trying \nto say you weren't prepared?",
             "nextBlock": 21,
+            "origClipLength": 64,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 7739661704588797295
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 2394714103354941353
+                }
+            ],
             "pathId": 1629756369202499350,
             "blockIdx": 20
         },
@@ -236,6 +480,18 @@
             "jpText": "突っ込むか……。大丈夫かな。\r\nさっきは一歩も進めなかったんだけど。",
             "enText": "Shove it or… I hope you're OK. I couldn't \ntake a step forward earlier.",
             "nextBlock": 22,
+            "origClipLength": 67,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 3376594498616425507
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -3471405437841969648
+                }
+            ],
             "pathId": 7197656799958260192,
             "blockIdx": 21
         },
@@ -245,6 +501,22 @@
             "jpText": "……うん、でも、やっぱり諦めたくない。\r\nあの子には元気になってほしいし。",
             "enText": "… Yes, but I still don't want to give up. I \nwant her to get better.",
             "nextBlock": 23,
+            "origClipLength": 69,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 5263375377395024716
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -5188576653932857691
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2000938218728872402
+                }
+            ],
             "pathId": 2149947921076641179,
             "blockIdx": 22
         },
@@ -254,6 +526,22 @@
             "jpText": "ちょっと、人ごみと戦ってくる。\r\nありがとう。",
             "enText": "I'm going to go and fight \nthe crowds. Thank you.",
             "nextBlock": -1,
+            "origClipLength": 60,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5843327999720281685
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6225379075736815590
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 4035664230246174050
+                }
+            ],
             "pathId": 6565800555412892660,
             "blockIdx": 23
         },
@@ -263,6 +551,18 @@
             "jpText": "……頭きた。\r\n行けばいいんでしょ、行けば！",
             "enText": "… I'm mad. You should go, you should go!",
             "nextBlock": 25,
+            "origClipLength": 59,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 4550500978945564559
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -3511535811141347811
+                }
+            ],
             "pathId": -1978496341520483142,
             "blockIdx": 24
         },
@@ -272,6 +572,8 @@
             "jpText": "そう言うと、大繁盛している店へと\r\n歩を進めていった。",
             "enText": "So saying, she walked into a very busy shop.",
             "nextBlock": 26,
+            "origClipLength": 62,
+            "trainerGender": "m",
             "pathId": -1630382599091823138,
             "blockIdx": 25
         },
@@ -281,8 +583,11 @@
             "jpText": "無事アロマを手にし、店から出てきた彼女は、\r\n『マックイーン、喜んでくれるかな』\nと呟き、足早に去っていった。",
             "enText": "She walked out of the shop with the aroma in \nher hand, muttered \"McQueen, I hope you like \nit\" and strode away.",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "trainerGender": "m",
             "pathId": 4211555710861961921,
             "blockIdx": 26
         }
-    ]
+    ],
+    "modified": 1669945968
 }

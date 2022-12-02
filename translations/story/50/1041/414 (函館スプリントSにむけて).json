@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "5WFBXE7JIIQPI2SIUQWGRVITPLVQKB67",
     "type": "story",
     "storyId": "501041414",
@@ -11,6 +11,17 @@
             "jpText": "3つのレースの1つ目、\r\n『函館スプリントS』の当日がやってきた。",
             "enText": "The day of the first of the three races, the\nHakodate Sprint S., has arrived.",
             "nextBlock": 2,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": -1082122074339991247
+                },
+                {
+                    "origLen": 175,
+                    "pathId": -4935459291342400079
+                }
+            ],
             "pathId": -558746145291806306,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "ここから始まる長い戦いに\r\n想いを馳せながら……サクラバクシンオーは、\nレースへと向かっていった！",
             "enText": "Thinking about the long battle that\nwould begin here… Sakura Bakushin O\nheaded off to the race!",
             "nextBlock": -1,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": 1804473902763743498
+                },
+                {
+                    "origLen": 175,
+                    "pathId": 6231076955599359351
+                }
+            ],
             "pathId": -7265600640698407430,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945711
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4QA7IRO5HOASBOG5DGMPAVLIRAQJP7OW",
     "type": "story",
     "storyId": "501006201",
@@ -11,6 +11,17 @@
             "jpText": "ＧⅠか……。\r\n独特の雰囲気があるな。",
             "enText": "GI or… It's got a unique atmosphere.",
             "nextBlock": 2,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -3913796778786645755
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 379365714850401581
+                }
+            ],
             "pathId": -5840982972890910031,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "でも、問題ない。ダートしかなかったが、\r\nマイルは笠松でよく走っていた距離だ。",
             "enText": "But no problem. She had only run on \ndirt, but the mile was the distance \nshe used to run at Kasamatsu.",
             "nextBlock": 3,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 7237671721227614767
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5184220835900962126
+                }
+            ],
             "pathId": 8583569740625132452,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "短い距離は好きだ。\r\n何も気にせず、ただ走れる。",
             "enText": "I like short distances. I don't have to \nworry about anything, I can just run.",
             "nextBlock": 4,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "楽しんでこい！",
@@ -41,6 +64,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 3512184678727333865
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 3356761495161256365
+                }
+            ],
             "pathId": 580071006280019254,
             "blockIdx": 3
         },
@@ -50,8 +83,20 @@
             "jpText": "うん。\r\n行ってくる！",
             "enText": "Yeah. I'm off!",
             "nextBlock": -1,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -5197366572057771315
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -348314040990477279
+                }
+            ],
             "pathId": -5805791722694420899,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669944972
 }

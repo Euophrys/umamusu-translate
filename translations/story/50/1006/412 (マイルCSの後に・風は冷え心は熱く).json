@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "GT6AX4XXXURULZ77LBARP2SFKEY7KTVJ",
     "type": "story",
     "storyId": "501006412",
@@ -11,6 +11,17 @@
             "jpText": "『マイルチャンピオンシップ』で\r\n快挙を上げたオグリキャップ。",
             "enText": "This is the first time I've ever \nwon the Mile Championship.",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -6309013200693568845
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4796932714811832397
+                }
+            ],
             "pathId": -1499727422068273879,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "『有馬記念』の中間発表では、彼女と\r\nスーパークリークの名前が挙がっていた。",
             "enText": "In the mid-term announcement of Arima Kinen, \nher and Super Creek's names were mentioned.",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -1887566726410527016
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7685308692853085286
+                }
+            ],
             "pathId": -1930853188456893416,
             "blockIdx": 2
         },
@@ -29,8 +51,36 @@
             "jpText": "両者は決戦の日に向け、\r\n切磋琢磨することを心に決めたのだった。",
             "enText": "They decided to have a friendly rivalry to \nprepare for the day of the final battle.",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 4912662490652964755
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -2421771953981452047
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 667958523637245426
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 8536961810568288437
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -4063677478357624960
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 1218423330262388207
+                }
+            ],
             "pathId": 3760568497188140008,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944978
 }

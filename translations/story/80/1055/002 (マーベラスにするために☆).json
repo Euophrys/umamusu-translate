@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "E2AFLJE27O2ETSFG5TNZIGUTE4J2RYR2",
     "type": "story",
     "storyId": "801055002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、公園にやってくると――",
             "enText": "One day, you come to the park…",
             "nextBlock": 2,
+            "origClipLength": 64,
             "pathId": -8970296401441201710,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "いつでもどこでもマーベラス☆\r\nアナタもアタシもマーベラス★",
             "enText": "Marvellous Anytime, Anywhere \n☆ You and I are Marvellous",
             "nextBlock": 3,
+            "origClipLength": 84,
             "pathId": 7831318122662645875,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "あっ、マーベラスのお姉ちゃんだ～！\r\nマーベラース！",
             "enText": "Oh, it's my sister from Marvellous! \nMarvellous!",
             "nextBlock": 4,
+            "origClipLength": 78,
             "pathId": -625498133217970570,
             "blockIdx": 3
         },
@@ -38,11 +41,26 @@
             "jpText": "やっほー！　今日も明日もマーベラス☆\r\nあっ、そこのアナタもマーベラース★",
             "enText": "Yoo-hoo! Today and tomorrow are Marvelous☆ \nOh, you too, Marvelous",
             "nextBlock": 5,
+            "origClipLength": 93,
             "choices": [
                 {
                     "jpText": "マーベラスってなんだっけ……？",
                     "enText": "What's Marvelous…?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -1205778348709419168
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 3604041308858745227
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 6600820943943533798
                 }
             ],
             "pathId": -8480598562795516177,
@@ -54,6 +72,21 @@
             "jpText": "えーっ！！\r\nマーベラスはマーベラス☆　だよっ！！",
             "enText": "Huh! Marvelous is Marvelous!",
             "nextBlock": 6,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4896745820125289891
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7106848519999723805
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -5644628680167539062
+                }
+            ],
             "pathId": 5980185180456568692,
             "blockIdx": 5
         },
@@ -63,6 +96,17 @@
             "jpText": "マーベラスサンデーから、\r\nよくわからない説明を受けた……。",
             "enText": "Marvelous Sunday gave me a very \nconfusing explanation…",
             "nextBlock": 7,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": 497168304440388462
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 2490964910862990586
+                }
+            ],
             "pathId": -7502465639058399259,
             "blockIdx": 6
         },
@@ -72,6 +116,7 @@
             "jpText": "まだまだ世界にマーベラスが足りないね～！\r\nどうしたらもっとマーベラスにできるかな？",
             "enText": "There's still not enough Marvellous in the \nworld! How can we make it more Marvelous?",
             "nextBlock": 8,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "自分から全力でぶつかっていくとか……？",
@@ -84,6 +129,16 @@
                     "nextBlock": 12
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 2890565342793219419
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 7361496438096433189
+                }
+            ],
             "pathId": 152189996840754397,
             "blockIdx": 7
         },
@@ -93,6 +148,17 @@
             "jpText": "全力で？　よーし、ギュンギュンッ！\r\nギュルルンッ！　ギュルルルル～ンッ！",
             "enText": "With all your might? Alright, gyurung \ngyurung! Gyuururunn! Gyu-r-runn!",
             "nextBlock": 9,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -2393556681554744276
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -3289319092037372431
+                }
+            ],
             "pathId": 3012072450950544165,
             "blockIdx": 8
         },
@@ -102,6 +168,17 @@
             "jpText": "わぁいわぁ～い！\r\nどんどんギアが上がってきたよ～！",
             "enText": "Woo hoo! It's going up a gear!",
             "nextBlock": 10,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 9469656418409480
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -2364670965370472282
+                }
+            ],
             "pathId": 7550853829029142889,
             "blockIdx": 9
         },
@@ -111,6 +188,17 @@
             "jpText": "みてみて、今ならいっぱい走れちゃう！\r\nあはははっ☆　あははははは～っ★",
             "enText": "Look at me, I can run a lot now! \nHahahaha* Hahahahahaha~!",
             "nextBlock": 11,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -5889280019599944286
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -1822211941880833385
+                }
+            ],
             "pathId": -6192208285116140852,
             "blockIdx": 10
         },
@@ -120,6 +208,7 @@
             "jpText": "何が起きているのかはわからないが、\r\n少しだけ元気になれたような気がする……。",
             "enText": "I don't know what's going on, but \nI feel a little bit better…",
             "nextBlock": -1,
+            "origClipLength": 95,
             "pathId": 8108740060680181751,
             "blockIdx": 11
         },
@@ -129,6 +218,17 @@
             "jpText": "なんでやねーん！　ワイ関西人ちゃうがなー！\r\nそんなん言われても困りますさかい～！",
             "enText": "Why not? I'm not from Kansai! I can't be \nbothered with such things!",
             "nextBlock": 13,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -4340412907596023605
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -5293928068941489433
+                }
+            ],
             "pathId": -5949285408972353022,
             "blockIdx": 12
         },
@@ -138,6 +238,17 @@
             "jpText": "せやけどイカ焼きとたこ焼きやったら、\r\nたこ焼きの方が好きかもしれへんなあ～！",
             "enText": "But if it's squid pancakes and takoyaki, I \nthink I like takoyaki better!",
             "nextBlock": 14,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -4633913439993293340
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 5482263811162010900
+                }
+            ],
             "pathId": -4945044182180590725,
             "blockIdx": 13
         },
@@ -147,6 +258,17 @@
             "jpText": "って言ってたら、\r\nたこ焼き食べたくなってきちゃった！\n今から食べに行こーっと☆　あははは～っ★",
             "enText": "And now I feel like eating takoyaki! I'm \ngoing to go eat them now☆ Hahahaha!",
             "nextBlock": 15,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -1979232431795831482
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -3552718563330134858
+                }
+            ],
             "pathId": -3285703173493134313,
             "blockIdx": 14
         },
@@ -156,8 +278,20 @@
             "jpText": "何が起きているのかはわからないが、\r\n少しだけ元気になれたような気がする……。",
             "enText": "I don't know what's going on, but \nI feel a little bit better…",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 5167100280003001016
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -4327449124289785988
+                }
+            ],
             "pathId": 6248899094662707443,
             "blockIdx": 15
         }
-    ]
+    ],
+    "modified": 1669945967
 }

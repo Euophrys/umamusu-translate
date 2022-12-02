@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "27CKO3E66ZNMBD7MNZO3GUQ6FAGROCNZ",
     "type": "story",
     "storyId": "501040719",
@@ -11,6 +11,17 @@
             "jpText": "ただいま……。\r\nあ～……ダル……。",
             "enText": "I'm… Oh～… Dal…",
             "nextBlock": 2,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -131331488142446418
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3888091259418846895
+                }
+            ],
             "pathId": -4276092692852602232,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "早朝撮影、マジ消えてほしい……。\r\n睡眠足りねーっつーの……。",
             "enText": "Early morning shooting, I really \nwant it to go away… I ain't \ngetting enough sleep…",
             "nextBlock": 3,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 1012115397168257703
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -6000298602337704449
+                }
+            ],
             "pathId": -291812457593444959,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "トレーニングまで……仮眠……。\r\nちゃんと、起きるから、たぶん……。",
             "enText": "Take a… nap… until training. I'll \nbe up, properly, probably…",
             "nextBlock": 4,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 793627635560405349
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3369872345291100390
+                }
+            ],
             "pathId": -5867477920042924112,
             "blockIdx": 3
         },
@@ -38,6 +71,17 @@
             "jpText": "すう……すう……。",
             "enText": "Number… number…",
             "nextBlock": 5,
+            "origClipLength": 125,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 5059367948227891699
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -843301475365929871
+                }
+            ],
             "pathId": 5127543646891327801,
             "blockIdx": 4
         },
@@ -47,6 +91,7 @@
             "jpText": "…………うっさ……。\r\nいいから寝かせろってば……。",
             "enText": "… ugh… Just \nlet me sleep…",
             "nextBlock": 6,
+            "origClipLength": 78,
             "pathId": 889929828703186877,
             "blockIdx": 5
         },
@@ -56,6 +101,7 @@
             "jpText": "すう……すう……。",
             "enText": "Number… number…",
             "nextBlock": 7,
+            "origClipLength": 125,
             "pathId": 2492821249760946951,
             "blockIdx": 6
         },
@@ -65,8 +111,10 @@
             "jpText": "こうしてこの日、ゴールドシチーは\r\nトレーニングをサボってしまったのだった。",
             "enText": "Thus, on this day, Goldschy skipped training.",
             "nextBlock": -1,
+            "origClipLength": 94,
             "pathId": 2919969074615204857,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669945692
 }

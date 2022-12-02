@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PY6HDUIOIUZCSHWUYVYOEVPXSF3BC7VJ",
     "type": "story",
     "storyId": "501032110",
@@ -11,6 +11,7 @@
             "jpText": "アグネスタキオンは見事、\r\nトゥインクル・シリーズで\n結果を残すことができた。",
             "enText": "Agnes Tachyon was able to get a\nresult in the Twinkle Series.",
             "nextBlock": 2,
+            "origClipLength": 70,
             "pathId": -1181720164379448845,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "とても大事な『最初の3年間』を\r\n共に乗り切ることが出来たのだ――",
             "enText": "We were able to get through the very\nimportant \"first three years\" together.",
             "nextBlock": 3,
+            "origClipLength": 66,
             "pathId": -1506346845025886850,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "そんな、大きなひと区切りの余韻に\r\n浸っていたある日のこと。",
             "enText": "One day, I was basking in the afterglow\nof such a big break.",
             "nextBlock": 4,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 197,
+                    "pathId": -4509064214321952179
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 3326463899623613943
+                }
+            ],
             "pathId": 6257510174454108083,
             "blockIdx": 3
         },
@@ -38,6 +51,17 @@
             "jpText": "アグネスタキオンが、心理テストをしたい\r\nと言って、トレーナー室へやってきた。",
             "enText": "Agnes Tachyon came to the trainer's\noffice, saying she wanted to do a\npsychological test.",
             "nextBlock": 5,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -1231445672178596977
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -4086283953965768788
+                }
+            ],
             "pathId": -497171849572959803,
             "blockIdx": 4
         },
@@ -47,6 +71,21 @@
             "jpText": "『裏庭の土の中に、何かが埋まっています。\r\nさて、何が埋まっているでしょう』",
             "enText": "\"There is something buried in the soil in\nthe backyard. Let's see what's buried.",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -2462809615534724089
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 5548071030872632464
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2199407931718390125
+                }
+            ],
             "pathId": -767956184376088198,
             "blockIdx": 5
         },
@@ -56,6 +95,21 @@
             "jpText": "……真意はわからないが、\r\n付き合う以外選択肢はないのだろう。",
             "enText": "I don't know what… they really\nmean, but I guess they have no choice\nbut to go out with me.",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 855446537283128306
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -1994568672477999605
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -3409407210022525008
+                }
+            ],
             "pathId": -5546692602542109053,
             "blockIdx": 6
         },
@@ -65,11 +119,26 @@
             "jpText": "土に埋まっているものと言えば――\r\nと、思いを巡らせる。",
             "enText": "Speaking of things buried in the\nground, I thought about it.",
             "nextBlock": 8,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "……芋？",
                     "enText": "… potatoes?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 1970493213027425048
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -7775335457816006260
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 4138561028615780344
                 }
             ],
             "pathId": 5918231943398133416,
@@ -81,11 +150,26 @@
             "jpText": "……。『それは、あなたが誰かに\r\n暴かれたいと思っているものです』",
             "enText": "… \"It's something you\nwant someone to expose.\"",
             "nextBlock": 9,
+            "origClipLength": 66,
             "choices": [
                 {
                     "jpText": "……芋が？",
                     "enText": "The… potatoes?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5710448046664677936
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 8847403959151880389
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -8778233949414646627
                 }
             ],
             "pathId": -3530284667350180008,
@@ -97,6 +181,7 @@
             "jpText": "そうなのかい？",
             "enText": "Is that so?",
             "nextBlock": 10,
+            "origClipLength": 49,
             "choices": [
                 {
                     "jpText": "……そうだったのか……",
@@ -109,6 +194,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 1558949167512145766
+                },
+                {
+                    "origLen": 137,
+                    "pathId": 4057663981105386812
+                }
+            ],
             "pathId": -8195838545915117430,
             "blockIdx": 9
         },
@@ -118,6 +213,17 @@
             "jpText": "いや、そんなわけないだろう！\r\nまた偽物をつかまされた。\n百発百中というのは誇大広告だな。",
             "enText": "No, of course not! They got me another\nfake. It's all hype, isn't it?",
             "nextBlock": 11,
+            "origClipLength": 74,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 6555349724240643503
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 2993892081443980887
+                }
+            ],
             "pathId": -6768895937759378031,
             "blockIdx": 10
         },
@@ -127,6 +233,7 @@
             "jpText": "それにしても、そもそも\r\nなぜ急に心理テストに目覚めたのか、\n理由が知りたかった。",
             "enText": "Anyway, I wanted to know why she suddenly\nbecame interested in psychological tests\nin the first place.",
             "nextBlock": 12,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "急に心理テストなんて、どうしたんだ？",
@@ -139,6 +246,16 @@
                     "nextBlock": 12
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -2192470242682766377
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -8860890446152188932
+                }
+            ],
             "pathId": -773252105339498042,
             "blockIdx": 11
         },
@@ -148,6 +265,17 @@
             "jpText": "今、社会的動物の根源的な部分について\r\n研究中なのさ。つまり『感情』のね。",
             "enText": "I'm working on the fundamental\naspects of the social animal.\nIn other words, emotions.",
             "nextBlock": 13,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -1924873561420772486
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3063540825938949751
+                }
+            ],
             "pathId": -4456673871533968098,
             "blockIdx": 12
         },
@@ -157,6 +285,17 @@
             "jpText": "同じ様なことを、いつだったか\r\n彼女は言っていたような気がする――",
             "enText": "I think she said something\nlike that to me once.",
             "nextBlock": 14,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 3910630990594702077
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -2783080942439947258
+                }
+            ],
             "pathId": 6611369933812680270,
             "blockIdx": 13
         },
@@ -166,6 +305,17 @@
             "jpText": "実は最近、『熱狂』や『情熱』から\r\n発生するパワーにとても興味があってね。",
             "enText": "I've recently become very interested\nin the power that comes from enthusiasm\nand passion.",
             "nextBlock": 15,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": -654589085315523185
+                },
+                {
+                    "origLen": 206,
+                    "pathId": 8828715130135562867
+                }
+            ],
             "pathId": -2496100452948867695,
             "blockIdx": 14
         },
@@ -175,6 +325,17 @@
             "jpText": "思い出してみれば、彼女はずいぶん前から、\r\n『感情』について興味を示していた。",
             "enText": "Come to think of it, she had been curious\nabout feelings for quite some time.",
             "nextBlock": 16,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 743250935013224494
+                },
+                {
+                    "origLen": 218,
+                    "pathId": -4899931859643688060
+                }
+            ],
             "pathId": 5396799384241554633,
             "blockIdx": 15
         },
@@ -184,6 +345,7 @@
             "jpText": "一時的なものかと思っていたが、\r\nどうやらそういうわけでもないらしい。",
             "enText": "I thought it was just temporary,\nbut apparently it's not.",
             "nextBlock": 17,
+            "origClipLength": 67,
             "choices": [
                 {
                     "jpText": "どうしてそんなに興味があるんだ？",
@@ -196,6 +358,16 @@
                     "nextBlock": 17
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -3694466852988377281
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 545852256458019759
+                }
+            ],
             "pathId": 7272612279141733489,
             "blockIdx": 16
         },
@@ -205,6 +377,17 @@
             "jpText": "……とんでもないパンチを食らったのさ。\r\n『有馬記念』の、客席にね。",
             "enText": "… I took a hell of a punch.\nI've been punched in the face by\nthe audience of Arima Kinen.",
             "nextBlock": 18,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -4635178743058604398
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -8307499311699399234
+                }
+            ],
             "pathId": -1361078582452131611,
             "blockIdx": 17
         },
@@ -214,6 +397,29 @@
             "jpText": "あの日、1着でゴールした後……\r\n爆発のような歓声に包まれた。",
             "enText": "That day, after finishing in first\nplace,… I was surrounded by\ncheers like an explosion.",
             "nextBlock": 19,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 8783834258162802449
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 390374257386544801
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -6775125498345669580
+                },
+                {
+                    "origLen": 168,
+                    "pathId": 4518051067499073412
+                },
+                {
+                    "origLen": 143,
+                    "pathId": 7571332412123702054
+                }
+            ],
             "pathId": 6117160670465040915,
             "blockIdx": 18
         },
@@ -223,6 +429,21 @@
             "jpText": "肌がしびれるような、心の奥が震えるような\r\n圧倒的なパワーだ。呆然としたよ。",
             "enText": "It's an overwhelming power that\nmakes my skin go numb and my heart\ntremble. I was stunned.",
             "nextBlock": 20,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -3400857127518075313
+                },
+                {
+                    "origLen": 168,
+                    "pathId": 8592307603342873267
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -2075408884025769178
+                }
+            ],
             "pathId": 3567776253500750943,
             "blockIdx": 19
         },
@@ -232,6 +453,21 @@
             "jpText": "そのとき、ふと、\r\n1つの可能性が頭をよぎってね――",
             "enText": "And then one possibility occurred to me.",
             "nextBlock": 21,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 2837955687575733725
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7559907995126330084
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -5159518360860971933
+                }
+            ],
             "pathId": -1392074473260386031,
             "blockIdx": 20
         },
@@ -241,6 +477,21 @@
             "jpText": "――今、結果を出せたこと。\r\nいや、そもそもクラシックの先に、\n自らの脚でたどり着けたこと。",
             "enText": "—Now that I've done it. No, it's that I\nwas able to get to the Classic on my own.",
             "nextBlock": 22,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": 4092839502406607513
+                },
+                {
+                    "origLen": 11,
+                    "pathId": -3136014446986006070
+                },
+                {
+                    "origLen": 11,
+                    "pathId": -2742271555042243426
+                }
+            ],
             "pathId": 1168481173748176557,
             "blockIdx": 21
         },
@@ -250,6 +501,7 @@
             "jpText": "それらは全て、『感情』の後押しがあっての\r\nものだったんじゃないか。",
             "enText": "All of this was driven by\nemotions, wasn't it?",
             "nextBlock": 23,
+            "origClipLength": 67,
             "pathId": -8475096481498816339,
             "blockIdx": 22
         },
@@ -259,6 +511,17 @@
             "jpText": "私は『感情』というものの本当の力を、\r\nわかっていなかったんじゃないか、と。",
             "enText": "I wondered if I hadn't understood\nthe true power of emotions.",
             "nextBlock": 24,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 3214996904962095246
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 1201260571623285925
+                }
+            ],
             "pathId": -1622834583012446458,
             "blockIdx": 23
         },
@@ -268,6 +531,17 @@
             "jpText": "……元々『感情』による内外の干渉効果が\r\n筋肉運動に有意に働くことは知っていた。",
             "enText": "… originally knew that the internal\nand external interference effects\nof \"emotions\" can significantly affect\nmuscle movement.",
             "nextBlock": 25,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 4172342254910400074
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 7630966401297603651
+                }
+            ],
             "pathId": -7385816509130760948,
             "blockIdx": 24
         },
@@ -277,6 +551,17 @@
             "jpText": "しかし想定よりその効果は大きかった。\r\n可能性を目の当たりにして興奮したよ！",
             "enText": "But the effect was greater than expected.\nI was so excited to see the possibilities!",
             "nextBlock": 26,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 8633846713299475549
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3821679982876863923
+                }
+            ],
             "pathId": 8752822526707902984,
             "blockIdx": 25
         },
@@ -286,6 +571,17 @@
             "jpText": "さらなる限界へ到達するための、\r\n今後の研究のカギになるのは間違いない、と！",
             "enText": "It's definitely the key to future research\nto reach further limits!",
             "nextBlock": 27,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -4929774157642428183
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3573620424506464621
+                }
+            ],
             "pathId": 8957647264172978717,
             "blockIdx": 26
         },
@@ -295,6 +591,17 @@
             "jpText": "そういうわけで、広く文献を参考に\r\n研究を重ねているわけさ。",
             "enText": "That's why I'm doing a lot of research,\nreferring to a wide range of literature.",
             "nextBlock": 28,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -6947313111347195176
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -4677290267097025981
+                }
+            ],
             "pathId": -2504766804390557054,
             "blockIdx": 27
         },
@@ -304,6 +611,17 @@
             "jpText": "そう言うとアグネスタキオンは、\r\n目を細めてこちらを見た。",
             "enText": "When I said that, Agnes Tachyon looked at\nme with narrowed eyes.",
             "nextBlock": 29,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -6968619765041482354
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2688483281302662035
+                }
+            ],
             "pathId": 620021055230702366,
             "blockIdx": 28
         },
@@ -313,6 +631,17 @@
             "jpText": "うちには非常に情動に左右されやすい\r\nモルモットがいて、丁度いいしね。",
             "enText": "We have a very emotional guinea\npig, and it's just perfect.",
             "nextBlock": 30,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -8874158264415688058
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7056625280316954240
+                }
+            ],
             "pathId": -251484868889286022,
             "blockIdx": 29
         },
@@ -322,6 +651,17 @@
             "jpText": "この3年間、君の『感情』のおかげで随分――",
             "enText": "For the past three years, your \"feelings\"\nhave helped me a lot.",
             "nextBlock": 31,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 7174584524454979767
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -6356700218639875089
+                }
+            ],
             "pathId": -4598985575599093087,
             "blockIdx": 30
         },
@@ -331,11 +671,22 @@
             "jpText": "と、そこまで言いかけて、彼女は口を閉じた。",
             "enText": "She was about to say that much, but then\nshe closed her mouth.",
             "nextBlock": 32,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "……え？",
                     "enText": "… What?",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -8698115002399345139
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -5386597917002710290
                 }
             ],
             "pathId": 3992018484039410508,
@@ -347,11 +698,22 @@
             "jpText": "いや、この話はその……関係ない。\r\n控えさせてもらおう。",
             "enText": "No, this story is not related\nto that… I'll refrain\nfrom talking about it.",
             "nextBlock": 33,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "気になる……！",
                     "enText": "I'm curious:…!",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 5166977143418602266
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3710732950864355787
                 }
             ],
             "pathId": 1566356521556106704,
@@ -363,6 +725,17 @@
             "jpText": "うるさい、気にするな。",
             "enText": "Shut up, don't worry about it.",
             "nextBlock": 34,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -5664948695541103219
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -1596335460030438712
+                }
+            ],
             "pathId": -315909341255276881,
             "blockIdx": 33
         },
@@ -372,6 +745,17 @@
             "jpText": "まぁとにかく、君はトレーナーなのだから、\r\nモルモットとしての仕事を全うしたまえ！",
             "enText": "Well, anyway, you're the trainer, so do\nyour job as guinea pig!",
             "nextBlock": 35,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 2244238813512671161
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -2845624407712627747
+                }
+            ],
             "pathId": -2582945393712729005,
             "blockIdx": 34
         },
@@ -381,6 +765,17 @@
             "jpText": "その後、日が暮れるまで\r\n心理テストに付き合わされることとなった。",
             "enText": "After that, I had to stay with the\npsychological test until nightfall.",
             "nextBlock": 36,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": -1018406498563575128
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 1063171666175687670
+                }
+            ],
             "pathId": 7694283821921454142,
             "blockIdx": 35
         },
@@ -390,8 +785,10 @@
             "jpText": "――何はともあれ、こうして\r\nアグネスタキオンと共に歩む日々が、\n再び始まったのだった。",
             "enText": "—At any rate, this is how my days with\nAgnes Tachyon began again.",
             "nextBlock": -1,
+            "origClipLength": 73,
             "pathId": 8138623353536526535,
             "blockIdx": 36
         }
-    ]
+    ],
+    "modified": 1669945570
 }

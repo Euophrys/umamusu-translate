@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "Y6Y6EWKNMR3ALTTA2QXR65ZLGB6EXPTY",
     "type": "story",
     "storyId": "830026003",
@@ -11,6 +11,7 @@
             "jpText": "ツインターボの暴走により中断した\r\nけいどろ大会が、日を改めて再開された。",
             "enText": "The Kedoro Tournament, which had been \nsuspended due to Twin Turbo's outburst, was \nresumed on a new day.",
             "nextBlock": 2,
+            "origClipLength": 93,
             "pathId": 9118495952630621576,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "青空の下、両チームともに\r\n白熱した展開を繰り広げていた……！",
             "enText": "Under the blue skies, both teams \nwere in the thick of things…!",
             "nextBlock": 3,
+            "origClipLength": 85,
             "pathId": -5277830405924467049,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "はぁはぁ……。\r\nへへ、また逃げ切った、ぞ！",
             "enText": "Hahahaha… Heh, I got away \nwith it again, dude!",
             "nextBlock": 4,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6767368546883160055
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 232665392177674100
+                }
+            ],
             "pathId": -4984472043934031267,
             "blockIdx": 3
         },
@@ -38,6 +51,7 @@
             "jpText": "ふーん！　このくらいならまだよゆーよゆー！\r\nターボ、最後まで逃げ切る！",
             "enText": "Hmmm! This much is still all right, all \nright! Turbo, I'm gonna get you to the end!",
             "nextBlock": 5,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "そろそろゲーム終了時刻だ",
@@ -50,6 +64,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -2203844441026416669
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -8655759914405231283
+                }
+            ],
             "pathId": -1429345908897696236,
             "blockIdx": 4
         },
@@ -59,6 +83,17 @@
             "jpText": "えー？　まだまだいけるのにー？\r\nターボ、このまま勝っちゃうな――",
             "enText": "What? We're not even close. Turbo, \nwe're gonna win this thing.",
             "nextBlock": 6,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -1326319424061439185
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2317377553052277482
+                }
+            ],
             "pathId": 4660889517030616847,
             "blockIdx": 5
         },
@@ -68,6 +103,21 @@
             "jpText": "ターボさん、逃げて！\r\n警察チームが……！",
             "enText": "Ms. Turbo, run! A police team is…!",
             "nextBlock": 7,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 8187461063268151187
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -6062782773587716468
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 1635301300365935576
+                }
+            ],
             "pathId": -4702272364605533065,
             "blockIdx": 6
         },
@@ -77,6 +127,21 @@
             "jpText": "へ？　うおっ！？\r\nうしろから来た！！",
             "enText": "Huh? Whoa! It's coming from behind us!",
             "nextBlock": 8,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 2721890745552863989
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 6277197930972003104
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -510946694701456635
+                }
+            ],
             "pathId": 3114551095707695882,
             "blockIdx": 7
         },
@@ -86,6 +151,29 @@
             "jpText": "皆さん、今です。\r\nこのまま2人を包囲しましょう！",
             "enText": "Ladies and gentlemen, now is the \ntime. Let's keep this thing going \nand surround the two of them!",
             "nextBlock": 9,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 4640461342130838234
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 2213436847020560448
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -3281961490901901894
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 2636810467785460731
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 8667609143726356795
+                }
+            ],
             "pathId": -3890814991975834877,
             "blockIdx": 8
         },
@@ -95,6 +183,21 @@
             "jpText": "時間的に最後のチャンス……。\r\nこの2人を捕まえれば、我々の勝利です！",
             "enText": "Last chance in time… If we \ncatch these two, we win!",
             "nextBlock": 10,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -4247298957047618102
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -3264904748453250892
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1311017410974107507
+                }
+            ],
             "pathId": -6515380251290976550,
             "blockIdx": 9
         },
@@ -104,6 +207,21 @@
             "jpText": "はーいっ！\r\nかかれー！！",
             "enText": "Yes! Let's go!",
             "nextBlock": 11,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 5082869769548613408
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2735505206782223952
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 4515232603106538682
+                }
+            ],
             "pathId": 4085003901675252094,
             "blockIdx": 10
         },
@@ -113,6 +231,29 @@
             "jpText": "おわわっ！　前からも来たー！\r\nよーし、燃えてきたぁー！！",
             "enText": "Whoa! It's coming from the front! \nAll right, I'm on fire!",
             "nextBlock": 12,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -4786959559870499139
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -8583021423320735687
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 6052858747331218691
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 4440724562146379796
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 3374621182633624974
+                }
+            ],
             "pathId": -2531480283907968832,
             "blockIdx": 11
         },
@@ -122,6 +263,21 @@
             "jpText": "おい、子分！\r\nオマエも逃げ――",
             "enText": "Hey, henchman! You run, too—",
             "nextBlock": 13,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -8978948908204917249
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -4719566237461632238
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 5541633348968419096
+                }
+            ],
             "pathId": -4938683412538223522,
             "blockIdx": 12
         },
@@ -131,6 +287,21 @@
             "jpText": "きゃっ！\r\nいっ、たぁい……！",
             "enText": "Aah! I want to go to…!",
             "nextBlock": 14,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 4706930143583512165
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 8282115362138339607
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -9211959373581941974
+                }
+            ],
             "pathId": -5486795312426860514,
             "blockIdx": 13
         },
@@ -140,6 +311,21 @@
             "jpText": "こっ、こぶぅーーん！！\r\n大丈夫か！？",
             "enText": "Oh, my gosh! Are you okay?",
             "nextBlock": 15,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 3852582793743747017
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -7778718754362560788
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1522603633531732888
+                }
+            ],
             "pathId": -495855168293141965,
             "blockIdx": 14
         },
@@ -149,6 +335,17 @@
             "jpText": "き、来ちゃダメ！\r\n私にかまわず逃げて、ターボさん！　勝って！",
             "enText": "No, don't come here! Leave me \nalone, Ms. Turbo! You win!",
             "nextBlock": 16,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -7184324218282487088
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -2447035316225431454
+                }
+            ],
             "pathId": 7069264715715950308,
             "blockIdx": 15
         },
@@ -158,6 +355,17 @@
             "jpText": "…………！\r\nわかった、ターボぜったい逃げ切る。勝つ！！",
             "enText": "…! All right, Turbo, I'm gonna get \naway with this. I'm gonna win!",
             "nextBlock": 17,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -7557597353498616257
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 6341427627392178157
+                }
+            ],
             "pathId": 6228154211411378933,
             "blockIdx": 16
         },
@@ -167,6 +375,17 @@
             "jpText": "ここは木と池に挟まれた、\r\n逃げ場のない一本道……必ず捕まえますよ！",
             "enText": "This is a straight path between a \ntree and a pond, with no way out. \n… I'll get you, I promise!",
             "nextBlock": 18,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -1873939623041101599
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 8872861172772728442
+                }
+            ],
             "pathId": 6691595942248315140,
             "blockIdx": 17
         },
@@ -176,6 +395,17 @@
             "jpText": "ターボは逃げる！　みんなの分も、逃げる！！",
             "enText": "Turbo's on the run! I'm gonna \nget us all out of here!",
             "nextBlock": 19,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -7168068882049307467
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -851834781816079061
+                }
+            ],
             "pathId": -8778022606262458419,
             "blockIdx": 18
         },
@@ -185,6 +415,17 @@
             "jpText": "ターボ全開！\r\n火をふくぞぉぉぉぉ！！！",
             "enText": "Turbo full throttle! Let's get some fire!",
             "nextBlock": 20,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -6568706292723422494
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 4829655651141460799
+                }
+            ],
             "pathId": -4268066572227162005,
             "blockIdx": 19
         },
@@ -194,6 +435,7 @@
             "jpText": "ダッシュで追っ手を振り切った……！\r\nさっすがツインターボ！",
             "enText": "Dashing past her pursuers…! \nThat's Twin Turbo!",
             "nextBlock": 21,
+            "origClipLength": 84,
             "pathId": -6145642807216964129,
             "blockIdx": 20
         },
@@ -203,6 +445,17 @@
             "jpText": "ひぃ、はひっ……。\r\nま、まだまだぁ……走れ、るぅぅ！",
             "enText": "Hee, hee… You can still… run!",
             "nextBlock": 22,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -8464348788020616369
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8151826757834970162
+                }
+            ],
             "pathId": 1008601866982091243,
             "blockIdx": 21
         },
@@ -212,6 +465,21 @@
             "jpText": "体力が切れてきたみたいですね……\r\n今なら！",
             "enText": "I think I'm running out of energy… Now!",
             "nextBlock": 23,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 4750820311575281662
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -5663361947804120494
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 3311459213015216306
+                }
+            ],
             "pathId": -4769118688658094577,
             "blockIdx": 22
         },
@@ -221,6 +489,7 @@
             "jpText": "やだぁぁ！\r\n追いつかせないぃ！！",
             "enText": "No! No! I can't let you catch up!",
             "nextBlock": 24,
+            "origClipLength": 74,
             "choices": [
                 {
                     "jpText": "ターボエンジン全開だ！",
@@ -233,6 +502,20 @@
                     "nextBlock": 39
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -7125102662449075943
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -7020115180691540847
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4730285069013798208
+                }
+            ],
             "pathId": -1978069579854026709,
             "blockIdx": 23
         },
@@ -242,6 +525,17 @@
             "jpText": "くぅぅぅ！\r\nもっと！　ターボ全開っ！　だぁぁああ！！",
             "enText": "Oh, God! More! Go full turbo! Yeah!",
             "nextBlock": 25,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 5918154019348685844
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -1671427696594912160
+                }
+            ],
             "pathId": -3865388078553949825,
             "blockIdx": 24
         },
@@ -251,6 +545,17 @@
             "jpText": "ああああ、いけぇぇ！\r\nツインターボ、逃げ切れぇぇ！",
             "enText": "Ahhh, come on! Twin Turbo, get out of there!",
             "nextBlock": 26,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -2717693397743800631
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -357941021790224700
+                }
+            ],
             "pathId": 2715159951058517665,
             "blockIdx": 25
         },
@@ -260,6 +565,21 @@
             "jpText": "させっ……ません！\r\nはぁぁぁぁああ！！",
             "enText": "Let me… not! Haaaaaaah!",
             "nextBlock": 27,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 3955712412008076258
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6205550769734178804
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -1708973025428156091
+                }
+            ],
             "pathId": -3584309747974599661,
             "blockIdx": 26
         },
@@ -269,6 +589,21 @@
             "jpText": "イクノディクタス！　追いつける！\r\nいけるよぉーー！！",
             "enText": "Ichnodictus! I can catch up! I can do it!",
             "nextBlock": 28,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -2403752856919796816
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 5638311548121687021
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 5823990054841387616
+                }
+            ],
             "pathId": 798102449562918559,
             "blockIdx": 27
         },
@@ -278,6 +613,7 @@
             "jpText": "ターボさん、がんばってぇー！",
             "enText": "Good luck, Turbo!",
             "nextBlock": 29,
+            "origClipLength": 63,
             "pathId": 6902293102908421074,
             "blockIdx": 28
         },
@@ -287,6 +623,8 @@
             "jpText": "轟く足音、盛り上がる観衆。\r\nそして――",
             "enText": "The roaring footsteps, the \nexcited crowd. And then—",
             "nextBlock": 30,
+            "origClipLength": 71,
+            "trainerGender": "f",
             "pathId": -3784406461854543352,
             "blockIdx": 29
         },
@@ -296,6 +634,18 @@
             "jpText": "大会終了。僅差で勝利を掴んだのは、\r\n泥棒チームだった！",
             "enText": "The tournament is over. It was the thieving \nteam that won by the narrowest of margins!",
             "nextBlock": 31,
+            "origClipLength": 81,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -3869085274015016610
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -5104423439407322968
+                }
+            ],
             "pathId": -6324782587592098526,
             "blockIdx": 30
         },
@@ -305,6 +655,7 @@
             "jpText": "いしし！　ほら、勝ったぞー！\r\n泥棒チームでよかったでしょ？",
             "enText": "Hush! Look, we won! Aren't you \nglad we're a team of thieves?",
             "nextBlock": 32,
+            "origClipLength": 84,
             "choices": [
                 {
                     "jpText": "見回りだけどな！",
@@ -317,6 +668,16 @@
                     "nextBlock": 32
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -2871014741653600464
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -9063311741031361602
+                }
+            ],
             "pathId": 571304530439075119,
             "blockIdx": 31
         },
@@ -326,6 +687,17 @@
             "jpText": "細かいこと気にすんなー！\r\nオマエの作戦、だいせーこー！！",
             "enText": "Don't worry about the details! \nYour plan, big boy!",
             "nextBlock": 33,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -9151933071406572272
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 6966420167557365331
+                }
+            ],
             "pathId": -8239839725203194343,
             "blockIdx": 32
         },
@@ -335,6 +707,17 @@
             "jpText": "得意の戦法で勝利を掴んだツインターボは、\r\n満面の笑みで胸を張るのであった。",
             "enText": "With a big smile on her face, Twin \nTurbo was proud of her victory.",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -2816720477074388161
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -7261194563707114783
+                }
+            ],
             "pathId": 777908191839914781,
             "blockIdx": 33
         },
@@ -344,6 +727,34 @@
             "jpText": "うわぁぁん、くやしぃ～！\r\n捕まったぁ！　イクノに捕まったぁ！！",
             "enText": "Oh, God, I'm so sick! I'm \ntrapped! Ikuno got me!",
             "nextBlock": 35,
+            "origClipLength": 100,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 223,
+                    "pathId": 7176875735807491622
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -6955774302983871733
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 7553971638120922613
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1779695915060760912
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -5407392361008923892
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 7068023589124917167
+                }
+            ],
             "pathId": 1419480867522171061,
             "blockIdx": 34
         },
@@ -353,6 +764,29 @@
             "jpText": "いいえ、私というより、警察チームの\r\n皆さんのチームワークに捕まったのです。",
             "enText": "No, it wasn't me, it was the teamwork of the \npolice team that caught me.",
             "nextBlock": 36,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3421702103264685759
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -7083540104489255454
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 7006628170394851102
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -3278627095066084577
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -7669376589364489491
+                }
+            ],
             "pathId": 7428786033835117584,
             "blockIdx": 35
         },
@@ -362,6 +796,33 @@
             "jpText": "いえーいっ！\r\nイクノさん、かっこいいー！！",
             "enText": "Yeah! Ikuno, you're so cool!",
             "nextBlock": 37,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 8312291190675140189
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 2129719646196607283
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 2138739890742937715
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 2319431416579744327
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6341393181015700924
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -2603993165308645875
+                }
+            ],
             "pathId": 6131484931724397021,
             "blockIdx": 36
         },
@@ -371,11 +832,38 @@
             "jpText": "いやー、でもすごい走りだった！\r\nナイスファイト、ツインターボ！",
             "enText": "No, but it was a hell of a ride! \nNice fight, Twin Turbo!",
             "nextBlock": 38,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "今度はきっといける！",
                     "enText": "It'll work this time!",
                     "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -3416795277121069297
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1288069514835223383
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 4152212931637791879
+                },
+                {
+                    "origLen": 11,
+                    "pathId": 626814582616015570
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -4765425809386748009
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 3818983136844337050
                 }
             ],
             "pathId": -1047795482505374494,
@@ -387,6 +875,29 @@
             "jpText": "ううう、次は！\r\n次こそは逃げ切るもーん！！",
             "enText": "Ugh, next time! Next time, I'll get away!",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4187771386801382229
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -4466040078508247054
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -2748828793953545096
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 8608295257458663600
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3730136666192147492
+                }
+            ],
             "pathId": 5456092083306054507,
             "blockIdx": 38
         },
@@ -396,11 +907,26 @@
             "jpText": "ひっ、ひっ、すっ、すぅ！\r\nひっ、ひっ、すっ、すぅ！",
             "enText": "Ow, ow, ow, ow, ow, ow! Ow, ow, ow, ow, ow!",
             "nextBlock": 40,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "それ全部吸ってるよ！？",
                     "enText": "You're smoking all that!",
                     "nextBlock": 40
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -957044672575760221
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 4093660730954985603
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 2979295321429895511
                 }
             ],
             "pathId": 489079532086580383,
@@ -412,6 +938,21 @@
             "jpText": "もっ、カンケーない……。\r\n最後まで、ぜんりょく、でぇ……\nはし、れればぁ……！",
             "enText": "It's all right… I'm sure you'll be able to \nfind something that works for you.",
             "nextBlock": 41,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 1810105804911311616
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 6167592578573166276
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -874272642441431773
+                }
+            ],
             "pathId": -1297867790221008953,
             "blockIdx": 40
         },
@@ -421,6 +962,17 @@
             "jpText": "……捉えた！",
             "enText": "… captured!",
             "nextBlock": 42,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -6082150303141243585
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 1318586167724585154
+                }
+            ],
             "pathId": 931403895120459569,
             "blockIdx": 41
         },
@@ -430,6 +982,7 @@
             "jpText": "あきらめない、あきっ、らめなぁい……！！\r\nぅぁあああああ！！！！",
             "enText": "Never give up, never give up, never give up, \nnever give up…! Aaaaahhhh ！！！！",
             "nextBlock": 43,
+            "origClipLength": 88,
             "pathId": -4869628073428910612,
             "blockIdx": 42
         },
@@ -439,6 +992,7 @@
             "jpText": "（ピピーッ！）",
             "enText": "(Bleep! )",
             "nextBlock": 44,
+            "origClipLength": 54,
             "pathId": -1714905587535699601,
             "blockIdx": 43
         },
@@ -448,6 +1002,25 @@
             "jpText": "ゲーム終了の笛が鳴った。\r\n一騎打ちの結末は……！",
             "enText": "The whistle blew to end the game. The end of \nthe one-on-one battle…!",
             "nextBlock": 45,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 6469239953311240589
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2558299107429370368
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6865384495220806115
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 420292765547080491
+                }
+            ],
             "pathId": 4368488975508211958,
             "blockIdx": 44
         },
@@ -457,6 +1030,25 @@
             "jpText": "……っしゃー！！\r\n勝っ、た！　ターボ、逃げ切っ……たぁ……！",
             "enText": "… Sha! We won! Turbo, you got away…!",
             "nextBlock": 46,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -9098143739496805697
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -1669780215230674630
+                },
+                {
+                    "origLen": 141,
+                    "pathId": 5634211668980139929
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 8527858589682872201
+                }
+            ],
             "pathId": -5769111211910757592,
             "blockIdx": 45
         },
@@ -466,6 +1058,25 @@
             "jpText": "え、へへ……見たか……！\r\nターボは強い、んだぞ……！",
             "enText": "Heh, heh… Did you see…! Turbo \nis strong, you know…!",
             "nextBlock": 47,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -1000323775456303116
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2407451709753399025
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -8900600940914568247
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -3008407198164660427
+                }
+            ],
             "pathId": 2546253175151876140,
             "blockIdx": 46
         },
@@ -475,6 +1086,25 @@
             "jpText": "あと一歩、及ばずでしたか……。\r\n悔しいですが、お見事です。",
             "enText": "You were one step short of… It's \na shame, but well done.",
             "nextBlock": 48,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -8409039349106249122
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2217908938057267412
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 1307092495677901746
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 8794888836707448542
+                }
+            ],
             "pathId": 3925404162009418466,
             "blockIdx": 47
         },
@@ -484,6 +1114,25 @@
             "jpText": "いつでもまた、勝負、しよ……！\r\nターボ、楽しみにしてるっ！",
             "enText": "Let's play again anytime…! Turbo, I'm \nlooking forward to it!",
             "nextBlock": 49,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -1968804143482418777
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 3528915100932022063
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -3307993664533681067
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5192558384042869318
+                }
+            ],
             "pathId": -6758877788329773922,
             "blockIdx": 48
         },
@@ -493,8 +1142,32 @@
             "jpText": "互いの健闘を称えあう2人の姿は、\r\n多くの人の拍手に包まれたのであった。",
             "enText": "Their mutual praise for each other's \nperformance was met with applause \nfrom many people.",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 606824230726767207
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -5887245615197297533
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 968959873353949207
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -3351945980030654822
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8119111325180517316
+                }
+            ],
             "pathId": 794715410118101229,
             "blockIdx": 49
         }
-    ]
+    ],
+    "modified": 1669946031
 }

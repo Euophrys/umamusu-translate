@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7EOVOIHZTKJUVAFNSTMUIYPZSAMGUINM",
     "type": "story",
     "storyId": "501008601",
@@ -11,6 +11,17 @@
             "jpText": "トレーナー……前のレースは負けて、\r\nダセぇ姿を見せちまったけどよ。",
             "enText": "The trainer… lost the last race, \nand I showed my ugly face.",
             "nextBlock": 2,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 6710955886690247456
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 722893651981418503
+                }
+            ],
             "pathId": 4345716510479081188,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "負けっぱなしなんてのは、\r\n俺が求めるカッコよさとは無縁だ！",
             "enText": "Losing all the time is not the \nkind of cool I'm looking for!",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -4855544877656230126
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -3136857023640645304
+                }
+            ],
             "pathId": 5802330672282315139,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "今回こそ、絶対に1着を取ってみせる！\r\n誰も追いつけねぇスピードでぶっちぎってな！",
             "enText": "This time, I'm going to take first place for \nsure! I'm going to beat you with a speed that \nno one else can match!",
             "nextBlock": 4,
+            "origClipLength": 98,
             "choices": [
                 {
                     "jpText": "ああ、ウオッカなら勝てる！",
@@ -41,6 +64,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -6684180350756151328
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1142279658533961183
+                }
+            ],
             "pathId": 5489085671163028885,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "おう！\r\nサンキュー、トレーナー！",
             "enText": "Ooh! Thank you, trainer!",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 259903946072542492
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7079354970447367239
+                }
+            ],
             "pathId": -7886888679042324762,
             "blockIdx": 4
         },
@@ -59,8 +103,20 @@
             "jpText": "目ん玉かっぴらいて、よ～く見とけ！\r\nこの俺の……最高にイカした走りをッ！！",
             "enText": "Keep your eyes peeled and watch! Watch me \ndrive the coolest… ever!",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -3430636862834998227
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 4661592298870031098
+                }
+            ],
             "pathId": -4064466725230757487,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945046
 }

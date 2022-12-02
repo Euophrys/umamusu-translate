@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "WDTCIZ4CJOHVAZFKWBMM3MZVTELREIHV",
     "type": "story",
     "storyId": "501041205",
@@ -11,6 +11,17 @@
             "jpText": "とうとうやって参りました……。\r\nこの日が！！！！",
             "enText": "It's finally here…\nThis is the day ！！！！",
             "nextBlock": 2,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -4887930825471363396
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5722052005572289387
+                }
+            ],
             "pathId": 4825324088414499858,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "それは長い長い……いえ、違いますね。\r\n短い短い道のりでした。短距離なので。",
             "enText": "That's a long, long… no, it's\nnot. It was a short, short journey.\nIt's a short distance.",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 2401359397004932713
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4914641445219273072
+                }
+            ],
             "pathId": 3160671062579024861,
             "blockIdx": 2
         },
@@ -29,6 +51,17 @@
             "jpText": "けれどいよいよッ！\r\nフィニッシュです！",
             "enText": "But now it's time! The finish line!",
             "nextBlock": 4,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 8841690771686941966
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 2901845905117124293
+                }
+            ],
             "pathId": 4028512273663061136,
             "blockIdx": 3
         },
@@ -38,6 +71,17 @@
             "jpText": "フラワーさんと再び相まみえる\r\n今日、この『高松宮記念』で！",
             "enText": "Today, in this \"Takamatsu-no-miya Kinen\",\nI'll face Flower again!",
             "nextBlock": 5,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -544741402615267988
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -812945772385698673
+                }
+            ],
             "pathId": -2775685981737372469,
             "blockIdx": 4
         },
@@ -47,11 +91,22 @@
             "jpText": "大差勝ち、それすなわち\r\n目指すべきは1000バ身差！",
             "enText": "A win by a landslide, which means we should\nbe aiming for a thousand lengths!",
             "nextBlock": 6,
+            "origClipLength": 62,
             "choices": [
                 {
                     "jpText": "1000！？",
                     "enText": "A thousand!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 1275323036210829770
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 4716443704503591440
                 }
             ],
             "pathId": 6955057787392455828,
@@ -63,6 +118,17 @@
             "jpText": "そのアットー的な勝利をもって――",
             "enText": "With that attritional victory—",
             "nextBlock": 7,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": 2071519333790692941
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 3780662128471557489
+                }
+            ],
             "pathId": -6125344943349414467,
             "blockIdx": 6
         },
@@ -72,6 +138,17 @@
             "jpText": "いよいよ『天皇賞』そして『有馬記念』へと\r\nバクシン開始ですッ！！",
             "enText": "Now it's time to start bakusinesslike for\nthe Tennou-sho and Arima Kinen!",
             "nextBlock": 8,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 7103955020556052778
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1874251128110314841
+                }
+            ],
             "pathId": 612607223880966854,
             "blockIdx": 7
         },
@@ -81,6 +158,17 @@
             "jpText": "というわけで、これからは\r\n短距離以外のレースにも出られますよね！",
             "enText": "So, from now on, I'll be able to compete in\nraces other than short distance ones!",
             "nextBlock": 9,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -1378883428168266219
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -218076953453067240
+                }
+            ],
             "pathId": -3759740062099811075,
             "blockIdx": 8
         },
@@ -90,6 +178,7 @@
             "jpText": "ですよね、\r\nトレーナーさんッ！？",
             "enText": "Isn't that right, trainer?",
             "nextBlock": 10,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "…………ああ",
@@ -102,6 +191,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -2393490928822470873
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 3753567067034601542
+                }
+            ],
             "pathId": 5632840989563913892,
             "blockIdx": 9
         },
@@ -111,6 +210,7 @@
             "jpText": "もう1度！！\r\n出られますよねッ！？",
             "enText": "One more time! You can get out, can't you?",
             "nextBlock": 11,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "ああ！",
@@ -123,6 +223,16 @@
                     "nextBlock": 11
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 4066257415180293522
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -5111976623138347921
+                }
+            ],
             "pathId": -750356372920506566,
             "blockIdx": 10
         },
@@ -132,6 +242,17 @@
             "jpText": "ゲンチ、とりましたからーー！\r\nでは行って参ります！",
             "enText": "Genchi, I've got it! Then I'll be going!",
             "nextBlock": 12,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -8723614166899184404
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 7853490619991603743
+                }
+            ],
             "pathId": 4823805496334128208,
             "blockIdx": 11
         },
@@ -141,6 +262,25 @@
             "jpText": "あ、バクシンオーさんっ。\r\nまたご一緒できて――",
             "enText": "Oh, Ms. Bakushin-o! It's so\ngood to be with you again.",
             "nextBlock": 13,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -3656005028178404878
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -1872877167587856921
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 6416742471187858541
+                },
+                {
+                    "origLen": 143,
+                    "pathId": 1179091485013098160
+                }
+            ],
             "pathId": 2811827887991999815,
             "blockIdx": 12
         },
@@ -150,6 +290,25 @@
             "jpText": "フラワーさんッッッ！！",
             "enText": "Ms. Flower!",
             "nextBlock": 14,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -490467056238705306
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 1286609799705123820
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 8177040142641511964
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 6749822283120078262
+                }
+            ],
             "pathId": -6175232789478037023,
             "blockIdx": 13
         },
@@ -159,6 +318,25 @@
             "jpText": "はいっ！？",
             "enText": "What?",
             "nextBlock": 15,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 8111904736841809203
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 3566318455394891456
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 4269381653190298705
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 13433485945321336
+                }
+            ],
             "pathId": -3337351347086283941,
             "blockIdx": 14
         },
@@ -168,6 +346,25 @@
             "jpText": "今日は私の委員長生命をかけて、\r\n貴方に1000バ身勝ちをします！",
             "enText": "Today, I will risk my life as chairman\nto win you 1,000 bucks!",
             "nextBlock": 16,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -2531418976502754327
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 3399257920672479454
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 5341428181319264501
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -1792586729885510130
+                }
+            ],
             "pathId": -7017610274148311165,
             "blockIdx": 15
         },
@@ -177,6 +374,25 @@
             "jpText": "1000ですか！？",
             "enText": "Is it 1000!",
             "nextBlock": 17,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -6269989120766150301
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 8990455419241279111
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -3243622215468690457
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -8223084012979178188
+                }
+            ],
             "pathId": -2610927263899080851,
             "blockIdx": 16
         },
@@ -186,8 +402,28 @@
             "jpText": "ハイ、1000です！！\r\nどうぞ、お覚悟を！！",
             "enText": "Hi, it's 1000! Please, be prepared!",
             "nextBlock": -1,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -6079456940637662212
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6523050687856597921
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 8610796421804333616
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 3988703385344201697
+                }
+            ],
             "pathId": -6419820155520374417,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669945704
 }

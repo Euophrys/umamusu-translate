@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "UDWCOD7AD3XIMVYOUQS7FU2HUDFBMYKP",
     "type": "story",
     "storyId": "501025507",
@@ -11,6 +11,7 @@
             "jpText": "トレーニング後、\r\n机の上に1通の手紙が置いてあった。",
             "enText": "After training, I found a letter on my desk.",
             "nextBlock": 2,
+            "origClipLength": 80,
             "pathId": -3419666387692048297,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "念のため、トレーニング中は\r\n鍵をかけておいたはずなのだが……。",
             "enText": "I thought I had locked the door while I was\ntraining, just in case…",
             "nextBlock": 3,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "（いつからここに……？）",
@@ -36,6 +38,17 @@
             "jpText": "その手紙……\r\n気づいたら、そこに置いてありました。",
             "enText": "That letter… was there\nwhen I found it.",
             "nextBlock": 4,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 5680224812786624429
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 136736312650971135
+                }
+            ],
             "pathId": -1782425226570226297,
             "blockIdx": 3
         },
@@ -45,11 +58,22 @@
             "jpText": "トレーナーさん宛て……？\r\nそれとも――",
             "enText": "Address it to your trainer at…? Or—",
             "nextBlock": 5,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "確認してみるよ",
                     "enText": "I'll check it out.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 3444885062689306370
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 3260022642808982516
                 }
             ],
             "pathId": -488169511146250221,
@@ -61,6 +85,17 @@
             "jpText": "封を開けてみるとマンハッタンカフェへの\r\nファンレターだとわかったが――なぜだろう、\n内容にはどこか違和感を覚えた。",
             "enText": "When I opened the package, I realized\nit was a fan letter to Manhattan Cafe,\nbut for some reason, I felt something\nstrange about the contents.",
             "nextBlock": 6,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": 4418468692871436974
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -9177588491763280739
+                }
+            ],
             "pathId": 76091396928244233,
             "blockIdx": 5
         },
@@ -70,6 +105,17 @@
             "jpText": "ファンレターにしては\r\nかなり奇妙というか、なんというか……。",
             "enText": "Quite strange for a fan letter,\nor something like that…",
             "nextBlock": 7,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -8577813685490514413
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -5111359939162228540
+                }
+            ],
             "pathId": -6741629446119638121,
             "blockIdx": 6
         },
@@ -79,11 +125,22 @@
             "jpText": "どうしましたか……？\r\n何か、おかしなことでも……？",
             "enText": "What's the matter…? Is there\nsomething wrong with…?",
             "nextBlock": 8,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "いや、そういうわけじゃ……",
                     "enText": "No, not like that…",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -8819143040529176102
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3279451373767309383
                 }
             ],
             "pathId": 5923026402067697913,
@@ -95,6 +152,17 @@
             "jpText": "マンハッタンカフェ宛てのファンレターなら\r\n彼女が読むべきだろうか……そう思い、\n渡すことにした。",
             "enText": "If it was a fan letter addressed to\nManhattan Cafe, she should read it…\nSo I decided to give it to her.",
             "nextBlock": 9,
+            "origClipLength": 108,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 5824470411455265379
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 76173191603896623
+                }
+            ],
             "pathId": -2531533388529146760,
             "blockIdx": 8
         },
@@ -104,6 +172,21 @@
             "jpText": "ええと――",
             "enText": "Uh…",
             "nextBlock": 10,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 7070462106446041924
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 1793759773013404195
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 674154618094145371
+                }
+            ],
             "pathId": 667449446538828130,
             "blockIdx": 9
         },
@@ -113,6 +196,21 @@
             "jpText": "『朝、立ちのぼる霧の中から――\r\n昼、ざわめく木々の影から――\n夜、静かな闇夜の中から――』",
             "enText": "\"In the morning, through the rising mist;\nin the afternoon, through the shadows\nof the rustling trees; at night, through\nthe silent darkness.",
             "nextBlock": 11,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -4087442013716043712
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -1500910076235234201
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 7125324137172458677
+                }
+            ],
             "pathId": 3270571591439368814,
             "blockIdx": 10
         },
@@ -122,6 +220,17 @@
             "jpText": "『いつでも、\r\nアナタのことを見守っています……』",
             "enText": "\"We're always watching over you…\"",
             "nextBlock": 12,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 3689446956059095429
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -6250910583373481630
+                }
+            ],
             "pathId": 6577283566392429998,
             "blockIdx": 11
         },
@@ -131,6 +240,21 @@
             "jpText": "なるほど、これは……。",
             "enText": "Well, here it is…",
             "nextBlock": 13,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -7602334013107735320
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -4478738581682172990
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 461126434893247886
+                }
+            ],
             "pathId": 8642954202441700112,
             "blockIdx": 12
         },
@@ -140,6 +264,21 @@
             "jpText": "もしかしたら……\r\n『そういうこと』かもしれませんね……。",
             "enText": "Maybe… \"that's what I'm\ntalking about\"…",
             "nextBlock": 14,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5716267431016857613
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -3928559727171606932
+                },
+                {
+                    "origLen": 176,
+                    "pathId": -1098533575255113614
+                }
+            ],
             "pathId": 5378167900325622741,
             "blockIdx": 13
         },
@@ -149,6 +288,17 @@
             "jpText": "応援してくれるのは、\r\n何も、目に見える観客だけじゃない……。",
             "enText": "It's not only the visible audience\nthat supports us…",
             "nextBlock": 15,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -8041723467118574723
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 6207949427641966354
+                }
+            ],
             "pathId": -9030731729948472023,
             "blockIdx": 14
         },
@@ -158,6 +308,17 @@
             "jpText": "私が『彼ら』を見ているように、\r\n『彼ら』も私を応援してくれている……。",
             "enText": "As I am watching them, they\nare cheering me on…",
             "nextBlock": 16,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1731075047544808353
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6349527603896177355
+                }
+            ],
             "pathId": 4216469831044174501,
             "blockIdx": 15
         },
@@ -167,6 +328,17 @@
             "jpText": "とても、嬉しいことです……。",
             "enText": "I'm very, very happy to hear that…",
             "nextBlock": 17,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -4944193784968680179
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -2529416056358438393
+                }
+            ],
             "pathId": 7398610161405718856,
             "blockIdx": 16
         },
@@ -176,6 +348,17 @@
             "jpText": "翌日――\r\n机の引き出しに保管していた手紙は、\n跡形もなく消えていた。",
             "enText": "The next day, the letter I had kept in my\ndesk drawer disappeared without a trace.",
             "nextBlock": 18,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 4233713394656958820
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -9160555615802274984
+                }
+            ],
             "pathId": -3719751946242261478,
             "blockIdx": 17
         },
@@ -185,8 +368,10 @@
             "jpText": "マンハッタンカフェの言う通り、見えない\r\n誰かによるものだったのかもしれない……。",
             "enText": "Maybe Manhattan Cafe was right, it was by\nsomeone unseen…",
             "nextBlock": -1,
+            "origClipLength": 98,
             "pathId": -6917017163901036548,
             "blockIdx": 18
         }
-    ]
+    ],
+    "modified": 1669946363
 }

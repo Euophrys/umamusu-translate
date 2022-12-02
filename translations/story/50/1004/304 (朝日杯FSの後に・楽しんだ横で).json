@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "ZP7ATW35WWG6GFVIH3YDRV2IBSRKBE46",
     "type": "story",
     "storyId": "501004304",
@@ -11,6 +11,18 @@
             "jpText": "あ、トレーナー君！",
             "enText": "Oh, Mr. Trainer!",
             "nextBlock": 2,
+            "origClipLength": 56,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 357404405736852781
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 4671832339067081430
+                }
+            ],
             "pathId": 1479251391429806990,
             "blockIdx": 1
         },
@@ -20,6 +32,18 @@
             "jpText": "あ、トレーナーちゃん！",
             "enText": "Oh, Trainer-chan!",
             "nextBlock": 3,
+            "origClipLength": 59,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 6365868240799856651
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 1780597497622849754
+                }
+            ],
             "pathId": 7336925762877471702,
             "blockIdx": 2
         },
@@ -29,6 +53,7 @@
             "jpText": "どうだった、あたしの走り？\n今までで最高だったでしょ？",
             "enText": "How was my run? Wasn't that\nthe best you've ever done?",
             "nextBlock": 4,
+            "origClipLength": 81,
             "choices": [
                 {
                     "jpText": "本当に楽しそうだったな",
@@ -41,6 +66,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 8222046608552073953
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -3310968031617140799
+                }
+            ],
             "pathId": 1077918904675633208,
             "blockIdx": 3
         },
@@ -50,6 +85,17 @@
             "jpText": "ええ、こんなにもアクセル全開で\n走ったのは初めてじゃないかしら！",
             "enText": "Yeah, I don't think I've ever\nbeen on the gas so much!",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 6817898450905991939
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2509731124392068220
+                }
+            ],
             "pathId": 8617292414311425933,
             "blockIdx": 4
         },
@@ -59,6 +105,17 @@
             "jpText": "見ていたファンの人や後輩ちゃんたちにも、\nワクワクが伝わったこと間違いなしね！",
             "enText": "I'm sure the fans and juniors who were\nwatching could feel the excitement!",
             "nextBlock": 6,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -8455596494509419261
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 6386351416348472290
+                }
+            ],
             "pathId": -1608352661219948972,
             "blockIdx": 5
         },
@@ -68,6 +125,17 @@
             "jpText": "さあ、この先はいよいよクラシック級。\nもっと楽しいレースが待ってるわ！",
             "enText": "Now, it's time to go on to the classic\nclass. There's more fun racing ahead!",
             "nextBlock": 7,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -724302139506013000
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2989758712380898965
+                }
+            ],
             "pathId": 369578457894035735,
             "blockIdx": 6
         },
@@ -77,6 +145,21 @@
             "jpText": "もちろん目指すはクラシックレースよね？",
             "enText": "Of course, the goal is the\nclassic race, right?",
             "nextBlock": 8,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -3147585055452302271
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2768787457019605483
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7309250862533303920
+                }
+            ],
             "pathId": 421064759310042923,
             "blockIdx": 7
         },
@@ -86,6 +169,17 @@
             "jpText": "今日の走りを見ても、クラシックで十分に\n渡り合えるのは間違いない。",
             "enText": "After today's performance, there\nis no doubt that she is capable of\ncompeting in the classics.",
             "nextBlock": 9,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -7125855127080614857
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -4360747842756009599
+                }
+            ],
             "pathId": -1909763569504318563,
             "blockIdx": 8
         },
@@ -95,11 +189,22 @@
             "jpText": "なので、次の目標レースはクラシック路線の\n前哨戦とも言われる――",
             "enText": "So, her next target race is said to be\nthe prelude to the classic race.",
             "nextBlock": 10,
+            "origClipLength": 88,
             "choices": [
                 {
                     "jpText": "『スプリングステークス』に挑もう！",
                     "enText": "Let's take on the Spring Stakes!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -2309735122224358785
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -66476364448482564
                 }
             ],
             "pathId": 4429009790229136477,
@@ -111,6 +216,17 @@
             "jpText": "なるへそ、順を追って進むワケね。\n了解よ！",
             "enText": "Yes, that's right. We'll go through\nthem in order. Got it!",
             "nextBlock": 11,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 9149222588314500620
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 5885583960486587860
+                }
+            ],
             "pathId": 6705590419468714255,
             "blockIdx": 10
         },
@@ -120,6 +236,17 @@
             "jpText": "ふふ、どんなレースになるのか\n今から楽しみ♪",
             "enText": "Hmm, I can't wait to see\nhow the race turns out.",
             "nextBlock": 12,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -5437831521228234100
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -9218776321186214717
+                }
+            ],
             "pathId": -4970999962400748118,
             "blockIdx": 11
         },
@@ -129,6 +256,17 @@
             "jpText": "それじゃあ、あたしはインタビューが\nあるみたいだから、またあとでね！",
             "enText": "Well, I've got an interview to\ndo, so I'll see you later!",
             "nextBlock": 13,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 2152771042027338832
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -1602791012973497936
+                }
+            ],
             "pathId": -4833795521958213592,
             "blockIdx": 12
         },
@@ -138,6 +276,7 @@
             "jpText": "はぁっ……はぁっ……んっ……はぁっ……！",
             "enText": "Hah … hah … hah … hah …!",
             "nextBlock": 14,
+            "origClipLength": 71,
             "pathId": 4151356710587639366,
             "blockIdx": 13
         },
@@ -147,6 +286,7 @@
             "jpText": "よく頑張った！\nほら、水を飲んで落ち着いて……！",
             "enText": "You did great! Here, drink some\nwater and calm down…!",
             "nextBlock": 15,
+            "origClipLength": 77,
             "pathId": 2530456478987298180,
             "blockIdx": 14
         },
@@ -156,6 +296,7 @@
             "jpText": "はぁ……はぁ……と、トレーナー……。",
             "enText": "Hah … hah … and trainer …",
             "nextBlock": 16,
+            "origClipLength": 68,
             "pathId": -1358908833010288483,
             "blockIdx": 15
         },
@@ -165,6 +306,7 @@
             "jpText": "あの人、噂より……ずっとずっと、強い……。\nまるで……怪物です……。",
             "enText": "That man is much … stronger than the\nrumors, much stronger … than the rumors.\nShe's like a … monster…",
             "nextBlock": 17,
+            "origClipLength": 90,
             "pathId": -2095377320851404147,
             "blockIdx": 16
         },
@@ -174,6 +316,29 @@
             "jpText": "こうして大舞台を走り終え、数日後――",
             "enText": "And so, a few days after\nfinishing the big race…",
             "nextBlock": 18,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -4563958724660192473
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -277482316450328362
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 828724505660700604
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 392574064807362740
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -230623829301492417
+                }
+            ],
             "pathId": -2592929334933504547,
             "blockIdx": 17
         },
@@ -183,6 +348,29 @@
             "jpText": "マルゼンさん！\nこの前のレース、なまら素敵でしたっ！",
             "enText": "Marzen-san! You looked great\nin that race the other day!",
             "nextBlock": 19,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 5499093880971043307
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 1009582908903752480
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -754255426433875579
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 4226808216783325352
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -4431107226028603921
+                }
+            ],
             "pathId": 6794998731097785692,
             "blockIdx": 18
         },
@@ -192,6 +380,29 @@
             "jpText": "もう見てるだけで大興奮っ！\nしたっけ私、そのあと1人でコースを何周も！",
             "enText": "I was so excited just watching\nit! I did a few laps of the course\nby myself after that!",
             "nextBlock": 20,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 8062143342549201240
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 854233371816492849
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8013233906352576922
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -8559027149675204755
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 5157724743704338028
+                }
+            ],
             "pathId": 2045045435808453598,
             "blockIdx": 19
         },
@@ -201,6 +412,29 @@
             "jpText": "スペちゃん、落ち着いて。\n深呼吸ですよ～。",
             "enText": "Spe-chan, calm down. It's a deep breath!",
             "nextBlock": 21,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 3862025675251281841
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 6762952480773436667
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -4531563712904190743
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 9069361127337454832
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -5130728149802983140
+                }
+            ],
             "pathId": -5078883077420353997,
             "blockIdx": 20
         },
@@ -210,6 +444,29 @@
             "jpText": "う、うんっ！\nす～……す～……すぅ～……けほっけほっ！！",
             "enText": "Uh-huh! Soo~… soo~… soo~… kehooooo!",
             "nextBlock": 22,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6434938896521521479
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -7997775771056878182
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1801425533084652727
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -8744047301286106854
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 4774751153010916575
+                }
+            ],
             "pathId": 5711442553630930560,
             "blockIdx": 21
         },
@@ -219,6 +476,25 @@
             "jpText": "マルゼンさん、本当に最高のレースでした。\n目指すべき姿を見せていただいた思いです。",
             "enText": "It was really a great race, Maruzen-san. I\nthink she showed me what I should aim for.",
             "nextBlock": 23,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 1524204871877163470
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 7947491065809724140
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 9201117463470547862
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -4485796326215194617
+                }
+            ],
             "pathId": 3532937478145907329,
             "blockIdx": 22
         },
@@ -228,6 +504,33 @@
             "jpText": "うふふっ、光栄だわ。\nこれからも最高の走りを見せてあげるわね♪",
             "enText": "Mmmm, I'm honored. I'll keep\nshowing you my best runs.",
             "nextBlock": 24,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 4388731514549770409
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 3511313094218415768
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -5079409658879213731
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -1148825659907096187
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -3273528976745969885
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 6064701211051770635
+                }
+            ],
             "pathId": -1110722810137380432,
             "blockIdx": 23
         },
@@ -237,6 +540,25 @@
             "jpText": "はい、勉強させていただきます～。",
             "enText": "Yes, I'll study it!",
             "nextBlock": 25,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -815047209298024692
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -9028711405520298967
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 4757452170654011956
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -7546020333188258818
+                }
+            ],
             "pathId": -5806828592308700037,
             "blockIdx": 24
         },
@@ -246,6 +568,29 @@
             "jpText": "あっ、いた！\nマルゼンスキーさん、ぜひ取材を！",
             "enText": "Oh, there she is! Mr. Maruzensky,\nI'd love to interview you!",
             "nextBlock": 26,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -6731560527883230472
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -5340793285654643330
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -720030706222761191
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -8929531805168554344
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -8841757820799012019
+                }
+            ],
             "pathId": 8152187887347492557,
             "blockIdx": 25
         },
@@ -255,10 +600,37 @@
             "jpText": "朝日杯での見事な走りについて、\nお話をお聞かせくださいっ！",
             "enText": "Please tell us about your amazing\nrun in the Asahi Cup!",
             "nextBlock": 27,
+            "origClipLength": 84,
             "coloredText": [
                 {
                     "jpText": "朝日杯",
                     "enText": "Asahi Cup"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 4174112372255900837
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 5460606152356314717
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -8522240468954393628
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 4627527023985528960
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 4249504032253364452
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -2811871830139034027
                 }
             ],
             "pathId": 5030072222766404943,
@@ -270,6 +642,33 @@
             "jpText": "はいは～い、オッケーよ～。",
             "enText": "Yes, yes, it's okay!",
             "nextBlock": 28,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 2672896827644421044
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 4761245840869780623
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -55532270497280863
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -9215375809054451558
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 608818946839329771
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6977504374960900232
+                }
+            ],
             "pathId": -8438078683416099015,
             "blockIdx": 27
         },
@@ -279,6 +678,29 @@
             "jpText": "うわぁ……取材の人がたくさん……！",
             "enText": "Wow … lots of people covering …!",
             "nextBlock": 29,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -1236234115857424879
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7455440875936948547
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -2209673685284559143
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1184102779712503094
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1083610631859974542
+                }
+            ],
             "pathId": 5632564471646808562,
             "blockIdx": 28
         },
@@ -288,6 +710,33 @@
             "jpText": "ええ、本当に見習うべき先輩ですね。",
             "enText": "Yes, you really are a senior\ncitizen to learn from.",
             "nextBlock": 30,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 3153752661939707035
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 6504921005710428030
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5246010445689898893
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8306636963263350568
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -3897853408457520214
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 973157069509860262
+                }
+            ],
             "pathId": 5078459455127316590,
             "blockIdx": 29
         },
@@ -297,11 +746,39 @@
             "jpText": "お疲れ様、トレーナー君。",
             "enText": "Good work, trainer.",
             "nextBlock": 31,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "そっちも取材、お疲れ様",
                     "enText": "Thanks for your coverage, too.",
                     "nextBlock": 32
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 8858863707464264790
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -3366352054696011526
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -6106933485606497616
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -1176427084876493899
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 6380013611328313921
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 6871836056514819378
                 }
             ],
             "pathId": 4453665254612029614,
@@ -313,11 +790,39 @@
             "jpText": "お疲れ様、トレーナーちゃん。",
             "enText": "Good work, trainer.",
             "nextBlock": 32,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "そっちも取材、お疲れ様",
                     "enText": "Thanks for your coverage, too.",
                     "nextBlock": 32
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 2255527788818141661
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -1167529118625614640
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -1737256250345452402
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 5753777116781099759
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -9177794944863393768
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 4856108685622774016
                 }
             ],
             "pathId": -8915816828978091914,
@@ -329,6 +834,17 @@
             "jpText": "ホント、今日は取材攻めで\nトレーニングどころじゃなかったわね。",
             "enText": "I really didn't have time to train today\nbecause of all the interviews.",
             "nextBlock": 33,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -3848533254143477807
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 2023478818918903688
+                }
+            ],
             "pathId": -4624850562419246081,
             "blockIdx": 32
         },
@@ -338,6 +854,17 @@
             "jpText": "まあ悪い気はしないんだけど、\nもっとかっ飛ばしたかったなぁ～。",
             "enText": "I don't feel bad about it, but I wish\nI could have been more aggressive.",
             "nextBlock": 34,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 9106174028726454618
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -5164405764773733452
+                }
+            ],
             "pathId": 5570293828086574776,
             "blockIdx": 33
         },
@@ -347,6 +874,17 @@
             "jpText": "走りたくて堪らない――今の彼女は\n心から走ることを楽しんでいるようだ。",
             "enText": "She can't wait to run――she seems\nto truly enjoy it now.",
             "nextBlock": 35,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 7730479597295922814
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 4767883294740610994
+                }
+            ],
             "pathId": 822011786285004484,
             "blockIdx": 34
         },
@@ -356,6 +894,29 @@
             "jpText": "あら……？　あそこにいるのって\n朝日杯で一緒に走った……。",
             "enText": "Oh, …? That guy over there is …,\nwho I ran with at the Asahi Cup.",
             "nextBlock": 36,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 8176602081405847368
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -8096632115453847701
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -3304420821240192519
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 9220686473333690890
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 8419384688278485906
+                }
+            ],
             "pathId": -3260702255020884418,
             "blockIdx": 35
         },
@@ -365,6 +926,29 @@
             "jpText": "トレーナー……次のレースのことで\n相談があるんですが……。",
             "enText": "Trainer … I need to consult with\nyou about my next race…",
             "nextBlock": 37,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -5689061432524429163
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -314630284003278724
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 651438528267732885
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -1584226548033107228
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -1637822095570398469
+                }
+            ],
             "pathId": 4534928769025377237,
             "blockIdx": 36
         },
@@ -374,6 +958,17 @@
             "jpText": "どうした？　かしこまって……。",
             "enText": "What's up? Please be polite and go to …",
             "nextBlock": 38,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 4680747217042983514
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4788193623342422104
+                }
+            ],
             "pathId": -1875064364447507830,
             "blockIdx": 37
         },
@@ -383,6 +978,29 @@
             "jpText": "あの子、あたしのことを意識して\n朝日杯で挑んできてくれたの。",
             "enText": "She was aware of me and challenged\nme at the Asahi Cup.",
             "nextBlock": 39,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 4888661352094602994
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7956801781837744012
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -337811321832107909
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 9105283488269199442
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -3161644993064232354
+                }
+            ],
             "pathId": -5045903670193730848,
             "blockIdx": 38
         },
@@ -392,6 +1010,7 @@
             "jpText": "『トレーニング頑張りました！』\n『負けませんっ！』……ってね。",
             "enText": "\"I've been training hard! I can't lose! …",
             "nextBlock": 40,
+            "origClipLength": 86,
             "choices": [
                 {
                     "jpText": "大切なライバルだな",
@@ -404,6 +1023,28 @@
                     "nextBlock": 40
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -1808856840950101207
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6906129097059689576
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 880176417536200859
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 2921901894414267426
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 8107071320637565464
+                }
+            ],
             "pathId": 4172456793948439822,
             "blockIdx": 39
         },
@@ -413,6 +1054,25 @@
             "jpText": "ライバル……。",
             "enText": "Rivals…",
             "nextBlock": 41,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 1315115815669631256
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 6817402160611277745
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 8367968660956441078
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -2077582571447614686
+                }
+            ],
             "pathId": 4851292999682623467,
             "blockIdx": 40
         },
@@ -422,6 +1082,25 @@
             "jpText": "……うんっ、ライバル！\nだから本当に楽しかったわ！",
             "enText": "… Yeah, rivalry! So that was really fun!",
             "nextBlock": 42,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4959600464946940993
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1343837292504699131
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -1239986705331440602
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -1702812526728036545
+                }
+            ],
             "pathId": -5204747502170588513,
             "blockIdx": 41
         },
@@ -431,6 +1110,29 @@
             "jpText": "でも、なんだか元気がないみたいね……。",
             "enText": "But you seem kind of down…",
             "nextBlock": 43,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 2002842218908475559
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6142280856199391431
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -2072241933673314496
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -8763225099264796542
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -2429502988833565422
+                }
+            ],
             "pathId": 1115707322353959828,
             "blockIdx": 42
         },
@@ -440,6 +1142,29 @@
             "jpText": "よし！　ここはライバルっぽく\n励ましちゃおうかしら♪",
             "enText": "Okay! Let's be rivals and\nencourage each other.",
             "nextBlock": 44,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -8233858230368589326
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 3004636144205831948
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -6777278863603909950
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4950476966158038338
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 5600472970153882579
+                }
+            ],
             "pathId": -6449379916950115400,
             "blockIdx": 43
         },
@@ -449,10 +1174,33 @@
             "jpText": "トレーナー……次の『スプリングステークス』\n出走を回避させてください……！",
             "enText": "Trainer …, let me avoid running\nin the next Spring Stakes…!",
             "nextBlock": 45,
+            "origClipLength": 94,
             "coloredText": [
                 {
                     "jpText": "スプリングステークス",
                     "enText": "Spring Stakes"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -8246123097764581890
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 7890826973196311852
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -628458191702511854
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -4955955642792808618
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 606310550248054423
                 }
             ],
             "pathId": 1936489333287035247,
@@ -464,6 +1212,17 @@
             "jpText": "回避……って、本気か……！？",
             "enText": "Evasion …, are you serious …!",
             "nextBlock": 46,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 317995709334489903
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6714995203885769166
+                }
+            ],
             "pathId": -636096539320772491,
             "blockIdx": 45
         },
@@ -473,6 +1232,17 @@
             "jpText": "マルゼンスキーさんが出走予定らしくて、\nこんな弱気なこと言うのは最低ですけど……。",
             "enText": "It seems that Maruzensky is scheduled to\nrun, and it sucks that I'm being so\nbearish about it…",
             "nextBlock": 47,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 1604285417166071086
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 7672837038271223874
+                }
+            ],
             "pathId": -5522256607813846403,
             "blockIdx": 46
         },
@@ -482,6 +1252,17 @@
             "jpText": "勝てないとわかってて走るのは\n……つらいです。",
             "enText": "It's … hard to run when you\nknow you can't win.",
             "nextBlock": 48,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 6905594609658864392
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -3833338230780566713
+                }
+            ],
             "pathId": -3634286102505050857,
             "blockIdx": 47
         },
@@ -491,6 +1272,17 @@
             "jpText": "お前にそんなことを言わせてしまう\nほどなのか、彼女の走りは……。",
             "enText": "I don't know if it's enough to make you\nsay that, but her running is …",
             "nextBlock": 49,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -3418471700763338213
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -8373986413030451066
+                }
+            ],
             "pathId": -7440912818574183964,
             "blockIdx": 48
         },
@@ -500,6 +1292,17 @@
             "jpText": "……わかった。\n今のお前に1番適したレースに出よう。",
             "enText": "… All right. Let's go to the race that's\nmost suitable for you right now.",
             "nextBlock": 50,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 964772283258164922
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 8653117467380964704
+                }
+            ],
             "pathId": -8533374099575626348,
             "blockIdx": 49
         },
@@ -509,6 +1312,29 @@
             "jpText": "……あたしが出走するから、回避……。",
             "enText": "… I'm going to run, so avoid …",
             "nextBlock": 51,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 8563108496008226867
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 1498164807239220780
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 4311571658293700317
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 9078145955393519074
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -5277068728206436997
+                }
+            ],
             "pathId": 5015085218774954535,
             "blockIdx": 50
         },
@@ -518,6 +1344,29 @@
             "jpText": "…………。",
             "enText": "…",
             "nextBlock": 52,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -6559658980527438103
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -5733560189896406547
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 4302653252375575646
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -6371822705246660482
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 5721335336470337182
+                }
+            ],
             "pathId": -8403175156363002779,
             "blockIdx": 51
         },
@@ -527,11 +1376,30 @@
             "jpText": "多くの人を魅了したマルゼンスキーの走りは\n出走者にとって別の印象を与えたようだった。",
             "enText": "Maruzensky's run, which had attracted so\nmany people, seemed to have made a\ndifferent impression on the runners.",
             "nextBlock": 53,
+            "origClipLength": 101,
             "choices": [
                 {
                     "jpText": "マルゼンスキー……",
                     "enText": "Marzensky…",
                     "nextBlock": 53
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -2089903843598067547
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 7801839720204595007
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -6530426877543694899
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 6798012698073388094
                 }
             ],
             "pathId": 3401098966297955872,
@@ -543,6 +1411,25 @@
             "jpText": "あ、あはは……！　ウマ娘にとって\nひとつひとつのレースは大事だものね！",
             "enText": "Oh, haha, …! Every single race is\nimportant to Uma Musume!",
             "nextBlock": 54,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 2835670912385818843
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 4146678510020943891
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -6728456125760288743
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -6419267319629034382
+                }
+            ],
             "pathId": 8775361285186086868,
             "blockIdx": 53
         },
@@ -552,6 +1439,25 @@
             "jpText": "出走するレース選びも、慎重になって当然！\nあたしたちも参考にしましょ！",
             "enText": "It's only natural to be cautious\nwhen choosing races to run! Let's\nsee what we can do!",
             "nextBlock": 55,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -6365300063041902777
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6771205806547051194
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6733933556892780870
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 5945490036777333803
+                }
+            ],
             "pathId": -4025196966559679990,
             "blockIdx": 54
         },
@@ -561,6 +1467,26 @@
             "jpText": "それじゃ、あたしはここで！\nトレーナー君、また明日ね～！",
             "enText": "Well, I'll leave you here! See\nyou tomorrow, trainer!",
             "nextBlock": 56,
+            "origClipLength": 82,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -5216471915804303189
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 5030853356787123464
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 3155994745732261781
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -652800800363815098
+                }
+            ],
             "pathId": 1516789251684129981,
             "blockIdx": 55
         },
@@ -570,6 +1496,26 @@
             "jpText": "それじゃ、あたしはここで！\nトレーナーちゃん、また明日ね～！",
             "enText": "Well, I'll leave you here! See you\ntomorrow, trainer-chan!",
             "nextBlock": 57,
+            "origClipLength": 85,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 8603247084272215517
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 3207601439459024958
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -2592158107900869566
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -4675019089919433806
+                }
+            ],
             "pathId": 8322605729376660435,
             "blockIdx": 56
         },
@@ -579,8 +1525,20 @@
             "jpText": "逃げるように去るマルゼンスキーの背中は、\nいつも楽しげに走る背中とは別ものに見えた。",
             "enText": "Maruzensky's back looked different from\nher usual joyful back as she ran away.",
             "nextBlock": 58,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 6963635958968457200
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -6114786550857800826
+                }
+            ],
             "pathId": -5512756655933818186,
             "blockIdx": 57
         }
-    ]
+    ],
+    "modified": 1669944908
 }

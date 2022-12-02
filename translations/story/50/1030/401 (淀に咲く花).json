@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "CBO42RZBJ6LTLJEEIWK5LZP6MO4KHVDZ",
     "type": "story",
     "storyId": "501030401",
@@ -11,6 +11,7 @@
             "jpText": "サクラバクシンオーと一緒に天皇賞（春）の\r\n観戦にやってきたライスシャワー。",
             "enText": "Rice Shower came to watch the Tennou-shou \n(Spring) race with Sakura Bakushin-o.",
             "nextBlock": 2,
+            "origClipLength": 94,
             "coloredText": [
                 {
                     "jpText": "サクラバクシンオー",
@@ -19,6 +20,24 @@
                 {
                     "jpText": "天皇賞（春）",
                     "enText": "Tennoushou (Spring)"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": 3220153911596516383
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 3878399725662246784
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 7028988300400172113
+                },
+                {
+                    "origLen": 137,
+                    "pathId": -2388707106987602486
                 }
             ],
             "pathId": 2444874772210571948,
@@ -30,10 +49,29 @@
             "jpText": "彼女はそこで、大舞台で観客たちを魅了する\r\nメジロマックイーンの勇姿を目にする。",
             "enText": "There, she sees the heroic figure \nof Medicine McQueen mesmerizing the \naudience on the big stage.",
             "nextBlock": 3,
+            "origClipLength": 97,
             "coloredText": [
                 {
                     "jpText": "メジロマックイーン",
                     "enText": "white-tailed macQueen (MacQueen albicilla)"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 268,
+                    "pathId": -6088415945504059259
+                },
+                {
+                    "origLen": 208,
+                    "pathId": 5167429717184804555
+                },
+                {
+                    "origLen": 162,
+                    "pathId": -7756474802035826451
+                },
+                {
+                    "origLen": 166,
+                    "pathId": -6303051371695005937
                 }
             ],
             "pathId": 8761523734018467824,
@@ -45,6 +83,25 @@
             "jpText": "多くの人に笑顔と幸せを与える\r\nメジロマックイーンを見たライスシャワーは、\n彼女を“青いバラ”に例える。",
             "enText": "Rice Shower, who saw Medicine McQueen \nbringing smiles and happiness to many people, \ncompared her to a \"blue rose.",
             "nextBlock": 4,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 231,
+                    "pathId": -4240524166170523757
+                },
+                {
+                    "origLen": 324,
+                    "pathId": -6014190056464710628
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -6938560323314077287
+                },
+                {
+                    "origLen": 137,
+                    "pathId": 6693170941917295849
+                }
+            ],
             "pathId": 3636519044719068545,
             "blockIdx": 3
         },
@@ -54,8 +111,28 @@
             "jpText": "みんなを不幸にしてばかりだという\r\nライスシャワーは、そんな“青いバラ”に\nなってみたいと夢を語るのだった。",
             "enText": "Rice Shower, who says she is always \nmaking everyone unhappy, dreams of \nbecoming such a \"blue rose\".",
             "nextBlock": -1,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 4958493548636694720
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 6258018553515389221
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 1674765659124780288
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -7894693404111461946
+                }
+            ],
             "pathId": 2462036982593678228,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669945551
 }

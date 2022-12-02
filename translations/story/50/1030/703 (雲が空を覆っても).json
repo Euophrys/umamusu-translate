@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "LZVMN62RM4UUPF7Q25QD6I6STU2USA7I",
     "type": "story",
     "storyId": "501030703",
@@ -11,6 +11,17 @@
             "jpText": "お出かけの後、ライスシャワーと\r\n学園まで帰ってくると――",
             "enText": "After my outing, I came back to \nthe school with a Rice Shower.",
             "nextBlock": 2,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 4374039302812667323
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4776047095031244007
+                }
+            ],
             "pathId": 6553239616365583631,
             "blockIdx": 1
         },
@@ -20,11 +31,23 @@
             "jpText": "あの……お兄さま。",
             "enText": "That… brother.",
             "nextBlock": 3,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "どうかした？",
                     "enText": "What's wrong?",
                     "nextBlock": 4
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 2188387210716625345
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -1547410433209145234
                 }
             ],
             "pathId": -4111339829923415512,
@@ -36,11 +59,23 @@
             "jpText": "あの……お姉さま。",
             "enText": "That… sister.",
             "nextBlock": 4,
+            "origClipLength": 50,
             "choices": [
                 {
                     "jpText": "どうかした？",
                     "enText": "What's wrong?",
                     "nextBlock": 4
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -8725330054227928095
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -9131276810078479348
                 }
             ],
             "pathId": 5129700320406488861,
@@ -52,6 +87,18 @@
             "jpText": "今日はもうちょっとだけ、\r\nお兄さまの時間、欲しいな……。",
             "enText": "I'd like to have a little more \ntime with you today…",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 2452694557769312182
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 5830850415088134160
+                }
+            ],
             "pathId": 7256441979224576273,
             "blockIdx": 4
         },
@@ -61,6 +108,18 @@
             "jpText": "今日はもうちょっとだけ、\r\nお姉さまの時間、欲しいな……。",
             "enText": "I'd like to have a little \nmore sister time today…",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 7276924838545285530
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6651254455565421932
+                }
+            ],
             "pathId": 164495571931382731,
             "blockIdx": 5
         },
@@ -70,6 +129,17 @@
             "jpText": "一緒にね、見たいものがあるの……！",
             "enText": "Together, we've got something to see…!",
             "nextBlock": 7,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -3989423103813356215
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 7242411411649031534
+                }
+            ],
             "pathId": -5054743106604197087,
             "blockIdx": 6
         },
@@ -79,6 +149,17 @@
             "jpText": "とても真剣な表情だ。\r\n彼女のお願いを聞くことにした。",
             "enText": "She looks very serious. I decided \nto do her a favor.",
             "nextBlock": 8,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -6547595928156365283
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -2292159376727227062
+                }
+            ],
             "pathId": -9175598721429592533,
             "blockIdx": 7
         },
@@ -88,6 +169,17 @@
             "jpText": "ライスシャワーと一緒に、夜を待って\r\n校舎の屋上に来た。",
             "enText": "I came to the roof of the school building \nwith Rice Shower, waiting for the night.",
             "nextBlock": 9,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 2604005793440865034
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -4982005406336499208
+                }
+            ],
             "pathId": -1808969290760000323,
             "blockIdx": 8
         },
@@ -97,6 +189,17 @@
             "jpText": "今日はね、流星群が見える日なんだって。",
             "enText": "Today is the day when you can \nsee the meteor shower.",
             "nextBlock": 10,
+            "origClipLength": 57,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 4719310956712565139
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -3549123747103296925
+                }
+            ],
             "pathId": -1023633886142884923,
             "blockIdx": 9
         },
@@ -106,6 +209,18 @@
             "jpText": "ライスね、それを聞いたとき、\r\n絶対お兄さまと一緒に見たいって思ったんだ。",
             "enText": "Rice, when I heard about it, I knew \nI wanted to see it with you.",
             "nextBlock": 11,
+            "origClipLength": 69,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 3043199020743246301
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 5603697592661032980
+                }
+            ],
             "pathId": -8182424489061680464,
             "blockIdx": 10
         },
@@ -115,6 +230,18 @@
             "jpText": "ライスね、それを聞いたとき、\r\n絶対お姉さまと一緒に見たいって思ったんだ。",
             "enText": "Rice, when I heard that, I knew \nI wanted to see it with you.",
             "nextBlock": 12,
+            "origClipLength": 69,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 995412652041662997
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -963539585033019103
+                }
+            ],
             "pathId": 3113790736371843181,
             "blockIdx": 11
         },
@@ -124,11 +251,23 @@
             "jpText": "付き合ってくれてありがとう、お兄さま。",
             "enText": "Thank you for keeping me company, brother.",
             "nextBlock": 13,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "お安い御用だよ",
                     "enText": "It's a small price to pay.",
                     "nextBlock": 14
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -6393415112323395231
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 2646893829130599264
                 }
             ],
             "pathId": -8901954079075678844,
@@ -140,11 +279,23 @@
             "jpText": "付き合ってくれてありがとう、お姉さま。",
             "enText": "Thank you for keeping me company, sister.",
             "nextBlock": 14,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "お安い御用だよ",
                     "enText": "It's a small price to pay.",
                     "nextBlock": 14
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -6320007510531401499
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 2598151054670429846
                 }
             ],
             "pathId": -1996738456189203619,
@@ -156,6 +307,17 @@
             "jpText": "でも――",
             "enText": "But—",
             "nextBlock": 15,
+            "origClipLength": 47,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -1745313072856504130
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 8578114742572799606
+                }
+            ],
             "pathId": 6043151946004628494,
             "blockIdx": 14
         },
@@ -165,6 +327,21 @@
             "jpText": "雲が……ちょっと、多いね。",
             "enText": "The clouds are… a bit, a lot.",
             "nextBlock": 16,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 4936789341014082713
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -8175052302329561356
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 1469737356717365635
+                }
+            ],
             "pathId": 6702604959295438375,
             "blockIdx": 15
         },
@@ -174,6 +351,21 @@
             "jpText": "見上げると確かに、思った以上に\r\n雲が多く、空を隅々まで見渡すのが難しい。",
             "enText": "I looked up and sure enough, there were more \nclouds than I expected, making it difficult \nto see every inch of the sky.",
             "nextBlock": 17,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 434314199135161164
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1049097757160667361
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -8148583143120918175
+                }
+            ],
             "pathId": 7786924512339707240,
             "blockIdx": 16
         },
@@ -183,6 +375,21 @@
             "jpText": "この空模様を彼女が自分のせいにしないか、\r\nそんな不安が過ったが――",
             "enText": "I wondered if she'd blame me for the sky.",
             "nextBlock": 18,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -7387751888161036242
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1413398629024230650
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -4518449379772034869
+                }
+            ],
             "pathId": -1764718239104210019,
             "blockIdx": 17
         },
@@ -192,6 +399,22 @@
             "jpText": "あっ、あのね、お兄さま。",
             "enText": "Oh, you know what, brother?",
             "nextBlock": 19,
+            "origClipLength": 52,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -9175531737457237169
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -517198684066147181
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -8762191640237127258
+                }
+            ],
             "pathId": -7233331328955468116,
             "blockIdx": 18
         },
@@ -201,6 +424,22 @@
             "jpText": "あっ、あのね、お姉さま。",
             "enText": "Oh, you know what, sister?",
             "nextBlock": 20,
+            "origClipLength": 52,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 2793418240960703857
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 6031638873950757376
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -6330303159077513233
+                }
+            ],
             "pathId": 7220459363945459637,
             "blockIdx": 19
         },
@@ -210,6 +449,17 @@
             "jpText": "雲が晴れるまで……。\r\n空が見えるまで……。",
             "enText": "Until the clouds clear… Until \nthe sky is clear…",
             "nextBlock": 21,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -156563510805931573
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 1174277555138017636
+                }
+            ],
             "pathId": -6607422839111247143,
             "blockIdx": 20
         },
@@ -219,6 +469,17 @@
             "jpText": "もう少しだけ、\r\n一緒に待ってもらえないかな……。",
             "enText": "Can you wait with me just a little \nwhile longer, please?…",
             "nextBlock": 22,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -4728857520879752752
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5002194426846134232
+                }
+            ],
             "pathId": 6909125442245767374,
             "blockIdx": 21
         },
@@ -228,6 +489,17 @@
             "jpText": "……だめ？",
             "enText": "No…?",
             "nextBlock": 23,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -8747178891015583129
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6170315158720247099
+                }
+            ],
             "pathId": 2566631584811647344,
             "blockIdx": 22
         },
@@ -237,6 +509,7 @@
             "jpText": "――そう問うてくるライスシャワーを見て、\r\n自分の心配が杞憂だったことを知る。",
             "enText": "—I knew my fears were unfounded when I saw \nRice Shower asking me that question.",
             "nextBlock": 24,
+            "origClipLength": 70,
             "choices": [
                 {
                     "jpText": "強くなったな",
@@ -257,6 +530,17 @@
                     "jpText": "願い事、したいもんね",
                     "enText": "I wish I could make a wish.",
                     "nextBlock": 40
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 2142324073916317871
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 765120445025955650
                 }
             ],
             "pathId": -2298527054424958095,
@@ -268,6 +552,7 @@
             "jpText": "――そう問うてくるライスシャワーを見て、\r\n自分の心配が杞憂だったことを知る。",
             "enText": "—I knew my fears were unfounded when I saw \nRice Shower asking me that question.",
             "nextBlock": 25,
+            "origClipLength": 70,
             "choices": [
                 {
                     "jpText": "強くなったな",
@@ -290,6 +575,17 @@
                     "nextBlock": 40
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -266722168629038176
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 434688541141070249
+                }
+            ],
             "pathId": 7375489588879299526,
             "blockIdx": 24
         },
@@ -299,6 +595,17 @@
             "jpText": "えっ、えっ？　つ、つよく？\r\nど、どういう意味……？",
             "enText": "What? What? Strong? What do you mean…?",
             "nextBlock": 26,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -8070311741504679651
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -1087835175327348462
+                }
+            ],
             "pathId": -8773155420393524235,
             "blockIdx": 25
         },
@@ -308,11 +615,22 @@
             "jpText": "ライス、なにか変なこと言ったかな……。",
             "enText": "Rice, did I say something funny?…",
             "nextBlock": 27,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "待ちたい、って言えたから",
                     "enText": "I was able to say I wanted to wait.",
                     "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -9089630971365426316
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 9218529843665820758
                 }
             ],
             "pathId": 8191453933057360913,
@@ -324,6 +642,17 @@
             "jpText": "――――",
             "enText": "—",
             "nextBlock": 28,
+            "origClipLength": 47,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 5777398401155528534
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 6424323067768073106
+                }
+            ],
             "pathId": -1958253212787090929,
             "blockIdx": 27
         },
@@ -333,6 +662,17 @@
             "jpText": "……そっか。そう、だね。\r\nちょっと前なら、言えなかったかも。",
             "enText": "… I see. Yeah, I guess. I wouldn't \nhave said that a while ago.",
             "nextBlock": 29,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -2866037210106149262
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5744175918342673376
+                }
+            ],
             "pathId": 1516060576863006813,
             "blockIdx": 28
         },
@@ -342,6 +682,17 @@
             "jpText": "多分、前のライスなら、すぐ泣いてた……。\r\nでもいまは……泣かない。",
             "enText": "Maybe before, Rice would have cried right \naway… But now, I don't… cry.",
             "nextBlock": 30,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -8399442897785365353
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8932515938109297355
+                }
+            ],
             "pathId": -7540743792532528116,
             "blockIdx": 29
         },
@@ -351,6 +702,18 @@
             "jpText": "ライスは今日、お兄さまと一緒に、\r\n流れ星を見たいって、思ったから……。",
             "enText": "Rice wanted to watch a shooting star \nwith you today, so she went to…",
             "nextBlock": 31,
+            "origClipLength": 68,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3561221438595009937
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 7566910742092104691
+                }
+            ],
             "pathId": -6126196071188967605,
             "blockIdx": 30
         },
@@ -360,6 +723,18 @@
             "jpText": "ライスは今日、お姉さまと一緒に、\r\n流れ星を見たいって、思ったから……。",
             "enText": "Rice wanted to watch a shooting \nstar with her sister today…",
             "nextBlock": 32,
+            "origClipLength": 68,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -2372633476074082117
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -1594200233763373581
+                }
+            ],
             "pathId": -1609545590981035536,
             "blockIdx": 31
         },
@@ -369,11 +744,22 @@
             "jpText": "絶対そうしたいって、思ったから。",
             "enText": "I knew that I wanted to.",
             "nextBlock": 33,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "ライス……",
                     "enText": "Rice…",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 4853405061537824529
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -5241636745269749261
                 }
             ],
             "pathId": 5112936375689288782,
@@ -385,6 +771,22 @@
             "jpText": "あっ――\r\nお兄さま！　空！　空を見てっ！",
             "enText": "Ah— big brother! The sky! Look at the sky!",
             "nextBlock": 34,
+            "origClipLength": 58,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -1252208098074164520
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -7796583448536863819
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -33820234038876235
+                }
+            ],
             "pathId": -3579004674614235162,
             "blockIdx": 33
         },
@@ -394,6 +796,22 @@
             "jpText": "あっ――\r\nお姉さま！　空！　空を見てっ！",
             "enText": "Ah— sister! The sky! Look at the sky!",
             "nextBlock": 35,
+            "origClipLength": 58,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 7321281516804654979
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -2321690719581476681
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -3672916826286209704
+                }
+            ],
             "pathId": -7791495600470554182,
             "blockIdx": 34
         },
@@ -403,6 +821,21 @@
             "jpText": "いつの間にか雲が消え、\r\n夜空が星々の輝きで満たされていた。",
             "enText": "Before I knew it, the clouds had disappeared \nand the night sky was filled with \nthe glow of stars.",
             "nextBlock": 36,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -483598412714840851
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -3768063458721832914
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -4815695882384243064
+                }
+            ],
             "pathId": 3163370294093813299,
             "blockIdx": 35
         },
@@ -412,6 +845,7 @@
             "jpText": "吸い込まれそうな煌きの洪水の中で、\r\nひとつ、またひとつと星が流れ落ちていく。",
             "enText": "In the flood of glittering lights that seemed \nto be sucked in, one star after another fell.",
             "nextBlock": 37,
+            "origClipLength": 70,
             "pathId": 5866379734103102681,
             "blockIdx": 36
         },
@@ -421,6 +855,7 @@
             "jpText": "わぁ……！\r\n流れ星が、いっぱい……！",
             "enText": "Wow…! A lot of shooting stars…!",
             "nextBlock": 38,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "待ったかいがあったね",
@@ -437,6 +872,7 @@
             "jpText": "うん！",
             "enText": "Yeah!",
             "nextBlock": 39,
+            "origClipLength": 46,
             "pathId": -2430069166944126424,
             "blockIdx": 38
         },
@@ -446,6 +882,7 @@
             "jpText": "その日は、自分とライスシャワーにとって、\r\n忘れられない夜になった。",
             "enText": "It was an unforgettable night \nfor me and Rice Shower.",
             "nextBlock": -1,
+            "origClipLength": 67,
             "pathId": 3944797889187522738,
             "blockIdx": 39
         },
@@ -455,6 +892,17 @@
             "jpText": "――うん！",
             "enText": "—Yes!",
             "nextBlock": 41,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -8861892335144007207
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -2293643237251599290
+                }
+            ],
             "pathId": -4374044216192881341,
             "blockIdx": 40
         },
@@ -464,6 +912,18 @@
             "jpText": "よかった……\r\nお兄さまも、そうだったんだね……。",
             "enText": "Thank goodness… that your brother was, too…",
             "nextBlock": 42,
+            "origClipLength": 61,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -7376136957869449235
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8136517449456066168
+                }
+            ],
             "pathId": -2737978668626348534,
             "blockIdx": 41
         },
@@ -473,6 +933,18 @@
             "jpText": "よかった……\r\nお姉さまも、そうだったんだね……。",
             "enText": "Thank goodness… that your sister was, too…",
             "nextBlock": 43,
+            "origClipLength": 61,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -3627726304047149882
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5317734729153911946
+                }
+            ],
             "pathId": 5893817479138559415,
             "blockIdx": 42
         },
@@ -482,11 +954,23 @@
             "jpText": "……お兄さまは、なにをお願いするの？",
             "enText": "… What do you ask for, big brother?",
             "nextBlock": 44,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "ライスの幸せ",
                     "enText": "Rice Happiness",
                     "nextBlock": 45
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -1474117750088308830
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -9104128516747407960
                 }
             ],
             "pathId": 8865360062111407293,
@@ -498,11 +982,23 @@
             "jpText": "……お姉さまは、なにをお願いするの？",
             "enText": "… What do you ask for, sister?",
             "nextBlock": 45,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "ライスの幸せ",
                     "enText": "Rice Happiness",
                     "nextBlock": 45
+                }
+            ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -1907841683261832682
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -7065668329599030413
                 }
             ],
             "pathId": 6666019615869124627,
@@ -514,6 +1010,17 @@
             "jpText": "ふぇっ！？\r\nら、ライスの……！？",
             "enText": "Huh! La, Rice's…!",
             "nextBlock": 46,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -3771810778183960456
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 6258279000269294922
+                }
+            ],
             "pathId": -957874541930720389,
             "blockIdx": 45
         },
@@ -523,6 +1030,17 @@
             "jpText": "び、びっくりしちゃったけど……\r\nでも――",
             "enText": "Well, I'm surprised… But—",
             "nextBlock": 47,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -71321077855255588
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 1878795564552771127
+                }
+            ],
             "pathId": -24857666570711688,
             "blockIdx": 46
         },
@@ -532,11 +1050,22 @@
             "jpText": "ライスのお願いと、似てるね。",
             "enText": "It's a lot like what Rice asked me to do.",
             "nextBlock": 48,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "ライスのお願いは？",
                     "enText": "Can I get some Rice, please?",
                     "nextBlock": 48
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": 8281920757600542313
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -3597221464610904975
                 }
             ],
             "pathId": 1539180165130287353,
@@ -548,6 +1077,17 @@
             "jpText": "ライスのお願いは……\r\nライスを応援してくれるみんなと――",
             "enText": "Rice's request is… With everyone \nwho supports Rice—",
             "nextBlock": 49,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 8946328653101578865
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -1104917066192131211
+                }
+            ],
             "pathId": -9207910290860858584,
             "blockIdx": 48
         },
@@ -557,6 +1097,18 @@
             "jpText": "お兄さまの、幸せ。",
             "enText": "Your brother's happiness.",
             "nextBlock": 50,
+            "origClipLength": 50,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -6138445053204485104
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 6888795584062304669
+                }
+            ],
             "pathId": -3150328692641207879,
             "blockIdx": 49
         },
@@ -566,6 +1118,18 @@
             "jpText": "お姉さまの、幸せ。",
             "enText": "Your sister's happiness.",
             "nextBlock": 51,
+            "origClipLength": 50,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -3540454547637892025
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 2904033756959306681
+                }
+            ],
             "pathId": 4532253876399143455,
             "blockIdx": 50
         },
@@ -575,6 +1139,17 @@
             "jpText": "――その時、視界の端で何かが煌いた。",
             "enText": "—At that moment, something glimmered \nat the edge of my vision.",
             "nextBlock": 52,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -2905499855752087304
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -1535229093493183893
+                }
+            ],
             "pathId": -6400528098552679740,
             "blockIdx": 51
         },
@@ -584,6 +1159,22 @@
             "jpText": "お兄さま、見て！\r\n空が――",
             "enText": "Brother, look! The sky…",
             "nextBlock": 53,
+            "origClipLength": 54,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -4898300744416635961
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 9155904257826685780
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -7384809453951198845
+                }
+            ],
             "pathId": -8632926256910883498,
             "blockIdx": 52
         },
@@ -593,6 +1184,22 @@
             "jpText": "お姉さま、見て！\r\n空が――",
             "enText": "Sister, look! The sky…",
             "nextBlock": 54,
+            "origClipLength": 54,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 4841280387841290398
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -6042528736975062474
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 5707520756511670021
+                }
+            ],
             "pathId": -4454380390933555008,
             "blockIdx": 53
         },
@@ -602,6 +1209,21 @@
             "jpText": "気づけば、空からはいつの間にか雲が失せ、\r\n星々の瞬きと、流星の煌きで彩られていた。",
             "enText": "A suddenly cloudless sky spread before me, \nfilled with the twinkling of stars and the \nglimmer of meteors.",
             "nextBlock": 55,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -7176040903396455482
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 3188764862593310230
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 2707837950367819271
+                }
+            ],
             "pathId": -6565311948450723615,
             "blockIdx": 54
         },
@@ -611,6 +1233,7 @@
             "jpText": "わぁ……！\r\n流れ星が、いっぱい……！",
             "enText": "Wow…! A lot of shooting stars…!",
             "nextBlock": 56,
+            "origClipLength": 57,
             "choices": [
                 {
                     "jpText": "願い事しなきゃ！",
@@ -627,6 +1250,7 @@
             "jpText": "うん！",
             "enText": "Yeah!",
             "nextBlock": 57,
+            "origClipLength": 46,
             "pathId": 6723493941427608956,
             "blockIdx": 56
         },
@@ -636,8 +1260,10 @@
             "jpText": "ライスシャワーと一緒に、\r\n降り落ちる星の雨に、願いを託した。",
             "enText": "With Rice Shower, I made a wish \non the falling rain of stars.",
             "nextBlock": -1,
+            "origClipLength": 65,
             "pathId": 6227734988011085071,
             "blockIdx": 57
         }
-    ]
+    ],
+    "modified": 1669945559
 }

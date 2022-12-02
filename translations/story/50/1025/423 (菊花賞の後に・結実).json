@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "2NXIMPLUVJ5M5MUIYSZSWSQI3NZ3MSOU",
     "type": "story",
     "storyId": "501025423",
@@ -11,6 +11,17 @@
             "jpText": "春夏の努力が実を結び、\r\nマンハッタンカフェは『菊花賞』で快走した。",
             "enText": "His efforts in the spring and summer\npaid off, and Manhattan Cafe ran\nwell in Kikka-sho.",
             "nextBlock": 2,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 161,
+                    "pathId": -408373298953024264
+                },
+                {
+                    "origLen": 168,
+                    "pathId": 8869405453126123356
+                }
+            ],
             "pathId": 3610044199955414379,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "これまでで1番『お友だち』に近づけた、\r\nと彼女も手ごたえを感じている。",
             "enText": "She felt that she was the closest to a\n\"friend\" that she had ever been.",
             "nextBlock": 3,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 178,
+                    "pathId": 4864039566233565230
+                },
+                {
+                    "origLen": 184,
+                    "pathId": 4150279753751457788
+                }
+            ],
             "pathId": 1460927942252554028,
             "blockIdx": 2
         },
@@ -29,10 +51,37 @@
             "jpText": "体の不調も見られない。次こそ『お友だち』\r\nに追いつく……そのために次走を\n年末の締めくくり『有馬記念』に定めた。",
             "enText": "There is no sign of physical discomfort. The\nnext race will be the Arima Kinen, which is\nthe closing race of the year, to catch up\nwith her friends.",
             "nextBlock": 4,
+            "origClipLength": 119,
             "coloredText": [
                 {
                     "jpText": "有馬記念",
                     "enText": "Yuuma Memorial"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -3105852228559637138
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 5485887078595848913
+                },
+                {
+                    "origLen": 180,
+                    "pathId": -4029639262441917682
+                },
+                {
+                    "origLen": 211,
+                    "pathId": 1780042908217101429
+                },
+                {
+                    "origLen": 186,
+                    "pathId": -631370005053622929
+                },
+                {
+                    "origLen": 211,
+                    "pathId": -9036152634401895968
                 }
             ],
             "pathId": -2205951386786143436,
@@ -44,6 +93,7 @@
             "jpText": "その大舞台にはシニア級を賑わせている\r\nテイエムオペラオーとメイショウドトウが\n待ち受けているのだった。",
             "enText": "On the big stage, the two most popular\nhorses in the senior class, Teym Opera O and\nMeishoudou, were waiting for her.",
             "nextBlock": -1,
+            "origClipLength": 112,
             "coloredText": [
                 {
                     "jpText": "シニア級",
@@ -58,8 +108,27 @@
                     "enText": "peach garden"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 221,
+                    "pathId": -4402890117699367037
+                },
+                {
+                    "origLen": 211,
+                    "pathId": 2738666573030489817
+                },
+                {
+                    "origLen": 242,
+                    "pathId": 2858989736920770656
+                },
+                {
+                    "origLen": 211,
+                    "pathId": -7171944643112670009
+                }
+            ],
             "pathId": -6337881263295912994,
             "blockIdx": 4
         }
-    ]
+    ],
+    "modified": 1669946362
 }

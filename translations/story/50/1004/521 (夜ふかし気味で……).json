@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "WBLC52GFQ3TQQR6DO4DNCB6Q6CSCXGTO",
     "type": "story",
     "storyId": "501004521",
@@ -11,6 +11,7 @@
             "jpText": "うーんっ……ふああ……。",
             "enText": "Hmmm … ah …",
             "nextBlock": 2,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "眠いのか？",
@@ -23,6 +24,20 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 5411586165673974554
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1783668677164906379
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6779477185057195400
+                }
+            ],
             "pathId": 1523063557392007703,
             "blockIdx": 1
         },
@@ -32,6 +47,21 @@
             "jpText": "ふふっ、ちょっとね。\r\n昨日はディープなナイトだったわ。",
             "enText": "Hmmm…sort of. It was a deep\nnight last night.",
             "nextBlock": 3,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 963936465817031017
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 8268472630417296809
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -950067747931226903
+                }
+            ],
             "pathId": 8497303897384600995,
             "blockIdx": 2
         },
@@ -41,6 +71,17 @@
             "jpText": "ナウいグッズを扱ってるお店があってね。\r\nお家用のミラーボールを買ったの。",
             "enText": "There's a store that sells some\nreally cool stuff. I bought a\nmirror ball for my house.",
             "nextBlock": 4,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -1124023861100804656
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 6042318098991825823
+                }
+            ],
             "pathId": 7358576723967194868,
             "blockIdx": 3
         },
@@ -50,6 +91,17 @@
             "jpText": "おかげで、ディスコ並の\r\nミュージックフィーバーだったわ。",
             "enText": "It was music fever on par with a disco.",
             "nextBlock": 5,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 1694652511964975628
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -8304083712847595787
+                }
+            ],
             "pathId": 8790807580278207579,
             "blockIdx": 4
         },
@@ -59,8 +111,24 @@
             "jpText": "ふああ……。\r\nとはいえ、寝不足だわ～……。",
             "enText": "Huh… I'm not sleeping well, though - …",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 1699935005220202673
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 9042973316093372045
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 4527945034254393290
+                }
+            ],
             "pathId": 3969297812458732109,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669944916
 }

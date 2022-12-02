@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "QVSFATKYQOUWW5UWKNZAJELXKLTIC4S5",
     "type": "story",
     "storyId": "801035002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、廊下を歩いていると……。",
             "enText": "One day, as I was walking down \nthe corridor, I saw…",
             "nextBlock": 2,
+            "origClipLength": 75,
             "pathId": 8685564629111461908,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ちょっとそこどいてーっ。\nはいっ、失礼！",
             "enText": "Get out of the way! Yes, excuse me!",
             "nextBlock": 3,
+            "origClipLength": 58,
             "pathId": 1582076978861320554,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "生徒が1人、猛スピードで\r\n階段の手すりを滑り下りていった。",
             "enText": "One student slid down the stair railing \nat a high rate of speed.",
             "nextBlock": 4,
+            "origClipLength": 64,
             "pathId": 2754835394780460401,
             "blockIdx": 3
         },
@@ -38,6 +41,17 @@
             "jpText": "待て待て待てーーーっ！",
             "enText": "Wait, wait, wait!",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -5946796485571846125
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 8781287844915927135
+                }
+            ],
             "pathId": 363098484334325160,
             "blockIdx": 4
         },
@@ -47,11 +61,22 @@
             "jpText": "あ、あれ！？　いない！　なぜだーっ！",
             "enText": "Oh, no! She's not here! Why?",
             "nextBlock": 6,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "どうしたの？",
                     "enText": "What's the matter?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -7798305853568933435
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8091029232399812596
                 }
             ],
             "pathId": 8386835191682201487,
@@ -63,6 +88,17 @@
             "jpText": "鬼ごっこ！\nアタシが鬼！",
             "enText": "Tag! I'm the ogre!",
             "nextBlock": 7,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -2444263222671665388
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 5110384051824866942
+                }
+            ],
             "pathId": 9123222218916590648,
             "blockIdx": 6
         },
@@ -72,6 +108,7 @@
             "jpText": "全力で追いかけてるのに\nどうしても見失っちゃうんだよねー！",
             "enText": "I'm chasing it with all my might, but I just \ncan't seem to lose it!",
             "nextBlock": 8,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "手すりショートカットだ！",
@@ -84,6 +121,16 @@
                     "nextBlock": 11
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -2310440137509287575
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2599137459657546242
+                }
+            ],
             "pathId": 5255928609630061465,
             "blockIdx": 7
         },
@@ -93,6 +140,17 @@
             "jpText": "手すり……ショートカット……？\nそうか、手すりの上を飛び越えてったのか！",
             "enText": "Handrail… shortcut…? Right, she \njumped over the railing!",
             "nextBlock": 9,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 4144087773255904810
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3472430472590479736
+                }
+            ],
             "pathId": 6272795124585623584,
             "blockIdx": 8
         },
@@ -102,6 +160,17 @@
             "jpText": "なんて上手い作戦なんだぁーっ！\nありがとう、助かったよ！",
             "enText": "What a good plan! Thank you, \nyou've been a great help!",
             "nextBlock": 10,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -6946387136052822798
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -6203224015850297237
+                }
+            ],
             "pathId": -8564297343362506943,
             "blockIdx": 9
         },
@@ -111,6 +180,17 @@
             "jpText": "ウイニングチケットは気合い満点で\r\n走り去っていった。",
             "enText": "Winning Ticket rode away in high spirits.",
             "nextBlock": -1,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -5084471914396876948
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -3054543003160101822
+                }
+            ],
             "pathId": -4457629700153876218,
             "blockIdx": 10
         },
@@ -120,6 +200,17 @@
             "jpText": "ヨソウ？　予想、予想……。\nあっ！　そうか！",
             "enText": "Josow? Forecast, forecast… Ah! Right!",
             "nextBlock": 12,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -7020038773866383531
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 247394363688263195
+                }
+            ],
             "pathId": -6348244355723434780,
             "blockIdx": 11
         },
@@ -129,6 +220,17 @@
             "jpText": "つまり、相手も全力で逃げてるんだ！\r\nだったらアタシは、もーーーっと全力で！",
             "enText": "In other words, she's running away as fast as \nshe can! Then I'll do my best!",
             "nextBlock": 13,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 3016305101654143595
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4330555872478205645
+                }
+            ],
             "pathId": -424202050187982524,
             "blockIdx": 12
         },
@@ -138,8 +240,20 @@
             "jpText": "ウイニングチケットは気合い満点で\n走り去っていった。",
             "enText": "Winning Ticket rode away in high spirits.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -1138150404502526790
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 223124121547028027
+                }
+            ],
             "pathId": -5673109634095985792,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669945958
 }

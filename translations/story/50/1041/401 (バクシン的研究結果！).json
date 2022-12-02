@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "TAFZBUGD3RERNNWPWCFQNEDNB3WQRDV7",
     "type": "story",
     "storyId": "501041401",
@@ -11,6 +11,7 @@
             "jpText": "中長距離でのレースを意識して、同世代で\r\n活躍するライスシャワーやミホノブルボンの\n研究を秘密裏に行うサクラバクシンオー。",
             "enText": "Sakura Bakushin O, who has been secretly\nstudying her contemporaries Rice Shower and\nMihono Bourbon, with an eye to racing in the\nmiddle and long distances.",
             "nextBlock": 2,
+            "origClipLength": 124,
             "coloredText": [
                 {
                     "jpText": "ライスシャワー",
@@ -19,6 +20,16 @@
                 {
                     "jpText": "ミホノブルボン",
                     "enText": "Mihono Bourbon"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 190,
+                    "pathId": -8131213537718164744
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -63036029630474504
                 }
             ],
             "pathId": 5996785418945973956,
@@ -30,6 +41,17 @@
             "jpText": "2人をしっかりと観察し、特徴を見極める\r\n彼女だが……自分のことになると考えが\n足りなくなり、情熱のまま暴走してしまう。",
             "enText": "She observes them closely and identifies\ntheir characteristics, but when it comes to\n… herself, she doesn't think enough and\nruns wild with passion.",
             "nextBlock": 3,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 190,
+                    "pathId": 3989862439072447159
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 6364479834211394535
+                }
+            ],
             "pathId": -5985869213069630632,
             "blockIdx": 2
         },
@@ -39,8 +61,20 @@
             "jpText": "トレーナーは、そんなサクラバクシンオーを\r\nどうやって導くべきか、困り果てるのだった。",
             "enText": "The trainer was at a loss as to\nhow to guide Sakura Bakushin O.",
             "nextBlock": -1,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 190,
+                    "pathId": -7376180316525847723
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 3644529173839381219
+                }
+            ],
             "pathId": 2652143019389898824,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945710
 }

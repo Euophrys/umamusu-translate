@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7A32R6ROAPXW54SADBSGNNXIVU4B6E7A",
     "type": "story",
     "storyId": "501050400",
@@ -11,6 +11,7 @@
             "jpText": "いよいよ今日から、ナリタタイシンと\nトゥインクル・シリーズへの\n本格的な挑戦が始まる。",
             "enText": "Finally, today marks the start of the \nfull-fledged challenge to Narita Taishin and \nthe Twinkle Series.",
             "nextBlock": 2,
+            "origClipLength": 101,
             "coloredText": [
                 {
                     "jpText": "ナリタタイシン",
@@ -19,6 +20,16 @@
                 {
                     "jpText": "トゥインクル・シリーズ",
                     "enText": "Twinkle Series"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 6713867794455542753
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 8482473855022649465
                 }
             ],
             "pathId": 4612109006789914369,
@@ -30,6 +41,17 @@
             "jpText": "末脚のキレを見せつけ、\n彼女を軽んじてきた周囲の鼻を明かすため――",
             "enText": "She was going to show off her speed and show \nthat people had been underestimating her.",
             "nextBlock": 3,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 6932075376622954508
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 1457116751918825938
+                }
+            ],
             "pathId": 859323973042464993,
             "blockIdx": 2
         },
@@ -39,8 +61,20 @@
             "jpText": "まずはデビュー戦へ向けて\n二人三脚で走り出したのだった。",
             "enText": "First, they set out on a three-legged \nrace to make their debut.",
             "nextBlock": -1,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 4656806119788828003
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -3951401595307642498
+                }
+            ],
             "pathId": 900241101115961670,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945806
 }

@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "43DMBSTVXWKDIGBFYRVN6VSNPZKPM4CF",
     "type": "story",
     "storyId": "501032509",
@@ -11,11 +11,22 @@
             "jpText": "…………。\r\n……テセウスの船をどう思う。",
             "enText": "… What do\nyou think of Theseus' ship?",
             "nextBlock": 2,
+            "origClipLength": 58,
             "choices": [
                 {
                     "jpText": "え？",
                     "enText": "What?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -4963794391123953235
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 3541469441248388752
                 }
             ],
             "pathId": -1708237050709305433,
@@ -27,6 +38,17 @@
             "jpText": "パラドックスだよ、トレーナー君……。",
             "enText": "It's a paradox, Mr. Trainer…",
             "nextBlock": 3,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -4830235189415462422
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -4393936707992748850
+                }
+            ],
             "pathId": 6502415164312650484,
             "blockIdx": 2
         },
@@ -36,6 +58,21 @@
             "jpText": "もしも私の研究の果てに、\r\nすべてを作りかえる発見があったとして……。",
             "enText": "If, at the end of my research, I had\ndiscovered something that would remake\neverything, I would have to go to…",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -4149096078463374048
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 957336743068800536
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5808635536053773232
+                }
+            ],
             "pathId": -1470983395871698974,
             "blockIdx": 3
         },
@@ -45,6 +82,21 @@
             "jpText": "その構造……変化の向こう側、\r\n一体どこまでがウマ娘なのかという疑問……。",
             "enText": "On the other side of that structure…\nchange, the question of how much of it is\nUma Musume…",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2689898067049969645
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -535869094377803443
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 6820736504872859387
+                }
+            ],
             "pathId": 93633610188297853,
             "blockIdx": 4
         },
@@ -54,6 +106,17 @@
             "jpText": "……その疑問が……\r\n今、頭の中でグルグルと……。",
             "enText": "… That question… is now\nwhirling… around in my head.",
             "nextBlock": 6,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": -7580998299122724383
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 1719834198715873579
+                }
+            ],
             "pathId": 8987646844857103149,
             "blockIdx": 5
         },
@@ -63,6 +126,17 @@
             "jpText": "……アグネスタキオンはボーッとしている。",
             "enText": "… Agnes Tachyon is in a daze.",
             "nextBlock": 7,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -8721609450621018045
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -9215389986596029903
+                }
+            ],
             "pathId": 795505221396244854,
             "blockIdx": 6
         },
@@ -72,8 +146,20 @@
             "jpText": "レースが続いているせいだろうか？\r\n今後のためにもスケジュールを\n見直した方がよさそうだ。",
             "enText": "Is it because of the continuous racing?\nI think we should rethink our schedule\nfor the future.",
             "nextBlock": -1,
+            "origClipLength": 74,
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 8583132935011689611
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -6749113016822101307
+                }
+            ],
             "pathId": -4652414790157152635,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669945582
 }

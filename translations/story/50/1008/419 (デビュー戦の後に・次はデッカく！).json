@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "IOJXKY6C3MZQEFQDY5TS23QJHENZDYBT",
     "type": "story",
     "storyId": "501008419",
@@ -11,10 +11,21 @@
             "jpText": "無事『メイクデビュー』を果たし\r\n自分の実力を確認して安堵したウオッカは、\n勢いに任せてGⅠレースへの出走を宣言する。",
             "enText": "Vodka, relieved and emboldened by \nher successful debut, declares her \nintention to run a GⅠ race.",
             "nextBlock": 2,
+            "origClipLength": 121,
             "coloredText": [
                 {
                     "jpText": "GⅠ",
                     "enText": "GⅠ"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -405645317686289046
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 8506756372631183160
                 }
             ],
             "pathId": -7269874249768034321,
@@ -26,14 +37,26 @@
             "jpText": "そして……彼女は字面のカッコよさに\r\n惹かれて、次の目標レースを\n『阪神JF』に定めるのだった。",
             "enText": "And… attracted by the coolness \nof the words, she set her next target \nrace as \"Hanshin JF\".",
             "nextBlock": -1,
+            "origClipLength": 107,
             "coloredText": [
                 {
                     "jpText": "阪神JF",
                     "enText": "Hanshin JF"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -1062530309991351943
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 3337947498739350344
+                }
+            ],
             "pathId": 1933890788363025307,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945039
 }

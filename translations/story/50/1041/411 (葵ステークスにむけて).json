@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "TNZXBGQ3ZL27MMYUMKFKTYQFOPNWDS4I",
     "type": "story",
     "storyId": "501041411",
@@ -11,6 +11,17 @@
             "jpText": "さらなるスピードを求めて、\r\n『葵ステークス』に挑む\nサクラバクシンオー。",
             "enText": "Sakura Bakushin O, in search of even more\nspeed, takes on the Aoi Stakes.",
             "nextBlock": 2,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 239,
+                    "pathId": -3913545012915244166
+                },
+                {
+                    "origLen": 218,
+                    "pathId": -3502193405232805426
+                }
+            ],
             "pathId": 2894162801336032744,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "電光石火の走りに期待してほしいと、\r\n彼女はレースへと向かっていった。",
             "enText": "She headed off to the race, hoping\nfor a lightning-fast run.",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 239,
+                    "pathId": -1318763401844662093
+                },
+                {
+                    "origLen": 218,
+                    "pathId": -1805229503381839295
+                }
+            ],
             "pathId": 6374276177315992410,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945711
 }

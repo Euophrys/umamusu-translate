@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "V5V6ZY3UMSCCBTJH4UIPET74VQ3JL4XY",
     "type": "story",
     "storyId": "801010002",
@@ -11,6 +11,7 @@
             "jpText": "ある日、商店街で買い出しをしていると……。",
             "enText": "One day, while shopping in the shopping \narcade, I came across…",
             "nextBlock": 2,
+            "origClipLength": 85,
             "pathId": -8634523535731817248,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "ウーン！　グッズ買いすぎマシタ！\r\nどうしまショウ～？",
             "enText": "Oh no! I've bought too much \nstuff! What should I do?",
             "nextBlock": 3,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
@@ -30,6 +32,17 @@
                     "jpText": "どうしたの？",
                     "enText": "What's the matter?",
                     "nextBlock": 4
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 8748131685564898402
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 1670509639541171006
                 }
             ],
             "pathId": -938395306767381442,
@@ -41,6 +54,7 @@
             "jpText": "ウーン！　グッズ買いすぎマシタ！\r\nどうしまショウ～？",
             "enText": "Oh no! I've bought too much \nstuff! What should I do?",
             "nextBlock": 4,
+            "origClipLength": 80,
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
@@ -53,6 +67,17 @@
                     "nextBlock": 4
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -813526705484189914
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 3960847135301946083
+                }
+            ],
             "pathId": -9164820908754949704,
             "blockIdx": 3
         },
@@ -62,6 +87,17 @@
             "jpText": "オゥ！　キグーですね！\r\n実は今日、ナイトパーティーをするんデス！",
             "enText": "Ooh! You're kiggy! We're actually \nhaving a night party today!",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -1967648313128225447
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -825461867443305212
+                }
+            ],
             "pathId": 7478949588936229785,
             "blockIdx": 4
         },
@@ -71,6 +107,17 @@
             "jpText": "朝からドキドキわくわく楽しみで！\r\nグッズたくさん買っちゃいマシタ！　でも――",
             "enText": "I'm so excited and looking forward to this \nmorning! I've bought so much stuff! But…",
             "nextBlock": 6,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 7387298536504784753
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 7648322518886960864
+                }
+            ],
             "pathId": 9020083846101100153,
             "blockIdx": 5
         },
@@ -80,6 +127,21 @@
             "jpText": "見てくだサイ！　いつもの道、人がいっぱい！\r\nえらいこっちゃデス！",
             "enText": "Look at this! The usual streets are \nfull of people! What a mess!",
             "nextBlock": 7,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -1882405847530516654
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8184504017679325250
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5011539323854295931
+                }
+            ],
             "pathId": 3291406884924588437,
             "blockIdx": 6
         },
@@ -89,6 +151,7 @@
             "jpText": "けど、遠回りしたら時間が……ウーン！\r\nやはりいつもの道で行くべきでショウカ？",
             "enText": "But if we take the long way, we'll lose time \n…! Shouldn't we take the usual route?",
             "nextBlock": 8,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "遠回りして全力ダッシュだ！",
@@ -104,6 +167,21 @@
                     "jpText": "集団をかき分けるイメージで走ろう！",
                     "enText": "Ride like you're cutting through the pack!",
                     "nextBlock": 12
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -1217196423457463820
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -7496555134488370968
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 339385907432300785
                 }
             ],
             "pathId": 771021112080049239,
@@ -115,6 +193,7 @@
             "jpText": "けど、遠回りしたら時間が……ウーン！\r\nやはりいつもの道で行くべきでショウカ？",
             "enText": "But if we take the long way, we'll lose time \n…! Shouldn't we take the usual route?",
             "nextBlock": 9,
+            "origClipLength": 95,
             "choices": [
                 {
                     "jpText": "遠回りして全力ダッシュだ！",
@@ -132,6 +211,21 @@
                     "nextBlock": 12
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 5315362249833689704
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -820702527966560890
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -3168849467864203014
+                }
+            ],
             "pathId": 4619642348172846530,
             "blockIdx": 8
         },
@@ -141,6 +235,17 @@
             "jpText": "オゥ！　ナイスアイディア！\r\n間に合うように、ダッシュすれば……！",
             "enText": "Oh! Nice idea! Just dash to… in time!",
             "nextBlock": 10,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -5685244581128149250
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1669611178743842618
+                }
+            ],
             "pathId": 7170112523785558952,
             "blockIdx": 9
         },
@@ -150,6 +255,17 @@
             "jpText": "よーしっ！\r\n遠回りダッシュ！",
             "enText": "Alright! Dash the long way!",
             "nextBlock": 11,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -8744374735441078380
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 6257117563790856220
+                }
+            ],
             "pathId": -8290500212698997629,
             "blockIdx": 10
         },
@@ -159,6 +275,21 @@
             "jpText": "レッツゴー！",
             "enText": "Let's go!",
             "nextBlock": -1,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 3550319730079820524
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 7680020676182872422
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -3091828791581053614
+                }
+            ],
             "pathId": 2302092769093808414,
             "blockIdx": 11
         },
@@ -168,6 +299,17 @@
             "jpText": "ワォ……！　目からウロコ！\r\nなるほどデース！",
             "enText": "Wow…! Scales from my eyes! That makes sense!",
             "nextBlock": 13,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 3209190481668020005
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 8741935379413750245
+                }
+            ],
             "pathId": 1603753918787702574,
             "blockIdx": 12
         },
@@ -177,8 +319,20 @@
             "jpText": "よーしっ！　チャッカリ頑張りマース！",
             "enText": "All right! We'll do our best!",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 8047520370194579503
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6727392621572342919
+                }
+            ],
             "pathId": -6322575808788828879,
             "blockIdx": 13
         }
-    ]
+    ],
+    "modified": 1669945949
 }

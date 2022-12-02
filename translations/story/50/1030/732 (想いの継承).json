@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "LZXT2G5CMYCRUX2UJTTVASIQISCP3JSE",
     "type": "story",
     "storyId": "501030732",
@@ -11,6 +11,17 @@
             "jpText": "だれ……？\r\nライスのこと呼んだ？",
             "enText": "Who's…? Did you call Rice?",
             "nextBlock": 2,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -7585042657959929877
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4786287542174707717
+                }
+            ],
             "pathId": -6080404138399521759,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "……お返事がない。",
             "enText": "I haven't heard back from…",
             "nextBlock": 3,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 1408177193894908819
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 5950798524020361480
+                }
+            ],
             "pathId": -6722293767649014490,
             "blockIdx": 2
         },
@@ -29,8 +51,24 @@
             "jpText": "三女神さま……なにか知ってる……？",
             "enText": "The three goddesses… know something…?",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 6509630997899211451
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 2744999962993272938
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7115772164197165490
+                }
+            ],
             "pathId": -3527550385741913099,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945565
 }

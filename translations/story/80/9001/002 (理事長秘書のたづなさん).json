@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "I4OQYKFOSWN3HV6Y7HIQ5ZS7MHBZEEIW",
     "type": "story",
     "storyId": "809001002",
@@ -11,6 +11,7 @@
             "jpText": "トレーニング後のこと――",
             "enText": "After training—",
             "nextBlock": 2,
+            "origClipLength": 52,
             "pathId": 2092919132245224126,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "お疲れ様です、トレーナーさん！\r\n毎日がんばっておられるようですね。",
             "enText": "Good work, trainer! It seems that \nyou work hard every day.",
             "nextBlock": 3,
+            "origClipLength": 67,
             "pathId": 920941652446043014,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "担当ウマ娘の成長もさることながら、\r\n新人として学園にいらした頃から\nあなたを存じている身としては――",
             "enText": "I've known you since you first came \nto the school as a newcomer, and \nI've seen your progress.",
             "nextBlock": 4,
+            "origClipLength": 79,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 3319535558285150900
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 6734010464301267627
+                }
+            ],
             "pathId": 885551811746874165,
             "blockIdx": 3
         },
@@ -38,6 +51,17 @@
             "jpText": "トレーナーさん自身の成長も目覚ましく、\r\nなんだか嬉しくなってしまいました♪",
             "enText": "The trainer's own progress has been \nremarkable, which makes me very happy.",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2708644090204902010
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3237395584525991375
+                }
+            ],
             "pathId": 5854341540422006087,
             "blockIdx": 4
         },
@@ -47,6 +71,17 @@
             "jpText": "理事長秘書という立場ではございますが、\r\nこれからも見守らせてくださいませ。",
             "enText": "I would like to ask you to continue \nto watch over us in your capacity \nas Secretary to the President.",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 1479800316712102561
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 9117658560196957793
+                }
+            ],
             "pathId": -5171377902094467799,
             "blockIdx": 5
         },
@@ -56,8 +91,20 @@
             "jpText": "では、ますますのご活躍、\r\n心より楽しみにしていますね！",
             "enText": "We look forward to your continued success!",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 6912462731585154288
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5864961144500521658
+                }
+            ],
             "pathId": -5793564245776161397,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945975
 }

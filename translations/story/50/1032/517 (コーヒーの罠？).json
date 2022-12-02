@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "HUF2F5EEBWMK42OZF3BWSRLMWDQV4C3S",
     "type": "story",
     "storyId": "501032517",
@@ -11,11 +11,22 @@
             "jpText": "うう、最悪だ……。\r\nどうしてこんなミスを……。",
             "enText": "Ugh, that sucks… How could I have\nmade such a mistake…?",
             "nextBlock": 2,
+            "origClipLength": 60,
             "choices": [
                 {
                     "jpText": "実験でも失敗した？",
                     "enText": "An experiment gone wrong?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 6903011352727480612
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 426237309868662178
                 }
             ],
             "pathId": -8290863709887121498,
@@ -27,6 +38,21 @@
             "jpText": "……いいや、それならまだいい。",
             "enText": "… good, that's still good.",
             "nextBlock": 3,
+            "origClipLength": 54,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2665184574380164430
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 3777946675415051449
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -767325023097356867
+                }
+            ],
             "pathId": -7474965361971030870,
             "blockIdx": 2
         },
@@ -36,6 +62,17 @@
             "jpText": "食堂でね……マンハッタンカフェが\r\n隣に座ったんだよ。",
             "enText": "In the cafeteria,…, Manhattan\nCafe sat next to me.",
             "nextBlock": 4,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 3545304612429909712
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 7401005660446824616
+                }
+            ],
             "pathId": -184488071183359874,
             "blockIdx": 3
         },
@@ -45,6 +82,21 @@
             "jpText": "それはいいんだが……うっかり、\r\n彼女のコーヒーを飲んでしまって。",
             "enText": "That's fine, but… I accidentally\ndrank some of her coffee.",
             "nextBlock": 5,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 5325779577249372851
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 1513972731083119448
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 5286003929909938472
+                }
+            ],
             "pathId": -6189770787642305814,
             "blockIdx": 4
         },
@@ -54,6 +106,21 @@
             "jpText": "香りも色もコーヒーだったのに、\r\nどうして間違えてしまったのか。",
             "enText": "It smelled and looked like coffee, so how\ncould I have made a mistake?",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2014355698446008181
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -2872347025683363375
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 9012900842805427774
+                }
+            ],
             "pathId": 4124965294326295340,
             "blockIdx": 5
         },
@@ -63,8 +130,20 @@
             "jpText": "うう、口の中がまだ苦いよー……。",
             "enText": "Ugh, my mouth is still bitter…",
             "nextBlock": -1,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 2586947573593971591
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -1300768373455996634
+                }
+            ],
             "pathId": -2236136677809172325,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945584
 }

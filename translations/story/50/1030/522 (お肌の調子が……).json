@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "DIALY26WS46CO32OJDEDT32UERGRYQSF",
     "type": "story",
     "storyId": "501030522",
@@ -11,6 +11,7 @@
             "jpText": "うぅ～ん……これで隠れてるかなぁ……。",
             "enText": "Hmmm… I wonder if this is hiding…",
             "nextBlock": 2,
+            "origClipLength": 57,
             "pathId": -6531711535120731703,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "トレーナー室に行くと、なにやら前髪を\r\nいじっているライスシャワーがいた。",
             "enText": "When I got to the trainer's office, I found \nRice Shower tweaking her bangs.",
             "nextBlock": 3,
+            "origClipLength": 69,
             "pathId": -2889712240312431366,
             "blockIdx": 2
         },
@@ -29,6 +31,18 @@
             "jpText": "あっ、お兄さま……これは……その……。",
             "enText": "Oh, brother… this is… that…",
             "nextBlock": 4,
+            "origClipLength": 57,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": -7606109714570609036
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 2558614795446230936
+                }
+            ],
             "pathId": -9018716708490339991,
             "blockIdx": 3
         },
@@ -38,6 +52,18 @@
             "jpText": "あっ、お姉さま……これは……その……。",
             "enText": "Oh, sister… this is … that…",
             "nextBlock": 5,
+            "origClipLength": 57,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 175,
+                    "pathId": 3104791689760795610
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 9137648514016522916
+                }
+            ],
             "pathId": 6277419485216512983,
             "blockIdx": 4
         },
@@ -47,11 +73,22 @@
             "jpText": "おでこにできものがあって……前髪で\r\n隠そうと……これ、隠れてるかなぁ……？",
             "enText": "I had a boil on my forehead… I tried to hide \nit with my bangs… I wonder if it's hidden…?",
             "nextBlock": 6,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "大丈夫、見えないよ",
                     "enText": "It's okay. I can't see.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 4958062626869786102
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4440279665000673644
                 }
             ],
             "pathId": 2398674919204849614,
@@ -63,6 +100,18 @@
             "jpText": "お兄さまがそういうなら……。",
             "enText": "If that's what your brother \nsays, please visit…",
             "nextBlock": 7,
+            "origClipLength": 54,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 1905921484597419448
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -3064517829750112034
+                }
+            ],
             "pathId": 7665628553393680021,
             "blockIdx": 6
         },
@@ -72,6 +121,18 @@
             "jpText": "お姉さまがそういうなら……。",
             "enText": "If your sister says so, please go to…",
             "nextBlock": 8,
+            "origClipLength": 54,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 3922291496352634646
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 5129670651255924808
+                }
+            ],
             "pathId": 2931324879117371172,
             "blockIdx": 7
         },
@@ -81,8 +142,20 @@
             "jpText": "納得はしてくれたが、ライスシャワーは\r\n肌荒れを気にしているようだった。",
             "enText": "She was convinced, but Rice Shower \nseemed to be bothering her skin.",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -2106666442303397663
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 981316767904981197
+                }
+            ],
             "pathId": 3696866445451291005,
             "blockIdx": 8
         }
-    ]
+    ],
+    "modified": 1669945557
 }

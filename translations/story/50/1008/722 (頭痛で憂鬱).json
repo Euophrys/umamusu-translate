@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "7INUZQKLLXBAAY3PMSRGDAO2MXB4RZ4N",
     "type": "story",
     "storyId": "501008722",
@@ -11,6 +11,17 @@
             "jpText": "トレーニング開始直前なのだが、\r\nウオッカは体調がよくない様子だ……。",
             "enText": "It's just before the start of training, \nbut Vodka doesn't seem to be in \ngood shape…",
             "nextBlock": 2,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -4230062877449407477
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -4469985100482060040
+                }
+            ],
             "pathId": 4075061422415821003,
             "blockIdx": 1
         },
@@ -20,11 +31,22 @@
             "jpText": "うぁ～……。\r\nいっててて……！",
             "enText": "Ugh!… I've been there…!",
             "nextBlock": 3,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "トレーニングは中止しようか……？",
                     "enText": "Shall we cancel the training…?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 4138597390729719718
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -7493362069958062222
                 }
             ],
             "pathId": -1804765613567183369,
@@ -36,6 +58,17 @@
             "jpText": "だ、ダメだ！　断るっ！\r\nそんなダセぇマネできるかっての！",
             "enText": "No! No! No! You can't do something like that!",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 5329673664095188497
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 2779486212378470335
+                }
+            ],
             "pathId": -1787023860041453794,
             "blockIdx": 3
         },
@@ -45,6 +78,17 @@
             "jpText": "痛みに耐えて自分を高めていく――\r\nそーゆーのが、カッコいい姿ってモンだ！",
             "enText": "You have to endure pain to improve yourself.",
             "nextBlock": 5,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -5679056410521973534
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1964103266656502312
+                }
+            ],
             "pathId": -5862514915175593953,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "さっさとトレーニングを始めるぞ！\r\nこんくらい、乗り越えてやらぁ！",
             "enText": "Let's get this training started! \nI'm gonna get through this!",
             "nextBlock": 6,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -8781990862911052694
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 6333880850468708390
+                }
+            ],
             "pathId": -7024491163528953273,
             "blockIdx": 5
         },
@@ -63,6 +118,17 @@
             "jpText": "――～～～ッッッ！！！\r\nあ、頭が……っ！",
             "enText": "—~~~! Oh, my head…!",
             "nextBlock": 7,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -8826942186544104752
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -2903664373676229767
+                }
+            ],
             "pathId": 3477706877311079435,
             "blockIdx": 6
         },
@@ -72,8 +138,10 @@
             "jpText": "……そうしてトレーニングを始めたものの、\r\n頭痛に悩まされてしまうウオッカであった。",
             "enText": "… So began the training, but \nVodka was plagued by a headache.",
             "nextBlock": -1,
+            "origClipLength": 99,
             "pathId": -5682061454054293914,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669945054
 }

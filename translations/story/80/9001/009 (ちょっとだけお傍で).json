@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "5MHGWTMQOPWFB3YYQNOIMGZIE5YZV33K",
     "type": "story",
     "storyId": "809001009",
@@ -11,6 +11,7 @@
             "jpText": "<chrname>との日々にもひと区切り\r\nついたある日のこと。",
             "enText": "One day, after a break in her life \nwith <chrname>, she found herself in \nthe company of a young man who had \nbeen working for a long time.",
             "nextBlock": 2,
+            "origClipLength": 65,
             "pathId": -7561788533661220686,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "たづなさんに誘われ、レース場へと\r\n観戦にやって来たのだが――",
             "enText": "Tazuna invited me to the race \ntrack to watch the race.",
             "nextBlock": 3,
+            "origClipLength": 65,
             "pathId": 6893198762233735231,
             "blockIdx": 2
         },
@@ -29,6 +31,7 @@
             "jpText": "あっ。トレーナーさーん！\r\nこっちです、こっち！",
             "enText": "Oh. Trainer! This way, this way!",
             "nextBlock": 4,
+            "origClipLength": 60,
             "pathId": -3680533799386935846,
             "blockIdx": 3
         },
@@ -38,11 +41,22 @@
             "jpText": "まだ集合時間前なのに、お早いですね！",
             "enText": "You're early, even though it's \nnot yet time to meet!",
             "nextBlock": 5,
+            "origClipLength": 56,
             "choices": [
                 {
                     "jpText": "たづなさんこそ",
                     "enText": "Thank you Tazuna!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": 6032016562870196340
+                },
+                {
+                    "origLen": 178,
+                    "pathId": -5792338811397831025
                 }
             ],
             "pathId": 1292146832193936566,
@@ -54,6 +68,17 @@
             "jpText": "ふふふっ、それはもう！\r\n待ちきれなくって、つい。",
             "enText": "Mmmm, that's it! I just couldn't wait.",
             "nextBlock": 6,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -8986073605801770261
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -6556911340765332269
+                }
+            ],
             "pathId": -4060353963456114266,
             "blockIdx": 5
         },
@@ -63,6 +88,17 @@
             "jpText": "それでは――さっそく行きましょうか！",
             "enText": "So - let's get on with it!",
             "nextBlock": 7,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -2402908750758361576
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -3385468290817769088
+                }
+            ],
             "pathId": 7848060709672603380,
             "blockIdx": 6
         },
@@ -72,11 +108,22 @@
             "jpText": "はぁっ、今日は一段と盛り上がりましたね！\r\nさすがＧⅠレースの開催日です……！",
             "enText": "Haha, it's been an even more exciting \nday! That's what you'd expect from \na day of G1 racing…!",
             "nextBlock": 8,
+            "origClipLength": 70,
             "choices": [
                 {
                     "jpText": "会場の熱気がすごかったですね",
                     "enText": "The enthusiasm of the audience \nwas incredible!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -66989754848137091
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -5150964692812571704
                 }
             ],
             "pathId": 3690169223669026325,
@@ -88,6 +135,17 @@
             "jpText": "ええ、ええ！\r\n応援の声で地面が揺れてしまうほどで！",
             "enText": "Yes, yes! The ground shook \nwith the cheering!",
             "nextBlock": 9,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 8573109113212791359
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5509259471070465707
+                }
+            ],
             "pathId": -6909891660320397081,
             "blockIdx": 8
         },
@@ -97,11 +155,22 @@
             "jpText": "この興奮、この感動――\r\nやはり、レースはいいものですね！",
             "enText": "All this excitement, all this emotion \n- it's good to be racing!",
             "nextBlock": 10,
+            "origClipLength": 63,
             "choices": [
                 {
                     "jpText": "ですね！",
                     "enText": "Yes!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 1911530074062006045
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 8143924756096741150
                 }
             ],
             "pathId": 2209525113501809673,
@@ -113,6 +182,17 @@
             "jpText": "……あの、トレーナーさん。",
             "enText": "… Um, trainer.",
             "nextBlock": 11,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -1419090367734948756
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 241244061146539851
+                }
+            ],
             "pathId": 8022329718374444429,
             "blockIdx": 10
         },
@@ -122,6 +202,17 @@
             "jpText": "今日はお付き合いいただき、\r\nありがとうございました。",
             "enText": "Thank you for being with us today.",
             "nextBlock": 12,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 574352024031280473
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -8434889328615379746
+                }
+            ],
             "pathId": 7263922212983480674,
             "blockIdx": 11
         },
@@ -131,11 +222,22 @@
             "jpText": "トレーナーさんにはどうしても、\r\n改めてお礼を申し上げたくって。",
             "enText": "I just wanted to say thank \nyou again to my trainer.",
             "nextBlock": 13,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "お礼？",
                     "enText": "Thank you?",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -5521324671775629821
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6044690285930862250
                 }
             ],
             "pathId": -776109842405212247,
@@ -147,6 +249,17 @@
             "jpText": "ええ。",
             "enText": "Yes.",
             "nextBlock": 14,
+            "origClipLength": 46,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -5905979330873610382
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -6782704193755807242
+                }
+            ],
             "pathId": 5974412018773982547,
             "blockIdx": 13
         },
@@ -156,6 +269,17 @@
             "jpText": "この3年間、<chrname>さんと共に、\r\n様々なレースを駆け抜けられましたね。",
             "enText": "Over the past three years, you and <chrname> \nhave been through a lot of races.",
             "nextBlock": 15,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -2084825451926178061
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 3178031897670285535
+                }
+            ],
             "pathId": -2441905082681290503,
             "blockIdx": 14
         },
@@ -165,6 +289,21 @@
             "jpText": "観ていました、全て。現地でも、テレビでも、\r\nあなた方の活躍に胸を躍らせていました。",
             "enText": "I watched it all. I was there, I was on TV, \nI was excited by what you were doing.",
             "nextBlock": 16,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 4930463484842977362
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -6595713100966138702
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 8756076537178598562
+                }
+            ],
             "pathId": 5199415423426014907,
             "blockIdx": 15
         },
@@ -174,6 +313,17 @@
             "jpText": "本当に――夢のような、\r\n奇跡の瞬間をたくさん見せていただきました。",
             "enText": "We had many miraculous moments, \nlike a dream.",
             "nextBlock": 17,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -4903180018812980817
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6376814636992640520
+                }
+            ],
             "pathId": -3189678454029523159,
             "blockIdx": 16
         },
@@ -183,6 +333,17 @@
             "jpText": "ですから、改めて。\r\n……感動を、ありがとうございます！",
             "enText": "So, once again. Thank you \nfor the… inspiration!",
             "nextBlock": 18,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -7052314732302408229
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 4042840527654414389
+                }
+            ],
             "pathId": -2791518628658914048,
             "blockIdx": 17
         },
@@ -192,11 +353,22 @@
             "jpText": "そして……これからもどうかケガ無く無事に、\r\n未来へ向かって、走り続けてくださいね！",
             "enText": "And… please continue to run safely, \ninjury free, into the future!",
             "nextBlock": 19,
+            "origClipLength": 72,
             "choices": [
                 {
                     "jpText": "はい！！",
                     "enText": "Yes!",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 3787956886679298027
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -5274158504028426079
                 }
             ],
             "pathId": -4972004401894152563,
@@ -208,6 +380,17 @@
             "jpText": "いいお返事です♪",
             "enText": "Good reply…",
             "nextBlock": 20,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 6779834287168737000
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -2604807633025347710
+                }
+            ],
             "pathId": -8851792988127374193,
             "blockIdx": 19
         },
@@ -217,6 +400,17 @@
             "jpText": "これからの活躍も、\r\nしっかり見守らせていただきますね。",
             "enText": "We will be keeping a close eye \non your future activities.",
             "nextBlock": 21,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -380095771423818210
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2629906681934038827
+                }
+            ],
             "pathId": 8613215560721123088,
             "blockIdx": 20
         },
@@ -226,6 +420,17 @@
             "jpText": "……以前よりも、ちょっとだけお傍で♪",
             "enText": "… by a little more than before…",
             "nextBlock": 22,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 5985449238407542989
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 2981623127815451139
+                }
+            ],
             "pathId": -6799915149090616886,
             "blockIdx": 21
         },
@@ -235,8 +440,28 @@
             "jpText": "のちに合流した<chrname>も一緒に、\r\nたづなさんとの観戦を楽しんだ。",
             "enText": "<chrname>, who joined us later in the day, \nenjoyed watching the game with Tazuna.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 8863813421254080399
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -803718134887940967
+                },
+                {
+                    "origLen": 191,
+                    "pathId": -4777299404517502908
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 4861826797200190717
+                }
+            ],
             "pathId": -4154485663850673838,
             "blockIdx": 22
         }
-    ]
+    ],
+    "modified": 1669945977
 }

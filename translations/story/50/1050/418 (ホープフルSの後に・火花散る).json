@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "PH236Z5VF3F3EOA3ZD4OZAAXWW2JS3RM",
     "type": "story",
     "storyId": "501050418",
@@ -11,6 +11,7 @@
             "jpText": "『ホープフルステークス』で結果を残した\nナリタタイシンの名とその活躍は、\n観客たちの胸にしっかりと刻まれた。",
             "enText": "The name Narita Taishin and her performance in \nthe \"Hopeful Stakes\" were firmly etched in \nthe hearts of the audience.",
             "nextBlock": 2,
+            "origClipLength": 115,
             "pathId": 5831552223568739458,
             "blockIdx": 1
         },
@@ -20,6 +21,17 @@
             "jpText": "次に狙うは三冠路線の初戦、『皐月賞』。",
             "enText": "The next target is \"Satsuki-sho,\" the first \nrace of the Triple Crown.",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 6412275805500565553
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -4126572767904211367
+                }
+            ],
             "pathId": 2330631921060708413,
             "blockIdx": 2
         },
@@ -29,8 +41,20 @@
             "jpText": "闘志を燃やすナリタタイシンと共に、\n『皐月賞』に向けての日々が\n始まろうとしていた……！",
             "enText": "With Narita Taishin's fighting spirit, the \ndays were about to begin for the Satsuki-sho \n(Satsuki Sho)…",
             "nextBlock": -1,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": 6161104179095807669
+                },
+                {
+                    "origLen": 156,
+                    "pathId": -4088556348534201186
+                }
+            ],
             "pathId": 5550958774010847827,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945807
 }

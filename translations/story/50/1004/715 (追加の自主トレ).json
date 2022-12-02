@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "TYPIJUFHCLFI74J4C4LEZKNP4MDBFRSK",
     "type": "story",
     "storyId": "501004715",
@@ -11,6 +11,7 @@
             "jpText": "ある日、マルゼンスキーのトレーニングを\n終えたところで、雨が降ってきた。",
             "enText": "One day, as I was finishing my training\nwith Maruzensky, it started to rain.",
             "nextBlock": 2,
+            "origClipLength": 91,
             "pathId": 6893264710981498756,
             "blockIdx": 1
         },
@@ -20,6 +21,18 @@
             "jpText": "ねえねえ、トレーナー君。\nこの後、時間ある？",
             "enText": "Hey, hey, trainer. Do you\nhave time after this?",
             "nextBlock": 3,
+            "origClipLength": 73,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 5130012301467272172
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -2512781351969109219
+                }
+            ],
             "pathId": -6936490168927648732,
             "blockIdx": 2
         },
@@ -29,6 +42,18 @@
             "jpText": "ねえねえ、トレーナーちゃん。\nこの後、時間ある？",
             "enText": "Hey, hey, Trainer-chan. Do\nyou have time after this?",
             "nextBlock": 4,
+            "origClipLength": 76,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": -7724480498948991940
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -7208816338274248261
+                }
+            ],
             "pathId": 2253768926417101458,
             "blockIdx": 3
         },
@@ -38,6 +63,17 @@
             "jpText": "雨の日にドライブしながら思ってたの。\nこんな日に走ったら楽しいだろうなって。",
             "enText": "As I was driving on a rainy day, I was\nthinking. It would be fun to drive on a\nday like this.",
             "nextBlock": 5,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 3477328623773136903
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -1071167197839794584
+                }
+            ],
             "pathId": -4577416458285817759,
             "blockIdx": 4
         },
@@ -47,6 +83,17 @@
             "jpText": "跳ね上がる水しぶき、さえぎられる視界……。\nそんな時には特別な風が感じられそうってね。",
             "enText": "Splashing water, blocked vision:\n… I'm sure you'll feel a special\nbreeze when it happens.",
             "nextBlock": 6,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 688637779605495425
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -5921654834144418360
+                }
+            ],
             "pathId": -8360444088413243515,
             "blockIdx": 5
         },
@@ -56,6 +103,7 @@
             "jpText": "今日はとってもアゲアゲで走れそうじゃない！\n練習終わるの、もったいなくなっちゃった♪",
             "enText": "I'm so excited to run today! I can't\nwait for practice to be over.",
             "nextBlock": 7,
+            "origClipLength": 99,
             "choices": [
                 {
                     "jpText": "まだ続けるのか？",
@@ -68,6 +116,16 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 5576610304025080623
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 2991154758911902095
+                }
+            ],
             "pathId": 3978801362500275387,
             "blockIdx": 6
         },
@@ -77,6 +135,17 @@
             "jpText": "降りしきる雨の中を走るのも乙なものよ♪",
             "enText": "It's nice to run in the pouring rain.",
             "nextBlock": 8,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 3915641806628054163
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7119323976111279986
+                }
+            ],
             "pathId": -6508266321225385513,
             "blockIdx": 7
         },
@@ -86,6 +155,17 @@
             "jpText": "この程度、朝シャンみたいなものでしょ。\n夕方だから夕シャン……？",
             "enText": "This is like a morning shampoo, right?\nIt's evening, so evening shampoo …?",
             "nextBlock": 9,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -7730924832984836919
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -247036284748045607
+                }
+            ],
             "pathId": -4608318970324745807,
             "blockIdx": 8
         },
@@ -95,6 +175,7 @@
             "jpText": "まだまだ身体がホットで止められないの。\nあたしの本領発揮はこれからよ！",
             "enText": "My body is still too hot to stop. It's\ntime for me to show my true colors!",
             "nextBlock": 10,
+            "origClipLength": 90,
             "choices": [
                 {
                     "jpText": "わかった、やろう",
@@ -107,6 +188,16 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 6614549714347866079
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -4011741415952459103
+                }
+            ],
             "pathId": 6188226805753818423,
             "blockIdx": 9
         },
@@ -116,6 +207,17 @@
             "jpText": "そうこなくっちゃ！\n今日はオールナイトで走るわよ！",
             "enText": "That's what I'm talking about! We're\ngoing on an all-night run today!",
             "nextBlock": 11,
+            "origClipLength": 77,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -8971056223490547997
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -7452713620291905369
+                }
+            ],
             "pathId": -2659198573064321349,
             "blockIdx": 10
         },
@@ -125,6 +227,17 @@
             "jpText": "あはは、空も喜んでるみたいね！",
             "enText": "Haha, looks like the sky is happy too!",
             "nextBlock": 12,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 6088759071830399426
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5393979455429769455
+                }
+            ],
             "pathId": -7563824383796575817,
             "blockIdx": 11
         },
@@ -134,6 +247,17 @@
             "jpText": "行きましょう、\n雨粒すら突き抜ける風の世界へ！",
             "enText": "Let's go to the world of wind, where\neven raindrops can pierce through!",
             "nextBlock": 13,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -2427262150636904935
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -3936852635169224591
+                }
+            ],
             "pathId": -1891822444380122749,
             "blockIdx": 12
         },
@@ -143,6 +267,17 @@
             "jpText": "こうして、雨の降る中、\n追加トレーニングは延々と続いたのだった。",
             "enText": "And so the additional training went\non and on in the pouring rain.",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -5928109325853337606
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -2334690697100340468
+                }
+            ],
             "pathId": 3720715159826821645,
             "blockIdx": 13
         },
@@ -152,6 +287,17 @@
             "jpText": "あら、残念。\nせっかくの機会なのに……。",
             "enText": "Oh, what a shame. It's a great\nopportunity for you, but …",
             "nextBlock": 15,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -8945144697500687819
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4049068276042104068
+                }
+            ],
             "pathId": 1212033867447820650,
             "blockIdx": 14
         },
@@ -161,6 +307,17 @@
             "jpText": "でも、しかたナッシングよね。\n体力温存も大切なことだし……。",
             "enText": "But there's nothing we can do\nabout it. It's also important\nto conserve your energy…",
             "nextBlock": 16,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1103922772982940020
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 6984287576046863354
+                }
+            ],
             "pathId": 837495178318075236,
             "blockIdx": 15
         },
@@ -170,6 +327,18 @@
             "jpText": "万一、トレーナー君に、\n風邪引かせたりしたら困っちゃうものね。",
             "enText": "I don't want my trainer to catch a cold.",
             "nextBlock": 17,
+            "origClipLength": 85,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 832967182330796885
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -139144257743434841
+                }
+            ],
             "pathId": 3428312721482095570,
             "blockIdx": 16
         },
@@ -179,6 +348,18 @@
             "jpText": "万一、トレーナーちゃんに、\n風邪引かせたりしたら困っちゃうものね。",
             "enText": "I don't want my trainer to catch a cold. ",
             "nextBlock": 18,
+            "origClipLength": 88,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -9069855104565258751
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8899933507079160452
+                }
+            ],
             "pathId": 5942299071958055389,
             "blockIdx": 17
         },
@@ -188,6 +369,17 @@
             "jpText": "その代わりといってはなんだけど、\n雨のドライブつきあってよ。2人きりで、ね♪",
             "enText": "In exchange, you'll take me for a\nrainy ride, just the two of us.",
             "nextBlock": 19,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -4374358430167050298
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 4565907819989680929
+                }
+            ],
             "pathId": 7508545399784515118,
             "blockIdx": 18
         },
@@ -197,8 +389,20 @@
             "jpText": "雨のドライブで疲れ果ててしまったが、\nマルゼンスキーは存分に楽しんだようだった。",
             "enText": "The rainy drive had left him exhausted,\nbut Maruzensky seemed to have enjoyed\nherself thoroughly.",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 604369410247422640
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -6628462599003487393
+                }
+            ],
             "pathId": 5931901931713632237,
             "blockIdx": 19
         }
-    ]
+    ],
+    "modified": 1669944923
 }

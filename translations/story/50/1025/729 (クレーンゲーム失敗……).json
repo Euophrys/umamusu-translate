@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "VBNWV26PR36E6RGUP5JTOMUESH7RHAMW",
     "type": "story",
     "storyId": "501025729",
@@ -11,11 +11,22 @@
             "jpText": "……難しそうでしたね。",
             "enText": "… That sounded difficult.",
             "nextBlock": 2,
+            "origClipLength": 59,
             "choices": [
                 {
                     "jpText": "ごめん……",
                     "enText": "Sorry…",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -9130826334091276815
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 6924593590601267155
                 }
             ],
             "pathId": -5509080571807349412,
@@ -27,6 +38,21 @@
             "jpText": "いえ、謝らないでください……。\r\n……頑張っていただいたこと、感謝します。",
             "enText": "No, please don't apologize… Thank you\nfor your hard work on…",
             "nextBlock": 3,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6148680072395356263
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 6508759669203159645
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 259624350554380461
+                }
+            ],
             "pathId": 5893304776936562024,
             "blockIdx": 2
         },
@@ -36,6 +62,21 @@
             "jpText": "……え？　……うん……わかった。",
             "enText": "…What? … Yeah… I got it.",
             "nextBlock": 4,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 4444367722960131110
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 1599261610979844062
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -1616073792232324721
+                }
+            ],
             "pathId": 4451745095767348300,
             "blockIdx": 3
         },
@@ -45,6 +86,21 @@
             "jpText": "……『お友だち』も言っています。\r\nドンマイ……と。",
             "enText": "… \"Your friend\" also\nsays. Don't… and.",
             "nextBlock": 5,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7713755256229332823
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 3059615808288245001
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8512867185305488790
+                }
+            ],
             "pathId": -3055016911782890221,
             "blockIdx": 4
         },
@@ -54,8 +110,20 @@
             "jpText": "残念な結果に終わった……。",
             "enText": "A disappointing result…",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 6116981440140830104
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 1151600028006851019
+                }
+            ],
             "pathId": -1598304686406006588,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669946375
 }

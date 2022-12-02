@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "43J36JQMCG22PWKYSPDZZG5FH7GNOFWC",
     "type": "story",
     "storyId": "501006408",
@@ -11,6 +11,17 @@
             "jpText": "『ＮＨＫマイルカップ』を\r\n楽しみながら走ったオグリキャップ。",
             "enText": "Oguri Cap enjoyed running the NHK Mile Cup.",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -3713858509239339232
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1877551646046670870
+                }
+            ],
             "pathId": -8620349050662364074,
             "blockIdx": 1
         },
@@ -20,14 +31,26 @@
             "jpText": "今の自分ならばいける――彼女の目標は、\r\n『マイルチャンピオンシップ』に決まった。",
             "enText": "Her goal was to win the Mile Championship, \nand she knew she could do it.",
             "nextBlock": -1,
+            "origClipLength": 71,
             "coloredText": [
                 {
                     "jpText": "マイルチャンピオンシップ",
                     "enText": "mileage championship"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 6962910344733787145
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1164309973703844675
+                }
+            ],
             "pathId": -1378391854984143599,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669944977
 }

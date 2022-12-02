@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "T4QBZSP6Q73ECALV3IUEZMB4QXE6VMTB",
     "type": "story",
     "storyId": "501006301",
@@ -11,6 +11,7 @@
             "jpText": "……ん？",
             "enText": "… hmm?",
             "nextBlock": 2,
+            "origClipLength": 47,
             "choices": [
                 {
                     "jpText": "どうした？",
@@ -23,6 +24,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -2124157624032157491
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 1672513963217395745
+                }
+            ],
             "pathId": 5988619571018985532,
             "blockIdx": 1
         },
@@ -32,6 +43,17 @@
             "jpText": "……風が少し冷たい。\r\nそうか、もう秋になるのか……。",
             "enText": "The… wind is a little chilly. Oh \nwell, it's already autumn…",
             "nextBlock": 3,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 2962296862563486327
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -8776335981916476630
+                }
+            ],
             "pathId": -2492762073142660019,
             "blockIdx": 2
         },
@@ -41,10 +63,21 @@
             "jpText": "早いものだな。\r\n秋がくれば……タマと走る『天皇賞』",
             "enText": "It's early. When autumn comes, \nI'll be running with… Tama, \n\"The Tennou Sho\".",
             "nextBlock": 4,
+            "origClipLength": 61,
             "coloredText": [
                 {
                     "jpText": "天皇賞",
                     "enText": "Tennou Sho"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 6533811948127519503
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 3716629035597589819
                 }
             ],
             "pathId": 8986666030573851091,
@@ -56,11 +89,22 @@
             "jpText": "そして冬になれば、『有馬記念』……。\r\nいま1番強いのは誰なのかが、決まるんだな。",
             "enText": "And when winter comes, it will be \"Arima \nKinen\"… It will determine who's the \nstrongest right now.",
             "nextBlock": 5,
+            "origClipLength": 71,
             "choices": [
                 {
                     "jpText": "夏合宿の成果を見せつけよう！",
                     "enText": "Let's show them the results \nof our summer camp!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -5954615022933954039
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1140582296002536087
                 }
             ],
             "pathId": -5920454723326217933,
@@ -72,6 +116,17 @@
             "jpText": "そうだな。\r\nこの合宿を通して、私はきっと成長できた。",
             "enText": "That's right. I'm sure I've \ngrown through this camp.",
             "nextBlock": 6,
+            "origClipLength": 62,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -4200303363189152977
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 5931921462084690961
+                }
+            ],
             "pathId": 5447866556268844151,
             "blockIdx": 5
         },
@@ -81,6 +136,17 @@
             "jpText": "後は……全力で走るだけだ！",
             "enText": "All that's left is to run… as fast as we can!",
             "nextBlock": 7,
+            "origClipLength": 53,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -5141790386074617151
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 5592892821498598032
+                }
+            ],
             "pathId": 366405799662283894,
             "blockIdx": 6
         },
@@ -90,8 +156,20 @@
             "jpText": "――こうして、オグリキャップとの\r\n充実した夏合宿が終わった。",
             "enText": "—And so ended my fruitful summer \ncamp with Oguri-cap.",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -7058799780703512697
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8992336563668024685
+                }
+            ],
             "pathId": 3150291610467302056,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669944973
 }

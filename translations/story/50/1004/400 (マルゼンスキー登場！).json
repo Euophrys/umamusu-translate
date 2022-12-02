@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "GI3WIUCGNSAKH7SCIPCMZU2U2DDZBEPS",
     "type": "story",
     "storyId": "501004400",
@@ -11,6 +11,7 @@
             "jpText": "抜群の身体能力を持つマルゼンスキーは、\r\nデビュー前にも拘わらず、“スーパーカー”\nという異名が付くほど、注目を集めていた。",
             "enText": "Even before her debut, Maruzensky, with\nher outstanding physical abilities, was\nattracting so much attention that she was\nnicknamed \"Supercar.",
             "nextBlock": 2,
+            "origClipLength": 125,
             "coloredText": [
                 {
                     "jpText": "マルゼンスキー",
@@ -19,6 +20,16 @@
                 {
                     "jpText": "スーパーカー",
                     "enText": "supercar"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": 8531934929009154082
+                },
+                {
+                    "origLen": 137,
+                    "pathId": -3744197894117624677
                 }
             ],
             "pathId": -8706810833658638282,
@@ -30,6 +41,17 @@
             "jpText": "後輩に慕われ、目標とされることが多い\r\n彼女は、より高いステージを目標に据える。",
             "enText": "She is adored by her younger colleagues\nand is often looked up to as a target, but\nshe has her sights set on a higher stage.",
             "nextBlock": 3,
+            "origClipLength": 97,
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -6298221297195615845
+                },
+                {
+                    "origLen": 137,
+                    "pathId": -3291491177630779667
+                }
+            ],
             "pathId": 3457827899227457241,
             "blockIdx": 2
         },
@@ -39,14 +61,26 @@
             "jpText": "ここから、マルゼンスキーとの\r\nトゥインクル・シリーズに\n向けた挑戦が始まった。",
             "enText": "This was the beginning of the challenge\nfor the Twinkle Series with Maruzensky.",
             "nextBlock": -1,
+            "origClipLength": 97,
             "coloredText": [
                 {
                     "jpText": "トゥインクル・シリーズ",
                     "enText": "Twinkle Series"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -8067273732845354571
+                },
+                {
+                    "origLen": 137,
+                    "pathId": -6028395260730874454
+                }
+            ],
             "pathId": 656694044599895370,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669944909
 }

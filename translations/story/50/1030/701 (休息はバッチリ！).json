@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "FBJNVMOHHVORUFP2VPE6YNTRRB7HJP4G",
     "type": "story",
     "storyId": "501030701",
@@ -11,6 +11,7 @@
             "jpText": "ライスシャワーとの早朝トレーニングの\r\n準備のため、トレーナー室に来たのだが……。",
             "enText": "I came to the trainer's office to \nprepare for an early morning training \nsession with Rice Shower…",
             "nextBlock": 2,
+            "origClipLength": 71,
             "pathId": 5306598933354174844,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "おはよう、お兄さま……！\r\n今日はどんなトレーニングする……？",
             "enText": "Good morning, brother…! What kind of training \nare you going to do today…?",
             "nextBlock": 3,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "早起きだな、いいことでもあった？",
@@ -30,6 +32,17 @@
                     "jpText": "早起きだね、いいことでもあった？",
                     "enText": "You're up early. Did something \ngood happen to you?",
                     "nextBlock": 4
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": -1979225278328438603
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -4039219059520491954
                 }
             ],
             "pathId": 2248500464203478923,
@@ -41,6 +54,7 @@
             "jpText": "おはよう、お姉さま……！\r\n今日はどんなトレーニングする……？",
             "enText": "Good morning, sister…! What kind of training \nare you going to do today…?",
             "nextBlock": 4,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "早起きだな、いいことでもあった？",
@@ -53,6 +67,17 @@
                     "nextBlock": 4
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 3177382989762538262
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 2884327037617998881
+                }
+            ],
             "pathId": -3576769830648209195,
             "blockIdx": 3
         },
@@ -62,6 +87,17 @@
             "jpText": "あのね、今日とってもいい夢を見たの……！",
             "enText": "You know, I had a very nice dream today…!",
             "nextBlock": 5,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -6433842441103875489
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 502383666376093844
+                }
+            ],
             "pathId": 4892574592556126344,
             "blockIdx": 4
         },
@@ -71,6 +107,18 @@
             "jpText": "お兄さまと、夜空の綺麗な草原で一緒に\r\nトレーニングをしていたんだけど……。",
             "enText": "Your brother and I were training together in \na meadow with a beautiful night sky…",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 5560213693558563559
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -8206831753106369313
+                }
+            ],
             "pathId": -7298340380488467964,
             "blockIdx": 5
         },
@@ -80,6 +128,18 @@
             "jpText": "お姉さまと、夜空の綺麗な草原で一緒に\r\nトレーニングをしていたんだけど……。",
             "enText": "Your sister and I were training together in a \nmeadow with a beautiful night sky…",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -1402779495295675291
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7611595836358459956
+                }
+            ],
             "pathId": -8253521946443734325,
             "blockIdx": 6
         },
@@ -89,6 +149,17 @@
             "jpText": "あんまりにも星が綺麗で、途中から\r\n一緒に星を見ることにしちゃって……。",
             "enText": "The stars were so beautiful that we decided \nto look at the stars together…",
             "nextBlock": 8,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 5165010380629743214
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -84608353250788397
+                }
+            ],
             "pathId": -8731148955476820457,
             "blockIdx": 7
         },
@@ -98,6 +169,17 @@
             "jpText": "――だから、起きたらちゃんと\r\nトレーニングしなきゃって思ってたの……！",
             "enText": "— so I figured I'd better get up \nand get some training in…!",
             "nextBlock": 9,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -4504829041345783293
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 8721251361641350373
+                }
+            ],
             "pathId": 5151765566904232420,
             "blockIdx": 8
         },
@@ -107,8 +189,20 @@
             "jpText": "ライスシャワーはいい休養を取れたようだ。",
             "enText": "Rice Shower seemed to have had a good rest.",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -353859832746283925
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -2362415821693155480
+                }
+            ],
             "pathId": 5491915071268877695,
             "blockIdx": 9
         }
-    ]
+    ],
+    "modified": 1669945558
 }

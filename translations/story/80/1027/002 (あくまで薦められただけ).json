@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "2YMTK2HU4P45OY77NVOZ5BNGLO5QDPWI",
     "type": "story",
     "storyId": "801027002",
@@ -11,6 +11,7 @@
             "jpText": "学園内を歩いていると\r\n誰かの声が聞こえてきた。",
             "enText": "I was walking through the school when I \nheard someone's voice.",
             "nextBlock": 2,
+            "origClipLength": 68,
             "pathId": 1709660724201842198,
             "blockIdx": 1
         },
@@ -20,6 +21,7 @@
             "jpText": "はぁ～……ドキドキする……。\r\nこのあと告白シーンかな。",
             "enText": "Huh… I'm so nervous… I'm not sure if it's a \nconfession scene after this.",
             "nextBlock": 3,
+            "origClipLength": 63,
             "pathId": 7387470546359853827,
             "blockIdx": 2
         },
@@ -29,6 +31,17 @@
             "jpText": "声のする方に行くと、メジロライアンが\r\nコソコソと隠れるように漫画を読んでいた。",
             "enText": "I went towards the sound of the voice and \nsaw a white-haired lion sneaking around, \nreading a comic book.",
             "nextBlock": 4,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -6491578476162290751
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 5277502485097998293
+                }
+            ],
             "pathId": 6195028593732320122,
             "blockIdx": 3
         },
@@ -38,6 +51,17 @@
             "jpText": "やっぱこの先生の作品はいいなぁ……。\r\nよしっ、全巻集めて一気読みしよっと！！",
             "enText": "I really like her work… I'm going to collect \nall the books and read them in one go!",
             "nextBlock": 5,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -739959578100202238
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 5751564483496883480
+                }
+            ],
             "pathId": -1735211917480332651,
             "blockIdx": 4
         },
@@ -47,11 +71,22 @@
             "jpText": "って、うわぁっ！？\r\nい、いつの間にいたんですか！？",
             "enText": "Oh, wow! When did you get here?",
             "nextBlock": 6,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "なに読んでたの？",
                     "enText": "What have you been reading?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 5243134518269209324
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 2423827190747153181
                 }
             ],
             "pathId": 3296923896910352908,
@@ -63,6 +98,17 @@
             "jpText": "しょ、少女漫画なんですけど、\r\nこれはえっと～……そう！\n友だちが薦めてくるから仕方なく！",
             "enText": "It's a shoujo manga, and it's from…! A \nfriend recommended it to me, so I had to!",
             "nextBlock": 7,
+            "origClipLength": 74,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 5979780008709240787
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -9130787975502164612
+                }
+            ],
             "pathId": 116055056410437672,
             "blockIdx": 6
         },
@@ -72,6 +118,17 @@
             "jpText": "決して、推しの先生の過去作をたまたま\r\n見つけて買ったとかじゃないですよ？",
             "enText": "It's not like I just happened to \nfind one of my favourite teachers' \npast works and bought it.",
             "nextBlock": 8,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 9076303416883121084
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -4455119114686941362
+                }
+            ],
             "pathId": -3338040314473806030,
             "blockIdx": 7
         },
@@ -81,6 +138,17 @@
             "jpText": "普段は少女漫画なんて読みませんから！\r\nほら、あたしには似合わないし！　あはは～！",
             "enText": "I don't usually read shoujo manga! You see, \nit's not really my thing! Hahaha!",
             "nextBlock": 9,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -4535052193771739473
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -7171740458965231333
+                }
+            ],
             "pathId": 4286590061242858991,
             "blockIdx": 8
         },
@@ -90,6 +158,7 @@
             "jpText": "でも早く友だちへ感想を伝えてあげるために\r\n一気に読んじゃおうかなと……ホントですよ？",
             "enText": "But I thought I'd read it in one sitting \nso I could tell my friends what I \nthought of it… Really?",
             "nextBlock": 10,
+            "origClipLength": 73,
             "choices": [
                 {
                     "jpText": "ペースを考えたほうがいいよ",
@@ -102,6 +171,16 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 7269025726135589265
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -1497423955240521775
+                }
+            ],
             "pathId": 7793830256458694498,
             "blockIdx": 9
         },
@@ -111,6 +190,17 @@
             "jpText": "たしかに、それで寝不足になったら\r\nトレーニングにも支障でちゃいますね……。",
             "enText": "It's true that if you don't sleep well, you \nwon't be able to train as well…",
             "nextBlock": 11,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -7233661885442987067
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 1810033495202870879
+                }
+            ],
             "pathId": 5751461988795117184,
             "blockIdx": 10
         },
@@ -120,6 +210,17 @@
             "jpText": "読みたいけど我慢……レースで仕掛けを\r\n我慢して、体力を残すみたいなものですね。",
             "enText": "I'd like to read it, but I'm holding back. … \nIt's like holding back a trick in a race to \nsave your energy.",
             "nextBlock": 12,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 9177225735339982456
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 5522696958722112449
+                }
+            ],
             "pathId": 3973227569403722152,
             "blockIdx": 11
         },
@@ -129,6 +230,17 @@
             "jpText": "わかりました、無理のないペースで読みます！\r\nあくまで友だちが薦めるから仕方なくですよ？",
             "enText": "Okay, I'll read at a reasonable pace! \nIt's only because my friend recommended \nit to me, you know?",
             "nextBlock": 13,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -4319892314491864345
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -3597780717705434791
+                }
+            ],
             "pathId": 432225742746876277,
             "blockIdx": 12
         },
@@ -138,6 +250,17 @@
             "jpText": "レースでも読書でも、\r\nペース配分に注意するのは重要なことだ。",
             "enText": "Whether you are racing or reading, it is \nimportant to pay attention to your pacing.",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -6665088019761127262
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -7252757431260678214
+                }
+            ],
             "pathId": 2579412549270874430,
             "blockIdx": 13
         },
@@ -147,6 +270,17 @@
             "jpText": "う～ん、でも早く読みたい……じゃなくて\r\n早く友だちに感想を伝えたいですし……。",
             "enText": "Hmmm, but I can't wait to read it… \nI can't wait to tell my friends \nwhat I think of it and…",
             "nextBlock": 15,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -1419261368055295185
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -8031258658312855223
+                }
+            ],
             "pathId": 13992303643659877,
             "blockIdx": 14
         },
@@ -156,6 +290,17 @@
             "jpText": "よし、一気読みの後はしっかり休めるように\r\nスケジュールを調整します！",
             "enText": "Okay, I'm going to adjust my schedule \nso that I can get some rest after \nmy binge reading!",
             "nextBlock": 16,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -3286496770089689463
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -1514499106926411162
+                }
+            ],
             "pathId": 6078596207115315758,
             "blockIdx": 15
         },
@@ -165,6 +310,17 @@
             "jpText": "心苦しいけど、朝の筋トレを\r\n別のタイミングに移せばなんとかなるはず！",
             "enText": "It's heartbreaking, but I'm sure we can work \nsomething out by moving the morning strength \ntraining to another time!",
             "nextBlock": 17,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 7256701459580105717
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 1498364653257497599
+                }
+            ],
             "pathId": -8698325684362866423,
             "blockIdx": 16
         },
@@ -174,8 +330,20 @@
             "jpText": "そもそも一気読みをしない方がと思いつつ、\r\n体を休めるのは、とても大事なことだ。",
             "enText": "It's important to take a break, even \nif you don't want to read the whole \nthing in the first place.",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 5583919872944578092
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -6338177789020927860
+                }
+            ],
             "pathId": -6178813257103180167,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669945955
 }

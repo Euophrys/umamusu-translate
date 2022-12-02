@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "4NBLYMWCOWYTHGLE4V7C6XR7P4QPSFOC",
     "type": "story",
     "storyId": "501041206",
@@ -11,6 +11,21 @@
             "jpText": "長い……。",
             "enText": "Long…",
             "nextBlock": 2,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -1805473094209449598
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 4536477244344451655
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -7015474246734911479
+                }
+            ],
             "pathId": 8959611782603748821,
             "blockIdx": 1
         },
@@ -20,11 +35,26 @@
             "jpText": "長い、レースが幕を開けます……。",
             "enText": "The long, race is about to begin…",
             "nextBlock": 3,
+            "origClipLength": 55,
             "choices": [
                 {
                     "jpText": "（何かが始まった）",
                     "enText": "(Something's happening.)",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8195372542466650827
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7437187817694921174
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 7740899859886102539
                 }
             ],
             "pathId": -487063418392741816,
@@ -36,6 +66,17 @@
             "jpText": "3600m、私にとっては険しい道……。\r\n駆け抜けても駆け抜けても、まだ続く。",
             "enText": "3600m, a steep road for me… I've run\nthrough and through, but it still goes on.",
             "nextBlock": 4,
+            "origClipLength": 70,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -7069120848544904017
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 4407053966918316579
+                }
+            ],
             "pathId": -5182221962720495808,
             "blockIdx": 3
         },
@@ -45,6 +86,17 @@
             "jpText": "ですが、挑まねばならないのです。",
             "enText": "But we have to try.",
             "nextBlock": 5,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 2318488579631884957
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 4502143971002342459
+                }
+            ],
             "pathId": 8257555084232498686,
             "blockIdx": 4
         },
@@ -54,6 +106,7 @@
             "jpText": "――みなさんの模範となるべき、\r\n学級委員長として！",
             "enText": "—As class president, I should\nbe a role model for you!",
             "nextBlock": 6,
+            "origClipLength": 61,
             "choices": [
                 {
                     "jpText": "…………そうだな！",
@@ -66,6 +119,16 @@
                     "nextBlock": 6
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -1579768832911482144
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -6643756979455520795
+                }
+            ],
             "pathId": 2302815435689296507,
             "blockIdx": 5
         },
@@ -75,8 +138,20 @@
             "jpText": "まずは最初の1200m。\r\n突破して参ります！",
             "enText": "First up is the first 1200 meters.\nI'm going to break through!",
             "nextBlock": -1,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -9180238801588768181
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -571071734155178720
+                }
+            ],
             "pathId": -461377876416559811,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945704
 }

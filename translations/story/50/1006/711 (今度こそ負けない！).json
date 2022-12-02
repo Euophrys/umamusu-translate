@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "KUDN74Y3X2Y3CBSOZ2IY4NA65YQ3DAFD",
     "type": "story",
     "storyId": "501006711",
@@ -11,6 +11,17 @@
             "jpText": "くっ……。",
             "enText": "Damn…",
             "nextBlock": 2,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -4610649822542240357
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5254520732870814704
+                }
+            ],
             "pathId": -4895264243635689758,
             "blockIdx": 1
         },
@@ -20,6 +31,21 @@
             "jpText": "すまない、トレーナー……。\r\n次こそはと思っていたのだが。",
             "enText": "Sorry, trainer… I was hoping the \nnext one would be better.",
             "nextBlock": 3,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 7345285653372031039
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 6169069467080268135
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6434613695527616742
+                }
+            ],
             "pathId": -5950485357132860219,
             "blockIdx": 2
         },
@@ -29,6 +55,21 @@
             "jpText": "連敗が続いたせいか、オグリキャップが\r\n目に見えて落ち込んでいる。",
             "enText": "Maybe it's because of the losing streak, but \nOguri Cap is visibly depressed.",
             "nextBlock": 4,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1499047444172376311
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 8003976628938960224
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -5429882331103428797
+                }
+            ],
             "pathId": -4670493702261948264,
             "blockIdx": 3
         },
@@ -38,6 +79,17 @@
             "jpText": "教えてくれないか？\r\nいまの私が勝つにはどうすればいい……。",
             "enText": "Can you tell me? How can I win now…?",
             "nextBlock": 5,
+            "origClipLength": 64,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 4419381729801182837
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 2897475633585111437
+                }
+            ],
             "pathId": -2081885679123997966,
             "blockIdx": 4
         },
@@ -47,6 +99,7 @@
             "jpText": "このままでは、大好きなご飯も\r\n3杯までしか喉を通らない……。",
             "enText": "At this rate, I'll only be able to choke down \nup to three bowls of my favorite food…",
             "nextBlock": 6,
+            "origClipLength": 65,
             "choices": [
                 {
                     "jpText": "焦らずゆっくりやっていこう",
@@ -59,6 +112,16 @@
                     "nextBlock": 12
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 3060946494285819106
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2930666423334904100
+                }
+            ],
             "pathId": -9204254740369230949,
             "blockIdx": 5
         },
@@ -68,6 +131,17 @@
             "jpText": "ゆっくり……。",
             "enText": "Slowly…",
             "nextBlock": 7,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 4006208312556388355
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4285584629667921970
+                }
+            ],
             "pathId": 2866768085976747967,
             "blockIdx": 6
         },
@@ -77,6 +151,17 @@
             "jpText": "そうだな。\r\n負けが続いて焦っていたのかもしれない。",
             "enText": "That's right. Maybe she was in a hurry \nbecause she kept losing.",
             "nextBlock": 8,
+            "origClipLength": 61,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 2351193466324267494
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -801065348500201171
+                }
+            ],
             "pathId": 2549304273711087932,
             "blockIdx": 7
         },
@@ -86,6 +171,17 @@
             "jpText": "『いい品種を作るためには、\r\n焦らず試行錯誤するのが大事なんだよ』",
             "enText": "\"In order to make good varieties, \nit's important not to rush and \nto do trial and error.",
             "nextBlock": 9,
+            "origClipLength": 66,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 1795261600808154467
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 1283051083889044040
+                }
+            ],
             "pathId": 7221609616014765013,
             "blockIdx": 8
         },
@@ -95,11 +191,22 @@
             "jpText": "……トメさんもそう言っていた。\r\n私もみんなのように試行錯誤をしていきたい。",
             "enText": "That's what the… tome said. I want to do the \nsame trial and error as everyone else.",
             "nextBlock": 10,
+            "origClipLength": 69,
             "choices": [
                 {
                     "jpText": "一緒に頑張ろう！",
                     "enText": "We're in this together!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -278719771253966722
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4777176609627365984
                 }
             ],
             "pathId": 1389162869176061133,
@@ -111,6 +218,17 @@
             "jpText": "……ああ、よろしく頼む！",
             "enText": "… Yeah, take care of it!",
             "nextBlock": 11,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -2834396556828589476
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -3552777145332571574
+                }
+            ],
             "pathId": -2447058674741679249,
             "blockIdx": 10
         },
@@ -120,6 +238,17 @@
             "jpText": "いつもの調子を取り戻したオグリキャップを\r\n見て、次のレースは期待できそうだと思った。",
             "enText": "Seeing Oguri-cap back to her usual \nform, I knew that her next race \nwould be very promising.",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 5268912494083747515
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -470765159373338309
+                }
+            ],
             "pathId": -3073361823370062939,
             "blockIdx": 11
         },
@@ -129,6 +258,17 @@
             "jpText": "……気合いか。",
             "enText": "… You're fired up.",
             "nextBlock": 13,
+            "origClipLength": 49,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -3751013910051771932
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8275972349488232369
+                }
+            ],
             "pathId": 8994823210975945588,
             "blockIdx": 12
         },
@@ -138,6 +278,17 @@
             "jpText": "確かに、故郷の畑が凶作だった時も\r\n誰1人へこたれていなかった。",
             "enText": "Indeed, even when the fields back home \nwere badly harvested, not a single \none of us felt depressed.",
             "nextBlock": 14,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 7720302461337296719
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8865920561395213321
+                }
+            ],
             "pathId": -7726301919071803610,
             "blockIdx": 13
         },
@@ -147,6 +298,17 @@
             "jpText": "『”ねばぁぎぶあっぷ”だ、オグリちゃん』\r\n……そう言って笑っていたんだ。",
             "enText": "\"It's \"Nebagibupu\", Oguri-chan.\"… \nShe laughed and said so.",
             "nextBlock": 15,
+            "origClipLength": 69,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -3036193015438901049
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2873427420066669904
+                }
+            ],
             "pathId": -1580172006598056358,
             "blockIdx": 14
         },
@@ -156,6 +318,7 @@
             "jpText": "私も、みんなのように諦めない。",
             "enText": "I'm not giving up like everyone else.",
             "nextBlock": 16,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "“ねばぁぎぶあっぷ”だ、オグリ！",
@@ -168,6 +331,16 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5048820426261724395
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 6821561518428677849
+                }
+            ],
             "pathId": 3330706886052738816,
             "blockIdx": 15
         },
@@ -177,6 +350,17 @@
             "jpText": "……ああ、よろしく頼む！",
             "enText": "… Yeah, take care of it!",
             "nextBlock": 17,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -8073985822004554177
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 3496036704572301715
+                }
+            ],
             "pathId": -8857728559586219490,
             "blockIdx": 16
         },
@@ -186,8 +370,20 @@
             "jpText": "その目に強い光を宿したオグリキャップと\r\n共によりいっそうトレーニングに打ち込んだ。",
             "enText": "She trained even harder with Oguri Cap, who \nhad a strong light in her eyes.",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -9057224986037726492
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 8289052615548154586
+                }
+            ],
             "pathId": 3766492838914869955,
             "blockIdx": 17
         }
-    ]
+    ],
+    "modified": 1669944986
 }

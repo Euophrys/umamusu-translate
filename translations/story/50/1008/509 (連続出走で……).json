@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "H2RP27RSQ4STHB4XD53C3IOL4D5MCQGG",
     "type": "story",
     "storyId": "501008509",
@@ -11,6 +11,17 @@
             "jpText": "トレーニング中のウオッカは、\r\nいつもより調子が悪そうだ……。",
             "enText": "Vodka, in training, seems to be in worse \nshape than usual…",
             "nextBlock": 2,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -8833323231963712150
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7213238379850939235
+                }
+            ],
             "pathId": 399601346333007679,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "はぁ……くっそぉ～！\r\n体が、思いどおりに動かねぇ……！",
             "enText": "Haha… Damn it! My body doesn't work the \nway I want it to…!",
             "nextBlock": 3,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 62916003283550030
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -7236421784599292869
+                }
+            ],
             "pathId": 8605053685076866907,
             "blockIdx": 2
         },
@@ -29,6 +51,7 @@
             "jpText": "まさか、これしきでヘバったってのか？\r\nカッコ悪ぃにも程があんだろ……！",
             "enText": "Don't tell me you've lost your mind over \nthis? That's not even cool…!",
             "nextBlock": 4,
+            "origClipLength": 91,
             "choices": [
                 {
                     "jpText": "少し休憩したらどうだ？",
@@ -41,6 +64,16 @@
                     "nextBlock": 4
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 7590751898228971068
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1653859417444294590
+                }
+            ],
             "pathId": 8636825426348737399,
             "blockIdx": 3
         },
@@ -50,6 +83,17 @@
             "jpText": "はぁ！？　んなダセぇことしてられっかよ！\r\n俺はまだまだこんなモンじゃ――",
             "enText": "Huh? I can't be that lame! \nI'm not like this yet.",
             "nextBlock": 5,
+            "origClipLength": 93,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -6737088186733283306
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -2678592204264753827
+                }
+            ],
             "pathId": -5999892536602137013,
             "blockIdx": 4
         },
@@ -59,6 +103,17 @@
             "jpText": "（スッテーンッ！）",
             "enText": "(Stern! )",
             "nextBlock": 6,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 4883163819227682041
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 5046366900165831641
+                }
+            ],
             "pathId": 8438218400661814680,
             "blockIdx": 5
         },
@@ -68,6 +123,17 @@
             "jpText": "うおぉっ！？　こ、コケたぁ！？\r\nどーしちまったんだよ、俺ぇっ……！",
             "enText": "Whoa! I'm mocked! What's \nwrong with me?…!",
             "nextBlock": 7,
+            "origClipLength": 94,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": -5253790322597477208
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7369389217475682502
+                }
+            ],
             "pathId": -3620179959145600670,
             "blockIdx": 6
         },
@@ -77,8 +143,20 @@
             "jpText": "……とても疲れが溜まっているようだ。\r\nレースの予定を見直すべきかもしれない。",
             "enText": "I'm feeling very tired… Maybe I should \nrethink my race schedule.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 3750010780085066942
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -7895976443673844552
+                }
+            ],
             "pathId": 2135468374531229331,
             "blockIdx": 7
         }
-    ]
+    ],
+    "modified": 1669945042
 }

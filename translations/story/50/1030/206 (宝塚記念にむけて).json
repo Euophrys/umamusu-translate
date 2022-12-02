@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "EUHYDL54Q4PXSTG5QABQQDDFSPZOTULQ",
     "type": "story",
     "storyId": "501030206",
@@ -11,6 +11,17 @@
             "jpText": "ついにやって来たね。\r\n『宝塚記念』の日が。",
             "enText": "The day of Takarazuka Kinen has finally \narrived. The day of Takarazuka Kinen has \nfinally arrived.",
             "nextBlock": 2,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -1695085228915768856
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -1478032998810636552
+                }
+            ],
             "pathId": -1463093542106780710,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "阪神レース場の人も京都レース場の人も\r\nみんなが協力して叶った舞台。",
             "enText": "The people at Hanshin Racecourse \nand Kyoto Racecourse all worked together \nto make this happen.",
             "nextBlock": 3,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -4187927474535547008
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4356988236782584614
+                }
+            ],
             "pathId": 3034657036187183867,
             "blockIdx": 2
         },
@@ -29,11 +51,22 @@
             "jpText": "……ライスもがんばらないと。",
             "enText": "… Rice has to work hard too.",
             "nextBlock": 4,
+            "origClipLength": 54,
             "choices": [
                 {
                     "jpText": "みんなの期待に応えておいで",
                     "enText": "Go and live up to everyone's expectations.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 7406957406655764919
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 5859780025385655103
                 }
             ],
             "pathId": 2773422350054796049,
@@ -45,6 +78,17 @@
             "jpText": "……うんっ！　みんなが待っててくれるなら、\r\nこの走りで応えてくるよ。",
             "enText": "… Yes! If you guys are waiting for \nme, I'll answer with this run.",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": -2190297961525779270
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5169917777901935341
+                }
+            ],
             "pathId": 7106456695663246832,
             "blockIdx": 4
         },
@@ -54,6 +98,17 @@
             "jpText": "ライスはだめな子だけど……、\r\n迷惑かけちゃうかもだけど……。",
             "enText": "Rice is a bad boy, but she's… and she might \nget in trouble, but she's…",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -5324924260956070853
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -184357459755960474
+                }
+            ],
             "pathId": -386939411903974888,
             "blockIdx": 5
         },
@@ -63,8 +118,20 @@
             "jpText": "ライスにできることを、\r\n全力でがんばるんだ、最後までっ！",
             "enText": "We're gonna do everything we can \nfor Rice, until the end!",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -1521871360810987998
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3087582169218090930
+                }
+            ],
             "pathId": 8668579665509896386,
             "blockIdx": 6
         }
-    ]
+    ],
+    "modified": 1669945546
 }

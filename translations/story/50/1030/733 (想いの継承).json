@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "62B7PQHLYCMXRNWEALNLNA565JTLE4SL",
     "type": "story",
     "storyId": "501030733",
@@ -11,6 +11,17 @@
             "jpText": "……っ！？\r\nなにが……起こったの……？",
             "enText": "…? What… happened to you…?",
             "nextBlock": 2,
+            "origClipLength": 71,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 6549006783464884435
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 8413385365861234082
+                }
+            ],
             "pathId": 7258865896033817991,
             "blockIdx": 1
         },
@@ -20,8 +31,20 @@
             "jpText": "不思議……胸がポカポカして――\r\nなんだか力が溢れてるみたい！",
             "enText": "It's a wonder… that my chest feels so \nwarm—it's like I'm full of power!",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 8674533317752279065
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 3664706171128511051
+                }
+            ],
             "pathId": -9161613028038519715,
             "blockIdx": 2
         }
-    ]
+    ],
+    "modified": 1669945565
 }

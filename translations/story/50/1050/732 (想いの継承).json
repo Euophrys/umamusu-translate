@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "5TEJEWOCS3OH4CNTEKWKJEKRAJ7YHHIU",
     "type": "story",
     "storyId": "501050732",
@@ -11,6 +11,17 @@
             "jpText": "……ん。",
             "enText": "…",
             "nextBlock": 2,
+            "origClipLength": 50,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -8025635385051062362
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 1924371294349631815
+                }
+            ],
             "pathId": -6815787190365099312,
             "blockIdx": 1
         },
@@ -20,6 +31,17 @@
             "jpText": "アタシ、なんで\r\nここに来たんだっけ……？",
             "enText": "Why did I come here, Atashi?…?",
             "nextBlock": 3,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -4056052328928018098
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 7887315888931184741
+                }
+            ],
             "pathId": 6562450788080058378,
             "blockIdx": 2
         },
@@ -29,8 +51,24 @@
             "jpText": "あ……三女神像……。",
             "enText": "あ… Three Goddesses Statue…",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -4611754641024857231
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 7603836244208151914
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 8859879451034808406
+                }
+            ],
             "pathId": 4384275893247112023,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945823
 }

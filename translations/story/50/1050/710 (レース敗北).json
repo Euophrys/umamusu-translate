@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "TMXPTLJNOO62W32ZCQID3EC7RBROJPMC",
     "type": "story",
     "storyId": "501050710",
@@ -11,6 +11,17 @@
             "jpText": "くっそ、負けた……！\r\nまたバカにされた……っ！",
             "enText": "Damn, I lost…! They made \nfun of me again…!",
             "nextBlock": 2,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -4429906061908457608
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5379114215989528582
+                }
+            ],
             "pathId": -4130620592959818080,
             "blockIdx": 1
         },
@@ -20,6 +31,7 @@
             "jpText": "『小さいと厳しい』とか『向いてない』とか、\r\nどいつもこいつも……！",
             "enText": "'Tough when you're small' or 'not cut out for \nit,' every single one of them…!",
             "nextBlock": 3,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "俺はタイシンの強さを信じてるぞ！",
@@ -40,6 +52,17 @@
                     "jpText": "悔しさをバネにトレーニングだよ！",
                     "enText": "I'm using my frustration as a \nspringboard for training!",
                     "nextBlock": 13
+                }
+            ],
+            "trainerGender": "m",
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": -3830767174644483194
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2140154015563651478
                 }
             ],
             "pathId": 6561110591128921587,
@@ -51,6 +74,7 @@
             "jpText": "『小さいと厳しい』とか『向いてない』とか、\r\nどいつもこいつも……！",
             "enText": "'Tough when you're small' or 'not cut out for \nit,' every single one of them…!",
             "nextBlock": 4,
+            "origClipLength": 89,
             "choices": [
                 {
                     "jpText": "俺はタイシンの強さを信じてるぞ！",
@@ -73,6 +97,17 @@
                     "nextBlock": 13
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 1251825440745794309
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1495084120253045221
+                }
+            ],
             "pathId": -4531133129954978241,
             "blockIdx": 3
         },
@@ -82,6 +117,7 @@
             "jpText": "は？\r\n同情なんていらないし！",
             "enText": "Huh? And I don't want your pity!",
             "nextBlock": 5,
+            "origClipLength": 64,
             "choices": [
                 {
                     "jpText": "同情じゃない！本当に信じてるんだ！",
@@ -94,6 +130,16 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -5281169448820401686
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 477120081751899725
+                }
+            ],
             "pathId": 1464891370707957658,
             "blockIdx": 4
         },
@@ -103,6 +149,17 @@
             "jpText": "じゃあ根拠もない励まし？",
             "enText": "So, baseless encouragement then?",
             "nextBlock": 6,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -9116133177861325130
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5617704937194753499
+                }
+            ],
             "pathId": 5968082719882788435,
             "blockIdx": 5
         },
@@ -112,6 +169,17 @@
             "jpText": "実際、こうして負けてんのに\r\n信じてる、信じてるってさ――",
             "enText": "She says she believes in me, she believes in \nme, when in fact, we're losing.",
             "nextBlock": 7,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 3355915609558116972
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -5125381840640783577
+                }
+            ],
             "pathId": -8598332563915369150,
             "blockIdx": 6
         },
@@ -121,11 +189,22 @@
             "jpText": "アタシは、そんなアンタが\r\n信じられないんだけど？",
             "enText": "I can't believe you are like that.",
             "nextBlock": 8,
+            "origClipLength": 77,
             "choices": [
                 {
                     "jpText": "じゃあその根拠を説明する！",
                     "enText": "Then I'll explain the rationale!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 528572529125472325
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 1255895026644529530
                 }
             ],
             "pathId": 3182898501126010477,
@@ -137,6 +216,17 @@
             "jpText": "信じられないというのなら、\r\n1つ1つ説明して証明するしかない。",
             "enText": "If you don't believe me, I have to \nexplain and prove one by one.",
             "nextBlock": 9,
+            "origClipLength": 86,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -4065324045152106354
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -5644746840477919311
+                }
+            ],
             "pathId": 2183956222682781605,
             "blockIdx": 8
         },
@@ -146,6 +236,17 @@
             "jpText": "末脚の強さはもちろん、激しい闘争心、\r\n決して諦めない心もナリタタイシンの強さだ。\n弱みを理解し、克服に努めるところも――",
             "enText": "Your strengths are — of course — your final \nspurt, but also your fierce fighting spirit \nand never-give-up attitude. You understand \nyour weaknesses and work to overco—",
             "nextBlock": 10,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 1803504322736865112
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -2335395235241791251
+                }
+            ],
             "pathId": -8515860160223587425,
             "blockIdx": 9
         },
@@ -155,11 +256,22 @@
             "jpText": "もういい！　ウザい！\r\nさすがにわかったからっ！",
             "enText": "Enough! You're annoying! I've \ngot it! I've got it!",
             "nextBlock": 11,
+            "origClipLength": 76,
             "choices": [
                 {
                     "jpText": "ならよかった！",
                     "enText": "Well, good!",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -3355059915550062506
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 7415724748314012114
                 }
             ],
             "pathId": 8228444192731240464,
@@ -171,6 +283,17 @@
             "jpText": "……次は勝つ。\r\nまためんどくさい目に遭いたくないし。",
             "enText": "…We'll win next time. I don't \nwant to get in trouble again.",
             "nextBlock": 12,
+            "origClipLength": 92,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -1032648049157534669
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 154159197691570674
+                }
+            ],
             "pathId": -1073388825228053190,
             "blockIdx": 11
         },
@@ -180,6 +303,17 @@
             "jpText": "理由はどうあれ、\r\nナリタタイシンの気分はやや向上したようだ。",
             "enText": "Whatever the reason, Narita Taishin's mood \nseems to have improved somewhat.",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 8303286899923715233
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 525732771186095925
+                }
+            ],
             "pathId": 6048466172595535346,
             "blockIdx": 12
         },
@@ -189,6 +323,17 @@
             "jpText": "言われるまでもないし！",
             "enText": "And I don't need to be told!",
             "nextBlock": 14,
+            "origClipLength": 59,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -8291482883174062091
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 5486787114334091013
+                }
+            ],
             "pathId": 430757836722663819,
             "blockIdx": 13
         },
@@ -198,6 +343,17 @@
             "jpText": "このままバカにされっぱなしなんて、\r\n冗談じゃない。",
             "enText": "I can't keep being made fun of like this.",
             "nextBlock": 15,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -6312691239684981150
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 418834094379569225
+                }
+            ],
             "pathId": -1086658294766349224,
             "blockIdx": 14
         },
@@ -207,6 +363,7 @@
             "jpText": "次こそ全員ブチ抜いて、\r\n1着でゴールしてやる……！",
             "enText": "Next time I'm going to beat them \nall and finish first…!",
             "nextBlock": 16,
+            "origClipLength": 78,
             "choices": [
                 {
                     "jpText": "その意気だ！",
@@ -219,6 +376,16 @@
                     "nextBlock": 16
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -6788489136279372553
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6455085800054336328
+                }
+            ],
             "pathId": -5936500571988219283,
             "blockIdx": 15
         },
@@ -228,11 +395,22 @@
             "jpText": "……。",
             "enText": "…",
             "nextBlock": 17,
+            "origClipLength": 48,
             "choices": [
                 {
                     "jpText": "な、何？",
                     "enText": "Hey, what?",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 489151010503368609
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -7941166051939801368
                 }
             ],
             "pathId": 6786048838628884149,
@@ -244,6 +422,17 @@
             "jpText": "なんかムカつく。\r\nアンタの思惑に乗ったみたい。",
             "enText": "I'm kind of pissed off. It's \nlike I'm on your bandwagon.",
             "nextBlock": 18,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -2470605064078199370
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 3692564356671050064
+                }
+            ],
             "pathId": 1371583069763653502,
             "blockIdx": 17
         },
@@ -253,6 +442,17 @@
             "jpText": "でも、はぁ……。\r\n勝つためにはそれしかないか。",
             "enText": "But, haha… Is that \nthe only way to win?",
             "nextBlock": 19,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -8334533441736985556
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -1054051986903127102
+                }
+            ],
             "pathId": 7208483992438616667,
             "blockIdx": 18
         },
@@ -262,6 +462,17 @@
             "jpText": "トレーニングメニュー、もっと厳しくして。\r\n……妥協は許さないから。",
             "enText": "Training menu, more rigorous… because \nI don't tolerate compromise.",
             "nextBlock": 20,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 8225818640344110651
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2503486292855208092
+                }
+            ],
             "pathId": 3967649230936131739,
             "blockIdx": 19
         },
@@ -271,8 +482,20 @@
             "jpText": "不満そうではあったが、\r\n彼女は次のレースに向けての決意を\n新たにしたようだった。",
             "enText": "Although she was not happy, she \nseemed to have renewed her determination \nfor the next race.",
             "nextBlock": -1,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 6148742431506655134
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7880803978544217521
+                }
+            ],
             "pathId": -5643516172123249890,
             "blockIdx": 20
         }
-    ]
+    ],
+    "modified": 1669945819
 }

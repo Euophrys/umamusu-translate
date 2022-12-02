@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "VWC5JC5ER62U4GTLB3NWLJAHBNUXAIEP",
     "type": "story",
     "storyId": "501061419",
@@ -11,10 +11,21 @@
             "jpText": "ＧＩレース『ホープフルステークス』で\r\n十分に結果を残したキングヘイローは、\nこのままクラシック三冠路線を進むと宣言。",
             "enText": "After finishing well in the Hopeful Stakes, \nKing Halo announced that she would \ncontinue on to the Classic Triple Crown.",
             "nextBlock": 2,
+            "origClipLength": 121,
             "coloredText": [
                 {
                     "jpText": "クラシック",
                     "enText": "Classic"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 133,
+                    "pathId": 3402245576385425301
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 2054219445541502575
                 }
             ],
             "pathId": -8873390586778364592,
@@ -26,6 +37,7 @@
             "jpText": "それは生涯で1度だけ挑める夢の舞台……。\r\n『皐月賞』『日本ダービー』『菊花賞』\nへと挑む、熾烈を極めるルートになる。",
             "enText": "It is a dream stage that can be challenged \nonly once in a lifetime…",
             "nextBlock": 3,
+            "origClipLength": 121,
             "coloredText": [
                 {
                     "jpText": "皐月賞",
@@ -40,6 +52,16 @@
                     "enText": "Kikka Sho"
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -812159820163759624
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 3529152701538053772
+                }
+            ],
             "pathId": 1702135682954699921,
             "blockIdx": 2
         },
@@ -49,8 +71,20 @@
             "jpText": "こうして、キングヘイローの次なる目標は\r\n三冠の初戦――『皐月賞』に決定した。",
             "enText": "Thus, King Halo's next target was \ndecided to be the first race of the \nTriple Crown, Satsuki-sho.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 4915865641557853825
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -5999896938459920425
+                }
+            ],
             "pathId": 2373873343490388164,
             "blockIdx": 3
         }
-    ]
+    ],
+    "modified": 1669945931
 }

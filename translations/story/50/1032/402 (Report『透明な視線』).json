@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "bundle": "MJ2MBX7IIOZGU2KSNYZABQH3ET552KK3",
     "type": "story",
     "storyId": "501032402",
@@ -11,6 +11,25 @@
             "jpText": "『日本ダービー』へ向けて、\r\nアグネスタキオンは珍しく真面目に\nトレーニングに勤しむ日々を送っていた。",
             "enText": "Agnes Tachyon had been training diligently\nfor the Japan Derby, which was a rare\noccasion for her.",
             "nextBlock": 2,
+            "origClipLength": 111,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 2881958283760830645
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -9057388705043146874
+                },
+                {
+                    "origLen": 165,
+                    "pathId": 4546978099306343694
+                },
+                {
+                    "origLen": 178,
+                    "pathId": -8267635970082820856
+                }
+            ],
             "pathId": -1639058879233735314,
             "blockIdx": 1
         },
@@ -20,10 +39,29 @@
             "jpText": "そんな中、マンハッタンカフェが彼女の\r\n走り方が変わっていることを指摘する。",
             "enText": "In the meantime, Manhattan Cafe pointed\nout that her running style was changing.",
             "nextBlock": 3,
+            "origClipLength": 94,
             "coloredText": [
                 {
                     "jpText": "マンハッタンカフェ",
                     "enText": "Manhattan Cafe"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -2784885328257723440
+                },
+                {
+                    "origLen": 145,
+                    "pathId": 3535521807789292236
+                },
+                {
+                    "origLen": 144,
+                    "pathId": -2878486967257627202
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -7145239096005665471
                 }
             ],
             "pathId": -1346423512798892635,
@@ -35,6 +73,26 @@
             "jpText": "トレーナーは変化した彼女の\r\n『走り方』について追求するが、\n上手くはぐらかされてしまう。",
             "enText": "The trainer pursues her about the\nchange in her \"running style\",\nbut she dodges it well.",
             "nextBlock": 4,
+            "origClipLength": 103,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 3872965380317195664
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -2953915538700967204
+                },
+                {
+                    "origLen": 144,
+                    "pathId": -2399361569673415695
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -2912241828823001178
+                }
+            ],
             "pathId": 4552167499960690412,
             "blockIdx": 3
         },
@@ -44,6 +102,26 @@
             "jpText": "不安や疑問は残るものの……\r\n初夏の大舞台にむけて動き出したのだった。",
             "enText": "Although there were still some concerns\nand doubts,… started to move towards\nthe big stage in early summer.",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -670312459509344207
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -3477908611413353046
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -5867358965473853321
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 3800230659974228144
+                }
+            ],
             "pathId": -8741564735129147445,
             "blockIdx": 4
         },
@@ -53,14 +131,35 @@
             "jpText": "さらにやる気がでないからと、彼女は\r\n出走するレースを『日本ダービー』から\n『NHKマイルC』へと変更するのだった。",
             "enText": "She changed her race from the Japan Derby\nto the NHK Mile C because she felt even\nmore unmotivated.",
             "nextBlock": -1,
+            "origClipLength": 120,
             "coloredText": [
                 {
                     "jpText": "NHKマイルC",
                     "enText": "NHK Mile C"
                 }
             ],
+            "trainerGender": "f",
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": -3281323301322467765
+                },
+                {
+                    "origLen": 160,
+                    "pathId": 8836580143551282214
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -3038500536509725748
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -2896443014176039111
+                }
+            ],
             "pathId": 6825255142910961973,
             "blockIdx": 5
         }
-    ]
+    ],
+    "modified": 1669945580
 }
