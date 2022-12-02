@@ -76,10 +76,10 @@ def convert(file):
                         next_choice_starts = branching_choices[0]['nextBlock']
 
                         if message['blockIdx'] < next_choice_starts - 1:
-                            output.write('\n\n # ALTERNATE ENDING #')
+                            output.write('\n\n# ALTERNATE ENDING #')
                         else:
                             choices_shown += 1
-                            output.write('\n\n # CHOICE %d #\nトレーナー: 「%s' % (choices_shown, branching_choices.pop(0)['jpText']))
+                            output.write('\n\n# CHOICE %d #\nトレーナー: 「%s' % (choices_shown, branching_choices.pop(0)['jpText']))
                             last_speaker = 'トレーナー'
 
 def condenseChoices(choices:list):
