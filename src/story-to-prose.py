@@ -27,12 +27,8 @@ def convert(file):
             last_speaker = 'none'
             branching_choices = []
             choices_shown = 1
-            skip_to = -1
 
             for message in data['text']:
-                if message['blockIdx'] < skip_to:
-                    continue
-
                 # just output female lines
                 if 'trainerGender' in message and message['trainerGender'] != args.gender:
                     continue
@@ -74,12 +70,17 @@ def convert(file):
                 if message['nextBlock'] == -1:
                     if not is_monologue(last_speaker):
                         output.write('」')
-                    
+                    last_speaker = ''
+
                     if len(branching_choices) > 0:
-                        choices_shown += 1
-                        skip_to = branching_choices[0]['nextBlock']
-                        output.write('\n\n # CHOICE %d #\nトレーナー: 「%s' % (choices_shown, branching_choices.pop(0)['jpText']))
-                        last_speaker = 'トレーナー'
+                        next_choice_starts = branching_choices[0]['nextBlock']
+
+                        if message['blockIdx'] < next_choice_starts - 1:
+                            output.write('\n\n # ALTERNATE ENDING #')
+                        else:
+                            choices_shown += 1
+                            output.write('\n\n # CHOICE %d #\nトレーナー: 「%s' % (choices_shown, branching_choices.pop(0)['jpText']))
+                            last_speaker = 'トレーナー'
 
 def condenseChoices(choices:list):
     present_numbers = set()
